@@ -1,0 +1,59 @@
+<image>
+  <image-id>2328935</image-id>
+  <coco-id>60196</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4142518</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2745131</subject>
+      <object>2745132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770106</relationship_id>
+      <predicate>hoisting</predicate>
+      <subject>3394510</subject>
+      <object>3394511</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>automobiles</name>
+      <h>47</h>
+      <object_id>2745131</object_id>
+      <w>83</w>
+      <y>76</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>lot</name>
+      <h>118</h>
+      <object_id>2745132</object_id>
+      <w>150</w>
+      <y>59</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>pole/lines</name>
+      <h>66</h>
+      <object_id>3394510</object_id>
+      <w>37</w>
+      <y>243</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>pole/lines</name>
+      <h>47</h>
+      <object_id>3394511</object_id>
+      <w>16</w>
+      <y>50</y>
+      <x>445</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An overhead view of a trainyard from a helicopter.</caption>
+      <caption>a train yard with one train on the tracks and cars not on tracks.</caption>
+      <caption>a couple of rail road tracks that are next to some train cars</caption>
+      <caption>Empty boxcars sit alongside the tracks at a train yard.</caption>
+      <caption>A busy trainyard with several trains passing through.</caption>
+    </captions>
+</image>

@@ -1,0 +1,143 @@
+<image>
+  <image-id>2398412</image-id>
+  <coco-id>523211</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4684595</relationship_id>
+      <predicate>meat in a</predicate>
+      <subject>4308070</subject>
+      <object>4308071</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689160</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4319324</subject>
+      <object>4319318</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689162</relationship_id>
+      <predicate>covered with</predicate>
+      <subject>4319318</subject>
+      <object>4319319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689164</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4319321</subject>
+      <object>4319324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689166</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4319323</subject>
+      <object>4319324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689168</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4319325</subject>
+      <object>4319324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684608</relationship_id>
+      <predicate>on paper</predicate>
+      <subject>4308114</subject>
+      <object>4308115</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>some</name>
+      <h>99</h>
+      <object_id>4308070</object_id>
+      <w>250</w>
+      <y>154</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>bun</name>
+      <h>79</h>
+      <object_id>4308071</object_id>
+      <w>111</w>
+      <y>296</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>310</h>
+      <object_id>4319324</object_id>
+      <w>395</w>
+      <y>59</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>358</h>
+      <object_id>4319318</object_id>
+      <w>499</w>
+      <y>17</y>
+      <x>1</x>
+      <name>basket</name>
+    </object>
+    <object>
+      <name>tissue paper</name>
+      <h>78</h>
+      <object_id>4319319</object_id>
+      <w>401</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>cheese</name>
+      <h>69</h>
+      <object_id>4319321</object_id>
+      <w>73</w>
+      <y>145</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>onions</name>
+      <h>71</h>
+      <object_id>4319323</object_id>
+      <w>71</w>
+      <y>140</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>pepper</name>
+      <h>63</h>
+      <object_id>4319325</object_id>
+      <w>77</w>
+      <y>307</y>
+      <x>332</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>golden</attribute>
+      </attributes>
+      <name>fries</name>
+      <h>90</h>
+      <object_id>4308114</object_id>
+      <w>110</w>
+      <y>3</y>
+      <x>388</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paper</attribute>
+      </attributes>
+      <name>tray</name>
+      <h>95</h>
+      <object_id>4308115</object_id>
+      <w>85</w>
+      <y>23</y>
+      <x>354</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A hot dog sitting on top of a bun covered in toppings.</caption>
+      <caption>Cooked food item with cheese and onions served in basket.</caption>
+      <caption>a hotdog with cheese and onions in a basket</caption>
+      <caption>A chili dog sits in a basket near french fries.</caption>
+      <caption>a large hot dog that has cheese on top of it</caption>
+    </captions>
+</image>

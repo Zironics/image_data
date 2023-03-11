@@ -1,0 +1,106 @@
+<image>
+  <image-id>2394647</image-id>
+  <coco-id>295745</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1036027</relationship_id>
+      <predicate>holds</predicate>
+      <subject>462241</subject>
+      <object>462249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1036028</relationship_id>
+      <predicate>holds</predicate>
+      <subject>462241</subject>
+      <object>462249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1036029</relationship_id>
+      <predicate>has</predicate>
+      <subject>462241</subject>
+      <object>462249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1036030</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>462251</subject>
+      <object>462252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1036031</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>462241</subject>
+      <object>462253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1036032</relationship_id>
+      <predicate>brushes</predicate>
+      <subject>462241</subject>
+      <object>462255</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>347</h>
+      <object_id>462241</object_id>
+      <w>342</w>
+      <y>27</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>portable</attribute>
+      </attributes>
+      <name>toothbrush</name>
+      <h>50</h>
+      <object_id>462249</object_id>
+      <w>46</w>
+      <y>131</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>toys</name>
+      <h>49</h>
+      <object_id>462251</object_id>
+      <w>48</w>
+      <y>220</y>
+      <x>439</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>81</h>
+      <object_id>462252</object_id>
+      <w>80</w>
+      <y>198</y>
+      <x>419</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>108</h>
+      <object_id>462253</object_id>
+      <w>498</w>
+      <y>263</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>teeth</name>
+      <h>9</h>
+      <object_id>462255</object_id>
+      <w>15</w>
+      <y>132</y>
+      <x>268</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in green shirt brushing teeth in a bed.</caption>
+      <caption>an image of a girl sitting on the bed</caption>
+      <caption>Lady sitting on the bed with a remote control up against her chin.</caption>
+      <caption>A person is sitting on a bed holding something to their mouth.</caption>
+      <caption>A beautiful woman sitting in a bed holding a tooth brush in her mouth.</caption>
+    </captions>
+</image>

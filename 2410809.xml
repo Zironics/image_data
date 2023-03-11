@@ -1,0 +1,83 @@
+<image>
+  <image-id>2410809</image-id>
+  <coco-id>534377</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3212593</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1085247</subject>
+      <object>1085248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212594</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1085247</subject>
+      <object>1085248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212595</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1085247</subject>
+      <object>1085248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212599</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1085247</subject>
+      <object>1085248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>649362</relationship_id>
+      <predicate>OF</predicate>
+      <subject>362213</subject>
+      <object>362214</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212636</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1085247</subject>
+      <object>1085248</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>46</h>
+      <object_id>1085247</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>46</h>
+      <object_id>1085248</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>126</h>
+      <object_id>362213</object_id>
+      <w>64</w>
+      <y>1</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>131</h>
+      <object_id>362214</object_id>
+      <w>127</w>
+      <y>3</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An empty park bench sitting in front of trees.</caption>
+      <caption>A bench sitting on a sidewalk in the green and beautiful grass. </caption>
+      <caption>The wooden bench is near a trail in the park.</caption>
+      <caption>A wooden bench sitting on top of a patch of land.</caption>
+      <caption>The bench is empty in the park outside.</caption>
+    </captions>
+</image>

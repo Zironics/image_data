@@ -1,0 +1,118 @@
+<image>
+  <image-id>2409648</image-id>
+  <coco-id>254479</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>248152</relationship_id>
+      <predicate>facing</predicate>
+      <subject>237125</subject>
+      <object>237127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>248153</relationship_id>
+      <predicate>climbing</predicate>
+      <subject>237125</subject>
+      <object>237127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>248154</relationship_id>
+      <predicate>climbing</predicate>
+      <subject>237125</subject>
+      <object>237127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>248155</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>237125</subject>
+      <object>237138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>248156</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>237125</subject>
+      <object>237138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>248157</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>237147</subject>
+      <object>237130</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>on branch</attribute>
+        <attribute>like a bear</attribute>
+        <attribute>frowning</attribute>
+        <attribute>black</attribute>
+        <attribute>in a zoo</attribute>
+        <attribute>between tree trunks</attribute>
+        <attribute>in tree</attribute>
+        <attribute>young</attribute>
+        <attribute>on tree</attribute>
+      </attributes>
+      <name>animal</name>
+      <h>454</h>
+      <object_id>237125</object_id>
+      <w>211</w>
+      <y>43</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thick</attribute>
+        <attribute>solid</attribute>
+        <attribute>light brown</attribute>
+      </attributes>
+      <name>tree trunk</name>
+      <h>498</h>
+      <object_id>237127</object_id>
+      <w>114</w>
+      <y>1</y>
+      <x>260</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on face</attribute>
+      </attributes>
+      <name>expression</name>
+      <h>58</h>
+      <object_id>237138</object_id>
+      <w>67</w>
+      <y>48</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>sunlight</name>
+      <h>73</h>
+      <object_id>237147</object_id>
+      <w>274</w>
+      <y>1</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rocky</attribute>
+        <attribute>behind</attribute>
+        <attribute>large</attribute>
+        <attribute>behind sloth</attribute>
+        <attribute>gray</attribute>
+        <attribute>in background</attribute>
+      </attributes>
+      <name>rocks</name>
+      <h>295</h>
+      <object_id>237130</object_id>
+      <w>275</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a little bear standing between a couple of tree branches</caption>
+      <caption>A baby bear sits in the branches of a tree. </caption>
+      <caption>An animal that is climbing up a tree.</caption>
+      <caption>A sun bear sitting in the elbow of a tree.</caption>
+      <caption>A small animal is climbing up a tree.</caption>
+    </captions>
+</image>

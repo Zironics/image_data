@@ -1,0 +1,95 @@
+<image>
+  <image-id>2391108</image-id>
+  <coco-id>96517</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3451893</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1243774</subject>
+      <object>1243775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3451894</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1243781</subject>
+      <object>1243782</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3451895</relationship_id>
+      <predicate>has</predicate>
+      <subject>1243774</subject>
+      <object>1243776</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3451896</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1243774</subject>
+      <object>1243775</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lying</attribute>
+        <attribute>laying</attribute>
+        <attribute>striped</attribute>
+        <attribute>black</attribute>
+        <attribute>calico</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>105</h>
+      <object_id>1243774</object_id>
+      <w>344</w>
+      <y>146</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>luggage</attribute>
+      </attributes>
+      <name>suitcase</name>
+      <h>251</h>
+      <object_id>1243775</object_id>
+      <w>498</w>
+      <y>123</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>lock</name>
+      <h>15</h>
+      <object_id>1243781</object_id>
+      <w>21</w>
+      <y>0</y>
+      <x>469</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>157</h>
+      <object_id>1243782</object_id>
+      <w>27</w>
+      <y>3</y>
+      <x>473</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>pointy</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>46</h>
+      <object_id>1243776</object_id>
+      <w>36</w>
+      <y>146</y>
+      <x>137</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat sitting in a blue and white bag. </caption>
+      <caption>a cat laying in an empty suitcase </caption>
+      <caption>A cat laying on top of a cat bed near a plastic bag.</caption>
+      <caption>A cat lounges in a travel case. </caption>
+      <caption>A cat squinting its eyes inside a suitcase </caption>
+    </captions>
+</image>

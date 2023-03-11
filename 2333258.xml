@@ -1,0 +1,86 @@
+<image>
+  <image-id>2333258</image-id>
+  <coco-id>226376</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4024449</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3483527</subject>
+      <object>3219295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4024456</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3209850</subject>
+      <object>3483528</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4024455</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3483527</subject>
+      <object>3209850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053816</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3483527</subject>
+      <object>3209850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4024464</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3483527</subject>
+      <object>3209850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4455788</relationship_id>
+      <predicate>enjoying</predicate>
+      <subject>3483527</subject>
+      <object>3209850</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>375</h>
+      <object_id>3483527</object_id>
+      <w>266</w>
+      <y>0</y>
+      <x>234</x>
+      <name>girl</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>200</h>
+      <object_id>3219295</object_id>
+      <w>202</w>
+      <y>116</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>270</h>
+      <object_id>3209850</object_id>
+      <w>189</w>
+      <y>101</y>
+      <x>286</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>110</h>
+      <object_id>3483528</object_id>
+      <w>52</w>
+      <y>161</y>
+      <x>322</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person holding up a gray tiger cat.</caption>
+      <caption>A woman holding a grey kitty in a house.</caption>
+      <caption>A teenage girl holds up her calico cat</caption>
+      <caption>The woman is holding her cat by the door.</caption>
+      <caption>A woman is holding a gray kitten near a bathroom.</caption>
+    </captions>
+</image>

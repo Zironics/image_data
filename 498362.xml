@@ -1,0 +1,76 @@
+<image>
+  <image-id>498362</image-id>
+  <coco-id>465862</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3953770</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1576006</subject>
+      <object>3658312</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3953773</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1576011</subject>
+      <object>1576011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3953774</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3658316</subject>
+      <object>1576012</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red bucket</name>
+      <h>111</h>
+      <object_id>1576006</object_id>
+      <w>112</w>
+      <y>614</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>35</h>
+      <object_id>3658312</object_id>
+      <w>74</w>
+      <y>621</y>
+      <x>343</x>
+    </object>
+    <object>
+      <h>82</h>
+      <object_id>1576011</object_id>
+      <w>110</w>
+      <y>570</y>
+      <x>871</x>
+      <name>bananas</name>
+    </object>
+    <object>
+      <name>bunch</name>
+      <h>68</h>
+      <object_id>3658316</object_id>
+      <w>113</w>
+      <y>372</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>87</h>
+      <object_id>1576012</object_id>
+      <w>90</w>
+      <y>413</y>
+      <x>873</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing in an isle at a farmers market.</caption>
+      <caption>People shopping at a farmer's market for fresh food. </caption>
+      <caption>A very large farmers market with customers waiting for samples.</caption>
+      <caption>THERE IS A LARGE FRUIT STAND AT THE OPEN MARKET</caption>
+      <caption>Customers purchasing produce in an open farmer's market.</caption>
+    </captions>
+</image>

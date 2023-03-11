@@ -1,0 +1,66 @@
+<image>
+  <image-id>2370382</image-id>
+  <coco-id>214273</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1543091</relationship_id>
+      <predicate>IN</predicate>
+      <subject>604590</subject>
+      <object>604591</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1543092</relationship_id>
+      <predicate>and</predicate>
+      <subject>604586</subject>
+      <object>604599</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lone</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>skyscraper</name>
+      <h>63</h>
+      <object_id>604590</object_id>
+      <w>65</w>
+      <y>15</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>139</h>
+      <object_id>604591</object_id>
+      <w>216</w>
+      <y>8</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>58</h>
+      <object_id>604586</object_id>
+      <w>85</w>
+      <y>422</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>59</h>
+      <object_id>604599</object_id>
+      <w>62</w>
+      <y>370</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toilet that is by a road in the day.</caption>
+      <caption>A white toilet sitting beside a city street.</caption>
+      <caption>a used toilet sitting out at the curb</caption>
+      <caption>A white toilet sitting next to a street.</caption>
+      <caption>A toilet seat on the footpath at the side of the road.</caption>
+    </captions>
+</image>

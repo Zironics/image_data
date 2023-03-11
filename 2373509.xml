@@ -1,0 +1,202 @@
+<image>
+  <image-id>2373509</image-id>
+  <coco-id>64499</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1975852</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975853</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975854</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975855</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975856</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975857</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975858</relationship_id>
+      <predicate>has</predicate>
+      <subject>731959</subject>
+      <object>731961</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975859</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975860</relationship_id>
+      <predicate>has an</predicate>
+      <subject>731959</subject>
+      <object>731962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975861</relationship_id>
+      <predicate>has</predicate>
+      <subject>731959</subject>
+      <object>731972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975862</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731973</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975863</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975864</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975865</relationship_id>
+      <predicate>has a</predicate>
+      <subject>731959</subject>
+      <object>731961</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975866</relationship_id>
+      <predicate>has</predicate>
+      <subject>731959</subject>
+      <object>731972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1975867</relationship_id>
+      <predicate>has</predicate>
+      <subject>731967</subject>
+      <object>731966</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>standing</attribute>
+        <attribute>eating</attribute>
+        <attribute>looking</attribute>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>242</h>
+      <object_id>731959</object_id>
+      <w>287</w>
+      <y>124</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>121</h>
+      <object_id>731960</object_id>
+      <w>25</w>
+      <y>244</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>84</h>
+      <object_id>731961</object_id>
+      <w>35</w>
+      <y>156</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>31</h>
+      <object_id>731962</object_id>
+      <w>29</w>
+      <y>124</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>109</h>
+      <object_id>731972</object_id>
+      <w>192</w>
+      <y>249</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>122</h>
+      <object_id>731973</object_id>
+      <w>70</w>
+      <y>121</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>snout</name>
+      <h>52</h>
+      <object_id>731974</object_id>
+      <w>23</w>
+      <y>191</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>321</h>
+      <object_id>731967</object_id>
+      <w>212</w>
+      <y>1</y>
+      <x>285</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bricks</name>
+      <h>31</h>
+      <object_id>731966</object_id>
+      <w>32</w>
+      <y>319</y>
+      <x>294</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Thin-striped zebras huddle near the wall of their zoo enclosure</caption>
+      <caption>Two zebras are standing in the shade of a building</caption>
+      <caption>two zebra standing on a sidewalk next to a wall</caption>
+      <caption>Two zebras stand on concrete in the shade. </caption>
+      <caption>Zebras munch on feed in a brick and stucco structure.</caption>
+    </captions>
+</image>

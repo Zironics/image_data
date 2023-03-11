@@ -1,0 +1,87 @@
+<image>
+  <image-id>2338136</image-id>
+  <coco-id>313480</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4067150</relationship_id>
+      <predicate>by</predicate>
+      <subject>3125991</subject>
+      <object>3125992</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067151</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3068831</subject>
+      <object>3703091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067152</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3307146</subject>
+      <object>3307147</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bushes</name>
+      <h>301</h>
+      <object_id>3125991</object_id>
+      <w>125</w>
+      <y>30</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>167</h>
+      <object_id>3125992</object_id>
+      <w>193</w>
+      <y>138</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>101</h>
+      <object_id>3068831</object_id>
+      <w>191</w>
+      <y>210</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>glasses</name>
+      <h>8</h>
+      <object_id>3703091</object_id>
+      <w>16</w>
+      <y>213</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>34</h>
+      <object_id>3307146</object_id>
+      <w>129</w>
+      <y>294</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>35</h>
+      <object_id>3307147</object_id>
+      <w>89</w>
+      <y>291</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The person is paddling a boat full of people down a narrow river.</caption>
+      <caption>A group of people on a boat on a river</caption>
+      <caption>A group of people is riding a boat on the water.</caption>
+      <caption>A crowd of people sitting in a boat with paddles traveling down a river.</caption>
+      <caption>A group of people in a boat in a river </caption>
+    </captions>
+</image>

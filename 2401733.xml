@@ -1,0 +1,103 @@
+<image>
+  <image-id>2401733</image-id>
+  <coco-id>484722</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>810770</relationship_id>
+      <predicate>IN</predicate>
+      <subject>396478</subject>
+      <object>396479</object>
+    </relationship>
+    <relationship>
+      <relationship_id>810771</relationship_id>
+      <predicate>doing</predicate>
+      <subject>396478</subject>
+      <object>396480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287053</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1144774</subject>
+      <object>1144775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287061</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1144774</subject>
+      <object>1144775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>810820</relationship_id>
+      <predicate>IN</predicate>
+      <subject>396478</subject>
+      <object>396479</object>
+    </relationship>
+    <relationship>
+      <relationship_id>810821</relationship_id>
+      <predicate>doing</predicate>
+      <subject>396478</subject>
+      <object>396480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287073</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1144774</subject>
+      <object>1144775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287077</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1144774</subject>
+      <object>1144775</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>64</h>
+      <object_id>396478</object_id>
+      <w>63</w>
+      <y>88</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>154</h>
+      <object_id>396479</object_id>
+      <w>334</w>
+      <y>8</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>flip</name>
+      <h>124</h>
+      <object_id>396480</object_id>
+      <w>72</w>
+      <y>30</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>41</h>
+      <object_id>1144774</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>41</h>
+      <object_id>1144775</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>155</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man flying through the air on a snow covered slope.</caption>
+      <caption>A person wearing skis doing a flip in the air.</caption>
+      <caption>a person on skis performs a trick in the air </caption>
+      <caption>A person skiing on a snowy mountain doing a jump. </caption>
+      <caption>A skier is performing an advanced trick on a slope</caption>
+    </captions>
+</image>

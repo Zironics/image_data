@@ -1,0 +1,51 @@
+<image>
+  <image-id>2394219</image-id>
+  <coco-id>75881</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4731414</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4419667</subject>
+      <object>4419693</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4731428</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4419692</subject>
+      <object>4419693</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tail</name>
+      <h>38</h>
+      <object_id>4419667</object_id>
+      <w>40</w>
+      <y>144</y>
+      <x>222</x>
+    </object>
+    <object>
+      <h>205</h>
+      <object_id>4419693</object_id>
+      <w>165</w>
+      <y>99</y>
+      <x>136</x>
+      <name>baby zebra</name>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>17</h>
+      <object_id>4419692</object_id>
+      <w>20</w>
+      <y>122</y>
+      <x>159</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An adult and baby zebra standing in the grass.</caption>
+      <caption>A zebra standing on top of a grass covered dirt field.</caption>
+      <caption>A zebra and foal are standing on the ground.</caption>
+      <caption>A mother zebra stands next to a baby zebra and flicks its tail. </caption>
+      <caption>a zebra standing outside with its baby </caption>
+    </captions>
+</image>

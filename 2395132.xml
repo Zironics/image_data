@@ -1,0 +1,86 @@
+<image>
+  <image-id>2395132</image-id>
+  <coco-id>429807</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3391178</relationship_id>
+      <predicate>with</predicate>
+      <subject>1207722</subject>
+      <object>1207723</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3391179</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1207722</subject>
+      <object>1207733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289201</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1207732</subject>
+      <object>3823506</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>cooking</attribute>
+        <attribute>cutting</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>279</h>
+      <object_id>1207722</object_id>
+      <w>114</w>
+      <y>147</y>
+      <x>91</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blonde</attribute>
+        <attribute>short</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>23</h>
+      <object_id>1207723</object_id>
+      <w>38</w>
+      <y>151</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>14</h>
+      <object_id>1207733</object_id>
+      <w>18</w>
+      <y>244</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>preparing</attribute>
+        <attribute>cooking</attribute>
+      </attributes>
+      <name>food</name>
+      <h>25</h>
+      <object_id>1207732</object_id>
+      <w>51</w>
+      <y>246</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>212</h>
+      <object_id>3823506</object_id>
+      <w>132</w>
+      <y>211</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman is in the kitchen and cooking. </caption>
+      <caption>A WOMAN IS IN HER KITCHEN COOKING A MEAL</caption>
+      <caption>A woman cooking on a stove in a small kitchen </caption>
+      <caption>There is a person cooking in the stove </caption>
+      <caption>A pretty young lady preparing food in a kitchen.</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>498299</image-id>
+  <coco-id>341678</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4733366</relationship_id>
+      <predicate>has</predicate>
+      <subject>4424518</subject>
+      <object>4424517</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tennis player</name>
+      <h>525</h>
+      <object_id>4424518</object_id>
+      <w>383</w>
+      <y>253</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>165</h>
+      <object_id>4424517</object_id>
+      <w>383</w>
+      <y>591</y>
+      <x>295</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on a tennis court holding a tennis racket hitting a tennis ball.</caption>
+      <caption>A man standing on a tennis court hitting a ball with a racquet.</caption>
+      <caption>a man holding a tennis racquet on a tennis court</caption>
+      <caption>A man hitting a tennis ball from his side of the court.</caption>
+      <caption>Guy taps the ball, on his side of the tennis court, to send to the other side</caption>
+    </captions>
+</image>

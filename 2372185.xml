@@ -1,0 +1,106 @@
+<image>
+  <image-id>2372185</image-id>
+  <coco-id>195265</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4154758</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2291999</subject>
+      <object>2292000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4314946</relationship_id>
+      <predicate>has</predicate>
+      <subject>2156082</subject>
+      <object>2156083</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154759</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>1783781</subject>
+      <object>1783782</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154760</relationship_id>
+      <predicate>above</predicate>
+      <subject>2562926</subject>
+      <object>2562927</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>candle holder</name>
+      <h>64</h>
+      <object_id>2291999</object_id>
+      <w>25</w>
+      <y>110</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>470</h>
+      <object_id>2292000</object_id>
+      <w>258</w>
+      <y>28</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>30</h>
+      <object_id>2156082</object_id>
+      <w>27</w>
+      <y>220</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>oil</name>
+      <h>8</h>
+      <object_id>2156083</object_id>
+      <w>12</w>
+      <y>242</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>76</h>
+      <object_id>1783781</object_id>
+      <w>165</w>
+      <y>357</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>218</h>
+      <object_id>1783782</object_id>
+      <w>78</w>
+      <y>86</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>wallpaper</name>
+      <h>155</h>
+      <object_id>2562926</object_id>
+      <w>184</w>
+      <y>21</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>tile</name>
+      <h>10</h>
+      <object_id>2562927</object_id>
+      <w>20</w>
+      <y>175</y>
+      <x>183</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small bathroom filled with a sink next to a window.</caption>
+      <caption>A dated bathroom looks elegant with the right touch of color and lighting.</caption>
+      <caption>A small quaint bathroom dimly lit with a radiator heater.</caption>
+      <caption>The light over the bathroom sink are on.</caption>
+      <caption>A pedestal sink and radiator in a small bathroom. </caption>
+    </captions>
+</image>

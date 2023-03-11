@@ -1,0 +1,57 @@
+<image>
+  <image-id>1593167</image-id>
+  <coco-id>148002</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4091058</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3496025</subject>
+      <object>1715924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091059</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3712475</subject>
+      <object>1715924</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>43</h>
+      <object_id>3496025</object_id>
+      <w>95</w>
+      <y>550</y>
+      <x>460</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>473</h>
+      <object_id>1715924</object_id>
+      <w>1015</w>
+      <y>289</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dirt</name>
+      <h>303</h>
+      <object_id>3712475</object_id>
+      <w>376</w>
+      <y>344</y>
+      <x>13</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three giraffe standing next to a brown stone building.</caption>
+      <caption>Three captive giraffes just standing around an old stable as their picture is taken. </caption>
+      <caption>Three giraffes are standing next to each other.</caption>
+      <caption>Three giraffe stand in their enclosure next to a building. </caption>
+      <caption>Three giraffes stand in a row in a pen.</caption>
+    </captions>
+</image>

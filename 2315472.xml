@@ -1,0 +1,96 @@
+<image>
+  <image-id>2315472</image-id>
+  <coco-id>313420</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3871278</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2795282</subject>
+      <object>2795283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3871280</relationship_id>
+      <predicate>has</predicate>
+      <subject>3625426</subject>
+      <object>3625427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3871286</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>2840251</subject>
+      <object>3625435</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>teddy bear</name>
+      <h>419</h>
+      <object_id>2795282</object_id>
+      <w>257</w>
+      <y>66</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>moose</name>
+      <h>115</h>
+      <object_id>2795283</object_id>
+      <w>232</w>
+      <y>382</y>
+      <x>118</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>431</h>
+      <object_id>3625426</object_id>
+      <w>259</w>
+      <y>56</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>face</name>
+      <h>108</h>
+      <object_id>3625427</object_id>
+      <w>104</w>
+      <y>122</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white tag</name>
+      <h>33</h>
+      <object_id>2840251</object_id>
+      <w>29</w>
+      <y>115</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>36</h>
+      <object_id>3625435</object_id>
+      <w>51</w>
+      <y>91</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large black bear sitting on to of a stuffed animal.</caption>
+      <caption>THERE IS A STUFF BEAR ON THE WALL.</caption>
+      <caption>The bear is hanging in the corner of the room.</caption>
+      <caption>A large black teddy bear is in the corner.</caption>
+      <caption>a black and yellow teddy bear hanging on a wall</caption>
+    </captions>
+</image>

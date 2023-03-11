@@ -1,0 +1,107 @@
+<image>
+  <image-id>2402134</image-id>
+  <coco-id>315195</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>793787</relationship_id>
+      <predicate>next to</predicate>
+      <subject>392413</subject>
+      <object>392414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>793788</relationship_id>
+      <predicate>under</predicate>
+      <subject>392417</subject>
+      <object>392409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>793789</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>392420</subject>
+      <object>392411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>793790</relationship_id>
+      <predicate>IN</predicate>
+      <subject>392422</subject>
+      <object>392413</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>184</h>
+      <object_id>392413</object_id>
+      <w>499</w>
+      <y>190</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>124</h>
+      <object_id>392414</object_id>
+      <w>136</w>
+      <y>250</y>
+      <x>363</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>65</h>
+      <object_id>392417</object_id>
+      <w>23</w>
+      <y>101</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>canvas</name>
+      <h>38</h>
+      <object_id>392409</object_id>
+      <w>80</w>
+      <y>61</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>19</h>
+      <object_id>392420</object_id>
+      <w>32</w>
+      <y>337</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>cone</name>
+      <h>62</h>
+      <object_id>392411</object_id>
+      <w>47</w>
+      <y>272</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>12</h>
+      <object_id>392422</object_id>
+      <w>8</w>
+      <y>295</y>
+      <x>144</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are running through the water spraying from a fire hydrant.</caption>
+      <caption>marathon runners running through a water sprayer  to cool off</caption>
+      <caption>A group of people running and being sprayed by a fire hydrant.</caption>
+      <caption>A group of people playing in front of an open fire hydrant.</caption>
+      <caption>Fire hydrants along the marathon route keep the runners cooled down.</caption>
+    </captions>
+</image>

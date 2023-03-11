@@ -1,0 +1,84 @@
+<image>
+  <image-id>2362787</image-id>
+  <coco-id>344255</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2107501</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>771112</subject>
+      <object>771113</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2107502</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>771112</subject>
+      <object>771114</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2107503</relationship_id>
+      <predicate>ON</predicate>
+      <subject>771112</subject>
+      <object>771111</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>looking</attribute>
+        <attribute>bent</attribute>
+        <attribute>smiling</attribute>
+        <attribute>swinging</attribute>
+        <attribute>holding</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>269</h>
+      <object_id>771112</object_id>
+      <w>132</w>
+      <y>46</y>
+      <x>110</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>top</name>
+      <h>68</h>
+      <object_id>771113</object_id>
+      <w>46</w>
+      <y>257</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wristband</name>
+      <h>14</h>
+      <object_id>771114</object_id>
+      <w>30</w>
+      <y>232</y>
+      <x>213</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>racquet</name>
+      <h>123</h>
+      <object_id>771111</object_id>
+      <w>121</w>
+      <y>8</y>
+      <x>310</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a girl in a black shirt is playing tennis</caption>
+      <caption>A beautiful young woman holding a tennis racquet on a tennis court.</caption>
+      <caption>smiling young tennis player in black top swings </caption>
+      <caption>A female tennis player has a questioning look as she returns a hit.</caption>
+      <caption>A person that is playing in a tennis game.</caption>
+    </captions>
+</image>

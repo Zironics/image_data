@@ -1,0 +1,308 @@
+<image>
+  <image-id>2339640</image-id>
+  <coco-id>269419</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4606990</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4112270</subject>
+      <object>4114414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4607812</relationship_id>
+      <predicate>leading to</predicate>
+      <subject>4114413</subject>
+      <object>4114414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793753</relationship_id>
+      <predicate>coming from</predicate>
+      <subject>4582847</subject>
+      <object>4582848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793754</relationship_id>
+      <predicate>has</predicate>
+      <subject>4582852</subject>
+      <object>4582853</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793755</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4582852</subject>
+      <object>4582855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793756</relationship_id>
+      <predicate>are on a</predicate>
+      <subject>4582856</subject>
+      <object>4582857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793757</relationship_id>
+      <predicate>have</predicate>
+      <subject>4582858</subject>
+      <object>4582859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793758</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4582861</subject>
+      <object>4582862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793759</relationship_id>
+      <predicate>beside a</predicate>
+      <subject>4582864</subject>
+      <object>4582863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793760</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>4582865</subject>
+      <object>4582861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793761</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>4582852</subject>
+      <object>4582861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793762</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4582870</subject>
+      <object>4582861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793763</relationship_id>
+      <predicate>has an</predicate>
+      <subject>4582861</subject>
+      <object>4582872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793764</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4582852</subject>
+      <object>4582874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793765</relationship_id>
+      <predicate>near a</predicate>
+      <subject>4582877</subject>
+      <object>4582861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793766</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4582881</subject>
+      <object>4582861</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>31</h>
+      <object_id>4112270</object_id>
+      <w>55</w>
+      <y>11</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>497</h>
+      <object_id>4114414</object_id>
+      <w>190</w>
+      <y>1</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>65</h>
+      <object_id>4114413</object_id>
+      <w>16</w>
+      <y>433</y>
+      <x>329</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>light</name>
+      <h>36</h>
+      <object_id>4582847</object_id>
+      <w>50</w>
+      <y>10</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>488</h>
+      <object_id>4582848</object_id>
+      <w>163</w>
+      <y>0</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>28</h>
+      <object_id>4582852</object_id>
+      <w>40</w>
+      <y>81</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>roman numerals</name>
+      <h>16</h>
+      <object_id>4582853</object_id>
+      <w>9</w>
+      <y>87</y>
+      <x>233</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>404</h>
+      <object_id>4582855</object_id>
+      <w>147</w>
+      <y>4</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>31</h>
+      <object_id>4582856</object_id>
+      <w>37</w>
+      <y>425</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>light pole</name>
+      <h>36</h>
+      <object_id>4582857</object_id>
+      <w>22</w>
+      <y>392</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>light poles</name>
+      <h>90</h>
+      <object_id>4582858</object_id>
+      <w>44</w>
+      <y>393</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>24</h>
+      <object_id>4582859</object_id>
+      <w>40</w>
+      <y>428</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>clock tower</name>
+      <h>179</h>
+      <object_id>4582861</object_id>
+      <w>115</w>
+      <y>6</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>stone base</name>
+      <h>82</h>
+      <object_id>4582862</object_id>
+      <w>154</w>
+      <y>416</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>346</h>
+      <object_id>4582864</object_id>
+      <w>162</w>
+      <y>52</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>clock tower</name>
+      <h>424</h>
+      <object_id>4582863</object_id>
+      <w>145</w>
+      <y>11</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>clock face</name>
+      <h>38</h>
+      <object_id>4582865</object_id>
+      <w>15</w>
+      <y>98</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>light</name>
+      <h>14</h>
+      <object_id>4582870</object_id>
+      <w>8</w>
+      <y>23</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>entry door</name>
+      <h>64</h>
+      <object_id>4582872</object_id>
+      <w>25</w>
+      <y>434</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>493</h>
+      <object_id>4582874</object_id>
+      <w>169</w>
+      <y>4</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>41</h>
+      <object_id>4582877</object_id>
+      <w>25</w>
+      <y>387</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>30</h>
+      <object_id>4582881</object_id>
+      <w>16</w>
+      <y>247</y>
+      <x>296</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a tall monument with clocks on all four sides</caption>
+      <caption>A tall clock tower with the light lit at dusk.</caption>
+      <caption>Tall clock tower framed by trees and viewed from ground level.</caption>
+      <caption>A clock tower reaches us into the sky.</caption>
+      <caption>Large clock lit on the side of a concrete tower. </caption>
+    </captions>
+</image>

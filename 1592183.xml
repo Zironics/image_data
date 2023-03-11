@@ -1,0 +1,68 @@
+<image>
+  <image-id>1592183</image-id>
+  <coco-id>24259</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4081014</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>1607076</subject>
+      <object>1607077</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081016</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1607080</subject>
+      <object>1607079</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081017</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1607080</subject>
+      <object>1607080</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>141</h>
+      <object_id>1607076</object_id>
+      <w>83</w>
+      <y>355</y>
+      <x>664</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>bike</name>
+      <h>228</h>
+      <object_id>1607077</object_id>
+      <w>114</w>
+      <y>446</y>
+      <x>634</x>
+    </object>
+    <object>
+      <h>455</h>
+      <object_id>1607080</object_id>
+      <w>224</w>
+      <y>0</y>
+      <x>365</x>
+      <name>wall</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>330</h>
+      <object_id>1607079</object_id>
+      <w>171</w>
+      <y>38</y>
+      <x>376</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl rides her bike down a busy street.</caption>
+      <caption>A bicyclist peddling down a busy city street.</caption>
+      <caption>a person riding a bike on a city street</caption>
+      <caption>A woman riding a bicycle down a street by traffic.</caption>
+      <caption>A lone biker travels the streets amongst cars and a UPS truck.</caption>
+    </captions>
+</image>

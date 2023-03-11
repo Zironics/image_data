@@ -1,0 +1,96 @@
+<image>
+  <image-id>2417759</image-id>
+  <coco-id>88609</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4244222</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3786490</subject>
+      <object>3373268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3718554</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3373268</subject>
+      <object>2865478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3718555</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3373268</subject>
+      <object>3373269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3709923</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3556103</subject>
+      <object>3243097</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>snowman</name>
+      <h>24</h>
+      <object_id>3786490</object_id>
+      <w>40</w>
+      <y>327</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>303</h>
+      <object_id>3373268</object_id>
+      <w>449</w>
+      <y>70</y>
+      <x>0</x>
+      <name>table cloth</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>snowman</name>
+      <h>40</h>
+      <object_id>2865478</object_id>
+      <w>59</w>
+      <y>295</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>snowman</name>
+      <h>27</h>
+      <object_id>3373269</object_id>
+      <w>54</w>
+      <y>301</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>head</name>
+      <h>140</h>
+      <object_id>3556103</object_id>
+      <w>145</w>
+      <y>20</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>baby</name>
+      <h>277</h>
+      <object_id>3243097</object_id>
+      <w>202</w>
+      <y>28</y>
+      <x>245</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy sitting at a table eating a doughnut.</caption>
+      <caption>A boy sitting at a dining room table eating a chocolate donut.</caption>
+      <caption>A little boy wearing a bib eating a doughnut.</caption>
+      <caption>A young boy sitting at a kitchen table and eating a doughnut.</caption>
+      <caption>A boy with a bib is eating at a table.</caption>
+    </captions>
+</image>

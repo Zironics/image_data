@@ -1,0 +1,101 @@
+<image>
+  <image-id>2372330</image-id>
+  <coco-id>558213</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4152452</relationship_id>
+      <predicate>rides</predicate>
+      <subject>1701447</subject>
+      <object>3734820</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4314605</relationship_id>
+      <predicate>leans against</predicate>
+      <subject>3853000</subject>
+      <object>1835264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4314606</relationship_id>
+      <predicate>on tilted</predicate>
+      <subject>1701447</subject>
+      <object>1701448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4314607</relationship_id>
+      <predicate>on</predicate>
+      <subject>2212936</subject>
+      <object>3853001</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>110</h>
+      <object_id>1701447</object_id>
+      <w>47</w>
+      <y>168</y>
+      <x>199</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>19</h>
+      <object_id>3734820</object_id>
+      <w>49</w>
+      <y>266</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>leans</attribute>
+      </attributes>
+      <name>bicycle</name>
+      <h>27</h>
+      <object_id>3853000</object_id>
+      <w>42</w>
+      <y>219</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>97</h>
+      <object_id>1835264</object_id>
+      <w>497</w>
+      <y>157</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>20</h>
+      <object_id>1701448</object_id>
+      <w>52</w>
+      <y>264</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>words</name>
+      <h>33</h>
+      <object_id>2212936</object_id>
+      <w>67</w>
+      <y>186</y>
+      <x>403</x>
+    </object>
+    <object>
+      <name>tank</name>
+      <h>57</h>
+      <object_id>3853001</object_id>
+      <w>62</w>
+      <y>183</y>
+      <x>407</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A skateboarder doing a trick in a yard surrounded by a chain fence.</caption>
+      <caption>A man in black shirt doing a trick on a skateboard.</caption>
+      <caption>a male skateboarder in a black shirt some dirt </caption>
+      <caption>A man standing on a skateboard near a ramp. </caption>
+      <caption>a man that is on a skateboard in the dirt</caption>
+    </captions>
+</image>

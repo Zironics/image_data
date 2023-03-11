@@ -1,0 +1,87 @@
+<image>
+  <image-id>2417335</image-id>
+  <coco-id>128327</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3709989</relationship_id>
+      <predicate>facing</predicate>
+      <subject>3000989</subject>
+      <object>2776904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255627</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3106549</subject>
+      <object>2866892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255628</relationship_id>
+      <predicate>by</predicate>
+      <subject>3360238</subject>
+      <object>2866892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255629</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2866891</subject>
+      <object>2866892</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chair</name>
+      <h>497</h>
+      <object_id>3000989</object_id>
+      <w>415</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>monitors</name>
+      <h>347</h>
+      <object_id>2776904</object_id>
+      <w>428</w>
+      <y>5</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>77</h>
+      <object_id>3106549</object_id>
+      <w>129</w>
+      <y>329</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>492</h>
+      <object_id>2866892</object_id>
+      <w>450</w>
+      <y>7</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>75</h>
+      <object_id>3360238</object_id>
+      <w>67</w>
+      <y>110</y>
+      <x>348</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>42</h>
+      <object_id>2866891</object_id>
+      <w>47</w>
+      <y>420</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A chair with a remote control on the seat.</caption>
+      <caption>A chair with a remote controller sitting on it facing several televisions.</caption>
+      <caption>A black chair and remote facing a wall of televisions.</caption>
+      <caption>A remote controller lying on the seat of a chair.</caption>
+      <caption>A remote is sitting on a chair near several televisions. </caption>
+    </captions>
+</image>

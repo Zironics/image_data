@@ -1,0 +1,81 @@
+<image>
+  <image-id>2320625</image-id>
+  <coco-id>380657</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4541492</relationship_id>
+      <predicate>hanging above</predicate>
+      <subject>2940224</subject>
+      <object>2940225</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4541494</relationship_id>
+      <predicate>covering</predicate>
+      <subject>3962742</subject>
+      <object>3962741</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4541493</relationship_id>
+      <predicate>covering</predicate>
+      <subject>3078746</subject>
+      <object>3962740</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>fog</name>
+      <h>150</h>
+      <object_id>2940224</object_id>
+      <w>438</w>
+      <y>0</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>236</h>
+      <object_id>2940225</object_id>
+      <w>247</w>
+      <y>27</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>235</h>
+      <object_id>3962742</object_id>
+      <w>243</w>
+      <y>26</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>242</h>
+      <object_id>3962741</object_id>
+      <w>255</w>
+      <y>19</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>259</h>
+      <object_id>3078746</object_id>
+      <w>491</w>
+      <y>63</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>198</h>
+      <object_id>3962740</object_id>
+      <w>483</w>
+      <y>125</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The person skis in snow that is waist deep.</caption>
+      <caption>a person riding skis on a snowy surface </caption>
+      <caption>An extreme skier skiing down the mountains, kicking up snow.</caption>
+      <caption>A skier goes down the snowy mountain fast.</caption>
+      <caption>An action.shot of a man as he skis down a snowy mountain</caption>
+    </captions>
+</image>

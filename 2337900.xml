@@ -1,0 +1,41 @@
+<image>
+  <image-id>2337900</image-id>
+  <coco-id>131833</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4070880</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2462877</subject>
+      <object>2146378</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>118</h>
+      <object_id>2462877</object_id>
+      <w>180</w>
+      <y>306</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <h>202</h>
+      <object_id>2146378</object_id>
+      <w>498</w>
+      <y>223</y>
+      <x>1</x>
+      <name>floor</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man walking a horse by holding is reins. 
+</caption>
+      <caption>A black horse and a man next to a garage. </caption>
+      <caption>A black horse standing in front of a building.</caption>
+      <caption>A man leading a horse out of a barn.</caption>
+      <caption>A man attends to a horse outside a stable. </caption>
+    </captions>
+</image>

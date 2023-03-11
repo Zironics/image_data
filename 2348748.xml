@@ -1,0 +1,113 @@
+<image>
+  <image-id>2348748</image-id>
+  <coco-id>246650</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2548032</relationship_id>
+      <predicate>has</predicate>
+      <subject>880090</subject>
+      <object>880091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2548033</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>880088</subject>
+      <object>880095</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2548034</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>880097</subject>
+      <object>880098</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2548035</relationship_id>
+      <predicate>ON</predicate>
+      <subject>880093</subject>
+      <object>880105</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>copper colored</attribute>
+        <attribute>bronze</attribute>
+      </attributes>
+      <name>car</name>
+      <h>117</h>
+      <object_id>880090</object_id>
+      <w>159</w>
+      <y>220</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>license plate</name>
+      <h>16</h>
+      <object_id>880091</object_id>
+      <w>32</w>
+      <y>271</y>
+      <x>342</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>50</h>
+      <object_id>880088</object_id>
+      <w>17</w>
+      <y>17</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>17</h>
+      <object_id>880095</object_id>
+      <w>228</w>
+      <y>14</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>flowers</name>
+      <h>31</h>
+      <object_id>880097</object_id>
+      <w>35</w>
+      <y>224</y>
+      <x>463</x>
+    </object>
+    <object>
+      <name>stone</name>
+      <h>35</h>
+      <object_id>880098</object_id>
+      <w>96</w>
+      <y>249</y>
+      <x>402</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>row</attribute>
+      </attributes>
+      <name>cars</name>
+      <h>56</h>
+      <object_id>880093</object_id>
+      <w>105</w>
+      <y>221</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>108</h>
+      <object_id>880105</object_id>
+      <w>498</w>
+      <y>247</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A smaller car is stopped at the red light, as traffic drives on. </caption>
+      <caption>Intersection with cars pulled up to red light with trees lining road.</caption>
+      <caption>A car that is sitting underneath a stop light.</caption>
+      <caption>A car stopped at a red light at an intersection.</caption>
+      <caption>A picture of a intersection at a red light. </caption>
+    </captions>
+</image>

@@ -1,0 +1,82 @@
+<image>
+  <image-id>713653</image-id>
+  <coco-id>260604</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3815040</relationship_id>
+      <predicate>jumping over</predicate>
+      <subject>1587046</subject>
+      <object>1587037</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3815041</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1587039</subject>
+      <object>1587040</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3815042</relationship_id>
+      <predicate>riding</predicate>
+      <subject>1587045</subject>
+      <object>1587046</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <h>45</h>
+      <object_id>1587046</object_id>
+      <w>59</w>
+      <y>200</y>
+      <x>358</x>
+      <name>motorcycle</name>
+    </object>
+    <object>
+      <name>busses</name>
+      <h>251</h>
+      <object_id>1587037</object_id>
+      <w>548</w>
+      <y>253</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lego</attribute>
+      </attributes>
+      <name>lady</name>
+      <h>64</h>
+      <object_id>1587039</object_id>
+      <w>36</w>
+      <y>544</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>17</h>
+      <object_id>1587040</object_id>
+      <w>27</w>
+      <y>551</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>32</h>
+      <object_id>1587045</object_id>
+      <w>20</w>
+      <y>165</y>
+      <x>367</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A scale model replica of double deck buses and a parking lot.</caption>
+      <caption>a toy set of many cars and buses parked near each other </caption>
+      <caption>A scene made from Lego bricks, including a parking lot with cars, buses, and semi trucks.</caption>
+      <caption>A group of red double decker buses parked next to each other.</caption>
+      <caption>Fake trains, cars, bikes, and people on a fake road. </caption>
+    </captions>
+</image>

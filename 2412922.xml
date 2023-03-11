@@ -1,0 +1,74 @@
+<image>
+  <image-id>2412922</image-id>
+  <coco-id>549539</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>177407</relationship_id>
+      <predicate>eating</predicate>
+      <subject>184071</subject>
+      <object>184062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>177408</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>184071</subject>
+      <object>184069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>177409</relationship_id>
+      <predicate>IN</predicate>
+      <subject>184071</subject>
+      <object>184069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>177410</relationship_id>
+      <predicate>IN</predicate>
+      <subject>184071</subject>
+      <object>184069</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <h>265</h>
+      <object_id>184071</object_id>
+      <w>301</w>
+      <y>0</y>
+      <x>124</x>
+      <name>baby</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+        <attribute>cheese</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>111</h>
+      <object_id>184062</object_id>
+      <w>94</w>
+      <y>108</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>hoodie</name>
+      <h>181</h>
+      <object_id>184069</object_id>
+      <w>268</w>
+      <y>4</y>
+      <x>157</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toddler wearing a hoodie sits in a high chair eating.</caption>
+      <caption>A toddler eating a small slice of pizza in a high chair.</caption>
+      <caption>A child sitting in a high chair holding food to their mouth.</caption>
+      <caption>THIS IS A PHOTO OF A LITTLE BOY TAKING A FOOD BREAK</caption>
+      <caption>A baby boy sitting in a high chair eating pizza.</caption>
+    </captions>
+</image>

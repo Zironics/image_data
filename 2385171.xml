@@ -1,0 +1,104 @@
+<image>
+  <image-id>2385171</image-id>
+  <coco-id>430875</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4674686</relationship_id>
+      <predicate>by</predicate>
+      <subject>4282167</subject>
+      <object>4282168</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4674690</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4282185</subject>
+      <object>4282183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4674691</relationship_id>
+      <predicate>above</predicate>
+      <subject>4282185</subject>
+      <object>4282188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4674692</relationship_id>
+      <predicate>above</predicate>
+      <subject>4282199</subject>
+      <object>4282188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4674693</relationship_id>
+      <predicate>above</predicate>
+      <subject>4282187</subject>
+      <object>4282188</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree</name>
+      <h>40</h>
+      <object_id>4282167</object_id>
+      <w>76</w>
+      <y>334</y>
+      <x>422</x>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>80</h>
+      <object_id>4282168</object_id>
+      <w>221</w>
+      <y>261</y>
+      <x>190</x>
+    </object>
+    <object>
+      <h>109</h>
+      <object_id>4282185</object_id>
+      <w>52</w>
+      <y>48</y>
+      <x>53</x>
+      <name>traffic light</name>
+    </object>
+    <object>
+      <name>back</name>
+      <h>103</h>
+      <object_id>4282183</object_id>
+      <w>50</w>
+      <y>50</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>7</h>
+      <object_id>4282188</object_id>
+      <w>469</w>
+      <y>366</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>24</h>
+      <object_id>4282199</object_id>
+      <w>20</w>
+      <y>309</y>
+      <x>223</x>
+      <name>lights</name>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>72</h>
+      <object_id>4282187</object_id>
+      <w>50</w>
+      <y>270</y>
+      <x>362</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A green traffic light suspended above a street.</caption>
+      <caption>A double traffic signal shows three green lights.</caption>
+      <caption>Two green lit traffic lights with a blue sky behind them.</caption>
+      <caption>Green lights a shining bright against a cool blue sky.</caption>
+      <caption>The traffic lights glow green in the night sky.</caption>
+    </captions>
+</image>

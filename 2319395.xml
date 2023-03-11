@@ -1,0 +1,109 @@
+<image>
+  <image-id>2319395</image-id>
+  <coco-id>563702</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4495364</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3440600</subject>
+      <object>3440602</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495365</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3440601</subject>
+      <object>3440602</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495366</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3501610</subject>
+      <object>3501612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495367</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3501611</subject>
+      <object>3501612</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>circular</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>32</h>
+      <object_id>3440600</object_id>
+      <w>61</w>
+      <y>210</y>
+      <x>306</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>firetruck</name>
+      <h>118</h>
+      <object_id>3440602</object_id>
+      <w>277</w>
+      <y>133</y>
+      <x>200</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>circular</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>25</h>
+      <object_id>3440601</object_id>
+      <w>20</w>
+      <y>203</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>fire fighter</name>
+      <h>55</h>
+      <object_id>3501610</object_id>
+      <w>25</w>
+      <y>188</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>street</name>
+      <h>130</h>
+      <object_id>3501612</object_id>
+      <w>456</w>
+      <y>201</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>one</attribute>
+      </attributes>
+      <name>fire fighter</name>
+      <h>50</h>
+      <object_id>3501611</object_id>
+      <w>22</w>
+      <y>182</y>
+      <x>233</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A fire fire truck parked in a parking lot.</caption>
+      <caption>a pair of fire trucks performing work in a residential area.</caption>
+      <caption>A number of emergency vehicles at the scene of an incident.</caption>
+      <caption>three fire trucks parked outside a residential area</caption>
+      <caption>Firefighters and three firetrucks are parked on a street.</caption>
+    </captions>
+</image>

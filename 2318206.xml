@@ -1,0 +1,134 @@
+<image>
+  <image-id>2318206</image-id>
+  <coco-id>172151</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3024252</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>1013231</subject>
+      <object>1013232</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024253</relationship_id>
+      <predicate>has</predicate>
+      <subject>1013232</subject>
+      <object>1013241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024254</relationship_id>
+      <predicate>are parked on</predicate>
+      <subject>1013246</subject>
+      <object>1013247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024255</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1013232</subject>
+      <object>1013231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024256</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1013240</subject>
+      <object>1013245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024257</relationship_id>
+      <predicate>crossing</predicate>
+      <subject>1013254</subject>
+      <object>1013247</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>19</h>
+      <object_id>1013231</object_id>
+      <w>12</w>
+      <y>138</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>domed</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>224</h>
+      <object_id>1013232</object_id>
+      <w>168</w>
+      <y>47</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>122</h>
+      <object_id>1013241</object_id>
+      <w>42</w>
+      <y>49</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>cars</name>
+      <h>23</h>
+      <object_id>1013246</object_id>
+      <w>112</w>
+      <y>252</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>stony</attribute>
+      </attributes>
+      <name>street</name>
+      <h>162</h>
+      <object_id>1013247</object_id>
+      <w>254</w>
+      <y>268</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>14</h>
+      <object_id>1013240</object_id>
+      <w>17</w>
+      <y>70</y>
+      <x>310</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>metal</attribute>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>lamp post</name>
+      <h>248</h>
+      <object_id>1013245</object_id>
+      <w>36</w>
+      <y>119</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>26</h>
+      <object_id>1013254</object_id>
+      <w>21</w>
+      <y>268</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A street sign sitting on the side of a street.</caption>
+      <caption>There is a white street sign that says no exit between midnight and seven am</caption>
+      <caption>A white and black street sign giving a warning that there is no exit between midnight and 7AM.</caption>
+      <caption>A sidewalk located in a city consisting of street lights, pedestrians, and stree signs.</caption>
+      <caption>a weird sign in the city on a brick road </caption>
+    </captions>
+</image>

@@ -1,0 +1,71 @@
+<image>
+  <image-id>2374432</image-id>
+  <coco-id>569081</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1953026</relationship_id>
+      <predicate>OF</predicate>
+      <subject>726886</subject>
+      <object>726887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1953027</relationship_id>
+      <predicate>ON</predicate>
+      <subject>726888</subject>
+      <object>726889</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>finger</name>
+      <h>46</h>
+      <object_id>726886</object_id>
+      <w>43</w>
+      <y>69</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>121</h>
+      <object_id>726887</object_id>
+      <w>145</w>
+      <y>75</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>hold</attribute>
+        <attribute>top</attribute>
+        <attribute>cardboard</attribute>
+        <attribute>metal</attribute>
+        <attribute>plate</attribute>
+        <attribute>table</attribute>
+        <attribute>cooked</attribute>
+        <attribute>baked</attribute>
+        <attribute>cut</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>107</h>
+      <object_id>726888</object_id>
+      <w>63</w>
+      <y>52</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>tray</name>
+      <h>107</h>
+      <object_id>726889</object_id>
+      <w>59</w>
+      <y>152</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person cutting up a pizza with a spatula.</caption>
+      <caption>a fully cooked pizza sitting on a tray with a spatula digging into it</caption>
+      <caption>A pizza on a plate with someone using a spatula to get a slice.</caption>
+      <caption>A person slicing a piece of pizza with a spatula.</caption>
+      <caption>Someone holding the pan while a slice of pizza is being cut.</caption>
+    </captions>
+</image>

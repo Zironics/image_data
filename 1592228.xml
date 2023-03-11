@@ -1,0 +1,62 @@
+<image>
+  <image-id>1592228</image-id>
+  <coco-id>287874</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3839919</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1607784</subject>
+      <object>3611618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081296</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1607787</subject>
+      <object>3708996</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lights</name>
+      <h>20</h>
+      <object_id>1607784</object_id>
+      <w>33</w>
+      <y>428</y>
+      <x>604</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>314</h>
+      <object_id>3611618</object_id>
+      <w>350</w>
+      <y>184</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>80</h>
+      <object_id>1607787</object_id>
+      <w>62</w>
+      <y>106</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>335</h>
+      <object_id>3708996</object_id>
+      <w>219</w>
+      <y>32</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A passenger train travels down the tracks at a stop.</caption>
+      <caption>A large blue and yellow train stops near a fairly-non urban train-station.</caption>
+      <caption>A train pulling up to an out door train depot.</caption>
+      <caption>A train traveling down train tracks under parking lights.</caption>
+      <caption>People are waiting beside the blue train pulling beside the platform. </caption>
+    </captions>
+</image>

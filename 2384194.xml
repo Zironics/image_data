@@ -1,0 +1,175 @@
+<image>
+  <image-id>2384194</image-id>
+  <coco-id>401821</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3558395</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1312291</subject>
+      <object>1312292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558396</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1312291</subject>
+      <object>1312295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558397</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1312291</subject>
+      <object>1312298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558398</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1312291</subject>
+      <object>1312296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558399</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1312301</subject>
+      <object>1312291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558400</relationship_id>
+      <predicate>has</predicate>
+      <subject>1312291</subject>
+      <object>1312301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558401</relationship_id>
+      <predicate>inside a</predicate>
+      <subject>1312301</subject>
+      <object>1312291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558402</relationship_id>
+      <predicate>has</predicate>
+      <subject>1312291</subject>
+      <object>1312301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558403</relationship_id>
+      <predicate>has</predicate>
+      <subject>1312291</subject>
+      <object>1312301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558404</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1312301</subject>
+      <object>1312291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558405</relationship_id>
+      <predicate>contained in a</predicate>
+      <subject>1312301</subject>
+      <object>1312291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558406</relationship_id>
+      <predicate>burried in a</predicate>
+      <subject>1312301</subject>
+      <object>1312291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558407</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1312291</subject>
+      <object>1312302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3558408</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1312296</subject>
+      <object>1312291</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>white colro</attribute>
+        <attribute>white color</attribute>
+        <attribute>edge</attribute>
+        <attribute>edged</attribute>
+        <attribute>blender</attribute>
+        <attribute>tipped</attribute>
+      </attributes>
+      <name>blender</name>
+      <h>153</h>
+      <object_id>1312291</object_id>
+      <w>105</w>
+      <y>11</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>bottom</name>
+      <h>111</h>
+      <object_id>1312292</object_id>
+      <w>92</w>
+      <y>58</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>80</h>
+      <object_id>1312295</object_id>
+      <w>34</w>
+      <y>43</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>inside</name>
+      <h>55</h>
+      <object_id>1312298</object_id>
+      <w>80</w>
+      <y>219</y>
+      <x>170</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>part</attribute>
+      </attributes>
+      <name>button</name>
+      <h>11</h>
+      <object_id>1312296</object_id>
+      <w>8</w>
+      <y>120</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red colre</attribute>
+        <attribute>orange</attribute>
+        <attribute>red</attribute>
+        <attribute>colored</attribute>
+        <attribute>red color</attribute>
+        <attribute>orange color</attribute>
+      </attributes>
+      <name>fruit</name>
+      <h>85</h>
+      <object_id>1312301</object_id>
+      <w>67</w>
+      <y>59</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>lid</name>
+      <h>32</h>
+      <object_id>1312302</object_id>
+      <w>142</w>
+      <y>32</y>
+      <x>313</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a blender with mixed fruit sitting in a container</caption>
+      <caption>A blender filled with food on top of a counter.</caption>
+      <caption>there are several pictures of a blender with food in it</caption>
+      <caption>a juice made from fruits made with a blender</caption>
+      <caption>A blender full of fruit that is mixing up a smoothie.</caption>
+    </captions>
+</image>

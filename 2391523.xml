@@ -1,0 +1,222 @@
+<image>
+  <image-id>2391523</image-id>
+  <coco-id>169820</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3447720</relationship_id>
+      <predicate>has</predicate>
+      <subject>1240201</subject>
+      <object>1240202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447721</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1240205</subject>
+      <object>1240204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447722</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1240201</subject>
+      <object>1240204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447723</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1240206</subject>
+      <object>1240207</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447724</relationship_id>
+      <predicate>has</predicate>
+      <subject>1240201</subject>
+      <object>1240210</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447725</relationship_id>
+      <predicate>being worn by</predicate>
+      <subject>1240212</subject>
+      <object>1240201</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447726</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1240213</subject>
+      <object>1240207</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447727</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1240215</subject>
+      <object>1240216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447728</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1240205</subject>
+      <object>1240207</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447729</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1240209</subject>
+      <object>1240205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447730</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>1240217</subject>
+      <object>1240204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3447731</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1240212</subject>
+      <object>1240218</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>pictured</attribute>
+        <attribute>shown here</attribute>
+        <attribute>brown</attribute>
+        <attribute>laying down</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>227</h>
+      <object_id>1240201</object_id>
+      <w>452</w>
+      <y>69</y>
+      <x>47</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>224</h>
+      <object_id>1240202</object_id>
+      <w>453</w>
+      <y>70</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>pictured</attribute>
+        <attribute>teal colored</attribute>
+      </attributes>
+      <name>bed</name>
+      <h>186</h>
+      <object_id>1240205</object_id>
+      <w>278</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>white colored</attribute>
+        <attribute>carpeted</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>322</h>
+      <object_id>1240204</object_id>
+      <w>499</w>
+      <y>10</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>260</h>
+      <object_id>1240206</object_id>
+      <w>316</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>317</h>
+      <object_id>1240207</object_id>
+      <w>341</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>whiskers</name>
+      <h>61</h>
+      <object_id>1240210</object_id>
+      <w>62</w>
+      <y>138</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>collar</name>
+      <h>12</h>
+      <object_id>1240212</object_id>
+      <w>12</w>
+      <y>169</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>cat's reflection</name>
+      <h>168</h>
+      <object_id>1240213</object_id>
+      <w>144</w>
+      <y>70</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>cat's ear</name>
+      <h>26</h>
+      <object_id>1240215</object_id>
+      <w>27</w>
+      <y>69</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>battle scar</name>
+      <h>9</h>
+      <object_id>1240216</object_id>
+      <w>13</w>
+      <y>69</y>
+      <x>107</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>53</h>
+      <object_id>1240209</object_id>
+      <w>275</w>
+      <y>1</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>end of pen</name>
+      <h>12</h>
+      <object_id>1240217</object_id>
+      <w>20</w>
+      <y>52</y>
+      <x>480</x>
+    </object>
+    <object>
+      <name>cat's collar</name>
+      <h>8</h>
+      <object_id>1240218</object_id>
+      <w>49</w>
+      <y>170</y>
+      <x>187</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large fluffy cat laying in front of a mirror.</caption>
+      <caption>Furry back cat laying down by a mirror.</caption>
+      <caption>A large cat is laying down on the floor looking at itself in the mirror. </caption>
+      <caption>Cat looks at itself in a mirror on the floor.</caption>
+      <caption>A cat laying next to a mirror looking at its self.</caption>
+    </captions>
+</image>

@@ -1,0 +1,80 @@
+<image>
+  <image-id>2327160</image-id>
+  <coco-id>72637</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4538025</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3961568</subject>
+      <object>2910822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538026</relationship_id>
+      <predicate>front of</predicate>
+      <subject>3961568</subject>
+      <object>2910822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538027</relationship_id>
+      <predicate>hanging next to</predicate>
+      <subject>3182641</subject>
+      <object>2910822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538028</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>3182641</subject>
+      <object>3182642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>trim</name>
+      <h>140</h>
+      <object_id>3961568</object_id>
+      <w>176</w>
+      <y>29</y>
+      <x>140</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>351</h>
+      <object_id>2910822</object_id>
+      <w>212</w>
+      <y>24</y>
+      <x>105</x>
+      <name>fridge</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>185</h>
+      <object_id>3182641</object_id>
+      <w>71</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>372</h>
+      <object_id>3182642</object_id>
+      <w>382</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a red fridge sitting in the corner of a room </caption>
+      <caption>a vintage, red refrigerator sitting in the corner of a kitchen.  </caption>
+      <caption>A red refrigerator in the corner of a room.</caption>
+      <caption>A red refrigerator freezer sitting inside of a kitchen.</caption>
+      <caption>red refrigerator in a corner of white room</caption>
+    </captions>
+</image>

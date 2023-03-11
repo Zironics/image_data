@@ -1,0 +1,76 @@
+<image>
+  <image-id>2320438</image-id>
+  <coco-id>508191</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3857207</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3270506</subject>
+      <object>2877341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857208</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2877340</subject>
+      <object>2877341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857209</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2803789</subject>
+      <object>2803790</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tire</name>
+      <h>142</h>
+      <object_id>3270506</object_id>
+      <w>88</w>
+      <y>199</y>
+      <x>377</x>
+    </object>
+    <object>
+      <h>333</h>
+      <object_id>2877341</object_id>
+      <w>426</w>
+      <y>28</y>
+      <x>41</x>
+      <name>bike</name>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>135</h>
+      <object_id>2877340</object_id>
+      <w>138</w>
+      <y>226</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>125</h>
+      <object_id>2803789</object_id>
+      <w>492</w>
+      <y>247</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>pavement</name>
+      <h>167</h>
+      <object_id>2803790</object_id>
+      <w>498</w>
+      <y>211</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white police motorcycle parked in a parking lot.</caption>
+      <caption>Police motorcycle with emblems and helmet in parking lot</caption>
+      <caption>A law enforcement motorcycle parked in a parking lot.</caption>
+      <caption>A motorcycle with a police symbol on it parked in a lot.</caption>
+      <caption>A police motorcycle parked next to another automobile. </caption>
+    </captions>
+</image>

@@ -1,0 +1,85 @@
+<image>
+  <image-id>2318419</image-id>
+  <coco-id>280995</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3018499</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1010951</subject>
+      <object>1010952</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3018500</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1010962</subject>
+      <object>1010963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3018501</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1010965</subject>
+      <object>1010956</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>63</h>
+      <object_id>1010951</object_id>
+      <w>77</w>
+      <y>38</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>97</h>
+      <object_id>1010952</object_id>
+      <w>247</w>
+      <y>21</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>174</h>
+      <object_id>1010962</object_id>
+      <w>81</w>
+      <y>72</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>front</name>
+      <h>256</h>
+      <object_id>1010963</object_id>
+      <w>140</w>
+      <y>32</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>handles</name>
+      <h>16</h>
+      <object_id>1010965</object_id>
+      <w>31</w>
+      <y>195</y>
+      <x>99</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>her</attribute>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>door</name>
+      <h>80</h>
+      <object_id>1010956</object_id>
+      <w>32</w>
+      <y>192</y>
+      <x>297</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bus moving along the road during the day.</caption>
+      <caption>The city bus is traveling down the street ahead of traffic. </caption>
+      <caption>a red bus driving down the road on a busy street </caption>
+      <caption>A red bus drives on a street past people and buildings.</caption>
+      <caption>A wide sidewalk keeps the pedestrians safe from the traffic.</caption>
+    </captions>
+</image>

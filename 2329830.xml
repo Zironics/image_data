@@ -1,0 +1,63 @@
+<image>
+  <image-id>2329830</image-id>
+  <coco-id>209989</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4126620</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3269018</subject>
+      <object>3269019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4126623</relationship_id>
+      <predicate>going across</predicate>
+      <subject>2935430</subject>
+      <object>3724826</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>metallic</attribute>
+      </attributes>
+      <name>structure</name>
+      <h>265</h>
+      <object_id>3269018</object_id>
+      <w>149</w>
+      <y>5</y>
+      <x>348</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>169</h>
+      <object_id>3269019</object_id>
+      <w>492</w>
+      <y>204</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>tram</name>
+      <h>85</h>
+      <object_id>2935430</object_id>
+      <w>128</w>
+      <y>260</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>wire</name>
+      <h>18</h>
+      <object_id>3724826</object_id>
+      <w>100</w>
+      <y>275</y>
+      <x>212</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bunch of people that are on a bunch of snow</caption>
+      <caption>Group of people on skies going down a snowy slope.</caption>
+      <caption>Several people on skis at the bottom of a slope.</caption>
+      <caption>a bunch of skkiers climb tot he top of a mountain</caption>
+      <caption>some snow skiers snow and a tower and mountain</caption>
+    </captions>
+</image>

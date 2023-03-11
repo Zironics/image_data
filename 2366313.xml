@@ -1,0 +1,90 @@
+<image>
+  <image-id>2366313</image-id>
+  <coco-id>46650</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1631868</relationship_id>
+      <predicate>ON</predicate>
+      <subject>629196</subject>
+      <object>629197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1631869</relationship_id>
+      <predicate>ON</predicate>
+      <subject>629198</subject>
+      <object>629197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1631870</relationship_id>
+      <predicate>ON</predicate>
+      <subject>629199</subject>
+      <object>629197</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>ripe</attribute>
+        <attribute>brown</attribute>
+        <attribute>there\</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>185</h>
+      <object_id>629196</object_id>
+      <w>367</w>
+      <y>139</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+        <attribute>played</attribute>
+        <attribute>sitting</attribute>
+        <attribute>circular</attribute>
+        <attribute>metallic</attribute>
+        <attribute>silver</attribute>
+        <attribute>silver\</attribute>
+        <attribute>round</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>record</name>
+      <h>292</h>
+      <object_id>629197</object_id>
+      <w>499</w>
+      <y>83</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>arm</name>
+      <h>112</h>
+      <object_id>629198</object_id>
+      <w>161</w>
+      <y>119</y>
+      <x>330</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>written</attribute>
+        <attribute>record</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>label</name>
+      <h>99</h>
+      <object_id>629199</object_id>
+      <w>170</w>
+      <y>142</y>
+      <x>168</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A banana sitting on top of a black record.</caption>
+      <caption>A record player with a banana on a record</caption>
+      <caption>A vinyl record on a record player with a banana on top.</caption>
+      <caption>A ripe banana atop a vinyl phonograph record on a turn table.</caption>
+      <caption>A banana is taking a ride on a turntable.</caption>
+    </captions>
+</image>

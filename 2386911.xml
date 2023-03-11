@@ -1,0 +1,98 @@
+<image>
+  <image-id>2386911</image-id>
+  <coco-id>203221</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3510178</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1281185</subject>
+      <object>1281183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510179</relationship_id>
+      <predicate>near</predicate>
+      <subject>1281184</subject>
+      <object>1281183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510180</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1281187</subject>
+      <object>1281183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510181</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1281183</subject>
+      <object>1281185</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510182</relationship_id>
+      <predicate>with</predicate>
+      <subject>1281183</subject>
+      <object>1281185</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>aging</attribute>
+        <attribute>long</attribute>
+        <attribute>brown</attribute>
+        <attribute>old</attribute>
+        <attribute>rusty</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>364</h>
+      <object_id>1281185</object_id>
+      <w>112</w>
+      <y>10</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>old</attribute>
+        <attribute>white</attribute>
+        <attribute>wooden</attribute>
+        <attribute>wide</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>street sign</name>
+      <h>149</h>
+      <object_id>1281183</object_id>
+      <w>314</w>
+      <y>67</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>101</h>
+      <object_id>1281184</object_id>
+      <w>94</w>
+      <y>272</y>
+      <x>406</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>bracket</name>
+      <h>26</h>
+      <object_id>1281187</object_id>
+      <w>54</w>
+      <y>61</y>
+      <x>97</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall pole with a street sign on it containing drawings of two sad faces</caption>
+      <caption>sad faces have been put on a blue street sign</caption>
+      <caption>The sign is on a very tall pole.</caption>
+      <caption>A blue street sign hanging from a wooden pole.</caption>
+      <caption>Two sad faces are on this street sign.</caption>
+    </captions>
+</image>

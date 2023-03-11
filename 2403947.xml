@@ -1,0 +1,65 @@
+<image>
+  <image-id>2403947</image-id>
+  <coco-id>450434</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3254938</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1120037</subject>
+      <object>1120038</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3254944</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1120039</subject>
+      <object>1120040</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3254980</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1120039</subject>
+      <object>1120040</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1120037</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1120038</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1120039</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1120040</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A street scene looking at a Dunkin Donuts. </caption>
+      <caption>A Dunkin Donuts has doughnuts on display in a window. </caption>
+      <caption>A dunkin donut store on the side of a sidewalk.</caption>
+      <caption>A dunkin donuts shop with a red velvet line</caption>
+      <caption>Employees working at an outdoor Dunkin Donuts store.</caption>
+    </captions>
+</image>

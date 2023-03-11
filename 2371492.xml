@@ -1,0 +1,123 @@
+<image>
+  <image-id>2371492</image-id>
+  <coco-id>330173</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1508832</relationship_id>
+      <predicate>inside</predicate>
+      <subject>597402</subject>
+      <object>597399</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1508833</relationship_id>
+      <predicate>with</predicate>
+      <subject>597395</subject>
+      <object>597410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1508834</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>597407</subject>
+      <object>597396</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1508835</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>597411</subject>
+      <object>597396</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1508836</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>597407</subject>
+      <object>597396</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>noodle</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>entree</name>
+      <h>133</h>
+      <object_id>597402</object_id>
+      <w>151</w>
+      <y>52</y>
+      <x>171</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tray</name>
+      <h>256</h>
+      <object_id>597399</object_id>
+      <w>463</w>
+      <y>35</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>120</h>
+      <object_id>597395</object_id>
+      <w>126</w>
+      <y>138</y>
+      <x>342</x>
+    </object>
+    <object>
+      <name>chive</name>
+      <h>14</h>
+      <object_id>597410</object_id>
+      <w>22</w>
+      <y>154</y>
+      <x>381</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>lettuce</name>
+      <h>46</h>
+      <object_id>597407</object_id>
+      <w>53</w>
+      <y>207</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sectioned</attribute>
+        <attribute>square</attribute>
+        <attribute>divided</attribute>
+      </attributes>
+      <name>dish</name>
+      <h>159</h>
+      <object_id>597396</object_id>
+      <w>86</w>
+      <y>105</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>salmon</name>
+      <h>47</h>
+      <object_id>597411</object_id>
+      <w>57</w>
+      <y>157</y>
+      <x>74</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden tray holding a bowl of food and soup.</caption>
+      <caption>A bowl of noodles in a white bowl sits on a wooden tray with a spoon,, chopsticks and condiments.</caption>
+      <caption>An Asian meal with noodles, vegetables and soup.</caption>
+      <caption>a bamboo tray holding several bowls of asian food</caption>
+      <caption>A wooden tray with bowls of food on top.</caption>
+    </captions>
+</image>

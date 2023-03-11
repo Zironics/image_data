@@ -1,0 +1,87 @@
+<image>
+  <image-id>2327438</image-id>
+  <coco-id>412676</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3634133</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2973019</subject>
+      <object>2973020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3634134</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2922130</subject>
+      <object>3522121</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3634135</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3360784</subject>
+      <object>3360785</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windshield</name>
+      <h>35</h>
+      <object_id>2973019</object_id>
+      <w>102</w>
+      <y>327</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>car</name>
+      <h>67</h>
+      <object_id>2973020</object_id>
+      <w>152</w>
+      <y>321</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tip</name>
+      <h>12</h>
+      <object_id>2922130</object_id>
+      <w>29</w>
+      <y>221</y>
+      <x>470</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>98</h>
+      <object_id>3522121</object_id>
+      <w>40</w>
+      <y>225</y>
+      <x>459</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>window</name>
+      <h>145</h>
+      <object_id>3360784</object_id>
+      <w>208</w>
+      <y>30</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>307</h>
+      <object_id>3360785</object_id>
+      <w>236</w>
+      <y>0</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>cars parked near a all black corner store</caption>
+      <caption>Cars are seen on the street outside a tall building.</caption>
+      <caption>A traffic light at the corner of a business building with traffic going by.</caption>
+      <caption>a large building stands on the corner of an intersection under a blue sky</caption>
+      <caption>A corner of a street next to a building </caption>
+    </captions>
+</image>

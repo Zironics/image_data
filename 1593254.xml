@@ -1,0 +1,84 @@
+<image>
+  <image-id>1593254</image-id>
+  <coco-id>94625</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3853329</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1616780</subject>
+      <object>1616781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251549</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1616784</subject>
+      <object>1616787</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3853330</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1616792</subject>
+      <object>1616794</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>55</h>
+      <object_id>1616780</object_id>
+      <w>39</w>
+      <y>483</y>
+      <x>609</x>
+    </object>
+    <object>
+      <name>blue jacket</name>
+      <h>29</h>
+      <object_id>1616781</object_id>
+      <w>35</w>
+      <y>488</y>
+      <x>610</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Pyramid shaped</attribute>
+      </attributes>
+      <name>pyramid roof</name>
+      <h>76</h>
+      <object_id>1616784</object_id>
+      <w>169</w>
+      <y>283</y>
+      <x>482</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>270</h>
+      <object_id>1616787</object_id>
+      <w>545</w>
+      <y>281</y>
+      <x>391</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>32</h>
+      <object_id>1616792</object_id>
+      <w>27</w>
+      <y>432</y>
+      <x>565</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>188</h>
+      <object_id>1616794</object_id>
+      <w>100</w>
+      <y>287</y>
+      <x>921</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a train sits parked next to a restaurant </caption>
+      <caption>A long train parked at a train station next to a wooded area.</caption>
+      <caption>A train parked on tracks outside a colorful train station. </caption>
+      <caption>A train station is painted gray with red stripes.</caption>
+      <caption>A train is on the tracks next to buildings.</caption>
+    </captions>
+</image>

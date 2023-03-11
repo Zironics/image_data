@@ -1,0 +1,82 @@
+<image>
+  <image-id>2324859</image-id>
+  <coco-id>191669</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3767239</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3355507</subject>
+      <object>2861404</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4487291</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3355507</subject>
+      <object>2735965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4487292</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3355507</subject>
+      <object>3006091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4487293</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3355507</subject>
+      <object>3355506</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+      </attributes>
+      <h>382</h>
+      <object_id>3355507</object_id>
+      <w>219</w>
+      <y>16</y>
+      <x>281</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>watch</name>
+      <h>32</h>
+      <object_id>2861404</object_id>
+      <w>23</w>
+      <y>152</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>fork</name>
+      <h>45</h>
+      <object_id>2735965</object_id>
+      <w>44</w>
+      <y>98</y>
+      <x>340</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>17</h>
+      <object_id>3006091</object_id>
+      <w>71</w>
+      <y>143</y>
+      <x>339</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>70</h>
+      <object_id>3355506</object_id>
+      <w>150</w>
+      <y>119</y>
+      <x>293</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting in a chair eating food off of a white plate.</caption>
+      <caption>A man is sitting at a table and eating.</caption>
+      <caption>A black and white image of an older man eating. </caption>
+      <caption>A man sitting in a chair with his legs crossed.</caption>
+      <caption>old man sitting and eating food at a cafe</caption>
+    </captions>
+</image>

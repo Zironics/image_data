@@ -1,0 +1,72 @@
+<image>
+  <image-id>2350442</image-id>
+  <coco-id>31733</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2497197</relationship_id>
+      <predicate>OF</predicate>
+      <subject>867926</subject>
+      <object>867923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2497198</relationship_id>
+      <predicate>OF</predicate>
+      <subject>867927</subject>
+      <object>867923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2497199</relationship_id>
+      <predicate>OF</predicate>
+      <subject>867929</subject>
+      <object>867923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>beak</name>
+      <h>8</h>
+      <object_id>867926</object_id>
+      <w>6</w>
+      <y>202</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>perched</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>80</h>
+      <object_id>867923</object_id>
+      <w>100</w>
+      <y>196</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>chest</name>
+      <h>43</h>
+      <object_id>867927</object_id>
+      <w>32</w>
+      <y>224</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>32</h>
+      <object_id>867929</object_id>
+      <w>42</w>
+      <y>228</y>
+      <x>72</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird sitting in a tree with orange fruit or flowers.</caption>
+      <caption>A beautiful little bird in what looks like an orange tree</caption>
+      <caption>An orange tree with ripe fruits and a small bird perched on the branch</caption>
+      <caption>A small bird sitting on a tree branch.</caption>
+      <caption>there are fruits growing on these branches of this tree</caption>
+    </captions>
+</image>

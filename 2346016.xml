@@ -1,0 +1,68 @@
+<image>
+  <image-id>2346016</image-id>
+  <coco-id>378059</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3858366</relationship_id>
+      <predicate>has</predicate>
+      <subject>3620127</subject>
+      <object>2682660</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3858367</relationship_id>
+      <predicate>has</predicate>
+      <subject>3620127</subject>
+      <object>1767370</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3858368</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3620127</subject>
+      <object>2260348</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bear</name>
+      <h>90</h>
+      <object_id>3620127</object_id>
+      <w>180</w>
+      <y>195</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>56</h>
+      <object_id>2682660</object_id>
+      <w>184</w>
+      <y>246</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>7</h>
+      <object_id>1767370</object_id>
+      <w>9</w>
+      <y>230</y>
+      <x>393</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>257</h>
+      <object_id>2260348</object_id>
+      <w>465</w>
+      <y>36</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bear walking around on a rock filled ground.</caption>
+      <caption>A young bear rumbles and lumbers across the field.</caption>
+      <caption>A bear hunting for food in the woods by itself</caption>
+      <caption>A large brown grizzly bear is running </caption>
+      <caption>A large brown bear walking across a dirt field.</caption>
+    </captions>
+</image>

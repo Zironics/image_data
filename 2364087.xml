@@ -1,0 +1,67 @@
+<image>
+  <image-id>2364087</image-id>
+  <coco-id>538163</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2074573</relationship_id>
+      <predicate>ON</predicate>
+      <subject>759767</subject>
+      <object>759768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4166154</relationship_id>
+      <predicate>IN</predicate>
+      <subject>759776</subject>
+      <object>3741309</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>fancy</attribute>
+        <attribute>being cut</attribute>
+        <attribute>table</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>57</h>
+      <object_id>759767</object_id>
+      <w>76</w>
+      <y>179</y>
+      <x>207</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>table</name>
+      <h>53</h>
+      <object_id>759768</object_id>
+      <w>83</w>
+      <y>254</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>celebration</name>
+      <h>290</h>
+      <object_id>759776</object_id>
+      <w>358</w>
+      <y>46</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>367</h>
+      <object_id>3741309</object_id>
+      <w>489</w>
+      <y>4</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and woman that are around a table.</caption>
+      <caption>this is peoople cutting up a birthday cake</caption>
+      <caption>A woman is cutting a cake with whip cream</caption>
+      <caption>A woman prepares to cut a cake while a young man looks on</caption>
+      <caption>A woman cuts a cake while other people watch.</caption>
+    </captions>
+</image>

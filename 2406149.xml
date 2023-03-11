@@ -1,0 +1,59 @@
+<image>
+  <image-id>2406149</image-id>
+  <coco-id>519347</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1707415</relationship_id>
+      <predicate>ON</predicate>
+      <subject>652855</subject>
+      <object>652860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1707416</relationship_id>
+      <predicate>ON</predicate>
+      <subject>652867</subject>
+      <object>652860</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>street</attribute>
+      </attributes>
+      <name>lamp</name>
+      <h>105</h>
+      <object_id>652855</object_id>
+      <w>40</w>
+      <y>94</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>light</attribute>
+        <attribute>pictured</attribute>
+      </attributes>
+      <name>bridge</name>
+      <h>61</h>
+      <object_id>652860</object_id>
+      <w>164</w>
+      <y>164</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>31</h>
+      <object_id>652867</object_id>
+      <w>37</w>
+      <y>106</y>
+      <x>343</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wood bridge crossing over a river next to a forest.</caption>
+      <caption>A stop sign and a narrow bridge across a ravine.</caption>
+      <caption>a stop sign with a wooden foot bridge in the background</caption>
+      <caption>THERE IS A RED STOP SIGN THAT IS IN THE GRASS</caption>
+      <caption>The stop sign is across the street from a park bridge.</caption>
+    </captions>
+</image>

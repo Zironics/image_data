@@ -1,0 +1,65 @@
+<image>
+  <image-id>2393118</image-id>
+  <coco-id>266768</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3418921</relationship_id>
+      <predicate>has</predicate>
+      <subject>1222778</subject>
+      <object>1222779</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3418922</relationship_id>
+      <predicate>lifting</predicate>
+      <subject>1222784</subject>
+      <object>1222780</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>smiling</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>203</h>
+      <object_id>1222778</object_id>
+      <w>139</w>
+      <y>234</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>sandal</name>
+      <h>18</h>
+      <object_id>1222779</object_id>
+      <w>36</w>
+      <y>411</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>105</h>
+      <object_id>1222784</object_id>
+      <w>82</w>
+      <y>213</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>25</h>
+      <object_id>1222780</object_id>
+      <w>16</w>
+      <y>289</y>
+      <x>165</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a small cooler is on a wood table</caption>
+      <caption>A group of people sit at a picnic table in front of a house.</caption>
+      <caption>a group of people sitting at a picnic bench </caption>
+      <caption>A group of people sitting around a picnic table.</caption>
+      <caption>A group of people gather at a picnic table beneath a tree.</caption>
+    </captions>
+</image>

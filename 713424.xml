@@ -1,0 +1,105 @@
+<image>
+  <image-id>713424</image-id>
+  <coco-id>483306</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4061042</relationship_id>
+      <predicate>around</predicate>
+      <subject>3701050</subject>
+      <object>3701050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061043</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1583728</subject>
+      <object>3701051</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061044</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2428765</subject>
+      <object>3701052</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061046</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2360217</subject>
+      <object>2360218</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>woman's</attribute>
+      </attributes>
+      <h>36</h>
+      <object_id>3701050</object_id>
+      <w>58</w>
+      <y>355</y>
+      <x>120</x>
+      <name>neck</name>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>65</h>
+      <object_id>1583728</object_id>
+      <w>68</w>
+      <y>224</y>
+      <x>617</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>guy's</attribute>
+      </attributes>
+      <name>head</name>
+      <h>34</h>
+      <object_id>3701051</object_id>
+      <w>67</w>
+      <y>240</y>
+      <x>608</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>441</h>
+      <object_id>2428765</object_id>
+      <w>190</w>
+      <y>267</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>scarf</name>
+      <h>40</h>
+      <object_id>3701052</object_id>
+      <w>61</w>
+      <y>354</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>502</h>
+      <object_id>2360217</object_id>
+      <w>165</w>
+      <y>228</y>
+      <x>560</x>
+    </object>
+    <object>
+      <name>cigar</name>
+      <h>18</h>
+      <object_id>2360218</object_id>
+      <w>42</w>
+      <y>486</y>
+      <x>577</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing outside of a building next to a fire hydrant.</caption>
+      <caption>The people are walking down the street, passing the fire hydrant. </caption>
+      <caption>People strolling along the street of a city during the evening.
+</caption>
+      <caption>many people walk along a street with many stores</caption>
+      <caption>Man standing on a street with a brown bag at his side</caption>
+    </captions>
+</image>

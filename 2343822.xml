@@ -1,0 +1,80 @@
+<image>
+  <image-id>2343822</image-id>
+  <coco-id>200328</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2706302</relationship_id>
+      <predicate>IN</predicate>
+      <subject>919758</subject>
+      <object>919759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2706303</relationship_id>
+      <predicate>IN</predicate>
+      <subject>919760</subject>
+      <object>919759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2706304</relationship_id>
+      <predicate>IN</predicate>
+      <subject>919760</subject>
+      <object>919759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2706305</relationship_id>
+      <predicate>IN</predicate>
+      <subject>919760</subject>
+      <object>919759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2706306</relationship_id>
+      <predicate>IN</predicate>
+      <subject>919760</subject>
+      <object>919759</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>flying</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>77</h>
+      <object_id>919758</object_id>
+      <w>94</w>
+      <y>67</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>156</h>
+      <object_id>919759</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>birds</name>
+      <h>83</h>
+      <object_id>919760</object_id>
+      <w>103</w>
+      <y>65</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>View of an open book looking from the bottom  of the page towards the sky at a line of flying birds.</caption>
+      <caption>An open book with a flock of birds flying over it.</caption>
+      <caption>The birds are flying in the cloudless sky over head. </caption>
+      <caption>An open book with birds flying in the sky above.</caption>
+      <caption>A book is open while in the background a row of birds fly in the blue sky.</caption>
+    </captions>
+</image>

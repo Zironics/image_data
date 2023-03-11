@@ -1,0 +1,40 @@
+<image>
+  <image-id>2391563</image-id>
+  <coco-id>87000</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4670119</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4270110</subject>
+      <object>4270111</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>plastic spoon</name>
+      <h>80</h>
+      <object_id>4270110</object_id>
+      <w>116</w>
+      <y>234</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>potato</name>
+      <h>49</h>
+      <object_id>4270111</object_id>
+      <w>72</w>
+      <y>163</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The stove has two pans of food cooking.</caption>
+      <caption>A big pot of mashed potatoes and a small skillet of fried carrots are cooking on a stove top.</caption>
+      <caption>A stove top cooking in a pot and frying pan</caption>
+      <caption>Two pans filled with food and spoons sitting on a stove top.</caption>
+      <caption>Couple of different foods cooking on the stove.</caption>
+    </captions>
+</image>

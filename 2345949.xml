@@ -1,0 +1,87 @@
+<image>
+  <image-id>2345949</image-id>
+  <coco-id>130892</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3836111</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3187755</subject>
+      <object>3187756</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859614</relationship_id>
+      <predicate>covering</predicate>
+      <subject>2991437</subject>
+      <object>3620679</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859615</relationship_id>
+      <predicate>beside</predicate>
+      <subject>2107604</subject>
+      <object>2107605</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>302</h>
+      <object_id>3187755</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>308</h>
+      <object_id>3187756</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>37</h>
+      <object_id>2991437</object_id>
+      <w>71</w>
+      <y>324</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>67</h>
+      <object_id>3620679</object_id>
+      <w>499</w>
+      <y>305</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>40</h>
+      <object_id>2107604</object_id>
+      <w>9</w>
+      <y>284</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>7</h>
+      <object_id>2107605</object_id>
+      <w>47</w>
+      <y>316</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Four jets in formation in cloudy sky above grassy field</caption>
+      <caption>A group of airplanes flying high up in the sky.</caption>
+      <caption>A grassy field with trees and planes flying in the sky.</caption>
+      <caption>Four airplanes fly in tight formation over an airfield.</caption>
+      <caption>Four airplanes are flying near each other high in the air.</caption>
+    </captions>
+</image>

@@ -1,0 +1,128 @@
+<image>
+  <image-id>2390901</image-id>
+  <coco-id>22983</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4291628</relationship_id>
+      <predicate>has</predicate>
+      <subject>493136</subject>
+      <object>3827521</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4291629</relationship_id>
+      <predicate>ON</predicate>
+      <subject>493136</subject>
+      <object>3827524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4291630</relationship_id>
+      <predicate>has</predicate>
+      <subject>493136</subject>
+      <object>3827523</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4291631</relationship_id>
+      <predicate>eating</predicate>
+      <subject>493136</subject>
+      <object>3827524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4291632</relationship_id>
+      <predicate>IN</predicate>
+      <subject>493142</subject>
+      <object>3827525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4291633</relationship_id>
+      <predicate>with</predicate>
+      <subject>493143</subject>
+      <object>3827526</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>  large</attribute>
+        <attribute> black </attribute>
+      </attributes>
+      <h>292</h>
+      <object_id>493136</object_id>
+      <w>243</w>
+      <y>36</y>
+      <x>103</x>
+      <name>black cow</name>
+    </object>
+    <object>
+      <name>shiny coat</name>
+      <h>101</h>
+      <object_id>3827521</object_id>
+      <w>96</w>
+      <y>74</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>130</h>
+      <object_id>3827524</object_id>
+      <w>471</w>
+      <y>195</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> four</attribute>
+      </attributes>
+      <name>legs</name>
+      <h>126</h>
+      <object_id>3827523</object_id>
+      <w>165</w>
+      <y>203</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> cow's</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>13</h>
+      <object_id>493142</object_id>
+      <w>16</w>
+      <y>253</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>141</h>
+      <object_id>3827525</object_id>
+      <w>467</w>
+      <y>187</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> patchy</attribute>
+      </attributes>
+      <name>patchy grass</name>
+      <h>183</h>
+      <object_id>493143</object_id>
+      <w>492</w>
+      <y>146</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>18</h>
+      <object_id>3827526</object_id>
+      <w>35</w>
+      <y>271</y>
+      <x>414</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cow that is grazing on some grass.</caption>
+      <caption>There is one cow in the field by itself. </caption>
+      <caption>A black cow is grazing some grass on a sunny day. </caption>
+      <caption>A cow eating grass in a large field.</caption>
+      <caption>The large cow is grazing on the grassy field.</caption>
+    </captions>
+</image>

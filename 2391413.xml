@@ -1,0 +1,77 @@
+<image>
+  <image-id>2391413</image-id>
+  <coco-id>157093</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1129004</relationship_id>
+      <predicate>near</predicate>
+      <subject>489244</subject>
+      <object>489234</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1129005</relationship_id>
+      <predicate>has</predicate>
+      <subject>489234</subject>
+      <object>489243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1129006</relationship_id>
+      <predicate>OF</predicate>
+      <subject>489241</subject>
+      <object>489234</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>gum</name>
+      <h>29</h>
+      <object_id>489244</object_id>
+      <w>50</w>
+      <y>95</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+        <attribute>blowing</attribute>
+        <attribute>leaning</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>player</name>
+      <h>292</h>
+      <object_id>489234</object_id>
+      <w>223</w>
+      <y>23</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>184</h>
+      <object_id>489243</object_id>
+      <w>152</w>
+      <y>132</y>
+      <x>64</x>
+      <name>jersey</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>17</h>
+      <object_id>489241</object_id>
+      <w>20</w>
+      <y>82</y>
+      <x>170</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player holding a wooden bat standing on a baseball field.</caption>
+      <caption>A baseball player holding a bat blows a bubble with his gum.  </caption>
+      <caption>A baseball player with a black, white and yellow uniform holds a baseball bat against his shoulder.</caption>
+      <caption>A baseball player is holding his bat, and blowing a bubble. </caption>
+      <caption>a baseball player holding a bat blowing a bubble</caption>
+    </captions>
+</image>

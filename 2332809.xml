@@ -1,0 +1,59 @@
+<image>
+  <image-id>2332809</image-id>
+  <coco-id>381305</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4085173</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2788694</subject>
+      <object>2788695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085195</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>2980484</subject>
+      <object>2980485</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>162</h>
+      <object_id>2788694</object_id>
+      <w>133</w>
+      <y>81</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>67</h>
+      <object_id>2788695</object_id>
+      <w>270</w>
+      <y>129</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>164</h>
+      <object_id>2980484</object_id>
+      <w>211</w>
+      <y>77</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>94</h>
+      <object_id>2980485</object_id>
+      <w>278</w>
+      <y>134</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and woman seated on a bench with a dog on the pavement</caption>
+      <caption>Two people sit on a wooden bench and a dog is looking at the camera.</caption>
+      <caption>A lady and a man with an umbrella sitting on a bench with a dog laying on the ground in front of them.</caption>
+      <caption>A couple of people, one with an umbrella, next to a dog.</caption>
+      <caption>Two people on a bench, one of whom has an umbrella.</caption>
+    </captions>
+</image>

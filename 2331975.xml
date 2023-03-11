@@ -1,0 +1,94 @@
+<image>
+  <image-id>2331975</image-id>
+  <coco-id>565940</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2895996</relationship_id>
+      <predicate>ON</predicate>
+      <subject>970877</subject>
+      <object>970878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2896001</relationship_id>
+      <predicate>ON</predicate>
+      <subject>970879</subject>
+      <object>970880</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2896003</relationship_id>
+      <predicate>ON</predicate>
+      <subject>970879</subject>
+      <object>970880</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2896006</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>970884</subject>
+      <object>970890</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pillows</name>
+      <h>39</h>
+      <object_id>970877</object_id>
+      <w>56</w>
+      <y>171</y>
+      <x>334</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>couch</name>
+      <h>133</h>
+      <object_id>970878</object_id>
+      <w>178</w>
+      <y>168</y>
+      <x>322</x>
+    </object>
+    <object>
+      <name>carpet</name>
+      <h>54</h>
+      <object_id>970879</object_id>
+      <w>352</w>
+      <y>302</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>21</h>
+      <object_id>970880</object_id>
+      <w>176</w>
+      <y>348</y>
+      <x>313</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>75</h>
+      <object_id>970884</object_id>
+      <w>101</w>
+      <y>217</y>
+      <x>193</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>368</h>
+      <object_id>970890</object_id>
+      <w>449</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This formal living room doesn't look like it is used very often.</caption>
+      <caption>A living room with a couch two chairs and a piano.</caption>
+      <caption>A living room filled with furniture and a piano.
+</caption>
+      <caption>A fancy den with couches and tables on a red rug.</caption>
+      <caption>Living room with white couches and red carpet on floor. </caption>
+    </captions>
+</image>

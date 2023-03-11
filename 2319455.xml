@@ -1,0 +1,116 @@
+<image>
+  <image-id>2319455</image-id>
+  <coco-id>23219</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4494966</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2729989</subject>
+      <object>2729990</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3865438</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>2835606</subject>
+      <object>3623208</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3865439</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>2835605</subject>
+      <object>3623208</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3865440</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>3623207</subject>
+      <object>3623208</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3865516</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2835605</subject>
+      <object>2835608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3865517</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2835606</subject>
+      <object>2835608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3865518</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3623207</subject>
+      <object>2835608</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>grass</name>
+      <h>70</h>
+      <object_id>2729989</object_id>
+      <w>496</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>outfield</name>
+      <h>329</h>
+      <object_id>2729990</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>236</h>
+      <object_id>2835606</object_id>
+      <w>170</w>
+      <y>96</y>
+      <x>103</x>
+      <name>player</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>331</h>
+      <object_id>3623208</object_id>
+      <w>496</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>player</name>
+      <h>209</h>
+      <object_id>2835605</object_id>
+      <w>172</w>
+      <y>1</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>player</name>
+      <h>167</h>
+      <object_id>3623207</object_id>
+      <w>94</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dirt</name>
+      <h>290</h>
+      <object_id>2835608</object_id>
+      <w>500</w>
+      <y>40</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a baseball player is kneeling down at a game</caption>
+      <caption>A baseball player squatting down and holding a baseball mitt.</caption>
+      <caption>Two baseball catchers crouch close to the ground. </caption>
+      <caption>Three baseball players are looking in the same direction.</caption>
+      <caption>a baseball player is hunched down with a glove</caption>
+    </captions>
+</image>

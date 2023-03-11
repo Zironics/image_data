@@ -1,0 +1,93 @@
+<image>
+  <image-id>2337285</image-id>
+  <coco-id>238806</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4462310</relationship_id>
+      <predicate>beneath pizza</predicate>
+      <subject>3297784</subject>
+      <object>3931555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080648</relationship_id>
+      <predicate>beneath a</predicate>
+      <subject>3297784</subject>
+      <object>2362378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462311</relationship_id>
+      <predicate>beneath pizza on</predicate>
+      <subject>3297784</subject>
+      <object>3931557</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462313</relationship_id>
+      <predicate>has cheese on</predicate>
+      <subject>2279527</subject>
+      <object>3931559</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>rack</name>
+      <h>187</h>
+      <object_id>3297784</object_id>
+      <w>469</w>
+      <y>69</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>silver</name>
+      <h>45</h>
+      <object_id>3931555</object_id>
+      <w>155</w>
+      <y>254</y>
+      <x>243</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>241</h>
+      <object_id>2362378</object_id>
+      <w>324</w>
+      <y>53</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>tray</name>
+      <h>50</h>
+      <object_id>3931557</object_id>
+      <w>179</w>
+      <y>249</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>245</h>
+      <object_id>2279527</object_id>
+      <w>410</w>
+      <y>38</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>it</name>
+      <h>201</h>
+      <object_id>3931559</object_id>
+      <w>351</w>
+      <y>54</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very large cheesy pizza sitting on top of a rack.</caption>
+      <caption>A large pizza with spinach and tomato toppings.</caption>
+      <caption>there is a pizza on a metal grill that is half eaten</caption>
+      <caption>A partially eaten pizza with multiple toppings on it.</caption>
+      <caption>A pizza sitting on a barbecue rack on a table </caption>
+    </captions>
+</image>

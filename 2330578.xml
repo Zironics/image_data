@@ -1,0 +1,196 @@
+<image>
+  <image-id>2330578</image-id>
+  <coco-id>8119</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4466718</relationship_id>
+      <predicate>IS AT</predicate>
+      <subject>3934180</subject>
+      <object>3087713</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4113754</relationship_id>
+      <predicate>preparing to</predicate>
+      <subject>3934180</subject>
+      <object>2829524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4113755</relationship_id>
+      <predicate>watching</predicate>
+      <subject>2778328</subject>
+      <object>3720151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4466719</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2924105</subject>
+      <object>2924106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3879722</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3934180</subject>
+      <object>3301010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4113757</relationship_id>
+      <predicate>standing behind</predicate>
+      <subject>3934180</subject>
+      <object>3720154</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4113758</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3934180</subject>
+      <object>3457974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4113759</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3275064</subject>
+      <object>3275065</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4113760</relationship_id>
+      <predicate>Is</predicate>
+      <subject>3424233</subject>
+      <object>3424234</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4113762</relationship_id>
+      <predicate>Is holding</predicate>
+      <subject>3934180</subject>
+      <object>3087713</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>he</name>
+      <h>149</h>
+      <object_id>3934180</object_id>
+      <w>134</w>
+      <y>54</y>
+      <x>206</x>
+    </object>
+    <object>
+      <h>26</h>
+      <object_id>3087713</object_id>
+      <w>43</w>
+      <y>91</y>
+      <x>295</x>
+      <name>baseball bat</name>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>15</h>
+      <object_id>2829524</object_id>
+      <w>15</w>
+      <y>89</y>
+      <x>472</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>these </attribute>
+      </attributes>
+      <name>people</name>
+      <h>152</h>
+      <object_id>2778328</object_id>
+      <w>318</w>
+      <y>22</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>game</name>
+      <h>342</h>
+      <object_id>3720151</object_id>
+      <w>491</w>
+      <y>30</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>players</name>
+      <h>118</h>
+      <object_id>2924105</object_id>
+      <w>170</w>
+      <y>31</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>dugout</name>
+      <h>165</h>
+      <object_id>2924106</object_id>
+      <w>238</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>bat</name>
+      <h>25</h>
+      <object_id>3301010</object_id>
+      <w>37</w>
+      <y>88</y>
+      <x>300</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal </attribute>
+      </attributes>
+      <name>fence</name>
+      <h>101</h>
+      <object_id>3720154</object_id>
+      <w>189</w>
+      <y>55</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>27</h>
+      <object_id>3457974</object_id>
+      <w>30</w>
+      <y>57</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>catcher</name>
+      <h>113</h>
+      <object_id>3275064</object_id>
+      <w>121</w>
+      <y>101</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> out</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>24</h>
+      <object_id>3275065</object_id>
+      <w>27</w>
+      <y>120</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>57</h>
+      <object_id>3424233</object_id>
+      <w>38</w>
+      <y>80</y>
+      <x>365</x>
+    </object>
+    <object>
+      <name>covering face</name>
+      <h>7</h>
+      <object_id>3424234</object_id>
+      <w>22</w>
+      <y>81</y>
+      <x>353</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A team of young men playing a game of baseball.</caption>
+      <caption>A baseball game in progress with the batter about to hit the ball.</caption>
+      <caption>Two baseball players playing ball while people watch behind them. </caption>
+      <caption>A baseball game with the hitter attempting the bunt the ball and people watching from the lawn behind the third base line.</caption>
+      <caption>A little kid playing a game of baseball during the day.</caption>
+    </captions>
+</image>

@@ -1,0 +1,73 @@
+<image>
+  <image-id>2388673</image-id>
+  <coco-id>18666</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3488442</relationship_id>
+      <predicate>below</predicate>
+      <subject>1267443</subject>
+      <object>1267444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3488443</relationship_id>
+      <predicate>has</predicate>
+      <subject>1267445</subject>
+      <object>1267443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3488444</relationship_id>
+      <predicate>under</predicate>
+      <subject>1267443</subject>
+      <object>1267444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3488445</relationship_id>
+      <predicate>under</predicate>
+      <subject>1267445</subject>
+      <object>1267443</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>open</attribute>
+        <attribute>wide</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>170</h>
+      <object_id>1267443</object_id>
+      <w>298</w>
+      <y>55</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>224</h>
+      <object_id>1267444</object_id>
+      <w>326</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>340</h>
+      <object_id>1267445</object_id>
+      <w>158</w>
+      <y>158</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man that is holding an umbrella in the grass.</caption>
+      <caption>A man smiling while holding a green umbrella</caption>
+      <caption>A man with a fowhawk holding an umbrella in his left hand.</caption>
+      <caption>People are out for a day of fun in the sun.</caption>
+      <caption>A man with a mohawk walking under an umbrella in the sun</caption>
+    </captions>
+</image>

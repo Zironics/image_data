@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402046</image-id>
+  <coco-id>239274</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3282348</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1141010</subject>
+      <object>1141011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282354</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1141012</subject>
+      <object>1141013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282390</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1141012</subject>
+      <object>1141013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282394</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1141012</subject>
+      <object>1141013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282395</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1141012</subject>
+      <object>1141013</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>49</h>
+      <object_id>1141010</object_id>
+      <w>60</w>
+      <y>20</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>49</h>
+      <object_id>1141011</object_id>
+      <w>62</w>
+      <y>26</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>49</h>
+      <object_id>1141012</object_id>
+      <w>60</w>
+      <y>136</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>49</h>
+      <object_id>1141013</object_id>
+      <w>62</w>
+      <y>143</y>
+      <x>217</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A yacht with people is near a pier on clear water.</caption>
+      <caption>A group of people mingle on a yacht beside the coast.</caption>
+      <caption>People are getting off a boat on a rocky island.</caption>
+      <caption>People aboard and boarding a party boat in the water.</caption>
+      <caption>A pontoon boat ferry full of passengers pushes off from shore. </caption>
+    </captions>
+</image>

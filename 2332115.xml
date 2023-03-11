@@ -1,0 +1,55 @@
+<image>
+  <image-id>2332115</image-id>
+  <coco-id>202572</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4651930</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4224927</subject>
+      <object>4224926</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4703019</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4351927</subject>
+      <object>4224927</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>147</h>
+      <object_id>4224927</object_id>
+      <w>203</w>
+      <y>125</y>
+      <x>79</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>stuffed</attribute>
+      </attributes>
+      <name>stuffed bear</name>
+      <h>351</h>
+      <object_id>4224926</object_id>
+      <w>181</w>
+      <y>82</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>letter</name>
+      <h>49</h>
+      <object_id>4351927</object_id>
+      <w>38</w>
+      <y>217</y>
+      <x>108</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a stuffed animal on the ground</caption>
+      <caption>a stuffed bear standing against the wall holding a sign</caption>
+      <caption>A teddy bear taped to the wall with a sign that says won't kill you.</caption>
+      <caption>A stuffed bear and a sign next to a wall.</caption>
+      <caption>A teddy bear is standing with a sign.</caption>
+    </captions>
+</image>

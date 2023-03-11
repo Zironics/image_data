@@ -1,0 +1,86 @@
+<image>
+  <image-id>2381922</image-id>
+  <coco-id>256215</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3586229</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1332973</subject>
+      <object>1332974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3586230</relationship_id>
+      <predicate>has</predicate>
+      <subject>1332968</subject>
+      <object>1332985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3586231</relationship_id>
+      <predicate>has</predicate>
+      <subject>1332968</subject>
+      <object>1332967</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>people</name>
+      <h>45</h>
+      <object_id>1332973</object_id>
+      <w>81</w>
+      <y>87</y>
+      <x>286</x>
+    </object>
+    <object>
+      <name>deck</name>
+      <h>35</h>
+      <object_id>1332974</object_id>
+      <w>137</w>
+      <y>127</y>
+      <x>348</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>named</attribute>
+        <attribute>red</attribute>
+        <attribute>blue</attribute>
+        <attribute>ferocious</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>65</h>
+      <object_id>1332968</object_id>
+      <w>102</w>
+      <y>153</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>shark</name>
+      <h>60</h>
+      <object_id>1332985</object_id>
+      <w>179</w>
+      <y>183</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>crowded</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>people</name>
+      <h>23</h>
+      <object_id>1332967</object_id>
+      <w>107</w>
+      <y>166</y>
+      <x>97</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Boats cruising in a river with one boat named Godzilla.</caption>
+      <caption>Some boats are going through the water with people on them.</caption>
+      <caption>There is a boat painted with intricate designs</caption>
+      <caption>There are people on boats in water and one is painted like a shark.</caption>
+      <caption>A boat decorated in a brightly painted fish passing another boat in a harbor.</caption>
+    </captions>
+</image>

@@ -1,0 +1,60 @@
+<image>
+  <image-id>2330902</image-id>
+  <coco-id>322</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4825636</relationship_id>
+      <predicate>playing</predicate>
+      <subject>4661119</subject>
+      <object>4661120</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825637</relationship_id>
+      <predicate>playing</predicate>
+      <subject>4661119</subject>
+      <object>4661120</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825638</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4661124</subject>
+      <object>4661119</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>222</h>
+      <object_id>4661119</object_id>
+      <w>165</w>
+      <y>81</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>372</h>
+      <object_id>4661120</object_id>
+      <w>481</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shady</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>56</h>
+      <object_id>4661124</object_id>
+      <w>106</w>
+      <y>36</y>
+      <x>42</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man tossing an orange frisbee on top of a lush green field.</caption>
+      <caption>a man standing in a yard with a red frisbee</caption>
+      <caption>A full view of a man throwing a Frisbee.</caption>
+      <caption>A person is throwing a Frisbee at night. </caption>
+      <caption>Man playing with flying red disk outdoors in evening.</caption>
+    </captions>
+</image>

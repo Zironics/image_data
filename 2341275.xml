@@ -1,0 +1,83 @@
+<image>
+  <image-id>2341275</image-id>
+  <coco-id>380636</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4599096</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4093456</subject>
+      <object>4093457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4620478</relationship_id>
+      <predicate>ON THE</predicate>
+      <subject>4146114</subject>
+      <object>4093456</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4640411</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4195269</subject>
+      <object>4195270</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>maneuvering</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>259</h>
+      <object_id>4093456</object_id>
+      <w>174</w>
+      <y>39</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>125</h>
+      <object_id>4093457</object_id>
+      <w>186</w>
+      <y>193</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>RED</attribute>
+        <attribute>GRAY</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>144</h>
+      <object_id>4146114</object_id>
+      <w>141</w>
+      <y>43</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>spot</name>
+      <h>19</h>
+      <object_id>4195269</object_id>
+      <w>22</w>
+      <y>253</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>69</h>
+      <object_id>4195270</object_id>
+      <w>146</w>
+      <y>209</y>
+      <x>182</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young person going down a hill on a snowboard.</caption>
+      <caption>a person in a red jacket, doing a snowboard trick.</caption>
+      <caption>a person that is snow boading down a snowy hill</caption>
+      <caption>A person jumps in mid-air on a snowboard.</caption>
+      <caption>A person riding a snowboard at high speed.</caption>
+    </captions>
+</image>

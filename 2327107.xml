@@ -1,0 +1,40 @@
+<image>
+  <image-id>2327107</image-id>
+  <coco-id>231088</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3937121</relationship_id>
+      <predicate>has</predicate>
+      <subject>3579607</subject>
+      <object>2905886</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>141</h>
+      <object_id>3579607</object_id>
+      <w>140</w>
+      <y>356</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>65</h>
+      <object_id>2905886</object_id>
+      <w>45</w>
+      <y>382</y>
+      <x>206</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>6 open umbrellas of various colors hanging on a line</caption>
+      <caption>The sun shining through different colored umbrellas. </caption>
+      <caption>Multi-colored umbrellas hung like a mobile on a wire</caption>
+      <caption>Six umbrellas floating in the air near a building.</caption>
+      <caption>Several umbrellas of different colors are hanging in the sun.</caption>
+    </captions>
+</image>

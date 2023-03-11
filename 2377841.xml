@@ -1,0 +1,95 @@
+<image>
+  <image-id>2377841</image-id>
+  <coco-id>330720</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1397449</relationship_id>
+      <predicate>ON</predicate>
+      <subject>563546</subject>
+      <object>563547</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1397450</relationship_id>
+      <predicate>ON</predicate>
+      <subject>563548</subject>
+      <object>563546</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1397451</relationship_id>
+      <predicate>above</predicate>
+      <subject>563549</subject>
+      <object>563546</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1397452</relationship_id>
+      <predicate>ON</predicate>
+      <subject>563546</subject>
+      <object>563547</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>fancy</attribute>
+        <attribute>gold</attribute>
+        <attribute>green</attribute>
+        <attribute>dark</attribute>
+        <attribute>roman</attribute>
+        <attribute>huge</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>234</h>
+      <object_id>563546</object_id>
+      <w>249</w>
+      <y>208</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>red</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>74</h>
+      <object_id>563547</object_id>
+      <w>35</w>
+      <y>329</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+        <attribute>golden</attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>27</h>
+      <object_id>563548</object_id>
+      <w>29</w>
+      <y>217</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>ringing</attribute>
+        <attribute>gold</attribute>
+        <attribute>knights</attribute>
+        <attribute>soliders</attribute>
+      </attributes>
+      <name>statue</name>
+      <h>101</h>
+      <object_id>563549</object_id>
+      <w>47</w>
+      <y>27</y>
+      <x>64</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up ofa clock with statues of people </caption>
+      <caption>A clock that uses roman numerals for the numbers.</caption>
+      <caption>A teal colored clock with little men on top. </caption>
+      <caption>A old green clock tower with solider figurines on it.</caption>
+      <caption>a large blue clock is hanging up outside</caption>
+    </captions>
+</image>

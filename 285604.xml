@@ -1,0 +1,54 @@
+<image>
+  <image-id>285604</image-id>
+  <coco-id>29504</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4045434</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3694780</subject>
+      <object>3694780</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4045435</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2432980</subject>
+      <object>3694781</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>249</h>
+      <object_id>3694780</object_id>
+      <w>558</w>
+      <y>249</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>food trays</name>
+      <h>512</h>
+      <object_id>2432980</object_id>
+      <w>826</w>
+      <y>10</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>cloth</name>
+      <h>178</h>
+      <object_id>3694781</object_id>
+      <w>336</w>
+      <y>57</y>
+      <x>55</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An oriental meal of rice, meat and vegetables in black boxes.</caption>
+      <caption>A rectangular lunchbox displays some delicious looking food.</caption>
+      <caption>A meal with steamed vegetables and meat, there are plastic babies in the meal.</caption>
+      <caption>Serving boxes full of fresh vegetables,rice, and meats.</caption>
+      <caption>Two food trays showing vegetables, rice, and meat. </caption>
+    </captions>
+</image>

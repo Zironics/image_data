@@ -1,0 +1,37 @@
+<image>
+  <image-id>2338054</image-id>
+  <coco-id>209610</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068492</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2984547</subject>
+      <object>2984548</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>136</h>
+      <object_id>2984547</object_id>
+      <w>305</w>
+      <y>169</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>45</h>
+      <object_id>2984548</object_id>
+      <w>85</w>
+      <y>289</y>
+      <x>389</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train that is sitting on the tracks.</caption>
+      <caption>The trains are parked on the railroad tracks at the station.</caption>
+      <caption>A public transportation tram is stopped at a station.</caption>
+      <caption>A train engine carrying a cart into a station.</caption>
+      <caption>A yellow, blue and purple subway train at a subway train station.</caption>
+    </captions>
+</image>

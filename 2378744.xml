@@ -1,0 +1,194 @@
+<image>
+  <image-id>2378744</image-id>
+  <coco-id>492137</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3622419</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1365424</subject>
+      <object>1365425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622420</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1365424</subject>
+      <object>1365426</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622421</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1365430</subject>
+      <object>1365424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622422</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1365424</subject>
+      <object>1365426</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622423</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1365424</subject>
+      <object>1365436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622424</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1365424</subject>
+      <object>1365426</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622425</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1365433</subject>
+      <object>1365428</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622426</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1365428</subject>
+      <object>1365437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622427</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1365424</subject>
+      <object>1365425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622428</relationship_id>
+      <predicate>has</predicate>
+      <subject>1365425</subject>
+      <object>1365438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622429</relationship_id>
+      <predicate>resting on</predicate>
+      <subject>1365439</subject>
+      <object>1365428</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622430</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1365428</subject>
+      <object>1365425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3622431</relationship_id>
+      <predicate>has</predicate>
+      <subject>1365425</subject>
+      <object>1365438</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>orange</attribute>
+        <attribute>fuzzy</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>189</h>
+      <object_id>1365424</object_id>
+      <w>313</w>
+      <y>40</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>scratched</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>216</h>
+      <object_id>1365425</object_id>
+      <w>499</w>
+      <y>159</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>61</h>
+      <object_id>1365426</object_id>
+      <w>58</w>
+      <y>91</y>
+      <x>200</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>129</h>
+      <object_id>1365430</object_id>
+      <w>279</w>
+      <y>0</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>45</h>
+      <object_id>1365436</object_id>
+      <w>65</w>
+      <y>46</y>
+      <x>221</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>keypad</name>
+      <h>65</h>
+      <object_id>1365433</object_id>
+      <w>184</w>
+      <y>182</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>open</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>297</h>
+      <object_id>1365428</object_id>
+      <w>299</w>
+      <y>67</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>59</h>
+      <object_id>1365437</object_id>
+      <w>24</w>
+      <y>94</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>scratches</name>
+      <h>59</h>
+      <object_id>1365438</object_id>
+      <w>217</w>
+      <y>252</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>150</h>
+      <object_id>1365439</object_id>
+      <w>96</w>
+      <y>46</y>
+      <x>188</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A CAT IS SLEEPING BESIDE A LAPTOP ON THE TABLE</caption>
+      <caption>Here is a soul in the image alone. 
+</caption>
+      <caption>An orange cat rests besides a laptop computer.</caption>
+      <caption>an orange and white cat resting its head on a laptop</caption>
+      <caption>An orange tabby cat is sleeping on a table next to a lap top computer.</caption>
+    </captions>
+</image>

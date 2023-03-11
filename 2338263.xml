@@ -1,0 +1,67 @@
+<image>
+  <image-id>2338263</image-id>
+  <coco-id>510235</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4065109</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3144676</subject>
+      <object>3144677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065110</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2543269</subject>
+      <object>2543270</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red glove</name>
+      <h>37</h>
+      <object_id>3144676</object_id>
+      <w>70</w>
+      <y>317</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>snowman</name>
+      <h>96</h>
+      <object_id>3144677</object_id>
+      <w>347</w>
+      <y>254</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>paw</name>
+      <h>46</h>
+      <object_id>2543269</object_id>
+      <w>75</w>
+      <y>229</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>58</h>
+      <object_id>2543270</object_id>
+      <w>197</w>
+      <y>258</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large orange and striped cat laying next to a bottle of booze.</caption>
+      <caption>An orange cat sleeps curled around a wine bottle. </caption>
+      <caption>A cute orange cat laying by a big bottle.</caption>
+      <caption>A cat is sleeping next to a wine bottle.</caption>
+      <caption>A orange tabby cat lying next to a bottle of Cabernet Seuvignon. </caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>1591887</image-id>
+  <coco-id>413277</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4660744</relationship_id>
+      <predicate>in yellow working on</predicate>
+      <subject>4246835</subject>
+      <object>4246834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734653</relationship_id>
+      <predicate>adorning</predicate>
+      <subject>4427540</subject>
+      <object>4427541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734654</relationship_id>
+      <predicate>adorning</predicate>
+      <subject>4427543</subject>
+      <object>4427544</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>330</h>
+      <object_id>4246835</object_id>
+      <w>244</w>
+      <y>274</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>hydrant</name>
+      <h>200</h>
+      <object_id>4246834</object_id>
+      <w>99</w>
+      <y>390</y>
+      <x>408</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>window</name>
+      <h>33</h>
+      <object_id>4427540</object_id>
+      <w>15</w>
+      <y>11</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>80</h>
+      <object_id>4427541</object_id>
+      <w>109</w>
+      <y>7</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>window</name>
+      <h>34</h>
+      <object_id>4427543</object_id>
+      <w>17</w>
+      <y>12</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>83</h>
+      <object_id>4427544</object_id>
+      <w>110</w>
+      <y>10</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man who is using a wrench on a fire hydrant.</caption>
+      <caption>A worker performs maintenance on a fire hydrant.</caption>
+      <caption>A fire fighter inspecting a fire hydrant on the sidewalk.</caption>
+      <caption>A person with a wrench adjusts a white fire hydrant.</caption>
+      <caption>Maintenance city man inspecting fire hydrant on street.</caption>
+    </captions>
+</image>

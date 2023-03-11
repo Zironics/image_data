@@ -1,0 +1,113 @@
+<image>
+  <image-id>2329035</image-id>
+  <coco-id>497855</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4469691</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3935620</subject>
+      <object>975222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2911907</relationship_id>
+      <predicate>near</predicate>
+      <subject>975222</subject>
+      <object>975220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4469692</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3935621</subject>
+      <object>975222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2911908</relationship_id>
+      <predicate>near</predicate>
+      <subject>975222</subject>
+      <object>975220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4469693</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3935622</subject>
+      <object>975220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4469694</relationship_id>
+      <predicate>underneath</predicate>
+      <subject>3935623</subject>
+      <object>975220</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>triangular </attribute>
+      </attributes>
+      <name>end</name>
+      <h>58</h>
+      <object_id>3935620</object_id>
+      <w>68</w>
+      <y>229</y>
+      <x>91</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>overripe</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>283</h>
+      <object_id>975222</object_id>
+      <w>157</w>
+      <y>1</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>271</h>
+      <object_id>975220</object_id>
+      <w>263</w>
+      <y>27</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>bruise</name>
+      <h>40</h>
+      <object_id>3935621</object_id>
+      <w>53</w>
+      <y>6</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wrinkly </attribute>
+      </attributes>
+      <name>skin</name>
+      <h>47</h>
+      <object_id>3935622</object_id>
+      <w>94</w>
+      <y>75</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>21</h>
+      <object_id>3935623</object_id>
+      <w>112</w>
+      <y>297</y>
+      <x>245</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Apples, oranges and bananas all mixed in a bowl.</caption>
+      <caption>An old apple sitting next to a spotted banana. </caption>
+      <caption>Several apples next to an overly ripe banana.</caption>
+      <caption>There are plenty of fresh fruit to eat on the table. </caption>
+      <caption>A close up of an apple and a banana. </caption>
+    </captions>
+</image>

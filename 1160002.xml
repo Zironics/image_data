@@ -1,0 +1,110 @@
+<image>
+  <image-id>1160002</image-id>
+  <coco-id>293576</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4264001</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2753846</subject>
+      <object>2772126</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3636639</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2753846</subject>
+      <object>3022199</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074440</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2753846</subject>
+      <object>1732809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074441</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2753846</subject>
+      <object>2613817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3660080</relationship_id>
+      <predicate>talk</predicate>
+      <subject>2753845</subject>
+      <object>2753846</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>635</h>
+      <object_id>2753846</object_id>
+      <w>260</w>
+      <y>217</y>
+      <x>410</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>hooded</attribute>
+      </attributes>
+      <name>sweatshirt</name>
+      <h>305</h>
+      <object_id>2772126</object_id>
+      <w>349</w>
+      <y>305</y>
+      <x>315</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>292</h>
+      <object_id>3022199</object_id>
+      <w>138</w>
+      <y>557</y>
+      <x>453</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>scarf</name>
+      <h>179</h>
+      <object_id>1732809</object_id>
+      <w>113</w>
+      <y>303</y>
+      <x>673</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red inflatable </attribute>
+      </attributes>
+      <name>object</name>
+      <h>389</h>
+      <object_id>2613817</object_id>
+      <w>594</w>
+      <y>459</y>
+      <x>252</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>conversing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>629</h>
+      <object_id>2753845</object_id>
+      <w>248</w>
+      <y>220</y>
+      <x>607</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of men standing next to each other.</caption>
+      <caption>Two men are conversing over an inflatable outside</caption>
+      <caption>Two men exchanging papers on a sidewalk stationed red vinyl sculpture.</caption>
+      <caption>Two men are talking on the sidewalk of a busy city street.</caption>
+      <caption>Two men talking on a city sidewalk near the street.</caption>
+    </captions>
+</image>

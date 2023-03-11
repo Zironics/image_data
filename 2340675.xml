@@ -1,0 +1,82 @@
+<image>
+  <image-id>2340675</image-id>
+  <coco-id>67241</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3758267</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>3233593</subject>
+      <object>3233595</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3758268</relationship_id>
+      <predicate>riding</predicate>
+      <subject>2316811</subject>
+      <object>3233593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3955713</relationship_id>
+      <predicate>holds on to</predicate>
+      <subject>2316811</subject>
+      <object>3416042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3955715</relationship_id>
+      <predicate>leaning on</predicate>
+      <subject>2316811</subject>
+      <object>3659058</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skis</name>
+      <h>67</h>
+      <object_id>3233593</object_id>
+      <w>83</w>
+      <y>226</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>314</h>
+      <object_id>3233595</object_id>
+      <w>495</w>
+      <y>13</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>270</h>
+      <object_id>2316811</object_id>
+      <w>218</w>
+      <y>8</y>
+      <x>103</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>rope</name>
+      <h>73</h>
+      <object_id>3416042</object_id>
+      <w>15</w>
+      <y>0</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>water</attribute>
+      </attributes>
+      <name>skis</name>
+      <h>67</h>
+      <object_id>3659058</object_id>
+      <w>96</w>
+      <y>227</y>
+      <x>58</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man jet skiing holding onto a cord in the water.</caption>
+      <caption>A man goes parasailing in a body of water.</caption>
+      <caption>A man on a wake board on a body of water</caption>
+      <caption>A water skier holds a rope as he rides a wave.</caption>
+      <caption>A bearded water skier riding a large wave,</caption>
+    </captions>
+</image>

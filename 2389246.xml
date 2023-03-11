@@ -1,0 +1,85 @@
+<image>
+  <image-id>2389246</image-id>
+  <coco-id>366677</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4772427</relationship_id>
+      <predicate>has</predicate>
+      <subject>4500005</subject>
+      <object>4527841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4772436</relationship_id>
+      <predicate>has</predicate>
+      <subject>4500005</subject>
+      <object>4527862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4772441</relationship_id>
+      <predicate>has</predicate>
+      <subject>4500005</subject>
+      <object>4527872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4772442</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4500005</subject>
+      <object>4527874</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>343</h>
+      <object_id>4500005</object_id>
+      <w>402</w>
+      <y>21</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>olives</name>
+      <h>20</h>
+      <object_id>4527841</object_id>
+      <w>40</w>
+      <y>241</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>peppers</name>
+      <h>217</h>
+      <object_id>4527862</object_id>
+      <w>310</w>
+      <y>70</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>ham</name>
+      <h>81</h>
+      <object_id>4527872</object_id>
+      <w>61</w>
+      <y>250</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>340</h>
+      <object_id>4527874</object_id>
+      <w>398</w>
+      <y>22</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza sitting on a table, it appears to have everything on it.</caption>
+      <caption>A pizza is shown with several toppings on it.</caption>
+      <caption>The pizza has black olives and green peppers on it. </caption>
+      <caption>There is a pizza with olives, peppers, meat, and cheese on the table.</caption>
+      <caption>Baked pizza ready to slice and serve displayed on wooden table.</caption>
+    </captions>
+</image>

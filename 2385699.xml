@@ -1,0 +1,60 @@
+<image>
+  <image-id>2385699</image-id>
+  <coco-id>213536</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4655795</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4234539</subject>
+      <object>4234549</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4655796</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4234540</subject>
+      <object>4234549</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4655798</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4234539</subject>
+      <object>4234549</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>110</h>
+      <object_id>4234539</object_id>
+      <w>64</w>
+      <y>251</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>rock</name>
+      <h>145</h>
+      <object_id>4234549</object_id>
+      <w>327</w>
+      <y>350</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>88</h>
+      <object_id>4234540</object_id>
+      <w>118</w>
+      <y>279</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two birds that are sitting near each other.</caption>
+      <caption>On of these birds shows his ruffled feathers.</caption>
+      <caption>Two black birds are perched on rocks against a grey sky</caption>
+      <caption>The two black birds are standing on top of a rock.</caption>
+      <caption>a couple of birds stand on top of a rock </caption>
+    </captions>
+</image>

@@ -1,0 +1,148 @@
+<image>
+  <image-id>2347264</image-id>
+  <coco-id>35474</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3736212</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3313209</subject>
+      <object>3313210</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3841659</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2870609</subject>
+      <object>2870610</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3841660</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3009802</subject>
+      <object>3612330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3841661</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2807123</subject>
+      <object>2807124</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3841662</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2622352</subject>
+      <object>3313209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424452</relationship_id>
+      <predicate>with no</predicate>
+      <subject>2631000</subject>
+      <object>3908484</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>HUGE</attribute>
+        <attribute>feeding</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>376</h>
+      <object_id>3313209</object_id>
+      <w>268</w>
+      <y>122</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>147</h>
+      <object_id>3313210</object_id>
+      <w>118</w>
+      <y>80</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>232</h>
+      <object_id>2870609</object_id>
+      <w>200</w>
+      <y>133</y>
+      <x>130</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>364</h>
+      <object_id>2870610</object_id>
+      <w>245</w>
+      <y>133</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>82</h>
+      <object_id>3009802</object_id>
+      <w>59</w>
+      <y>293</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>360</h>
+      <object_id>3612330</object_id>
+      <w>260</w>
+      <y>138</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>trunk</name>
+      <h>182</h>
+      <object_id>2807123</object_id>
+      <w>114</w>
+      <y>125</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>390</h>
+      <object_id>2807124</object_id>
+      <w>299</w>
+      <y>103</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>56</h>
+      <object_id>2622352</object_id>
+      <w>66</w>
+      <y>428</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bare</attribute>
+      </attributes>
+      <h>498</h>
+      <object_id>2631000</object_id>
+      <w>447</w>
+      <y>0</y>
+      <x>0</x>
+      <name>bare tree</name>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>45</h>
+      <object_id>3908484</object_id>
+      <w>164</w>
+      <y>100</y>
+      <x>199</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An elephant raises its trunk to grab some twigs</caption>
+      <caption>An elephant grabbing a branch with his trunk.</caption>
+      <caption>An elephant with an open mouth lifts his trunk.</caption>
+      <caption>An elephant using trunk to eat leaves on a tree.</caption>
+      <caption>An elephant rubbing up against a tree and pulling on branches.</caption>
+    </captions>
+</image>

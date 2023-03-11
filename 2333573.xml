@@ -1,0 +1,91 @@
+<image>
+  <image-id>2333573</image-id>
+  <coco-id>133690</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3990783</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2750457</subject>
+      <object>3446961</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3990784</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3672749</subject>
+      <object>3446961</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3990785</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3672749</subject>
+      <object>3189172</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3990786</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3189171</subject>
+      <object>3189172</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bright</attribute>
+      </attributes>
+      <name>eyes</name>
+      <h>12</h>
+      <object_id>2750457</object_id>
+      <w>35</w>
+      <y>110</y>
+      <x>198</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>237</h>
+      <object_id>3446961</object_id>
+      <w>172</w>
+      <y>94</y>
+      <x>153</x>
+    </object>
+    <object>
+      <h>279</h>
+      <object_id>3672749</object_id>
+      <w>252</w>
+      <y>53</y>
+      <x>139</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plaid</attribute>
+      </attributes>
+      <h>232</h>
+      <object_id>3189172</object_id>
+      <w>499</w>
+      <y>100</y>
+      <x>0</x>
+      <name>couch</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>134</h>
+      <object_id>3189171</object_id>
+      <w>77</w>
+      <y>172</y>
+      <x>378</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person holding a dog sitting on a couch </caption>
+      <caption>A woman is on a couch with a black dog.</caption>
+      <caption>A woman is sitting on a couch holding her black dog. </caption>
+      <caption>A woman is holding a dog while on the couch.</caption>
+      <caption>a woman with a red shirt is holding a black dog</caption>
+    </captions>
+</image>

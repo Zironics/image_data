@@ -1,0 +1,67 @@
+<image>
+  <image-id>2393455</image-id>
+  <coco-id>266310</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4671465</relationship_id>
+      <predicate>under</predicate>
+      <subject>4273687</subject>
+      <object>4273688</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4564253</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4009840</subject>
+      <object>4009839</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>64</h>
+      <object_id>4273687</object_id>
+      <w>126</w>
+      <y>184</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>lizard</name>
+      <h>67</h>
+      <object_id>4273688</object_id>
+      <w>59</w>
+      <y>185</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>182</h>
+      <object_id>4009840</object_id>
+      <w>56</w>
+      <y>257</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+        <attribute>orange </attribute>
+      </attributes>
+      <name>flower</name>
+      <h>96</h>
+      <object_id>4009839</object_id>
+      <w>61</w>
+      <y>181</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A flower hanging from the end of a full banana tree branch.</caption>
+      <caption>A green lizard that is crawling on a red flower.</caption>
+      <caption>a green reptile climbs on a red plant in a forest</caption>
+      <caption>Bunches of bananas are on a branch near flowers.</caption>
+      <caption>A lizard on a banana tree hanging upside down.</caption>
+    </captions>
+</image>

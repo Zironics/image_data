@@ -1,0 +1,118 @@
+<image>
+  <image-id>2338805</image-id>
+  <coco-id>331165</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4578038</relationship_id>
+      <predicate>above</predicate>
+      <subject>4043117</subject>
+      <object>4043118</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796944</relationship_id>
+      <predicate>travelling on</predicate>
+      <subject>4590860</subject>
+      <object>4590851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796945</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>4590855</subject>
+      <object>4590856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796946</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4590860</subject>
+      <object>4590859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796947</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4590859</subject>
+      <object>4590862</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wires</name>
+      <h>70</h>
+      <object_id>4043117</object_id>
+      <w>281</w>
+      <y>71</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>74</h>
+      <object_id>4043118</object_id>
+      <w>280</w>
+      <y>155</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <h>59</h>
+      <object_id>4590860</object_id>
+      <w>329</w>
+      <y>142</y>
+      <x>65</x>
+      <name>train</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>track</name>
+      <h>37</h>
+      <object_id>4590851</object_id>
+      <w>373</w>
+      <y>178</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>43</h>
+      <object_id>4590855</object_id>
+      <w>20</w>
+      <y>47</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>85</h>
+      <object_id>4590856</object_id>
+      <w>207</w>
+      <y>57</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>43</h>
+      <object_id>4590859</object_id>
+      <w>322</w>
+      <y>174</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>bridge</name>
+      <h>88</h>
+      <object_id>4590862</object_id>
+      <w>416</w>
+      <y>201</y>
+      <x>82</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red train traveling down some train tracks</caption>
+      <caption>A train carries it's cars across a bridge.</caption>
+      <caption>A small train passing over an overpass on tracks</caption>
+      <caption>A train traveling over a rail bridge in the countryside.</caption>
+      <caption>Red passenger train passing through a bridge with the city behind it. </caption>
+    </captions>
+</image>

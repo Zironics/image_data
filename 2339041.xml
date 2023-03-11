@@ -1,0 +1,62 @@
+<image>
+  <image-id>2339041</image-id>
+  <coco-id>123389</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3746819</relationship_id>
+      <predicate>for</predicate>
+      <subject>3571910</subject>
+      <object>2540078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458698</relationship_id>
+      <predicate>from</predicate>
+      <subject>2551466</subject>
+      <object>2551465</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cardboard tray</name>
+      <h>203</h>
+      <object_id>3571910</object_id>
+      <w>328</w>
+      <y>151</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>241</h>
+      <object_id>2540078</object_id>
+      <w>395</w>
+      <y>114</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grease</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>25</h>
+      <object_id>2551466</object_id>
+      <w>39</w>
+      <y>179</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>212</h>
+      <object_id>2551465</object_id>
+      <w>315</w>
+      <y>147</y>
+      <x>74</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza sitting on top of a table next to drinks.</caption>
+      <caption>A pizza on a table next to some drinks. </caption>
+      <caption>A TABLE WITH A WHOLE PIZZA PIE ON IT </caption>
+      <caption>Large sliced pizza on serving disc at table with beverages.</caption>
+      <caption>Pizza on paper plates with beer and drinks</caption>
+    </captions>
+</image>

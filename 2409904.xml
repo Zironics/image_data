@@ -1,0 +1,145 @@
+<image>
+  <image-id>2409904</image-id>
+  <coco-id>160233</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>238420</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>230693</subject>
+      <object>230683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>238422</relationship_id>
+      <predicate>reading</predicate>
+      <subject>230687</subject>
+      <object>230695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>238423</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>230693</subject>
+      <object>230683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>238424</relationship_id>
+      <predicate>walking</predicate>
+      <subject>230693</subject>
+      <object>230683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>238425</relationship_id>
+      <predicate>driving</predicate>
+      <subject>230685</subject>
+      <object>230701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>238426</relationship_id>
+      <predicate>holding</predicate>
+      <subject>230693</subject>
+      <object>230683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>238427</relationship_id>
+      <predicate>holding</predicate>
+      <subject>230716</subject>
+      <object>230684</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>42</h>
+      <object_id>230693</object_id>
+      <w>16</w>
+      <y>446</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>10</h>
+      <object_id>230683</object_id>
+      <w>17</w>
+      <y>437</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>large</attribute>
+        <attribute>above street</attribute>
+        <attribute>festive</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>29</h>
+      <object_id>230687</object_id>
+      <w>71</w>
+      <y>208</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>christmas carol</name>
+      <h>13</h>
+      <object_id>230695</object_id>
+      <w>62</w>
+      <y>217</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>on road</attribute>
+        <attribute>in street</attribute>
+        <attribute>small</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>vehicle</name>
+      <h>33</h>
+      <object_id>230685</object_id>
+      <w>40</w>
+      <y>353</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in city</attribute>
+        <attribute>commerical</attribute>
+      </attributes>
+      <name>on road</name>
+      <h>227</h>
+      <object_id>230701</object_id>
+      <w>295</w>
+      <y>273</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>34</h>
+      <object_id>230716</object_id>
+      <w>19</w>
+      <y>466</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>14</h>
+      <object_id>230684</object_id>
+      <w>21</w>
+      <y>463</y>
+      <x>217</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of double deck tour buses parked at a street side.</caption>
+      <caption>A couple of buses that are sitting in front of a building.</caption>
+      <caption>A street with two buses parked on the side.</caption>
+      <caption>Two double decker buses drive down a street near tall buildings.</caption>
+      <caption>A road is lined with buildings and has cars on it.</caption>
+    </captions>
+</image>

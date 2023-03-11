@@ -1,0 +1,148 @@
+<image>
+  <image-id>2328053</image-id>
+  <coco-id>7936</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4471499</relationship_id>
+      <predicate>scratching</predicate>
+      <subject>3212910</subject>
+      <object>3936642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3212910</subject>
+      <object>3735438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154020</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2734677</subject>
+      <object>3212910</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154021</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2734678</subject>
+      <object>3212910</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154023</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3478474</subject>
+      <object>3212910</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4157597</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3212910</subject>
+      <object>3212911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154028</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3212910</subject>
+      <object>3735438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154032</relationship_id>
+      <predicate>behind a</predicate>
+      <subject>3441337</subject>
+      <object>3212910</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154034</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3000355</subject>
+      <object>3212910</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>242</h>
+      <object_id>3212910</object_id>
+      <w>205</w>
+      <y>256</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>495</h>
+      <object_id>3936642</object_id>
+      <w>68</w>
+      <y>2</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>497</h>
+      <object_id>3735438</object_id>
+      <w>68</w>
+      <y>0</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>front leg</name>
+      <h>92</h>
+      <object_id>2734677</object_id>
+      <w>57</w>
+      <y>270</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>front leg</name>
+      <h>58</h>
+      <object_id>2734678</object_id>
+      <w>66</w>
+      <y>318</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>22</h>
+      <object_id>3478474</object_id>
+      <w>20</w>
+      <y>265</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>forest</name>
+      <h>496</h>
+      <object_id>3212911</object_id>
+      <w>329</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>489</h>
+      <object_id>3441337</object_id>
+      <w>88</w>
+      <y>9</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>8</h>
+      <object_id>3000355</object_id>
+      <w>9</w>
+      <y>264</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black bear scratching on a tree in a forest.</caption>
+      <caption>A black bear is leaning against the trunk of a tree. </caption>
+      <caption>A black bear marks its territory by clawing a tree.</caption>
+      <caption>A black bear attempting to climb up a tree. </caption>
+      <caption>A bear in the woods on a tree .</caption>
+    </captions>
+</image>

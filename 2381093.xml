@@ -1,0 +1,65 @@
+<image>
+  <image-id>2381093</image-id>
+  <coco-id>119292</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4620776</relationship_id>
+      <predicate>are attached to</predicate>
+      <subject>4146860</subject>
+      <object>4146861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4620777</relationship_id>
+      <predicate>peeling off of</predicate>
+      <subject>4146862</subject>
+      <object>4146863</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>torn </attribute>
+      </attributes>
+      <name>blinds</name>
+      <h>222</h>
+      <object_id>4146860</object_id>
+      <w>43</w>
+      <y>96</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>225</h>
+      <object_id>4146861</object_id>
+      <w>50</w>
+      <y>99</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>peeling </attribute>
+      </attributes>
+      <name>paint</name>
+      <h>58</h>
+      <object_id>4146862</object_id>
+      <w>78</w>
+      <y>240</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>walls</name>
+      <h>69</h>
+      <object_id>4146863</object_id>
+      <w>100</w>
+      <y>227</y>
+      <x>81</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A view of a restroom toilet through a wooden door.</caption>
+      <caption>A bathroom with a toilet, peeling paint on the walls and a cabinet.</caption>
+      <caption>A photo looking into a bathroom that is falling apart.</caption>
+      <caption>A view of a bathroom, that is very old looking.</caption>
+      <caption>The door to the bathroom showing the toilet.</caption>
+    </captions>
+</image>

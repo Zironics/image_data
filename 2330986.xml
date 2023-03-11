@@ -1,0 +1,128 @@
+<image>
+  <image-id>2330986</image-id>
+  <coco-id>149406</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4825372</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4660295</subject>
+      <object>4660304</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825373</relationship_id>
+      <predicate>has a rear</predicate>
+      <subject>4660304</subject>
+      <object>4660298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825374</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4660300</subject>
+      <object>4660299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825375</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4660304</subject>
+      <object>4660302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825376</relationship_id>
+      <predicate>has</predicate>
+      <subject>4660304</subject>
+      <object>4660305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825377</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4660304</subject>
+      <object>4660303</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Round</attribute>
+      </attributes>
+      <name>headlight</name>
+      <h>28</h>
+      <object_id>4660295</object_id>
+      <w>23</w>
+      <y>319</y>
+      <x>128</x>
+    </object>
+    <object>
+      <h>207</h>
+      <object_id>4660304</object_id>
+      <w>315</w>
+      <y>270</y>
+      <x>63</x>
+      <name>motorbike</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>86</h>
+      <object_id>4660298</object_id>
+      <w>84</w>
+      <y>374</y>
+      <x>279</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>fender</name>
+      <h>11</h>
+      <object_id>4660300</object_id>
+      <w>39</w>
+      <y>375</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>92</h>
+      <object_id>4660299</object_id>
+      <w>91</w>
+      <y>373</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>gas tank</name>
+      <h>22</h>
+      <object_id>4660302</object_id>
+      <w>21</w>
+      <y>372</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>handlebars</name>
+      <h>60</h>
+      <object_id>4660305</object_id>
+      <w>49</w>
+      <y>275</y>
+      <x>144</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>Long</attribute>
+      </attributes>
+      <h>33</h>
+      <object_id>4660303</object_id>
+      <w>95</w>
+      <y>334</y>
+      <x>239</x>
+      <name>motorcycle seat</name>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>An old motorcycle rests near a rundown building. </caption>
+      <caption>A red motorcycle parked by paint chipped doors.</caption>
+      <caption>An old, dusty motorcycle parked in front of a run down shop</caption>
+      <caption>A motorcycle just outside a building with green, peeling paint</caption>
+      <caption>A motorcycle parked in front of green doors. </caption>
+    </captions>
+</image>

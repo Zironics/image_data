@@ -1,0 +1,204 @@
+<image>
+  <image-id>2348457</image-id>
+  <coco-id>367558</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2558342</relationship_id>
+      <predicate>has</predicate>
+      <subject>881940</subject>
+      <object>881941</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558343</relationship_id>
+      <predicate>has</predicate>
+      <subject>881940</subject>
+      <object>881942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558344</relationship_id>
+      <predicate>has</predicate>
+      <subject>881940</subject>
+      <object>881943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558345</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881944</subject>
+      <object>881945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558346</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881946</subject>
+      <object>881945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558347</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881944</subject>
+      <object>881945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558348</relationship_id>
+      <predicate>has</predicate>
+      <subject>881940</subject>
+      <object>881948</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558349</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881941</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558350</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881941</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558351</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881941</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558352</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881941</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558353</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881943</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558354</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881943</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558355</relationship_id>
+      <predicate>resting on</predicate>
+      <subject>881944</subject>
+      <object>881945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558356</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>881941</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558357</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>881943</subject>
+      <object>881940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2558358</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>881946</subject>
+      <object>881945</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+        <attribute>flatbread</attribute>
+        <attribute>saucy</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>198</h>
+      <object_id>881940</object_id>
+      <w>252</w>
+      <y>23</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cut up</attribute>
+        <attribute>sliced</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>avocado</name>
+      <h>62</h>
+      <object_id>881941</object_id>
+      <w>70</w>
+      <y>32</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>jalapenos</name>
+      <h>28</h>
+      <object_id>881942</object_id>
+      <w>42</w>
+      <y>65</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on pizza</attribute>
+        <attribute>sliced</attribute>
+      </attributes>
+      <name>black olive</name>
+      <h>23</h>
+      <object_id>881943</object_id>
+      <w>25</w>
+      <y>73</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>covered in sauce</attribute>
+      </attributes>
+      <name>pizza cutter</name>
+      <h>60</h>
+      <object_id>881944</object_id>
+      <w>59</w>
+      <y>1</y>
+      <x>315</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>with empty space</attribute>
+        <attribute>sectioned</attribute>
+      </attributes>
+      <name>pizza pan</name>
+      <h>498</h>
+      <object_id>881945</object_id>
+      <w>372</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>burnt edge</name>
+      <h>138</h>
+      <object_id>881946</object_id>
+      <w>374</w>
+      <y>362</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>crust</name>
+      <h>115</h>
+      <object_id>881948</object_id>
+      <w>233</w>
+      <y>18</y>
+      <x>44</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>3 slices of pizza with bell pepper, olives, and avocado</caption>
+      <caption>A pan of pizza with toppings on a table. </caption>
+      <caption>Pizza on plate cut into fourths with one piece mising</caption>
+      <caption>a pizza has been cut into four piecces</caption>
+      <caption>A cooked pizza that has some slices missing.</caption>
+    </captions>
+</image>

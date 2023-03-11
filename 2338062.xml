@@ -1,0 +1,83 @@
+<image>
+  <image-id>2338062</image-id>
+  <coco-id>183905</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4664029</relationship_id>
+      <predicate>fork have green</predicate>
+      <subject>4255185</subject>
+      <object>4255186</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4622442</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4151082</subject>
+      <object>4151083</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4800323</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4599396</subject>
+      <object>4151083</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>the</name>
+      <h>117</h>
+      <object_id>4255185</object_id>
+      <w>354</w>
+      <y>245</y>
+      <x>68</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>88</h>
+      <object_id>4255186</object_id>
+      <w>51</w>
+      <y>246</y>
+      <x>142</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>writing</name>
+      <h>44</h>
+      <object_id>4151082</object_id>
+      <w>114</w>
+      <y>209</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>246</h>
+      <object_id>4151083</object_id>
+      <w>386</w>
+      <y>125</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>372</h>
+      <object_id>4599396</object_id>
+      <w>396</w>
+      <y>0</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl holding a skewer with a banana on the end.  </caption>
+      <caption>The girl in glasses is holding a banana on a stick.</caption>
+      <caption>Blue and white shirted woman showing off forked fruit. </caption>
+      <caption>A woman with a banana on a skewer with trees in back.</caption>
+      <caption>A woman in glasses is holding a banana on a skewer.</caption>
+    </captions>
+</image>

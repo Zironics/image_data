@@ -1,0 +1,126 @@
+<image>
+  <image-id>2338255</image-id>
+  <coco-id>469424</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4065225</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2509740</subject>
+      <object>3930454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065226</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2557087</subject>
+      <object>3930454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065227</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3278845</subject>
+      <object>3278847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460363</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2344971</subject>
+      <object>3930454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065228</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2557375</subject>
+      <object>3444249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065229</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3444248</subject>
+      <object>3444249</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>77</h>
+      <object_id>2509740</object_id>
+      <w>73</w>
+      <y>114</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>130</h>
+      <object_id>3930454</object_id>
+      <w>236</w>
+      <y>112</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>32</h>
+      <object_id>2557087</object_id>
+      <w>61</w>
+      <y>195</y>
+      <x>320</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>27</h>
+      <object_id>3278845</object_id>
+      <w>57</w>
+      <y>212</y>
+      <x>300</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>112</h>
+      <object_id>3278847</object_id>
+      <w>227</w>
+      <y>115</y>
+      <x>155</x>
+    </object>
+    <object>
+      <h>7</h>
+      <object_id>2344971</object_id>
+      <w>8</w>
+      <y>158</y>
+      <x>323</x>
+      <name>cateye</name>
+    </object>
+    <object>
+      <name>fur</name>
+      <h>24</h>
+      <object_id>2557375</object_id>
+      <w>97</w>
+      <y>170</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>122</h>
+      <object_id>3444249</object_id>
+      <w>225</w>
+      <y>116</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>13</h>
+      <object_id>3444248</object_id>
+      <w>10</w>
+      <y>165</y>
+      <x>337</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat laying on top of a wooden bench.</caption>
+      <caption>A cat sits on a bench near some vegetation.</caption>
+      <caption>A brown cat is sitting on a bench near bushes.</caption>
+      <caption>a cat that is laying on a bench</caption>
+      <caption>An orange tabby cat laying down on a bench near shrubs.</caption>
+    </captions>
+</image>

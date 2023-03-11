@@ -1,0 +1,57 @@
+<image>
+  <image-id>2336058</image-id>
+  <coco-id>137677</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3972843</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2211164</subject>
+      <object>3665575</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4450026</relationship_id>
+      <predicate>has</predicate>
+      <subject>2211164</subject>
+      <object>3924597</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>78</h>
+      <object_id>2211164</object_id>
+      <w>64</w>
+      <y>146</y>
+      <x>243</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>224</h>
+      <object_id>3665575</object_id>
+      <w>270</w>
+      <y>69</y>
+      <x>116</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sharp</attribute>
+      </attributes>
+      <name>claws</name>
+      <h>9</h>
+      <object_id>3924597</object_id>
+      <w>11</w>
+      <y>163</y>
+      <x>287</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bird flying thru the sky with mountains in the background</caption>
+      <caption>a bird with a large sing span flying over trees</caption>
+      <caption>A bird in flights with mountains in the background.</caption>
+      <caption>A bird soaring through a foggy sky over a snow covered mountain.</caption>
+      <caption>A bird that is flying in the sky.</caption>
+    </captions>
+</image>

@@ -1,0 +1,121 @@
+<image>
+  <image-id>2380132</image-id>
+  <coco-id>44858</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3607535</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1350216</subject>
+      <object>1350217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3607536</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1350218</subject>
+      <object>1350214</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3607537</relationship_id>
+      <predicate>has</predicate>
+      <subject>1350214</subject>
+      <object>1350219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3607538</relationship_id>
+      <predicate>has</predicate>
+      <subject>1350214</subject>
+      <object>1350218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3607539</relationship_id>
+      <predicate>has</predicate>
+      <subject>1350214</subject>
+      <object>1350218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3607540</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1350218</subject>
+      <object>1350214</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3607541</relationship_id>
+      <predicate>has</predicate>
+      <subject>1350214</subject>
+      <object>1350229</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>33</h>
+      <object_id>1350216</object_id>
+      <w>20</w>
+      <y>194</y>
+      <x>453</x>
+    </object>
+    <object>
+      <name>corner</name>
+      <h>84</h>
+      <object_id>1350217</object_id>
+      <w>60</w>
+      <y>171</y>
+      <x>424</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>present</attribute>
+        <attribute>in front</attribute>
+        <attribute>window</attribute>
+        <attribute>green</attribute>
+        <attribute>big</attribute>
+        <attribute>portioned</attribute>
+      </attributes>
+      <name>window pane</name>
+      <h>203</h>
+      <object_id>1350218</object_id>
+      <w>217</w>
+      <y>1</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>three story</attribute>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+        <attribute>reflected</attribute>
+        <attribute>light</attribute>
+      </attributes>
+      <name>building</name>
+      <h>123</h>
+      <object_id>1350214</object_id>
+      <w>288</w>
+      <y>77</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>window  pane</name>
+      <h>161</h>
+      <object_id>1350219</object_id>
+      <w>82</w>
+      <y>23</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>columns</name>
+      <h>48</h>
+      <object_id>1350229</object_id>
+      <w>175</w>
+      <y>148</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A reflection of a large building in a window.</caption>
+      <caption>Reflecting windows with various buildings on a walkway.</caption>
+      <caption>An outdoor window reflects a tall gray cluster of buildings.</caption>
+      <caption>A few window reflections of a few buildings facing the windows.</caption>
+      <caption>Glass reflection of old buildings and fall tree</caption>
+    </captions>
+</image>

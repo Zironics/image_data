@@ -1,0 +1,77 @@
+<image>
+  <image-id>2407001</image-id>
+  <coco-id>530081</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3230405</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1099510</subject>
+      <object>1099511</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3230411</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1099512</subject>
+      <object>1099513</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3230447</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1099512</subject>
+      <object>1099513</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3230451</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1099512</subject>
+      <object>1099513</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3230452</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1099512</subject>
+      <object>1099513</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1099510</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1099511</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1099512</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1099513</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some trays of many different types of food.</caption>
+      <caption>Four boxes of lunch items on a desk in front of a keyboard.</caption>
+      <caption>Various snack foods sit in plastic boxes in front of a keyboard.</caption>
+      <caption>A bunch of small trays filled with food items</caption>
+      <caption>A desk with a keyboard on it and several containers of food in front of the keyboard.</caption>
+    </captions>
+</image>

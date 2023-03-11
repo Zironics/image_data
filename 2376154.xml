@@ -1,0 +1,191 @@
+<image>
+  <image-id>2376154</image-id>
+  <coco-id>58880</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4026896</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2132281</subject>
+      <object>3840609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026897</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3840609</subject>
+      <object>2318200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026900</relationship_id>
+      <predicate>hanging over end of</predicate>
+      <subject>3840609</subject>
+      <object>2318200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4302619</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2618218</subject>
+      <object>3840609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026901</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1712365</subject>
+      <object>3840609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026902</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1712366</subject>
+      <object>3840609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026904</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3840609</subject>
+      <object>2318200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026905</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2318200</subject>
+      <object>2121147</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026907</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2618218</subject>
+      <object>3840609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026908</relationship_id>
+      <predicate>hanging off</predicate>
+      <subject>2132281</subject>
+      <object>3840609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4302620</relationship_id>
+      <predicate>made</predicate>
+      <subject>2618218</subject>
+      <object>3840610</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026909</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2618218</subject>
+      <object>3840609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4302621</relationship_id>
+      <predicate>has</predicate>
+      <subject>3840609</subject>
+      <object>3840611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026910</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3840609</subject>
+      <object>2318200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4026913</relationship_id>
+      <predicate>of a piece of</predicate>
+      <subject>2132281</subject>
+      <object>3840609</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>golden brown</attribute>
+      </attributes>
+      <h>88</h>
+      <object_id>2132281</object_id>
+      <w>254</w>
+      <y>49</y>
+      <x>78</x>
+      <name>crust</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cheese pizza</attribute>
+        <attribute>sliced</attribute>
+        <attribute>yellow </attribute>
+        <attribute>tan </attribute>
+        <attribute>red</attribute>
+        <attribute>pointy </attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>375</h>
+      <object_id>3840609</object_id>
+      <w>303</w>
+      <y>45</y>
+      <x>29</x>
+    </object>
+    <object>
+      <h>290</h>
+      <object_id>2318200</object_id>
+      <w>333</w>
+      <y>98</y>
+      <x>0</x>
+      <name>paper plate</name>
+    </object>
+    <object>
+      <h>308</h>
+      <object_id>2618218</object_id>
+      <w>288</w>
+      <y>76</y>
+      <x>45</x>
+      <name>cheese</name>
+    </object>
+    <object>
+      <name>tomato sauce</name>
+      <h>27</h>
+      <object_id>1712365</object_id>
+      <w>28</w>
+      <y>253</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>tomato sauce</name>
+      <h>31</h>
+      <object_id>1712366</object_id>
+      <w>99</w>
+      <y>62</y>
+      <x>83</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark grey</attribute>
+      </attributes>
+      <h>497</h>
+      <object_id>2121147</object_id>
+      <w>333</w>
+      <y>1</y>
+      <x>0</x>
+      <name>countertop</name>
+    </object>
+    <object>
+      <name>bubble</name>
+      <h>47</h>
+      <object_id>3840610</object_id>
+      <w>70</w>
+      <y>79</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>crust</name>
+      <h>37</h>
+      <object_id>3840611</object_id>
+      <w>114</w>
+      <y>55</y>
+      <x>153</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A slice of pizza sitting on top of a white paper plate.</caption>
+      <caption>One slice of simple cheese pizza on a paper plate.</caption>
+      <caption>A single piece of pizza sits on a plain white paper plate.</caption>
+      <caption>Slice of cheese pizza displayed on paper plate for consumption.</caption>
+      <caption>The pizza is on a paper plate. </caption>
+    </captions>
+</image>

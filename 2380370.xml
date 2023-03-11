@@ -1,0 +1,79 @@
+<image>
+  <image-id>2380370</image-id>
+  <coco-id>393915</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4663083</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4253135</subject>
+      <object>4253136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4663084</relationship_id>
+      <predicate>for</predicate>
+      <subject>4253137</subject>
+      <object>4253138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4663096</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4253137</subject>
+      <object>4253170</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>top</name>
+      <h>49</h>
+      <object_id>4253135</object_id>
+      <w>180</w>
+      <y>21</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>barrier</name>
+      <h>150</h>
+      <object_id>4253136</object_id>
+      <w>224</w>
+      <y>31</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>skateboard</name>
+      <h>41</h>
+      <object_id>4253137</object_id>
+      <w>56</w>
+      <y>84</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>110</h>
+      <object_id>4253138</object_id>
+      <w>100</w>
+      <y>5</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>ramp</name>
+      <h>182</h>
+      <object_id>4253170</object_id>
+      <w>359</w>
+      <y>33</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a skateboard on a ramp in a park.</caption>
+      <caption>A skateboarder riding along the ramps in a skate park.</caption>
+      <caption>A man riding a skate board on top of a  cement skate park.</caption>
+      <caption>A skateboarder is in a cement skate park.</caption>
+      <caption>A man rides his skateboard at a skate park.</caption>
+    </captions>
+</image>

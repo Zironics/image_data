@@ -1,0 +1,57 @@
+<image>
+  <image-id>1160012</image-id>
+  <coco-id>206684</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4644916</relationship_id>
+      <predicate>with</predicate>
+      <subject>4206514</subject>
+      <object>4206515</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4644917</relationship_id>
+      <predicate>with</predicate>
+      <subject>4206514</subject>
+      <object>4206516</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>124</h>
+      <object_id>4206514</object_id>
+      <w>51</w>
+      <y>404</y>
+      <x>276</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>51</h>
+      <object_id>4206515</object_id>
+      <w>51</w>
+      <y>425</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>54</h>
+      <object_id>4206516</object_id>
+      <w>38</w>
+      <y>471</y>
+      <x>294</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The man is sitting on the bench close to the asian section.</caption>
+      <caption>A man is sitting on a bench by a busy street.</caption>
+      <caption>A man sitting on a bench alongside the curb of a busy street.</caption>
+      <caption>A young person sitting on a bench across the street from a big building. </caption>
+      <caption>A man in a religious outfit talking on a phone across from others.</caption>
+    </captions>
+</image>

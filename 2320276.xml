@@ -1,0 +1,84 @@
+<image>
+  <image-id>2320276</image-id>
+  <coco-id>295236</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3851670</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2763486</subject>
+      <object>3617192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857944</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3291203</subject>
+      <object>3619963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857945</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2943031</subject>
+      <object>3073280</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>166</h>
+      <object_id>2763486</object_id>
+      <w>496</w>
+      <y>113</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>161</h>
+      <object_id>3617192</object_id>
+      <w>492</w>
+      <y>115</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>27</h>
+      <object_id>3291203</object_id>
+      <w>29</w>
+      <y>128</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>10</h>
+      <object_id>3619963</object_id>
+      <w>20</w>
+      <y>150</y>
+      <x>23</x>
+    </object>
+    <object>
+      <h>58</h>
+      <object_id>2943031</object_id>
+      <w>30</w>
+      <y>173</y>
+      <x>212</x>
+      <name>people</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>22</h>
+      <object_id>3073280</object_id>
+      <w>17</w>
+      <y>182</y>
+      <x>219</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This photo shows people skiing in the mountains.</caption>
+      <caption>Several skiers are playing in the white snow.</caption>
+      <caption>The people are out skiing down the mountain today. </caption>
+      <caption>A group of skiers on a mountain beneath the lift</caption>
+      <caption>Skiers and snowboarders on a snowy ski area slope. </caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>2368069</image-id>
+  <coco-id>553976</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4352369</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2542412</subject>
+      <object>2036452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4352371</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2531483</subject>
+      <object>2531484</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4352373</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3870942</subject>
+      <object>2044783</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tree</attribute>
+      </attributes>
+      <name>trunks</name>
+      <h>312</h>
+      <object_id>2542412</object_id>
+      <w>136</w>
+      <y>13</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>fire hydrant</name>
+      <h>327</h>
+      <object_id>2036452</object_id>
+      <w>123</w>
+      <y>4</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dried</attribute>
+      </attributes>
+      <name>branches</name>
+      <h>261</h>
+      <object_id>2531483</object_id>
+      <w>494</w>
+      <y>69</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>322</h>
+      <object_id>2531484</object_id>
+      <w>492</w>
+      <y>9</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>149</h>
+      <object_id>3870942</object_id>
+      <w>382</w>
+      <y>177</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>forest</name>
+      <h>325</h>
+      <object_id>2044783</object_id>
+      <w>468</w>
+      <y>7</y>
+      <x>28</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall red fire hydrant in front of trees.</caption>
+      <caption>A fire hydrant sitting in the middle of a forest.</caption>
+      <caption>A red fire hydrant sitting next to a tall tree.</caption>
+      <caption>A fire hydrant stands crookedly in a wooded area.</caption>
+      <caption>Red fire hydrant amidst a forest of trees.</caption>
+    </captions>
+</image>

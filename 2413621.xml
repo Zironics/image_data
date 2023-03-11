@@ -1,0 +1,107 @@
+<image>
+  <image-id>2413621</image-id>
+  <coco-id>388581</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>163324</relationship_id>
+      <predicate>near</predicate>
+      <subject>169689</subject>
+      <object>169684</object>
+    </relationship>
+    <relationship>
+      <relationship_id>163325</relationship_id>
+      <predicate>has</predicate>
+      <subject>169684</subject>
+      <object>169687</object>
+    </relationship>
+    <relationship>
+      <relationship_id>163326</relationship_id>
+      <predicate>with</predicate>
+      <subject>169684</subject>
+      <object>169683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>163327</relationship_id>
+      <predicate>with</predicate>
+      <subject>169679</subject>
+      <object>169680</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>trash bin</name>
+      <h>120</h>
+      <object_id>169689</object_id>
+      <w>41</w>
+      <y>371</y>
+      <x>331</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>180</h>
+      <object_id>169684</object_id>
+      <w>152</w>
+      <y>319</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>flush button</name>
+      <h>37</h>
+      <object_id>169687</object_id>
+      <w>41</w>
+      <y>174</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>121</h>
+      <object_id>169683</object_id>
+      <w>127</w>
+      <y>378</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>96</h>
+      <object_id>169679</object_id>
+      <w>88</w>
+      <y>5</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>writing</name>
+      <h>62</h>
+      <object_id>169680</object_id>
+      <w>55</w>
+      <y>24</y>
+      <x>187</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a public bathroom with a toilet and hand rail</caption>
+      <caption>A public bathroom with support bars and a toilet.</caption>
+      <caption>Public bathroom has handicap accessories around the toilet.</caption>
+      <caption>Instructions for proper toilet use and handrails hang on a wall above the toilet itself in an empty stall.</caption>
+      <caption>A toilet has a handicapped  bar behind it.</caption>
+    </captions>
+</image>

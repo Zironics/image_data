@@ -1,0 +1,90 @@
+<image>
+  <image-id>2333315</image-id>
+  <coco-id>364748</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3992326</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2952852</subject>
+      <object>2952855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3992327</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2952853</subject>
+      <object>2952856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3992328</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2952854</subject>
+      <object>2952857</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>doughnut</name>
+      <h>185</h>
+      <object_id>2952852</object_id>
+      <w>155</w>
+      <y>263</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>wrapper</name>
+      <h>242</h>
+      <object_id>2952855</object_id>
+      <w>223</w>
+      <y>225</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>doughnut</name>
+      <h>170</h>
+      <object_id>2952853</object_id>
+      <w>165</w>
+      <y>239</y>
+      <x>146</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>wrapper</name>
+      <h>250</h>
+      <object_id>2952856</object_id>
+      <w>242</w>
+      <y>205</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>doughnut</name>
+      <h>152</h>
+      <object_id>2952854</object_id>
+      <w>182</w>
+      <y>277</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>wrapper</name>
+      <h>192</h>
+      <object_id>2952857</object_id>
+      <w>252</w>
+      <y>282</y>
+      <x>238</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three wrapped donuts and a bag on the table</caption>
+      <caption>Three donuts in plastic wrapping net to a bag.</caption>
+      <caption>Three items that look like donuts referenced by a Natas brand</caption>
+      <caption>there are three donuts in separate plastic on the table</caption>
+      <caption>Three packaged doughnuts that are on a table.</caption>
+    </captions>
+</image>

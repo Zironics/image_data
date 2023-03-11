@@ -1,0 +1,59 @@
+<image>
+  <image-id>2387136</image-id>
+  <coco-id>570810</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4605548</relationship_id>
+      <predicate>below</predicate>
+      <subject>4108978</subject>
+      <object>4108979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4571022</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4026415</subject>
+      <object>4026416</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>metal</name>
+      <h>39</h>
+      <object_id>4108978</object_id>
+      <w>130</w>
+      <y>314</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>belt</name>
+      <h>24</h>
+      <object_id>4108979</object_id>
+      <w>78</w>
+      <y>268</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>5</h>
+      <object_id>4026415</object_id>
+      <w>5</w>
+      <y>84</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>camera</name>
+      <h>15</h>
+      <object_id>4026416</object_id>
+      <w>13</w>
+      <y>82</y>
+      <x>236</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Woman grabbing her luggage at an airport terminal.</caption>
+      <caption>A woman is picking up her suitcase at baggage claim.</caption>
+      <caption>A woman grabs her luggage off of the carousel.</caption>
+      <caption>many people picking their baggage at the airport</caption>
+      <caption>Some bags are coming around at baggage claim</caption>
+    </captions>
+</image>

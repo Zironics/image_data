@@ -1,0 +1,59 @@
+<image>
+  <image-id>2329386</image-id>
+  <coco-id>183166</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4831054</relationship_id>
+      <predicate>riding</predicate>
+      <subject>4674671</subject>
+      <object>4674672</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4583410</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4056090</subject>
+      <object>4056091</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>150</h>
+      <object_id>4674671</object_id>
+      <w>87</w>
+      <y>165</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>motorbike</name>
+      <h>136</h>
+      <object_id>4674672</object_id>
+      <w>84</w>
+      <y>208</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>28</h>
+      <object_id>4056090</object_id>
+      <w>53</w>
+      <y>166</y>
+      <x>295</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>81</h>
+      <object_id>4056091</object_id>
+      <w>66</w>
+      <y>153</y>
+      <x>290</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people riding a scooter on the road while holding an umbrella.</caption>
+      <caption>there are two people on a motorbike holding an umbrella.</caption>
+      <caption>Two people, one of which is holding an umbrella, on a motorcycle.</caption>
+      <caption>two people sitting on a scooter while one holds onto an umbrella </caption>
+      <caption>A couple of people riding a motorcycle down a street.</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2338383</image-id>
+  <coco-id>252193</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4798919</relationship_id>
+      <predicate>under</predicate>
+      <subject>4595896</subject>
+      <object>4595897</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>paper</name>
+      <h>128</h>
+      <object_id>4595896</object_id>
+      <w>150</w>
+      <y>216</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>screwdriver</name>
+      <h>60</h>
+      <object_id>4595897</object_id>
+      <w>70</w>
+      <y>268</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>this is a computer and books on a desk</caption>
+      <caption>A laptop computer sitting on a desk with books behind it.</caption>
+      <caption>there is a black lap top on top of a desk </caption>
+      <caption>A laptop sits on a table next to a stack of books. </caption>
+      <caption>A geek uses their laptop to play war of worldcraft</caption>
+    </captions>
+</image>

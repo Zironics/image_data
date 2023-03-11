@@ -1,0 +1,96 @@
+<image>
+  <image-id>2379581</image-id>
+  <coco-id>140983</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4689206</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4590430</subject>
+      <object>4126608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796792</relationship_id>
+      <predicate>has</predicate>
+      <subject>4126608</subject>
+      <object>4590418</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689216</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4590430</subject>
+      <object>4319443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4612884</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4126604</subject>
+      <object>4126608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4612886</relationship_id>
+      <predicate>has</predicate>
+      <subject>4126608</subject>
+      <object>4126609</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>13</h>
+      <object_id>4590430</object_id>
+      <w>23</w>
+      <y>132</y>
+      <x>275</x>
+      <name>eye</name>
+    </object>
+    <object>
+      <h>354</h>
+      <object_id>4126608</object_id>
+      <w>338</w>
+      <y>21</y>
+      <x>55</x>
+      <name>baby</name>
+    </object>
+    <object>
+      <name>toothbrush</name>
+      <h>45</h>
+      <object_id>4590418</object_id>
+      <w>160</w>
+      <y>167</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>365</h>
+      <object_id>4319443</object_id>
+      <w>322</w>
+      <y>8</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>pillow</name>
+      <h>280</h>
+      <object_id>4126604</object_id>
+      <w>172</w>
+      <y>92</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>little</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>31</h>
+      <object_id>4126609</object_id>
+      <w>35</w>
+      <y>147</y>
+      <x>245</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little baby that is sitting with a toothbrush.</caption>
+      <caption>A very cute toddler brushing her teeth while sitting on the couch</caption>
+      <caption>A girl sitting on a couch with a toothbrush in her mouth.</caption>
+      <caption>A young girl holding a tooth brush in her mouth.</caption>
+      <caption>The little girl has a toothbrush in her mouth</caption>
+    </captions>
+</image>

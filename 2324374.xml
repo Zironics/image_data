@@ -1,0 +1,95 @@
+<image>
+  <image-id>2324374</image-id>
+  <coco-id>498010</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4525342</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2879561</subject>
+      <object>2879562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3762200</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3472523</subject>
+      <object>2994256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3762201</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3472523</subject>
+      <object>2994256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3762202</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3472523</subject>
+      <object>2994256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3762203</relationship_id>
+      <predicate>has</predicate>
+      <subject>2994256</subject>
+      <object>3472523</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3762204</relationship_id>
+      <predicate>has</predicate>
+      <subject>2994256</subject>
+      <object>3472523</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3762205</relationship_id>
+      <predicate>has</predicate>
+      <subject>2994256</subject>
+      <object>3472523</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>silver pole</name>
+      <h>30</h>
+      <object_id>2879561</object_id>
+      <w>346</w>
+      <y>148</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>foreground</name>
+      <h>148</h>
+      <object_id>2879562</object_id>
+      <w>355</w>
+      <y>89</y>
+      <x>99</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>light</name>
+      <h>36</h>
+      <object_id>3472523</object_id>
+      <w>12</w>
+      <y>123</y>
+      <x>321</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>signal</attribute>
+      </attributes>
+      <h>9</h>
+      <object_id>2994256</object_id>
+      <w>317</w>
+      <y>152</y>
+      <x>162</x>
+      <name>post</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three red stoplights against the background of a sunset..</caption>
+      <caption>a stop light that is over a road way</caption>
+      <caption>Three street lights turn red at the same time.</caption>
+      <caption>Three traffic lights next to each other are all red.</caption>
+      <caption>Three stop lights hanging on a pole near trees.</caption>
+    </captions>
+</image>

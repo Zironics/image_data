@@ -1,0 +1,162 @@
+<image>
+  <image-id>2349940</image-id>
+  <coco-id>325152</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3805197</relationship_id>
+      <predicate>creating</predicate>
+      <subject>1989729</subject>
+      <object>1989730</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805198</relationship_id>
+      <predicate>hung between</predicate>
+      <subject>2100503</subject>
+      <object>3596253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412497</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>2100503</subject>
+      <object>2517953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805199</relationship_id>
+      <predicate>falling on</predicate>
+      <subject>2109366</subject>
+      <object>3596254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412498</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2640531</subject>
+      <object>1719607</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805200</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>2100503</subject>
+      <object>2100504</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412499</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>2100503</subject>
+      <object>2430827</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>316</h>
+      <object_id>1989729</object_id>
+      <w>331</w>
+      <y>4</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>shadows</name>
+      <h>151</h>
+      <object_id>1989730</object_id>
+      <w>332</w>
+      <y>332</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>14</h>
+      <object_id>2100503</object_id>
+      <w>61</w>
+      <y>303</y>
+      <x>59</x>
+      <name>brown hammock</name>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>275</h>
+      <object_id>3596253</object_id>
+      <w>82</w>
+      <y>66</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tree tunks</attribute>
+      </attributes>
+      <name>trunks</name>
+      <h>301</h>
+      <object_id>2517953</object_id>
+      <w>70</w>
+      <y>42</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>shadow</name>
+      <h>174</h>
+      <object_id>2109366</object_id>
+      <w>332</w>
+      <y>324</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>152</h>
+      <object_id>3596254</object_id>
+      <w>312</w>
+      <y>334</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>darker</attribute>
+      </attributes>
+      <h>28</h>
+      <object_id>2640531</object_id>
+      <w>61</w>
+      <y>324</y>
+      <x>229</x>
+      <name>bench</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lighter</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>33</h>
+      <object_id>1719607</object_id>
+      <w>63</w>
+      <y>326</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>344</h>
+      <object_id>2100504</object_id>
+      <w>166</w>
+      <y>0</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lighter base</attribute>
+        <attribute>tree trunk</attribute>
+      </attributes>
+      <name>trunk</name>
+      <h>110</h>
+      <object_id>2430827</object_id>
+      <w>38</w>
+      <y>229</y>
+      <x>57</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A forest with many tall trees all around.</caption>
+      <caption>A place with rows of trees and 2-3 benches for resting.</caption>
+      <caption>A scene of a wooded area with a bench in the background.</caption>
+      <caption>A shady forest with benches and no people.</caption>
+      <caption>Park benches sit underneath tall trees in a forest.</caption>
+    </captions>
+</image>

@@ -1,0 +1,57 @@
+<image>
+  <image-id>2326708</image-id>
+  <coco-id>535679</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476920</relationship_id>
+      <predicate>shining</predicate>
+      <subject>3938752</subject>
+      <object>2992127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476921</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2856230</subject>
+      <object>2992127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sun</name>
+      <h>241</h>
+      <object_id>3938752</object_id>
+      <w>280</w>
+      <y>2</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue  </attribute>
+      </attributes>
+      <name>bench</name>
+      <h>285</h>
+      <object_id>2992127</object_id>
+      <w>494</w>
+      <y>37</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>panel</name>
+      <h>41</h>
+      <object_id>2856230</object_id>
+      <w>434</w>
+      <y>50</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat laying on top of a blue wooden bench.</caption>
+      <caption>a cat stretches out on a park bench </caption>
+      <caption>a cat stretching on a blue wooden bench</caption>
+      <caption>A cat stretching on a blue bench near a red brick wall.</caption>
+      <caption>A cat that is stretching it's front legs on a bench.</caption>
+    </captions>
+</image>

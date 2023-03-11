@@ -1,0 +1,40 @@
+<image>
+  <image-id>2379907</image-id>
+  <coco-id>83110</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4678205</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4290755</subject>
+      <object>4290756</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>357</h>
+      <object_id>4290755</object_id>
+      <w>294</w>
+      <y>116</y>
+      <x>91</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloth</name>
+      <h>278</h>
+      <object_id>4290756</object_id>
+      <w>294</w>
+      <y>195</y>
+      <x>92</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting in a  hospital bed hooked up to an IV.</caption>
+      <caption>A man in white gown sitting on the edge of a hospital bed.</caption>
+      <caption>A man hooked up to medical machinery looks at the camera.</caption>
+      <caption>A man sitting in a hospital bed, connected to wires.</caption>
+      <caption>there is a man with a hospital robe on</caption>
+    </captions>
+</image>

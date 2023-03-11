@@ -1,0 +1,96 @@
+<image>
+  <image-id>2401736</image-id>
+  <coco-id>318022</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3286944</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1144760</subject>
+      <object>1144761</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3286950</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1144762</subject>
+      <object>1144763</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3286986</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1144762</subject>
+      <object>1144763</object>
+    </relationship>
+    <relationship>
+      <relationship_id>810698</relationship_id>
+      <predicate>brushing</predicate>
+      <subject>396436</subject>
+      <object>396437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3286990</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1144762</subject>
+      <object>1144763</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1144760</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1144761</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1144762</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1144763</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>man</name>
+      <h>261</h>
+      <object_id>396436</object_id>
+      <w>159</w>
+      <y>49</y>
+      <x>306</x>
+    </object>
+    <object>
+      <name>teeth</name>
+      <h>40</h>
+      <object_id>396437</object_id>
+      <w>53</w>
+      <y>104</y>
+      <x>315</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man is brushing his teeth while a piece of tissue sticks out of his ear.</caption>
+      <caption>A man looking in a mirror with a toothbrush in his mouth and cotton swabs in one of his ears.</caption>
+      <caption>The man brushing his teeth in the mirror has paper in his ears. </caption>
+      <caption>A man has a weird face looking in a mirror.</caption>
+      <caption>A man that is brushing his teeth is having his picture taken. </caption>
+    </captions>
+</image>

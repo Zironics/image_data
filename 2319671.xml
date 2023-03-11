@@ -1,0 +1,40 @@
+<image>
+  <image-id>2319671</image-id>
+  <coco-id>511496</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4493413</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2738828</subject>
+      <object>2738831</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>39</h>
+      <object_id>2738828</object_id>
+      <w>50</w>
+      <y>83</y>
+      <x>416</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>317</h>
+      <object_id>2738831</object_id>
+      <w>497</w>
+      <y>14</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of white sheep standing on top of a lush green field.</caption>
+      <caption>Two goats wandering around a very muddy field</caption>
+      <caption>Two cream-colored goats walking in a tussocky landscape.</caption>
+      <caption>A couple of sheep walking through a field of tall grass.</caption>
+      <caption>Sheep move and rest in a grassy field.</caption>
+    </captions>
+</image>

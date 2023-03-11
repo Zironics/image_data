@@ -1,0 +1,130 @@
+<image>
+  <image-id>2335132</image-id>
+  <coco-id>506873</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3987761</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3671598</subject>
+      <object>2326674</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987762</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3671599</subject>
+      <object>2906536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987763</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3671600</subject>
+      <object>2425885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4147330</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2906536</subject>
+      <object>2906537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987764</relationship_id>
+      <predicate>covered in</predicate>
+      <subject>3505730</subject>
+      <object>3259281</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>mustard</name>
+      <h>290</h>
+      <object_id>3671598</object_id>
+      <w>324</w>
+      <y>71</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>hot dog</name>
+      <h>294</h>
+      <object_id>2326674</object_id>
+      <w>408</w>
+      <y>50</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>mustard stain</name>
+      <h>50</h>
+      <object_id>3671599</object_id>
+      <w>58</w>
+      <y>181</y>
+      <x>165</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pictured</attribute>
+      </attributes>
+      <h>316</h>
+      <object_id>2906536</object_id>
+      <w>472</w>
+      <y>58</y>
+      <x>29</x>
+      <name>hotdog</name>
+    </object>
+    <object>
+      <name>human hand</name>
+      <h>145</h>
+      <object_id>3671600</object_id>
+      <w>83</w>
+      <y>228</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>hotdog</name>
+      <h>315</h>
+      <object_id>2425885</object_id>
+      <w>456</w>
+      <y>57</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>bun</name>
+      <h>313</h>
+      <object_id>2906537</object_id>
+      <w>411</w>
+      <y>60</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hot dog</attribute>
+      </attributes>
+      <name>wiener</name>
+      <h>309</h>
+      <object_id>3505730</object_id>
+      <w>393</w>
+      <y>62</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+        <attribute>thick</attribute>
+      </attributes>
+      <name>mustard</name>
+      <h>310</h>
+      <object_id>3259281</object_id>
+      <w>367</w>
+      <y>59</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A hot dog in a wrapper is smeared with yellow mustard.</caption>
+      <caption>a close up of a person holding a hot dog </caption>
+      <caption>A close-up of a hot dog with mustard.</caption>
+      <caption>A hot dog on a bun with an abundance of yellow mustard.</caption>
+      <caption>A hotdog in white paper slathered in mustard</caption>
+    </captions>
+</image>

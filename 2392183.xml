@@ -1,0 +1,37 @@
+<image>
+  <image-id>2392183</image-id>
+  <coco-id>288170</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3437388</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1233119</subject>
+      <object>1233120</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rel</name>
+      <h>42</h>
+      <object_id>1233119</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>43</h>
+      <object_id>1233120</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A city street with antique cars and pedestrians.</caption>
+      <caption>The city street has a lot of cars parked on the side of it. </caption>
+      <caption>a city street with parked cars and buildings</caption>
+      <caption>A black and white photo of city with vintage cars parked along the street.</caption>
+      <caption>Black and white photograph of people and cars on a street.</caption>
+    </captions>
+</image>

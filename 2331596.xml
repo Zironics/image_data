@@ -1,0 +1,70 @@
+<image>
+  <image-id>2331596</image-id>
+  <coco-id>428015</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4100518</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2716941</subject>
+      <object>2716940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100519</relationship_id>
+      <predicate>on boys</predicate>
+      <subject>3368089</subject>
+      <object>3368090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4004868</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2716940</subject>
+      <object>2716941</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>shiny</attribute>
+        <attribute>silver</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>70</h>
+      <object_id>2716941</object_id>
+      <w>81</w>
+      <y>254</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>258</h>
+      <object_id>2716940</object_id>
+      <w>153</w>
+      <y>132</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>darth vader</name>
+      <h>49</h>
+      <object_id>3368089</object_id>
+      <w>40</w>
+      <y>187</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>110</h>
+      <object_id>3368090</object_id>
+      <w>104</w>
+      <y>172</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy riding in the street on a skateboard.</caption>
+      <caption>a person riding a skate board on a street</caption>
+      <caption>A young boy skateboarding on  a special skateboard</caption>
+      <caption>A young boy is riding on his skateboard. </caption>
+      <caption>A boy riding a stake board on a street.</caption>
+    </captions>
+</image>

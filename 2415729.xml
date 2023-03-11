@@ -1,0 +1,57 @@
+<image>
+  <image-id>2415729</image-id>
+  <coco-id>567121</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3876186</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2748366</subject>
+      <object>2748368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3876187</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2748366</subject>
+      <object>2748368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3876188</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3408074</subject>
+      <object>2748368</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>white line</name>
+      <h>29</h>
+      <object_id>2748366</object_id>
+      <w>155</w>
+      <y>202</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>411</h>
+      <object_id>2748368</object_id>
+      <w>316</w>
+      <y>78</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>white lines</name>
+      <h>290</h>
+      <object_id>3408074</object_id>
+      <w>160</w>
+      <y>207</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The lady is getting ready to hit a tennis ball.</caption>
+      <caption>A female tennis player jumping up to hit the ball.</caption>
+      <caption>a woman hitting a tennis ball on a tennis court.</caption>
+      <caption>Female tennis player with raised racket looking up at tennis ball.</caption>
+      <caption>A woman holding a tennis racquet on a tennis court.</caption>
+    </captions>
+</image>

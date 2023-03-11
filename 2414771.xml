@@ -1,0 +1,101 @@
+<image>
+  <image-id>2414771</image-id>
+  <coco-id>438802</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>147021</relationship_id>
+      <predicate>with</predicate>
+      <subject>152289</subject>
+      <object>152290</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147022</relationship_id>
+      <predicate>IN</predicate>
+      <subject>152295</subject>
+      <object>152296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147023</relationship_id>
+      <predicate>IN</predicate>
+      <subject>152295</subject>
+      <object>152296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147024</relationship_id>
+      <predicate>sleeping in</predicate>
+      <subject>152295</subject>
+      <object>152296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147025</relationship_id>
+      <predicate>IN</predicate>
+      <subject>152295</subject>
+      <object>152296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147026</relationship_id>
+      <predicate>IN</predicate>
+      <subject>152295</subject>
+      <object>152296</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>iphone</name>
+      <h>42</h>
+      <object_id>152289</object_id>
+      <w>36</w>
+      <y>162</y>
+      <x>463</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>earbuds</name>
+      <h>60</h>
+      <object_id>152290</object_id>
+      <w>222</w>
+      <y>165</y>
+      <x>252</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tabby</attribute>
+        <attribute>brown</attribute>
+        <attribute>sitting</attribute>
+        <attribute>sleeping</attribute>
+        <attribute>grey</attribute>
+        <attribute>sleepy</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>74</h>
+      <object_id>152295</object_id>
+      <w>206</w>
+      <y>65</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shoe box</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>box</name>
+      <h>149</h>
+      <object_id>152296</object_id>
+      <w>209</w>
+      <y>34</y>
+      <x>141</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small cat sleeping in a shoe box on a desk.</caption>
+      <caption>A cat sleeping in a box that's on a work desk.</caption>
+      <caption>Cat sleeping in a box on a desk top.</caption>
+      <caption>The cat lays in the box on the table cluttered with papers and electronics.</caption>
+      <caption>A black and gray cat sleeps in a shoe box on a desk near a keyboard.</caption>
+    </captions>
+</image>

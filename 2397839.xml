@@ -1,0 +1,76 @@
+<image>
+  <image-id>2397839</image-id>
+  <coco-id>237597</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>944688</relationship_id>
+      <predicate>behind</predicate>
+      <subject>430207</subject>
+      <object>430209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>944689</relationship_id>
+      <predicate>has</predicate>
+      <subject>430207</subject>
+      <object>430210</object>
+    </relationship>
+    <relationship>
+      <relationship_id>944690</relationship_id>
+      <predicate>OF</predicate>
+      <subject>430208</subject>
+      <object>430207</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>standing</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>332</h>
+      <object_id>430207</object_id>
+      <w>333</w>
+      <y>36</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>209</h>
+      <object_id>430209</object_id>
+      <w>57</w>
+      <y>121</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>127</h>
+      <object_id>430210</object_id>
+      <w>41</w>
+      <y>179</y>
+      <x>391</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>43</h>
+      <object_id>430208</object_id>
+      <w>29</w>
+      <y>125</y>
+      <x>192</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small elephant licking a blue metal fence.</caption>
+      <caption>A small elephant trumpets over the fence of his zoo enclosure</caption>
+      <caption>A baby elephant is standing next to a fence.</caption>
+      <caption>Baby elephant standing on a log while making noise.</caption>
+      <caption>A baby elephant standing on a log by the fence.</caption>
+    </captions>
+</image>

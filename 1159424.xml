@@ -1,0 +1,103 @@
+<image>
+  <image-id>1159424</image-id>
+  <coco-id>352861</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4263364</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1593172</subject>
+      <object>1593173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068070</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3352976</subject>
+      <object>1874140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068071</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3703434</subject>
+      <object>1874140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068080</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1850301</subject>
+      <object>3703436</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>117</h>
+      <object_id>1593172</object_id>
+      <w>59</w>
+      <y>166</y>
+      <x>908</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>226</h>
+      <object_id>1593173</object_id>
+      <w>35</w>
+      <y>257</y>
+      <x>912</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>large</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <h>395</h>
+      <object_id>3352976</object_id>
+      <w>135</w>
+      <y>19</y>
+      <x>616</x>
+      <name>light</name>
+    </object>
+    <object>
+      <name>curb</name>
+      <h>136</h>
+      <object_id>1874140</object_id>
+      <w>282</w>
+      <y>364</y>
+      <x>679</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>297</h>
+      <object_id>3703434</object_id>
+      <w>35</w>
+      <y>27</y>
+      <x>915</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>118</h>
+      <object_id>1850301</object_id>
+      <w>138</w>
+      <y>357</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>180</h>
+      <object_id>3703436</object_id>
+      <w>344</w>
+      <y>450</y>
+      <x>353</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A street scene showing a group of cars stopped at a red light.</caption>
+      <caption>This is a picture of a busy thruway entrance.</caption>
+      <caption>Two lanes of cars waiting at a red light</caption>
+      <caption>A city street with many cars going down the road.</caption>
+      <caption>Two rows of traffic at a red light on a city road. </caption>
+    </captions>
+</image>

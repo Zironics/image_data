@@ -1,0 +1,102 @@
+<image>
+  <image-id>2367869</image-id>
+  <coco-id>21070</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1598051</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>620051</subject>
+      <object>620054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1598052</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>620046</subject>
+      <object>620049</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1598053</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>620046</subject>
+      <object>620049</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1598054</relationship_id>
+      <predicate>has</predicate>
+      <subject>620055</subject>
+      <object>620056</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+        <attribute>small</attribute>
+        <attribute>little</attribute>
+        <attribute>twin</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>170</h>
+      <object_id>620051</object_id>
+      <w>66</w>
+      <y>134</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>24</h>
+      <object_id>620054</object_id>
+      <w>39</w>
+      <y>138</y>
+      <x>87</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stone</attribute>
+        <attribute>cement</attribute>
+        <attribute>marble</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>74</h>
+      <object_id>620046</object_id>
+      <w>117</w>
+      <y>184</y>
+      <x>343</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>walkway</name>
+      <h>252</h>
+      <object_id>620049</object_id>
+      <w>498</w>
+      <y>98</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>69</h>
+      <object_id>620055</object_id>
+      <w>60</w>
+      <y>166</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>button</name>
+      <h>8</h>
+      <object_id>620056</object_id>
+      <w>7</w>
+      <y>208</y>
+      <x>105</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two small girls run around with colorful umbrellas</caption>
+      <caption>a couple of kids are holding up umbrellas</caption>
+      <caption>Young girls in matching outfits carrying umbrellas at outdoor bus stop.</caption>
+      <caption>A couple of little girls holding pink umbrellas.</caption>
+      <caption>Two children are carrying umbrellas and walking along.</caption>
+    </captions>
+</image>

@@ -1,0 +1,80 @@
+<image>
+  <image-id>2392343</image-id>
+  <coco-id>224695</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4290842</relationship_id>
+      <predicate>with</predicate>
+      <subject>3826021</subject>
+      <object>481004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4290843</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>481005</subject>
+      <object>3826021</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4290844</relationship_id>
+      <predicate>IN</predicate>
+      <subject>481006</subject>
+      <object>480987</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>field</name>
+      <h>120</h>
+      <object_id>3826021</object_id>
+      <w>467</w>
+      <y>206</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>short grass</name>
+      <h>98</h>
+      <object_id>481004</object_id>
+      <w>489</w>
+      <y>231</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>two cows</name>
+      <h>156</h>
+      <object_id>481005</object_id>
+      <w>378</w>
+      <y>144</y>
+      <x>68</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blonde</attribute>
+        <attribute>fat</attribute>
+      </attributes>
+      <name>blonde fat woman</name>
+      <h>138</h>
+      <object_id>481006</object_id>
+      <w>65</w>
+      <y>133</y>
+      <x>239</x>
+    </object>
+    <object>
+      <h>77</h>
+      <object_id>480987</object_id>
+      <w>45</w>
+      <y>163</y>
+      <x>246</x>
+      <name>milk maids outfit</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing between two cows on a field.</caption>
+      <caption>Antique black and white photograph of a woman standing with two cows</caption>
+      <caption>A woman is standing between white and black cows.</caption>
+      <caption>A woman wearing an apron is standing in a field between two cows.</caption>
+      <caption>A woman is standing out in a field in the middle of two cows.</caption>
+    </captions>
+</image>

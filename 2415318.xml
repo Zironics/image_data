@@ -1,0 +1,108 @@
+<image>
+  <image-id>2415318</image-id>
+  <coco-id>34779</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4253499</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2859557</subject>
+      <object>3791481</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253500</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3217825</subject>
+      <object>3217826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3702128</relationship_id>
+      <predicate>talking  to</predicate>
+      <subject>3213365</subject>
+      <object>3213367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3702129</relationship_id>
+      <predicate>talking  to</predicate>
+      <subject>3213365</subject>
+      <object>3213367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253501</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3145518</subject>
+      <object>3791481</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>kickstand</name>
+      <h>51</h>
+      <object_id>2859557</object_id>
+      <w>47</w>
+      <y>246</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>298</h>
+      <object_id>3791481</object_id>
+      <w>423</w>
+      <y>42</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>57</h>
+      <object_id>3217825</object_id>
+      <w>23</w>
+      <y>8</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>27</h>
+      <object_id>3217826</object_id>
+      <w>20</w>
+      <y>18</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>53</h>
+      <object_id>3213365</object_id>
+      <w>30</w>
+      <y>1</y>
+      <x>403</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>62</h>
+      <object_id>3213367</object_id>
+      <w>40</w>
+      <y>1</y>
+      <x>366</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>161</h>
+      <object_id>3145518</object_id>
+      <w>179</w>
+      <y>175</y>
+      <x>285</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A row of different motorcycles and people looking at them. </caption>
+      <caption>A motorcycle on a sidewalk that is on stands.</caption>
+      <caption>a red motorcycle is parked in a spot</caption>
+      <caption>A row of motorcycles parked next to each other.</caption>
+      <caption>motor bikes in a row with people standing around</caption>
+    </captions>
+</image>

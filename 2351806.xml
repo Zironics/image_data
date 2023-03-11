@@ -1,0 +1,236 @@
+<image>
+  <image-id>2351806</image-id>
+  <coco-id>300279</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4403401</relationship_id>
+      <predicate>moving on flat</predicate>
+      <subject>2365705</subject>
+      <object>2144253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403402</relationship_id>
+      <predicate>moving on flat</predicate>
+      <subject>2144251</subject>
+      <object>2144253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403403</relationship_id>
+      <predicate>moving on flat</predicate>
+      <subject>2144252</subject>
+      <object>2144253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403404</relationship_id>
+      <predicate>has</predicate>
+      <subject>2365705</subject>
+      <object>2365703</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403405</relationship_id>
+      <predicate>has</predicate>
+      <subject>2365705</subject>
+      <object>2365704</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403406</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1949284</subject>
+      <object>1949285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403407</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2365705</subject>
+      <object>3896659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403408</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2144251</subject>
+      <object>3896659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403409</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2301716</subject>
+      <object>1746970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403410</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1746970</subject>
+      <object>2530692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403411</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1746970</subject>
+      <object>1746971</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403412</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1746970</subject>
+      <object>3896661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4403413</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3896656</subject>
+      <object>1752440</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>compact</attribute>
+      </attributes>
+      <h>45</h>
+      <object_id>2365705</object_id>
+      <w>56</w>
+      <y>218</y>
+      <x>162</x>
+      <name>car</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flat</attribute>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>paved surface</name>
+      <h>145</h>
+      <object_id>2144253</object_id>
+      <w>377</w>
+      <y>229</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>cars</name>
+      <h>33</h>
+      <object_id>2144251</object_id>
+      <w>38</w>
+      <y>219</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>cars</name>
+      <h>135</h>
+      <object_id>2144252</object_id>
+      <w>235</w>
+      <y>235</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>tail light</name>
+      <h>18</h>
+      <object_id>2365703</object_id>
+      <w>18</w>
+      <y>231</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>tail light</name>
+      <h>8</h>
+      <object_id>2365704</object_id>
+      <w>17</w>
+      <y>232</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>19</h>
+      <object_id>1949284</object_id>
+      <w>32</w>
+      <y>164</y>
+      <x>443</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>177</h>
+      <object_id>1949285</object_id>
+      <w>107</w>
+      <y>44</y>
+      <x>391</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>54</h>
+      <object_id>3896659</object_id>
+      <w>154</w>
+      <y>258</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <h>25</h>
+      <object_id>2301716</object_id>
+      <w>19</w>
+      <y>221</y>
+      <x>240</x>
+      <name>box</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bright</attribute>
+      </attributes>
+      <h>20</h>
+      <object_id>1746970</object_id>
+      <w>31</w>
+      <y>165</y>
+      <x>231</x>
+      <name>light</name>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>43</h>
+      <object_id>2530692</object_id>
+      <w>51</w>
+      <y>46</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>225</h>
+      <object_id>1746971</object_id>
+      <w>370</w>
+      <y>2</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>63</h>
+      <object_id>3896661</object_id>
+      <w>147</w>
+      <y>19</y>
+      <x>235</x>
+    </object>
+    <object>
+      <h>49</h>
+      <object_id>3896656</object_id>
+      <w>18</w>
+      <y>214</y>
+      <x>74</x>
+      <name>people</name>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>22</h>
+      <object_id>1752440</object_id>
+      <w>38</w>
+      <y>240</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blurry photo of cars going through an intersection at night</caption>
+      <caption>A view of traffic flowing through the street at night.</caption>
+      <caption>A blurry image of a street at night.</caption>
+      <caption>Two vehicles cross under several street lights at night.
+
+</caption>
+      <caption>Traffic passes through the busy intersection at night.</caption>
+    </captions>
+</image>

@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402274</image-id>
+  <coco-id>145591</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3278543</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1138260</subject>
+      <object>1138261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3278549</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1138262</subject>
+      <object>1138263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3278585</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1138262</subject>
+      <object>1138263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3278589</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1138262</subject>
+      <object>1138263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3278590</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1138262</subject>
+      <object>1138263</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1138260</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1138261</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1138262</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1138263</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>THERE IS A CLOCK THAT IS ON DISPLAY IN THE CITY</caption>
+      <caption>A clock is next to palm trees and a high rise.</caption>
+      <caption>The clock behind glass has roman numeral for numbers.</caption>
+      <caption>There is a large clock in the foreground and a large building in the background.</caption>
+      <caption>A clock that is on the top of a pole.</caption>
+    </captions>
+</image>

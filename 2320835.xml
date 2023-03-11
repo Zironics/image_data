@@ -1,0 +1,65 @@
+<image>
+  <image-id>2320835</image-id>
+  <coco-id>475208</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3841394</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2915796</subject>
+      <object>3612211</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4541065</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2709624</subject>
+      <object>2709625</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>little</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>165</h>
+      <object_id>2915796</object_id>
+      <w>97</w>
+      <y>132</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>18</h>
+      <object_id>3612211</object_id>
+      <w>47</w>
+      <y>188</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blonde</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>86</h>
+      <object_id>2709624</object_id>
+      <w>70</w>
+      <y>157</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>238</h>
+      <object_id>2709625</object_id>
+      <w>162</w>
+      <y>93</y>
+      <x>49</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little girl holding out an American flag.</caption>
+      <caption>A little girl holding a flag for a picture.</caption>
+      <caption>The child is waving a small flag as she stands near two women. </caption>
+      <caption>A little girl standing with her mom and holding to small American flags.</caption>
+      <caption>A number of people standing by a street waving small American flags.</caption>
+    </captions>
+</image>

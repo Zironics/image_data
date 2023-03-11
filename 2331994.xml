@@ -1,0 +1,37 @@
+<image>
+  <image-id>2331994</image-id>
+  <coco-id>117683</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4096505</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3065365</subject>
+      <object>3065366</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cup</name>
+      <h>87</h>
+      <object_id>3065365</object_id>
+      <w>101</w>
+      <y>242</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>26</h>
+      <object_id>3065366</object_id>
+      <w>156</w>
+      <y>302</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A desk topped with a bag and other items.</caption>
+      <caption>two pieces of luggage are a part of a display</caption>
+      <caption>Suitcase near signs and coffee cup near newspaper article.</caption>
+      <caption>Two gym bags are beside large suitcases near signs.</caption>
+      <caption>A bag of luggage sitting on the side of a corner.</caption>
+    </captions>
+</image>

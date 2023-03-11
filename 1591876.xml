@@ -1,0 +1,73 @@
+<image>
+  <image-id>1591876</image-id>
+  <coco-id>92323</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3834900</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1604550</subject>
+      <object>1604552</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834901</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1604553</subject>
+      <object>1604552</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834902</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1604555</subject>
+      <object>1604554</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>48</h>
+      <object_id>1604550</object_id>
+      <w>73</w>
+      <y>125</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>332</h>
+      <object_id>1604552</object_id>
+      <w>261</w>
+      <y>14</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>90</h>
+      <object_id>1604553</object_id>
+      <w>68</w>
+      <y>124</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>33</h>
+      <object_id>1604555</object_id>
+      <w>76</w>
+      <y>177</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>390</h>
+      <object_id>1604554</object_id>
+      <w>251</w>
+      <y>7</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>big sandwich on a plate, with a milkshake </caption>
+      <caption>A sandwich on a plate with a beverage on a table outside. </caption>
+      <caption>A sandwich and a milkshake on table outdoors</caption>
+      <caption>A closeup picture of a bacon and steak sandwich and a milkshake on a glass patio table.</caption>
+      <caption>A sandwich being served on a plate at an outdoor restaurant.</caption>
+    </captions>
+</image>

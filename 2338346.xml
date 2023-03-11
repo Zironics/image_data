@@ -1,0 +1,156 @@
+<image>
+  <image-id>2338346</image-id>
+  <coco-id>432884</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4589901</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4071224</subject>
+      <object>4071223</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589905</relationship_id>
+      <predicate>ready to return</predicate>
+      <subject>4071224</subject>
+      <object>4071234</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798989</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>4596062</subject>
+      <object>4596063</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798990</relationship_id>
+      <predicate>hit by</predicate>
+      <subject>4596065</subject>
+      <object>4596064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798992</relationship_id>
+      <predicate>held by</predicate>
+      <subject>4596068</subject>
+      <object>4596069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798993</relationship_id>
+      <predicate>held by</predicate>
+      <subject>4596071</subject>
+      <object>4596070</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>human</name>
+      <h>288</h>
+      <object_id>4071224</object_id>
+      <w>134</w>
+      <y>46</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>29</h>
+      <object_id>4071223</object_id>
+      <w>35</w>
+      <y>48</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>tennis ball</name>
+      <h>20</h>
+      <object_id>4071234</object_id>
+      <w>21</w>
+      <y>13</y>
+      <x>95</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>cap</name>
+      <h>30</h>
+      <object_id>4596062</object_id>
+      <w>78</w>
+      <y>41</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>288</h>
+      <object_id>4596063</object_id>
+      <w>167</w>
+      <y>30</y>
+      <x>269</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>ball</name>
+      <h>19</h>
+      <object_id>4596065</object_id>
+      <w>33</w>
+      <y>12</y>
+      <x>330</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>young </attribute>
+      </attributes>
+      <name>woman</name>
+      <h>240</h>
+      <object_id>4596064</object_id>
+      <w>171</w>
+      <y>50</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>metal </attribute>
+      </attributes>
+      <name>racket</name>
+      <h>97</h>
+      <object_id>4596068</object_id>
+      <w>94</w>
+      <y>41</y>
+      <x>372</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>278</h>
+      <object_id>4596069</object_id>
+      <w>235</w>
+      <y>52</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>114</h>
+      <object_id>4596071</object_id>
+      <w>157</w>
+      <y>50</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal </attribute>
+        <attribute>black </attribute>
+      </attributes>
+      <name>woman</name>
+      <h>250</h>
+      <object_id>4596070</object_id>
+      <w>155</w>
+      <y>31</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing on a tennis court holding a tennis racquet.</caption>
+      <caption>Two similar photos of a female tennis player returning a volley.</caption>
+      <caption>A double image of a woman preparing to hit a tennis ball with her racquet. </caption>
+      <caption>An adult on a fenced tennis court with tennis racket in hands aimed at tennis ball in air.</caption>
+      <caption>Lady getting ready to hit a tennis ball.</caption>
+    </captions>
+</image>

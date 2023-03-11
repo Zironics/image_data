@@ -1,0 +1,65 @@
+<image>
+  <image-id>2399377</image-id>
+  <coco-id>396685</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>894900</relationship_id>
+      <predicate>plastic containers</predicate>
+      <subject>416804</subject>
+      <object>416805</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286590</relationship_id>
+      <predicate>in a</predicate>
+      <subject>416806</subject>
+      <object>3819317</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>containers</name>
+      <h>361</h>
+      <object_id>416804</object_id>
+      <w>460</w>
+      <y>1</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>three</attribute>
+      </attributes>
+      <name>three containers</name>
+      <h>374</h>
+      <object_id>416805</object_id>
+      <w>456</w>
+      <y>0</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>mix of veggies</name>
+      <h>181</h>
+      <object_id>416806</object_id>
+      <w>237</w>
+      <y>176</y>
+      <x>47</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>container</name>
+      <h>217</h>
+      <object_id>3819317</object_id>
+      <w>313</w>
+      <y>156</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A packed lunch has a rice dish, vegetables, and a peach.</caption>
+      <caption>A Bento Box type lunch with colorful vegetables and rice is shown on a table cloth.</caption>
+      <caption>Three separate bowls on a table holding vegetables, rice and one half of a peach.</caption>
+      <caption>three trays filled with vegetables rice and a peach</caption>
+      <caption>Three containers full of vegetables, rice and fruit.</caption>
+    </captions>
+</image>

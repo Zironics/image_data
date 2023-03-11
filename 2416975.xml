@@ -1,0 +1,63 @@
+<image>
+  <image-id>2416975</image-id>
+  <coco-id>579589</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3883898</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2803864</subject>
+      <object>3455119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3883899</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2803864</subject>
+      <object>3455119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3883900</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2803864</subject>
+      <object>2803865</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>320</h>
+      <object_id>2803864</object_id>
+      <w>219</w>
+      <y>33</y>
+      <x>206</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>suit</name>
+      <h>274</h>
+      <object_id>3455119</object_id>
+      <w>291</w>
+      <y>120</y>
+      <x>132</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>185</h>
+      <object_id>2803865</object_id>
+      <w>94</w>
+      <y>135</y>
+      <x>263</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A business man looking down from a balcony.</caption>
+      <caption>A man with his arms crossed against a rail.</caption>
+      <caption>A man in a suit with his arms crossed looks out  over a rail </caption>
+      <caption>A person with a tie on a metal rail.</caption>
+      <caption>there is a man wearing a suit and leaning over a gate</caption>
+    </captions>
+</image>

@@ -1,0 +1,99 @@
+<image>
+  <image-id>2335173</image-id>
+  <coco-id>449392</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3851583</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>2562467</subject>
+      <object>2562468</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987081</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3671299</subject>
+      <object>2926143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987084</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3671299</subject>
+      <object>2135136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987085</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3671299</subject>
+      <object>2540060</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>weather vane</name>
+      <h>35</h>
+      <object_id>2562467</object_id>
+      <w>22</w>
+      <y>56</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>172</h>
+      <object_id>2562468</object_id>
+      <w>108</w>
+      <y>87</y>
+      <x>221</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>35</h>
+      <object_id>3671299</object_id>
+      <w>60</w>
+      <y>48</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>38</h>
+      <object_id>2926143</object_id>
+      <w>45</w>
+      <y>10</y>
+      <x>163</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>278</h>
+      <object_id>2135136</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>22</h>
+      <object_id>2540060</object_id>
+      <w>80</w>
+      <y>38</y>
+      <x>332</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clock is apart of the top of a building. </caption>
+      <caption>a clock tower with trees in the foreground</caption>
+      <caption>A tower of a building is seen between the trees and has clocks on the sides of it.</caption>
+      <caption>The clock is in the top of the tower.</caption>
+      <caption>A steeple with clock and weather vane on a roof against clear sky through trees.</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2393116</image-id>
+  <coco-id>411379</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4738052</relationship_id>
+      <predicate>beside</predicate>
+      <subject>4436037</subject>
+      <object>4436038</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580117</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4048185</subject>
+      <object>4048186</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580120</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4048193</subject>
+      <object>4048194</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>120</h>
+      <object_id>4436037</object_id>
+      <w>214</w>
+      <y>1</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>208</h>
+      <object_id>4436038</object_id>
+      <w>335</w>
+      <y>31</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>carriages</name>
+      <h>220</h>
+      <object_id>4048185</object_id>
+      <w>356</w>
+      <y>16</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>row</name>
+      <h>261</h>
+      <object_id>4048186</object_id>
+      <w>340</w>
+      <y>13</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>2</attribute>
+      </attributes>
+      <name>windows</name>
+      <h>19</h>
+      <object_id>4048193</object_id>
+      <w>35</w>
+      <y>198</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>front</name>
+      <h>41</h>
+      <object_id>4048194</object_id>
+      <w>34</w>
+      <y>197</y>
+      <x>166</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train traveling through a lush green country side.</caption>
+      <caption>The train is crossing through a open golf course.</caption>
+      <caption>A train follows the train tracks through a golf course.</caption>
+      <caption>A train is coming down the track in a golf course.</caption>
+      <caption>An aerial view of a train travelling through a golf course.</caption>
+    </captions>
+</image>

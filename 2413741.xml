@@ -1,0 +1,78 @@
+<image>
+  <image-id>2413741</image-id>
+  <coco-id>424222</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4267229</relationship_id>
+      <predicate>IN</predicate>
+      <subject>167257</subject>
+      <object>167256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267240</relationship_id>
+      <predicate>by</predicate>
+      <subject>167262</subject>
+      <object>167262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267241</relationship_id>
+      <predicate>by</predicate>
+      <subject>3800376</subject>
+      <object>167262</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white window</name>
+      <h>22</h>
+      <object_id>167257</object_id>
+      <w>14</w>
+      <y>302</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>stone</attribute>
+      </attributes>
+      <name>brown building</name>
+      <h>83</h>
+      <object_id>167256</object_id>
+      <w>274</w>
+      <y>248</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+        <attribute>fishing</attribute>
+        <attribute>three</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>63</h>
+      <object_id>167262</object_id>
+      <w>79</w>
+      <y>217</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>green bush</name>
+      <h>43</h>
+      <object_id>3800376</object_id>
+      <w>89</w>
+      <y>283</y>
+      <x>391</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a street sign on a phone pole with boats in the background</caption>
+      <caption>Duck family crossing sign attached to a pole by a pier. </caption>
+      <caption>A yellow duck crossing sign mounted to a wooden pole.</caption>
+      <caption>A boat yard with a sign for a duck crossing</caption>
+      <caption>A sign notifies boaters that there are ducks in the area.</caption>
+    </captions>
+</image>

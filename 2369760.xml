@@ -1,0 +1,216 @@
+<image>
+  <image-id>2369760</image-id>
+  <coco-id>321700</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1556897</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>609455</subject>
+      <object>609456</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556898</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>609458</subject>
+      <object>609459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556899</relationship_id>
+      <predicate>grabbing</predicate>
+      <subject>609462</subject>
+      <object>609463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556900</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>609455</subject>
+      <object>609456</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556901</relationship_id>
+      <predicate>held by</predicate>
+      <subject>609456</subject>
+      <object>609469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556902</relationship_id>
+      <predicate>has</predicate>
+      <subject>609455</subject>
+      <object>609457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556903</relationship_id>
+      <predicate>has</predicate>
+      <subject>609462</subject>
+      <object>609470</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556904</relationship_id>
+      <predicate>has</predicate>
+      <subject>609458</subject>
+      <object>609467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556905</relationship_id>
+      <predicate>has</predicate>
+      <subject>609458</subject>
+      <object>609467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556906</relationship_id>
+      <predicate>cast upon</predicate>
+      <subject>609472</subject>
+      <object>609473</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556907</relationship_id>
+      <predicate>has</predicate>
+      <subject>609458</subject>
+      <object>609467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556908</relationship_id>
+      <predicate>has</predicate>
+      <subject>609455</subject>
+      <object>609457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1556909</relationship_id>
+      <predicate>holding</predicate>
+      <subject>609455</subject>
+      <object>609456</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>at home plate</attribute>
+        <attribute>getting ready</attribute>
+      </attributes>
+      <name>man</name>
+      <h>174</h>
+      <object_id>609455</object_id>
+      <w>141</w>
+      <y>103</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>26</h>
+      <object_id>609456</object_id>
+      <w>87</w>
+      <y>112</y>
+      <x>378</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>waiting</attribute>
+        <attribute>in baseball game</attribute>
+        <attribute>wearing red</attribute>
+        <attribute>doing job</attribute>
+      </attributes>
+      <name>baseball player</name>
+      <h>109</h>
+      <object_id>609458</object_id>
+      <w>139</w>
+      <y>166</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in use</attribute>
+      </attributes>
+      <name>mask</name>
+      <h>35</h>
+      <object_id>609459</object_id>
+      <w>45</w>
+      <y>165</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lining up</attribute>
+        <attribute>in baseball game</attribute>
+        <attribute>at baseball game</attribute>
+      </attributes>
+      <name>umpire</name>
+      <h>132</h>
+      <object_id>609462</object_id>
+      <w>77</w>
+      <y>149</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>55</h>
+      <object_id>609463</object_id>
+      <w>55</w>
+      <y>225</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>hands</name>
+      <h>17</h>
+      <object_id>609469</object_id>
+      <w>26</w>
+      <y>125</y>
+      <x>364</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>23</h>
+      <object_id>609457</object_id>
+      <w>34</w>
+      <y>103</y>
+      <x>306</x>
+    </object>
+    <object>
+      <name>mask</name>
+      <h>32</h>
+      <object_id>609470</object_id>
+      <w>18</w>
+      <y>151</y>
+      <x>87</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shin guard</name>
+      <h>44</h>
+      <object_id>609467</object_id>
+      <w>42</w>
+      <y>220</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>10</h>
+      <object_id>609472</object_id>
+      <w>65</w>
+      <y>267</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>143</h>
+      <object_id>609473</object_id>
+      <w>498</w>
+      <y>190</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of men on a field playing baseball.</caption>
+      <caption>Batter takes a hard swing of the bat during the baseball game.</caption>
+      <caption>Some players in action on the baseball field.</caption>
+      <caption>Player swinging at ball with catcher holding glove out</caption>
+      <caption>a man swinging a bag as people watch him </caption>
+    </captions>
+</image>

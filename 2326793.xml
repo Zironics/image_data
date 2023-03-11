@@ -1,0 +1,98 @@
+<image>
+  <image-id>2326793</image-id>
+  <coco-id>227224</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476380</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2723723</subject>
+      <object>3083480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476381</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3387681</subject>
+      <object>3070525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476382</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3358671</subject>
+      <object>3358670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476383</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3070524</subject>
+      <object>3070525</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>advertisement</name>
+      <h>31</h>
+      <object_id>2723723</object_id>
+      <w>30</w>
+      <y>177</y>
+      <x>307</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>153</h>
+      <object_id>3083480</object_id>
+      <w>315</w>
+      <y>112</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>advertisement</name>
+      <h>52</h>
+      <object_id>3387681</object_id>
+      <w>112</w>
+      <y>141</y>
+      <x>191</x>
+    </object>
+    <object>
+      <h>153</h>
+      <object_id>3070525</object_id>
+      <w>313</w>
+      <y>113</y>
+      <x>146</x>
+      <name>bike</name>
+    </object>
+    <object>
+      <name>wearing helmet</name>
+      <h>60</h>
+      <object_id>3358671</object_id>
+      <w>81</w>
+      <y>72</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>motorcycle racer</name>
+      <h>153</h>
+      <object_id>3358670</object_id>
+      <w>352</w>
+      <y>110</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>chain</name>
+      <h>37</h>
+      <object_id>3070524</object_id>
+      <w>45</w>
+      <y>174</y>
+      <x>387</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person driving a motorcycle on a closed course</caption>
+      <caption>A motorcycle is racing around on a track.</caption>
+      <caption>A motorcycle race going on during the day on some track.</caption>
+      <caption>A person on a race track riding a motorcycle.</caption>
+      <caption>a person racing on a motorcycle on a race track.</caption>
+    </captions>
+</image>

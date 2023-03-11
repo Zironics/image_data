@@ -1,0 +1,151 @@
+<image>
+  <image-id>2339443</image-id>
+  <coco-id>76847</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4457768</relationship_id>
+      <predicate>with</predicate>
+      <subject>3125071</subject>
+      <object>3125072</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046617</relationship_id>
+      <predicate>on a floating</predicate>
+      <subject>3053926</subject>
+      <object>3480653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046618</relationship_id>
+      <predicate>on a floating</predicate>
+      <subject>3053927</subject>
+      <object>3480653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3632591</relationship_id>
+      <predicate>full of</predicate>
+      <subject>2446695</subject>
+      <object>2446696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3964260</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2391576</subject>
+      <object>2391577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3734457</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3169812</subject>
+      <object>3169813</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>building</name>
+      <h>26</h>
+      <object_id>3125071</object_id>
+      <w>132</w>
+      <y>144</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>rail</name>
+      <h>16</h>
+      <object_id>3125072</object_id>
+      <w>149</w>
+      <y>139</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>17</h>
+      <object_id>3053926</object_id>
+      <w>8</w>
+      <y>192</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light blue</attribute>
+      </attributes>
+      <h>35</h>
+      <object_id>3480653</object_id>
+      <w>71</w>
+      <y>185</y>
+      <x>52</x>
+      <name>floating dock</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>17</h>
+      <object_id>3053927</object_id>
+      <w>9</w>
+      <y>189</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>full</attribute>
+      </attributes>
+      <name>structure</name>
+      <h>27</h>
+      <object_id>2446695</object_id>
+      <w>77</w>
+      <y>142</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>14</h>
+      <object_id>2446696</object_id>
+      <w>50</w>
+      <y>155</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>46</h>
+      <object_id>2391576</object_id>
+      <w>74</w>
+      <y>194</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>310</h>
+      <object_id>2391577</object_id>
+      <w>496</w>
+      <y>19</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>17</h>
+      <object_id>3169812</object_id>
+      <w>112</w>
+      <y>154</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>59</h>
+      <object_id>3169813</object_id>
+      <w>213</w>
+      <y>128</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dock with two boats and people looking out onto the lake.</caption>
+      <caption>some boats docked and people at a lake</caption>
+      <caption>A group of boats are docked on a lake. </caption>
+      <caption>a group of house boats sitting on the water</caption>
+      <caption>Some people stand on a dock with some boats near. </caption>
+    </captions>
+</image>

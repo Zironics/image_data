@@ -1,0 +1,110 @@
+<image>
+  <image-id>2339653</image-id>
+  <coco-id>93597</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4066325</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3702809</subject>
+      <object>2863828</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4145649</relationship_id>
+      <predicate>for a</predicate>
+      <subject>3430089</subject>
+      <object>3430090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4145653</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2651550</subject>
+      <object>2651551</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4145655</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2759549</subject>
+      <object>2759550</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>carpet</name>
+      <h>141</h>
+      <object_id>3702809</object_id>
+      <w>195</w>
+      <y>334</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shag</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>156</h>
+      <object_id>2863828</object_id>
+      <w>175</w>
+      <y>342</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>element</name>
+      <h>15</h>
+      <object_id>3430089</object_id>
+      <w>112</w>
+      <y>63</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>reptile</name>
+      <h>73</h>
+      <object_id>3430090</object_id>
+      <w>130</w>
+      <y>79</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>59</h>
+      <object_id>2651550</object_id>
+      <w>33</w>
+      <y>300</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>139</h>
+      <object_id>2651551</object_id>
+      <w>225</w>
+      <y>258</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>device</name>
+      <h>23</h>
+      <object_id>2759549</object_id>
+      <w>80</w>
+      <y>288</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>cabinet</name>
+      <h>129</h>
+      <object_id>2759550</object_id>
+      <w>328</w>
+      <y>212</y>
+      <x>153</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A living room has a TV, computer, and aquarium.</caption>
+      <caption>a living room with a tv a fish tank</caption>
+      <caption>A laptop next to a television and some video devices.</caption>
+      <caption>This is a spot with a few things in the house.
+</caption>
+      <caption>Sitting in front of the tv turned off with a laptop that is on.</caption>
+    </captions>
+</image>

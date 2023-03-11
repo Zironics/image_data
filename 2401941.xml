@@ -1,0 +1,96 @@
+<image>
+  <image-id>2401941</image-id>
+  <coco-id>32682</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3284035</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1142376</subject>
+      <object>1142377</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284041</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1142378</subject>
+      <object>1142379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>802748</relationship_id>
+      <predicate>IN</predicate>
+      <subject>394411</subject>
+      <object>394412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>802773</relationship_id>
+      <predicate>IN</predicate>
+      <subject>394411</subject>
+      <object>394412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284077</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1142378</subject>
+      <object>1142379</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1142376</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1142377</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1142378</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1142379</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>264</h>
+      <object_id>394411</object_id>
+      <w>121</w>
+      <y>102</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>264</h>
+      <object_id>394412</object_id>
+      <w>484</w>
+      <y>133</y>
+      <x>13</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe standing in a lush green field with lots of plants.</caption>
+      <caption>A giraffe on  a large plain with herd animals in the background.</caption>
+      <caption>A giraffe in a grassy field full of animals.</caption>
+      <caption>The giraffe and other animals stand on the plain.</caption>
+      <caption>A giraffe and other animals enjoying the sun outside. </caption>
+    </captions>
+</image>

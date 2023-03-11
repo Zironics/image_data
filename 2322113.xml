@@ -1,0 +1,54 @@
+<image>
+  <image-id>2322113</image-id>
+  <coco-id>40130</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3741074</relationship_id>
+      <predicate>inside</predicate>
+      <subject>3207130</subject>
+      <object>3327968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4537669</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3327967</subject>
+      <object>3327968</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>90</h>
+      <object_id>3207130</object_id>
+      <w>73</w>
+      <y>194</y>
+      <x>412</x>
+    </object>
+    <object>
+      <name>basket</name>
+      <h>341</h>
+      <object_id>3327968</object_id>
+      <w>454</w>
+      <y>12</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>275</h>
+      <object_id>3327967</object_id>
+      <w>166</w>
+      <y>53</y>
+      <x>66</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sandwich is sitting on a tray with a salad and fork.</caption>
+      <caption>A bread and salad order with a receipt in the basket.</caption>
+      <caption>a close up of a sandwich in a baskett</caption>
+      <caption>There is a receipt in a tray of food</caption>
+      <caption>A basket containing a salad, bread with toothpicks and a receipt</caption>
+    </captions>
+</image>

@@ -1,0 +1,127 @@
+<image>
+  <image-id>2399018</image-id>
+  <coco-id>188510</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4286769</relationship_id>
+      <predicate>sitting at</predicate>
+      <subject>3819577</subject>
+      <object>1173143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329134</relationship_id>
+      <predicate>playing</predicate>
+      <subject>3819577</subject>
+      <object>1173143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329135</relationship_id>
+      <predicate>near</predicate>
+      <subject>1173143</subject>
+      <object>3819577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329136</relationship_id>
+      <predicate>near</predicate>
+      <subject>3819577</subject>
+      <object>1173143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329137</relationship_id>
+      <predicate>near</predicate>
+      <subject>3819577</subject>
+      <object>1173141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329138</relationship_id>
+      <predicate>playing</predicate>
+      <subject>3819577</subject>
+      <object>1173143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286770</relationship_id>
+      <predicate>playing on</predicate>
+      <subject>3819577</subject>
+      <object>3819576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329139</relationship_id>
+      <predicate>playing</predicate>
+      <subject>3819577</subject>
+      <object>1173143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329140</relationship_id>
+      <predicate>near</predicate>
+      <subject>3819577</subject>
+      <object>1173141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329141</relationship_id>
+      <predicate>near</predicate>
+      <subject>3819577</subject>
+      <object>1173141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329142</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3819577</subject>
+      <object>1173141</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>little</attribute>
+      </attributes>
+      <h>373</h>
+      <object_id>3819577</object_id>
+      <w>334</w>
+      <y>2</y>
+      <x>167</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>close</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>old</attribute>
+      </attributes>
+      <name>piano</name>
+      <h>126</h>
+      <object_id>1173143</object_id>
+      <w>124</w>
+      <y>242</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stuffed</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>animal</name>
+      <h>84</h>
+      <object_id>1173141</object_id>
+      <w>77</w>
+      <y>184</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>keys</name>
+      <h>125</h>
+      <object_id>3819576</object_id>
+      <w>165</w>
+      <y>240</y>
+      <x>107</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toddler is playing music on a piano</caption>
+      <caption>A little boy playing a piano by himself.</caption>
+      <caption>A young blonde haired boy plays the piano next to a stuffed animal.</caption>
+      <caption>a toddler playing the piano with a stuffed animal </caption>
+      <caption>a small boy is playing a piano and stuffed animals</caption>
+    </captions>
+</image>

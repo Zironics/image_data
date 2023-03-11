@@ -1,0 +1,40 @@
+<image>
+  <image-id>2323808</image-id>
+  <coco-id>401515</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3640047</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2982589</subject>
+      <object>2982590</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>110</h>
+      <object_id>2982589</object_id>
+      <w>73</w>
+      <y>138</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <name>t-shirt</name>
+      <h>57</h>
+      <object_id>2982590</object_id>
+      <w>62</w>
+      <y>193</y>
+      <x>53</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting behind a laptop in a bright room.</caption>
+      <caption>A man in a green shirt sitting at a table covered in bright light.</caption>
+      <caption>A man sitting at a desk looking at a laptop.</caption>
+      <caption>A man using his computer in a sunny day.</caption>
+      <caption>A man sitting in a bright room with a computer.</caption>
+    </captions>
+</image>

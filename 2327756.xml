@@ -1,0 +1,115 @@
+<image>
+  <image-id>2327756</image-id>
+  <coco-id>371493</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3628348</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2789562</subject>
+      <object>2789563</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3658525</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3403696</subject>
+      <object>3403697</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3628350</relationship_id>
+      <predicate>around</predicate>
+      <subject>3013837</subject>
+      <object>3013840</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3628351</relationship_id>
+      <predicate>around</predicate>
+      <subject>3013838</subject>
+      <object>3013837</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3628352</relationship_id>
+      <predicate>around</predicate>
+      <subject>3013839</subject>
+      <object>3013837</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>small hairs</name>
+      <h>146</h>
+      <object_id>2789562</object_id>
+      <w>162</w>
+      <y>163</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>jaw</name>
+      <h>62</h>
+      <object_id>2789563</object_id>
+      <w>109</w>
+      <y>210</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>smiling</attribute>
+      </attributes>
+      <name>lips</name>
+      <h>45</h>
+      <object_id>3403696</object_id>
+      <w>72</w>
+      <y>167</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>280</h>
+      <object_id>3403697</object_id>
+      <w>481</w>
+      <y>52</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>wrinkle</name>
+      <h>9</h>
+      <object_id>3013837</object_id>
+      <w>22</w>
+      <y>121</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>39</h>
+      <object_id>3013840</object_id>
+      <w>53</w>
+      <y>102</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>wrinkle</name>
+      <h>6</h>
+      <object_id>3013838</object_id>
+      <w>22</w>
+      <y>124</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>wrinkle</name>
+      <h>14</h>
+      <object_id>3013839</object_id>
+      <w>12</w>
+      <y>112</y>
+      <x>245</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man smiles as he talks on a cell phone </caption>
+      <caption>A man is talking on a cellphone outside</caption>
+      <caption>A man talking on a phone while wearing a hat.</caption>
+      <caption>A man talking on a cell phone with a winter hat on.</caption>
+      <caption>A man talking on a cell phone in a stocking cap</caption>
+    </captions>
+</image>

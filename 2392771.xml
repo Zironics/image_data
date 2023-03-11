@@ -1,0 +1,106 @@
+<image>
+  <image-id>2392771</image-id>
+  <coco-id>80363</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4589072</relationship_id>
+      <predicate>has</predicate>
+      <subject>4069326</subject>
+      <object>4069327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589076</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4069341</subject>
+      <object>4069344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589077</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4069342</subject>
+      <object>4069345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589078</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4069343</subject>
+      <object>4069346</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>field</name>
+      <h>331</h>
+      <object_id>4069326</object_id>
+      <w>456</w>
+      <y>39</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thick</attribute>
+      </attributes>
+      <name>green grass</name>
+      <h>114</h>
+      <object_id>4069327</object_id>
+      <w>160</w>
+      <y>259</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>38</h>
+      <object_id>4069341</object_id>
+      <w>35</w>
+      <y>128</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>animal</name>
+      <h>289</h>
+      <object_id>4069344</object_id>
+      <w>277</w>
+      <y>76</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>14</h>
+      <object_id>4069342</object_id>
+      <w>21</w>
+      <y>90</y>
+      <x>339</x>
+    </object>
+    <object>
+      <name>animal</name>
+      <h>120</h>
+      <object_id>4069345</object_id>
+      <w>117</w>
+      <y>74</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>9</h>
+      <object_id>4069343</object_id>
+      <w>16</w>
+      <y>76</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>animal</name>
+      <h>49</h>
+      <object_id>4069346</object_id>
+      <w>54</w>
+      <y>70</y>
+      <x>167</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a group of cattle standing in the grass</caption>
+      <caption>Some cows looking around while standing in a field. </caption>
+      <caption>Brown and white cows stand scattered in a pasture.</caption>
+      <caption>Several cows are standing in a grassy field.</caption>
+      <caption>a herd of cows walking around a pasture</caption>
+    </captions>
+</image>

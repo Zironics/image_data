@@ -1,0 +1,103 @@
+<image>
+  <image-id>2323549</image-id>
+  <coco-id>6481</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4530619</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3015118</subject>
+      <object>3015116</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4530620</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3473412</subject>
+      <object>2791473</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4530621</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2791473</subject>
+      <object>3008079</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4530622</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2791473</subject>
+      <object>3008079</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4103028</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3411857</subject>
+      <object>2791473</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>leaves</name>
+      <h>71</h>
+      <object_id>3015118</object_id>
+      <w>133</w>
+      <y>6</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>100</h>
+      <object_id>3015116</object_id>
+      <w>70</w>
+      <y>222</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+      </attributes>
+      <name>mouth</name>
+      <h>73</h>
+      <object_id>3473412</object_id>
+      <w>64</w>
+      <y>233</y>
+      <x>169</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grizzly</attribute>
+        <attribute>giant </attribute>
+        <attribute>brown</attribute>
+        <attribute>standing</attribute>
+        <attribute>shaggy</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>406</h>
+      <object_id>2791473</object_id>
+      <w>261</w>
+      <y>0</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>195</h>
+      <object_id>3008079</object_id>
+      <w>331</w>
+      <y>303</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>claws</name>
+      <h>45</h>
+      <object_id>3411857</object_id>
+      <w>188</w>
+      <y>365</y>
+      <x>68</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large brown bear standing on a rock.</caption>
+      <caption>A brown bear standing on a rock above grass and leaves.</caption>
+      <caption>A large brown bear growls on top of a boulder.</caption>
+      <caption>A brown bear is on a rock with its mouth open.</caption>
+      <caption>A brown bear walking through a lush green forest.</caption>
+    </captions>
+</image>

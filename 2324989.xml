@@ -1,0 +1,141 @@
+<image>
+  <image-id>2324989</image-id>
+  <coco-id>258501</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4567883</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4018771</subject>
+      <object>4018788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4567884</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4018789</subject>
+      <object>4018799</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4567885</relationship_id>
+      <predicate>down on</predicate>
+      <subject>4018793</subject>
+      <object>4018788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4567886</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4018768</subject>
+      <object>4018799</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4567887</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4018798</subject>
+      <object>4018799</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4567888</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4018800</subject>
+      <object>4018801</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clean</attribute>
+      </attributes>
+      <h>41</h>
+      <object_id>4018771</object_id>
+      <w>31</w>
+      <y>349</y>
+      <x>183</x>
+      <name>toilet water</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>with lid open</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>312</h>
+      <object_id>4018788</object_id>
+      <w>169</w>
+      <y>144</y>
+      <x>114</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>flush buttons</name>
+      <h>64</h>
+      <object_id>4018789</object_id>
+      <w>105</w>
+      <y>71</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>349</h>
+      <object_id>4018799</object_id>
+      <w>372</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>seat</name>
+      <h>148</h>
+      <object_id>4018793</object_id>
+      <w>144</w>
+      <y>281</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on wall</attribute>
+      </attributes>
+      <h>58</h>
+      <object_id>4018768</object_id>
+      <w>47</w>
+      <y>259</y>
+      <x>74</x>
+      <name>black bag</name>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>55</h>
+      <object_id>4018798</object_id>
+      <w>55</w>
+      <y>229</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>109</h>
+      <object_id>4018800</object_id>
+      <w>156</w>
+      <y>384</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiled</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>167</h>
+      <object_id>4018801</object_id>
+      <w>370</w>
+      <y>331</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white toilet in a bathroom next to a trash can.</caption>
+      <caption>A water closet showing a toilet with open lid</caption>
+      <caption>The toilet sits at the back of the spotless stall.</caption>
+      <caption>A clean empty public toilet stall with a white toilet.</caption>
+      <caption>A TOILET IS IN THE BATHROOM WITH A TRASH CAN </caption>
+    </captions>
+</image>

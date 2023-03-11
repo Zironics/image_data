@@ -1,0 +1,54 @@
+<image>
+  <image-id>2335591</image-id>
+  <coco-id>165820</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3979416</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3668116</subject>
+      <object>2049357</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3979425</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3668122</subject>
+      <object>3668116</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>353</h>
+      <object_id>3668116</object_id>
+      <w>98</w>
+      <y>76</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>jersey</name>
+      <h>104</h>
+      <object_id>2049357</object_id>
+      <w>137</w>
+      <y>129</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>glove</name>
+      <h>51</h>
+      <object_id>3668122</object_id>
+      <w>48</w>
+      <y>73</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on a field with a baseball glove.</caption>
+      <caption>Male baseball player jumping to catch the baseball. </caption>
+      <caption>A man in green jersey jumping on baseball field.</caption>
+      <caption>A man standing on a baseball field holding a catchers mitt.</caption>
+      <caption>A baseball player pictured mid-air as he catches the baseball.</caption>
+    </captions>
+</image>

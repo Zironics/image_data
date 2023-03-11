@@ -1,0 +1,76 @@
+<image>
+  <image-id>2327781</image-id>
+  <coco-id>226451</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4472487</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3382031</subject>
+      <object>3937043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4472488</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3507982</subject>
+      <object>3382031</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4472489</relationship_id>
+      <predicate>between</predicate>
+      <subject>3159552</subject>
+      <object>3937045</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>120</h>
+      <object_id>3382031</object_id>
+      <w>271</w>
+      <y>146</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>112</h>
+      <object_id>3937043</object_id>
+      <w>491</w>
+      <y>221</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>96</h>
+      <object_id>3507982</object_id>
+      <w>193</w>
+      <y>103</y>
+      <x>300</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dead</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>20</h>
+      <object_id>3159552</object_id>
+      <w>46</w>
+      <y>247</y>
+      <x>361</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>110</h>
+      <object_id>3937045</object_id>
+      <w>400</w>
+      <y>224</y>
+      <x>52</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train that is sitting on a train track.</caption>
+      <caption>a red train engine pulling green passenger cars</caption>
+      <caption>A large long train on a steel track.</caption>
+      <caption>The view from the train station is full of trains and beautiful scenery.</caption>
+      <caption>A train sits on the tracks in a train yard.</caption>
+    </captions>
+</image>

@@ -1,0 +1,82 @@
+<image>
+  <image-id>2323924</image-id>
+  <coco-id>91318</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4528654</relationship_id>
+      <predicate>made of</predicate>
+      <subject>3075125</subject>
+      <object>3075126</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528655</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3207816</subject>
+      <object>2814969</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528656</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3958085</subject>
+      <object>2814969</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>157</h>
+      <object_id>3075125</object_id>
+      <w>255</w>
+      <y>216</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>wood</name>
+      <h>170</h>
+      <object_id>3075126</object_id>
+      <w>232</w>
+      <y>203</y>
+      <x>126</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>19</h>
+      <object_id>3207816</object_id>
+      <w>11</w>
+      <y>222</y>
+      <x>351</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>220</h>
+      <object_id>2814969</object_id>
+      <w>181</w>
+      <y>154</y>
+      <x>317</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>20</h>
+      <object_id>3958085</object_id>
+      <w>16</w>
+      <y>228</y>
+      <x>384</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A guy with a scissors cutting the cast off the arm of another guy.</caption>
+      <caption>A man cutting a cast off another person with scissors.</caption>
+      <caption>A guy cutting off another guy's cast from his arm.</caption>
+      <caption>Three guys are having fun, looking away from the camera. </caption>
+      <caption>One man cutting the cast off another man's arm.</caption>
+    </captions>
+</image>

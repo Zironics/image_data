@@ -1,0 +1,63 @@
+<image>
+  <image-id>2337832</image-id>
+  <coco-id>331475</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4072211</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2088217</subject>
+      <object>2088216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4072212</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2104634</subject>
+      <object>2104633</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>217</h>
+      <object_id>2088217</object_id>
+      <w>305</w>
+      <y>156</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>square</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>253</h>
+      <object_id>2088216</object_id>
+      <w>317</w>
+      <y>120</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>milk</name>
+      <h>55</h>
+      <object_id>2104634</object_id>
+      <w>63</w>
+      <y>37</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>105</h>
+      <object_id>2104633</object_id>
+      <w>95</w>
+      <y>0</y>
+      <x>106</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two plates of food sitting on the table </caption>
+      <caption>two plates of food with meat and tomatoes on a table </caption>
+      <caption>Two plates of good sitting on a table with lots of vegetables</caption>
+      <caption>A table with two square plates covered with food on top of it.</caption>
+      <caption>A big fat sandwich sits on a white plate ona  table by a potted plant and an ash tray.</caption>
+    </captions>
+</image>

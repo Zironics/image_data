@@ -1,0 +1,40 @@
+<image>
+  <image-id>2417514</image-id>
+  <coco-id>310797</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255786</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2968004</subject>
+      <object>2968003</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>151</h>
+      <object_id>2968004</object_id>
+      <w>95</w>
+      <y>113</y>
+      <x>373</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red shirt</name>
+      <h>72</h>
+      <object_id>2968003</object_id>
+      <w>65</w>
+      <y>170</y>
+      <x>400</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man eating food at a baseball game.</caption>
+      <caption>A man eating a hot dog in the stands</caption>
+      <caption>A man eats a hotdog in a stadium.</caption>
+      <caption>an image of a man eating a hot dog bun</caption>
+      <caption>A man in the action of eating a hot dog.</caption>
+    </captions>
+</image>

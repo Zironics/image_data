@@ -1,0 +1,123 @@
+<image>
+  <image-id>2319421</image-id>
+  <coco-id>105363</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2991362</relationship_id>
+      <predicate>has</predicate>
+      <subject>1002098</subject>
+      <object>1002100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2991363</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1002101</subject>
+      <object>1002096</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2991364</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1002105</subject>
+      <object>1002106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2991365</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1002107</subject>
+      <object>1002106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2991366</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1002107</subject>
+      <object>1002106</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in front</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>352</h>
+      <object_id>1002098</object_id>
+      <w>336</w>
+      <y>90</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>off</attribute>
+      </attributes>
+      <name>headlamps</name>
+      <h>54</h>
+      <object_id>1002100</object_id>
+      <w>184</w>
+      <y>338</y>
+      <x>279</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>43</h>
+      <object_id>1002101</object_id>
+      <w>32</w>
+      <y>245</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>267</h>
+      <object_id>1002096</object_id>
+      <w>117</w>
+      <y>124</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on level 2</attribute>
+      </attributes>
+      <name>window</name>
+      <h>55</h>
+      <object_id>1002105</object_id>
+      <w>79</w>
+      <y>65</y>
+      <x>386</x>
+    </object>
+    <object>
+      <name>2nd level</name>
+      <h>17</h>
+      <object_id>1002106</object_id>
+      <w>34</w>
+      <y>33</y>
+      <x>285</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on 2nd level</attribute>
+        <attribute>on level 2</attribute>
+      </attributes>
+      <name>window</name>
+      <h>32</h>
+      <object_id>1002107</object_id>
+      <w>50</w>
+      <y>139</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two double-decker buses are parked in a downtown area.</caption>
+      <caption>Two double decker buses parked on a street.</caption>
+      <caption>Two Double Decker buses driving down a street.
+</caption>
+      <caption>Two British double-decker buses in a downtown setting.</caption>
+      <caption>Two double decker buses are parked on a curb near a building.</caption>
+    </captions>
+</image>

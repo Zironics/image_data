@@ -1,0 +1,185 @@
+<image>
+  <image-id>2351222</image-id>
+  <coco-id>239654</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4406093</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>2052683</subject>
+      <object>2123828</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789912</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>2052683</subject>
+      <object>2133702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789913</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>2001943</subject>
+      <object>2133702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789914</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>2052683</subject>
+      <object>2696997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789915</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>2001943</subject>
+      <object>2696997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789916</relationship_id>
+      <predicate>scattered on</predicate>
+      <subject>2696997</subject>
+      <object>2133702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789917</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>2052683</subject>
+      <object>2001943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789918</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3590070</subject>
+      <object>2466381</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789919</relationship_id>
+      <predicate>grabbing</predicate>
+      <subject>2466382</subject>
+      <object>2466381</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789920</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>2669652</subject>
+      <object>2696997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789921</relationship_id>
+      <predicate>near</predicate>
+      <subject>2669652</subject>
+      <object>2133702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789924</relationship_id>
+      <predicate>laying</predicate>
+      <subject>2001943</subject>
+      <object>2696997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789925</relationship_id>
+      <predicate>laying</predicate>
+      <subject>2052683</subject>
+      <object>2001943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789928</relationship_id>
+      <predicate>has</predicate>
+      <subject>2052683</subject>
+      <object>2052684</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>122</h>
+      <object_id>2052683</object_id>
+      <w>183</w>
+      <y>159</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>134</h>
+      <object_id>2123828</object_id>
+      <w>101</w>
+      <y>64</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>332</h>
+      <object_id>2133702</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <h>139</h>
+      <object_id>2001943</object_id>
+      <w>101</w>
+      <y>62</y>
+      <x>147</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>333</h>
+      <object_id>2696997</object_id>
+      <w>327</w>
+      <y>0</y>
+      <x>154</x>
+      <name>paper</name>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>19</h>
+      <object_id>3590070</object_id>
+      <w>50</w>
+      <y>162</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>toilet paper</name>
+      <h>332</h>
+      <object_id>2466381</object_id>
+      <w>325</w>
+      <y>0</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>paw</name>
+      <h>16</h>
+      <object_id>2466382</object_id>
+      <w>15</w>
+      <y>266</y>
+      <x>220</x>
+    </object>
+    <object>
+      <h>221</h>
+      <object_id>2669652</object_id>
+      <w>257</w>
+      <y>62</y>
+      <x>147</x>
+      <name>cats</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>20</h>
+      <object_id>2052684</object_id>
+      <w>50</w>
+      <y>164</y>
+      <x>353</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some kittens have made a mess from a roll of toilet paper.</caption>
+      <caption>Two kitties playing with toilet paper next to the toilet.</caption>
+      <caption>Two kittens playing with an unraveled toilet paper roll by a toilet.</caption>
+      <caption>A couple of kittens laying in a pile of unused toilet paper.</caption>
+      <caption>Two kittens on the floor with rolls of toilet paper </caption>
+    </captions>
+</image>

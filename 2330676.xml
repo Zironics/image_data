@@ -1,0 +1,62 @@
+<image>
+  <image-id>2330676</image-id>
+  <coco-id>555724</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4805741</relationship_id>
+      <predicate>in</predicate>
+      <subject>4612093</subject>
+      <object>4612094</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4805787</relationship_id>
+      <predicate>on</predicate>
+      <subject>4612199</subject>
+      <object>4612200</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree</name>
+      <h>57</h>
+      <object_id>4612093</object_id>
+      <w>24</w>
+      <y>15</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>80</h>
+      <object_id>4612094</object_id>
+      <w>486</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letters</name>
+      <h>21</h>
+      <object_id>4612199</object_id>
+      <w>32</w>
+      <y>144</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>149</h>
+      <object_id>4612200</object_id>
+      <w>265</w>
+      <y>56</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red train engine passing by trees and water.</caption>
+      <caption>a train on railroad tracks next to a lake</caption>
+      <caption>Long industrial trains riding down the tracks along the river.</caption>
+      <caption>a train on a track with an icy river in the background</caption>
+      <caption>A train is travelling next to trees and a river</caption>
+    </captions>
+</image>

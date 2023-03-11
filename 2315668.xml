@@ -1,0 +1,79 @@
+<image>
+  <image-id>2315668</image-id>
+  <coco-id>16870</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3840156</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2958523</subject>
+      <object>2829211</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3947698</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2958523</subject>
+      <object>2958524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3670598</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3538275</subject>
+      <object>2784862</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>36</h>
+      <object_id>2958523</object_id>
+      <w>81</w>
+      <y>110</y>
+      <x>212</x>
+      <name>rim</name>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>295</h>
+      <object_id>2829211</object_id>
+      <w>210</w>
+      <y>109</y>
+      <x>141</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fat</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>371</h>
+      <object_id>2958524</object_id>
+      <w>188</w>
+      <y>102</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>base</name>
+      <h>45</h>
+      <object_id>3538275</object_id>
+      <w>195</w>
+      <y>408</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>curved</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>371</h>
+      <object_id>2784862</object_id>
+      <w>248</w>
+      <y>92</y>
+      <x>114</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two white vase type items made out of clay sit in front of a black background.</caption>
+      <caption>A couple of white vases on a black surface.</caption>
+      <caption>Two white vases sitting beside each other in a dark room. </caption>
+      <caption>One of the jars is taller and thinner than the other.</caption>
+      <caption>A tall white bottle and a shorter, wider white bottle.</caption>
+    </captions>
+</image>

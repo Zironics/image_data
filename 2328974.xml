@@ -1,0 +1,51 @@
+<image>
+  <image-id>2328974</image-id>
+  <coco-id>304320</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4070417</relationship_id>
+      <predicate>eats</predicate>
+      <subject>3240785</subject>
+      <object>2952958</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141875</relationship_id>
+      <predicate>has</predicate>
+      <subject>3240785</subject>
+      <object>3240784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>106</h>
+      <object_id>3240785</object_id>
+      <w>147</w>
+      <y>192</y>
+      <x>183</x>
+      <name>cow</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>168</h>
+      <object_id>2952958</object_id>
+      <w>391</w>
+      <y>205</y>
+      <x>106</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>38</h>
+      <object_id>3240784</object_id>
+      <w>35</w>
+      <y>243</y>
+      <x>291</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Several cows standing while grazing in a field.</caption>
+      <caption>A few cows grazing in a grassy pasture in front of a barn and silo.</caption>
+      <caption>A few dairy cows grazing in a field behind a wire fence.</caption>
+      <caption>The cows are grazing on the grassy field.</caption>
+      <caption>a couple of cows are in a grassy field</caption>
+    </captions>
+</image>

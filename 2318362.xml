@@ -1,0 +1,79 @@
+<image>
+  <image-id>2318362</image-id>
+  <coco-id>571249</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3711231</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3556707</subject>
+      <object>3468102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3711232</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3556708</subject>
+      <object>3468102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3711233</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3556709</subject>
+      <object>3468102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3711234</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3556710</subject>
+      <object>3468102</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cow</name>
+      <h>204</h>
+      <object_id>3556707</object_id>
+      <w>236</w>
+      <y>127</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>190</h>
+      <object_id>3468102</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>162</h>
+      <object_id>3556708</object_id>
+      <w>77</w>
+      <y>95</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>120</h>
+      <object_id>3556709</object_id>
+      <w>102</w>
+      <y>95</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>123</h>
+      <object_id>3556710</object_id>
+      <w>67</w>
+      <y>73</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of cattle walking along a dirt road.</caption>
+      <caption>A group of cows walking down a mountain trail.</caption>
+      <caption>some cows walking along a trail by the side of a hill</caption>
+      <caption>A group of cows that are standing in grass.</caption>
+      <caption>A herd of cows walking along a dirt path in the mountains.</caption>
+    </captions>
+</image>

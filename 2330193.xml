@@ -1,0 +1,130 @@
+<image>
+  <image-id>2330193</image-id>
+  <coco-id>16209</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3950787</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3379204</subject>
+      <object>2711328</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120226</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3109361</subject>
+      <object>3109362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120227</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3109361</subject>
+      <object>3109363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3950795</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3439169</subject>
+      <object>3439168</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3950796</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3439171</subject>
+      <object>3439170</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pedestrian</name>
+      <h>57</h>
+      <object_id>3379204</object_id>
+      <w>35</w>
+      <y>240</y>
+      <x>163</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>PEDESTRIAN</attribute>
+        <attribute>SIGNAL</attribute>
+      </attributes>
+      <h>124</h>
+      <object_id>2711328</object_id>
+      <w>72</w>
+      <y>220</y>
+      <x>151</x>
+      <name>box</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>metal pole</name>
+      <h>369</h>
+      <object_id>3109361</object_id>
+      <w>57</w>
+      <y>5</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>signs</name>
+      <h>173</h>
+      <object_id>3109362</object_id>
+      <w>267</w>
+      <y>77</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>signals</name>
+      <h>115</h>
+      <object_id>3109363</object_id>
+      <w>87</w>
+      <y>2</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>letters</name>
+      <h>28</h>
+      <object_id>3439169</object_id>
+      <w>124</w>
+      <y>209</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green sign</name>
+      <h>69</h>
+      <object_id>3439168</object_id>
+      <w>201</w>
+      <y>183</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white letters</name>
+      <h>47</h>
+      <object_id>3439171</object_id>
+      <w>32</w>
+      <y>99</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>green sign</name>
+      <h>121</h>
+      <object_id>3439170</object_id>
+      <w>93</w>
+      <y>84</y>
+      <x>102</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light with a pedestrian crossing signal.</caption>
+      <caption>A street pole with a "One Way" sign. </caption>
+      <caption>a close up of a street sign on a pole </caption>
+      <caption>A One Way sign at the intersection of Madison St. and 1st Avenue.</caption>
+      <caption>Signs showing a street name, crosswalk directions and "One Way".</caption>
+    </captions>
+</image>

@@ -1,0 +1,106 @@
+<image>
+  <image-id>2338419</image-id>
+  <coco-id>311522</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4062916</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2619065</subject>
+      <object>2619066</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4062917</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2009350</subject>
+      <object>2009351</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4062925</relationship_id>
+      <predicate>at</predicate>
+      <subject>2013025</subject>
+      <object>2013026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4062926</relationship_id>
+      <predicate>and</predicate>
+      <subject>2357600</subject>
+      <object>2676438</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>310</h>
+      <object_id>2619065</object_id>
+      <w>493</w>
+      <y>63</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>slopes</name>
+      <h>360</h>
+      <object_id>2619066</object_id>
+      <w>495</w>
+      <y>13</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>145</h>
+      <object_id>2009350</object_id>
+      <w>51</w>
+      <y>226</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>12</h>
+      <object_id>2009351</object_id>
+      <w>13</w>
+      <y>238</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>282</h>
+      <object_id>2013025</object_id>
+      <w>498</w>
+      <y>83</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ski resort</name>
+      <h>362</h>
+      <object_id>2013026</object_id>
+      <w>500</w>
+      <y>11</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>89</h>
+      <object_id>2357600</object_id>
+      <w>48</w>
+      <y>250</y>
+      <x>0</x>
+      <name>jacket</name>
+    </object>
+    <object>
+      <name>backpack</name>
+      <h>45</h>
+      <object_id>2676438</object_id>
+      <w>12</w>
+      <y>265</y>
+      <x>42</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people skiing down a mountain slope.</caption>
+      <caption>A ski hill with a group of people skiing on it.</caption>
+      <caption>people wearing skis skiing down a snow covered bank.</caption>
+      <caption>Numerous people skiiing down the slops of a hill.</caption>
+      <caption>many people skating on the very high snow</caption>
+    </captions>
+</image>

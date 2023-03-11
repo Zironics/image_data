@@ -1,0 +1,111 @@
+<image>
+  <image-id>2335253</image-id>
+  <coco-id>128428</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3985566</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2476415</subject>
+      <object>3348047</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451632</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2256057</subject>
+      <object>2642862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451633</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3070626</subject>
+      <object>3070628</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451634</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3070627</subject>
+      <object>3070628</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>52</h>
+      <object_id>2476415</object_id>
+      <w>124</w>
+      <y>135</y>
+      <x>375</x>
+    </object>
+    <object>
+      <name>can</name>
+      <h>314</h>
+      <object_id>3348047</object_id>
+      <w>160</w>
+      <y>37</y>
+      <x>338</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>ham</name>
+      <h>22</h>
+      <object_id>2256057</object_id>
+      <w>85</w>
+      <y>350</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>uncooked</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>208</h>
+      <object_id>2642862</object_id>
+      <w>329</w>
+      <y>165</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>T</attribute>
+      </attributes>
+      <name>white letter</name>
+      <h>42</h>
+      <object_id>3070626</object_id>
+      <w>120</w>
+      <y>137</y>
+      <x>378</x>
+    </object>
+    <object>
+      <name>can label</name>
+      <h>310</h>
+      <object_id>3070628</object_id>
+      <w>168</w>
+      <y>36</y>
+      <x>330</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>e</attribute>
+      </attributes>
+      <name>white letter</name>
+      <h>21</h>
+      <object_id>3070627</object_id>
+      <w>55</w>
+      <y>78</y>
+      <x>434</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A can of tomato on a kitchen counter.</caption>
+      <caption>Homemade uncooked pizza with mushrooms and spinach next to tomato can.</caption>
+      <caption>A photograph of cheese-less pizza made with Del Monte tomato sauce.</caption>
+      <caption>Pizzas that have not been cooked yet, with toppings of mushrooms, spinach leaves, and sliced meat.</caption>
+      <caption>ham, mushrooms and spinach pizzas by a can of tomato sauce</caption>
+    </captions>
+</image>

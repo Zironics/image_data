@@ -1,0 +1,102 @@
+<image>
+  <image-id>2405962</image-id>
+  <coco-id>498537</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>701863</relationship_id>
+      <predicate>IN</predicate>
+      <subject>371129</subject>
+      <object>371131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>701864</relationship_id>
+      <predicate>ON</predicate>
+      <subject>371133</subject>
+      <object>371128</object>
+    </relationship>
+    <relationship>
+      <relationship_id>701865</relationship_id>
+      <predicate>ON</predicate>
+      <subject>371133</subject>
+      <object>371127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>701866</relationship_id>
+      <predicate>ON</predicate>
+      <subject>371133</subject>
+      <object>371127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yello</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>liquid</name>
+      <h>83</h>
+      <object_id>371129</object_id>
+      <w>265</w>
+      <y>0</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>106</h>
+      <object_id>371131</object_id>
+      <w>326</w>
+      <y>0</y>
+      <x>171</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>cooked</attribute>
+        <attribute>on dish</attribute>
+        <attribute>sunny side up</attribute>
+        <attribute>peppery</attribute>
+        <attribute>fried</attribute>
+        <attribute>heathy</attribute>
+      </attributes>
+      <name>egg</name>
+      <h>294</h>
+      <object_id>371133</object_id>
+      <w>293</w>
+      <y>141</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>shiny</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>420</h>
+      <object_id>371128</object_id>
+      <w>162</w>
+      <y>77</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>upside down</attribute>
+        <attribute>syrupy</attribute>
+        <attribute>for eating</attribute>
+      </attributes>
+      <name>spoon</name>
+      <h>150</h>
+      <object_id>371127</object_id>
+      <w>237</w>
+      <y>204</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The food is in a plate with a burnt spoon on top of it.</caption>
+      <caption>A red bowl and a red plate of food.</caption>
+      <caption>three plates of food on a plate with a spoon</caption>
+      <caption>A red breakfast plate with eggs and toast.</caption>
+      <caption>A plate of food including bread and an egg.</caption>
+    </captions>
+</image>

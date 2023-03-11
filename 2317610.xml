@@ -1,0 +1,65 @@
+<image>
+  <image-id>2317610</image-id>
+  <coco-id>76161</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3939203</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3652904</subject>
+      <object>3120374</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3847516</relationship_id>
+      <predicate>with</predicate>
+      <subject>2734139</subject>
+      <object>2734140</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in</attribute>
+      </attributes>
+      <name>men</name>
+      <h>311</h>
+      <object_id>3652904</object_id>
+      <w>377</w>
+      <y>20</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>hallway</name>
+      <h>328</h>
+      <object_id>3120374</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>308</h>
+      <object_id>2734139</object_id>
+      <w>219</w>
+      <y>20</y>
+      <x>280</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>tie</name>
+      <h>161</h>
+      <object_id>2734140</object_id>
+      <w>50</w>
+      <y>170</y>
+      <x>342</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men wearing ties holding glasses filled with beverages.</caption>
+      <caption>Two men in business clothes with alcoholic drinks at a corporate party</caption>
+      <caption>A couple of men standing close together having drinks.</caption>
+      <caption>Young business man at social formal function enjoying company.</caption>
+      <caption>A pair of men stand together holding beers.</caption>
+    </captions>
+</image>

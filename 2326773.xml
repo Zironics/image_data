@@ -1,0 +1,148 @@
+<image>
+  <image-id>2326773</image-id>
+  <coco-id>183201</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476531</relationship_id>
+      <predicate>running in</predicate>
+      <subject>2798989</subject>
+      <object>2717305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476532</relationship_id>
+      <predicate>running in</predicate>
+      <subject>3395446</subject>
+      <object>2717305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476534</relationship_id>
+      <predicate>running in a</predicate>
+      <subject>2798989</subject>
+      <object>2717305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476535</relationship_id>
+      <predicate>with</predicate>
+      <subject>3938622</subject>
+      <object>3151448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476536</relationship_id>
+      <predicate>running in a</predicate>
+      <subject>3395446</subject>
+      <object>2717305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3851037</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2798989</subject>
+      <object>3395447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3851038</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3395446</subject>
+      <object>3395447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476537</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3248913</subject>
+      <object>3938622</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476538</relationship_id>
+      <predicate>galloping in</predicate>
+      <subject>3395446</subject>
+      <object>2795562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476539</relationship_id>
+      <predicate>galloping in</predicate>
+      <subject>3395446</subject>
+      <object>2717305</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>54</h>
+      <object_id>2798989</object_id>
+      <w>58</w>
+      <y>172</y>
+      <x>148</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>182</h>
+      <object_id>2717305</object_id>
+      <w>492</w>
+      <y>146</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>running</attribute>
+      </attributes>
+      <h>52</h>
+      <object_id>3395446</object_id>
+      <w>41</w>
+      <y>168</y>
+      <x>345</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>safari</name>
+      <h>201</h>
+      <object_id>3938622</object_id>
+      <w>475</w>
+      <y>130</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+      </attributes>
+      <name>dry grass</name>
+      <h>192</h>
+      <object_id>3151448</object_id>
+      <w>491</w>
+      <y>139</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>48</h>
+      <object_id>3395447</object_id>
+      <w>495</w>
+      <y>125</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>bushes</name>
+      <h>20</h>
+      <object_id>3248913</object_id>
+      <w>377</w>
+      <y>130</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>31</h>
+      <object_id>2795562</object_id>
+      <w>74</w>
+      <y>219</y>
+      <x>345</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra following another zebra in an open prairie.</caption>
+      <caption>Two zebra traveling across a sparsely grassed plain.</caption>
+      <caption>Two zebras running together in a large field. </caption>
+      <caption>Two adult zebras run across an open plain.</caption>
+      <caption>Two zebras running across a brown and barren landscape.</caption>
+    </captions>
+</image>

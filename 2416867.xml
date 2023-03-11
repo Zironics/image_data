@@ -1,0 +1,73 @@
+<image>
+  <image-id>2416867</image-id>
+  <coco-id>369568</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3962712</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3133404</subject>
+      <object>3133405</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3962743</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3205517</subject>
+      <object>3205518</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255019</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3133404</subject>
+      <object>3039047</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>60</h>
+      <object_id>3133404</object_id>
+      <w>80</w>
+      <y>80</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>332</h>
+      <object_id>3133405</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>18</h>
+      <object_id>3205517</object_id>
+      <w>13</w>
+      <y>117</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>56</h>
+      <object_id>3205518</object_id>
+      <w>75</w>
+      <y>82</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>127</h>
+      <object_id>3039047</object_id>
+      <w>265</w>
+      <y>131</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra that is standing in the grass.</caption>
+      <caption>A zebras standing in an inclosue for people to view.</caption>
+      <caption>A zebra that is standing in grass underneath some trees.</caption>
+      <caption>A zebra in a green grassy zoo enclosure</caption>
+      <caption>The zebra is walking in the green grassl</caption>
+    </captions>
+</image>

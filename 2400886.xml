@@ -1,0 +1,67 @@
+<image>
+  <image-id>2400886</image-id>
+  <coco-id>185006</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3301103</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1153984</subject>
+      <object>1153985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301111</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1153984</subject>
+      <object>1153985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301123</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1153984</subject>
+      <object>1153985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301127</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1153984</subject>
+      <object>1153985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301137</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1153984</subject>
+      <object>1153985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301138</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1153984</subject>
+      <object>1153985</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>62</h>
+      <object_id>1153984</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>62</h>
+      <object_id>1153985</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are standing outside of a hut with a cow.</caption>
+      <caption>A group of people and cow outside of a hut.</caption>
+      <caption>Several people gather round a cow outside of a mud house with a thatched roof. </caption>
+      <caption>A group of people are standing around a cow.</caption>
+      <caption>Some people standing near a house with a cow.</caption>
+    </captions>
+</image>

@@ -1,0 +1,79 @@
+<image>
+  <image-id>2358097</image-id>
+  <coco-id>386012</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2260908</relationship_id>
+      <predicate>ON</predicate>
+      <subject>806088</subject>
+      <object>806093</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2260909</relationship_id>
+      <predicate>IN</predicate>
+      <subject>806087</subject>
+      <object>806091</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>swimming</attribute>
+      </attributes>
+      <name>person</name>
+      <h>11</h>
+      <object_id>806088</object_id>
+      <w>7</w>
+      <y>223</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>71</h>
+      <object_id>806093</object_id>
+      <w>497</w>
+      <y>201</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+        <attribute>pink</attribute>
+        <attribute>black</attribute>
+        <attribute>blue</attribute>
+        <attribute>orange</attribute>
+        <attribute>white</attribute>
+        <attribute>flying</attribute>
+        <attribute>green</attribute>
+        <attribute>red</attribute>
+        <attribute>yellow</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>25</h>
+      <object_id>806087</object_id>
+      <w>17</w>
+      <y>109</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>203</h>
+      <object_id>806091</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a sunny beach filled with a lot of curved kites</caption>
+      <caption>Large variety of sail being flown over beach area at ocean.</caption>
+      <caption>A bunch of people that have wind surfboards in the water.</caption>
+      <caption>Dozens of colorful kites being flown on the beach</caption>
+      <caption>a bunch of kites that are by a ocean</caption>
+    </captions>
+</image>

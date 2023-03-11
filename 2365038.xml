@@ -1,0 +1,110 @@
+<image>
+  <image-id>2365038</image-id>
+  <coco-id>205887</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4387784</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2554455</subject>
+      <object>2368307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4387785</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3886441</subject>
+      <object>2368307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4387786</relationship_id>
+      <predicate>has</predicate>
+      <subject>3886442</subject>
+      <object>2198907</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4387787</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2368307</subject>
+      <object>3886443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4387788</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2275058</subject>
+      <object>2368307</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow button</name>
+      <h>10</h>
+      <object_id>2554455</object_id>
+      <w>12</w>
+      <y>330</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>parking</attribute>
+      </attributes>
+      <h>431</h>
+      <object_id>2368307</object_id>
+      <w>227</w>
+      <y>67</y>
+      <x>69</x>
+      <name>meter</name>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>45</h>
+      <object_id>3886441</object_id>
+      <w>113</w>
+      <y>78</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>201</h>
+      <object_id>3886442</object_id>
+      <w>107</w>
+      <y>8</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>tree trunk</name>
+      <h>99</h>
+      <object_id>2198907</object_id>
+      <w>15</w>
+      <y>109</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>62</h>
+      <object_id>3886443</object_id>
+      <w>363</w>
+      <y>437</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>button</name>
+      <h>18</h>
+      <object_id>2275058</object_id>
+      <w>46</w>
+      <y>236</y>
+      <x>204</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A machine where you pay for parking. </caption>
+      <caption>A vending machine stands outside by the street.</caption>
+      <caption>A black and silver parking meter on sidewalk next to trees.</caption>
+      <caption>A machine that is standing up on concrete.</caption>
+      <caption>The large ticket machine is ready for patrons.</caption>
+    </captions>
+</image>

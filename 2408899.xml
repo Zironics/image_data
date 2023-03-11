@@ -1,0 +1,93 @@
+<image>
+  <image-id>2408899</image-id>
+  <coco-id>204700</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3220892</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1091980</subject>
+      <object>1091981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3220893</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1091980</subject>
+      <object>1091981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3220894</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1091980</subject>
+      <object>1091981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3220898</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1091980</subject>
+      <object>1091981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>662980</relationship_id>
+      <predicate>ON</predicate>
+      <subject>364361</subject>
+      <object>364362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>663002</relationship_id>
+      <predicate>ON</predicate>
+      <subject>364361</subject>
+      <object>364362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3220935</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1091980</subject>
+      <object>1091981</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>46</h>
+      <object_id>1091980</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>46</h>
+      <object_id>1091981</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>details</name>
+      <h>23</h>
+      <object_id>364361</object_id>
+      <w>146</w>
+      <y>239</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>187</h>
+      <object_id>364362</object_id>
+      <w>254</w>
+      <y>111</y>
+      <x>157</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train pulling into a train station next to a platform.</caption>
+      <caption>A silver train at an empty train station stop.</caption>
+      <caption>A train with its lights on pulling alongside a pedestrian platform.</caption>
+      <caption>A grey train going along the railroad station.</caption>
+      <caption>A commuter train at the platform in a city</caption>
+    </captions>
+</image>

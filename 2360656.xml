@@ -1,0 +1,117 @@
+<image>
+  <image-id>2360656</image-id>
+  <coco-id>501210</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4396574</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3891705</subject>
+      <object>3891706</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4200035</relationship_id>
+      <predicate>swing</predicate>
+      <subject>1785110</subject>
+      <object>2679901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4200036</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2276748</subject>
+      <object>2276749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4200037</relationship_id>
+      <predicate>wears</predicate>
+      <subject>1785110</subject>
+      <object>1785111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4200038</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1876485</subject>
+      <object>1876484</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pocket</name>
+      <h>51</h>
+      <object_id>3891705</object_id>
+      <w>45</w>
+      <y>278</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>shorts</name>
+      <h>125</h>
+      <object_id>3891706</object_id>
+      <w>96</w>
+      <y>218</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>314</h>
+      <object_id>1785110</object_id>
+      <w>193</w>
+      <y>60</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>77</h>
+      <object_id>2679901</object_id>
+      <w>95</w>
+      <y>5</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>82</h>
+      <object_id>2276748</object_id>
+      <w>77</w>
+      <y>62</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>trunks</name>
+      <h>123</h>
+      <object_id>2276749</object_id>
+      <w>60</w>
+      <y>215</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>tennis shoes</name>
+      <h>50</h>
+      <object_id>1785111</object_id>
+      <w>46</w>
+      <y>324</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>lines</name>
+      <h>180</h>
+      <object_id>1876485</object_id>
+      <w>490</w>
+      <y>125</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>255</h>
+      <object_id>1876484</object_id>
+      <w>481</w>
+      <y>117</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two images of a double fault in a tennis game </caption>
+      <caption>Two men holding tennis racquets on top of a green court.</caption>
+      <caption>a tennis player with a tennis ball and racket in hand</caption>
+      <caption>Two images of man with a tennis ball and then hitting the tennis ball with the racket. </caption>
+      <caption>2 pictures of 2 men playing a game of tennis.</caption>
+    </captions>
+</image>

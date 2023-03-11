@@ -1,0 +1,73 @@
+<image>
+  <image-id>2341064</image-id>
+  <coco-id>51067</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4094992</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2960770</subject>
+      <object>2960771</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094994</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3143112</subject>
+      <object>3798506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265818</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3798505</subject>
+      <object>3798506</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>23</h>
+      <object_id>2960770</object_id>
+      <w>26</w>
+      <y>303</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>78</h>
+      <object_id>2960771</object_id>
+      <w>63</w>
+      <y>296</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>letter</name>
+      <h>21</h>
+      <object_id>3143112</object_id>
+      <w>14</w>
+      <y>61</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>59</h>
+      <object_id>3798506</object_id>
+      <w>106</w>
+      <y>50</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>letter</name>
+      <h>22</h>
+      <object_id>3798505</object_id>
+      <w>10</w>
+      <y>80</y>
+      <x>65</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person standing near a stop sign near a road</caption>
+      <caption>A man standing next to a street sign reading "poopdeck".</caption>
+      <caption>The man is standing next to the stop sign outside.</caption>
+      <caption>A man standing next to a  red stop sign on the side of a road.</caption>
+      <caption>The man stands next to a street/stop sign.</caption>
+    </captions>
+</image>

@@ -1,0 +1,76 @@
+<image>
+  <image-id>2362328</image-id>
+  <coco-id>411695</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2121288</relationship_id>
+      <predicate>OF</predicate>
+      <subject>775182</subject>
+      <object>775183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2121289</relationship_id>
+      <predicate>OF</predicate>
+      <subject>775184</subject>
+      <object>775183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2121290</relationship_id>
+      <predicate>tell</predicate>
+      <subject>775183</subject>
+      <object>775188</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>face</name>
+      <h>73</h>
+      <object_id>775182</object_id>
+      <w>76</w>
+      <y>123</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hand</attribute>
+        <attribute>statue</attribute>
+        <attribute>podium</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>tower</attribute>
+        <attribute>thin</attribute>
+        <attribute>post</attribute>
+        <attribute>roman numeral</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>102</h>
+      <object_id>775183</object_id>
+      <w>98</w>
+      <y>116</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>bottom</name>
+      <h>55</h>
+      <object_id>775184</object_id>
+      <w>107</w>
+      <y>432</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>time</name>
+      <h>21</h>
+      <object_id>775188</object_id>
+      <w>21</w>
+      <y>154</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a clock tower in the middle of a paved area in a park</caption>
+      <caption>Pole sitting in the center of a park has a clock on top</caption>
+      <caption>Very pretty clock with the base surrounding by brick floor</caption>
+      <caption>A four faced clock in the middle of a wide open field.</caption>
+      <caption>The four sided clock on a pole is circled by a brick walkway.</caption>
+    </captions>
+</image>

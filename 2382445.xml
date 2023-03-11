@@ -1,0 +1,43 @@
+<image>
+  <image-id>2382445</image-id>
+  <coco-id>522416</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1322392</relationship_id>
+      <predicate>OF</predicate>
+      <subject>539090</subject>
+      <object>539076</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>36</h>
+      <object_id>539090</object_id>
+      <w>38</w>
+      <y>317</y>
+      <x>287</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pouting</attribute>
+        <attribute>sad</attribute>
+        <attribute>in green</attribute>
+        <attribute>wearing green</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>269</h>
+      <object_id>539076</object_id>
+      <w>152</w>
+      <y>102</y>
+      <x>193</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two children standing near a pasture full of cows.</caption>
+      <caption>Two child near a pen of cattle, one is pouting.</caption>
+      <caption>THERE ARE CHILDREN OUT IN THE COUNTRY FIELD</caption>
+      <caption>Two children looking at cows through a fence.</caption>
+      <caption>two kids looking at cows, one has a sad face</caption>
+    </captions>
+</image>

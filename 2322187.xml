@@ -1,0 +1,81 @@
+<image>
+  <image-id>2322187</image-id>
+  <coco-id>281676</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4101163</relationship_id>
+      <predicate>has</predicate>
+      <subject>2858787</subject>
+      <object>3715732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4101165</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3961314</subject>
+      <object>3199065</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4537469</relationship_id>
+      <predicate>has on</predicate>
+      <subject>3961314</subject>
+      <object>3207824</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bike</name>
+      <h>100</h>
+      <object_id>2858787</object_id>
+      <w>249</w>
+      <y>167</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>tires</name>
+      <h>100</h>
+      <object_id>3715732</object_id>
+      <w>220</w>
+      <y>179</y>
+      <x>186</x>
+    </object>
+    <object>
+      <h>145</h>
+      <object_id>3961314</object_id>
+      <w>216</w>
+      <y>61</y>
+      <x>144</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>36</h>
+      <object_id>3199065</object_id>
+      <w>51</w>
+      <y>85</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>62</h>
+      <object_id>3207824</object_id>
+      <w>51</w>
+      <y>65</y>
+      <x>144</x>
+      <name>helmet</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person riding a motorcycle on a closed course </caption>
+      <caption>A person on a motorcycle taking a curve.</caption>
+      <caption>A motorcyclists racing a motorcycle on a race track.</caption>
+      <caption>a man on a motorcycle making a turn around a track corner</caption>
+      <caption>A motorcycle rider leans into the turn at a sharp angle.</caption>
+    </captions>
+</image>

@@ -1,0 +1,226 @@
+<image>
+  <image-id>2399208</image-id>
+  <coco-id>139165</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3326278</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>1171256</subject>
+      <object>1171265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326279</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1171266</subject>
+      <object>1171265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326280</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1171267</subject>
+      <object>1171255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326281</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1171268</subject>
+      <object>1171255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326283</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1171257</subject>
+      <object>1171269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326282</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1171257</subject>
+      <object>1171265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326284</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>1171258</subject>
+      <object>1171257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326285</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1171270</subject>
+      <object>1171257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326286</relationship_id>
+      <predicate>at edge of</predicate>
+      <subject>1171272</subject>
+      <object>1171255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326287</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>1171257</subject>
+      <object>1171265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326288</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>1171257</subject>
+      <object>1171265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326289</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>1171257</subject>
+      <object>1171265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326290</relationship_id>
+      <predicate>standing beside</predicate>
+      <subject>1171256</subject>
+      <object>1171265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326291</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1171267</subject>
+      <object>1171255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326292</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1171268</subject>
+      <object>1171255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326293</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1171267</subject>
+      <object>1171255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3326294</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1171268</subject>
+      <object>1171255</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>113</h>
+      <object_id>1171256</object_id>
+      <w>73</w>
+      <y>146</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>170</h>
+      <object_id>1171265</object_id>
+      <w>251</w>
+      <y>204</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>vehicles</name>
+      <h>274</h>
+      <object_id>1171266</object_id>
+      <w>153</w>
+      <y>100</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>10</h>
+      <object_id>1171267</object_id>
+      <w>10</w>
+      <y>195</y>
+      <x>278</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>area</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>174</h>
+      <object_id>1171255</object_id>
+      <w>353</w>
+      <y>182</y>
+      <x>146</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>9</h>
+      <object_id>1171268</object_id>
+      <w>6</w>
+      <y>196</y>
+      <x>349</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>car</name>
+      <h>202</h>
+      <object_id>1171257</object_id>
+      <w>142</w>
+      <y>100</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>zoo park</name>
+      <h>240</h>
+      <object_id>1171269</object_id>
+      <w>375</w>
+      <y>134</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>license plate</name>
+      <h>19</h>
+      <object_id>1171258</object_id>
+      <w>63</w>
+      <y>258</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>antenna</name>
+      <h>53</h>
+      <object_id>1171270</object_id>
+      <w>9</w>
+      <y>99</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>56</h>
+      <object_id>1171272</object_id>
+      <w>230</w>
+      <y>140</y>
+      <x>269</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra walks in the grass beside a line of cars.</caption>
+      <caption>A Zebra is standing on the side of the road near the traffic. </caption>
+      <caption>A zebra and another animal walking beside cars. </caption>
+      <caption>A zebra that is standing in the grass near cars.</caption>
+      <caption>A zebra on a grassy field looking at the people in a car parked nearby.</caption>
+    </captions>
+</image>

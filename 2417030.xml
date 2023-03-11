@@ -1,0 +1,267 @@
+<image>
+  <image-id>2417030</image-id>
+  <coco-id>42135</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3703871</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3361311</subject>
+      <object>3506407</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703872</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2739173</subject>
+      <object>3506407</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703873</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3237856</subject>
+      <object>3332762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703874</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3412022</subject>
+      <object>3412021</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4014283</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3682373</subject>
+      <object>2957669</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703875</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3097411</subject>
+      <object>3097412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703876</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2781358</subject>
+      <object>2781359</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703877</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3553289</subject>
+      <object>2829760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703878</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3500910</subject>
+      <object>3500909</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703879</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3553289</subject>
+      <object>3140129</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>52</h>
+      <object_id>3361311</object_id>
+      <w>84</w>
+      <y>153</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+      </attributes>
+      <name>field</name>
+      <h>150</h>
+      <object_id>3506407</object_id>
+      <w>494</w>
+      <y>176</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+        <attribute>brown </attribute>
+        <attribute>long </attribute>
+        <attribute>tall </attribute>
+      </attributes>
+      <name>grass</name>
+      <h>148</h>
+      <object_id>2739173</object_id>
+      <w>497</w>
+      <y>181</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Black </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <name>hind quarters</name>
+      <h>36</h>
+      <object_id>3237856</object_id>
+      <w>22</w>
+      <y>170</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+        <attribute>white </attribute>
+        <attribute>black </attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>48</h>
+      <object_id>3332762</object_id>
+      <w>77</w>
+      <y>154</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>10</h>
+      <object_id>3412022</object_id>
+      <w>12</w>
+      <y>151</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>zebras</name>
+      <h>62</h>
+      <object_id>3412021</object_id>
+      <w>127</w>
+      <y>144</y>
+      <x>107</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mostly white</attribute>
+      </attributes>
+      <name>head</name>
+      <h>31</h>
+      <object_id>3682373</object_id>
+      <w>19</w>
+      <y>157</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>39</h>
+      <object_id>2957669</object_id>
+      <w>75</w>
+      <y>156</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>48</h>
+      <object_id>3097411</object_id>
+      <w>57</w>
+      <y>47</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>43</h>
+      <object_id>3097412</object_id>
+      <w>103</w>
+      <y>61</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>43</h>
+      <object_id>2781358</object_id>
+      <w>69</w>
+      <y>84</y>
+      <x>274</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>72</h>
+      <object_id>2781359</object_id>
+      <w>110</w>
+      <y>41</y>
+      <x>280</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <h>27</h>
+      <object_id>3553289</object_id>
+      <w>69</w>
+      <y>30</y>
+      <x>359</x>
+      <name>clouds</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>100</h>
+      <object_id>2829760</object_id>
+      <w>491</w>
+      <y>7</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>30</h>
+      <object_id>3500910</object_id>
+      <w>102</w>
+      <y>86</y>
+      <x>249</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>65</h>
+      <object_id>3500909</object_id>
+      <w>72</w>
+      <y>45</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>57</h>
+      <object_id>3140129</object_id>
+      <w>93</w>
+      <y>45</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing in an empty field on top of dry tall grass.</caption>
+      <caption>A lone zebra in a dry grass field</caption>
+      <caption>A lone zebra on a cloudy day standing in grass.</caption>
+      <caption>The zebra in this shot separates the brown grass from the blue tone of the field and sky.</caption>
+      <caption>A zebra standing in an big open field.</caption>
+    </captions>
+</image>

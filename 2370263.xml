@@ -1,0 +1,112 @@
+<image>
+  <image-id>2370263</image-id>
+  <coco-id>41199</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4327077</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3859481</subject>
+      <object>2210723</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4327078</relationship_id>
+      <predicate>sitting by</predicate>
+      <subject>2394537</subject>
+      <object>3859483</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4327079</relationship_id>
+      <predicate>starring at</predicate>
+      <subject>2394537</subject>
+      <object>2471270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4327080</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2394537</subject>
+      <object>2394538</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4327081</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3057232</subject>
+      <object>3057233</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>41</h>
+      <object_id>3859481</object_id>
+      <w>94</w>
+      <y>60</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>108</h>
+      <object_id>2210723</object_id>
+      <w>488</w>
+      <y>4</y>
+      <x>8</x>
+    </object>
+    <object>
+      <h>33</h>
+      <object_id>2394537</object_id>
+      <w>17</w>
+      <y>130</y>
+      <x>378</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>53</h>
+      <object_id>3859483</object_id>
+      <w>72</w>
+      <y>124</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>51</h>
+      <object_id>2471270</object_id>
+      <w>129</w>
+      <y>137</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>24</h>
+      <object_id>2394538</object_id>
+      <w>16</w>
+      <y>139</y>
+      <x>375</x>
+    </object>
+    <object>
+      <name>boats</name>
+      <h>37</h>
+      <object_id>3057232</object_id>
+      <w>207</w>
+      <y>90</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>86</h>
+      <object_id>3057233</object_id>
+      <w>267</w>
+      <y>114</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man is sitting at a harbor with a market place.</caption>
+      <caption>Wooden walkway and dock area next to water.</caption>
+      <caption>There is a pier on the edge of the water</caption>
+      <caption>A man sitting on the walk next to a lake.</caption>
+      <caption>A man is fishing on the dock lined with boats.</caption>
+    </captions>
+</image>

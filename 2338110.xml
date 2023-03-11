@@ -1,0 +1,65 @@
+<image>
+  <image-id>2338110</image-id>
+  <coco-id>199387</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3969895</relationship_id>
+      <predicate>with</predicate>
+      <subject>3125423</subject>
+      <object>3125424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3657400</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2806678</subject>
+      <object>2806679</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>57</h>
+      <object_id>3125423</object_id>
+      <w>28</w>
+      <y>159</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>21</h>
+      <object_id>3125424</object_id>
+      <w>20</w>
+      <y>167</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>10</attribute>
+      </attributes>
+      <name>number</name>
+      <h>12</h>
+      <object_id>2806678</object_id>
+      <w>15</w>
+      <y>307</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>33</h>
+      <object_id>2806679</object_id>
+      <w>31</w>
+      <y>295</y>
+      <x>139</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A photo of a man standing on snow skis and holding snow skis</caption>
+      <caption>The storm was so bad the only way to get through town was to ski</caption>
+      <caption>A person with some skies in the snow posing.</caption>
+      <caption>The skier is repairing his ski on the slope.</caption>
+      <caption>a person is adjusting skis on  the slopes</caption>
+    </captions>
+</image>

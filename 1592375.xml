@@ -1,0 +1,77 @@
+<image>
+  <image-id>1592375</image-id>
+  <coco-id>191613</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4082931</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1608962</subject>
+      <object>1608963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082932</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1608964</subject>
+      <object>3709610</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082933</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3709610</subject>
+      <object>3709609</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>car</name>
+      <h>13</h>
+      <object_id>1608962</object_id>
+      <w>17</w>
+      <y>626</y>
+      <x>53</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>379</h>
+      <object_id>1608963</object_id>
+      <w>676</w>
+      <y>630</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>307</h>
+      <object_id>1608964</object_id>
+      <w>95</w>
+      <y>542</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>step</name>
+      <h>49</h>
+      <object_id>3709610</object_id>
+      <w>107</w>
+      <y>824</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>658</h>
+      <object_id>3709609</object_id>
+      <w>510</w>
+      <y>251</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are people standing on a red double decker bus.</caption>
+      <caption>A woman stepping out of a double decker bus.</caption>
+      <caption>A woman in a long dress is on a double decker bus.</caption>
+      <caption>A Lady on a bus talks to a gentleman on the street.</caption>
+      <caption>some buildings and a red double decker bus and two people</caption>
+    </captions>
+</image>

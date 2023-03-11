@@ -1,0 +1,87 @@
+<image>
+  <image-id>2331750</image-id>
+  <coco-id>494594</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4003875</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2816125</subject>
+      <object>3005359</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4003876</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3029720</subject>
+      <object>3029721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3946479</relationship_id>
+      <predicate>has</predicate>
+      <subject>3443439</subject>
+      <object>3655666</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black hat</name>
+      <h>76</h>
+      <object_id>2816125</object_id>
+      <w>173</w>
+      <y>29</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>452</h>
+      <object_id>3005359</object_id>
+      <w>286</w>
+      <y>32</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>94</h>
+      <object_id>3029720</object_id>
+      <w>205</w>
+      <y>400</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>387</h>
+      <object_id>3029721</object_id>
+      <w>230</w>
+      <y>38</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>354</h>
+      <object_id>3443439</object_id>
+      <w>283</w>
+      <y>29</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>right ear</name>
+      <h>34</h>
+      <object_id>3655666</object_id>
+      <w>21</w>
+      <y>87</y>
+      <x>110</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an Amish  man walking holding a cell phone</caption>
+      <caption>A man standing alone using a cell phone.</caption>
+      <caption>a man in a hat with a beard on a phone</caption>
+      <caption>an amish man looking at a cell phone</caption>
+      <caption>A blurry backdrop shows a wheel, resting on  dirt, and to the foreground, a man visible from  the top of his legs only, wearing a tag on his work shirt, suspenders, a hat and beard after the style of the Amish, who is holding a cell phone.  </caption>
+    </captions>
+</image>

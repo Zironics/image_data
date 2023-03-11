@@ -1,0 +1,97 @@
+<image>
+  <image-id>2343610</image-id>
+  <coco-id>513108</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2714245</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>921713</subject>
+      <object>921714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2714246</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>921720</subject>
+      <object>921721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2714247</relationship_id>
+      <predicate>ON</predicate>
+      <subject>921713</subject>
+      <object>921714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2714248</relationship_id>
+      <predicate>holding</predicate>
+      <subject>921720</subject>
+      <object>921718</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>here</attribute>
+        <attribute>tiny</attribute>
+        <attribute>vanilla</attribute>
+        <attribute>sitting</attribute>
+        <attribute>chocolate</attribute>
+      </attributes>
+      <name>cupcake</name>
+      <h>31</h>
+      <object_id>921713</object_id>
+      <w>22</w>
+      <y>173</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>table</name>
+      <h>191</h>
+      <object_id>921714</object_id>
+      <w>335</w>
+      <y>142</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>329</h>
+      <object_id>921720</object_id>
+      <w>186</w>
+      <y>2</y>
+      <x>311</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>ring</name>
+      <h>12</h>
+      <object_id>921721</object_id>
+      <w>18</w>
+      <y>71</y>
+      <x>326</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>knife</name>
+      <h>64</h>
+      <object_id>921718</object_id>
+      <w>82</w>
+      <y>29</y>
+      <x>239</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a table loaded with cup cakes with a man standing next to it</caption>
+      <caption>Cupcakes sit on the table near a wedding cake.</caption>
+      <caption>The groom is cutting the cake at a wedding.</caption>
+      <caption>A green display of green and yellow cupcakes</caption>
+      <caption>A couple getting ready to cut their green wedding cake.</caption>
+    </captions>
+</image>

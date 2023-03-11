@@ -1,0 +1,68 @@
+<image>
+  <image-id>498021</image-id>
+  <coco-id>145422</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3950789</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1573046</subject>
+      <object>1573047</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3950792</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1573050</subject>
+      <object>1573048</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>net</name>
+      <h>128</h>
+      <object_id>1573046</object_id>
+      <w>413</w>
+      <y>372</y>
+      <x>608</x>
+    </object>
+    <object>
+      <name>ski area</name>
+      <h>184</h>
+      <object_id>1573047</object_id>
+      <w>952</w>
+      <y>497</y>
+      <x>68</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>words</name>
+      <h>21</h>
+      <object_id>1573050</object_id>
+      <w>61</w>
+      <y>271</y>
+      <x>480</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>vest</name>
+      <h>144</h>
+      <object_id>1573048</object_id>
+      <w>266</w>
+      <y>179</y>
+      <x>387</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A time lapse photo of a man skiing down a hill.</caption>
+      <caption>A group of men skiing in a race with trees in the background.</caption>
+      <caption>A bunch of skiers skiing as part of a sporting event.</caption>
+      <caption>a group of skiiers racing down a hill </caption>
+      <caption>Cross country skiers are engaged in a race.</caption>
+    </captions>
+</image>

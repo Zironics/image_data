@@ -1,0 +1,69 @@
+<image>
+  <image-id>1591936</image-id>
+  <coco-id>436814</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3835667</relationship_id>
+      <predicate>with a</predicate>
+      <subject>2616589</subject>
+      <object>2616590</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3835668</relationship_id>
+      <predicate>with</predicate>
+      <subject>3609668</subject>
+      <object>3609669</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>opened</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>door</name>
+      <h>523</h>
+      <object_id>2616589</object_id>
+      <w>441</w>
+      <y>21</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>no smoking sign</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>87</h>
+      <object_id>2616590</object_id>
+      <w>64</w>
+      <y>76</y>
+      <x>307</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>desk</name>
+      <h>336</h>
+      <object_id>3609668</object_id>
+      <w>491</w>
+      <y>428</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>262</h>
+      <object_id>3609669</object_id>
+      <w>389</w>
+      <y>439</y>
+      <x>345</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A laptop computer sitting on top of a computer desk.</caption>
+      <caption>A room with a door open and a computer opened up.</caption>
+      <caption>Small desk with electronic equipment in office type room.</caption>
+      <caption>An office room with a desk holding a computer, laptop and camera tripod.</caption>
+      <caption>An office with a desk and chair with the door open.</caption>
+    </captions>
+</image>

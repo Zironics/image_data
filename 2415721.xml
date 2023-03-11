@@ -1,0 +1,82 @@
+<image>
+  <image-id>2415721</image-id>
+  <coco-id>23272</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3876095</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2841425</subject>
+      <object>2756653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3769273</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3001474</subject>
+      <object>3001475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3769405</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3424695</subject>
+      <object>3424696</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stripes</name>
+      <h>37</h>
+      <object_id>2841425</object_id>
+      <w>46</w>
+      <y>102</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>77</h>
+      <object_id>2756653</object_id>
+      <w>122</w>
+      <y>72</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>134</h>
+      <object_id>3001474</object_id>
+      <w>202</w>
+      <y>0</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>371</h>
+      <object_id>3001475</object_id>
+      <w>500</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>82</h>
+      <object_id>3424695</object_id>
+      <w>348</w>
+      <y>5</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>97</h>
+      <object_id>3424696</object_id>
+      <w>397</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A Calico cat laying on the hood of a Mercedes.</caption>
+      <caption>a cat is sitting on the hood of a car
+</caption>
+      <caption>a cat is sleeping on the hood of a car</caption>
+      <caption>A calico cat sits on  the hood of a black car.</caption>
+      <caption>A calico cat with eyes closed is perched upon a Mercedes.</caption>
+    </captions>
+</image>

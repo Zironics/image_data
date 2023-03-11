@@ -1,0 +1,99 @@
+<image>
+  <image-id>2402865</image-id>
+  <coco-id>479213</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>763844</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>385617</subject>
+      <object>385618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>763843</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>385615</subject>
+      <object>385616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267670</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1130761</subject>
+      <object>1130762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267678</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1130761</subject>
+      <object>1130762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267690</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1130761</subject>
+      <object>1130762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267694</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1130761</subject>
+      <object>1130762</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>150</h>
+      <object_id>385617</object_id>
+      <w>97</w>
+      <y>64</y>
+      <x>225</x>
+    </object>
+    <object>
+      <name>wig</name>
+      <h>185</h>
+      <object_id>385618</object_id>
+      <w>128</w>
+      <y>13</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>317</h>
+      <object_id>385615</object_id>
+      <w>182</w>
+      <y>57</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>wig</name>
+      <h>230</h>
+      <object_id>385616</object_id>
+      <w>127</w>
+      <y>23</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>46</h>
+      <object_id>1130761</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>46</h>
+      <object_id>1130762</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of women holding up a cake together.</caption>
+      <caption>A couple of women holding a cake in their hands.</caption>
+      <caption>Two women in wigs are holding a birthday cake.</caption>
+      <caption>Two smiling women holding a big cake together.</caption>
+      <caption>two women hold a cake with a picture on it </caption>
+    </captions>
+</image>

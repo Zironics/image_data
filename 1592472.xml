@@ -1,0 +1,65 @@
+<image>
+  <image-id>1592472</image-id>
+  <coco-id>361659</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3708838</relationship_id>
+      <predicate>Holding on to</predicate>
+      <subject>1609849</subject>
+      <object>3555656</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4084081</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1609851</subject>
+      <object>3709987</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>324</h>
+      <object_id>1609849</object_id>
+      <w>122</w>
+      <y>356</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>227</h>
+      <object_id>3555656</object_id>
+      <w>126</w>
+      <y>418</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> young </attribute>
+      </attributes>
+      <name>person</name>
+      <h>342</h>
+      <object_id>1609851</object_id>
+      <w>124</w>
+      <y>337</y>
+      <x>717</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>39</h>
+      <object_id>3709987</object_id>
+      <w>74</w>
+      <y>344</y>
+      <x>749</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people walks down a sidewalk by some shops.</caption>
+      <caption>a large crowd of people is outside a building</caption>
+      <caption>A large crowd of people standing outside a row of shops.</caption>
+      <caption>a crowd of people standing in line next to a buidling </caption>
+      <caption>A crowd of people walking down an alley next to tall buildings.</caption>
+    </captions>
+</image>

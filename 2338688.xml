@@ -1,0 +1,66 @@
+<image>
+  <image-id>2338688</image-id>
+  <coco-id>418586</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4058824</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2507497</subject>
+      <object>2855360</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058825</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2507497</subject>
+      <object>2015242</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058826</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2507497</subject>
+      <object>3700198</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>182</h>
+      <object_id>2507497</object_id>
+      <w>202</w>
+      <y>86</y>
+      <x>232</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>72</h>
+      <object_id>2855360</object_id>
+      <w>234</w>
+      <y>233</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>57</h>
+      <object_id>2015242</object_id>
+      <w>67</w>
+      <y>242</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>91</h>
+      <object_id>3700198</object_id>
+      <w>493</w>
+      <y>213</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small bird sitting on top of a sandy beach.</caption>
+      <caption>A pelican looks out towards the ocean on a sandy beach.</caption>
+      <caption>A seagull stands on white sand looking at the ocean.
+</caption>
+      <caption>A bird standing on a beach by some water.</caption>
+      <caption>Seagulls perch in the white sand on a tropical beach.</caption>
+    </captions>
+</image>

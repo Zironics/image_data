@@ -1,0 +1,73 @@
+<image>
+  <image-id>2330556</image-id>
+  <coco-id>185409</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4826706</relationship_id>
+      <predicate>on</predicate>
+      <subject>4663878</subject>
+      <object>4663879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4826707</relationship_id>
+      <predicate>of</predicate>
+      <subject>4663880</subject>
+      <object>4663881</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4826708</relationship_id>
+      <predicate>of</predicate>
+      <subject>4663882</subject>
+      <object>4663881</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>animals</name>
+      <h>184</h>
+      <object_id>4663878</object_id>
+      <w>461</w>
+      <y>61</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>313</h>
+      <object_id>4663879</object_id>
+      <w>467</w>
+      <y>9</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>54</h>
+      <object_id>4663880</object_id>
+      <w>476</w>
+      <y>189</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>animals</name>
+      <h>170</h>
+      <object_id>4663881</object_id>
+      <w>468</w>
+      <y>60</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>52</h>
+      <object_id>4663882</object_id>
+      <w>46</w>
+      <y>115</y>
+      <x>220</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A herd of zebra in a grass field.</caption>
+      <caption>The many zebra are running in different directions.</caption>
+      <caption>Several zebras run and play in a grassy, wooded area</caption>
+      <caption>A number of zebras running in the grass. </caption>
+      <caption>A herd of zebras playing in an open field.</caption>
+    </captions>
+</image>

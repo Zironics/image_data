@@ -1,0 +1,91 @@
+<image>
+  <image-id>2331375</image-id>
+  <coco-id>68375</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4006193</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2752360</subject>
+      <object>2752361</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4006194</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3376815</subject>
+      <object>3376817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3836410</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3353380</subject>
+      <object>2842280</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sailboat</name>
+      <h>91</h>
+      <object_id>2752360</object_id>
+      <w>58</w>
+      <y>194</y>
+      <x>351</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>220</h>
+      <object_id>2752361</object_id>
+      <w>495</w>
+      <y>110</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sail</name>
+      <h>70</h>
+      <object_id>3376815</object_id>
+      <w>25</w>
+      <y>200</y>
+      <x>381</x>
+    </object>
+    <object>
+      <name>sailboat</name>
+      <h>85</h>
+      <object_id>3376817</object_id>
+      <w>52</w>
+      <y>194</y>
+      <x>354</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beige</attribute>
+      </attributes>
+      <name>lighthouse</name>
+      <h>42</h>
+      <object_id>3353380</object_id>
+      <w>42</w>
+      <y>92</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>smal</attribute>
+        <attribute>rocky</attribute>
+      </attributes>
+      <h>89</h>
+      <object_id>2842280</object_id>
+      <w>313</w>
+      <y>92</y>
+      <x>49</x>
+      <name>island</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white sail boat sailing towards a desert island.</caption>
+      <caption>In the bright blue water, a lone sailboat drifts by an island made of rock.</caption>
+      <caption>A lone sailboat floats near a small island with a tower.</caption>
+      <caption>A sailboat passes by a rocky island with a lighthouse.  </caption>
+      <caption>A sailboat in the water, near a rocky island with a lighthouse on it.</caption>
+    </captions>
+</image>

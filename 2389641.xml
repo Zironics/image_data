@@ -1,0 +1,104 @@
+<image>
+  <image-id>2389641</image-id>
+  <coco-id>574706</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3472657</relationship_id>
+      <predicate>lead to</predicate>
+      <subject>1258767</subject>
+      <object>1258768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3472658</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1258767</subject>
+      <object>1258768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3472659</relationship_id>
+      <predicate>under</predicate>
+      <subject>1258770</subject>
+      <object>1258761</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3472660</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1258771</subject>
+      <object>1258763</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>reflected</attribute>
+      </attributes>
+      <name>stairs</name>
+      <h>45</h>
+      <object_id>1258767</object_id>
+      <w>52</w>
+      <y>259</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>porch</name>
+      <h>13</h>
+      <object_id>1258768</object_id>
+      <w>10</w>
+      <y>371</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>base board</name>
+      <h>19</h>
+      <object_id>1258770</object_id>
+      <w>42</w>
+      <y>360</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+        <attribute>white framed</attribute>
+        <attribute>closed</attribute>
+      </attributes>
+      <name>screen door</name>
+      <h>70</h>
+      <object_id>1258761</object_id>
+      <w>22</w>
+      <y>17</y>
+      <x>434</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tire</name>
+      <h>62</h>
+      <object_id>1258771</object_id>
+      <w>57</w>
+      <y>180</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflected</attribute>
+        <attribute>white</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>car</name>
+      <h>191</h>
+      <object_id>1258763</object_id>
+      <w>255</w>
+      <y>68</y>
+      <x>79</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is looking out of a glass door with a reflection.</caption>
+      <caption>A cat is sitting and waiting at a glass door with a car parked at the curb.</caption>
+      <caption>a cat on the inside part of a closed clear door</caption>
+      <caption>A white and brown cat sits in a window while a white car is seen in the window's reflection.</caption>
+      <caption>A tan and white cat looking out a storm door.</caption>
+    </captions>
+</image>

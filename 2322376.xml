@@ -1,0 +1,68 @@
+<image>
+  <image-id>2322376</image-id>
+  <coco-id>232161</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4536628</relationship_id>
+      <predicate>with</predicate>
+      <subject>2920561</subject>
+      <object>2920562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4536629</relationship_id>
+      <predicate>covered in</predicate>
+      <subject>2787992</subject>
+      <object>3961011</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white sign</name>
+      <h>51</h>
+      <object_id>2920561</object_id>
+      <w>47</w>
+      <y>92</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black lettering</name>
+      <h>30</h>
+      <object_id>2920562</object_id>
+      <w>30</w>
+      <y>101</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>100</h>
+      <object_id>2787992</object_id>
+      <w>210</w>
+      <y>0</y>
+      <x>223</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>80</h>
+      <object_id>3961011</object_id>
+      <w>237</w>
+      <y>0</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lined up group of motor bikes on a road.</caption>
+      <caption>Several motorcycles are parked next to each other on the road.</caption>
+      <caption>A row of blue motorcycles are parked on a busy street. </caption>
+      <caption>A street with several motorcycles parked along it.</caption>
+      <caption>A line of motorcycles is parked on the side of the street.</caption>
+    </captions>
+</image>

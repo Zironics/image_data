@@ -1,0 +1,102 @@
+<image>
+  <image-id>2383154</image-id>
+  <coco-id>23424</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4776149</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4537656</subject>
+      <object>4537651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776150</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>4537652</subject>
+      <object>4537653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776151</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4537656</subject>
+      <object>4537657</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776152</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4537652</subject>
+      <object>4537661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776153</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4537656</subject>
+      <object>4537661</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>68</h>
+      <object_id>4537656</object_id>
+      <w>30</w>
+      <y>97</y>
+      <x>451</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>23</h>
+      <object_id>4537651</object_id>
+      <w>35</w>
+      <y>107</y>
+      <x>449</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>158</h>
+      <object_id>4537652</object_id>
+      <w>77</w>
+      <y>90</y>
+      <x>363</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>95</h>
+      <object_id>4537653</object_id>
+      <w>41</w>
+      <y>110</y>
+      <x>392</x>
+    </object>
+    <object>
+      <name>shorts</name>
+      <h>28</h>
+      <object_id>4537657</object_id>
+      <w>27</w>
+      <y>128</y>
+      <x>450</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cobblestone</attribute>
+      </attributes>
+      <name>street</name>
+      <h>229</h>
+      <object_id>4537661</object_id>
+      <w>342</w>
+      <y>141</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cow standing in an alley way in a city.</caption>
+      <caption>A cow stands on a city street as pedestrians walk by.</caption>
+      <caption>A cow standing by two buildings in a town. </caption>
+      <caption>A cow standing next to a brick building.</caption>
+      <caption>A cow on a street standing between two building.</caption>
+    </captions>
+</image>

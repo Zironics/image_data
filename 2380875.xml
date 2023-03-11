@@ -1,0 +1,81 @@
+<image>
+  <image-id>2380875</image-id>
+  <coco-id>16241</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4629489</relationship_id>
+      <predicate>standing on top of</predicate>
+      <subject>4168636</subject>
+      <object>4168637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4583726</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4056858</subject>
+      <object>4056859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4583815</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4057043</subject>
+      <object>4057044</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flag pole</name>
+      <h>54</h>
+      <object_id>4168636</object_id>
+      <w>10</w>
+      <y>206</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>bank</name>
+      <h>71</h>
+      <object_id>4168637</object_id>
+      <w>110</w>
+      <y>259</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>22</h>
+      <object_id>4056858</object_id>
+      <w>79</w>
+      <y>210</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>328</h>
+      <object_id>4056859</object_id>
+      <w>483</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>19</h>
+      <object_id>4057043</object_id>
+      <w>21</w>
+      <y>302</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>residence</name>
+      <h>8</h>
+      <object_id>4057044</object_id>
+      <w>25</w>
+      <y>321</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A low flying commercial plane passing tall  buildings</caption>
+      <caption>An airplane is flying in the sky beyond some skyscrapers.</caption>
+      <caption>A jetliner flying low as viewed between two skyscrapers.</caption>
+      <caption>An airplane is seen in the air between two buildings. </caption>
+      <caption>An airplane flying pass building and a bank building. </caption>
+    </captions>
+</image>

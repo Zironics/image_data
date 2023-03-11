@@ -1,0 +1,113 @@
+<image>
+  <image-id>2335134</image-id>
+  <coco-id>281414</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3987729</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2528751</subject>
+      <object>3394378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2505935</subject>
+      <object>3394378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987731</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3394378</subject>
+      <object>3033158</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987732</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3033159</subject>
+      <object>3033158</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987733</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3394378</subject>
+      <object>2617636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451812</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>3394378</subject>
+      <object>2936027</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3987734</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3394378</subject>
+      <object>2936027</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>necklaces</name>
+      <h>58</h>
+      <object_id>2528751</object_id>
+      <w>49</w>
+      <y>141</y>
+      <x>113</x>
+    </object>
+    <object>
+      <h>374</h>
+      <object_id>3394378</object_id>
+      <w>197</w>
+      <y>79</y>
+      <x>49</x>
+      <name>girl</name>
+    </object>
+    <object>
+      <name>girl's shirt</name>
+      <h>125</h>
+      <object_id>2505935</object_id>
+      <w>105</w>
+      <y>143</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>brick wall</name>
+      <h>190</h>
+      <object_id>3033158</object_id>
+      <w>344</w>
+      <y>308</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>crack</name>
+      <h>41</h>
+      <object_id>3033159</object_id>
+      <w>11</w>
+      <y>372</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>125</h>
+      <object_id>2617636</object_id>
+      <w>98</w>
+      <y>144</y>
+      <x>74</x>
+    </object>
+    <object>
+      <h>22</h>
+      <object_id>2936027</object_id>
+      <w>28</w>
+      <y>192</y>
+      <x>153</x>
+      <name>cellphone</name>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A woman with a book bag sits on a ledge with her cell phone.</caption>
+      <caption>A beautiful woman sitting on a brick wall.</caption>
+      <caption>A girl is sitting on a wall and looking down at her cell phone.</caption>
+      <caption>A woman sits on a ledge and looks at her phone.</caption>
+      <caption>A girl is sitting on a brick wall using her cell phone.</caption>
+    </captions>
+</image>

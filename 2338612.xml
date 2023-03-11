@@ -1,0 +1,95 @@
+<image>
+  <image-id>2338612</image-id>
+  <coco-id>294537</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459624</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2724874</subject>
+      <object>3235379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459625</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2724873</subject>
+      <object>3235379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459626</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2724872</subject>
+      <object>3235379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459627</relationship_id>
+      <predicate>are in</predicate>
+      <subject>2724872</subject>
+      <object>3235379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459628</relationship_id>
+      <predicate>are in</predicate>
+      <subject>2724873</subject>
+      <object>3235379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459629</relationship_id>
+      <predicate>are in</predicate>
+      <subject>2724874</subject>
+      <object>3235379</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <h>418</h>
+      <object_id>2724874</object_id>
+      <w>123</w>
+      <y>68</y>
+      <x>63</x>
+      <name>people</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>297</h>
+      <object_id>3235379</object_id>
+      <w>498</w>
+      <y>200</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <h>94</h>
+      <object_id>2724873</object_id>
+      <w>60</w>
+      <y>230</y>
+      <x>249</x>
+      <name>people</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <h>158</h>
+      <object_id>2724872</object_id>
+      <w>62</w>
+      <y>178</y>
+      <x>331</x>
+      <name>people</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skier stands posing while two others are skiing towards him.</caption>
+      <caption>a group of people riding skis on a snowy surface</caption>
+      <caption>A group of people standing on a ski slope with trees in the background.</caption>
+      <caption>Three men walking along snow with their skis on.</caption>
+      <caption>Three people are standing in the snow wearing snow skis.</caption>
+    </captions>
+</image>

@@ -1,0 +1,104 @@
+<image>
+  <image-id>2339563</image-id>
+  <coco-id>398666</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4610921</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4121660</subject>
+      <object>4121661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4681221</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4298818</subject>
+      <object>4121661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4681223</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4298820</subject>
+      <object>4121576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4681227</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4298824</subject>
+      <object>4121661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4681229</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4298827</subject>
+      <object>4121661</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>70</h>
+      <object_id>4121660</object_id>
+      <w>60</w>
+      <y>173</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>245</h>
+      <object_id>4121661</object_id>
+      <w>293</w>
+      <y>19</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>number 4</name>
+      <h>21</h>
+      <object_id>4298818</object_id>
+      <w>18</w>
+      <y>147</y>
+      <x>295</x>
+    </object>
+    <object>
+      <name>number 5</name>
+      <h>25</h>
+      <object_id>4298820</object_id>
+      <w>13</w>
+      <y>138</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <h>192</h>
+      <object_id>4121576</object_id>
+      <w>140</w>
+      <y>11</y>
+      <x>40</x>
+      <name>clock</name>
+    </object>
+    <object>
+      <name>number 6</name>
+      <h>24</h>
+      <object_id>4298824</object_id>
+      <w>12</w>
+      <y>154</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>number 7</name>
+      <h>20</h>
+      <object_id>4298827</object_id>
+      <w>14</w>
+      <y>137</y>
+      <x>244</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clock that is sitting on top of a pole.</caption>
+      <caption>a pole with some clocks sitting on top of it </caption>
+      <caption>A clock with two sides lit up in the darkness.</caption>
+      <caption>There are two clocks that say eight forty.</caption>
+      <caption>A four-sided clock is displaying the time in the dark.</caption>
+    </captions>
+</image>

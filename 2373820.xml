@@ -1,0 +1,82 @@
+<image>
+  <image-id>2373820</image-id>
+  <coco-id>192496</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4805226</relationship_id>
+      <predicate>are connected with</predicate>
+      <subject>4606028</subject>
+      <object>4610955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4805227</relationship_id>
+      <predicate>are connected with</predicate>
+      <subject>4606028</subject>
+      <object>4610955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803029</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>4606027</subject>
+      <object>4606028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798920</relationship_id>
+      <predicate>on</predicate>
+      <subject>4595907</subject>
+      <object>4595908</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>176</h>
+      <object_id>4606028</object_id>
+      <w>495</w>
+      <y>73</y>
+      <x>4</x>
+      <name>train</name>
+    </object>
+    <object>
+      <name>device</name>
+      <h>110</h>
+      <object_id>4610955</object_id>
+      <w>38</w>
+      <y>124</y>
+      <x>412</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>20</h>
+      <object_id>4606027</object_id>
+      <w>48</w>
+      <y>133</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>25</h>
+      <object_id>4595907</object_id>
+      <w>190</w>
+      <y>5</y>
+      <x>94</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>building</name>
+      <h>23</h>
+      <object_id>4595908</object_id>
+      <w>414</w>
+      <y>3</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This train car features a variety of colors and carries passengers.</caption>
+      <caption>Two train cars that run on electricity are standing still outside a building.</caption>
+      <caption>Locomotive of commuter train on track outside of station.</caption>
+      <caption>a train sits parked on some tracks next to a building </caption>
+      <caption>a train that is on a train train track</caption>
+    </captions>
+</image>

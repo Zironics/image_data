@@ -1,0 +1,110 @@
+<image>
+  <image-id>2315783</image-id>
+  <coco-id>489346</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3669931</relationship_id>
+      <predicate>around</predicate>
+      <subject>3185133</subject>
+      <object>3185134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3669932</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3202210</subject>
+      <object>3537940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3669933</relationship_id>
+      <predicate>atop</predicate>
+      <subject>3133112</subject>
+      <object>3133113</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3669934</relationship_id>
+      <predicate>entry to</predicate>
+      <subject>3424494</subject>
+      <object>3424495</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>picket fence</name>
+      <h>97</h>
+      <object_id>3185133</object_id>
+      <w>107</w>
+      <y>205</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>yard</name>
+      <h>63</h>
+      <object_id>3185134</object_id>
+      <w>361</w>
+      <y>142</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>16</h>
+      <object_id>3202210</object_id>
+      <w>27</w>
+      <y>115</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>porch</name>
+      <h>126</h>
+      <object_id>3537940</object_id>
+      <w>195</w>
+      <y>140</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>atop</attribute>
+      </attributes>
+      <name>mailbox</name>
+      <h>35</h>
+      <object_id>3133112</object_id>
+      <w>47</w>
+      <y>169</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>149</h>
+      <object_id>3133113</object_id>
+      <w>354</w>
+      <y>170</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>69</h>
+      <object_id>3424494</object_id>
+      <w>39</w>
+      <y>138</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>165</h>
+      <object_id>3424495</object_id>
+      <w>308</w>
+      <y>52</y>
+      <x>42</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow fire hydrant sitting in front of a white fence.</caption>
+      <caption>A fire hydrant next to a white picket fence</caption>
+      <caption>A house with a picket white fence some flowers and a yellow fire hydrant.</caption>
+      <caption>A house surrounded by a fence, some trees, and a fire hydrant. </caption>
+      <caption>a house with a white picked fence around it.</caption>
+    </captions>
+</image>

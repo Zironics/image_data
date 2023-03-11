@@ -1,0 +1,120 @@
+<image>
+  <image-id>2400151</image-id>
+  <coco-id>253141</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3313961</relationship_id>
+      <predicate>riding on</predicate>
+      <subject>1162277</subject>
+      <object>1162278</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313962</relationship_id>
+      <predicate>moving along</predicate>
+      <subject>1162283</subject>
+      <object>1162276</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313963</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1162277</subject>
+      <object>1162284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313964</relationship_id>
+      <predicate>riding on</predicate>
+      <subject>1162277</subject>
+      <object>1162276</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313965</relationship_id>
+      <predicate>riding on</predicate>
+      <subject>1162277</subject>
+      <object>1162278</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313966</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1162277</subject>
+      <object>1162284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313967</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>1162277</subject>
+      <object>1162278</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>surfing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>50</h>
+      <object_id>1162277</object_id>
+      <w>85</w>
+      <y>210</y>
+      <x>110</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>34</h>
+      <object_id>1162278</object_id>
+      <w>127</w>
+      <y>235</y>
+      <x>112</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>137</h>
+      <object_id>1162283</object_id>
+      <w>497</w>
+      <y>124</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>partial</attribute>
+        <attribute>deep blue</attribute>
+        <attribute>light green</attribute>
+        <attribute>water body</attribute>
+        <attribute>blue</attribute>
+        <attribute>splashing</attribute>
+        <attribute>water</attribute>
+        <attribute>rippled</attribute>
+      </attributes>
+      <name>ocean</name>
+      <h>320</h>
+      <object_id>1162276</object_id>
+      <w>495</w>
+      <y>13</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>40</h>
+      <object_id>1162284</object_id>
+      <w>84</w>
+      <y>215</y>
+      <x>112</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a surfboard on a wave in the ocean.</caption>
+      <caption>A man lying on his surfboard and riding the waves </caption>
+      <caption>A man rides a wave on a surfboard</caption>
+      <caption>A man laying on a surfboard while in the water. </caption>
+      <caption>a male is on his stomach riding a wave on a surfboard</caption>
+    </captions>
+</image>

@@ -1,0 +1,71 @@
+<image>
+  <image-id>2348350</image-id>
+  <coco-id>519132</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4419966</relationship_id>
+      <predicate>ON</predicate>
+      <subject>882943</subject>
+      <object>882936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4419967</relationship_id>
+      <predicate>ON</predicate>
+      <subject>882944</subject>
+      <object>882936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4419968</relationship_id>
+      <predicate>ON</predicate>
+      <subject>882945</subject>
+      <object>882936</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>50</h>
+      <object_id>882943</object_id>
+      <w>45</w>
+      <y>200</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stuffed</attribute>
+      </attributes>
+      <h>211</h>
+      <object_id>882936</object_id>
+      <w>255</w>
+      <y>99</y>
+      <x>0</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eft</attribute>
+      </attributes>
+      <name>foot</name>
+      <h>35</h>
+      <object_id>882944</object_id>
+      <w>77</w>
+      <y>280</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>50</h>
+      <object_id>882945</object_id>
+      <w>68</w>
+      <y>197</y>
+      <x>126</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blanket covered with various teddy bears and stuffed animals.</caption>
+      <caption>Light up rubber bunny sitting on a bed surrounded by stuffed teddy bears.</caption>
+      <caption>A toy rabbit sitting in the middle of stuffed animals.</caption>
+      <caption>The bunny rabbit is posed by the teddy bears.</caption>
+      <caption>A glowing rabbit toy sitting among stuffed bears and other stuffed animals.</caption>
+    </captions>
+</image>

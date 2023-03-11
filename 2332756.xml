@@ -1,0 +1,44 @@
+<image>
+  <image-id>2332756</image-id>
+  <coco-id>556703</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3996525</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3117125</subject>
+      <object>3675331</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>267</h>
+      <object_id>3117125</object_id>
+      <w>390</w>
+      <y>65</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>272</h>
+      <object_id>3675331</object_id>
+      <w>420</w>
+      <y>78</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small pizza is displayed on a small plate.</caption>
+      <caption>A close up of a small piece of pizza on a plate.</caption>
+      <caption>A plate of pizza that is on a table.</caption>
+      <caption>A small pastry with cheese plated upon a white dish.</caption>
+      <caption>Small pizza looking meal set on a white plate.</caption>
+    </captions>
+</image>

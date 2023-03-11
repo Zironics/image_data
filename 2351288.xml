@@ -1,0 +1,124 @@
+<image>
+  <image-id>2351288</image-id>
+  <coco-id>532947</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2472130</relationship_id>
+      <predicate>has</predicate>
+      <subject>861782</subject>
+      <object>861783</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2472131</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>861787</subject>
+      <object>861788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2472132</relationship_id>
+      <predicate>inside</predicate>
+      <subject>861780</subject>
+      <object>861784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2472133</relationship_id>
+      <predicate>inside</predicate>
+      <subject>861781</subject>
+      <object>861784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2472134</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>861785</subject>
+      <object>861784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>building</name>
+      <h>18</h>
+      <object_id>861782</object_id>
+      <w>60</w>
+      <y>191</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>stripes</name>
+      <h>10</h>
+      <object_id>861783</object_id>
+      <w>59</w>
+      <y>199</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>19</h>
+      <object_id>861787</object_id>
+      <w>61</w>
+      <y>285</y>
+      <x>438</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>94</h>
+      <object_id>861788</object_id>
+      <w>498</w>
+      <y>250</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grazing</attribute>
+        <attribute>black face</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>50</h>
+      <object_id>861780</object_id>
+      <w>54</w>
+      <y>249</y>
+      <x>330</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wide</attribute>
+        <attribute>divided</attribute>
+      </attributes>
+      <name>farm</name>
+      <h>288</h>
+      <object_id>861784</object_id>
+      <w>497</w>
+      <y>56</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+      </attributes>
+      <name>building</name>
+      <h>36</h>
+      <object_id>861781</object_id>
+      <w>48</w>
+      <y>179</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>28</h>
+      <object_id>861785</object_id>
+      <w>121</w>
+      <y>108</y>
+      <x>83</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of sheep on a grassy field.</caption>
+      <caption>A pasture of sheep grazing on the grass.</caption>
+      <caption>Sheep are grazing on a pasture on a farm. </caption>
+      <caption>A herd of sheep grazing on a lush green hillside.</caption>
+      <caption>White sheep are grazing in a green pasture.</caption>
+    </captions>
+</image>

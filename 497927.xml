@@ -1,0 +1,59 @@
+<image>
+  <image-id>497927</image-id>
+  <coco-id>472080</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4259810</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1572173</subject>
+      <object>3794980</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3949894</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1572174</subject>
+      <object>1572175</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>webcam</name>
+      <h>67</h>
+      <object_id>1572173</object_id>
+      <w>76</w>
+      <y>170</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>409</h>
+      <object_id>3794980</object_id>
+      <w>379</w>
+      <y>182</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>mouse</name>
+      <h>95</h>
+      <object_id>1572174</object_id>
+      <w>89</w>
+      <y>488</y>
+      <x>498</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>248</h>
+      <object_id>1572175</object_id>
+      <w>1261</w>
+      <y>395</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A desk with a laptop, computer monitor, keyboard and mouse.</caption>
+      <caption>a desk that is holding a lap top and desk top computer</caption>
+      <caption>a desk with a laptop and a keyboard and a mouse</caption>
+      <caption>Two computers, a laptop and a desktop, next to each other.</caption>
+      <caption>A laptop and monitor and a CPU on a desk</caption>
+    </captions>
+</image>

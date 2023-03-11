@@ -1,0 +1,99 @@
+<image>
+  <image-id>2353049</image-id>
+  <coco-id>211283</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3766859</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2084065</subject>
+      <object>2403345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3766860</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2332808</subject>
+      <object>2403345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3766861</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2084065</subject>
+      <object>1813504</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3766862</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2199608</subject>
+      <object>2199609</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>299</h>
+      <object_id>2084065</object_id>
+      <w>487</w>
+      <y>11</y>
+      <x>13</x>
+      <name>football player</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on player</attribute>
+      </attributes>
+      <name>football</name>
+      <h>73</h>
+      <object_id>2403345</object_id>
+      <w>70</w>
+      <y>216</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>silver helmet</name>
+      <h>108</h>
+      <object_id>2332808</object_id>
+      <w>107</w>
+      <y>55</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>61</h>
+      <object_id>1813504</object_id>
+      <w>497</w>
+      <y>269</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on grass</attribute>
+      </attributes>
+      <name>football player</name>
+      <h>297</h>
+      <object_id>2199608</object_id>
+      <w>486</w>
+      <y>11</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>198</h>
+      <object_id>2199609</object_id>
+      <w>237</w>
+      <y>98</y>
+      <x>85</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A football player laying on the ground holding a football while another player is holding him.</caption>
+      <caption>A photo of two teams playing football laying on the ground.</caption>
+      <caption>Two football players are laying on the ground </caption>
+      <caption>Two football players from different teams laying on their stomachs propped up on their elbows on the field</caption>
+      <caption>two football players are laying on the grass</caption>
+    </captions>
+</image>

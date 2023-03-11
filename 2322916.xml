@@ -1,0 +1,62 @@
+<image>
+  <image-id>2322916</image-id>
+  <coco-id>290231</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3646799</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3471196</subject>
+      <object>3332301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3646800</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3527473</subject>
+      <object>3339610</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>90</h>
+      <object_id>3471196</object_id>
+      <w>153</w>
+      <y>64</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>back</attribute>
+      </attributes>
+      <h>194</h>
+      <object_id>3332301</object_id>
+      <w>324</w>
+      <y>110</y>
+      <x>148</x>
+      <name>bike</name>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>17</h>
+      <object_id>3527473</object_id>
+      <w>22</w>
+      <y>66</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>90</h>
+      <object_id>3339610</object_id>
+      <w>99</w>
+      <y>45</y>
+      <x>100</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a motor cycle down a race track.</caption>
+      <caption>A person on a motorcycle leaning far to the side.</caption>
+      <caption>A motorcyclist racing high speed on a race track.</caption>
+      <caption>A motorcycle racer heading into a turn on a track.</caption>
+      <caption>A motorcycle racer leans into a turn during a race.</caption>
+    </captions>
+</image>

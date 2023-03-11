@@ -1,0 +1,65 @@
+<image>
+  <image-id>2415727</image-id>
+  <coco-id>55594</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3876173</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2771066</subject>
+      <object>3627420</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253828</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3400821</subject>
+      <object>3400822</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boy</name>
+      <h>135</h>
+      <object_id>2771066</object_id>
+      <w>87</w>
+      <y>205</y>
+      <x>354</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>120</h>
+      <object_id>3627420</object_id>
+      <w>120</w>
+      <y>254</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>125</h>
+      <object_id>3400821</object_id>
+      <w>63</w>
+      <y>149</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>63</h>
+      <object_id>3400822</object_id>
+      <w>45</w>
+      <y>177</y>
+      <x>128</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A BOY IS LOOKING AT THE VEGETABLE STAND </caption>
+      <caption>Some people at an open market in a city.</caption>
+      <caption>A boy in a market place is looking at vegetables.</caption>
+      <caption>A young boy looks at produce in a street market.</caption>
+      <caption>A young boy is looking at the fruits and vegetables at a market.</caption>
+    </captions>
+</image>

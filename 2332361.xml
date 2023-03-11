@@ -1,0 +1,115 @@
+<image>
+  <image-id>2332361</image-id>
+  <coco-id>64146</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3754405</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3504469</subject>
+      <object>3232567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3754408</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2984114</subject>
+      <object>2984115</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091683</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3408748</subject>
+      <object>2776198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3786156</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3408748</subject>
+      <object>3408749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091684</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3504469</subject>
+      <object>3504470</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>399</h>
+      <object_id>3504469</object_id>
+      <w>355</w>
+      <y>99</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>bananas</name>
+      <h>250</h>
+      <object_id>3232567</object_id>
+      <w>279</w>
+      <y>14</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>183</h>
+      <object_id>2984114</object_id>
+      <w>273</w>
+      <y>48</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>251</h>
+      <object_id>2984115</object_id>
+      <w>146</w>
+      <y>35</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>443</h>
+      <object_id>3408748</object_id>
+      <w>351</w>
+      <y>55</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>suit</name>
+      <h>264</h>
+      <object_id>2776198</object_id>
+      <w>355</w>
+      <y>235</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>suit</name>
+      <h>236</h>
+      <object_id>3408749</object_id>
+      <w>351</w>
+      <y>261</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>263</h>
+      <object_id>3504470</object_id>
+      <w>204</w>
+      <y>236</y>
+      <x>94</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A scary man wears a hat made out of bananas.</caption>
+      <caption>A man with a white-painted face and a bananas on his head. </caption>
+      <caption>A man wearing a bushel of bananas on his head.</caption>
+      <caption>A man with his face painted white has bunches of bananas on his head. </caption>
+      <caption>A man watches another man that has numerous bananas on his head.</caption>
+    </captions>
+</image>

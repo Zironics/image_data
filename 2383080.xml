@@ -1,0 +1,169 @@
+<image>
+  <image-id>2383080</image-id>
+  <coco-id>241779</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4776789</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4539258</subject>
+      <object>4539262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776790</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4539258</subject>
+      <object>4539264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776791</relationship_id>
+      <predicate>standing</predicate>
+      <subject>4539258</subject>
+      <object>4539266</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776792</relationship_id>
+      <predicate>standing</predicate>
+      <subject>4539258</subject>
+      <object>4539267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776793</relationship_id>
+      <predicate>standing</predicate>
+      <subject>4539258</subject>
+      <object>4539270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776794</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4539258</subject>
+      <object>4539272</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776795</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4539258</subject>
+      <object>4539274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776796</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4539258</subject>
+      <object>4539279</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4776797</relationship_id>
+      <predicate>surrounding</predicate>
+      <subject>4539280</subject>
+      <object>4539258</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+        <attribute>white </attribute>
+        <attribute>white ear </attribute>
+        <attribute> black stripes</attribute>
+        <attribute>grey stripe </attribute>
+        <attribute> right front leg </attribute>
+      </attributes>
+      <h>231</h>
+      <object_id>4539258</object_id>
+      <w>354</w>
+      <y>72</y>
+      <x>27</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>148</h>
+      <object_id>4539262</object_id>
+      <w>493</w>
+      <y>180</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall </attribute>
+      </attributes>
+      <name>tall grass</name>
+      <h>141</h>
+      <object_id>4539264</object_id>
+      <w>495</w>
+      <y>185</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>58</h>
+      <object_id>4539266</object_id>
+      <w>268</w>
+      <y>264</y>
+      <x>180</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall </attribute>
+      </attributes>
+      <name>grass</name>
+      <h>85</h>
+      <object_id>4539267</object_id>
+      <w>148</w>
+      <y>237</y>
+      <x>330</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall </attribute>
+      </attributes>
+      <name>grass</name>
+      <h>51</h>
+      <object_id>4539270</object_id>
+      <w>160</w>
+      <y>276</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>295</h>
+      <object_id>4539272</object_id>
+      <w>451</w>
+      <y>22</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall </attribute>
+      </attributes>
+      <name>grass</name>
+      <h>100</h>
+      <object_id>4539274</object_id>
+      <w>99</w>
+      <y>230</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>40</h>
+      <object_id>4539279</object_id>
+      <w>233</w>
+      <y>290</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>88</h>
+      <object_id>4539280</object_id>
+      <w>188</w>
+      <y>243</y>
+      <x>274</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing in the grass next to trees.</caption>
+      <caption>A zebra seen in the the forest with dry leaves on trees.</caption>
+      <caption>a lone zebra amongst overgrown brush  and small trees</caption>
+      <caption>A zebra stands between several small trees in tall grass.</caption>
+      <caption>a zebra in the grass by some dead trees</caption>
+    </captions>
+</image>

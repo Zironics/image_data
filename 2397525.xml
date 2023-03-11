@@ -1,0 +1,103 @@
+<image>
+  <image-id>2397525</image-id>
+  <coco-id>32074</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4734475</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4427067</subject>
+      <object>4427068</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734476</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4427069</subject>
+      <object>4427070</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734479</relationship_id>
+      <predicate>has</predicate>
+      <subject>4427076</subject>
+      <object>4427077</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734482</relationship_id>
+      <predicate>has</predicate>
+      <subject>4427083</subject>
+      <object>4427084</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>warmer</name>
+      <h>52</h>
+      <object_id>4427067</object_id>
+      <w>72</w>
+      <y>181</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>kitchen</name>
+      <h>364</h>
+      <object_id>4427068</object_id>
+      <w>493</w>
+      <y>3</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>55</h>
+      <object_id>4427069</object_id>
+      <w>152</w>
+      <y>101</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>97</h>
+      <object_id>4427070</object_id>
+      <w>310</w>
+      <y>77</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>cafeteria</name>
+      <h>370</h>
+      <object_id>4427076</object_id>
+      <w>489</w>
+      <y>4</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>121</h>
+      <object_id>4427077</object_id>
+      <w>377</w>
+      <y>243</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>cooker</name>
+      <h>81</h>
+      <object_id>4427083</object_id>
+      <w>59</w>
+      <y>191</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>left arm</name>
+      <h>48</h>
+      <object_id>4427084</object_id>
+      <w>22</w>
+      <y>222</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Workers wearing hats and aprons work behind the counter.</caption>
+      <caption>Several chefs in a commercial kitchen stop and look at the camera.</caption>
+      <caption>A kitchen filled with chefs preparing food on metal counters.</caption>
+      <caption>A chef an his cooks are in the kitchen preparing food.</caption>
+      <caption>Several employees stand around in the kitchen or a restaurant.</caption>
+    </captions>
+</image>

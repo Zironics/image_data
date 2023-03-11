@@ -1,0 +1,82 @@
+<image>
+  <image-id>2327620</image-id>
+  <coco-id>284089</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3630827</relationship_id>
+      <predicate>has</predicate>
+      <subject>3400193</subject>
+      <object>2982771</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630828</relationship_id>
+      <predicate>has</predicate>
+      <subject>3400193</subject>
+      <object>2982772</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630829</relationship_id>
+      <predicate>has</predicate>
+      <subject>3400193</subject>
+      <object>2820265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630830</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3400193</subject>
+      <object>2982929</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>177</h>
+      <object_id>3400193</object_id>
+      <w>199</w>
+      <y>100</y>
+      <x>92</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>18</h>
+      <object_id>2982771</object_id>
+      <w>34</w>
+      <y>248</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>28</h>
+      <object_id>2982772</object_id>
+      <w>30</w>
+      <y>233</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>feathers</name>
+      <h>25</h>
+      <object_id>2820265</object_id>
+      <w>27</w>
+      <y>158</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>tree branch</name>
+      <h>159</h>
+      <object_id>2982929</object_id>
+      <w>418</w>
+      <y>155</y>
+      <x>22</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bird on the branch looking around near some leaves</caption>
+      <caption>A small bird patiently sits on a tree branch.</caption>
+      <caption>A bird with black, red, and white perched on a limb.</caption>
+      <caption>Small colorful bird sits on branch of growing tree.</caption>
+      <caption>A black, white and red bird sitting on a branch.</caption>
+    </captions>
+</image>

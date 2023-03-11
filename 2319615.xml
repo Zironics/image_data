@@ -1,0 +1,109 @@
+<image>
+  <image-id>2319615</image-id>
+  <coco-id>85179</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4493843</relationship_id>
+      <predicate>are at</predicate>
+      <subject>3240355</subject>
+      <object>3127736</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4493844</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>3261469</subject>
+      <object>3261466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4493845</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>3261469</subject>
+      <object>3261467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4493846</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>3261469</subject>
+      <object>3261468</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120904</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3142696</subject>
+      <object>3104280</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>307</h>
+      <object_id>3240355</object_id>
+      <w>123</w>
+      <y>32</y>
+      <x>348</x>
+      <name>leg person</name>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>90</h>
+      <object_id>3127736</object_id>
+      <w>381</w>
+      <y>247</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>154</h>
+      <object_id>3261469</object_id>
+      <w>57</w>
+      <y>49</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>suitcase</name>
+      <h>61</h>
+      <object_id>3261466</object_id>
+      <w>32</w>
+      <y>132</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>suitcase</name>
+      <h>45</h>
+      <object_id>3261467</object_id>
+      <w>26</w>
+      <y>75</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>suitcase</name>
+      <h>45</h>
+      <object_id>3261468</object_id>
+      <w>15</w>
+      <y>138</y>
+      <x>41</x>
+    </object>
+    <object>
+      <h>216</h>
+      <object_id>3142696</object_id>
+      <w>71</w>
+      <y>33</y>
+      <x>97</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>207</h>
+      <object_id>3104280</object_id>
+      <w>500</w>
+      <y>132</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people waiting to board the underground subway</caption>
+      <caption>People wait with their baggage to board the subway train.</caption>
+      <caption>People waiting for a ride on the subway train.</caption>
+      <caption>people waiting for subway to stop on platform.</caption>
+      <caption>People walking through a busy airport carrying luggage.</caption>
+    </captions>
+</image>

@@ -1,0 +1,188 @@
+<image>
+  <image-id>2383995</image-id>
+  <coco-id>151573</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3561595</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1314548</subject>
+      <object>1314549</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561596</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1314540</subject>
+      <object>1314549</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561597</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1314552</subject>
+      <object>1314553</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561598</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1314552</subject>
+      <object>1314553</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561601</relationship_id>
+      <predicate>over</predicate>
+      <subject>1314545</subject>
+      <object>1314540</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561600</relationship_id>
+      <predicate>has</predicate>
+      <subject>1314545</subject>
+      <object>1314557</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561599</relationship_id>
+      <predicate>has</predicate>
+      <subject>1314545</subject>
+      <object>1314556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561602</relationship_id>
+      <predicate>underneath</predicate>
+      <subject>1314558</subject>
+      <object>1314541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561603</relationship_id>
+      <predicate>has</predicate>
+      <subject>1314540</subject>
+      <object>1314552</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3561604</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>1314545</subject>
+      <object>1314560</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bathtub</name>
+      <h>155</h>
+      <object_id>1314548</object_id>
+      <w>177</w>
+      <y>219</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>373</h>
+      <object_id>1314549</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>partial</attribute>
+        <attribute>white</attribute>
+        <attribute>porcelain</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>201</h>
+      <object_id>1314540</object_id>
+      <w>135</w>
+      <y>173</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>down</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>lid</name>
+      <h>47</h>
+      <object_id>1314552</object_id>
+      <w>81</w>
+      <y>258</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>toilet seat</name>
+      <h>43</h>
+      <object_id>1314553</object_id>
+      <w>88</w>
+      <y>271</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>medicine cabinet</name>
+      <h>82</h>
+      <object_id>1314545</object_id>
+      <w>126</w>
+      <y>1</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>glass door</name>
+      <h>54</h>
+      <object_id>1314557</object_id>
+      <w>54</w>
+      <y>1</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>glass door</name>
+      <h>50</h>
+      <object_id>1314556</object_id>
+      <w>60</w>
+      <y>1</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>piping</name>
+      <h>93</h>
+      <object_id>1314558</object_id>
+      <w>41</w>
+      <y>281</y>
+      <x>458</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>porcelain</attribute>
+        <attribute>white</attribute>
+        <attribute>pedestal style</attribute>
+        <attribute>edge</attribute>
+        <attribute>partial</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>193</h>
+      <object_id>1314541</object_id>
+      <w>121</w>
+      <y>181</y>
+      <x>378</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>352</h>
+      <object_id>1314560</object_id>
+      <w>286</w>
+      <y>1</y>
+      <x>213</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption> a white bathroom with a black and white floor tile pattern</caption>
+      <caption>Bathroom with tile floor, sink, bathtub, and toliet. </caption>
+      <caption>A white tiled bathroom with bathtub, standard toilet and sink.</caption>
+      <caption>White bathroom with tub, toilet and sink in daytime.</caption>
+      <caption>An all white bathroom with a black and white floor.</caption>
+    </captions>
+</image>

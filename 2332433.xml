@@ -1,0 +1,81 @@
+<image>
+  <image-id>2332433</image-id>
+  <coco-id>15552</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4090595</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2928420</subject>
+      <object>3712313</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4090596</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2782067</subject>
+      <object>2782068</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4090597</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3712314</subject>
+      <object>3077406</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>logo</name>
+      <h>21</h>
+      <object_id>2928420</object_id>
+      <w>30</w>
+      <y>344</y>
+      <x>426</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>237</h>
+      <object_id>3712313</object_id>
+      <w>320</w>
+      <y>24</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>cellphone</name>
+      <h>81</h>
+      <object_id>2782067</object_id>
+      <w>57</w>
+      <y>67</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>115</h>
+      <object_id>2782068</object_id>
+      <w>63</w>
+      <y>99</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>spacebar</name>
+      <h>26</h>
+      <object_id>3712314</object_id>
+      <w>129</w>
+      <y>366</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>23</h>
+      <object_id>3077406</object_id>
+      <w>125</w>
+      <y>364</y>
+      <x>120</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A laptop computer sitting on a white table.</caption>
+      <caption>The iPhone is in the dock next to the laptop.</caption>
+      <caption>A smart phone connected to a laptop sitting on a table.</caption>
+      <caption>A phone is plugged into a laptop, which has a separate keyboard and mouse in front of it.</caption>
+      <caption>A laptop computer is on with a keyboard and mouse next to it.</caption>
+    </captions>
+</image>

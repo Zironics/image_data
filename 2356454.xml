@@ -1,0 +1,90 @@
+<image>
+  <image-id>2356454</image-id>
+  <coco-id>263796</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3723345</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1939245</subject>
+      <object>1939246</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3723346</relationship_id>
+      <predicate>over</predicate>
+      <subject>2445057</subject>
+      <object>2445058</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3723347</relationship_id>
+      <predicate>are on</predicate>
+      <subject>2204388</subject>
+      <object>2204387</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>lid</name>
+      <h>131</h>
+      <object_id>1939245</object_id>
+      <w>127</w>
+      <y>200</y>
+      <x>140</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in picture</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>262</h>
+      <object_id>1939246</object_id>
+      <w>136</w>
+      <y>201</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>pipe</name>
+      <h>200</h>
+      <object_id>2445057</object_id>
+      <w>91</w>
+      <y>7</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>wires</name>
+      <h>118</h>
+      <object_id>2445058</object_id>
+      <w>272</w>
+      <y>3</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>spots</name>
+      <h>43</h>
+      <object_id>2204388</object_id>
+      <w>61</w>
+      <y>453</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>80</h>
+      <object_id>2204387</object_id>
+      <w>113</w>
+      <y>417</y>
+      <x>28</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A red toilet in a very small bathroom.</caption>
+      <caption>An old toilet painted red with a wooden lid. </caption>
+      <caption>A red toilet with many pipes and wires behind it.</caption>
+      <caption>an extremely nasty toilet in front of pipes and cable</caption>
+      <caption>A dirty old red toilet next to many wires.</caption>
+    </captions>
+</image>

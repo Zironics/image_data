@@ -1,0 +1,83 @@
+<image>
+  <image-id>2388507</image-id>
+  <coco-id>421384</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4767548</relationship_id>
+      <predicate>around</predicate>
+      <subject>4513860</subject>
+      <object>4513874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4767549</relationship_id>
+      <predicate>near</predicate>
+      <subject>4513861</subject>
+      <object>4513874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4767550</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4513870</subject>
+      <object>4513871</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lips</name>
+      <h>52</h>
+      <object_id>4513860</object_id>
+      <w>99</w>
+      <y>243</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>32</h>
+      <object_id>4513874</object_id>
+      <w>127</w>
+      <y>260</y>
+      <x>23</x>
+      <name>toothbrush</name>
+    </object>
+    <object>
+      <name>tooth</name>
+      <h>24</h>
+      <object_id>4513861</object_id>
+      <w>40</w>
+      <y>262</y>
+      <x>144</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflected</attribute>
+      </attributes>
+      <name>man</name>
+      <h>221</h>
+      <object_id>4513870</object_id>
+      <w>218</w>
+      <y>131</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>379</h>
+      <object_id>4513871</object_id>
+      <w>288</w>
+      <y>10</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Young male being funny brushing teeth making a face and wearing pink and white bunny ears on head.</caption>
+      <caption>A man brushing his teeth in the mirror wearing bunny ears.</caption>
+      <caption>A man with bunny ears is brushing his teeth in a mirror.</caption>
+      <caption>Comical scene of man in bunny ears brushing his teeth in a bathroom.</caption>
+      <caption>A crazed man with bunny ears is brushing his teeth rapidly with a pink tooth brush.</caption>
+    </captions>
+</image>

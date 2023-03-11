@@ -1,0 +1,62 @@
+<image>
+  <image-id>2388257</image-id>
+  <coco-id>259296</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1774803</relationship_id>
+      <predicate>IN</predicate>
+      <subject>674485</subject>
+      <object>674486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1774804</relationship_id>
+      <predicate>IN</predicate>
+      <subject>674483</subject>
+      <object>674486</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>73</h>
+      <object_id>674485</object_id>
+      <w>132</w>
+      <y>122</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>65</h>
+      <object_id>674486</object_id>
+      <w>74</w>
+      <y>229</y>
+      <x>365</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>baby</name>
+      <h>54</h>
+      <object_id>674483</object_id>
+      <w>126</w>
+      <y>185</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An adult elephant standing next to a baby elephant.</caption>
+      <caption>a couple of elephants that are in some grass</caption>
+      <caption>two elephants walking near one another in a field </caption>
+      <caption>An elephant and it baby in an old savanah</caption>
+      <caption>A mother and baby elephant walking in the grasslands. </caption>
+    </captions>
+</image>

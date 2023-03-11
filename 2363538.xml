@@ -1,0 +1,295 @@
+<image>
+  <image-id>2363538</image-id>
+  <coco-id>183898</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4173718</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2369242</subject>
+      <object>3745365</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173719</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1930164</subject>
+      <object>3745368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640190</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2112969</subject>
+      <object>2362733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173720</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2362733</subject>
+      <object>3745368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640192</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2362733</subject>
+      <object>2403303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173721</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2122838</subject>
+      <object>3745368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173722</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2122838</subject>
+      <object>3745368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640194</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2151469</subject>
+      <object>3745368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173723</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1930164</subject>
+      <object>3745368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173724</relationship_id>
+      <predicate>cooking in</predicate>
+      <subject>2035079</subject>
+      <object>3745368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173725</relationship_id>
+      <predicate>sauteed in</predicate>
+      <subject>2122838</subject>
+      <object>1930164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173726</relationship_id>
+      <predicate>in</predicate>
+      <subject>2362729</subject>
+      <object>2362734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173727</relationship_id>
+      <predicate>in</predicate>
+      <subject>2362730</subject>
+      <object>2362734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173728</relationship_id>
+      <predicate>in</predicate>
+      <subject>2362731</subject>
+      <object>2362734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173729</relationship_id>
+      <predicate>in</predicate>
+      <subject>2112969</subject>
+      <object>2362734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173730</relationship_id>
+      <predicate>in</predicate>
+      <subject>2362733</subject>
+      <object>2362734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173731</relationship_id>
+      <predicate>in</predicate>
+      <subject>2362733</subject>
+      <object>2369242</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640199</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2122838</subject>
+      <object>2032122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173732</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2112969</subject>
+      <object>2112969</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4173733</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2035079</subject>
+      <object>2678690</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pan</name>
+      <h>325</h>
+      <object_id>2369242</object_id>
+      <w>425</w>
+      <y>6</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>246</h>
+      <object_id>3745365</object_id>
+      <w>492</w>
+      <y>83</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> bubbling</attribute>
+      </attributes>
+      <name>liquid</name>
+      <h>142</h>
+      <object_id>1930164</object_id>
+      <w>332</w>
+      <y>121</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> for saute</attribute>
+        <attribute>for saute </attribute>
+      </attributes>
+      <name>pan</name>
+      <h>292</h>
+      <object_id>3745368</object_id>
+      <w>387</w>
+      <y>14</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>slice</name>
+      <h>35</h>
+      <object_id>2112969</object_id>
+      <w>54</w>
+      <y>130</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Boiling</attribute>
+        <attribute>of banana</attribute>
+      </attributes>
+      <h>49</h>
+      <object_id>2362733</object_id>
+      <w>81</w>
+      <y>222</y>
+      <x>5</x>
+      <name>banana slice</name>
+    </object>
+    <object>
+      <name>pan</name>
+      <h>322</h>
+      <object_id>2403303</object_id>
+      <w>392</w>
+      <y>9</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> cooking</attribute>
+      </attributes>
+      <h>42</h>
+      <object_id>2122838</object_id>
+      <w>64</w>
+      <y>175</y>
+      <x>119</x>
+      <name>banana slice</name>
+    </object>
+    <object>
+      <name>slice</name>
+      <h>45</h>
+      <object_id>2151469</object_id>
+      <w>59</w>
+      <y>162</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> in slice</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>43</h>
+      <object_id>2035079</object_id>
+      <w>70</w>
+      <y>97</y>
+      <x>129</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Boiling</attribute>
+        <attribute>of banana</attribute>
+      </attributes>
+      <name>banana slice</name>
+      <h>36</h>
+      <object_id>2362729</object_id>
+      <w>50</w>
+      <y>160</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>pan</name>
+      <h>100</h>
+      <object_id>2362734</object_id>
+      <w>120</w>
+      <y>77</y>
+      <x>250</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Boiling</attribute>
+        <attribute>of banana</attribute>
+      </attributes>
+      <name>banana slice</name>
+      <h>31</h>
+      <object_id>2362730</object_id>
+      <w>41</w>
+      <y>142</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Boiling</attribute>
+        <attribute>of banana</attribute>
+      </attributes>
+      <name>banana slice</name>
+      <h>37</h>
+      <object_id>2362731</object_id>
+      <w>50</w>
+      <y>147</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>oil</name>
+      <h>69</h>
+      <object_id>2032122</object_id>
+      <w>203</w>
+      <y>194</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> cooking</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>67</h>
+      <object_id>2678690</object_id>
+      <w>201</w>
+      <y>112</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pan with banana slices and caramel on top of a stove.</caption>
+      <caption>a silver pan with bananas on a black stove</caption>
+      <caption>A close up image of food cooking in hot oil.</caption>
+      <caption>Bananas are simmering in a pan in a sauce.</caption>
+      <caption>A pan with bananas and syrup cooking in it.</caption>
+    </captions>
+</image>

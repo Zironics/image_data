@@ -1,0 +1,82 @@
+<image>
+  <image-id>2338871</image-id>
+  <coco-id>425576</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459059</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3350085</subject>
+      <object>2135114</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056241</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3276024</subject>
+      <object>3699268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056242</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3699268</subject>
+      <object>2135114</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056243</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2135115</subject>
+      <object>2135114</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>42</h>
+      <object_id>3350085</object_id>
+      <w>65</w>
+      <y>115</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pretty</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>414</h>
+      <object_id>2135114</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>chain</name>
+      <h>80</h>
+      <object_id>3276024</object_id>
+      <w>52</w>
+      <y>330</y>
+      <x>345</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>64</h>
+      <object_id>3699268</object_id>
+      <w>218</w>
+      <y>287</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>eyes</name>
+      <h>69</h>
+      <object_id>2135115</object_id>
+      <w>177</w>
+      <y>85</y>
+      <x>166</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman with beautiful blue eyes eating a mini donut.</caption>
+      <caption>a woman getting ready to eat a little sugar donut</caption>
+      <caption>a woman is taking a bite out of some food</caption>
+      <caption>A young, red haired woman is eating a small donut</caption>
+      <caption>a female with red glasses is eating a small donut</caption>
+    </captions>
+</image>

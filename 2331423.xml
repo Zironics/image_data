@@ -1,0 +1,57 @@
+<image>
+  <image-id>2331423</image-id>
+  <coco-id>48417</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3826098</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2738040</subject>
+      <object>3458895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102517</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2738040</subject>
+      <object>3716207</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+      </attributes>
+      <h>472</h>
+      <object_id>2738040</object_id>
+      <w>385</w>
+      <y>15</y>
+      <x>16</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>blue hat</name>
+      <h>175</h>
+      <object_id>3458895</object_id>
+      <w>257</w>
+      <y>13</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>coat</name>
+      <h>303</h>
+      <object_id>3716207</object_id>
+      <w>396</w>
+      <y>188</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>THERE IS A BOY THAT S EATING A PIECE OF BREAD </caption>
+      <caption>A boy eating a doughnut in a diner.</caption>
+      <caption>A child eating something he is holding in his hand.</caption>
+      <caption>A small child showing off a partially eaten doughnut</caption>
+      <caption>A child with a half eaten doughnut in their hand. </caption>
+    </captions>
+</image>

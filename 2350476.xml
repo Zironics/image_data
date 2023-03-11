@@ -1,0 +1,105 @@
+<image>
+  <image-id>2350476</image-id>
+  <coco-id>162415</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4107912</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2187772</subject>
+      <object>1915907</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410386</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1727612</subject>
+      <object>2549230</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410387</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2625263</subject>
+      <object>2625264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410388</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2226855</subject>
+      <object>1727612</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Purple</attribute>
+      </attributes>
+      <name>ribbon</name>
+      <h>41</h>
+      <object_id>2187772</object_id>
+      <w>36</w>
+      <y>93</y>
+      <x>197</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>girl's</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>207</h>
+      <object_id>1915907</object_id>
+      <w>210</w>
+      <y>78</y>
+      <x>81</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light skinned</attribute>
+      </attributes>
+      <h>419</h>
+      <object_id>1727612</object_id>
+      <w>344</w>
+      <y>81</y>
+      <x>30</x>
+      <name>baby</name>
+    </object>
+    <object>
+      <name>baseball glove</name>
+      <h>181</h>
+      <object_id>2549230</object_id>
+      <w>166</w>
+      <y>227</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>72</h>
+      <object_id>2625263</object_id>
+      <w>87</w>
+      <y>358</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>t-shirt</name>
+      <h>112</h>
+      <object_id>2625264</object_id>
+      <w>166</w>
+      <y>382</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>earring</name>
+      <h>10</h>
+      <object_id>2226855</object_id>
+      <w>8</w>
+      <y>208</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A girl smiles while holding a baseball glove.</caption>
+      <caption>a little girl wearing a base ball glove</caption>
+      <caption>A girl who is wearing a baseball glove.</caption>
+      <caption>A YOUNG GIRL PRACTICING BALL IS HOLDING HER MIT</caption>
+      <caption>The girl with the baseball mitt is smiling. </caption>
+    </captions>
+</image>

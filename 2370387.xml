@@ -1,0 +1,104 @@
+<image>
+  <image-id>2370387</image-id>
+  <coco-id>412508</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4325647</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>2477033</subject>
+      <object>2477034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325648</relationship_id>
+      <predicate>at</predicate>
+      <subject>2160267</subject>
+      <object>2160268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325649</relationship_id>
+      <predicate>with</predicate>
+      <subject>2477033</subject>
+      <object>2534304</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325650</relationship_id>
+      <predicate>for</predicate>
+      <subject>2169569</subject>
+      <object>3858871</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vehicle</name>
+      <h>195</h>
+      <object_id>2477033</object_id>
+      <w>151</w>
+      <y>178</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>83</h>
+      <object_id>2477034</object_id>
+      <w>277</w>
+      <y>276</y>
+      <x>152</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>charcoal</attribute>
+      </attributes>
+      <name>grill</name>
+      <h>52</h>
+      <object_id>2160267</object_id>
+      <w>44</w>
+      <y>250</y>
+      <x>394</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>public</attribute>
+      </attributes>
+      <name>camp site</name>
+      <h>373</h>
+      <object_id>2160268</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>luggage</name>
+      <h>34</h>
+      <object_id>2534304</object_id>
+      <w>59</w>
+      <y>165</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>area</name>
+      <h>78</h>
+      <object_id>2169569</object_id>
+      <w>335</w>
+      <y>290</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>camping</name>
+      <h>185</h>
+      <object_id>3858871</object_id>
+      <w>485</w>
+      <y>184</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tent and picnic table with a lite grill in the woods.</caption>
+      <caption>A tent is in the woods with lawn chairs.</caption>
+      <caption>A picture of someone's campsite with a tent, chair, and picnic table.</caption>
+      <caption>A camping area in the forest with a tent set up and vehicle parked.</caption>
+      <caption>A camp site with a tent, a table, and a car.</caption>
+    </captions>
+</image>

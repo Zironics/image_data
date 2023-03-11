@@ -1,0 +1,76 @@
+<image>
+  <image-id>2387425</image-id>
+  <coco-id>203612</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3501651</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1276151</subject>
+      <object>1276152</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3501652</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1276155</subject>
+      <object>1276156</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3501653</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1276160</subject>
+      <object>1276152</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ads</name>
+      <h>15</h>
+      <object_id>1276151</object_id>
+      <w>163</w>
+      <y>39</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>dugout</name>
+      <h>160</h>
+      <object_id>1276152</object_id>
+      <w>487</w>
+      <y>31</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>catcher</name>
+      <h>98</h>
+      <object_id>1276155</object_id>
+      <w>80</w>
+      <y>161</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>red</name>
+      <h>38</h>
+      <object_id>1276156</object_id>
+      <w>25</w>
+      <y>180</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>players</name>
+      <h>76</h>
+      <object_id>1276160</object_id>
+      <w>109</w>
+      <y>49</y>
+      <x>310</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball batter anticipating the pitch of the baseball.</caption>
+      <caption>Man at a baseball plate holding up a baseball bat. </caption>
+      <caption>With the catcher crouched behind him, a batter prepares to swing at the ball.</caption>
+      <caption>A baseball player taking a swing at a ball</caption>
+      <caption>a baseball player holding a bat on the field</caption>
+    </captions>
+</image>

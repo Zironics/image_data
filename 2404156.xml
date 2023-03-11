@@ -1,0 +1,87 @@
+<image>
+  <image-id>2404156</image-id>
+  <coco-id>119525</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3252763</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1118282</subject>
+      <object>1118283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3252764</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1118282</subject>
+      <object>1118283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3252765</relationship_id>
+      <predicate>under</predicate>
+      <subject>1118283</subject>
+      <object>1118282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3252766</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1118282</subject>
+      <object>1118283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3252767</relationship_id>
+      <predicate>has</predicate>
+      <subject>1118283</subject>
+      <object>1118282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3252768</relationship_id>
+      <predicate>has</predicate>
+      <subject>1118283</subject>
+      <object>1118282</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+        <attribute>green</attribute>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+        <attribute>creamy</attribute>
+        <attribute>healthy</attribute>
+        <attribute>round</attribute>
+        <attribute>tiny</attribute>
+        <attribute>small</attribute>
+        <attribute>big</attribute>
+        <attribute>fresh</attribute>
+        <attribute>white</attribute>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>food</name>
+      <h>363</h>
+      <object_id>1118282</object_id>
+      <w>479</w>
+      <y>11</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>big</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>337</h>
+      <object_id>1118283</object_id>
+      <w>480</w>
+      <y>37</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow plate topped with noodles and vegetables.</caption>
+      <caption>some green and yellow vegetables and noodles on a plate</caption>
+      <caption>A close up of a plate of food containing noodles and broccoli.</caption>
+      <caption>A plate of pasta with broccoli and carrots.</caption>
+      <caption>This salad uses broccoli and carrots over noodles</caption>
+    </captions>
+</image>

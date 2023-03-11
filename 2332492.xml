@@ -1,0 +1,99 @@
+<image>
+  <image-id>2332492</image-id>
+  <coco-id>85765</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3915780</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3019804</subject>
+      <object>2867848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998313</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2862550</subject>
+      <object>2867848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3915785</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2729929</subject>
+      <object>2867848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3915787</relationship_id>
+      <predicate>has</predicate>
+      <subject>2867848</subject>
+      <object>3643342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3915788</relationship_id>
+      <predicate>has</predicate>
+      <subject>2867848</subject>
+      <object>3643343</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>number</attribute>
+      </attributes>
+      <name>9</name>
+      <h>13</h>
+      <object_id>3019804</object_id>
+      <w>8</w>
+      <y>108</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>189</h>
+      <object_id>2867848</object_id>
+      <w>167</w>
+      <y>25</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>3</attribute>
+      </attributes>
+      <name>number</name>
+      <h>17</h>
+      <object_id>2862550</object_id>
+      <w>9</w>
+      <y>128</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>number 10</name>
+      <h>17</h>
+      <object_id>2729929</object_id>
+      <w>16</w>
+      <y>76</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>27</h>
+      <object_id>3643342</object_id>
+      <w>37</w>
+      <y>97</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>46</h>
+      <object_id>3643343</object_id>
+      <w>42</w>
+      <y>124</y>
+      <x>79</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A close-up of a large weight scale and the clock.</caption>
+      <caption>A black and white photo of a weight scale and a clock above the scale on the wall.</caption>
+      <caption>a weight scale near a wall with a clock</caption>
+      <caption>The clock is in the doctors over on the wall over the medical scale.</caption>
+      <caption>A clock hanging on the wall over a weight scale.</caption>
+    </captions>
+</image>

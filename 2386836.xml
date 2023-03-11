@@ -1,0 +1,65 @@
+<image>
+  <image-id>2386836</image-id>
+  <coco-id>480053</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4613352</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4128007</subject>
+      <object>4128006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4581458</relationship_id>
+      <predicate>traveling up a</predicate>
+      <subject>4051472</subject>
+      <object>4051473</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>7</h>
+      <object_id>4128007</object_id>
+      <w>9</w>
+      <y>197</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>33</h>
+      <object_id>4128006</object_id>
+      <w>10</w>
+      <y>187</y>
+      <x>50</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>van</name>
+      <h>20</h>
+      <object_id>4051472</object_id>
+      <w>19</w>
+      <y>255</y>
+      <x>134</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>46</h>
+      <object_id>4051473</object_id>
+      <w>55</w>
+      <y>260</y>
+      <x>106</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person walking next to a no parking sign next to a street.</caption>
+      <caption>A woman is standing in proximity of a street sign and wearing the same colors.</caption>
+      <caption>Crossing guard waiting at corner near No Parking sign.</caption>
+      <caption>A woman waiting to cross a street with traffic</caption>
+      <caption>Woman standing on the side of the road with cars passing by. </caption>
+    </captions>
+</image>

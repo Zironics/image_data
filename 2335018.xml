@@ -1,0 +1,37 @@
+<image>
+  <image-id>2335018</image-id>
+  <coco-id>401820</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3989990</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2303751</subject>
+      <object>2303752</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffe</name>
+      <h>360</h>
+      <object_id>2303751</object_id>
+      <w>280</w>
+      <y>49</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>320</h>
+      <object_id>2303752</object_id>
+      <w>321</w>
+      <y>176</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a giraffe is standing on some grass and some trees</caption>
+      <caption>A lone giraffe is standing in a field</caption>
+      <caption>A giraffe on a green field with trees in the background.</caption>
+      <caption>A young giraffe stands in a grassy field. </caption>
+      <caption>A giraffe is standing in a middle of a grassy field.</caption>
+    </captions>
+</image>

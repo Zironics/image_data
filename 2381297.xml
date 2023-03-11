@@ -1,0 +1,44 @@
+<image>
+  <image-id>2381297</image-id>
+  <coco-id>130984</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1878174</relationship_id>
+      <predicate>ON</predicate>
+      <subject>705668</subject>
+      <object>705671</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>train</name>
+      <h>94</h>
+      <object_id>705668</object_id>
+      <w>127</w>
+      <y>71</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>track</name>
+      <h>25</h>
+      <object_id>705671</object_id>
+      <w>42</w>
+      <y>171</y>
+      <x>146</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three sets of train tracks with trains on each of them.</caption>
+      <caption>three yellow and blue trains next to each other</caption>
+      <caption>Several trains are parked next to each other on some tracks.</caption>
+      <caption>three trains on train tracks with a sky background</caption>
+      <caption>THREE TRAIN CARS SITTING ON THREE SEPARATE TRACKS</caption>
+    </captions>
+</image>

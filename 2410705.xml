@@ -1,0 +1,83 @@
+<image>
+  <image-id>2410705</image-id>
+  <coco-id>529762</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3214122</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1086105</subject>
+      <object>1086106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3214123</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1086105</subject>
+      <object>1086106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3214124</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1086105</subject>
+      <object>1086106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3214128</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1086105</subject>
+      <object>1086106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>652408</relationship_id>
+      <predicate>IN</predicate>
+      <subject>362812</subject>
+      <object>362813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3214165</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1086105</subject>
+      <object>1086106</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>46</h>
+      <object_id>1086105</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>46</h>
+      <object_id>1086106</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>white wine</name>
+      <h>58</h>
+      <object_id>362812</object_id>
+      <w>58</w>
+      <y>187</y>
+      <x>329</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>176</h>
+      <object_id>362813</object_id>
+      <w>85</w>
+      <y>133</y>
+      <x>321</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man sitting at a table eating a hamburger and fries.</caption>
+      <caption>a man sittig by a table taking of photo of his food </caption>
+      <caption>A man is taking a picture of his food</caption>
+      <caption>Man taking a picture of food on a table.</caption>
+      <caption>A man at a table taking a picture of his food.</caption>
+    </captions>
+</image>

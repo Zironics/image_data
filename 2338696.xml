@@ -1,0 +1,84 @@
+<image>
+  <image-id>2338696</image-id>
+  <coco-id>539606</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459440</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2541629</subject>
+      <object>3929902</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058689</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2338799</subject>
+      <object>3700146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058694</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2936980</subject>
+      <object>2936981</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>49</h>
+      <object_id>2541629</object_id>
+      <w>36</w>
+      <y>90</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>133</h>
+      <object_id>3929902</object_id>
+      <w>75</w>
+      <y>88</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>184</h>
+      <object_id>2338799</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>98</h>
+      <object_id>3700146</object_id>
+      <w>196</w>
+      <y>20</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>trunk</name>
+      <h>184</h>
+      <object_id>2936980</object_id>
+      <w>42</w>
+      <y>1</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>233</h>
+      <object_id>2936981</object_id>
+      <w>497</w>
+      <y>94</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on some skis in the snow.</caption>
+      <caption>A man is enjoying his time of snow skiing. </caption>
+      <caption>A man riding skis down a snow covered slope.</caption>
+      <caption>A man skiing down a slope with his skis. </caption>
+      <caption>A man in a racing suit is skiing past some trees.</caption>
+    </captions>
+</image>

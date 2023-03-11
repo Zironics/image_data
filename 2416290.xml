@@ -1,0 +1,90 @@
+<image>
+  <image-id>2416290</image-id>
+  <coco-id>322163</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3879843</relationship_id>
+      <predicate>preparing a</predicate>
+      <subject>3418459</subject>
+      <object>3197774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3879844</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3418457</subject>
+      <object>3418463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3879845</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3418458</subject>
+      <object>3628904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3879846</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3418459</subject>
+      <object>3628904</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>270</h>
+      <object_id>3418459</object_id>
+      <w>163</w>
+      <y>52</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>82</h>
+      <object_id>3197774</object_id>
+      <w>129</w>
+      <y>278</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>197</h>
+      <object_id>3418457</object_id>
+      <w>94</w>
+      <y>45</y>
+      <x>223</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white  </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>103</h>
+      <object_id>3418463</object_id>
+      <w>94</w>
+      <y>82</y>
+      <x>225</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>97</h>
+      <object_id>3418458</object_id>
+      <w>37</w>
+      <y>69</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>77</h>
+      <object_id>3628904</object_id>
+      <w>40</w>
+      <y>90</y>
+      <x>306</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A group of three chefs preparing food in a kitchen.</caption>
+      <caption>A man making a pizza in a kitchen. </caption>
+      <caption>some people in a kitchen preparing food on a counter</caption>
+      <caption>A couple of guys cooking in a restaruant kitchen that is open to the restaurant.</caption>
+      <caption>Cooks are gathered preparing a meal in the kitchen.</caption>
+    </captions>
+</image>

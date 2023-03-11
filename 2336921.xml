@@ -1,0 +1,121 @@
+<image>
+  <image-id>2336921</image-id>
+  <coco-id>375108</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3961823</relationship_id>
+      <predicate>are walking in a</predicate>
+      <subject>2006696</subject>
+      <object>2343624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961824</relationship_id>
+      <predicate>close to</predicate>
+      <subject>2006696</subject>
+      <object>2662570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3716803</relationship_id>
+      <predicate>has</predicate>
+      <subject>2918712</subject>
+      <object>2918713</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961825</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>2918712</subject>
+      <object>3280508</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961826</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>2918712</subject>
+      <object>2458765</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961827</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>2006696</subject>
+      <object>2006695</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>176</h>
+      <object_id>2006696</object_id>
+      <w>61</w>
+      <y>96</y>
+      <x>389</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>city</name>
+      <h>276</h>
+      <object_id>2343624</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>124</h>
+      <object_id>2662570</object_id>
+      <w>313</w>
+      <y>0</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>162</h>
+      <object_id>2918712</object_id>
+      <w>46</w>
+      <y>92</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>6</h>
+      <object_id>2918713</object_id>
+      <w>14</w>
+      <y>100</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> red</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>62</h>
+      <object_id>3280508</object_id>
+      <w>35</w>
+      <y>116</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> blue</attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>71</h>
+      <object_id>2458765</object_id>
+      <w>39</w>
+      <y>172</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>90</h>
+      <object_id>2006695</object_id>
+      <w>57</w>
+      <y>181</y>
+      <x>384</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people walk with umbrellas despite no rain falling from the sky.</caption>
+      <caption>People are walking the streets holding umbrellas in their hands.</caption>
+      <caption>A group of people holding white umbrellas standing next to each other.</caption>
+      <caption>Many people walk on a side walk with umbrellas</caption>
+      <caption>People walk along on the street carrying umbrellas.</caption>
+    </captions>
+</image>

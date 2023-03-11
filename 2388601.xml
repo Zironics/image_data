@@ -1,0 +1,112 @@
+<image>
+  <image-id>2388601</image-id>
+  <coco-id>289901</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3489268</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1267860</subject>
+      <object>1267861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3489269</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>1267860</subject>
+      <object>1267864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3489270</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1267860</subject>
+      <object>1267859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3489271</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1267859</subject>
+      <object>1267860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3489272</relationship_id>
+      <predicate>against</predicate>
+      <subject>1267870</subject>
+      <object>1267867</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>200</h>
+      <object_id>1267860</object_id>
+      <w>50</w>
+      <y>95</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>38</h>
+      <object_id>1267861</object_id>
+      <w>48</w>
+      <y>169</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>11</h>
+      <object_id>1267864</object_id>
+      <w>13</w>
+      <y>95</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>knee pad</name>
+      <h>26</h>
+      <object_id>1267859</object_id>
+      <w>19</w>
+      <y>213</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>block</name>
+      <h>66</h>
+      <object_id>1267870</object_id>
+      <w>43</w>
+      <y>151</y>
+      <x>361</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>237</h>
+      <object_id>1267867</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in a tan shirt is playing tennis.
+</caption>
+      <caption>a man is swinging a tennis racket on a court</caption>
+      <caption>Man on clay court hitting a tennis ball. </caption>
+      <caption>Male tennis player just having hit the ball.</caption>
+      <caption>The man is taking a strike at the ball in tennis.</caption>
+    </captions>
+</image>

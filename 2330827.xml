@@ -1,0 +1,65 @@
+<image>
+  <image-id>2330827</image-id>
+  <coco-id>261363</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4466009</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2909580</subject>
+      <object>3933861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4466010</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2909580</subject>
+      <object>3933862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4466011</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2909580</subject>
+      <object>3933863</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skateboarder</name>
+      <h>264</h>
+      <object_id>2909580</object_id>
+      <w>322</w>
+      <y>30</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>skate bowl</name>
+      <h>312</h>
+      <object_id>3933861</object_id>
+      <w>497</w>
+      <y>15</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>102</h>
+      <object_id>3933862</object_id>
+      <w>90</w>
+      <y>177</y>
+      <x>378</x>
+    </object>
+    <object>
+      <name>ramp</name>
+      <h>287</h>
+      <object_id>3933863</object_id>
+      <w>476</w>
+      <y>43</y>
+      <x>21</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skateboarder is going into a bowl for a trick.</caption>
+      <caption>A man riding a skateboard at a skate park.</caption>
+      <caption>A man skateboarding into an empty swimming pool.</caption>
+      <caption>The skateboarder is about to go down the ramp.</caption>
+      <caption>A man riding a skateboard in an empty pool.</caption>
+    </captions>
+</image>

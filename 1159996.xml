@@ -1,0 +1,79 @@
+<image>
+  <image-id>1159996</image-id>
+  <coco-id>335216</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4074348</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3706179</subject>
+      <object>3210608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074349</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3490408</subject>
+      <object>1599968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074351</relationship_id>
+      <predicate>with</predicate>
+      <subject>1599970</subject>
+      <object>1599970</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>102</h>
+      <object_id>3706179</object_id>
+      <w>165</w>
+      <y>546</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>502</h>
+      <object_id>3210608</object_id>
+      <w>870</w>
+      <y>234</y>
+      <x>16</x>
+    </object>
+    <object>
+      <h>270</h>
+      <object_id>3490408</object_id>
+      <w>116</w>
+      <y>648</y>
+      <x>102</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>261</h>
+      <object_id>1599968</object_id>
+      <w>202</w>
+      <y>654</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>49</h>
+      <object_id>1599970</object_id>
+      <w>32</w>
+      <y>458</y>
+      <x>372</x>
+      <name>numberal</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A ski lift surrounded by people riding skis.</caption>
+      <caption>A ski lift with people in front on skis and walking in the snow.</caption>
+      <caption>The human traffic at the top of a ski lift </caption>
+      <caption>People are on a snowy mountain near a ski lift.</caption>
+      <caption>A ski lift on a snowy mountain top with skiers.</caption>
+    </captions>
+</image>

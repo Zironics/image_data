@@ -1,0 +1,131 @@
+<image>
+  <image-id>2396462</image-id>
+  <coco-id>305348</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4703473</relationship_id>
+      <predicate>SITTING IN</predicate>
+      <subject>4352896</subject>
+      <object>4352897</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4703474</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4352900</subject>
+      <object>4352901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4703475</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4352905</subject>
+      <object>4352904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4703476</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4352910</subject>
+      <object>4352911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4703477</relationship_id>
+      <predicate>with</predicate>
+      <subject>4352920</subject>
+      <object>4352921</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>50</h>
+      <object_id>4352896</object_id>
+      <w>490</w>
+      <y>1</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>stands</name>
+      <h>201</h>
+      <object_id>4352897</object_id>
+      <w>486</w>
+      <y>1</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>WHITE</attribute>
+      </attributes>
+      <name>markings</name>
+      <h>116</h>
+      <object_id>4352900</object_id>
+      <w>404</w>
+      <y>203</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>208</h>
+      <object_id>4352901</object_id>
+      <w>494</w>
+      <y>162</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light skinned</attribute>
+      </attributes>
+      <name>man</name>
+      <h>249</h>
+      <object_id>4352905</object_id>
+      <w>107</w>
+      <y>115</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>50</h>
+      <object_id>4352904</object_id>
+      <w>20</w>
+      <y>248</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>59</h>
+      <object_id>4352910</object_id>
+      <w>24</w>
+      <y>244</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>man's hand</name>
+      <h>18</h>
+      <object_id>4352911</object_id>
+      <w>12</w>
+      <y>233</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>camera</name>
+      <h>83</h>
+      <object_id>4352920</object_id>
+      <w>96</w>
+      <y>80</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>55</h>
+      <object_id>4352921</object_id>
+      <w>120</w>
+      <y>43</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A male tennis player is on the court. </caption>
+      <caption>A man standing on top of a tennis court holding a racquet.</caption>
+      <caption>A man is walking away from a tennis court.</caption>
+      <caption>The tennis pro on the court is paid to advertise the company logo.</caption>
+      <caption>A male tennis player stands on a field holding a racket.</caption>
+    </captions>
+</image>

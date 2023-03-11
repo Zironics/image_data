@@ -1,0 +1,115 @@
+<image>
+  <image-id>1159575</image-id>
+  <coco-id>443579</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4263521</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1595335</subject>
+      <object>1595336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263522</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1595337</subject>
+      <object>1595338</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263523</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1595340</subject>
+      <object>3797042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263524</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1595340</subject>
+      <object>3797043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263525</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3797044</subject>
+      <object>3797044</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown bag</name>
+      <h>83</h>
+      <object_id>1595335</object_id>
+      <w>114</w>
+      <y>296</y>
+      <x>580</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>111</h>
+      <object_id>1595336</object_id>
+      <w>212</w>
+      <y>460</y>
+      <x>725</x>
+    </object>
+    <object>
+      <name>box</name>
+      <h>84</h>
+      <object_id>1595337</object_id>
+      <w>62</w>
+      <y>168</y>
+      <x>743</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>111</h>
+      <object_id>1595338</object_id>
+      <w>38</w>
+      <y>254</y>
+      <x>750</x>
+    </object>
+    <object>
+      <h>574</h>
+      <object_id>1595340</object_id>
+      <w>339</w>
+      <y>54</y>
+      <x>260</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sweater</name>
+      <h>534</h>
+      <object_id>3797042</object_id>
+      <w>426</w>
+      <y>80</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>264</h>
+      <object_id>3797043</object_id>
+      <w>245</w>
+      <y>242</y>
+      <x>392</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>76</h>
+      <object_id>3797044</object_id>
+      <w>106</w>
+      <y>65</y>
+      <x>306</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman holding two brown bear cubs next to a refrigerator.</caption>
+      <caption>A young woman sitting on the ground with two baby bears.</caption>
+      <caption>A lady holding a bear while petting another one.</caption>
+      <caption>A woman is holding two baby brown bears.</caption>
+      <caption>a person on the ground with two baby bears</caption>
+    </captions>
+</image>

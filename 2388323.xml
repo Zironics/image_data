@@ -1,0 +1,99 @@
+<image>
+  <image-id>2388323</image-id>
+  <coco-id>574874</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1210322</relationship_id>
+      <predicate>IN</predicate>
+      <subject>509148</subject>
+      <object>509149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1210323</relationship_id>
+      <predicate>IN</predicate>
+      <subject>509151</subject>
+      <object>509149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1210324</relationship_id>
+      <predicate>OF</predicate>
+      <subject>509154</subject>
+      <object>509148</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1210326</relationship_id>
+      <predicate>ON</predicate>
+      <subject>509150</subject>
+      <object>509149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1210327</relationship_id>
+      <predicate>ON</predicate>
+      <subject>509150</subject>
+      <object>509149</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>shaking</attribute>
+        <attribute>swimming</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>91</h>
+      <object_id>509148</object_id>
+      <w>104</w>
+      <y>109</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>shook</attribute>
+        <attribute>viewable</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>256</h>
+      <object_id>509149</object_id>
+      <w>399</w>
+      <y>59</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>104</h>
+      <object_id>509151</object_id>
+      <w>247</w>
+      <y>225</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>eyes</name>
+      <h>38</h>
+      <object_id>509154</object_id>
+      <w>39</w>
+      <y>119</y>
+      <x>200</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in water</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>rock</name>
+      <h>74</h>
+      <object_id>509150</object_id>
+      <w>81</w>
+      <y>207</y>
+      <x>416</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A polar bear playing in the water in a zoo pin.</caption>
+      <caption>a white polar bear is swimming in some water</caption>
+      <caption>A bear shaking his head while swimming in some water</caption>
+      <caption>A polar bear shakes his head of water as it emerges from the water. </caption>
+      <caption>A polar bear shaking water off its head in a pool of water.</caption>
+    </captions>
+</image>

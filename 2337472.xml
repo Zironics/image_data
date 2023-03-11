@@ -1,0 +1,57 @@
+<image>
+  <image-id>2337472</image-id>
+  <coco-id>99647</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2847415</relationship_id>
+      <predicate>OF</predicate>
+      <subject>957433</subject>
+      <object>957431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2847416</relationship_id>
+      <predicate>and</predicate>
+      <subject>957431</subject>
+      <object>957435</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>100</h>
+      <object_id>957433</object_id>
+      <w>67</w>
+      <y>22</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>207</h>
+      <object_id>957431</object_id>
+      <w>239</w>
+      <y>91</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>nut</name>
+      <h>33</h>
+      <object_id>957435</object_id>
+      <w>21</w>
+      <y>94</y>
+      <x>266</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clear bowl of broccoli and chopped nuts.  </caption>
+      <caption>A food entree is served in a dish.</caption>
+      <caption>A bowl full of broccoli and a mystery topping.</caption>
+      <caption>a bowl of broccoli topped with chopped nuts.</caption>
+      <caption>Prepared dish of broccoli and nuts served in a glass bowl.</caption>
+    </captions>
+</image>

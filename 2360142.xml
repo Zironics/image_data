@@ -1,0 +1,125 @@
+<image>
+  <image-id>2360142</image-id>
+  <coco-id>270815</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4205730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1741157</subject>
+      <object>1741158</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4397200</relationship_id>
+      <predicate>on other side</predicate>
+      <subject>2598874</subject>
+      <object>3892212</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4205731</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1997954</subject>
+      <object>2120444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4205732</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1997954</subject>
+      <object>2120444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4205733</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1997954</subject>
+      <object>1815967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4205734</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1997954</subject>
+      <object>2419991</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>14</h>
+      <object_id>1741157</object_id>
+      <w>10</w>
+      <y>47</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>68</h>
+      <object_id>1741158</object_id>
+      <w>314</w>
+      <y>42</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chainlink</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <h>119</h>
+      <object_id>2598874</object_id>
+      <w>321</w>
+      <y>31</y>
+      <x>178</x>
+      <name>fence</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>70</h>
+      <object_id>3892212</object_id>
+      <w>485</w>
+      <y>71</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+      </attributes>
+      <h>286</h>
+      <object_id>1997954</object_id>
+      <w>258</w>
+      <y>81</y>
+      <x>82</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>276</h>
+      <object_id>2120444</object_id>
+      <w>227</w>
+      <y>83</y>
+      <x>89</x>
+      <name>baseball uniform</name>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>36</h>
+      <object_id>1815967</object_id>
+      <w>55</w>
+      <y>323</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>baseball mit</name>
+      <h>42</h>
+      <object_id>2419991</object_id>
+      <w>45</w>
+      <y>249</y>
+      <x>178</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player wearing a leather glove standing in the dirt.</caption>
+      <caption>A man standing on a baseball field wearing a catchers mitt.</caption>
+      <caption>A baseball player crouches down as he waits for the ball.</caption>
+      <caption>Two men playing baseball on a baseball diamond.</caption>
+      <caption>A male is playing baseball on a team.</caption>
+    </captions>
+</image>

@@ -1,0 +1,71 @@
+<image>
+  <image-id>2402510</image-id>
+  <coco-id>13466</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3273945</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1135108</subject>
+      <object>1135109</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3273951</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1135110</subject>
+      <object>1135111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3273987</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1135110</subject>
+      <object>1135111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3273991</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1135110</subject>
+      <object>1135111</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1135108</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1135109</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1135110</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1135111</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two street signs are shown against more buildings.</caption>
+      <caption>A street intersection somewhere in France near a heritage building.</caption>
+      <caption>The statues are visible past the street signs.</caption>
+      <caption>Gorgeous old buildings and statues at the corner of Rue Saint-Paul and Rue Bonsecours.</caption>
+      <caption>clos up of a street sign with  building background</caption>
+    </captions>
+</image>

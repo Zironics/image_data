@@ -1,0 +1,54 @@
+<image>
+  <image-id>2397235</image-id>
+  <coco-id>255975</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4755688</relationship_id>
+      <predicate>moving on</predicate>
+      <subject>4481015</subject>
+      <object>4481017</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4755689</relationship_id>
+      <predicate>moving on</predicate>
+      <subject>4481016</subject>
+      <object>4481017</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vehicles</name>
+      <h>258</h>
+      <object_id>4481015</object_id>
+      <w>376</w>
+      <y>41</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>road</name>
+      <h>193</h>
+      <object_id>4481017</object_id>
+      <w>496</w>
+      <y>137</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>vehicles</name>
+      <h>181</h>
+      <object_id>4481016</object_id>
+      <w>151</w>
+      <y>39</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A gray truck driving past an ATM machine.</caption>
+      <caption>A silver truck driving on a city street.</caption>
+      <caption>The truck driving down the road has an unusual design.</caption>
+      <caption>An old silver pick-up truck carrying a load driving down a street.</caption>
+      <caption>a silver truck a street a person and buildings</caption>
+    </captions>
+</image>

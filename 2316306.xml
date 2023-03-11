@@ -1,0 +1,37 @@
+<image>
+  <image-id>2316306</image-id>
+  <coco-id>208423</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3863999</relationship_id>
+      <predicate>beside</predicate>
+      <subject>2833900</subject>
+      <object>2833901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>fence</name>
+      <h>71</h>
+      <object_id>2833900</object_id>
+      <w>177</w>
+      <y>300</y>
+      <x>322</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>23</h>
+      <object_id>2833901</object_id>
+      <w>153</w>
+      <y>348</y>
+      <x>173</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A crowd of people flying kites over a field.</caption>
+      <caption>A distant view of several kites flying in the air.</caption>
+      <caption>Several different kites flying over a parking lot.</caption>
+      <caption>many kites flying in the sky with cars parked</caption>
+      <caption>multiple kites fly high in the sky near a stadium</caption>
+    </captions>
+</image>

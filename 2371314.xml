@@ -1,0 +1,222 @@
+<image>
+  <image-id>2371314</image-id>
+  <coco-id>403064</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1514232</relationship_id>
+      <predicate>are crossing</predicate>
+      <subject>598559</subject>
+      <object>598560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514233</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>598561</subject>
+      <object>598562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514234</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>598563</subject>
+      <object>598562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514235</relationship_id>
+      <predicate>has</predicate>
+      <subject>598562</subject>
+      <object>598578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514236</relationship_id>
+      <predicate>has</predicate>
+      <subject>598562</subject>
+      <object>598579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514237</relationship_id>
+      <predicate>are on</predicate>
+      <subject>598559</subject>
+      <object>598560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514238</relationship_id>
+      <predicate>has</predicate>
+      <subject>598561</subject>
+      <object>598580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514239</relationship_id>
+      <predicate>are on</predicate>
+      <subject>598559</subject>
+      <object>598560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514240</relationship_id>
+      <predicate>has</predicate>
+      <subject>598588</subject>
+      <object>598584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514241</relationship_id>
+      <predicate>has</predicate>
+      <subject>598589</subject>
+      <object>598590</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1514242</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>598561</subject>
+      <object>598562</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>herd</attribute>
+        <attribute>crossing</attribute>
+        <attribute>black</attribute>
+        <attribute>on road</attribute>
+        <attribute>crossing road</attribute>
+        <attribute>white</attribute>
+        <attribute>a herd</attribute>
+      </attributes>
+      <name>cows</name>
+      <h>33</h>
+      <object_id>598559</object_id>
+      <w>318</w>
+      <y>166</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>asphalt</attribute>
+        <attribute>made</attribute>
+      </attributes>
+      <name>road</name>
+      <h>195</h>
+      <object_id>598560</object_id>
+      <w>494</w>
+      <y>170</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>license</attribute>
+        <attribute>for license</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>on car</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>11</h>
+      <object_id>598561</object_id>
+      <w>33</w>
+      <y>243</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>driving</attribute>
+        <attribute>on top of road</attribute>
+        <attribute>camry</attribute>
+        <attribute>toyota</attribute>
+        <attribute>on the road</attribute>
+        <attribute>stopping</attribute>
+        <attribute>letting cows cross</attribute>
+        <attribute>dark</attribute>
+        <attribute>on road</attribute>
+      </attributes>
+      <name>car</name>
+      <h>114</h>
+      <object_id>598562</object_id>
+      <w>136</w>
+      <y>167</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for tail end</attribute>
+        <attribute>for brake</attribute>
+        <attribute>red</attribute>
+        <attribute>for tail</attribute>
+      </attributes>
+      <name>light</name>
+      <h>17</h>
+      <object_id>598563</object_id>
+      <w>16</w>
+      <y>212</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>15</h>
+      <object_id>598578</object_id>
+      <w>20</w>
+      <y>268</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>17</h>
+      <object_id>598579</object_id>
+      <w>13</w>
+      <y>256</y>
+      <x>297</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yo6071"</attribute>
+      </attributes>
+      <name>license</name>
+      <h>12</h>
+      <object_id>598580</object_id>
+      <w>30</w>
+      <y>242</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>pasture</name>
+      <h>68</h>
+      <object_id>598588</object_id>
+      <w>198</w>
+      <y>165</y>
+      <x>299</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in a field</attribute>
+        <attribute>on top of grass</attribute>
+      </attributes>
+      <name>cows</name>
+      <h>37</h>
+      <object_id>598584</object_id>
+      <w>89</w>
+      <y>165</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>pasture</name>
+      <h>45</h>
+      <object_id>598589</object_id>
+      <w>84</w>
+      <y>166</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>cows</name>
+      <h>16</h>
+      <object_id>598590</object_id>
+      <w>82</w>
+      <y>170</y>
+      <x>87</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A gray car driving down a country road filled with cattle.</caption>
+      <caption>Two cars waiting for a herd of cows to pass by.</caption>
+      <caption>A person photographing the car driving ahead of theirs</caption>
+      <caption>a car wating in the road as cows walk past</caption>
+      <caption>Several cars sitting behind a bunch of cows in the street.</caption>
+    </captions>
+</image>

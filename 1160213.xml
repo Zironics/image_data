@@ -1,0 +1,131 @@
+<image>
+  <image-id>1160213</image-id>
+  <coco-id>284725</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4655042</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4232482</subject>
+      <object>4232483</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4655044</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4232464</subject>
+      <object>4232465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4655053</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4232482</subject>
+      <object>4232483</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4695502</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4334449</subject>
+      <object>4334450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4655067</relationship_id>
+      <predicate>made of</predicate>
+      <subject>4232514</subject>
+      <object>4232515</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4655069</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4232518</subject>
+      <object>4232519</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>75</h>
+      <object_id>4232482</object_id>
+      <w>227</w>
+      <y>356</y>
+      <x>224</x>
+      <name>writing</name>
+    </object>
+    <object>
+      <h>256</h>
+      <object_id>4232483</object_id>
+      <w>696</w>
+      <y>234</y>
+      <x>107</x>
+      <name>bus</name>
+    </object>
+    <object>
+      <name>front wheel</name>
+      <h>52</h>
+      <object_id>4232464</object_id>
+      <w>44</w>
+      <y>385</y>
+      <x>640</x>
+    </object>
+    <object>
+      <name>red bus</name>
+      <h>318</h>
+      <object_id>4232465</object_id>
+      <w>724</w>
+      <y>175</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>seat</name>
+      <h>44</h>
+      <object_id>4334449</object_id>
+      <w>40</w>
+      <y>302</y>
+      <x>426</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>282</h>
+      <object_id>4334450</object_id>
+      <w>701</w>
+      <y>199</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>134</h>
+      <object_id>4232514</object_id>
+      <w>217</w>
+      <y>519</y>
+      <x>694</x>
+    </object>
+    <object>
+      <name>bricks</name>
+      <h>39</h>
+      <object_id>4232515</object_id>
+      <w>72</w>
+      <y>571</y>
+      <x>766</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>98</h>
+      <object_id>4232518</object_id>
+      <w>137</w>
+      <y>337</y>
+      <x>455</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>193</h>
+      <object_id>4232519</object_id>
+      <w>694</w>
+      <y>264</y>
+      <x>89</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a public transit bus on a city street</caption>
+      <caption>A red bus parked on a street with another vehicle parked nearby.</caption>
+      <caption>A red bus sitting on the side of a road.</caption>
+      <caption>Red bus parked on street near stone steps.</caption>
+      <caption>A bus in China is parked along a curb. </caption>
+    </captions>
+</image>

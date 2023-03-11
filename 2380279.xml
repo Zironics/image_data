@@ -1,0 +1,111 @@
+<image>
+  <image-id>2380279</image-id>
+  <coco-id>546647</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3605889</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1348577</subject>
+      <object>1348578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3605890</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1348574</subject>
+      <object>1348582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3605891</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1348574</subject>
+      <object>1348583</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3605892</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1348571</subject>
+      <object>1348582</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>porcelain</attribute>
+      </attributes>
+      <name>tank</name>
+      <h>142</h>
+      <object_id>1348577</object_id>
+      <w>125</w>
+      <y>357</y>
+      <x>249</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>marking</name>
+      <h>31</h>
+      <object_id>1348578</object_id>
+      <w>23</w>
+      <y>426</y>
+      <x>344</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirty</attribute>
+        <attribute>turned yellow</attribute>
+        <attribute>yellow</attribute>
+        <attribute>white</attribute>
+        <attribute>discolored</attribute>
+        <attribute>stained</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>144</h>
+      <object_id>1348574</object_id>
+      <w>180</w>
+      <y>354</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirty</attribute>
+      </attributes>
+      <name>bathroom</name>
+      <h>499</h>
+      <object_id>1348582</object_id>
+      <w>373</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>499</h>
+      <object_id>1348583</object_id>
+      <w>227</w>
+      <y>0</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirty</attribute>
+        <attribute>speckled</attribute>
+        <attribute>filfthy</attribute>
+        <attribute>white</attribute>
+        <attribute>dotted</attribute>
+      </attributes>
+      <name>bathtub</name>
+      <h>139</h>
+      <object_id>1348571</object_id>
+      <w>222</w>
+      <y>360</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom has a dirty white shower in it and a stained looking toilet.</caption>
+      <caption>a white bathroom with a shower and a toilet</caption>
+      <caption>A bath and a toilet in a small room.</caption>
+      <caption>A dirty one piece but and shower and a yellowish toilet with open seat.</caption>
+      <caption>A view of a bathroom consisting of a toilet and a shower stall.</caption>
+    </captions>
+</image>

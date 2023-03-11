@@ -1,0 +1,138 @@
+<image>
+  <image-id>2321657</image-id>
+  <coco-id>333654</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3139676</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1047328</subject>
+      <object>1047329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3139680</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1047328</subject>
+      <object>1047329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3139681</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1047338</subject>
+      <object>1047339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3139682</relationship_id>
+      <predicate>are in</predicate>
+      <subject>1047345</subject>
+      <object>1047346</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3139683</relationship_id>
+      <predicate>over</predicate>
+      <subject>1047339</subject>
+      <object>1047342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3139684</relationship_id>
+      <predicate>are in</predicate>
+      <subject>1047345</subject>
+      <object>1047346</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3139685</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1047328</subject>
+      <object>1047342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3139686</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1047348</subject>
+      <object>1047349</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vehicles</name>
+      <h>38</h>
+      <object_id>1047328</object_id>
+      <w>41</w>
+      <y>245</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>86</h>
+      <object_id>1047329</object_id>
+      <w>127</w>
+      <y>227</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>four cars</name>
+      <h>51</h>
+      <object_id>1047338</object_id>
+      <w>272</w>
+      <y>264</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>overpass</name>
+      <h>82</h>
+      <object_id>1047339</object_id>
+      <w>331</w>
+      <y>251</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>108</h>
+      <object_id>1047345</object_id>
+      <w>244</w>
+      <y>5</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>123</h>
+      <object_id>1047346</object_id>
+      <w>497</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>busy</attribute>
+      </attributes>
+      <name>highway</name>
+      <h>221</h>
+      <object_id>1047342</object_id>
+      <w>372</w>
+      <y>153</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>crosswalk</name>
+      <h>19</h>
+      <object_id>1047348</object_id>
+      <w>63</w>
+      <y>326</y>
+      <x>353</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>150</h>
+      <object_id>1047349</object_id>
+      <w>111</w>
+      <y>225</y>
+      <x>319</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Busy road in the middle of a very large scale city.</caption>
+      <caption>A busy freeway with several cars and a bridge crossing over it.</caption>
+      <caption>A city highway that is almost full of traffic.</caption>
+      <caption>some cars a road a bridge buildings and trees</caption>
+      <caption>a highway full of traffic outside a city </caption>
+    </captions>
+</image>

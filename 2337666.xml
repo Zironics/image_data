@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337666</image-id>
+  <coco-id>469495</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4075014</relationship_id>
+      <predicate>crossing</predicate>
+      <subject>2012798</subject>
+      <object>2012799</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075015</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2131587</subject>
+      <object>3706428</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lady</name>
+      <h>171</h>
+      <object_id>2012798</object_id>
+      <w>87</w>
+      <y>155</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>94</h>
+      <object_id>2012799</object_id>
+      <w>75</w>
+      <y>230</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>73</h>
+      <object_id>2131587</object_id>
+      <w>75</w>
+      <y>157</y>
+      <x>340</x>
+    </object>
+    <object>
+      <name>bush</name>
+      <h>118</h>
+      <object_id>3706428</object_id>
+      <w>56</w>
+      <y>170</y>
+      <x>144</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three people are sitting on unique seats with flowers. </caption>
+      <caption>Several people sit on outdoor seats that also serve as planters for flowers while a woman stands in front of a small outdoor table.</caption>
+      <caption>People resting and having snacks in artsy chairs in front of a garden.</caption>
+      <caption>Several people are drinking beverages in an artsy outdoor sitting area. </caption>
+      <caption>Several people who are sitting in some oddly shaped chairs that have plants on the top of them.</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2393411</image-id>
+  <coco-id>382630</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1065757</relationship_id>
+      <predicate>from</predicate>
+      <subject>472639</subject>
+      <object>472640</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065758</relationship_id>
+      <predicate>has</predicate>
+      <subject>472640</subject>
+      <object>472644</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065759</relationship_id>
+      <predicate>OF</predicate>
+      <subject>472647</subject>
+      <object>472648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>stack</attribute>
+      </attributes>
+      <name>smoke</name>
+      <h>39</h>
+      <object_id>472639</object_id>
+      <w>73</w>
+      <y>92</y>
+      <x>339</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>engine</attribute>
+        <attribute>red</attribute>
+        <attribute>smokestack</attribute>
+        <attribute>steam</attribute>
+        <attribute>smoke</attribute>
+      </attributes>
+      <name>train</name>
+      <h>88</h>
+      <object_id>472640</object_id>
+      <w>262</w>
+      <y>134</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>conductors</name>
+      <h>14</h>
+      <object_id>472644</object_id>
+      <w>31</w>
+      <y>164</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>31</h>
+      <object_id>472647</object_id>
+      <w>61</w>
+      <y>193</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>59</h>
+      <object_id>472648</object_id>
+      <w>118</w>
+      <y>157</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red train's smoke is bellowing from it's engine. </caption>
+      <caption>A train rides along the tracks near the trees.</caption>
+      <caption>A large long train on a steel track.</caption>
+      <caption>A red train going down a train track with smoke blowing out of it. </caption>
+      <caption>A red train traveling down train tracks near a forest.</caption>
+    </captions>
+</image>

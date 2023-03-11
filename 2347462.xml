@@ -1,0 +1,158 @@
+<image>
+  <image-id>2347462</image-id>
+  <coco-id>385765</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2593684</relationship_id>
+      <predicate>has</predicate>
+      <subject>890657</subject>
+      <object>890656</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593685</relationship_id>
+      <predicate>on tip of</predicate>
+      <subject>890659</subject>
+      <object>890660</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593686</relationship_id>
+      <predicate>on a</predicate>
+      <subject>890653</subject>
+      <object>890662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593687</relationship_id>
+      <predicate>on a</predicate>
+      <subject>890660</subject>
+      <object>890662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593688</relationship_id>
+      <predicate>on a</predicate>
+      <subject>890660</subject>
+      <object>890662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593689</relationship_id>
+      <predicate>on a</predicate>
+      <subject>890660</subject>
+      <object>890662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593690</relationship_id>
+      <predicate>on a</predicate>
+      <subject>890655</subject>
+      <object>890662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593691</relationship_id>
+      <predicate>on a</predicate>
+      <subject>890655</subject>
+      <object>890662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593692</relationship_id>
+      <predicate>on a</predicate>
+      <subject>890655</subject>
+      <object>890662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2593693</relationship_id>
+      <predicate>in a</predicate>
+      <subject>890666</subject>
+      <object>890655</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>overcast</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>321</h>
+      <object_id>890657</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <h>200</h>
+      <object_id>890656</object_id>
+      <w>500</w>
+      <y>129</y>
+      <x>0</x>
+      <name>cloud</name>
+    </object>
+    <object>
+      <name>flower</name>
+      <h>19</h>
+      <object_id>890659</object_id>
+      <w>12</w>
+      <y>183</y>
+      <x>442</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>40</h>
+      <object_id>890660</object_id>
+      <w>45</w>
+      <y>202</y>
+      <x>407</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>not riped</attribute>
+        <attribute>green</attribute>
+        <attribute>unripened</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>67</h>
+      <object_id>890653</object_id>
+      <w>26</w>
+      <y>64</y>
+      <x>394</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>328</h>
+      <object_id>890662</object_id>
+      <w>426</w>
+      <y>0</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light green</attribute>
+        <attribute>broad</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>140</h>
+      <object_id>890655</object_id>
+      <w>115</w>
+      <y>3</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>tear</name>
+      <h>31</h>
+      <object_id>890666</object_id>
+      <w>24</w>
+      <y>73</y>
+      <x>269</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a tree with bananas on it below a bright blue sky</caption>
+      <caption>Several bunches of green banana hanging in a tree.</caption>
+      <caption>The tree is full of bananas on this cloudy day.</caption>
+      <caption>A closeup image of bunches of bananas that are still green and not ripe.</caption>
+      <caption>an image of a banana tree on the vine</caption>
+    </captions>
+</image>

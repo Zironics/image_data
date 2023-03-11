@@ -1,0 +1,200 @@
+<image>
+  <image-id>2403528</image-id>
+  <coco-id>572441</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3259361</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1123963</subject>
+      <object>1123965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259362</relationship_id>
+      <predicate>has</predicate>
+      <subject>1123967</subject>
+      <object>1123968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259363</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1123970</subject>
+      <object>1123971</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259364</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1123969</subject>
+      <object>1123967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259365</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1123963</subject>
+      <object>1123965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259366</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1123965</subject>
+      <object>1123972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259367</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1123972</subject>
+      <object>1123971</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259368</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1123964</subject>
+      <object>1123972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259369</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1123970</subject>
+      <object>1123971</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259370</relationship_id>
+      <predicate>has</predicate>
+      <subject>1123967</subject>
+      <object>1123968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259371</relationship_id>
+      <predicate>has</predicate>
+      <subject>1123967</subject>
+      <object>1123968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259372</relationship_id>
+      <predicate>has</predicate>
+      <subject>1123967</subject>
+      <object>1123968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3259373</relationship_id>
+      <predicate>sits on top of</predicate>
+      <subject>1123972</subject>
+      <object>1123971</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>garnish</attribute>
+      </attributes>
+      <name>lemon wedge</name>
+      <h>89</h>
+      <object_id>1123963</object_id>
+      <w>94</w>
+      <y>131</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>lettuce</name>
+      <h>133</h>
+      <object_id>1123965</object_id>
+      <w>170</w>
+      <y>115</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>167</h>
+      <object_id>1123967</object_id>
+      <w>187</w>
+      <y>60</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>clam chowder</attribute>
+      </attributes>
+      <name>soup</name>
+      <h>83</h>
+      <object_id>1123968</object_id>
+      <w>159</w>
+      <y>76</y>
+      <x>267</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>customer drink</attribute>
+      </attributes>
+      <name>glass</name>
+      <h>101</h>
+      <object_id>1123970</object_id>
+      <w>54</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>330</h>
+      <object_id>1123971</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>submerged</attribute>
+      </attributes>
+      <name>spoon</name>
+      <h>100</h>
+      <object_id>1123969</object_id>
+      <w>89</w>
+      <y>10</y>
+      <x>400</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>198</h>
+      <object_id>1123972</object_id>
+      <w>439</w>
+      <y>77</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>filled</attribute>
+        <attribute>large</attribute>
+        <attribute>chunky</attribute>
+        <attribute>lobster</attribute>
+      </attributes>
+      <name>lobster sandwich</name>
+      <h>160</h>
+      <object_id>1123964</object_id>
+      <w>229</w>
+      <y>95</y>
+      <x>78</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of a plate of food on the table.</caption>
+      <caption>A white plate topped with a sandwich and a bowl of soup.</caption>
+      <caption>Sandwich and soup sitting on a white plate with oyster crackers nearby.</caption>
+      <caption>a plate with a sandwich on a wooden table</caption>
+      <caption>The lobster sandwich and clam chowder soup is displayed on the white plate  atop the counter.</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>2349377</image-id>
+  <coco-id>503715</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2526026</relationship_id>
+      <predicate>hug</predicate>
+      <subject>875213</subject>
+      <object>875217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2526027</relationship_id>
+      <predicate>behind</predicate>
+      <subject>875213</subject>
+      <object>875220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2526028</relationship_id>
+      <predicate>has</predicate>
+      <subject>875213</subject>
+      <object>875221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2526029</relationship_id>
+      <predicate>has</predicate>
+      <subject>875213</subject>
+      <object>875221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4415190</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>875217</subject>
+      <object>3903418</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>black</attribute>
+        <attribute>large</attribute>
+        <attribute>long</attribute>
+        <attribute>covered</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>273</h>
+      <object_id>875213</object_id>
+      <w>310</w>
+      <y>73</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>log</name>
+      <h>259</h>
+      <object_id>875217</object_id>
+      <w>259</w>
+      <y>217</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>54</h>
+      <object_id>875220</object_id>
+      <w>73</w>
+      <y>19</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>28</h>
+      <object_id>875221</object_id>
+      <w>33</w>
+      <y>177</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>384</h>
+      <object_id>3903418</object_id>
+      <w>320</w>
+      <y>113</y>
+      <x>42</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A grizzle bear with its paw on a large wood log.</caption>
+      <caption>A brown bear holds on to a log.</caption>
+      <caption>a close up of a bear near a tree trunk</caption>
+      <caption>A bear is clinging to a log in the grass.</caption>
+      <caption>A brown bear leaned up against a large log.</caption>
+    </captions>
+</image>

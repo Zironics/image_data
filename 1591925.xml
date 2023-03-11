@@ -1,0 +1,150 @@
+<image>
+  <image-id>1591925</image-id>
+  <coco-id>246855</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4661723</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4249496</subject>
+      <object>4249497</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661736</relationship_id>
+      <predicate>and yellow train</predicate>
+      <subject>4249524</subject>
+      <object>4249525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661737</relationship_id>
+      <predicate>and red passenger</predicate>
+      <subject>4249526</subject>
+      <object>4249527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661738</relationship_id>
+      <predicate>dull</predicate>
+      <subject>4249528</subject>
+      <object>4249529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661740</relationship_id>
+      <predicate>dull metal</predicate>
+      <subject>4249532</subject>
+      <object>4249533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661743</relationship_id>
+      <predicate>dull</predicate>
+      <subject>4249538</subject>
+      <object>4249539</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>115</h>
+      <object_id>4249496</object_id>
+      <w>78</w>
+      <y>354</y>
+      <x>864</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>train</attribute>
+      </attributes>
+      <name>platform</name>
+      <h>253</h>
+      <object_id>4249497</object_id>
+      <w>122</w>
+      <y>380</y>
+      <x>871</x>
+    </object>
+    <object>
+      <name>red</name>
+      <h>35</h>
+      <object_id>4249524</object_id>
+      <w>61</w>
+      <y>359</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>225</h>
+      <object_id>4249525</object_id>
+      <w>206</w>
+      <y>303</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>white</name>
+      <h>24</h>
+      <object_id>4249526</object_id>
+      <w>81</w>
+      <y>417</y>
+      <x>520</x>
+    </object>
+    <object>
+      <name>train cars</name>
+      <h>130</h>
+      <object_id>4249527</object_id>
+      <w>271</w>
+      <y>316</y>
+      <x>490</x>
+    </object>
+    <object>
+      <name>gray</name>
+      <h>59</h>
+      <object_id>4249528</object_id>
+      <w>46</w>
+      <y>465</y>
+      <x>922</x>
+    </object>
+    <object>
+      <name>metal tracks</name>
+      <h>53</h>
+      <object_id>4249529</object_id>
+      <w>161</w>
+      <y>552</y>
+      <x>581</x>
+    </object>
+    <object>
+      <name>gray</name>
+      <h>37</h>
+      <object_id>4249532</object_id>
+      <w>55</w>
+      <y>487</y>
+      <x>931</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>40</h>
+      <object_id>4249533</object_id>
+      <w>87</w>
+      <y>567</y>
+      <x>531</x>
+    </object>
+    <object>
+      <name>gray</name>
+      <h>50</h>
+      <object_id>4249538</object_id>
+      <w>59</w>
+      <y>471</y>
+      <x>920</x>
+    </object>
+    <object>
+      <name>metal tracks</name>
+      <h>65</h>
+      <object_id>4249539</object_id>
+      <w>68</w>
+      <y>472</y>
+      <x>769</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a red and yellow enging pulling a passenger train</caption>
+      <caption>Two trains are on the tracks in a train station.</caption>
+      <caption>Two trains on the train tracks under a deck.</caption>
+      <caption>A picture of two trains on railroad tracks with a crowd in the distance. </caption>
+      <caption>Trains are in the terminal ready for passengers to board.</caption>
+    </captions>
+</image>

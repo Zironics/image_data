@@ -1,0 +1,59 @@
+<image>
+  <image-id>2339783</image-id>
+  <coco-id>82904</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4040443</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2286426</subject>
+      <object>2286427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4040444</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3138916</subject>
+      <object>3138918</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>48</h>
+      <object_id>2286426</object_id>
+      <w>45</w>
+      <y>55</y>
+      <x>432</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>190</h>
+      <object_id>2286427</object_id>
+      <w>262</w>
+      <y>38</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>76</h>
+      <object_id>3138916</object_id>
+      <w>126</w>
+      <y>160</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>carriage</name>
+      <h>90</h>
+      <object_id>3138918</object_id>
+      <w>101</w>
+      <y>142</y>
+      <x>397</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two horse-drawn carriages in a plaza at night.</caption>
+      <caption>A horse carriage standing outside of a regal building.</caption>
+      <caption>The horse drawn carriage walks near huge buildings.</caption>
+      <caption>Two horses pulling waggons while standing in the middle of the street. </caption>
+      <caption>A horse drawn carriage on a city street.</caption>
+    </captions>
+</image>

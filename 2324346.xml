@@ -1,0 +1,84 @@
+<image>
+  <image-id>2324346</image-id>
+  <coco-id>21181</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4525522</relationship_id>
+      <predicate>to left of</predicate>
+      <subject>3296701</subject>
+      <object>3296702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3644331</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3260579</subject>
+      <object>3260580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4525524</relationship_id>
+      <predicate>inside</predicate>
+      <subject>3370980</subject>
+      <object>3370981</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>girl</name>
+      <h>194</h>
+      <object_id>3296701</object_id>
+      <w>167</w>
+      <y>180</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>277</h>
+      <object_id>3296702</object_id>
+      <w>148</w>
+      <y>83</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>285</h>
+      <object_id>3260579</object_id>
+      <w>312</w>
+      <y>89</y>
+      <x>114</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+      </attributes>
+      <name>scarf</name>
+      <h>86</h>
+      <object_id>3260580</object_id>
+      <w>168</w>
+      <y>287</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>toothbrush</name>
+      <h>97</h>
+      <object_id>3370980</object_id>
+      <w>70</w>
+      <y>191</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>44</h>
+      <object_id>3370981</object_id>
+      <w>80</w>
+      <y>175</y>
+      <x>353</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of girls brushing their teeth and posing for a picture.</caption>
+      <caption>Three young girls brushing their perfect white teeth.</caption>
+      <caption>Three girls laughing while they are all brushing their teeth</caption>
+      <caption>Three women standing next to each other with toothbrushes in their mouths.</caption>
+      <caption>Three girls with toothbrushes hanging out of their mouths. </caption>
+    </captions>
+</image>

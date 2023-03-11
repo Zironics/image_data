@@ -1,0 +1,91 @@
+<image>
+  <image-id>2334806</image-id>
+  <coco-id>285647</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4452668</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2198029</subject>
+      <object>3674229</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3994186</relationship_id>
+      <predicate>has</predicate>
+      <subject>3674229</subject>
+      <object>3475221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3994187</relationship_id>
+      <predicate>has</predicate>
+      <subject>3674229</subject>
+      <object>2105569</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3994188</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3674230</subject>
+      <object>2495379</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>nose</name>
+      <h>31</h>
+      <object_id>2198029</object_id>
+      <w>34</w>
+      <y>234</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>278</h>
+      <object_id>3674229</object_id>
+      <w>285</w>
+      <y>220</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>12</h>
+      <object_id>3475221</object_id>
+      <w>19</w>
+      <y>246</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>57</h>
+      <object_id>2105569</object_id>
+      <w>113</w>
+      <y>251</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>12</h>
+      <object_id>3674230</object_id>
+      <w>13</w>
+      <y>376</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>concrete</name>
+      <h>149</h>
+      <object_id>2495379</object_id>
+      <w>208</w>
+      <y>349</y>
+      <x>163</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A shaggy dog sticks its head out of a moving car.</caption>
+      <caption>Photograph of an outdoor arena that looks neat.
+</caption>
+      <caption>a dog riding in a car looking out the window</caption>
+      <caption>A brown dog hanging it's head out of a car door window.</caption>
+      <caption>A dog that is sticking its head out the window.</caption>
+    </captions>
+</image>

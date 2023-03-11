@@ -1,0 +1,45 @@
+<image>
+  <image-id>2342219</image-id>
+  <coco-id>54967</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2760003</relationship_id>
+      <predicate>ON</predicate>
+      <subject>935980</subject>
+      <object>935988</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>body</attribute>
+        <attribute>driving</attribute>
+        <attribute>parked</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>car</name>
+      <h>51</h>
+      <object_id>935980</object_id>
+      <w>58</w>
+      <y>329</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>138</h>
+      <object_id>935988</object_id>
+      <w>191</w>
+      <y>360</y>
+      <x>23</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A city street with cars and street lights.</caption>
+      <caption>A view down a street of a couple of buildings and a couple of cars.</caption>
+      <caption>There are cars on the street in the distance.</caption>
+      <caption>a couple of cars are driving down a city street</caption>
+      <caption>A city road with cars, truck and traffic lights</caption>
+    </captions>
+</image>

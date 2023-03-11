@@ -1,0 +1,87 @@
+<image>
+  <image-id>2340876</image-id>
+  <coco-id>537002</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4640931</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4196666</subject>
+      <object>4196667</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4672976</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4277866</subject>
+      <object>4277867</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4707759</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>4362906</subject>
+      <object>4362907</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>429</h>
+      <object_id>4196666</object_id>
+      <w>273</w>
+      <y>68</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>top hat</name>
+      <h>154</h>
+      <object_id>4196667</object_id>
+      <w>263</w>
+      <y>36</y>
+      <x>24</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letters</name>
+      <h>18</h>
+      <object_id>4277866</object_id>
+      <w>50</w>
+      <y>324</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>214</h>
+      <object_id>4277867</object_id>
+      <w>284</w>
+      <y>282</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>glasses</name>
+      <h>53</h>
+      <object_id>4362906</object_id>
+      <w>123</w>
+      <y>164</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>244</h>
+      <object_id>4362907</object_id>
+      <w>144</w>
+      <y>103</y>
+      <x>107</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man with a painted face and clock on his hat.</caption>
+      <caption>The colorfully dressed reveler has his face painted.</caption>
+      <caption>A man has his face made like a technicolor clown.</caption>
+      <caption>A man with a hat and colorful face paint.</caption>
+      <caption>A man with face paint and a weird costume.</caption>
+    </captions>
+</image>

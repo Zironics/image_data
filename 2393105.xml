@@ -1,0 +1,101 @@
+<image>
+  <image-id>2393105</image-id>
+  <coco-id>530925</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4580470</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4049068</subject>
+      <object>4049069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580472</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4049074</subject>
+      <object>4049075</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580475</relationship_id>
+      <predicate>on hand of</predicate>
+      <subject>4049090</subject>
+      <object>4049069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580476</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>4049093</subject>
+      <object>4049094</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cap</name>
+      <h>27</h>
+      <object_id>4049068</object_id>
+      <w>39</w>
+      <y>95</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>208</h>
+      <object_id>4049069</object_id>
+      <w>143</w>
+      <y>80</y>
+      <x>266</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>symbol</name>
+      <h>40</h>
+      <object_id>4049074</object_id>
+      <w>45</w>
+      <y>91</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>cap</name>
+      <h>16</h>
+      <object_id>4049075</object_id>
+      <w>10</w>
+      <y>102</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>glove</name>
+      <h>37</h>
+      <object_id>4049090</object_id>
+      <w>30</w>
+      <y>76</y>
+      <x>405</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>jersey</name>
+      <h>37</h>
+      <object_id>4049093</object_id>
+      <w>40</w>
+      <y>109</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>player</name>
+      <h>80</h>
+      <object_id>4049094</object_id>
+      <w>81</w>
+      <y>107</y>
+      <x>54</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball pitcher throwing a baseball during a game.</caption>
+      <caption>A baseball pitcher in a red uniform has just let one fly.</caption>
+      <caption>A baseball player throwing out a pitch on the field.</caption>
+      <caption>A baseball player follows through after making a pitch.</caption>
+      <caption>The boy is throwing a baseball to play a game.</caption>
+    </captions>
+</image>

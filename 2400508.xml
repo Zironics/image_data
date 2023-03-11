@@ -1,0 +1,194 @@
+<image>
+  <image-id>2400508</image-id>
+  <coco-id>577959</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>856440</relationship_id>
+      <predicate>IN</predicate>
+      <subject>408297</subject>
+      <object>408296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856441</relationship_id>
+      <predicate>has</predicate>
+      <subject>408297</subject>
+      <object>408297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856442</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>408298</subject>
+      <object>408299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856443</relationship_id>
+      <predicate>has</predicate>
+      <subject>408298</subject>
+      <object>408300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856444</relationship_id>
+      <predicate>has</predicate>
+      <subject>408298</subject>
+      <object>408301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856445</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>408302</subject>
+      <object>408299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856446</relationship_id>
+      <predicate>has</predicate>
+      <subject>408298</subject>
+      <object>408303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856447</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>408298</subject>
+      <object>408299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856448</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>408298</subject>
+      <object>408297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856449</relationship_id>
+      <predicate>higher than</predicate>
+      <subject>408297</subject>
+      <object>408297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856450</relationship_id>
+      <predicate>above</predicate>
+      <subject>408297</subject>
+      <object>408302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856451</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>408298</subject>
+      <object>408296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856452</relationship_id>
+      <predicate>IN</predicate>
+      <subject>408302</subject>
+      <object>408299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856453</relationship_id>
+      <predicate>ON</predicate>
+      <subject>408302</subject>
+      <object>408299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>856454</relationship_id>
+      <predicate>running through</predicate>
+      <subject>408302</subject>
+      <object>408299</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>curved</attribute>
+        <attribute>long</attribute>
+        <attribute>forming c</attribute>
+      </attributes>
+      <h>91</h>
+      <object_id>408297</object_id>
+      <w>72</w>
+      <y>54</y>
+      <x>296</x>
+      <name>streamer</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>167</h>
+      <object_id>408296</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>wearing clothes</attribute>
+        <attribute>wearing all black</attribute>
+        <attribute>tiny</attribute>
+        <attribute>black attired</attribute>
+      </attributes>
+      <name>man</name>
+      <h>29</h>
+      <object_id>408298</object_id>
+      <w>16</w>
+      <y>215</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sandy</attribute>
+        <attribute>flat</attribute>
+        <attribute>spotted</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>167</h>
+      <object_id>408299</object_id>
+      <w>498</w>
+      <y>165</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>6</h>
+      <object_id>408300</object_id>
+      <w>8</w>
+      <y>215</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>16</h>
+      <object_id>408301</object_id>
+      <w>9</w>
+      <y>229</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shallow</attribute>
+      </attributes>
+      <name>stream</name>
+      <h>53</h>
+      <object_id>408302</object_id>
+      <w>322</w>
+      <y>226</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>9</h>
+      <object_id>408303</object_id>
+      <w>9</w>
+      <y>221</y>
+      <x>159</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>An old man is flying his kite in the middle of no where.</caption>
+      <caption>an image of a man walking on the sand</caption>
+      <caption>A person flying a kite in sandy, watery area.</caption>
+      <caption>A person flying a kite on wet sand.</caption>
+      <caption>A man flying a kite at the beach near the ocean</caption>
+    </captions>
+</image>

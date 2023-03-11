@@ -1,0 +1,93 @@
+<image>
+  <image-id>2327079</image-id>
+  <coco-id>526414</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2931954</relationship_id>
+      <predicate>ON</predicate>
+      <subject>981159</subject>
+      <object>981160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2931955</relationship_id>
+      <predicate>ON</predicate>
+      <subject>981165</subject>
+      <object>981166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2931956</relationship_id>
+      <predicate>ON</predicate>
+      <subject>981176</subject>
+      <object>981177</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>iron</name>
+      <h>23</h>
+      <object_id>981159</object_id>
+      <w>31</w>
+      <y>185</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>85</h>
+      <object_id>981160</object_id>
+      <w>77</w>
+      <y>184</y>
+      <x>316</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sewing</attribute>
+      </attributes>
+      <name>machine</name>
+      <h>84</h>
+      <object_id>981165</object_id>
+      <w>169</w>
+      <y>247</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>table</name>
+      <h>19</h>
+      <object_id>981166</object_id>
+      <w>28</w>
+      <y>279</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>artwork</name>
+      <h>108</h>
+      <object_id>981176</object_id>
+      <w>85</w>
+      <y>60</y>
+      <x>384</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>153</h>
+      <object_id>981177</object_id>
+      <w>143</w>
+      <y>43</y>
+      <x>340</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An upstairs living room is decorated nicely and holds a sewing machine.</caption>
+      <caption>A sewing machine on a table in a cluttered living room.</caption>
+      <caption>The living has a table where someone can do sewing on. </caption>
+      <caption>A family room with sofa, television, sewing area, and book shelves.</caption>
+      <caption>A living room with a sewing machine during a sunny day.</caption>
+    </captions>
+</image>

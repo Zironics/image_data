@@ -1,0 +1,67 @@
+<image>
+  <image-id>2369650</image-id>
+  <coco-id>109444</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4333772</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>610185</subject>
+      <object>3862382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4333773</relationship_id>
+      <predicate>with</predicate>
+      <subject>610193</subject>
+      <object>3862383</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plant</name>
+      <h>167</h>
+      <object_id>610185</object_id>
+      <w>147</w>
+      <y>305</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>373</h>
+      <object_id>3862382</object_id>
+      <w>250</w>
+      <y>125</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>held</attribute>
+        <attribute>named</attribute>
+        <attribute>colored</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>184</h>
+      <object_id>610193</object_id>
+      <w>147</w>
+      <y>36</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>grip</name>
+      <h>53</h>
+      <object_id>3862383</object_id>
+      <w>43</w>
+      <y>167</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holding a tennis racket lifting his arms up.</caption>
+      <caption>A man holding his hands up into the air.</caption>
+      <caption>a man is holding a tennis racket in the air</caption>
+      <caption>A man celebrating with a tennis racket, at a game.</caption>
+      <caption>A man holding a tennis racket raising his arms up in the air while two women clap. </caption>
+    </captions>
+</image>

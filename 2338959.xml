@@ -1,0 +1,85 @@
+<image>
+  <image-id>2338959</image-id>
+  <coco-id>477655</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4055104</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2660305</subject>
+      <object>2660306</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055107</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3698855</subject>
+      <object>2856019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055108</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2429591</subject>
+      <object>2429592</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>face</name>
+      <h>50</h>
+      <object_id>2660305</object_id>
+      <w>43</w>
+      <y>65</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>270</h>
+      <object_id>2660306</object_id>
+      <w>217</w>
+      <y>45</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>shoes</name>
+      <h>26</h>
+      <object_id>3698855</object_id>
+      <w>148</w>
+      <y>281</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>281</h>
+      <object_id>2856019</object_id>
+      <w>155</w>
+      <y>39</y>
+      <x>267</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>96</h>
+      <object_id>2429591</object_id>
+      <w>109</w>
+      <y>51</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>285</h>
+      <object_id>2429592</object_id>
+      <w>144</w>
+      <y>10</y>
+      <x>167</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of young men kicking around a soccer ball.</caption>
+      <caption>A couple of kids that are playing with a soccer ball.</caption>
+      <caption>Two kids working to get the soccer ball from each other.</caption>
+      <caption>THERE ARE CHILDREN THAT ARE PLAYING A SOCCER GAME</caption>
+      <caption>there are many young men on the field playing soccer</caption>
+    </captions>
+</image>

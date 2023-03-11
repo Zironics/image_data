@@ -1,0 +1,148 @@
+<image>
+  <image-id>2360723</image-id>
+  <coco-id>78032</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4199215</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>1839896</subject>
+      <object>3759507</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4199216</relationship_id>
+      <predicate>bordering</predicate>
+      <subject>1985174</subject>
+      <object>3759507</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4199217</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>2135069</subject>
+      <object>3759507</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4199218</relationship_id>
+      <predicate>standing underneath</predicate>
+      <subject>2057152</subject>
+      <object>1674224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4199219</relationship_id>
+      <predicate>hanging in</predicate>
+      <subject>2116382</subject>
+      <object>1674224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4199220</relationship_id>
+      <predicate>hanging in</predicate>
+      <subject>2016288</subject>
+      <object>1674224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4199221</relationship_id>
+      <predicate>hanging in</predicate>
+      <subject>3759510</subject>
+      <object>1674224</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>64</h>
+      <object_id>1839896</object_id>
+      <w>98</w>
+      <y>197</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>150</h>
+      <object_id>3759507</object_id>
+      <w>480</w>
+      <y>147</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>railing</name>
+      <h>57</h>
+      <object_id>1985174</object_id>
+      <w>184</w>
+      <y>144</y>
+      <x>195</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>61</h>
+      <object_id>2135069</object_id>
+      <w>8</w>
+      <y>106</y>
+      <x>67</x>
+      <name>lamp</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>35</h>
+      <object_id>2057152</object_id>
+      <w>74</w>
+      <y>90</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>104</h>
+      <object_id>1674224</object_id>
+      <w>494</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>52</h>
+      <object_id>2116382</object_id>
+      <w>115</w>
+      <y>6</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>47</h>
+      <object_id>2016288</object_id>
+      <w>112</w>
+      <y>14</y>
+      <x>206</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>20</h>
+      <object_id>3759510</object_id>
+      <w>53</w>
+      <y>61</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Benches on a paved deck overlooking a waterway</caption>
+      <caption>A picture of some type of park with benches and no people around.</caption>
+      <caption>There are two metal benches on the patio.</caption>
+      <caption>a couple of park benches on some concrete</caption>
+      <caption>Two bench's sitting on the ground near a fence.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2326343</image-id>
+  <coco-id>90225</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3653109</relationship_id>
+      <predicate>has a green</predicate>
+      <subject>2810897</subject>
+      <object>2810903</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>spine</name>
+      <h>190</h>
+      <object_id>2810897</object_id>
+      <w>74</w>
+      <y>0</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>leaf</name>
+      <h>145</h>
+      <object_id>2810903</object_id>
+      <w>95</w>
+      <y>293</y>
+      <x>237</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plant with green leaves and a cluster of little green flowers.</caption>
+      <caption>Closeup of a stem of broccoli with the leaves still attached.</caption>
+      <caption>a close up of a broccoli plant with leaves around it</caption>
+      <caption>A young tender plant of broccoli with a bit of morning dew on it.</caption>
+      <caption>A close up picture of a green plant blooming.</caption>
+    </captions>
+</image>

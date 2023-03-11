@@ -1,0 +1,37 @@
+<image>
+  <image-id>2331207</image-id>
+  <coco-id>441072</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4465257</relationship_id>
+      <predicate>to</predicate>
+      <subject>3493211</subject>
+      <object>3493212</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>board</name>
+      <h>15</h>
+      <object_id>3493211</object_id>
+      <w>16</w>
+      <y>16</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>197</h>
+      <object_id>3493212</object_id>
+      <w>492</w>
+      <y>1</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A hospital room filled with lots of beds.</caption>
+      <caption>Empty beds and medical equipment in a hospital</caption>
+      <caption>A blue and white hospital room with three beds.</caption>
+      <caption>Looking inside a hospital room with three beds.</caption>
+      <caption>There are three hospital beds in a hospital room.</caption>
+    </captions>
+</image>

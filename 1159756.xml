@@ -1,0 +1,40 @@
+<image>
+  <image-id>1159756</image-id>
+  <coco-id>321938</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4632310</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4175842</subject>
+      <object>4175843</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>toothpick</name>
+      <h>71</h>
+      <object_id>4175842</object_id>
+      <w>16</w>
+      <y>610</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>128</h>
+      <object_id>4175843</object_id>
+      <w>149</w>
+      <y>681</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A counter is laden with many types of foods. </caption>
+      <caption>A plate filled with hamburgers and bowls full of pasta.</caption>
+      <caption>A table filled with plates of assorted foods buffet style.</caption>
+      <caption>A lot of foot on plates in a kitchen.</caption>
+      <caption>A counter is piled up with pasta and sandwiches.</caption>
+    </captions>
+</image>

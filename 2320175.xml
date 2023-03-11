@@ -1,0 +1,57 @@
+<image>
+  <image-id>2320175</image-id>
+  <coco-id>570023</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2971104</relationship_id>
+      <predicate>ON</predicate>
+      <subject>995429</subject>
+      <object>995431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2971105</relationship_id>
+      <predicate>ON</predicate>
+      <subject>995429</subject>
+      <object>995431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2971106</relationship_id>
+      <predicate>under</predicate>
+      <subject>995431</subject>
+      <object>995429</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>train</name>
+      <h>87</h>
+      <object_id>995429</object_id>
+      <w>101</w>
+      <y>320</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>track</name>
+      <h>37</h>
+      <object_id>995431</object_id>
+      <w>47</w>
+      <y>446</y>
+      <x>258</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A long passenger train pulling out of a beautiful train station.</caption>
+      <caption>A train stating with a train parked on the tracks.</caption>
+      <caption>A train passes under a metal, and glass structure.</caption>
+      <caption>Red train car passing underneath an artistic overhang. </caption>
+      <caption>Train on train track coming toward the camera.</caption>
+    </captions>
+</image>

@@ -1,0 +1,110 @@
+<image>
+  <image-id>2321274</image-id>
+  <coco-id>328900</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4539915</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2960347</subject>
+      <object>3962229</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539916</relationship_id>
+      <predicate>used by</predicate>
+      <subject>2960347</subject>
+      <object>2933979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539917</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3962233</subject>
+      <object>3351822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3847985</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3116545</subject>
+      <object>3116546</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>84</h>
+      <object_id>2960347</object_id>
+      <w>39</w>
+      <y>131</y>
+      <x>75</x>
+      <name>cell phone</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>girl's</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>80</h>
+      <object_id>3962229</object_id>
+      <w>80</w>
+      <y>163</y>
+      <x>35</x>
+    </object>
+    <object>
+      <h>332</h>
+      <object_id>2933979</object_id>
+      <w>288</w>
+      <y>12</y>
+      <x>27</x>
+      <name>girl</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hair</attribute>
+      </attributes>
+      <name>head</name>
+      <h>197</h>
+      <object_id>3962233</object_id>
+      <w>195</w>
+      <y>26</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>117</h>
+      <object_id>3351822</object_id>
+      <w>69</w>
+      <y>85</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>palm</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>103</h>
+      <object_id>3116545</object_id>
+      <w>43</w>
+      <y>39</y>
+      <x>395</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>area</attribute>
+      </attributes>
+      <name>parking</name>
+      <h>40</h>
+      <object_id>3116546</object_id>
+      <w>145</w>
+      <y>132</y>
+      <x>310</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman talking on a cell phone while standing in a  street.</caption>
+      <caption>A woman on an urban street lined with palm trees takes a phone call.</caption>
+      <caption>A woman holding a cell phone in her hand up to her ear.</caption>
+      <caption>A young woman is on the phone outside a building with palm trees.</caption>
+      <caption>A woman talking on her phone on an empty sidewalk.</caption>
+    </captions>
+</image>

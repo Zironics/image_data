@@ -1,0 +1,96 @@
+<image>
+  <image-id>2390903</image-id>
+  <coco-id>56127</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3454339</relationship_id>
+      <predicate>with</predicate>
+      <subject>1246110</subject>
+      <object>1246111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3454340</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1246093</subject>
+      <object>1246092</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3454341</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1246097</subject>
+      <object>1246112</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shelf</name>
+      <h>26</h>
+      <object_id>1246110</object_id>
+      <w>72</w>
+      <y>176</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>packages</name>
+      <h>7</h>
+      <object_id>1246111</object_id>
+      <w>34</w>
+      <y>198</y>
+      <x>46</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>extinguisher</name>
+      <h>76</h>
+      <object_id>1246093</object_id>
+      <w>29</w>
+      <y>210</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>green</attribute>
+        <attribute>painted</attribute>
+        <attribute>present</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>98</h>
+      <object_id>1246092</object_id>
+      <w>40</w>
+      <y>92</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+        <attribute>round</attribute>
+        <attribute>fixture</attribute>
+      </attributes>
+      <name>light</name>
+      <h>70</h>
+      <object_id>1246097</object_id>
+      <w>98</w>
+      <y>63</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>128</h>
+      <object_id>1246112</object_id>
+      <w>178</w>
+      <y>21</y>
+      <x>135</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Fish eye angle view of small kitchen with fire extinguisher at far end.</caption>
+      <caption>A picture of a restaurant interior is taken through a fish-eye lens.</caption>
+      <caption>a long brown and white room with a kitchen</caption>
+      <caption>A room with a fire extinguisher, mugs hanging from a shelf and several lights. </caption>
+      <caption>A room that has a fire extinguisher in it.</caption>
+    </captions>
+</image>

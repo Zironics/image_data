@@ -1,0 +1,87 @@
+<image>
+  <image-id>2339407</image-id>
+  <coco-id>501493</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4547953</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3971231</subject>
+      <object>3971232</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4794559</relationship_id>
+      <predicate>with</predicate>
+      <subject>4584878</subject>
+      <object>4584871</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4794560</relationship_id>
+      <predicate>with</predicate>
+      <subject>4584874</subject>
+      <object>4584875</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rowing team</name>
+      <h>113</h>
+      <object_id>3971231</object_id>
+      <w>388</w>
+      <y>22</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>57</h>
+      <object_id>3971232</object_id>
+      <w>346</w>
+      <y>136</y>
+      <x>46</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange shirt</attribute>
+      </attributes>
+      <h>88</h>
+      <object_id>4584878</object_id>
+      <w>51</w>
+      <y>30</y>
+      <x>131</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>clothes</name>
+      <h>51</h>
+      <object_id>4584871</object_id>
+      <w>61</w>
+      <y>35</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>81</h>
+      <object_id>4584874</object_id>
+      <w>300</w>
+      <y>30</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>paddles</name>
+      <h>43</h>
+      <object_id>4584875</object_id>
+      <w>285</w>
+      <y>99</y>
+      <x>173</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Lots of people are in a long boat paddling down a river.</caption>
+      <caption>A team of rowers are competing on a boat.</caption>
+      <caption>a group of people on a paddle boat in the water </caption>
+      <caption>A long boat is filled with people wearing life jackets holding paddles.</caption>
+      <caption>A Dragon Boat crew in orange tee shirts paddle for all they are worth.</caption>
+    </captions>
+</image>

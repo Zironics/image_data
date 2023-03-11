@@ -1,0 +1,71 @@
+<image>
+  <image-id>2391187</image-id>
+  <coco-id>56049</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3451071</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1242991</subject>
+      <object>1242992</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3451072</relationship_id>
+      <predicate>for</predicate>
+      <subject>1243003</subject>
+      <object>1242998</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>here</attribute>
+        <attribute>grazing</attribute>
+        <attribute>behind</attribute>
+      </attributes>
+      <name>horses</name>
+      <h>61</h>
+      <object_id>1242991</object_id>
+      <w>152</w>
+      <y>249</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>130</h>
+      <object_id>1242992</object_id>
+      <w>285</w>
+      <y>195</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>trailer</name>
+      <h>29</h>
+      <object_id>1243003</object_id>
+      <w>38</w>
+      <y>156</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>grazing</attribute>
+        <attribute>standing</attribute>
+        <attribute>light</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>31</h>
+      <object_id>1242998</object_id>
+      <w>81</w>
+      <y>249</y>
+      <x>285</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two horses on a grass field behind a wire gate</caption>
+      <caption>A view of bunch of horses sitting in a field.</caption>
+      <caption>Two horses in a pasture near a some homes</caption>
+      <caption>A field has two horses who are grazing in the grass.</caption>
+      <caption>a couple of horses that are in side of a fence</caption>
+    </captions>
+</image>

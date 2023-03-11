@@ -1,0 +1,98 @@
+<image>
+  <image-id>2350267</image-id>
+  <coco-id>307438</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3800864</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3174469</subject>
+      <object>3174470</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4411183</relationship_id>
+      <predicate>driving a</predicate>
+      <subject>3174469</subject>
+      <object>1944412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3800867</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3021353</subject>
+      <object>3021354</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3800869</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2744146</subject>
+      <object>2744147</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>44</h>
+      <object_id>3174469</object_id>
+      <w>40</w>
+      <y>230</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>motorbike</name>
+      <h>56</h>
+      <object_id>3174470</object_id>
+      <w>47</w>
+      <y>267</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>50</h>
+      <object_id>1944412</object_id>
+      <w>58</w>
+      <y>270</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>26</h>
+      <object_id>3021353</object_id>
+      <w>57</w>
+      <y>291</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>106</h>
+      <object_id>3021354</object_id>
+      <w>89</w>
+      <y>219</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>14</h>
+      <object_id>2744146</object_id>
+      <w>67</w>
+      <y>137</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>43</h>
+      <object_id>2744147</object_id>
+      <w>63</w>
+      <y>137</y>
+      <x>151</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A close up of the green light on a traffic light</caption>
+      <caption>A green traffic light with traffic passing in the background.</caption>
+      <caption>A stoplight showing a green light in a city.</caption>
+      <caption>A green traffic light on a busy city street.</caption>
+      <caption>A green light on a street with cars and motorcycles.</caption>
+    </captions>
+</image>

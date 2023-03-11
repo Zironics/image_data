@@ -1,0 +1,129 @@
+<image>
+  <image-id>2369977</image-id>
+  <coco-id>521482</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4329865</relationship_id>
+      <predicate>running on</predicate>
+      <subject>2441716</subject>
+      <object>1802875</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4329866</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3860754</subject>
+      <object>2191541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4329867</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2441716</subject>
+      <object>1849351</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4329868</relationship_id>
+      <predicate>playing</predicate>
+      <subject>2441716</subject>
+      <object>2636844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4329869</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3860755</subject>
+      <object>2173832</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4329870</relationship_id>
+      <predicate>running towards</predicate>
+      <subject>2636843</subject>
+      <object>2636844</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>100</h>
+      <object_id>2441716</object_id>
+      <w>69</w>
+      <y>131</y>
+      <x>195</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>280</h>
+      <object_id>1802875</object_id>
+      <w>480</w>
+      <y>0</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>34</h>
+      <object_id>3860754</object_id>
+      <w>30</w>
+      <y>139</y>
+      <x>225</x>
+    </object>
+    <object>
+      <name>jersey</name>
+      <h>88</h>
+      <object_id>2191541</object_id>
+      <w>79</w>
+      <y>146</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+      </attributes>
+      <name>uniform</name>
+      <h>87</h>
+      <object_id>1849351</object_id>
+      <w>59</w>
+      <y>144</y>
+      <x>199</x>
+    </object>
+    <object>
+      <h>11</h>
+      <object_id>2636844</object_id>
+      <w>9</w>
+      <y>39</y>
+      <x>466</x>
+      <name>ball</name>
+    </object>
+    <object>
+      <name>glove</name>
+      <h>18</h>
+      <object_id>3860755</object_id>
+      <w>17</w>
+      <y>166</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>40</h>
+      <object_id>2173832</object_id>
+      <w>33</w>
+      <y>142</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+      </attributes>
+      <name>player</name>
+      <h>117</h>
+      <object_id>2636843</object_id>
+      <w>72</w>
+      <y>131</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player running after a ball at a baseball field. </caption>
+      <caption>A man runs in the direction of a ball on a field.</caption>
+      <caption>a baseball player preparing to field a live baseball</caption>
+      <caption>Player number 2 runs toward the ball in the infield.</caption>
+      <caption>A baseball player chasing a ball in a baseball field.</caption>
+    </captions>
+</image>

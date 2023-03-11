@@ -1,0 +1,68 @@
+<image>
+  <image-id>2338877</image-id>
+  <coco-id>575978</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4056192</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3081777</subject>
+      <object>3699257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056193</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2858488</subject>
+      <object>3699257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056194</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3699256</subject>
+      <object>3699257</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>duck</name>
+      <h>122</h>
+      <object_id>3081777</object_id>
+      <w>102</w>
+      <y>0</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>348</h>
+      <object_id>3699257</object_id>
+      <w>471</w>
+      <y>18</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>knob</name>
+      <h>62</h>
+      <object_id>2858488</object_id>
+      <w>57</w>
+      <y>22</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>knob</name>
+      <h>43</h>
+      <object_id>3699256</object_id>
+      <w>32</w>
+      <y>44</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white sink with a duck, booth paste and necklace on top of it.</caption>
+      <caption>A bathroom sink with a rubber duck, hairspray, toothpaste, and a necklace. </caption>
+      <caption>A white sink has a rubber duck in the corner.</caption>
+      <caption>A bathroom sink is surrounded by toiletries and rubber duckies. </caption>
+      <caption>A white sink that has a necklace, a rubber ducky, toothpaste and some beauty items laying around them.</caption>
+    </captions>
+</image>

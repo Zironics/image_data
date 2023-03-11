@@ -1,0 +1,153 @@
+<image>
+  <image-id>2366134</image-id>
+  <coco-id>388962</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4375237</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2084403</subject>
+      <object>2306003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375238</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2366658</subject>
+      <object>3880754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375239</relationship_id>
+      <predicate>on left side</predicate>
+      <subject>1801688</subject>
+      <object>2306003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375240</relationship_id>
+      <predicate>on left side</predicate>
+      <subject>3880755</subject>
+      <object>2306003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375241</relationship_id>
+      <predicate>on left side</predicate>
+      <subject>1801688</subject>
+      <object>2306003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375242</relationship_id>
+      <predicate>on right side</predicate>
+      <subject>2306004</subject>
+      <object>2306003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375243</relationship_id>
+      <predicate>on side</predicate>
+      <subject>1801688</subject>
+      <object>2306003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375244</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2306004</subject>
+      <object>2577784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4375245</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2659254</subject>
+      <object>2659255</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>right ear</name>
+      <h>86</h>
+      <object_id>2084403</object_id>
+      <w>82</w>
+      <y>15</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>319</h>
+      <object_id>2306003</object_id>
+      <w>427</w>
+      <y>9</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>stripes</name>
+      <h>225</h>
+      <object_id>2366658</object_id>
+      <w>109</w>
+      <y>109</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>247</h>
+      <object_id>3880754</object_id>
+      <w>148</w>
+      <y>80</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>38</h>
+      <object_id>1801688</object_id>
+      <w>32</w>
+      <y>138</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>81</h>
+      <object_id>3880755</object_id>
+      <w>67</w>
+      <y>25</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>35</h>
+      <object_id>2306004</object_id>
+      <w>17</w>
+      <y>129</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>310</h>
+      <object_id>2577784</object_id>
+      <w>189</w>
+      <y>5</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>136</h>
+      <object_id>2659254</object_id>
+      <w>99</w>
+      <y>73</y>
+      <x>399</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>205</h>
+      <object_id>2659255</object_id>
+      <w>213</w>
+      <y>0</y>
+      <x>284</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of zebra standing in a field.</caption>
+      <caption>A zebra is shown while another grazes behind it.</caption>
+      <caption>A zebra with a distinctively black mouth looking forward.</caption>
+      <caption>The zebras are standing next to each other in the field. </caption>
+      <caption>A black and white zebra looking towards the camera</caption>
+    </captions>
+</image>

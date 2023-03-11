@@ -1,0 +1,65 @@
+<image>
+  <image-id>2331198</image-id>
+  <coco-id>44336</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4645874</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4209119</subject>
+      <object>4209120</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4791231</relationship_id>
+      <predicate>on</predicate>
+      <subject>4576852</subject>
+      <object>4576853</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>head</name>
+      <h>30</h>
+      <object_id>4209119</object_id>
+      <w>31</w>
+      <y>138</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>115</h>
+      <object_id>4209120</object_id>
+      <w>122</w>
+      <y>137</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>21</h>
+      <object_id>4576852</object_id>
+      <w>60</w>
+      <y>172</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>88</h>
+      <object_id>4576853</object_id>
+      <w>109</w>
+      <y>166</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two giraffes standing next to some trees </caption>
+      <caption>two giraffes a pink sky and some bushes and trees</caption>
+      <caption>Giraffes making their way across the savanna at dusk</caption>
+      <caption>Two giraffes walk across the planes with shrubbery in the background.</caption>
+      <caption>Two giraffes walking through the bush at sunset.</caption>
+    </captions>
+</image>

@@ -1,0 +1,90 @@
+<image>
+  <image-id>2351088</image-id>
+  <coco-id>207803</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4407110</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2569451</subject>
+      <object>2186899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4407111</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2019463</subject>
+      <object>3590694</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4407112</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1669591</subject>
+      <object>3590697</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dock</name>
+      <h>35</h>
+      <object_id>2569451</object_id>
+      <w>378</w>
+      <y>295</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>calm</attribute>
+      </attributes>
+      <name>water</name>
+      <h>106</h>
+      <object_id>2186899</object_id>
+      <w>484</w>
+      <y>267</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>main mast</attribute>
+      </attributes>
+      <name>mast</name>
+      <h>272</h>
+      <object_id>2019463</object_id>
+      <w>93</w>
+      <y>14</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>sailboat</name>
+      <h>306</h>
+      <object_id>3590694</object_id>
+      <w>125</w>
+      <y>11</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>utility light </attribute>
+      </attributes>
+      <name>pole</name>
+      <h>102</h>
+      <object_id>1669591</object_id>
+      <w>25</w>
+      <y>228</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>pier</name>
+      <h>50</h>
+      <object_id>3590697</object_id>
+      <w>197</w>
+      <y>300</y>
+      <x>285</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A marina with boats docked and a city view</caption>
+      <caption>Three boats are moored in a Marina in front of a city.</caption>
+      <caption>The ships are docked at the harbor of a large city.</caption>
+      <caption>A harbor housing several white boats near a large city.</caption>
+      <caption>City scape with harbor and boats in the foreground.</caption>
+    </captions>
+</image>

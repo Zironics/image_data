@@ -1,0 +1,85 @@
+<image>
+  <image-id>2416966</image-id>
+  <coco-id>24714</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3883783</relationship_id>
+      <predicate>with</predicate>
+      <subject>3283203</subject>
+      <object>3630379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255141</relationship_id>
+      <predicate>has</predicate>
+      <subject>3443287</subject>
+      <object>3443286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3883787</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3356016</subject>
+      <object>3356017</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>88</h>
+      <object_id>3283203</object_id>
+      <w>92</w>
+      <y>125</y>
+      <x>333</x>
+    </object>
+    <object>
+      <name>items</name>
+      <h>46</h>
+      <object_id>3630379</object_id>
+      <w>77</w>
+      <y>125</y>
+      <x>353</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>110</h>
+      <object_id>3443287</object_id>
+      <w>64</w>
+      <y>150</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>32</h>
+      <object_id>3443286</object_id>
+      <w>27</w>
+      <y>152</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>sleeve</name>
+      <h>31</h>
+      <object_id>3356016</object_id>
+      <w>17</w>
+      <y>175</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>45</h>
+      <object_id>3356017</object_id>
+      <w>58</w>
+      <y>172</y>
+      <x>276</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two women and a man sitting at a fruit stand.</caption>
+      <caption>People selling produce on the side of the street.</caption>
+      <caption>A man sites on a trashy street corner.</caption>
+      <caption>a person sitting on a street curb with boxes of fruit near by</caption>
+      <caption>Sellers take a break as they sit at a roadside stand.</caption>
+    </captions>
+</image>

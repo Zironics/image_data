@@ -1,0 +1,164 @@
+<image>
+  <image-id>2405374</image-id>
+  <coco-id>155341</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>528540</relationship_id>
+      <predicate>on edge of</predicate>
+      <subject>332569</subject>
+      <object>332570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>528541</relationship_id>
+      <predicate>has</predicate>
+      <subject>332562</subject>
+      <object>332573</object>
+    </relationship>
+    <relationship>
+      <relationship_id>528542</relationship_id>
+      <predicate>behind</predicate>
+      <subject>332568</subject>
+      <object>332562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>528543</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>332577</subject>
+      <object>332562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>528544</relationship_id>
+      <predicate>next to</predicate>
+      <subject>332563</subject>
+      <object>332570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>528545</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>332567</subject>
+      <object>332565</object>
+    </relationship>
+    <relationship>
+      <relationship_id>528546</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>332567</subject>
+      <object>332578</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sidewalk</name>
+      <h>35</h>
+      <object_id>332569</object_id>
+      <w>55</w>
+      <y>223</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>road</name>
+      <h>149</h>
+      <object_id>332570</object_id>
+      <w>499</w>
+      <y>225</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>a saloon car</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>car</name>
+      <h>104</h>
+      <object_id>332562</object_id>
+      <w>193</w>
+      <y>220</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>34</h>
+      <object_id>332573</object_id>
+      <w>44</w>
+      <y>230</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>equipment</name>
+      <h>92</h>
+      <object_id>332568</object_id>
+      <w>276</w>
+      <y>168</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>passenger</name>
+      <h>26</h>
+      <object_id>332577</object_id>
+      <w>27</w>
+      <y>236</y>
+      <x>174</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>a signboard</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>12</h>
+      <object_id>332563</object_id>
+      <w>39</w>
+      <y>139</y>
+      <x>271</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>43</h>
+      <object_id>332567</object_id>
+      <w>20</w>
+      <y>200</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for deliveries</attribute>
+        <attribute>existing</attribute>
+        <attribute>covered</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>76</h>
+      <object_id>332565</object_id>
+      <w>177</w>
+      <y>166</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>white shirt</name>
+      <h>20</h>
+      <object_id>332578</object_id>
+      <w>20</w>
+      <y>207</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>The street is blocked by a truck and a crane.</caption>
+      <caption>A car and a large truck on a city street.</caption>
+      <caption>The small maroon car drives near two large trucks.</caption>
+      <caption>A car sitting in the middle of the road near a construction vehicle.</caption>
+      <caption>A red car on street with utility vehicles in background.</caption>
+    </captions>
+</image>

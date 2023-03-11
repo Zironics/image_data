@@ -1,0 +1,73 @@
+<image>
+  <image-id>2327164</image-id>
+  <coco-id>30681</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4474574</relationship_id>
+      <predicate>with</predicate>
+      <subject>3174584</subject>
+      <object>3174585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639162</relationship_id>
+      <predicate>are seated on</predicate>
+      <subject>3174584</subject>
+      <object>3316721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3903122</relationship_id>
+      <predicate>has</predicate>
+      <subject>3409921</subject>
+      <object>3409922</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>102</h>
+      <object_id>3174584</object_id>
+      <w>110</w>
+      <y>149</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>115</h>
+      <object_id>3174585</object_id>
+      <w>73</w>
+      <y>154</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>136</h>
+      <object_id>3316721</object_id>
+      <w>96</w>
+      <y>136</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>68</h>
+      <object_id>3409921</object_id>
+      <w>497</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>64</h>
+      <object_id>3409922</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people siting on a park bench in a park.</caption>
+      <caption>A man and a woman sitting on a bench in a park. </caption>
+      <caption>A couple sitting on a bench with arms around each other</caption>
+      <caption>A couple hugging on a bench in a park.</caption>
+      <caption>A couple are embracing each other on a bench.</caption>
+    </captions>
+</image>

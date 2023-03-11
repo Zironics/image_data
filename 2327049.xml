@@ -1,0 +1,65 @@
+<image>
+  <image-id>2327049</image-id>
+  <coco-id>491947</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4475034</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2820858</subject>
+      <object>2820859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475035</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3242361</subject>
+      <object>3242362</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> Apple</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>55</h>
+      <object_id>2820858</object_id>
+      <w>130</w>
+      <y>209</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>67</h>
+      <object_id>2820859</object_id>
+      <w>210</w>
+      <y>234</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>438</h>
+      <object_id>3242361</object_id>
+      <w>134</w>
+      <y>19</y>
+      <x>179</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> brown</attribute>
+      </attributes>
+      <name>shoes</name>
+      <h>44</h>
+      <object_id>3242362</object_id>
+      <w>82</w>
+      <y>418</y>
+      <x>194</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman and a man standing next to a table using a laptop.</caption>
+      <caption>A young man is using a laptop set on the table with a young lady next to him.</caption>
+      <caption>Couple smiling at the camera while on their laptop.</caption>
+      <caption>A man standing in front of an Apple laptop computer with a woman in a short skirt standing next to him and smiling.</caption>
+      <caption>a male and a female in a dress and a laptop</caption>
+    </captions>
+</image>

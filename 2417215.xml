@@ -1,0 +1,73 @@
+<image>
+  <image-id>2417215</image-id>
+  <coco-id>410123</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3707550</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3302829</subject>
+      <object>2915840</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4242523</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3110218</subject>
+      <object>2915840</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4242524</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2968269</subject>
+      <object>2968270</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windshield</name>
+      <h>35</h>
+      <object_id>3302829</object_id>
+      <w>49</w>
+      <y>122</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>138</h>
+      <object_id>2915840</object_id>
+      <w>385</w>
+      <y>113</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>front tire</name>
+      <h>49</h>
+      <object_id>3110218</object_id>
+      <w>63</w>
+      <y>200</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>tailgate</name>
+      <h>83</h>
+      <object_id>2968269</object_id>
+      <w>126</w>
+      <y>140</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>164</h>
+      <object_id>2968270</object_id>
+      <w>407</w>
+      <y>100</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A showroom featuring a black and white truck.</caption>
+      <caption>A black and silver truck sits parked inside a Chrysler show room.</caption>
+      <caption>A black truck sitting on top of a show room floor.</caption>
+      <caption>A black truck is parked inside of a white display room.</caption>
+      <caption>A black truck is being displayed in a showroom.</caption>
+    </captions>
+</image>

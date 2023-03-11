@@ -1,0 +1,84 @@
+<image>
+  <image-id>2321489</image-id>
+  <coco-id>294403</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3789478</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3589882</subject>
+      <object>2997760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539352</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3962022</subject>
+      <object>3196748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539353</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3451672</subject>
+      <object>3451673</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>297</h>
+      <object_id>3589882</object_id>
+      <w>265</w>
+      <y>131</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>205</h>
+      <object_id>2997760</object_id>
+      <w>343</w>
+      <y>135</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>58</h>
+      <object_id>3962022</object_id>
+      <w>52</w>
+      <y>369</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>80</h>
+      <object_id>3196748</object_id>
+      <w>198</w>
+      <y>157</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>52</h>
+      <object_id>3451672</object_id>
+      <w>53</w>
+      <y>374</y>
+      <x>134</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>32</h>
+      <object_id>3451673</object_id>
+      <w>66</w>
+      <y>382</y>
+      <x>124</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman under an umbrella on a rainy day </caption>
+      <caption>Woman in a winter jacket standing under an umbrella near a bridge.</caption>
+      <caption>A woman in a coat with an umbrella on a dock under a bridge</caption>
+      <caption>A woman wears a tan jacket while holding a black umbrella on a dock.</caption>
+      <caption>A woman holding an umbrella on a dock.</caption>
+    </captions>
+</image>

@@ -1,0 +1,82 @@
+<image>
+  <image-id>2402857</image-id>
+  <coco-id>193465</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>764149</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>385703</subject>
+      <object>385704</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267813</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1130858</subject>
+      <object>1130859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267821</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1130858</subject>
+      <object>1130859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267833</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1130858</subject>
+      <object>1130859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267837</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1130858</subject>
+      <object>1130859</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>vaio</attribute>
+        <attribute>sony</attribute>
+        <attribute>laptop</attribute>
+      </attributes>
+      <name>computer</name>
+      <h>333</h>
+      <object_id>385703</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>165</h>
+      <object_id>385704</object_id>
+      <w>496</w>
+      <y>164</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>41</h>
+      <object_id>1130858</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>41</h>
+      <object_id>1130859</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white laptop with headphones sitting on a counter.</caption>
+      <caption>Some computer peripherals on a laptop keyboard during the day.</caption>
+      <caption>A Sony laptop has blue keys, a mouse and headphones.</caption>
+      <caption>A pair of headphones sits on top of an open laptop.</caption>
+      <caption>A laptop with a mouse and head phones sitting on it.</caption>
+    </captions>
+</image>

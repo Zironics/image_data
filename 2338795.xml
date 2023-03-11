@@ -1,0 +1,79 @@
+<image>
+  <image-id>2338795</image-id>
+  <coco-id>148855</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4057337</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2938812</subject>
+      <object>3699640</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057338</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2938812</subject>
+      <object>3699641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057340</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3699643</subject>
+      <object>3413036</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>358</h>
+      <object_id>2938812</object_id>
+      <w>174</w>
+      <y>15</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>182</h>
+      <object_id>3699640</object_id>
+      <w>108</w>
+      <y>89</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>112</h>
+      <object_id>3699641</object_id>
+      <w>110</w>
+      <y>260</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>watch</name>
+      <h>12</h>
+      <object_id>3699643</object_id>
+      <w>20</w>
+      <y>313</y>
+      <x>437</x>
+    </object>
+    <object>
+      <name>wrist</name>
+      <h>16</h>
+      <object_id>3413036</object_id>
+      <w>11</w>
+      <y>312</y>
+      <x>442</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man that is standing on a tennis court with a racquet.</caption>
+      <caption>A man is holding a tennis racket and a woman is in the background.</caption>
+      <caption>A male tennis player holds a racquet and walks on the court.</caption>
+      <caption>Tennis player wearing a blue shirt and white shorts holding a tennis racket in his right hand walking towards a sign with a uniformed security guard in the back by the sign.</caption>
+      <caption>A man holding a tennis racket in his hand.</caption>
+    </captions>
+</image>

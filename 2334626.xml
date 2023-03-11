@@ -1,0 +1,99 @@
+<image>
+  <image-id>2334626</image-id>
+  <coco-id>487011</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4452982</relationship_id>
+      <predicate>playing</predicate>
+      <subject>2133175</subject>
+      <object>3926276</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997954</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2133175</subject>
+      <object>3675872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3913735</relationship_id>
+      <predicate>use</predicate>
+      <subject>2133175</subject>
+      <object>3321752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997955</relationship_id>
+      <predicate>using a</predicate>
+      <subject>2133175</subject>
+      <object>2018478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997956</relationship_id>
+      <predicate>watching</predicate>
+      <subject>2133175</subject>
+      <object>2251590</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>enjoying</attribute>
+      </attributes>
+      <h>166</h>
+      <object_id>2133175</object_id>
+      <w>150</w>
+      <y>207</y>
+      <x>71</x>
+      <name>child</name>
+    </object>
+    <object>
+      <name>videogame</name>
+      <h>71</h>
+      <object_id>3926276</object_id>
+      <w>97</w>
+      <y>292</y>
+      <x>386</x>
+    </object>
+    <object>
+      <name>living room</name>
+      <h>374</h>
+      <object_id>3675872</object_id>
+      <w>478</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>television</name>
+      <h>175</h>
+      <object_id>3321752</object_id>
+      <w>212</w>
+      <y>7</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>game controller</name>
+      <h>57</h>
+      <object_id>2018478</object_id>
+      <w>52</w>
+      <y>282</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>TV</attribute>
+      </attributes>
+      <name>screen</name>
+      <h>190</h>
+      <object_id>2251590</object_id>
+      <w>207</w>
+      <y>10</y>
+      <x>274</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little boy that is sitting in front of a television.</caption>
+      <caption>A toddler is trying to play a game on the television.</caption>
+      <caption>A boy playing a game with a remote controller.</caption>
+      <caption>A little boy playing a learning game on the wii</caption>
+      <caption>a little boy standing by a tv during a cartoon </caption>
+    </captions>
+</image>

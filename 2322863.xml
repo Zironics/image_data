@@ -1,0 +1,79 @@
+<image>
+  <image-id>2322863</image-id>
+  <coco-id>493474</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4534458</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3960183</subject>
+      <object>3960182</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534457</relationship_id>
+      <predicate>ON</predicate>
+      <subject>990423</subject>
+      <object>3960182</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2957932</relationship_id>
+      <predicate>OF</predicate>
+      <subject>990423</subject>
+      <object>990424</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>57</h>
+      <object_id>3960183</object_id>
+      <w>33</w>
+      <y>98</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>283</h>
+      <object_id>3960182</object_id>
+      <w>47</w>
+      <y>88</y>
+      <x>308</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pole</attribute>
+        <attribute>street</attribute>
+        <attribute>traffic</attribute>
+        <attribute>yield</attribute>
+        <attribute>indicating</attribute>
+        <attribute>left turn</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>150</h>
+      <object_id>990423</object_id>
+      <w>134</w>
+      <y>19</y>
+      <x>314</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>telephone</attribute>
+        <attribute>light</attribute>
+        <attribute>wooden</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>209</h>
+      <object_id>990424</object_id>
+      <w>37</w>
+      <y>140</y>
+      <x>319</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The clouds which are growing dark and a traffic signal.</caption>
+      <caption>Lights at an intersection on a cloudy evening</caption>
+      <caption>Street lights with a cloudy sky in the background.</caption>
+      <caption>A city intersection with a light pole with several lights</caption>
+      <caption>A bunch of stoplights at an intersection with power lines along the top.</caption>
+    </captions>
+</image>

@@ -1,0 +1,80 @@
+<image>
+  <image-id>2394355</image-id>
+  <coco-id>26033</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4730132</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4416519</subject>
+      <object>4416527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4730133</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4416523</subject>
+      <object>4416524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4730134</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4416526</subject>
+      <object>4416527</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>196</h>
+      <object_id>4416519</object_id>
+      <w>259</w>
+      <y>4</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>130</h>
+      <object_id>4416527</object_id>
+      <w>450</w>
+      <y>206</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>fluffy</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>55</h>
+      <object_id>4416523</object_id>
+      <w>105</w>
+      <y>25</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>92</h>
+      <object_id>4416524</object_id>
+      <w>475</w>
+      <y>26</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>280</h>
+      <object_id>4416526</object_id>
+      <w>270</w>
+      <y>31</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A river traveling under a bridge next to a forest.</caption>
+      <caption>A bridge with a view of a river near another bridge.</caption>
+      <caption>A green bridge railing that is next to trees.</caption>
+      <caption>A river with a green rail near trees and a bridge. </caption>
+      <caption>A view of the river from a bridge and another bridge can be seen.</caption>
+    </captions>
+</image>

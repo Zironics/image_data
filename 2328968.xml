@@ -1,0 +1,94 @@
+<image>
+  <image-id>2328968</image-id>
+  <coco-id>310094</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3947112</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2709211</subject>
+      <object>2709215</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3947113</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2709212</subject>
+      <object>2709215</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3947114</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2709213</subject>
+      <object>2709215</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3947115</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2709212</subject>
+      <object>2709215</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021972</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3191605</subject>
+      <object>2709215</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green banana</name>
+      <h>33</h>
+      <object_id>2709211</object_id>
+      <w>63</w>
+      <y>145</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>plants</name>
+      <h>496</h>
+      <object_id>2709215</object_id>
+      <w>373</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green banana</name>
+      <h>54</h>
+      <object_id>2709212</object_id>
+      <w>53</w>
+      <y>58</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green banana</name>
+      <h>39</h>
+      <object_id>2709213</object_id>
+      <w>85</w>
+      <y>200</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>banana</name>
+      <h>33</h>
+      <object_id>3191605</object_id>
+      <w>60</w>
+      <y>146</y>
+      <x>200</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are bunches of bananas hanging from a plant.</caption>
+      <caption>Bananas hanging from a tree near some leaves.</caption>
+      <caption>A banana plant with new banana's blooming on it.</caption>
+      <caption>A large bunch of bananas on a tall tree</caption>
+      <caption>A banana tree filled with lots of unripe bananas.</caption>
+    </captions>
+</image>

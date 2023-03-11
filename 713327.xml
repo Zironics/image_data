@@ -1,0 +1,199 @@
+<image>
+  <image-id>713327</image-id>
+  <coco-id>32203</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4786960</relationship_id>
+      <predicate>framing</predicate>
+      <subject>4566158</subject>
+      <object>4566166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786961</relationship_id>
+      <predicate>in</predicate>
+      <subject>4566166</subject>
+      <object>4566166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786962</relationship_id>
+      <predicate>spitting up behind</predicate>
+      <subject>4566166</subject>
+      <object>4566156</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786963</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4566157</subject>
+      <object>4566158</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786964</relationship_id>
+      <predicate>matches</predicate>
+      <subject>4566160</subject>
+      <object>4566167</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786965</relationship_id>
+      <predicate>with</predicate>
+      <subject>4566162</subject>
+      <object>4566163</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786966</relationship_id>
+      <predicate>with</predicate>
+      <subject>4566167</subject>
+      <object>4566170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786967</relationship_id>
+      <predicate>around</predicate>
+      <subject>4566158</subject>
+      <object>4566166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786968</relationship_id>
+      <predicate>on</predicate>
+      <subject>4566171</subject>
+      <object>4566172</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4786969</relationship_id>
+      <predicate>on</predicate>
+      <subject>4566173</subject>
+      <object>4566160</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>235</h>
+      <object_id>4566158</object_id>
+      <w>1018</w>
+      <y>14</y>
+      <x>2</x>
+      <name>barriers</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirt </attribute>
+      </attributes>
+      <h>529</h>
+      <object_id>4566166</object_id>
+      <w>1019</w>
+      <y>159</y>
+      <x>0</x>
+      <name>bike track</name>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>364</h>
+      <object_id>4566156</object_id>
+      <w>355</w>
+      <y>318</y>
+      <x>654</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+        <attribute>chain link</attribute>
+        <attribute>orange </attribute>
+      </attributes>
+      <name>fence</name>
+      <h>83</h>
+      <object_id>4566157</object_id>
+      <w>835</w>
+      <y>0</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <name>outfit</name>
+      <h>253</h>
+      <object_id>4566160</object_id>
+      <w>143</w>
+      <y>190</y>
+      <x>526</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <h>215</h>
+      <object_id>4566167</object_id>
+      <w>265</w>
+      <y>286</y>
+      <x>441</x>
+      <name>dirt bike</name>
+    </object>
+    <object>
+      <name>rider</name>
+      <h>390</h>
+      <object_id>4566162</object_id>
+      <w>264</w>
+      <y>184</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>yellow helmet</name>
+      <h>104</h>
+      <object_id>4566163</object_id>
+      <w>83</w>
+      <y>203</y>
+      <x>401</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <h>70</h>
+      <object_id>4566170</object_id>
+      <w>61</w>
+      <y>219</y>
+      <x>610</x>
+      <name>bike helmet</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>yellow fender</name>
+      <h>53</h>
+      <object_id>4566171</object_id>
+      <w>87</w>
+      <y>398</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>245</h>
+      <object_id>4566172</object_id>
+      <w>366</w>
+      <y>329</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>suit</name>
+      <h>271</h>
+      <object_id>4566173</object_id>
+      <w>184</w>
+      <y>214</y>
+      <x>479</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are some dirt bike riders taking a sharp turn</caption>
+      <caption>Dirt bikers racing around a corner on the track</caption>
+      <caption>Motor bike racers race each other around a track.</caption>
+      <caption>Dirt bike racers rounding a corner on a track with orange barriers</caption>
+      <caption>Three people on motorbikes racing around a track.</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>2417036</image-id>
+  <coco-id>259172</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3884229</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3008434</subject>
+      <object>3155542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3884230</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3401907</subject>
+      <object>3401908</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3884231</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3488601</subject>
+      <object>3488602</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255202</relationship_id>
+      <predicate>above</predicate>
+      <subject>3681759</subject>
+      <object>3155542</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>27</h>
+      <object_id>3008434</object_id>
+      <w>11</w>
+      <y>116</y>
+      <x>392</x>
+    </object>
+    <object>
+      <h>261</h>
+      <object_id>3155542</object_id>
+      <w>492</w>
+      <y>36</y>
+      <x>6</x>
+      <name>airplane</name>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>52</h>
+      <object_id>3401907</object_id>
+      <w>58</w>
+      <y>78</y>
+      <x>441</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>230</h>
+      <object_id>3401908</object_id>
+      <w>366</w>
+      <y>49</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>48</h>
+      <object_id>3488601</object_id>
+      <w>83</w>
+      <y>220</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>318</h>
+      <object_id>3488602</object_id>
+      <w>320</w>
+      <y>30</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>49</h>
+      <object_id>3681759</object_id>
+      <w>107</w>
+      <y>11</y>
+      <x>216</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane sitting on top of an airport tarmac.</caption>
+      <caption>The airplane turbine has four propeller blades on it.</caption>
+      <caption>A close up of a propeller on a small plane.</caption>
+      <caption>When close up, the propeller blades look very thin.</caption>
+      <caption>A airplane that has a propeller on the wing.</caption>
+    </captions>
+</image>

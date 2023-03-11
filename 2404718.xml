@@ -1,0 +1,77 @@
+<image>
+  <image-id>2404718</image-id>
+  <coco-id>445268</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3247866</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1113641</subject>
+      <object>1113642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3247874</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1113641</subject>
+      <object>1113642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3247886</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1113641</subject>
+      <object>1113642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>723828</relationship_id>
+      <predicate>has</predicate>
+      <subject>376155</subject>
+      <object>376156</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3247890</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1113641</subject>
+      <object>1113642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>41</h>
+      <object_id>1113641</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>41</h>
+      <object_id>1113642</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>150</h>
+      <object_id>376155</object_id>
+      <w>266</w>
+      <y>54</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>front</name>
+      <h>83</h>
+      <object_id>376156</object_id>
+      <w>93</w>
+      <y>120</y>
+      <x>396</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>They are pulling a white car out of the water while a white yacht sits in the background.</caption>
+      <caption>A car being lifted out of a body of water.</caption>
+      <caption>A car is being held above water next to a boat.</caption>
+      <caption>a car being lifted by a crane near a boat</caption>
+      <caption>A car is being lifted out of the water.</caption>
+    </captions>
+</image>

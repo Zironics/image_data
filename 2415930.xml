@@ -1,0 +1,65 @@
+<image>
+  <image-id>2415930</image-id>
+  <coco-id>386116</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3877448</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3185709</subject>
+      <object>2776861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3877450</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3185709</subject>
+      <object>3627932</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253998</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3185709</subject>
+      <object>3791710</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>57</h>
+      <object_id>3185709</object_id>
+      <w>88</w>
+      <y>290</y>
+      <x>132</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>65</h>
+      <object_id>2776861</object_id>
+      <w>185</w>
+      <y>312</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>76</h>
+      <object_id>3627932</object_id>
+      <w>197</w>
+      <y>301</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>106</h>
+      <object_id>3791710</object_id>
+      <w>482</w>
+      <y>290</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man laying on his back in a field of grass while holding onto a parachute style kite that is flying in the sky above him.</caption>
+      <caption>An mal laying on the ground flying a kite.</caption>
+      <caption>A man laying on the grass flying a kite. </caption>
+      <caption>The person is lying on the ground and  flying a kite outside.</caption>
+      <caption>A man lying in a field flying a kite.</caption>
+    </captions>
+</image>

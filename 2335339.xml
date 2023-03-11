@@ -1,0 +1,68 @@
+<image>
+  <image-id>2335339</image-id>
+  <coco-id>192827</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3983733</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2031093</subject>
+      <object>2535317</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451478</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2031093</subject>
+      <object>3490679</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3983739</relationship_id>
+      <predicate>has</predicate>
+      <subject>2031093</subject>
+      <object>2031094</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>98</h>
+      <object_id>2031093</object_id>
+      <w>391</w>
+      <y>116</y>
+      <x>62</x>
+      <name>plane</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>327</h>
+      <object_id>2535317</object_id>
+      <w>495</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>62</h>
+      <object_id>3490679</object_id>
+      <w>95</w>
+      <y>248</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>engines</name>
+      <h>45</h>
+      <object_id>2031094</object_id>
+      <w>105</w>
+      <y>146</y>
+      <x>151</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large commercial passenger jet flying in the air.</caption>
+      <caption>A large commercial jet flying against a blue sky</caption>
+      <caption>A large passenger jet flying through a blue sky.</caption>
+      <caption>American Airlines airplane increasing altitude at take off.</caption>
+      <caption>An airplane taking off into the sky. </caption>
+    </captions>
+</image>

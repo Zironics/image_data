@@ -1,0 +1,82 @@
+<image>
+  <image-id>2334274</image-id>
+  <coco-id>212969</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4453626</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3437950</subject>
+      <object>3462882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3830126</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3437950</subject>
+      <object>3479502</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3830619</relationship_id>
+      <predicate>has</predicate>
+      <subject>3437950</subject>
+      <object>3064805</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951973</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3437950</subject>
+      <object>3437949</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>283</h>
+      <object_id>3437950</object_id>
+      <w>181</w>
+      <y>40</y>
+      <x>131</x>
+      <name>guy</name>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>192</h>
+      <object_id>3462882</object_id>
+      <w>401</w>
+      <y>147</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark </attribute>
+      </attributes>
+      <name>glasses</name>
+      <h>60</h>
+      <object_id>3479502</object_id>
+      <w>88</w>
+      <y>42</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>tattoo</name>
+      <h>41</h>
+      <object_id>3064805</object_id>
+      <w>60</w>
+      <y>235</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>212</h>
+      <object_id>3437949</object_id>
+      <w>402</w>
+      <y>137</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man that is sitting on a motorcylce.</caption>
+      <caption>A man rides a motorcycle in the road past a desert landscape.</caption>
+      <caption>a man on a green street bike with no helmet driving on a highway.</caption>
+      <caption>Man on green motorcycle on paved road in open area.</caption>
+      <caption>A man driving a green motorcycle down the road.</caption>
+    </captions>
+</image>

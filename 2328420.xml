@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328420</image-id>
+  <coco-id>277543</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470641</relationship_id>
+      <predicate>of</predicate>
+      <subject>3473525</subject>
+      <object>3473526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4115554</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3720817</subject>
+      <object>3207721</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snout</name>
+      <h>45</h>
+      <object_id>3473525</object_id>
+      <w>52</w>
+      <y>174</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>240</h>
+      <object_id>3473526</object_id>
+      <w>167</w>
+      <y>119</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>tag</name>
+      <h>70</h>
+      <object_id>3720817</object_id>
+      <w>113</w>
+      <y>121</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>72</h>
+      <object_id>3207721</object_id>
+      <w>109</w>
+      <y>118</y>
+      <x>325</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of teddy bears hanging from a rack.</caption>
+      <caption>The teddy bears are hung together in the sales display.</caption>
+      <caption>Some teddy bears hanging from chains on a sale rack </caption>
+      <caption>A rack of hanging teddy bear keychain plushes in a store.</caption>
+      <caption>A bunch of identical bear key chains with green clovers hand on a turn rack. </caption>
+    </captions>
+</image>

@@ -1,0 +1,85 @@
+<image>
+  <image-id>2391092</image-id>
+  <coco-id>364941</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1137857</relationship_id>
+      <predicate>playing</predicate>
+      <subject>491535</subject>
+      <object>491537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1137858</relationship_id>
+      <predicate>hits</predicate>
+      <subject>491535</subject>
+      <object>491537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1137859</relationship_id>
+      <predicate>OF</predicate>
+      <subject>491535</subject>
+      <object>491537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1137860</relationship_id>
+      <predicate>OF</predicate>
+      <subject>491551</subject>
+      <object>491545</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>light skinned</attribute>
+        <attribute>hitting</attribute>
+      </attributes>
+      <name>man</name>
+      <h>312</h>
+      <object_id>491535</object_id>
+      <w>235</w>
+      <y>21</y>
+      <x>87</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>here</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <h>17</h>
+      <object_id>491537</object_id>
+      <w>19</w>
+      <y>204</y>
+      <x>117</x>
+      <name>ball</name>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>37</h>
+      <object_id>491551</object_id>
+      <w>34</w>
+      <y>168</y>
+      <x>160</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>72</h>
+      <object_id>491545</object_id>
+      <w>109</w>
+      <y>176</y>
+      <x>89</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man swinging a tennis racquet at a tennis ball.</caption>
+      <caption>This is an image of a man playing tennis.</caption>
+      <caption>A tennis player hits the tennis ball on the court.</caption>
+      <caption>Man swinging and connecting with a tennis racket during a match.</caption>
+      <caption>a tennis player hitting a tennis ball with a tennis racket</caption>
+    </captions>
+</image>

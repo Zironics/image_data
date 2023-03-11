@@ -1,0 +1,129 @@
+<image>
+  <image-id>2322892</image-id>
+  <coco-id>175804</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3646945</relationship_id>
+      <predicate>by a</predicate>
+      <subject>3036949</subject>
+      <object>3036950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3769301</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3310927</subject>
+      <object>3310928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534286</relationship_id>
+      <predicate>blowdrying a child</predicate>
+      <subject>3423282</subject>
+      <object>3423283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534287</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3416955</subject>
+      <object>3416956</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534288</relationship_id>
+      <predicate>wrapped in</predicate>
+      <subject>3416955</subject>
+      <object>3960137</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534289</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3036949</subject>
+      <object>3036950</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>245</h>
+      <object_id>3036949</object_id>
+      <w>197</w>
+      <y>55</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>290</h>
+      <object_id>3036950</object_id>
+      <w>244</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>brushes</name>
+      <h>20</h>
+      <object_id>3310927</object_id>
+      <w>85</w>
+      <y>14</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>17</h>
+      <object_id>3310928</object_id>
+      <w>22</w>
+      <y>21</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>217</h>
+      <object_id>3423282</object_id>
+      <w>201</w>
+      <y>55</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>hair</name>
+      <h>67</h>
+      <object_id>3423283</object_id>
+      <w>75</w>
+      <y>27</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>303</h>
+      <object_id>3416955</object_id>
+      <w>140</w>
+      <y>26</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>towel</name>
+      <h>172</h>
+      <object_id>3416956</object_id>
+      <w>140</w>
+      <y>159</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>towel</name>
+      <h>140</h>
+      <object_id>3960137</object_id>
+      <w>115</w>
+      <y>188</y>
+      <x>84</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman using a blow dryer to dry off a child.</caption>
+      <caption> A woman using a blow dryer on a kid wrapped in a blue towel.</caption>
+      <caption>A woman is drying a small child off with a blow dryer.</caption>
+      <caption>The women blow dries the little boy while he is wet.</caption>
+      <caption>A grandma drying her granddaughter off after a bath. </caption>
+    </captions>
+</image>

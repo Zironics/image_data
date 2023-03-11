@@ -1,0 +1,73 @@
+<image>
+  <image-id>2336726</image-id>
+  <coco-id>381854</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4448566</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2523399</subject>
+      <object>2545309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448567</relationship_id>
+      <predicate>sleeping on</predicate>
+      <subject>2545309</subject>
+      <object>3923665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448568</relationship_id>
+      <predicate>eating</predicate>
+      <subject>2545309</subject>
+      <object>3231266</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+        <attribute>wooden </attribute>
+      </attributes>
+      <name>door</name>
+      <h>293</h>
+      <object_id>2523399</object_id>
+      <w>245</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey </attribute>
+        <attribute>tabby </attribute>
+      </attributes>
+      <h>215</h>
+      <object_id>2545309</object_id>
+      <w>348</w>
+      <y>56</y>
+      <x>84</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>220</h>
+      <object_id>3923665</object_id>
+      <w>390</w>
+      <y>60</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>broccoli</name>
+      <h>67</h>
+      <object_id>3231266</object_id>
+      <w>45</w>
+      <y>226</y>
+      <x>181</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The cat is standing next to broccoli on the floor. </caption>
+      <caption>A cat on the floor eating a piece of broccoli.</caption>
+      <caption>a black gray and white cat some food and white tiles</caption>
+      <caption>a cat is chewing on something on the floor</caption>
+      <caption>A cat who is nibbling on a piece of broccoli.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2385152</image-id>
+  <coco-id>330894</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4675446</relationship_id>
+      <predicate>parked across</predicate>
+      <subject>4283930</subject>
+      <object>4283931</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4675453</relationship_id>
+      <predicate>road grey in</predicate>
+      <subject>4283940</subject>
+      <object>4283941</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>motorcycle</name>
+      <h>26</h>
+      <object_id>4283930</object_id>
+      <w>39</w>
+      <y>115</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>105</h>
+      <object_id>4283931</object_id>
+      <w>92</w>
+      <y>118</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>the</name>
+      <h>75</h>
+      <object_id>4283940</object_id>
+      <w>42</w>
+      <y>135</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>color</name>
+      <h>22</h>
+      <object_id>4283941</object_id>
+      <w>62</w>
+      <y>163</y>
+      <x>41</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A long row of scooters stretch down the length along a sidewalk.</caption>
+      <caption>A lot of scooters lined up on a city street.</caption>
+      <caption>Row of motor cycles parked along a city street.</caption>
+      <caption>A lot of motorcycles that are on the side of a street.</caption>
+      <caption>There is a very long line of scooters parked along the curb.</caption>
+    </captions>
+</image>

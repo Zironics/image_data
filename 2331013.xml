@@ -1,0 +1,40 @@
+<image>
+  <image-id>2331013</image-id>
+  <coco-id>509000</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3973254</relationship_id>
+      <predicate>has</predicate>
+      <subject>2939524</subject>
+      <object>2939525</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>174</h>
+      <object_id>2939524</object_id>
+      <w>423</w>
+      <y>75</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>toy</attribute>
+      </attributes>
+      <name>carrot</name>
+      <h>69</h>
+      <object_id>2939525</object_id>
+      <w>109</w>
+      <y>134</y>
+      <x>289</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a white and black cat is on a bed</caption>
+      <caption>a small cat playing with a stuffed animal </caption>
+      <caption>A cat is playing with her toy on the bed</caption>
+      <caption>A black and white cat holding onto a toy</caption>
+      <caption>A black and white cat is playing with a toy carrot.</caption>
+    </captions>
+</image>

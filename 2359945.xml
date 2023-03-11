@@ -1,0 +1,157 @@
+<image>
+  <image-id>2359945</image-id>
+  <coco-id>349690</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2200189</relationship_id>
+      <predicate>with a</predicate>
+      <subject>790395</subject>
+      <object>790396</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2200190</relationship_id>
+      <predicate>in a</predicate>
+      <subject>790395</subject>
+      <object>790399</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2200191</relationship_id>
+      <predicate>has</predicate>
+      <subject>790395</subject>
+      <object>790396</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2200192</relationship_id>
+      <predicate>has</predicate>
+      <subject>790394</subject>
+      <object>790401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2200193</relationship_id>
+      <predicate>has</predicate>
+      <subject>790399</subject>
+      <object>790407</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2200194</relationship_id>
+      <predicate>IN</predicate>
+      <subject>790400</subject>
+      <object>790402</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2200195</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>790407</subject>
+      <object>790408</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>57</h>
+      <object_id>790395</object_id>
+      <w>38</w>
+      <y>192</y>
+      <x>425</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>35</h>
+      <object_id>790396</object_id>
+      <w>37</w>
+      <y>197</y>
+      <x>424</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>with horse</attribute>
+        <attribute>with snow</attribute>
+        <attribute>with a horse</attribute>
+        <attribute>grassy</attribute>
+      </attributes>
+      <name>field</name>
+      <h>106</h>
+      <object_id>790399</object_id>
+      <w>496</w>
+      <y>208</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>tall</attribute>
+        <attribute>with a horse</attribute>
+        <attribute>with trees</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>109</h>
+      <object_id>790394</object_id>
+      <w>10</w>
+      <y>103</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the background</attribute>
+      </attributes>
+      <h>43</h>
+      <object_id>790401</object_id>
+      <w>497</w>
+      <y>92</y>
+      <x>0</x>
+      <name>power line</name>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>60</h>
+      <object_id>790407</object_id>
+      <w>492</w>
+      <y>231</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>with horse</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>40</h>
+      <object_id>790400</object_id>
+      <w>447</w>
+      <y>166</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in with the horses</attribute>
+        <attribute>with trees</attribute>
+      </attributes>
+      <name>fog</name>
+      <h>212</h>
+      <object_id>790402</object_id>
+      <w>496</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>97</h>
+      <object_id>790408</object_id>
+      <w>496</w>
+      <y>212</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lush green field topped with animals grazing.</caption>
+      <caption>A foggy pasture with several horses and sheep grazing.</caption>
+      <caption>A group of horses grazing on grass under a foggy sky.</caption>
+      <caption>Even with the fog, it is easy to see the horses.</caption>
+      <caption>Some horses graze in a field on a wet, foggy day.</caption>
+    </captions>
+</image>

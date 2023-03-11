@@ -1,0 +1,91 @@
+<image>
+  <image-id>2326872</image-id>
+  <coco-id>99736</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3657273</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3358899</subject>
+      <object>3358900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3657397</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3174926</subject>
+      <object>3174927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3651254</relationship_id>
+      <predicate>chopped off</predicate>
+      <subject>3479089</subject>
+      <object>3529481</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stalk</name>
+      <h>115</h>
+      <object_id>3358899</object_id>
+      <w>210</w>
+      <y>189</y>
+      <x>183</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>203</h>
+      <object_id>3358900</object_id>
+      <w>331</w>
+      <y>100</y>
+      <x>71</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>bra</attribute>
+      </attributes>
+      <name>strap</name>
+      <h>37</h>
+      <object_id>3174926</object_id>
+      <w>32</w>
+      <y>404</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>bra</name>
+      <h>65</h>
+      <object_id>3174927</object_id>
+      <w>120</w>
+      <y>382</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>139</h>
+      <object_id>3479089</object_id>
+      <w>154</w>
+      <y>135</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>bottom</name>
+      <h>68</h>
+      <object_id>3529481</object_id>
+      <w>51</w>
+      <y>237</y>
+      <x>339</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a piece of broccoli laying on a couch</caption>
+      <caption>A piece of broccoli sitting on top of a couch.</caption>
+      <caption>A piece of broccoli positioned as if laying on a couch.</caption>
+      <caption>A broccoli stalk displayed on a bed with human accessories. </caption>
+      <caption>A giant broccoli lying on a chaise lounge.</caption>
+    </captions>
+</image>

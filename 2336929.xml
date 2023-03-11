@@ -1,0 +1,123 @@
+<image>
+  <image-id>2336929</image-id>
+  <coco-id>283867</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3961731</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2056126</subject>
+      <object>2320122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961732</relationship_id>
+      <predicate>on passenger</predicate>
+      <subject>2739825</subject>
+      <object>3224925</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448123</relationship_id>
+      <predicate>built into</predicate>
+      <subject>2739825</subject>
+      <object>2320122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448124</relationship_id>
+      <predicate>built into</predicate>
+      <subject>2615380</subject>
+      <object>2320122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961733</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2615380</subject>
+      <object>2320122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961734</relationship_id>
+      <predicate>on passenger</predicate>
+      <subject>2056126</subject>
+      <object>2320122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448125</relationship_id>
+      <predicate>built into</predicate>
+      <subject>2107714</subject>
+      <object>2320122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448126</relationship_id>
+      <predicate>riding on</predicate>
+      <subject>2320122</subject>
+      <object>3923334</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>35</h>
+      <object_id>2056126</object_id>
+      <w>77</w>
+      <y>122</y>
+      <x>32</x>
+      <name>window</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>174</h>
+      <object_id>2320122</object_id>
+      <w>491</w>
+      <y>90</y>
+      <x>8</x>
+      <name>train</name>
+    </object>
+    <object>
+      <h>29</h>
+      <object_id>2739825</object_id>
+      <w>20</w>
+      <y>137</y>
+      <x>318</x>
+      <name>window</name>
+    </object>
+    <object>
+      <name>train</name>
+      <h>185</h>
+      <object_id>3224925</object_id>
+      <w>440</w>
+      <y>64</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>34</h>
+      <object_id>2615380</object_id>
+      <w>35</w>
+      <y>135</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>29</h>
+      <object_id>2107714</object_id>
+      <w>20</w>
+      <y>138</y>
+      <x>406</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>54</h>
+      <object_id>3923334</object_id>
+      <w>482</w>
+      <y>224</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A transit train badly in need of a paint job</caption>
+      <caption>A train sitting on the tracks in a city.</caption>
+      <caption>an image of a train going down the railroad track</caption>
+      <caption>A train passing through a red traffic signal</caption>
+      <caption>A blue and yellow train is on the tracks.</caption>
+    </captions>
+</image>

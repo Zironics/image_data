@@ -1,0 +1,81 @@
+<image>
+  <image-id>2336790</image-id>
+  <coco-id>161161</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3963399</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2993726</subject>
+      <object>2993727</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3963400</relationship_id>
+      <predicate>near</predicate>
+      <subject>3061029</subject>
+      <object>3061030</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448456</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3461242</subject>
+      <object>3923597</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>steam</name>
+      <h>155</h>
+      <object_id>2993726</object_id>
+      <w>141</w>
+      <y>7</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>179</h>
+      <object_id>2993727</object_id>
+      <w>415</w>
+      <y>141</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>65</h>
+      <object_id>3061029</object_id>
+      <w>496</w>
+      <y>309</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>68</h>
+      <object_id>3061030</object_id>
+      <w>497</w>
+      <y>273</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>170</h>
+      <object_id>3461242</object_id>
+      <w>425</w>
+      <y>112</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>50</h>
+      <object_id>3923597</object_id>
+      <w>484</w>
+      <y>280</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow train traveling down tracks next to a green field.</caption>
+      <caption>A train on a railroad track with steam in the air.</caption>
+      <caption>A yellow train is on tracks near some brush and trees.</caption>
+      <caption>Red and yellow train on train tracks near a forrest. </caption>
+      <caption>A yellow train on one out of the two tracks going by.</caption>
+    </captions>
+</image>

@@ -1,0 +1,51 @@
+<image>
+  <image-id>2385942</image-id>
+  <coco-id>348279</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4560791</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4001766</subject>
+      <object>4001853</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4560832</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4001852</subject>
+      <object>4001853</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>face</name>
+      <h>230</h>
+      <object_id>4001766</object_id>
+      <w>222</w>
+      <y>86</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>455</h>
+      <object_id>4001853</object_id>
+      <w>315</w>
+      <y>44</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>94</h>
+      <object_id>4001852</object_id>
+      <w>22</w>
+      <y>189</y>
+      <x>279</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Infant child in a business suit looking to it's left.</caption>
+      <caption>A dark skinned baby wearing a striped blue suit with a striped blue tie.</caption>
+      <caption>A young child wearing a stripe vest and blue tie.</caption>
+      <caption>The baby is dressed in a suit and tie. </caption>
+      <caption>A baby boy with tie and black and blue striped blazer</caption>
+    </captions>
+</image>

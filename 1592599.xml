@@ -1,0 +1,87 @@
+<image>
+  <image-id>1592599</image-id>
+  <coco-id>545850</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4742611</relationship_id>
+      <predicate>on side</predicate>
+      <subject>4447517</subject>
+      <object>4447518</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4742614</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4447528</subject>
+      <object>4447529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4742622</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4447548</subject>
+      <object>4447529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4742625</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4447554</subject>
+      <object>4447529</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>446</h>
+      <object_id>4447517</object_id>
+      <w>94</w>
+      <y>59</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>530</h>
+      <object_id>4447518</object_id>
+      <w>1016</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>44</h>
+      <object_id>4447528</object_id>
+      <w>35</w>
+      <y>582</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>754</h>
+      <object_id>4447529</object_id>
+      <w>729</w>
+      <y>26</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>76</h>
+      <object_id>4447548</object_id>
+      <w>55</w>
+      <y>422</y>
+      <x>751</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>128</h>
+      <object_id>4447554</object_id>
+      <w>124</w>
+      <y>364</y>
+      <x>358</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red double decker bus driving down a street.</caption>
+      <caption>A bright red London double decked bus waiting at curbside.</caption>
+      <caption>A double decker bust stopped at an intersection.</caption>
+      <caption>A double decker bus riding down the street.</caption>
+      <caption>A vintage red double decker bus drives down the street. </caption>
+    </captions>
+</image>

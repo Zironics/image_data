@@ -1,0 +1,98 @@
+<image>
+  <image-id>2326914</image-id>
+  <coco-id>58911</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4475726</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>3142779</subject>
+      <object>3178813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4032275</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3178812</subject>
+      <object>3178813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475727</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2866867</subject>
+      <object>3938317</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475728</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3238101</subject>
+      <object>3238102</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>books</name>
+      <h>21</h>
+      <object_id>3142779</object_id>
+      <w>73</w>
+      <y>209</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>105</h>
+      <object_id>3178813</object_id>
+      <w>192</w>
+      <y>182</y>
+      <x>129</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>47</h>
+      <object_id>3178812</object_id>
+      <w>60</w>
+      <y>184</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>bottles</name>
+      <h>30</h>
+      <object_id>2866867</object_id>
+      <w>26</w>
+      <y>175</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>30</h>
+      <object_id>3938317</object_id>
+      <w>32</w>
+      <y>183</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>candles</name>
+      <h>14</h>
+      <object_id>3238101</object_id>
+      <w>30</w>
+      <y>95</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>140</h>
+      <object_id>3238102</object_id>
+      <w>83</w>
+      <y>105</y>
+      <x>39</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A big and very messy looking living room with some people.</caption>
+      <caption>A living room with a man sitting at a computer desk </caption>
+      <caption>there is a red couch and a small book case in this living room</caption>
+      <caption>A view of a couch from across the room. A man is sitting in a chair to the far right.</caption>
+      <caption>A room with wooden floors a red couch with a jacket on it, a bookshelf and a man sitting in a chair that has a coat sitting on the back of it..</caption>
+    </captions>
+</image>

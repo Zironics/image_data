@@ -1,0 +1,125 @@
+<image>
+  <image-id>2400227</image-id>
+  <coco-id>553116</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>866491</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>410392</subject>
+      <object>410393</object>
+    </relationship>
+    <relationship>
+      <relationship_id>866492</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>410395</subject>
+      <object>410393</object>
+    </relationship>
+    <relationship>
+      <relationship_id>866493</relationship_id>
+      <predicate>sewn on</predicate>
+      <subject>410400</subject>
+      <object>410401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>866494</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>410391</subject>
+      <object>410408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>866495</relationship_id>
+      <predicate>sewn on</predicate>
+      <subject>410400</subject>
+      <object>410401</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>major league</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>31</h>
+      <object_id>410392</object_id>
+      <w>108</w>
+      <y>295</y>
+      <x>327</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball field</attribute>
+        <attribute>grass</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>field</name>
+      <h>193</h>
+      <object_id>410393</object_id>
+      <w>498</w>
+      <y>141</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>home plate</name>
+      <h>11</h>
+      <object_id>410395</object_id>
+      <w>29</w>
+      <y>214</y>
+      <x>207</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>13</attribute>
+      </attributes>
+      <name>number</name>
+      <h>17</h>
+      <object_id>410400</object_id>
+      <w>15</w>
+      <y>143</y>
+      <x>269</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>jersey</name>
+      <h>32</h>
+      <object_id>410401</object_id>
+      <w>44</w>
+      <y>136</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>getting ready</attribute>
+        <attribute>in baseball game</attribute>
+        <attribute>waiting</attribute>
+        <attribute>ready</attribute>
+        <attribute>batting</attribute>
+      </attributes>
+      <name>batter</name>
+      <h>118</h>
+      <object_id>410391</object_id>
+      <w>54</w>
+      <y>107</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>13</h>
+      <object_id>410408</object_id>
+      <w>22</w>
+      <y>128</y>
+      <x>255</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A batter at a baseball game waiting for the pitch. </caption>
+      <caption>A baseball player standing at home plate with his bat</caption>
+      <caption>A right-handed batter at the plate in a baseball game</caption>
+      <caption>Baseball players at the pitch playing and a crowd watch</caption>
+      <caption>People are gathered in a baseball stadium to watch a game. </caption>
+    </captions>
+</image>

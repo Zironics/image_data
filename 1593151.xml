@@ -1,0 +1,82 @@
+<image>
+  <image-id>1593151</image-id>
+  <coco-id>44611</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4090852</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3798284</subject>
+      <object>1999233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265390</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3798284</subject>
+      <object>3798283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265391</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2375023</subject>
+      <object>3798284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265392</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2375023</subject>
+      <object>3123607</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>426</h>
+      <object_id>3798284</object_id>
+      <w>145</w>
+      <y>115</y>
+      <x>751</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>number 1</name>
+      <h>59</h>
+      <object_id>1999233</object_id>
+      <w>35</w>
+      <y>245</y>
+      <x>808</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>number</name>
+      <h>67</h>
+      <object_id>3798283</object_id>
+      <w>40</w>
+      <y>245</y>
+      <x>804</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>403</h>
+      <object_id>2375023</object_id>
+      <w>177</w>
+      <y>145</y>
+      <x>595</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>421</h>
+      <object_id>3123607</object_id>
+      <w>140</w>
+      <y>92</y>
+      <x>766</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man walking a brown horse down a race track.</caption>
+      <caption>A man in a Number 1 jersey is walking his horse while others look on. </caption>
+      <caption>A person that is walking a horse in the dirt.</caption>
+      <caption>A crowd watches as the attendants walk with horses.</caption>
+      <caption>A man walks a horse in a procession of horses. </caption>
+    </captions>
+</image>

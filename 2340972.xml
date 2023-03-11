@@ -1,0 +1,77 @@
+<image>
+  <image-id>2340972</image-id>
+  <coco-id>527887</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4633317</relationship_id>
+      <predicate>with</predicate>
+      <subject>4266033</subject>
+      <object>4177910</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4668460</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4266033</subject>
+      <object>4266034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4668474</relationship_id>
+      <predicate>with</predicate>
+      <subject>4266032</subject>
+      <object>4266080</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>95</h>
+      <object_id>4266033</object_id>
+      <w>48</w>
+      <y>196</y>
+      <x>231</x>
+      <name>cup</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>top</attribute>
+      </attributes>
+      <name>lid</name>
+      <h>13</h>
+      <object_id>4177910</object_id>
+      <w>64</w>
+      <y>196</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>81</h>
+      <object_id>4266034</object_id>
+      <w>92</w>
+      <y>229</y>
+      <x>216</x>
+    </object>
+    <object>
+      <h>301</h>
+      <object_id>4266032</object_id>
+      <w>284</w>
+      <y>20</y>
+      <x>216</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <name>cellphone</name>
+      <h>70</h>
+      <object_id>4266080</object_id>
+      <w>62</w>
+      <y>93</y>
+      <x>369</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman with a coffee cup talking on the phone.</caption>
+      <caption>A woman talks on a cellphone while holding a drink. </caption>
+      <caption>a woman talking on a cell phone while holding a starbucks drink in the other hand</caption>
+      <caption>Woman talking on the phone with a starbucks coffee in her hand.</caption>
+      <caption>A lady talking on a cellphone walking down a street holding a 
+Starbucks cup.</caption>
+    </captions>
+</image>

@@ -1,0 +1,121 @@
+<image>
+  <image-id>2351513</image-id>
+  <coco-id>397276</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2464664</relationship_id>
+      <predicate>has an</predicate>
+      <subject>860266</subject>
+      <object>860268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2464665</relationship_id>
+      <predicate>has a</predicate>
+      <subject>860264</subject>
+      <object>860269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2464666</relationship_id>
+      <predicate>has an</predicate>
+      <subject>860266</subject>
+      <object>860264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2464667</relationship_id>
+      <predicate>has a</predicate>
+      <subject>860266</subject>
+      <object>860265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2464668</relationship_id>
+      <predicate>has a</predicate>
+      <subject>860266</subject>
+      <object>860271</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2464669</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860271</subject>
+      <object>860266</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+        <attribute>grey</attribute>
+        <attribute>red</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>building</name>
+      <h>374</h>
+      <object_id>860266</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>terracotta</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>eave</name>
+      <h>152</h>
+      <object_id>860268</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+        <attribute>black</attribute>
+        <attribute>large</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>56</h>
+      <object_id>860264</object_id>
+      <w>33</w>
+      <y>158</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>23</h>
+      <object_id>860269</object_id>
+      <w>8</w>
+      <y>190</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+      </attributes>
+      <name>window</name>
+      <h>55</h>
+      <object_id>860265</object_id>
+      <w>51</w>
+      <y>102</y>
+      <x>296</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>brick</name>
+      <h>5</h>
+      <object_id>860271</object_id>
+      <w>11</w>
+      <y>239</y>
+      <x>239</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A view up the side of a brick and timber building.</caption>
+      <caption>A black bear sticking its head out of a window of brick house.</caption>
+      <caption>A dog hanging out the window of a two-story home.</caption>
+      <caption>A dog leaning halfway out a window. </caption>
+      <caption>There is a animal that is hanging out of the house window</caption>
+    </captions>
+</image>

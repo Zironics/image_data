@@ -1,0 +1,40 @@
+<image>
+  <image-id>2324045</image-id>
+  <coco-id>486002</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4527908</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3008180</subject>
+      <object>3379764</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>67</h>
+      <object_id>3008180</object_id>
+      <w>165</w>
+      <y>94</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>110</h>
+      <object_id>3379764</object_id>
+      <w>499</w>
+      <y>107</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two airplanes lined up on pavement near a building.</caption>
+      <caption>An airplane sitting on the runway before takeoff</caption>
+      <caption>A large white airplane is on a runway.</caption>
+      <caption>A plane that is on the ground at an airport.</caption>
+      <caption>A photo taken from inside a plane looking at the runway at another plane.</caption>
+    </captions>
+</image>

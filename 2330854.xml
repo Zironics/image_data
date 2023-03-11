@@ -1,0 +1,68 @@
+<image>
+  <image-id>2330854</image-id>
+  <coco-id>531334</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4764950</relationship_id>
+      <predicate>clawing</predicate>
+      <subject>4661557</subject>
+      <object>4506049</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825806</relationship_id>
+      <predicate>has</predicate>
+      <subject>4661557</subject>
+      <object>4661555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4825807</relationship_id>
+      <predicate>has</predicate>
+      <subject>4661557</subject>
+      <object>4661561</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>larger</attribute>
+      </attributes>
+      <h>333</h>
+      <object_id>4661557</object_id>
+      <w>202</w>
+      <y>0</y>
+      <x>297</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <name>object</name>
+      <h>34</h>
+      <object_id>4506049</object_id>
+      <w>206</w>
+      <y>295</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>claws</name>
+      <h>21</h>
+      <object_id>4661555</object_id>
+      <w>52</w>
+      <y>309</y>
+      <x>401</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>56</h>
+      <object_id>4661561</object_id>
+      <w>50</w>
+      <y>4</y>
+      <x>279</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two bears interacting with each other at outdoor area.</caption>
+      <caption>Two dogs are cuddled up together over another dog.</caption>
+      <caption>Pair of bears play fighting over small tot</caption>
+      <caption>Two small bears stand next to each other.</caption>
+      <caption>Two large and furry foxes looking at something together.</caption>
+    </captions>
+</image>

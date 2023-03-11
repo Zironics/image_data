@@ -1,0 +1,65 @@
+<image>
+  <image-id>2401836</image-id>
+  <coco-id>389159</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3285391</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1143459</subject>
+      <object>1143460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>806736</relationship_id>
+      <predicate>using</predicate>
+      <subject>395424</subject>
+      <object>395425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3285395</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1143459</subject>
+      <object>1143460</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>happy little paint</name>
+      <h>55</h>
+      <object_id>1143459</object_id>
+      <w>59</w>
+      <y>32</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>an easel</name>
+      <h>55</h>
+      <object_id>1143460</object_id>
+      <w>59</w>
+      <y>38</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>137</h>
+      <object_id>395424</object_id>
+      <w>62</w>
+      <y>211</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>25</h>
+      <object_id>395425</object_id>
+      <w>19</w>
+      <y>267</y>
+      <x>216</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are riding on a bus with plants.</caption>
+      <caption>A subway car filled with people and plants.</caption>
+      <caption>A woman trying to find a seat on a bus that is covered with plants. </caption>
+      <caption>People inside of a bush planted with tropical plants.</caption>
+      <caption>People riding in a subway train that have plant growth growing inside of it.</caption>
+    </captions>
+</image>

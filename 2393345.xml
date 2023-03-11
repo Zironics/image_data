@@ -1,0 +1,43 @@
+<image>
+  <image-id>2393345</image-id>
+  <coco-id>569960</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3415464</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1220769</subject>
+      <object>1220770</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3415498</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1220769</subject>
+      <object>1220770</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>42</h>
+      <object_id>1220769</object_id>
+      <w>52</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>43</h>
+      <object_id>1220770</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This pizza is square and has pepperoni and mushrooms.</caption>
+      <caption>A large square pizza sitting on top of a wooden table.</caption>
+      <caption>A pepperoni pizza is divided into several square slices. </caption>
+      <caption>A large pepperoni pizza cut into many sections . </caption>
+      <caption>a large square pizza cut into smaller squares</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>2321146</image-id>
+  <coco-id>92813</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4540317</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2756907</subject>
+      <object>3962364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540318</relationship_id>
+      <predicate>cutting</predicate>
+      <subject>3370132</subject>
+      <object>3370131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540319</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2716849</subject>
+      <object>2716850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3815758</relationship_id>
+      <predicate>touching</predicate>
+      <subject>2756907</subject>
+      <object>3600682</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>290</h>
+      <object_id>2756907</object_id>
+      <w>221</w>
+      <y>33</y>
+      <x>250</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>120</h>
+      <object_id>3962364</object_id>
+      <w>63</w>
+      <y>78</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>104</h>
+      <object_id>3370132</object_id>
+      <w>62</w>
+      <y>67</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>172</h>
+      <object_id>3370131</object_id>
+      <w>237</w>
+      <y>138</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>179</h>
+      <object_id>2716849</object_id>
+      <w>228</w>
+      <y>127</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>57</h>
+      <object_id>2716850</object_id>
+      <w>57</w>
+      <y>295</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>257</h>
+      <object_id>3600682</object_id>
+      <w>306</w>
+      <y>131</y>
+      <x>92</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Someone cutting a cake on a wooden board in the grass.</caption>
+      <caption>Someone who is cutting into a chocolate cake.</caption>
+      <caption>A hand holding a knife in a chocolate cake.</caption>
+      <caption>A chocolate cake being cut on a wooden board outdoors.</caption>
+      <caption>Chocolate frosted layer cake on serving board on the grass.</caption>
+    </captions>
+</image>

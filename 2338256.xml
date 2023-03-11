@@ -1,0 +1,67 @@
+<image>
+  <image-id>2338256</image-id>
+  <coco-id>500568</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4591761</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4075738</subject>
+      <object>4075739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4591763</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4075742</subject>
+      <object>4075743</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>parched</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>31</h>
+      <object_id>4075738</object_id>
+      <w>194</w>
+      <y>73</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>80</h>
+      <object_id>4075739</object_id>
+      <w>282</w>
+      <y>59</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>85</h>
+      <object_id>4075742</object_id>
+      <w>20</w>
+      <y>170</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>25</h>
+      <object_id>4075743</object_id>
+      <w>77</w>
+      <y>152</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tv, chair, side table, and other living room items in the dirt. </caption>
+      <caption>A person is in a field and sitting on a chair in front of a television. </caption>
+      <caption>A person sits in a chair in a field with a tv set.</caption>
+      <caption>A tiny stand with drinks on it, an elderly chair piled with toys and an afghan, and an ancient TV set, make a bizarre tableau, sitting on dry, red earth with meager grass, bordered by a dirt path and a lonely road lined with sparse trees.   </caption>
+      <caption>Television set with armchair and small table in empty lot.</caption>
+    </captions>
+</image>

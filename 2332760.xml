@@ -1,0 +1,98 @@
+<image>
+  <image-id>2332760</image-id>
+  <coco-id>383053</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4575682</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4037541</subject>
+      <object>4037542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575800</relationship_id>
+      <predicate>with</predicate>
+      <subject>4037897</subject>
+      <object>4037547</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575978</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>4290194</subject>
+      <object>4038305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677965</relationship_id>
+      <predicate>has</predicate>
+      <subject>4290194</subject>
+      <object>4290193</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windshield</name>
+      <h>24</h>
+      <object_id>4037541</object_id>
+      <w>62</w>
+      <y>58</y>
+      <x>412</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>128</h>
+      <object_id>4037542</object_id>
+      <w>98</w>
+      <y>50</y>
+      <x>387</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>109</h>
+      <object_id>4037897</object_id>
+      <w>31</w>
+      <y>117</y>
+      <x>169</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>man's</attribute>
+      </attributes>
+      <h>12</h>
+      <object_id>4037547</object_id>
+      <w>14</w>
+      <y>122</y>
+      <x>175</x>
+      <name>red hood</name>
+    </object>
+    <object>
+      <h>162</h>
+      <object_id>4290194</object_id>
+      <w>50</w>
+      <y>119</y>
+      <x>286</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>rain</name>
+      <h>315</h>
+      <object_id>4038305</object_id>
+      <w>493</w>
+      <y>6</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>82</h>
+      <object_id>4290193</object_id>
+      <w>23</w>
+      <y>203</y>
+      <x>291</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person with a mask and other cover with umbrellas </caption>
+      <caption>People walking down the sidewalk with umbrella and bus passing by.</caption>
+      <caption>People are walking in the rain while holding umbrellas.</caption>
+      <caption>A man with a hideous mask on as a tour bus rides away.</caption>
+      <caption>A man wearing a mask on a sidewalk beside a street.</caption>
+    </captions>
+</image>

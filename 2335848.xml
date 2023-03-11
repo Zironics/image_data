@@ -1,0 +1,68 @@
+<image>
+  <image-id>2335848</image-id>
+  <coco-id>255598</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3978382</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2506965</subject>
+      <object>3667672</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3978386</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2560357</subject>
+      <object>2560358</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>patch</name>
+      <h>15</h>
+      <object_id>2506965</object_id>
+      <w>25</w>
+      <y>316</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>71</h>
+      <object_id>3667672</object_id>
+      <w>495</w>
+      <y>260</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>88</h>
+      <object_id>2560357</object_id>
+      <w>59</w>
+      <y>112</y>
+      <x>266</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>250</h>
+      <object_id>2560358</object_id>
+      <w>310</w>
+      <y>67</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There elephants walking around in hay next to a rock.</caption>
+      <caption>a close up of three elephants on a dirt surface</caption>
+      <caption>an image of a group of elephants walking</caption>
+      <caption>a very young elephant following her mother on rocks</caption>
+      <caption>A group of baby elephants walk next to an adult.</caption>
+    </captions>
+</image>

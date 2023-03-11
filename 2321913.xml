@@ -1,0 +1,62 @@
+<image>
+  <image-id>2321913</image-id>
+  <coco-id>144715</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4538460</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3251464</subject>
+      <object>3251466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538461</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3387731</subject>
+      <object>3387732</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>window</name>
+      <h>22</h>
+      <object_id>3251464</object_id>
+      <w>7</w>
+      <y>98</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>177</h>
+      <object_id>3251466</object_id>
+      <w>432</w>
+      <y>63</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>28</h>
+      <object_id>3387731</object_id>
+      <w>73</w>
+      <y>198</y>
+      <x>400</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>75</h>
+      <object_id>3387732</object_id>
+      <w>188</w>
+      <y>205</y>
+      <x>309</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Locomotive pulling cars on tracks in outdoor area.</caption>
+      <caption>A train on the tracks with smoke coming out the top.</caption>
+      <caption>A train sitting on top of train tracks near  forest.</caption>
+      <caption>A train travelling on a track passing two white gates while smoke is coming from it. </caption>
+      <caption>An old fashioned steam engine with cars attached.</caption>
+    </captions>
+</image>

@@ -1,0 +1,63 @@
+<image>
+  <image-id>2332579</image-id>
+  <coco-id>525322</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4820445</relationship_id>
+      <predicate>from</predicate>
+      <subject>4647916</subject>
+      <object>4647915</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4820446</relationship_id>
+      <predicate>on</predicate>
+      <subject>4647923</subject>
+      <object>4647922</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>smoke</name>
+      <h>30</h>
+      <object_id>4647916</object_id>
+      <w>86</w>
+      <y>193</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>airplanes</name>
+      <h>165</h>
+      <object_id>4647915</object_id>
+      <w>260</w>
+      <y>109</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>16</h>
+      <object_id>4647923</object_id>
+      <w>49</w>
+      <y>216</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>100</h>
+      <object_id>4647922</object_id>
+      <w>156</w>
+      <y>170</y>
+      <x>186</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>two stunt airplanes touching their wings as the fly</caption>
+      <caption>Airplanes do fly in unison during an air show.</caption>
+      <caption>Two jets are flying against a bright blue sky.</caption>
+      <caption>A picture of an open air zone that looks incredible.
+</caption>
+      <caption>two air planes flying in the air near one another </caption>
+    </captions>
+</image>

@@ -1,0 +1,66 @@
+<image>
+  <image-id>713439</image-id>
+  <coco-id>527573</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3987695</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>3671563</subject>
+      <object>2901636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061188</relationship_id>
+      <predicate>by</predicate>
+      <subject>2867520</subject>
+      <object>2867521</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>170</h>
+      <object_id>3671563</object_id>
+      <w>42</w>
+      <y>2</y>
+      <x>623</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>497</h>
+      <object_id>2901636</object_id>
+      <w>600</w>
+      <y>11</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>579</h>
+      <object_id>2867520</object_id>
+      <w>53</w>
+      <y>2</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>hydrant</name>
+      <h>246</h>
+      <object_id>2867521</object_id>
+      <w>160</w>
+      <y>413</y>
+      <x>429</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man is standing near a yellow fire hydrant outside</caption>
+      <caption>A yellow fire hydrant sitting on the side of a road.</caption>
+      <caption>A man is standing in front of a statue.</caption>
+      <caption>There is a man standing alone near statues.</caption>
+      <caption>A man standing in front of a statue near a metal pole.</caption>
+    </captions>
+</image>

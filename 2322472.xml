@@ -1,0 +1,62 @@
+<image>
+  <image-id>2322472</image-id>
+  <coco-id>153994</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3705194</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2896435</subject>
+      <object>2896436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4536289</relationship_id>
+      <predicate>standing under</predicate>
+      <subject>3497761</subject>
+      <object>3497760</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white writing</name>
+      <h>60</h>
+      <object_id>2896435</object_id>
+      <w>57</w>
+      <y>163</y>
+      <x>377</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>183</h>
+      <object_id>2896436</object_id>
+      <w>438</w>
+      <y>69</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>130</h>
+      <object_id>3497761</object_id>
+      <w>142</w>
+      <y>243</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>227</h>
+      <object_id>3497760</object_id>
+      <w>440</w>
+      <y>71</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person walking in the rain holding an umbrella.</caption>
+      <caption>A person standing in the rain holding a large umbrella.</caption>
+      <caption>a person with an umbrella some lights and a street</caption>
+      <caption>A person walking in the rain with an umbrella at night.</caption>
+      <caption>A person standing outside in the rain holding an umbrella.</caption>
+    </captions>
+</image>

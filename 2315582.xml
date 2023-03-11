@@ -1,0 +1,88 @@
+<image>
+  <image-id>2315582</image-id>
+  <coco-id>378967</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3870186</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3624985</subject>
+      <object>2746555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3870187</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3624985</subject>
+      <object>3142040</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253216</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3624985</subject>
+      <object>3791373</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253217</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3624985</subject>
+      <object>3109967</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>83</h>
+      <object_id>3624985</object_id>
+      <w>83</w>
+      <y>163</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>110</h>
+      <object_id>2746555</object_id>
+      <w>122</w>
+      <y>155</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>30</h>
+      <object_id>3142040</object_id>
+      <w>68</w>
+      <y>226</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>33</h>
+      <object_id>3791373</object_id>
+      <w>62</w>
+      <y>227</y>
+      <x>232</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>63</h>
+      <object_id>3109967</object_id>
+      <w>69</w>
+      <y>175</y>
+      <x>229</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man about to stand up on a surfboard in the ocean </caption>
+      <caption>Man on a surfboard riding a small wave</caption>
+      <caption>A surfer coming in to the beach on a small wave</caption>
+      <caption>A man rides a white surfboard while wearing a black wet suit.</caption>
+      <caption>A man in a black wet suit is about to stand on his surf board.</caption>
+    </captions>
+</image>

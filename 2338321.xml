@@ -1,0 +1,96 @@
+<image>
+  <image-id>2338321</image-id>
+  <coco-id>462261</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4590292</relationship_id>
+      <predicate>on</predicate>
+      <subject>4072196</subject>
+      <object>4072197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590297</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>4072218</subject>
+      <object>4072219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590299</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4072222</subject>
+      <object>4072223</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4799157</relationship_id>
+      <predicate>in</predicate>
+      <subject>4072218</subject>
+      <object>4072219</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> small</attribute>
+      </attributes>
+      <name>bushes</name>
+      <h>41</h>
+      <object_id>4072196</object_id>
+      <w>87</w>
+      <y>75</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>80</h>
+      <object_id>4072197</object_id>
+      <w>492</w>
+      <y>251</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>48</h>
+      <object_id>4072218</object_id>
+      <w>494</w>
+      <y>30</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>329</h>
+      <object_id>4072219</object_id>
+      <w>496</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>rocks</name>
+      <h>14</h>
+      <object_id>4072222</object_id>
+      <w>28</w>
+      <y>318</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>331</h>
+      <object_id>4072223</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown cow laying on top of a grass covered field.</caption>
+      <caption>Two cows rest on a dusty field during the day.</caption>
+      <caption>a pair of cows laying down in a dry grassy area</caption>
+      <caption>A cow laying down in a open grass plain.</caption>
+      <caption>A brown and white cow lies in a grassy field.</caption>
+    </captions>
+</image>

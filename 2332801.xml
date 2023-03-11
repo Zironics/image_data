@@ -1,0 +1,80 @@
+<image>
+  <image-id>2332801</image-id>
+  <coco-id>50263</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2888003</relationship_id>
+      <predicate>has a</predicate>
+      <subject>968503</subject>
+      <object>968504</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2888004</relationship_id>
+      <predicate>IN</predicate>
+      <subject>968504</subject>
+      <object>968508</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2888005</relationship_id>
+      <predicate>has on a</predicate>
+      <subject>968503</subject>
+      <object>968505</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>throwing</attribute>
+        <attribute>playing</attribute>
+        <attribute>catching</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>251</h>
+      <object_id>968503</object_id>
+      <w>227</w>
+      <y>123</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>orange</attribute>
+        <attribute>flying</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>44</h>
+      <object_id>968504</object_id>
+      <w>52</w>
+      <y>206</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>373</h>
+      <object_id>968508</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>sleeveless</attribute>
+      </attributes>
+      <name>tank top</name>
+      <h>89</h>
+      <object_id>968505</object_id>
+      <w>62</w>
+      <y>175</y>
+      <x>349</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a blond girl in a brown shirt is throwing a frisbee</caption>
+      <caption>A young woman reaching for an orange Frisbee in flight.</caption>
+      <caption>a person in a field with a frisbee with trees in the background</caption>
+      <caption>A woman in a tank top reaches out for a frisbee</caption>
+      <caption>A young woman catching a frisbee in motion.</caption>
+    </captions>
+</image>

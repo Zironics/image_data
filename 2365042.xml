@@ -1,0 +1,90 @@
+<image>
+  <image-id>2365042</image-id>
+  <coco-id>197296</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4387748</relationship_id>
+      <predicate>walking near</predicate>
+      <subject>1775395</subject>
+      <object>3038470</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4115176</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3720690</subject>
+      <object>2105761</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4387749</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>1775395</subject>
+      <object>3886418</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4387750</relationship_id>
+      <predicate>has</predicate>
+      <subject>1775395</subject>
+      <object>1775394</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>218</h>
+      <object_id>1775395</object_id>
+      <w>367</w>
+      <y>66</y>
+      <x>109</x>
+      <name>horse</name>
+    </object>
+    <object>
+      <h>183</h>
+      <object_id>3038470</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+      <name>lake</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>golden</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>125</h>
+      <object_id>3720690</object_id>
+      <w>258</w>
+      <y>86</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>289</h>
+      <object_id>2105761</object_id>
+      <w>411</w>
+      <y>29</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>370</h>
+      <object_id>3886418</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>30</h>
+      <object_id>1775394</object_id>
+      <w>26</w>
+      <y>84</y>
+      <x>121</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of horses walking along a beach.</caption>
+      <caption>A brown and white horse on beach next to ocean.</caption>
+      <caption>A couple of horses walking along the edge of the water on a beach .</caption>
+      <caption>The horse is galloping along the shadowy beach.</caption>
+      <caption>A horse walking along the beach with another close behind.</caption>
+    </captions>
+</image>

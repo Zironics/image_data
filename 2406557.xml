@@ -1,0 +1,92 @@
+<image>
+  <image-id>2406557</image-id>
+  <coco-id>320892</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3801639</relationship_id>
+      <predicate>outside of</predicate>
+      <subject>3286439</subject>
+      <object>2825099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3739367</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3568921</subject>
+      <object>3568920</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280207</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2736820</subject>
+      <object>2037632</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>104</h>
+      <object_id>3286439</object_id>
+      <w>436</w>
+      <y>212</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>red</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>airplane</name>
+      <h>215</h>
+      <object_id>2825099</object_id>
+      <w>471</w>
+      <y>0</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>63</h>
+      <object_id>3568921</object_id>
+      <w>30</w>
+      <y>216</y>
+      <x>408</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>28</h>
+      <object_id>3568920</object_id>
+      <w>27</w>
+      <y>225</y>
+      <x>410</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>24</h>
+      <object_id>2736820</object_id>
+      <w>30</w>
+      <y>208</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pointing</attribute>
+      </attributes>
+      <h>113</h>
+      <object_id>2037632</object_id>
+      <w>61</w>
+      <y>207</y>
+      <x>58</x>
+      <name>man</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people standing outside of a white jet.</caption>
+      <caption>A large group of people are gathered around an airplane.</caption>
+      <caption>A man standing outside a crowd of people by a plane.</caption>
+      <caption>Large group of spectators looking at large white plane on display.</caption>
+      <caption>A large group of people standing by a airplane.</caption>
+    </captions>
+</image>

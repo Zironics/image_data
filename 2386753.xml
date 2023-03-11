@@ -1,0 +1,41 @@
+<image>
+  <image-id>2386753</image-id>
+  <coco-id>19060</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4583600</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4056526</subject>
+      <object>4056527</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dead</attribute>
+        <attribute>tree</attribute>
+      </attributes>
+      <name>trunk</name>
+      <h>45</h>
+      <object_id>4056526</object_id>
+      <w>244</w>
+      <y>326</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>134</h>
+      <object_id>4056527</object_id>
+      <w>497</w>
+      <y>237</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some giraffes are standing in the foreground of a meadow. </caption>
+      <caption>Three giraffe's standing around in a open field together. </caption>
+      <caption>A couple of giraffes in their natural habitat.</caption>
+      <caption>Three giraffes in an open field near some trees.</caption>
+      <caption>A few giraffes standing in a field looking around.</caption>
+    </captions>
+</image>

@@ -1,0 +1,75 @@
+<image>
+  <image-id>2329646</image-id>
+  <coco-id>18441</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2907995</relationship_id>
+      <predicate>has</predicate>
+      <subject>974151</subject>
+      <object>974154</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2907996</relationship_id>
+      <predicate>has</predicate>
+      <subject>974151</subject>
+      <object>974155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2907997</relationship_id>
+      <predicate>has</predicate>
+      <subject>974151</subject>
+      <object>974156</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>155</h>
+      <object_id>974151</object_id>
+      <w>484</w>
+      <y>137</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>engine</name>
+      <h>46</h>
+      <object_id>974154</object_id>
+      <w>57</w>
+      <y>215</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>49</h>
+      <object_id>974155</object_id>
+      <w>53</w>
+      <y>218</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>28</h>
+      <object_id>974156</object_id>
+      <w>26</w>
+      <y>265</y>
+      <x>288</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large passenger airplane taking off at the end of a runway and ascending into the air.</caption>
+      <caption>A large plan is taking off from the airport.</caption>
+      <caption>An airplane is taking off at the airport.</caption>
+      <caption>A jet with its wheels down is just above the runway.</caption>
+      <caption>A very big commercial plane low to the ground.</caption>
+    </captions>
+</image>

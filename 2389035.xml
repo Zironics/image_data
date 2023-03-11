@@ -1,0 +1,102 @@
+<image>
+  <image-id>2389035</image-id>
+  <coco-id>294541</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1757830</relationship_id>
+      <predicate>ON</predicate>
+      <subject>669133</subject>
+      <object>669134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1757831</relationship_id>
+      <predicate>IN</predicate>
+      <subject>669135</subject>
+      <object>669136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1757832</relationship_id>
+      <predicate>IN</predicate>
+      <subject>669135</subject>
+      <object>669137</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1757833</relationship_id>
+      <predicate>ON</predicate>
+      <subject>669133</subject>
+      <object>669138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1757834</relationship_id>
+      <predicate>rolling on</predicate>
+      <subject>669133</subject>
+      <object>669138</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>121</h>
+      <object_id>669133</object_id>
+      <w>34</w>
+      <y>137</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>39</h>
+      <object_id>669134</object_id>
+      <w>98</w>
+      <y>264</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>36</h>
+      <object_id>669135</object_id>
+      <w>28</w>
+      <y>56</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>49</h>
+      <object_id>669136</object_id>
+      <w>43</w>
+      <y>56</y>
+      <x>331</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cloudy</attribute>
+        <attribute>gray</attribute>
+        <attribute>grayy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>48</h>
+      <object_id>669137</object_id>
+      <w>63</w>
+      <y>30</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>sand</name>
+      <h>30</h>
+      <object_id>669138</object_id>
+      <w>41</w>
+      <y>260</y>
+      <x>66</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Kite boarder at the beach during low tide.</caption>
+      <caption>A man that is standing on a board in the sand.</caption>
+      <caption>The man is kite surfing on a skateboard on the beach. </caption>
+      <caption>A man riding a kite board down a sandy beach.</caption>
+      <caption>A man attempts to kite sail on a beach near the ocean.</caption>
+    </captions>
+</image>

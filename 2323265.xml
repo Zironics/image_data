@@ -1,0 +1,53 @@
+<image>
+  <image-id>2323265</image-id>
+  <coco-id>401981</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3649980</relationship_id>
+      <predicate>HAVE</predicate>
+      <subject>2894910</subject>
+      <object>2894911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3649981</relationship_id>
+      <predicate>HAVE</predicate>
+      <subject>2894911</subject>
+      <object>2894910</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3649982</relationship_id>
+      <predicate>has</predicate>
+      <subject>2894911</subject>
+      <object>2894910</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>WHITE</attribute>
+        <attribute>RED</attribute>
+      </attributes>
+      <name>white lettering</name>
+      <h>53</h>
+      <object_id>2894910</object_id>
+      <w>25</w>
+      <y>112</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>241</h>
+      <object_id>2894911</object_id>
+      <w>136</w>
+      <y>15</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person pressing a button on a blender filled with drink substances.</caption>
+      <caption>A person is making a red drink in a blender.</caption>
+      <caption>A woman presses a button on a blender.</caption>
+      <caption>A person pushing the button of a blender and holding the top.</caption>
+      <caption>A person is mixng pink fluids in a blender.</caption>
+    </captions>
+</image>

@@ -1,0 +1,107 @@
+<image>
+  <image-id>2349707</image-id>
+  <coco-id>308316</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4413789</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2560335</subject>
+      <object>1747119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413791</relationship_id>
+      <predicate>with</predicate>
+      <subject>2560335</subject>
+      <object>2349191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3808430</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2560334</subject>
+      <object>2560335</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3808431</relationship_id>
+      <predicate>flying over</predicate>
+      <subject>2560335</subject>
+      <object>1747119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3808442</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2149267</subject>
+      <object>2149268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3808445</relationship_id>
+      <predicate>part of</predicate>
+      <subject>2452134</subject>
+      <object>2560335</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>246</h>
+      <object_id>2560335</object_id>
+      <w>498</w>
+      <y>15</y>
+      <x>1</x>
+      <name>air plane</name>
+    </object>
+    <object>
+      <h>331</h>
+      <object_id>1747119</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+      <name>fields</name>
+    </object>
+    <object>
+      <name>pilot</name>
+      <h>25</h>
+      <object_id>2349191</object_id>
+      <w>17</w>
+      <y>125</y>
+      <x>286</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>57</h>
+      <object_id>2560334</object_id>
+      <w>67</w>
+      <y>204</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>37</h>
+      <object_id>2149267</object_id>
+      <w>167</w>
+      <y>286</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>corner</name>
+      <h>43</h>
+      <object_id>2149268</object_id>
+      <w>191</w>
+      <y>285</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>92</h>
+      <object_id>2452134</object_id>
+      <w>158</w>
+      <y>67</y>
+      <x>157</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Airplane flying in the air over various fields and farms.</caption>
+      <caption>The older style airplane is still able to fly in the air.</caption>
+      <caption>An old bomber plane flying over open land below.</caption>
+      <caption>A large aircraft is flying through the sky.</caption>
+      <caption>a big propeller plane flies through the air </caption>
+    </captions>
+</image>

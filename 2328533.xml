@@ -1,0 +1,98 @@
+<image>
+  <image-id>2328533</image-id>
+  <coco-id>178382</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470514</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3036762</subject>
+      <object>3936096</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4470515</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3936098</subject>
+      <object>3936097</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4470516</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3936098</subject>
+      <object>2788053</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4470517</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3733726</subject>
+      <object>2932488</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>glass door</name>
+      <h>65</h>
+      <object_id>3036762</object_id>
+      <w>92</w>
+      <y>112</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>cabinet</name>
+      <h>107</h>
+      <object_id>3936096</object_id>
+      <w>144</w>
+      <y>92</y>
+      <x>149</x>
+    </object>
+    <object>
+      <h>71</h>
+      <object_id>3936098</object_id>
+      <w>68</w>
+      <y>303</y>
+      <x>295</x>
+      <name>back</name>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>67</h>
+      <object_id>3936097</object_id>
+      <w>70</w>
+      <y>304</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>69</h>
+      <object_id>2788053</object_id>
+      <w>68</w>
+      <y>304</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>69</h>
+      <object_id>3733726</object_id>
+      <w>31</w>
+      <y>273</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>112</h>
+      <object_id>2932488</object_id>
+      <w>55</w>
+      <y>262</y>
+      <x>370</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a kitchen and dining room with a table chairs and counter on large tile</caption>
+      <caption>A traditional style neatly furnished kitchen and living room.</caption>
+      <caption>some wood cabinets and chairs in a kitchen</caption>
+      <caption>The large room near a kitchen has many chairs near two tables.</caption>
+      <caption>A kitchen set adjacent to a dining room with long tables and many chairs.</caption>
+    </captions>
+</image>

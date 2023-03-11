@@ -1,0 +1,92 @@
+<image>
+  <image-id>2330431</image-id>
+  <coco-id>416145</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4576702</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4664985</subject>
+      <object>4039891</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827177</relationship_id>
+      <predicate>on</predicate>
+      <subject>4664985</subject>
+      <object>4664986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827178</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4664998</subject>
+      <object>4664996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827179</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4664998</subject>
+      <object>4664986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827180</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4664998</subject>
+      <object>4664986</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>23</h>
+      <object_id>4664985</object_id>
+      <w>23</w>
+      <y>157</y>
+      <x>279</x>
+      <name>eye</name>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>238</h>
+      <object_id>4039891</object_id>
+      <w>290</w>
+      <y>68</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>314</h>
+      <object_id>4664986</object_id>
+      <w>400</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <h>106</h>
+      <object_id>4664998</object_id>
+      <w>72</w>
+      <y>24</y>
+      <x>114</x>
+      <name>ear</name>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>292</h>
+      <object_id>4664996</object_id>
+      <w>385</w>
+      <y>6</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large brown bear wading through a  pool of water.</caption>
+      <caption>a close up of a black bear standing in the water</caption>
+      <caption>A PICTURE OF A BEAR DRINKING WATER FROM A LAKE </caption>
+      <caption>A big bear in a lake on a sunny day. </caption>
+      <caption>A large bear taking a swim in a river. </caption>
+    </captions>
+</image>

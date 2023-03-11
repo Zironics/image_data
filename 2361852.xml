@@ -1,0 +1,88 @@
+<image>
+  <image-id>2361852</image-id>
+  <coco-id>358176</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2137201</relationship_id>
+      <predicate>has</predicate>
+      <subject>778934</subject>
+      <object>778935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2137202</relationship_id>
+      <predicate>has</predicate>
+      <subject>778939</subject>
+      <object>778945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2137203</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>778947</subject>
+      <object>778953</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>crouching</attribute>
+        <attribute>watching</attribute>
+      </attributes>
+      <name>catcher</name>
+      <h>55</h>
+      <object_id>778934</object_id>
+      <w>47</w>
+      <y>118</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>mitt</name>
+      <h>10</h>
+      <object_id>778935</object_id>
+      <w>14</w>
+      <y>141</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>watching</attribute>
+      </attributes>
+      <name>umpire</name>
+      <h>21</h>
+      <object_id>778939</object_id>
+      <w>18</w>
+      <y>97</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>blue shirt</name>
+      <h>20</h>
+      <object_id>778945</object_id>
+      <w>23</w>
+      <y>108</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>22</h>
+      <object_id>778947</object_id>
+      <w>28</w>
+      <y>33</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>red</name>
+      <h>10</h>
+      <object_id>778953</object_id>
+      <w>27</w>
+      <y>44</y>
+      <x>207</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>the man is standing waiting to hit the ball </caption>
+      <caption>A man pitching a baseball from a mound to a home plate.</caption>
+      <caption>people sitting around watching a baseball game </caption>
+      <caption>Baseball pitcher in the process of throwing a ball at the plate. </caption>
+      <caption>A pitcher throws the ball while the batter waits for it.</caption>
+    </captions>
+</image>

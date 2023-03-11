@@ -1,0 +1,132 @@
+<image>
+  <image-id>2331347</image-id>
+  <coco-id>508846</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4824605</relationship_id>
+      <predicate>has an</predicate>
+      <subject>4657676</subject>
+      <object>4658258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824798</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4658745</subject>
+      <object>4658746</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824381</relationship_id>
+      <predicate>on</predicate>
+      <subject>4657664</subject>
+      <object>4657665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824382</relationship_id>
+      <predicate>ON THE</predicate>
+      <subject>4657670</subject>
+      <object>4657676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824383</relationship_id>
+      <predicate>ON THE</predicate>
+      <subject>4657673</subject>
+      <object>4657676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824384</relationship_id>
+      <predicate>ON THE</predicate>
+      <subject>4658745</subject>
+      <object>4657676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824385</relationship_id>
+      <predicate>IN THE</predicate>
+      <subject>4657676</subject>
+      <object>4657677</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>154</h>
+      <object_id>4657676</object_id>
+      <w>262</w>
+      <y>156</y>
+      <x>127</x>
+      <name>kitten</name>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>50</h>
+      <object_id>4658258</object_id>
+      <w>42</w>
+      <y>158</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>43</h>
+      <object_id>4658745</object_id>
+      <w>49</w>
+      <y>250</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>174</h>
+      <object_id>4658746</object_id>
+      <w>297</w>
+      <y>161</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>43</h>
+      <object_id>4657664</object_id>
+      <w>105</w>
+      <y>124</y>
+      <x>335</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>256</h>
+      <object_id>4657665</object_id>
+      <w>496</w>
+      <y>76</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>55</h>
+      <object_id>4657670</object_id>
+      <w>45</w>
+      <y>154</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>48</h>
+      <object_id>4657673</object_id>
+      <w>53</w>
+      <y>197</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>234</h>
+      <object_id>4657677</object_id>
+      <w>468</w>
+      <y>80</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat hiding in a basket of some sort.</caption>
+      <caption>Gray cat lying in white sink in grassy area.</caption>
+      <caption>A gray cat is sitting inside of a sink.</caption>
+      <caption>A cat lays in an uninstalled bathroom sink outside.</caption>
+      <caption>A kitten lies in a sink basin outside.</caption>
+    </captions>
+</image>

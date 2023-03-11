@@ -1,0 +1,129 @@
+<image>
+  <image-id>2395001</image-id>
+  <coco-id>503500</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1748758</relationship_id>
+      <predicate>has a</predicate>
+      <subject>666417</subject>
+      <object>666419</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1748759</relationship_id>
+      <predicate>on a</predicate>
+      <subject>666415</subject>
+      <object>666416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1748760</relationship_id>
+      <predicate>have a</predicate>
+      <subject>666428</subject>
+      <object>666423</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1748761</relationship_id>
+      <predicate>has a</predicate>
+      <subject>666429</subject>
+      <object>666421</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>286</h>
+      <object_id>666417</object_id>
+      <w>240</w>
+      <y>70</y>
+      <x>250</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <h>105</h>
+      <object_id>666419</object_id>
+      <w>122</w>
+      <y>248</y>
+      <x>368</x>
+      <name>tire</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>crouched</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>174</h>
+      <object_id>666415</object_id>
+      <w>121</w>
+      <y>89</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiny</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>87</h>
+      <object_id>666416</object_id>
+      <w>69</w>
+      <y>181</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>smiling</attribute>
+      </attributes>
+      <name>men</name>
+      <h>236</h>
+      <object_id>666428</object_id>
+      <w>376</w>
+      <y>26</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bucket</name>
+      <h>34</h>
+      <object_id>666423</object_id>
+      <w>31</w>
+      <y>153</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>186</h>
+      <object_id>666429</object_id>
+      <w>97</w>
+      <y>4</y>
+      <x>131</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>service by emergency</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>12</h>
+      <object_id>666421</object_id>
+      <w>9</w>
+      <y>132</y>
+      <x>168</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing next to a woman riding a mini bike.</caption>
+      <caption>A group of people in reflective jackets posing with some motorcycles.</caption>
+      <caption>Some volunteers for blood donations posing for a picture.</caption>
+      <caption>A group of people standing together with donation buckets.</caption>
+      <caption>A group of people doing a blood drive.</caption>
+    </captions>
+</image>

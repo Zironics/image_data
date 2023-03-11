@@ -1,0 +1,85 @@
+<image>
+  <image-id>2372863</image-id>
+  <coco-id>486457</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1991121</relationship_id>
+      <predicate>ON</predicate>
+      <subject>735137</subject>
+      <object>735138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1991122</relationship_id>
+      <predicate>ON</predicate>
+      <subject>735136</subject>
+      <object>735138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1991123</relationship_id>
+      <predicate>at</predicate>
+      <subject>735140</subject>
+      <object>735141</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>mouse</name>
+      <h>24</h>
+      <object_id>735137</object_id>
+      <w>27</w>
+      <y>309</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>gray</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>desk</name>
+      <h>140</h>
+      <object_id>735138</object_id>
+      <w>351</w>
+      <y>234</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>keyboard</name>
+      <h>47</h>
+      <object_id>735136</object_id>
+      <w>59</w>
+      <y>280</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>80</h>
+      <object_id>735140</object_id>
+      <w>43</w>
+      <y>135</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>63</h>
+      <object_id>735141</object_id>
+      <w>94</w>
+      <y>197</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An office desk with several monitors and birthday balloons</caption>
+      <caption>A desk with two monitors, a keyboard, a laptop and balloons on it.</caption>
+      <caption>this is a desk with balloons on it</caption>
+      <caption>An office cubicle contains a bouquet of bright helium-filled ballons.</caption>
+      <caption>A desk holds several computers and a few balloons.  </caption>
+    </captions>
+</image>

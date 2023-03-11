@@ -1,0 +1,124 @@
+<image>
+  <image-id>2365300</image-id>
+  <coco-id>459868</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4384484</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2699242</subject>
+      <object>2571034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4384485</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2699243</subject>
+      <object>2571034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4384487</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1747606</subject>
+      <object>2082885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4384489</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>2571035</subject>
+      <object>2571034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4384491</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1747606</subject>
+      <object>2082885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4384493</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3884916</subject>
+      <object>1981258</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>traffic light</name>
+      <h>24</h>
+      <object_id>2699242</object_id>
+      <w>11</w>
+      <y>266</y>
+      <x>145</x>
+    </object>
+    <object>
+      <h>161</h>
+      <object_id>2571034</object_id>
+      <w>6</w>
+      <y>189</y>
+      <x>160</x>
+      <name>pole</name>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>27</h>
+      <object_id>2699243</object_id>
+      <w>17</w>
+      <y>270</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>68</h>
+      <object_id>1747606</object_id>
+      <w>66</w>
+      <y>298</y>
+      <x>243</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflected</attribute>
+        <attribute>taller</attribute>
+        <attribute>tall</attribute>
+        <attribute>under construction</attribute>
+      </attributes>
+      <name>building</name>
+      <h>342</h>
+      <object_id>2082885</object_id>
+      <w>110</w>
+      <y>15</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>street</attribute>
+      </attributes>
+      <name>lamp</name>
+      <h>13</h>
+      <object_id>2571035</object_id>
+      <w>20</w>
+      <y>154</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>street sign</name>
+      <h>34</h>
+      <object_id>3884916</object_id>
+      <w>27</w>
+      <y>380</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>barrier</name>
+      <h>85</h>
+      <object_id>1981258</object_id>
+      <w>87</w>
+      <y>353</y>
+      <x>148</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light in a city surrounded by tall buildings.</caption>
+      <caption>A black and white photo of skyscrapers in the city</caption>
+      <caption>Skyscrapers, light posts, and people are depicted in black and white</caption>
+      <caption>People near tall buildings and an overhead street light.</caption>
+      <caption>A stoplight in front of several tall buildings.</caption>
+    </captions>
+</image>

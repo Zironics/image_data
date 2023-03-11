@@ -1,0 +1,88 @@
+<image>
+  <image-id>2368413</image-id>
+  <coco-id>450567</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2035677</relationship_id>
+      <predicate>has</predicate>
+      <subject>746535</subject>
+      <object>746538</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2035678</relationship_id>
+      <predicate>IN</predicate>
+      <subject>746532</subject>
+      <object>746540</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2035679</relationship_id>
+      <predicate>IN</predicate>
+      <subject>746535</subject>
+      <object>746542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2035680</relationship_id>
+      <predicate>with</predicate>
+      <subject>746535</subject>
+      <object>746532</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>blue</attribute>
+        <attribute>looking</attribute>
+        <attribute>hitting</attribute>
+      </attributes>
+      <name>man</name>
+      <h>419</h>
+      <object_id>746535</object_id>
+      <w>196</w>
+      <y>61</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>199</h>
+      <object_id>746538</object_id>
+      <w>142</w>
+      <y>72</y>
+      <x>50</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tennis</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>48</h>
+      <object_id>746532</object_id>
+      <w>72</w>
+      <y>205</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>63</h>
+      <object_id>746540</object_id>
+      <w>69</w>
+      <y>213</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>cap</name>
+      <h>56</h>
+      <object_id>746542</object_id>
+      <w>30</w>
+      <y>143</y>
+      <x>62</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The tennis player is serving a tennis ball.</caption>
+      <caption>A tennis player leans back to make a serve.</caption>
+      <caption>A tennis player taking a swing at a  ball</caption>
+      <caption>Man in blue tennis uniform swinging his racket back. </caption>
+      <caption>A man swinging his tennis racket on a tennis court.</caption>
+    </captions>
+</image>

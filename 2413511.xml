@@ -1,0 +1,349 @@
+<image>
+  <image-id>2413511</image-id>
+  <coco-id>160626</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>165739</relationship_id>
+      <predicate>tree leafy</predicate>
+      <subject>172196</subject>
+      <object>172197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267380</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3800574</subject>
+      <object>172198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165742</relationship_id>
+      <predicate>bird low</predicate>
+      <subject>172200</subject>
+      <object>172201</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165744</relationship_id>
+      <predicate>tree leafy</predicate>
+      <subject>172203</subject>
+      <object>172204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165747</relationship_id>
+      <predicate>tree leafy</predicate>
+      <subject>172207</subject>
+      <object>172208</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165751</relationship_id>
+      <predicate>tree in distance</predicate>
+      <subject>172196</subject>
+      <object>172211</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165753</relationship_id>
+      <predicate>gear showing</predicate>
+      <subject>172213</subject>
+      <object>172214</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165754</relationship_id>
+      <predicate>sailboat near land</predicate>
+      <subject>172215</subject>
+      <object>172216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165755</relationship_id>
+      <predicate>boat has motor</predicate>
+      <subject>172217</subject>
+      <object>172218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165757</relationship_id>
+      <predicate>plane landing</predicate>
+      <subject>172219</subject>
+      <object>172195</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267389</relationship_id>
+      <predicate>IN</predicate>
+      <subject>172215</subject>
+      <object>3800579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267390</relationship_id>
+      <predicate>IN</predicate>
+      <subject>172220</subject>
+      <object>3800579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267391</relationship_id>
+      <predicate>IN</predicate>
+      <subject>172221</subject>
+      <object>3800579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267392</relationship_id>
+      <predicate>IN</predicate>
+      <subject>172222</subject>
+      <object>3800579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165760</relationship_id>
+      <predicate>dark against sky</predicate>
+      <subject>172223</subject>
+      <object>172224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165761</relationship_id>
+      <predicate>boat has no sail</predicate>
+      <subject>172198</subject>
+      <object>172225</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165762</relationship_id>
+      <predicate>buoy floating</predicate>
+      <subject>172226</subject>
+      <object>172227</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree is wide</name>
+      <h>34</h>
+      <object_id>172196</object_id>
+      <w>34</w>
+      <y>154</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>tree is leafy</name>
+      <h>15</h>
+      <object_id>172197</object_id>
+      <w>19</w>
+      <y>173</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>mast</name>
+      <h>29</h>
+      <object_id>3800574</object_id>
+      <w>16</w>
+      <y>168</y>
+      <x>369</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sailboat is small</name>
+      <h>39</h>
+      <object_id>172198</object_id>
+      <w>21</w>
+      <y>164</y>
+      <x>366</x>
+    </object>
+    <object>
+      <name>bird is flying</name>
+      <h>13</h>
+      <object_id>172200</object_id>
+      <w>16</w>
+      <y>240</y>
+      <x>469</x>
+    </object>
+    <object>
+      <name>bird is white</name>
+      <h>9</h>
+      <object_id>172201</object_id>
+      <w>13</w>
+      <y>242</y>
+      <x>470</x>
+    </object>
+    <object>
+      <name>tree is small</name>
+      <h>11</h>
+      <object_id>172203</object_id>
+      <w>12</w>
+      <y>186</y>
+      <x>426</x>
+    </object>
+    <object>
+      <name>tree is green</name>
+      <h>13</h>
+      <object_id>172204</object_id>
+      <w>7</w>
+      <y>185</y>
+      <x>430</x>
+    </object>
+    <object>
+      <name>tree is small</name>
+      <h>10</h>
+      <object_id>172207</object_id>
+      <w>8</w>
+      <y>186</y>
+      <x>405</x>
+    </object>
+    <object>
+      <name>tree is green</name>
+      <h>8</h>
+      <object_id>172208</object_id>
+      <w>10</w>
+      <y>186</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>tree on shore</name>
+      <h>14</h>
+      <object_id>172211</object_id>
+      <w>16</w>
+      <y>177</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>gear on plane</name>
+      <h>8</h>
+      <object_id>172213</object_id>
+      <w>6</w>
+      <y>166</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>gear is for landing</name>
+      <h>6</h>
+      <object_id>172214</object_id>
+      <w>7</w>
+      <y>168</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>sailboat in the wate</name>
+      <h>11</h>
+      <object_id>172215</object_id>
+      <w>16</w>
+      <y>187</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>water near land</name>
+      <h>13</h>
+      <object_id>172216</object_id>
+      <w>70</w>
+      <y>191</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>boat is small</name>
+      <h>10</h>
+      <object_id>172217</object_id>
+      <w>19</w>
+      <y>187</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>boat near land</name>
+      <h>16</h>
+      <object_id>172218</object_id>
+      <w>20</w>
+      <y>185</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>plane has tail</name>
+      <h>12</h>
+      <object_id>172219</object_id>
+      <w>5</w>
+      <y>151</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plane is coming</name>
+      <h>24</h>
+      <object_id>172195</object_id>
+      <w>45</w>
+      <y>149</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>bay</name>
+      <h>136</h>
+      <object_id>3800579</object_id>
+      <w>500</w>
+      <y>195</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>boat is in bay</name>
+      <h>12</h>
+      <object_id>172220</object_id>
+      <w>12</w>
+      <y>187</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>boat is in bay</name>
+      <h>9</h>
+      <object_id>172221</object_id>
+      <w>10</w>
+      <y>192</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>boat is in bay</name>
+      <h>7</h>
+      <object_id>172222</object_id>
+      <w>9</w>
+      <y>196</y>
+      <x>341</x>
+    </object>
+    <object>
+      <name>trees are dark</name>
+      <h>45</h>
+      <object_id>172223</object_id>
+      <w>67</w>
+      <y>149</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>trees against sky</name>
+      <h>14</h>
+      <object_id>172224</object_id>
+      <w>110</w>
+      <y>181</y>
+      <x>389</x>
+    </object>
+    <object>
+      <name>mast has no sail</name>
+      <h>32</h>
+      <object_id>172225</object_id>
+      <w>11</w>
+      <y>162</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>buoy is red</name>
+      <h>14</h>
+      <object_id>172226</object_id>
+      <w>11</w>
+      <y>188</y>
+      <x>322</x>
+    </object>
+    <object>
+      <name>buoy in water</name>
+      <h>11</h>
+      <object_id>172227</object_id>
+      <w>7</w>
+      <y>190</y>
+      <x>325</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large jetliner flying over  field near a large body of water.</caption>
+      <caption>An aura be us flying given the sky and I ocean</caption>
+      <caption>An airplane flying low over an ocean. </caption>
+      <caption>A plane is preparing to land at the airport by the lake.</caption>
+      <caption>A plane flying low over a lake towards a landing strip. </caption>
+    </captions>
+</image>

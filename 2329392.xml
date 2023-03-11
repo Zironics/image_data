@@ -1,0 +1,76 @@
+<image>
+  <image-id>2329392</image-id>
+  <coco-id>443361</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4832711</relationship_id>
+      <predicate>on</predicate>
+      <subject>4679001</subject>
+      <object>4679002</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4832723</relationship_id>
+      <predicate>over</predicate>
+      <subject>4679026</subject>
+      <object>4679025</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4832724</relationship_id>
+      <predicate>over</predicate>
+      <subject>4679027</subject>
+      <object>4679025</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>curtain</name>
+      <h>372</h>
+      <object_id>4679001</object_id>
+      <w>96</w>
+      <y>13</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>69</h>
+      <object_id>4679002</object_id>
+      <w>33</w>
+      <y>173</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>candle holder</name>
+      <h>55</h>
+      <object_id>4679026</object_id>
+      <w>19</w>
+      <y>109</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>fire place</name>
+      <h>223</h>
+      <object_id>4679025</object_id>
+      <w>165</w>
+      <y>159</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>candle holder</name>
+      <h>51</h>
+      <object_id>4679027</object_id>
+      <w>19</w>
+      <y>113</y>
+      <x>121</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couch, fireplace, and other furniture sitting in a roo</caption>
+      <caption>A room with a couch, fireplace, mirror and curtains.</caption>
+      <caption>This is a fancy living room with a white couch with red pillows.</caption>
+      <caption>A room holds a fireplace and a sofa.</caption>
+      <caption>There is a room that is lit up.</caption>
+    </captions>
+</image>

@@ -1,0 +1,46 @@
+<image>
+  <image-id>2324871</image-id>
+  <coco-id>220321</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2948973</relationship_id>
+      <predicate>IN</predicate>
+      <subject>987086</subject>
+      <object>987093</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>picnic</attribute>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>table</name>
+      <h>82</h>
+      <object_id>987086</object_id>
+      <w>180</w>
+      <y>175</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+        <attribute>wooden</attribute>
+        <attribute>bin</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>52</h>
+      <object_id>987093</object_id>
+      <w>107</w>
+      <y>263</y>
+      <x>211</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An empty patio with patio tables at a park.</caption>
+      <caption>Outdoor picnic tables are shaded by a roof in a park.</caption>
+      <caption>A covered picnic area in a park that's empty</caption>
+      <caption>Picnic tables under a pavilion in a park.</caption>
+      <caption>A ramada with several picnic tables and grills surrounding.</caption>
+    </captions>
+</image>

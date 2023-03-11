@@ -1,0 +1,67 @@
+<image>
+  <image-id>2352202</image-id>
+  <coco-id>562462</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3776933</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3584700</subject>
+      <object>2048227</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3776934</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2173500</subject>
+      <object>2173502</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>roman numeral</name>
+      <h>55</h>
+      <object_id>3584700</object_id>
+      <w>50</w>
+      <y>214</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown and grey</attribute>
+        <attribute>large</attribute>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>328</h>
+      <object_id>2048227</object_id>
+      <w>315</w>
+      <y>160</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>88</h>
+      <object_id>2173500</object_id>
+      <w>115</w>
+      <y>269</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>289</h>
+      <object_id>2173502</object_id>
+      <w>310</w>
+      <y>183</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a large clock displayed on the front of the bell tower. </caption>
+      <caption>a clock on a tower with a bell</caption>
+      <caption>A large clock tower with Gold Roman Numerals and Bell above it.</caption>
+      <caption>A large clock face made of gold on a tower. </caption>
+      <caption>A large clock has a bell on top of it.</caption>
+    </captions>
+</image>

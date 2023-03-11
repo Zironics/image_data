@@ -1,0 +1,91 @@
+<image>
+  <image-id>2367270</image-id>
+  <coco-id>479440</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4360987</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2057926</subject>
+      <object>3874733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4360988</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1865855</subject>
+      <object>1833678</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4360989</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2092523</subject>
+      <object>1865855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4360990</relationship_id>
+      <predicate>curled behind</predicate>
+      <subject>2617393</subject>
+      <object>1865855</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>carpet</name>
+      <h>272</h>
+      <object_id>2057926</object_id>
+      <w>337</w>
+      <y>227</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>162</h>
+      <object_id>3874733</object_id>
+      <w>322</w>
+      <y>327</y>
+      <x>11</x>
+    </object>
+    <object>
+      <h>220</h>
+      <object_id>1865855</object_id>
+      <w>188</w>
+      <y>88</y>
+      <x>69</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>381</h>
+      <object_id>1833678</object_id>
+      <w>368</w>
+      <y>117</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+        <attribute>plastic </attribute>
+      </attributes>
+      <name>trap</name>
+      <h>31</h>
+      <object_id>2092523</object_id>
+      <w>48</w>
+      <y>151</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>46</h>
+      <object_id>2617393</object_id>
+      <w>39</w>
+      <y>260</y>
+      <x>89</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white cat sitting on the floor next to a feeding dish and a mat.</caption>
+      <caption>a white cat sitting on the floor next to her food bowls</caption>
+      <caption>A white kitty cat sitting on a floor near a dish and a red towel.</caption>
+      <caption>A white cat sits on the floor beside a brown towel. </caption>
+      <caption>A white fluffy cat sitting on the floor next to a towl</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328492</image-id>
+  <coco-id>484604</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4150652</relationship_id>
+      <predicate>for</predicate>
+      <subject>3260893</subject>
+      <object>3260894</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4150654</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3221974</subject>
+      <object>3221975</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>olives</name>
+      <h>48</h>
+      <object_id>3260893</object_id>
+      <w>190</w>
+      <y>174</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>eyebrows</name>
+      <h>55</h>
+      <object_id>3260894</object_id>
+      <w>192</w>
+      <y>170</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>pepper flakes</name>
+      <h>32</h>
+      <object_id>3221974</object_id>
+      <w>61</w>
+      <y>122</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>pepperoni</name>
+      <h>88</h>
+      <object_id>3221975</object_id>
+      <w>160</w>
+      <y>89</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A personal pizza decorated to look like an angry bird.</caption>
+      <caption>A pizza that is decorated to look like an angry bird.</caption>
+      <caption>The pizza has a face made on it.</caption>
+      <caption>a pizza that has a face made into it</caption>
+      <caption>A pizza is covered with toppings to resemble an angry bird.</caption>
+    </captions>
+</image>

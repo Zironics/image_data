@@ -1,0 +1,110 @@
+<image>
+  <image-id>2327959</image-id>
+  <coco-id>525058</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3629495</relationship_id>
+      <predicate>against</predicate>
+      <subject>3300942</subject>
+      <object>3300943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3624582</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3409284</subject>
+      <object>3409285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3772169</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3238135</subject>
+      <object>3582656</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3624584</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3035612</subject>
+      <object>3035613</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bikes</name>
+      <h>43</h>
+      <object_id>3300942</object_id>
+      <w>166</w>
+      <y>441</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>203</h>
+      <object_id>3300943</object_id>
+      <w>190</w>
+      <y>236</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>35</h>
+      <object_id>3409284</object_id>
+      <w>85</w>
+      <y>354</y>
+      <x>132</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> very skinny</attribute>
+        <attribute> apartment</attribute>
+      </attributes>
+      <name>building</name>
+      <h>479</h>
+      <object_id>3409285</object_id>
+      <w>98</w>
+      <y>4</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>guy</name>
+      <h>56</h>
+      <object_id>3238135</object_id>
+      <w>35</w>
+      <y>433</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>24</h>
+      <object_id>3582656</object_id>
+      <w>325</w>
+      <y>468</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>bricks</name>
+      <h>25</h>
+      <object_id>3035612</object_id>
+      <w>8</w>
+      <y>131</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>478</h>
+      <object_id>3035613</object_id>
+      <w>114</w>
+      <y>1</y>
+      <x>217</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people walking across a street near tall buildings.</caption>
+      <caption>People standing outside of a building waiting for something.</caption>
+      <caption>An apartment building with people standing in front of it at a traffic light.</caption>
+      <caption>people standing on a sidewalk in front of a tall building.</caption>
+      <caption>Four people are standing outside a large "Sone" building. </caption>
+    </captions>
+</image>

@@ -1,0 +1,130 @@
+<image>
+  <image-id>2330314</image-id>
+  <coco-id>172627</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4118042</relationship_id>
+      <predicate>has</predicate>
+      <subject>3186530</subject>
+      <object>2813487</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118044</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3186531</subject>
+      <object>3186530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118046</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3142260</subject>
+      <object>3142261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118048</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3186530</subject>
+      <object>3346387</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118050</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3186530</subject>
+      <object>3346387</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118052</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3186530</subject>
+      <object>3346387</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118054</relationship_id>
+      <predicate>with a</predicate>
+      <subject>3346387</subject>
+      <object>3186530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118056</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3186530</subject>
+      <object>3047062</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in the picture</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>236</h>
+      <object_id>3186530</object_id>
+      <w>247</w>
+      <y>106</y>
+      <x>43</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>frosting</name>
+      <h>233</h>
+      <object_id>2813487</object_id>
+      <w>236</w>
+      <y>107</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>smiley face</name>
+      <h>148</h>
+      <object_id>3186531</object_id>
+      <w>195</w>
+      <y>125</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>crumbs</name>
+      <h>32</h>
+      <object_id>3142260</object_id>
+      <w>36</w>
+      <y>298</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>314</h>
+      <object_id>3142261</object_id>
+      <w>319</w>
+      <y>94</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+        <attribute>rectangular</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>289</h>
+      <object_id>3346387</object_id>
+      <w>318</w>
+      <y>91</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>71</h>
+      <object_id>3047062</object_id>
+      <w>76</w>
+      <y>275</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow smiley face cat sitting on a white plate.</caption>
+      <caption>a smiling yellow cake on a white square plate</caption>
+      <caption>A round cake iced with yellow frosting and a smiley face.</caption>
+      <caption>A smiley face cake is centered on a white plate.</caption>
+      <caption>A homemade cake is decorated with a smiley face. </caption>
+    </captions>
+</image>

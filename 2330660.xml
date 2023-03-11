@@ -1,0 +1,65 @@
+<image>
+  <image-id>2330660</image-id>
+  <coco-id>457686</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4011349</relationship_id>
+      <predicate>watching</predicate>
+      <subject>2919586</subject>
+      <object>2919589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4011350</relationship_id>
+      <predicate>watching</predicate>
+      <subject>2919587</subject>
+      <object>2919589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4011351</relationship_id>
+      <predicate>watching</predicate>
+      <subject>2919588</subject>
+      <object>2919589</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>185</h>
+      <object_id>2919586</object_id>
+      <w>70</w>
+      <y>48</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>252</h>
+      <object_id>2919589</object_id>
+      <w>154</w>
+      <y>70</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>239</h>
+      <object_id>2919587</object_id>
+      <w>115</w>
+      <y>1</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>70</h>
+      <object_id>2919588</object_id>
+      <w>256</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People outside a fence are watching a dog within the fence catch a Frisbee. </caption>
+      <caption>A crowd stands behind an iron fence watching a dog</caption>
+      <caption>A crowd behind a fence watching a dog with a frisbee.</caption>
+      <caption>Border collie catching a Frisbee in front of an audience. </caption>
+      <caption>some people and a black and white dog with an orange frisbee</caption>
+    </captions>
+</image>

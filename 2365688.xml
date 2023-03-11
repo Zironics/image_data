@@ -1,0 +1,65 @@
+<image>
+  <image-id>2365688</image-id>
+  <coco-id>12463</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4380178</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2517333</subject>
+      <object>2517332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4380179</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3882947</subject>
+      <object>1840189</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plug</name>
+      <h>20</h>
+      <object_id>2517333</object_id>
+      <w>43</w>
+      <y>97</y>
+      <x>94</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wire</name>
+      <h>15</h>
+      <object_id>2517332</object_id>
+      <w>24</w>
+      <y>94</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>surface</name>
+      <h>250</h>
+      <object_id>3882947</object_id>
+      <w>495</w>
+      <y>79</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>table</name>
+      <h>247</h>
+      <object_id>1840189</object_id>
+      <w>497</w>
+      <y>83</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of a mouse and a keyboard.</caption>
+      <caption>A small glass cat sitting on top of a computer desk.</caption>
+      <caption>A frog of some sort near a computer monitor of some sort.</caption>
+      <caption>there is a small cat toy on a small red pillow </caption>
+      <caption>A kitten toy is on a desk with a computer.</caption>
+    </captions>
+</image>

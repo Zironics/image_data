@@ -1,0 +1,119 @@
+<image>
+  <image-id>1159275</image-id>
+  <coco-id>547960</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3819791</relationship_id>
+      <predicate>wears a</predicate>
+      <subject>1688716</subject>
+      <object>1688717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4250562</relationship_id>
+      <predicate>has</predicate>
+      <subject>1590892</subject>
+      <object>3790126</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3819796</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3602441</subject>
+      <object>1590893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3819799</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3602443</subject>
+      <object>1590894</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>77</h>
+      <object_id>1688716</object_id>
+      <w>45</w>
+      <y>515</y>
+      <x>631</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light blue</attribute>
+      </attributes>
+      <name>coat</name>
+      <h>55</h>
+      <object_id>1688717</object_id>
+      <w>33</w>
+      <y>513</y>
+      <x>647</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>220</h>
+      <object_id>1590892</object_id>
+      <w>542</w>
+      <y>37</y>
+      <x>478</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>456</h>
+      <object_id>3790126</object_id>
+      <w>1003</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>100</h>
+      <object_id>3602441</object_id>
+      <w>59</w>
+      <y>500</y>
+      <x>475</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>long sleeved</attribute>
+      </attributes>
+      <name>blue shirt</name>
+      <h>30</h>
+      <object_id>1590893</object_id>
+      <w>21</w>
+      <y>522</y>
+      <x>497</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>89</h>
+      <object_id>3602443</object_id>
+      <w>39</w>
+      <y>502</y>
+      <x>777</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>coat</name>
+      <h>38</h>
+      <object_id>1590894</object_id>
+      <w>32</w>
+      <y>524</y>
+      <x>779</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people walking past a very tall brick house.</caption>
+      <caption>a number of people walking with luggage bags on a sidewalk</caption>
+      <caption>A group of people are walking on the sidewalk with their luggage.</caption>
+      <caption>People walking down the street with suitcases on wheels. </caption>
+      <caption>a tree in front of a two story house</caption>
+    </captions>
+</image>

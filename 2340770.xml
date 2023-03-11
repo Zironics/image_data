@@ -1,0 +1,59 @@
+<image>
+  <image-id>2340770</image-id>
+  <coco-id>32722</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3906334</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3015608</subject>
+      <object>3015609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4096132</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2442621</subject>
+      <object>2442622</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>antenna</name>
+      <h>42</h>
+      <object_id>3015608</object_id>
+      <w>57</w>
+      <y>158</y>
+      <x>372</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>163</h>
+      <object_id>3015609</object_id>
+      <w>260</w>
+      <y>137</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>25</h>
+      <object_id>2442621</object_id>
+      <w>96</w>
+      <y>69</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>140</h>
+      <object_id>2442622</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The silly black fellow has a cell phone case strapped to his head with a rubber band.</caption>
+      <caption>a man  with a cell phone strapped to his ear with a rubber band.</caption>
+      <caption>A man with a phone rubber banded to his head.</caption>
+      <caption>A man with cellphone strapped to his head and writing on the picture.</caption>
+      <caption>A man strapped a cellphone to his face and text reads, "SMS Reference Services...You're doing it wrong."</caption>
+    </captions>
+</image>

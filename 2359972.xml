@@ -1,0 +1,197 @@
+<image>
+  <image-id>2359972</image-id>
+  <coco-id>289659</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2199536</relationship_id>
+      <predicate>lying in a</predicate>
+      <subject>790217</subject>
+      <object>790218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199537</relationship_id>
+      <predicate>inside an</predicate>
+      <subject>790219</subject>
+      <object>790222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199538</relationship_id>
+      <predicate>lying in</predicate>
+      <subject>790226</subject>
+      <object>790218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199539</relationship_id>
+      <predicate>on other side of</predicate>
+      <subject>790228</subject>
+      <object>790222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199540</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>790223</subject>
+      <object>790218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199541</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>790226</subject>
+      <object>790218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199542</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>790232</subject>
+      <object>790218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199543</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>790222</subject>
+      <object>790227</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199544</relationship_id>
+      <predicate>on front of a</predicate>
+      <subject>790231</subject>
+      <object>790219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199545</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>790219</subject>
+      <object>790218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2199546</relationship_id>
+      <predicate>contained in</predicate>
+      <subject>790219</subject>
+      <object>790222</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rock</name>
+      <h>36</h>
+      <object_id>790217</object_id>
+      <w>48</w>
+      <y>192</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rocky</attribute>
+        <attribute>uneven</attribute>
+      </attributes>
+      <name>field</name>
+      <h>241</h>
+      <object_id>790218</object_id>
+      <w>497</w>
+      <y>91</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>large</attribute>
+        <attribute>eating</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>232</h>
+      <object_id>790219</object_id>
+      <w>261</w>
+      <y>57</y>
+      <x>156</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>wood</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>enclosure</name>
+      <h>26</h>
+      <object_id>790222</object_id>
+      <w>498</w>
+      <y>63</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bare</attribute>
+      </attributes>
+      <name>branch</name>
+      <h>16</h>
+      <object_id>790226</object_id>
+      <w>54</w>
+      <y>82</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>made of brick</attribute>
+        <attribute>green-roofed</attribute>
+        <attribute>open</attribute>
+      </attributes>
+      <name>shelter</name>
+      <h>57</h>
+      <object_id>790228</object_id>
+      <w>149</w>
+      <y>22</y>
+      <x>349</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>low</attribute>
+        <attribute>made of stone</attribute>
+        <attribute>curved</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>83</h>
+      <object_id>790223</object_id>
+      <w>465</w>
+      <y>86</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>30</h>
+      <object_id>790232</object_id>
+      <w>66</w>
+      <y>126</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>building</name>
+      <h>28</h>
+      <object_id>790227</object_id>
+      <w>121</w>
+      <y>51</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>12</h>
+      <object_id>790231</object_id>
+      <w>15</w>
+      <y>91</y>
+      <x>364</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A giraffe  standing on top of a dirt and grass field.</caption>
+      <caption>A giraffe walking about in a large enclosure. </caption>
+      <caption>The giraffe is eating grass from the hill side.</caption>
+      <caption>A giraffe stands in a rocky area, larger rocks behind him.</caption>
+      <caption>Giraffe resting while standing in the dirt and grass.</caption>
+    </captions>
+</image>

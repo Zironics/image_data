@@ -1,0 +1,106 @@
+<image>
+  <image-id>2339602</image-id>
+  <coco-id>71521</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4151212</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2385720</subject>
+      <object>2385719</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4151217</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2722164</subject>
+      <object>2722165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457336</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3928783</subject>
+      <object>2024222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457337</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2977196</subject>
+      <object>3928784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>finger nail</name>
+      <h>28</h>
+      <object_id>2385720</object_id>
+      <w>22</w>
+      <y>245</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>371</h>
+      <object_id>2385719</object_id>
+      <w>446</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>32</h>
+      <object_id>2722164</object_id>
+      <w>15</w>
+      <y>76</y>
+      <x>422</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>162</h>
+      <object_id>2722165</object_id>
+      <w>170</w>
+      <y>2</y>
+      <x>322</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>77</h>
+      <object_id>3928783</object_id>
+      <w>38</w>
+      <y>130</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>346</h>
+      <object_id>2024222</object_id>
+      <w>427</w>
+      <y>26</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <name>icing</name>
+      <h>25</h>
+      <object_id>2977196</object_id>
+      <w>64</w>
+      <y>225</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>cupcake</name>
+      <h>129</h>
+      <object_id>3928784</object_id>
+      <w>117</w>
+      <y>182</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man eating a frosted doughnut in front of a window.</caption>
+      <caption>a male in a black shirt is is eating a green donut</caption>
+      <caption>A man eating a green frosted donut in front of a window.</caption>
+      <caption>A person eating a donut with a green icing on it.</caption>
+      <caption>A person who is eating a doughnut with green icing. </caption>
+    </captions>
+</image>

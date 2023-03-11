@@ -1,0 +1,189 @@
+<image>
+  <image-id>2343039</image-id>
+  <coco-id>187963</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2732015</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927913</subject>
+      <object>927914</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732016</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927916</subject>
+      <object>927917</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732017</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927916</subject>
+      <object>927917</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732018</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927920</subject>
+      <object>927923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732019</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927916</subject>
+      <object>927922</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732020</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927915</subject>
+      <object>927924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732021</relationship_id>
+      <predicate>above a</predicate>
+      <subject>927915</subject>
+      <object>927913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732022</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927919</subject>
+      <object>927925</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732023</relationship_id>
+      <predicate>on a</predicate>
+      <subject>927916</subject>
+      <object>927924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2732024</relationship_id>
+      <predicate>has a</predicate>
+      <subject>927920</subject>
+      <object>927923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>111</h>
+      <object_id>927913</object_id>
+      <w>51</w>
+      <y>234</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pointing</attribute>
+        <attribute>white</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>arrow</name>
+      <h>21</h>
+      <object_id>927914</object_id>
+      <w>19</w>
+      <y>242</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>stop sign</name>
+      <h>98</h>
+      <object_id>927916</object_id>
+      <w>109</w>
+      <y>47</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>15</h>
+      <object_id>927917</object_id>
+      <w>38</w>
+      <y>110</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>large</attribute>
+        <attribute>leafy</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>317</h>
+      <object_id>927920</object_id>
+      <w>214</w>
+      <y>28</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>trunk</name>
+      <h>55</h>
+      <object_id>927923</object_id>
+      <w>25</w>
+      <y>290</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>32</h>
+      <object_id>927922</object_id>
+      <w>18</w>
+      <y>79</y>
+      <x>195</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>pointing</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>75</h>
+      <object_id>927915</object_id>
+      <w>75</w>
+      <y>138</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>21</h>
+      <object_id>927924</object_id>
+      <w>17</w>
+      <y>212</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>61</h>
+      <object_id>927919</object_id>
+      <w>37</w>
+      <y>284</y>
+      <x>417</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>10</h>
+      <object_id>927925</object_id>
+      <w>4</w>
+      <y>320</y>
+      <x>438</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stop sign, another sign with an arrow and a traffic light with a red arrow.</caption>
+      <caption>a red and white stop sign and a traffic light</caption>
+      <caption>A red stop sign mounted above a traffic light.</caption>
+      <caption>A street light and two traffic signs, one of which has been altered.</caption>
+      <caption>A RED STOP SIGN IN THE CITY IS POSTED</caption>
+    </captions>
+</image>

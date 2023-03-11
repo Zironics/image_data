@@ -1,0 +1,114 @@
+<image>
+  <image-id>2382932</image-id>
+  <coco-id>24042</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4777753</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4541934</subject>
+      <object>4541924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777754</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4541926</subject>
+      <object>4541925</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777755</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>4541927</subject>
+      <object>4541928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777756</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4541929</subject>
+      <object>4541930</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>big </attribute>
+      </attributes>
+      <h>57</h>
+      <object_id>4541934</object_id>
+      <w>39</w>
+      <y>119</y>
+      <x>349</x>
+      <name>trailer</name>
+    </object>
+    <object>
+      <name>road</name>
+      <h>159</h>
+      <object_id>4541924</object_id>
+      <w>151</w>
+      <y>149</y>
+      <x>274</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>line</name>
+      <h>10</h>
+      <object_id>4541926</object_id>
+      <w>7</w>
+      <y>176</y>
+      <x>343</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>15</h>
+      <object_id>4541925</object_id>
+      <w>15</w>
+      <y>187</y>
+      <x>354</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>car</name>
+      <h>324</h>
+      <object_id>4541927</object_id>
+      <w>491</w>
+      <y>6</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>289</h>
+      <object_id>4541928</object_id>
+      <w>465</w>
+      <y>46</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>85</h>
+      <object_id>4541929</object_id>
+      <w>222</w>
+      <y>287</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>184</h>
+      <object_id>4541930</object_id>
+      <w>490</w>
+      <y>181</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A rear view mirror showing a white van behind them.</caption>
+      <caption>a reflection of a truck and cars in a side view mirror
+</caption>
+      <caption>The view behind a car through its side mirror. </caption>
+      <caption>A look at traffic in the rear from a side view mirror.</caption>
+      <caption>A group of trucks is photographed in the mirror of a car</caption>
+    </captions>
+</image>

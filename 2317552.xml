@@ -1,0 +1,103 @@
+<image>
+  <image-id>2317552</image-id>
+  <coco-id>476268</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3046665</relationship_id>
+      <predicate>over</predicate>
+      <subject>1019802</subject>
+      <object>1019804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4509269</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1019802</subject>
+      <object>3951024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4509270</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3951023</subject>
+      <object>3951022</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4509271</relationship_id>
+      <predicate>for</predicate>
+      <subject>3951025</subject>
+      <object>1019802</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+        <attribute>of straw</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>55</h>
+      <object_id>1019802</object_id>
+      <w>83</w>
+      <y>211</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>44</h>
+      <object_id>1019804</object_id>
+      <w>38</w>
+      <y>272</y>
+      <x>292</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> w/ brown walk</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>14</h>
+      <object_id>3951024</object_id>
+      <w>494</w>
+      <y>315</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>waves</name>
+      <h>14</h>
+      <object_id>3951023</object_id>
+      <w>74</w>
+      <y>293</y>
+      <x>320</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>23</h>
+      <object_id>3951022</object_id>
+      <w>492</w>
+      <y>306</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> wooden</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>70</h>
+      <object_id>3951025</object_id>
+      <w>9</w>
+      <y>235</y>
+      <x>49</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The chairs and umbrellas are placed by the water.</caption>
+      <caption>A row of chairs and umbrellas on a beach.</caption>
+      <caption>Chairs are sat out under umbrellas on the beach.</caption>
+      <caption>A row of beach chairs and umbrellas in the sand, facing the ocean.</caption>
+      <caption>Chairs and umbrellas are all set up and ready for beach goers.</caption>
+    </captions>
+</image>

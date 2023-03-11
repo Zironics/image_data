@@ -1,0 +1,211 @@
+<image>
+  <image-id>2397973</image-id>
+  <coco-id>552318</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1736837</relationship_id>
+      <predicate>ON</predicate>
+      <subject>662977</subject>
+      <object>662978</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736838</relationship_id>
+      <predicate>with</predicate>
+      <subject>662979</subject>
+      <object>662980</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736839</relationship_id>
+      <predicate>with</predicate>
+      <subject>662984</subject>
+      <object>662985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736840</relationship_id>
+      <predicate>with</predicate>
+      <subject>662987</subject>
+      <object>662988</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736841</relationship_id>
+      <predicate>IN</predicate>
+      <subject>662989</subject>
+      <object>662990</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736842</relationship_id>
+      <predicate>IN</predicate>
+      <subject>662976</subject>
+      <object>662996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736843</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>662987</subject>
+      <object>662998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736844</relationship_id>
+      <predicate>IN</predicate>
+      <subject>662976</subject>
+      <object>662996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1736845</relationship_id>
+      <predicate>by</predicate>
+      <subject>662983</subject>
+      <object>662996</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>58</h>
+      <object_id>662977</object_id>
+      <w>194</w>
+      <y>201</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cement</attribute>
+      </attributes>
+      <name>stairs</name>
+      <h>60</h>
+      <object_id>662978</object_id>
+      <w>356</w>
+      <y>214</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>trailing smoke</attribute>
+        <attribute>leaving a trail</attribute>
+        <attribute>shooting into air</attribute>
+        <attribute>flying upwards</attribute>
+      </attributes>
+      <name>jet</name>
+      <h>28</h>
+      <object_id>662979</object_id>
+      <w>36</w>
+      <y>36</y>
+      <x>320</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>from  jet</attribute>
+        <attribute>white cloud</attribute>
+      </attributes>
+      <name>trail</name>
+      <h>139</h>
+      <object_id>662980</object_id>
+      <w>98</w>
+      <y>64</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>47</h>
+      <object_id>662984</object_id>
+      <w>15</w>
+      <y>274</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>bicycle</name>
+      <h>35</h>
+      <object_id>662985</object_id>
+      <w>15</w>
+      <y>290</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>42</h>
+      <object_id>662987</object_id>
+      <w>29</w>
+      <y>293</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>34</h>
+      <object_id>662988</object_id>
+      <w>20</w>
+      <y>305</y>
+      <x>367</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>above the crowd</attribute>
+        <attribute>in the far distance</attribute>
+      </attributes>
+      <name>jets</name>
+      <h>15</h>
+      <object_id>662989</object_id>
+      <w>29</w>
+      <y>27</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>182</h>
+      <object_id>662990</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for fishing</attribute>
+        <attribute>in the river thames</attribute>
+      </attributes>
+      <name>boats</name>
+      <h>44</h>
+      <object_id>662976</object_id>
+      <w>136</w>
+      <y>226</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>132</h>
+      <object_id>662996</object_id>
+      <w>292</w>
+      <y>215</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>stair</name>
+      <h>46</h>
+      <object_id>662998</object_id>
+      <w>270</w>
+      <y>302</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the background</attribute>
+        <attribute>along the water</attribute>
+        <attribute>in the distance</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>buildings</name>
+      <h>32</h>
+      <object_id>662983</object_id>
+      <w>271</w>
+      <y>167</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A jet with a jet stream behind it flying over a boardwalk filled with people.</caption>
+      <caption>a airplane being flown over some people on stairs</caption>
+      <caption>There are many people gathered to watch the air show.</caption>
+      <caption>A plane is flying over people and dropping smoke on them</caption>
+      <caption>A crowd gathered near water at an air show.</caption>
+    </captions>
+</image>

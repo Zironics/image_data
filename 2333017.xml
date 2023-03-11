@@ -1,0 +1,87 @@
+<image>
+  <image-id>2333017</image-id>
+  <coco-id>248152</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2887010</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>968218</subject>
+      <object>968219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2887011</relationship_id>
+      <predicate>IN</predicate>
+      <subject>968217</subject>
+      <object>968221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2887012</relationship_id>
+      <predicate>near</predicate>
+      <subject>968216</subject>
+      <object>968219</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>25</h>
+      <object_id>968218</object_id>
+      <w>10</w>
+      <y>318</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>40</h>
+      <object_id>968219</object_id>
+      <w>478</w>
+      <y>333</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>15</h>
+      <object_id>968217</object_id>
+      <w>32</w>
+      <y>124</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>255</h>
+      <object_id>968221</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>gravel</name>
+      <h>22</h>
+      <object_id>968216</object_id>
+      <w>338</w>
+      <y>353</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>One person on a beach flying their kite in the air.</caption>
+      <caption>A man flying a kite over a beach near the ocean.</caption>
+      <caption>A person on the beach flying a large kite.</caption>
+      <caption>A person is flying a kite by a body of water.</caption>
+      <caption>A person walks along the seashore flying a kite.</caption>
+    </captions>
+</image>

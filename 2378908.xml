@@ -1,0 +1,76 @@
+<image>
+  <image-id>2378908</image-id>
+  <coco-id>443490</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4296868</relationship_id>
+      <predicate>IN</predicate>
+      <subject>556609</subject>
+      <object>3835749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1371817</relationship_id>
+      <predicate>look at</predicate>
+      <subject>556614</subject>
+      <object>556611</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>50</h>
+      <object_id>556609</object_id>
+      <w>120</w>
+      <y>76</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>101</h>
+      <object_id>3835749</object_id>
+      <w>326</w>
+      <y>30</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shoppers</name>
+      <h>135</h>
+      <object_id>556614</object_id>
+      <w>114</w>
+      <y>150</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>sittng</attribute>
+        <attribute>colorful</attribute>
+        <attribute>large</attribute>
+        <attribute>bending</attribute>
+        <attribute>tall</attribute>
+        <attribute>green</attribute>
+        <attribute>oriental</attribute>
+        <attribute>market</attribute>
+        <attribute>round</attribute>
+        <attribute>cracked</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>224</h>
+      <object_id>556611</object_id>
+      <w>232</w>
+      <y>213</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People in a square admiring a display of fine pottery.</caption>
+      <caption>some people are standing near some  vases</caption>
+      <caption>A shop sells an arrangement of finely painted vases.</caption>
+      <caption>hundreds of vases different sizes and different colors</caption>
+      <caption>A big area market filled with many assorted urns.</caption>
+    </captions>
+</image>

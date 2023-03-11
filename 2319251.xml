@@ -1,0 +1,102 @@
+<image>
+  <image-id>2319251</image-id>
+  <coco-id>127516</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4496289</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2908459</subject>
+      <object>3098542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4496290</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3098542</subject>
+      <object>3945999</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4496291</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3167244</subject>
+      <object>3167245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4496292</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2987968</subject>
+      <object>3946000</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>splash</name>
+      <h>199</h>
+      <object_id>2908459</object_id>
+      <w>152</w>
+      <y>96</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>body of</attribute>
+      </attributes>
+      <name>water</name>
+      <h>330</h>
+      <object_id>3098542</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>311</h>
+      <object_id>3945999</object_id>
+      <w>475</w>
+      <y>10</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>160</h>
+      <object_id>3167244</object_id>
+      <w>212</w>
+      <y>40</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>180</h>
+      <object_id>3167245</object_id>
+      <w>271</w>
+      <y>129</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>body</name>
+      <h>145</h>
+      <object_id>2987968</object_id>
+      <w>183</w>
+      <y>62</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wavy</attribute>
+      </attributes>
+      <name>water</name>
+      <h>300</h>
+      <object_id>3946000</object_id>
+      <w>156</w>
+      <y>5</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in black wetsuit on a blue and white boogie board.</caption>
+      <caption>Woman on a body board coming in with a wave.</caption>
+      <caption>A person rides belly-down on a surfboard. </caption>
+      <caption>A surfer is almost lost in the foam as she lays on her surfboard.</caption>
+      <caption>A woman with an surf board coming up out of the ocean. </caption>
+    </captions>
+</image>

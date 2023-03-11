@@ -1,0 +1,131 @@
+<image>
+  <image-id>2345744</image-id>
+  <coco-id>72714</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3863533</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2248187</subject>
+      <object>2248188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3863534</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2248188</subject>
+      <object>2248189</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4428832</relationship_id>
+      <predicate>walking down a</predicate>
+      <subject>3911585</subject>
+      <object>2198869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3863538</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2461711</subject>
+      <object>2461710</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3863539</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3622378</subject>
+      <object>2277462</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>tag</name>
+      <h>8</h>
+      <object_id>2248187</object_id>
+      <w>12</w>
+      <y>117</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>10</h>
+      <object_id>2248188</object_id>
+      <w>11</w>
+      <y>113</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black and white</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>112</h>
+      <object_id>2248189</object_id>
+      <w>66</w>
+      <y>114</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>diary</attribute>
+      </attributes>
+      <name>cows</name>
+      <h>136</h>
+      <object_id>3911585</object_id>
+      <w>367</w>
+      <y>90</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <h>214</h>
+      <object_id>2198869</object_id>
+      <w>365</w>
+      <y>159</y>
+      <x>1</x>
+      <name>gray pathway</name>
+    </object>
+    <object>
+      <name>white stripe</name>
+      <h>42</h>
+      <object_id>2461711</object_id>
+      <w>14</w>
+      <y>106</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>42</h>
+      <object_id>2461710</object_id>
+      <w>46</w>
+      <y>106</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>38</h>
+      <object_id>3622378</object_id>
+      <w>86</w>
+      <y>61</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>cows</name>
+      <h>205</h>
+      <object_id>2277462</object_id>
+      <w>366</w>
+      <y>47</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of cows walking down a small country road.</caption>
+      <caption>a herd of cows walking down the middle of a road.</caption>
+      <caption>Dairy cows herding down a paved road in Europe</caption>
+      <caption>A herd of cattle walk down a road with trees in the background.</caption>
+      <caption>A group of cows are walking down the road.</caption>
+    </captions>
+</image>

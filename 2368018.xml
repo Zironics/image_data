@@ -1,0 +1,94 @@
+<image>
+  <image-id>2368018</image-id>
+  <coco-id>297396</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1596241</relationship_id>
+      <predicate>has</predicate>
+      <subject>619506</subject>
+      <object>619507</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1596242</relationship_id>
+      <predicate>are on</predicate>
+      <subject>619508</subject>
+      <object>619506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1596243</relationship_id>
+      <predicate>has</predicate>
+      <subject>619509</subject>
+      <object>619506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1596244</relationship_id>
+      <predicate>has</predicate>
+      <subject>619506</subject>
+      <object>619507</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>chocolate</attribute>
+        <attribute>brown</attribute>
+        <attribute>fudge</attribute>
+        <attribute>dark</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>225</h>
+      <object_id>619506</object_id>
+      <w>398</w>
+      <y>7</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>frosting</name>
+      <h>65</h>
+      <object_id>619507</object_id>
+      <w>53</w>
+      <y>93</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>sprinkles</name>
+      <h>30</h>
+      <object_id>619508</object_id>
+      <w>39</w>
+      <y>69</y>
+      <x>171</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>yellow</attribute>
+        <attribute>metal</attribute>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+        <attribute>striped</attribute>
+        <attribute>shiny</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>163</h>
+      <object_id>619509</object_id>
+      <w>414</w>
+      <y>164</y>
+      <x>65</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Small pieces of cake have been arranged on a plate</caption>
+      <caption>Chocolate dessert bars covered in frosting and sprinkles.</caption>
+      <caption>A plate of desserts on a table looking delicious.</caption>
+      <caption>A plate of desserts with frosting and sprinkles.</caption>
+      <caption>A set up small chocolate cakes decorated like trains.</caption>
+    </captions>
+</image>

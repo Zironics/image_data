@@ -1,0 +1,41 @@
+<image>
+  <image-id>2415695</image-id>
+  <coco-id>179311</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4544234</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3482151</subject>
+      <object>3314535</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stormy clouds</name>
+      <h>92</h>
+      <object_id>3482151</object_id>
+      <w>235</w>
+      <y>59</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray </attribute>
+        <attribute>cloudy </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>324</h>
+      <object_id>3314535</object_id>
+      <w>494</w>
+      <y>6</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plane that is flying in the air.</caption>
+      <caption>A sky view of a single engine plane in flight.</caption>
+      <caption>A vintage style airplane is flying ahead of storm clouds.</caption>
+      <caption>A small airplane flies beneath stormy skies. </caption>
+      <caption>An old plane flying through the cloudy sky.</caption>
+    </captions>
+</image>

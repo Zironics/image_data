@@ -1,0 +1,85 @@
+<image>
+  <image-id>713045</image-id>
+  <coco-id>203110</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4578550</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4044416</subject>
+      <object>4044422</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4578552</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4044421</subject>
+      <object>4044422</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4578553</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4044424</subject>
+      <object>4044425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4578555</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4044424</subject>
+      <object>4044425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4578554</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4044425</subject>
+      <object>4044425</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windows</name>
+      <h>202</h>
+      <object_id>4044416</object_id>
+      <w>249</w>
+      <y>167</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>489</h>
+      <object_id>4044422</object_id>
+      <w>688</w>
+      <y>100</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>35</h>
+      <object_id>4044421</object_id>
+      <w>39</w>
+      <y>411</y>
+      <x>316</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>42</h>
+      <object_id>4044424</object_id>
+      <w>35</w>
+      <y>376</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>74</h>
+      <object_id>4044425</object_id>
+      <w>37</w>
+      <y>338</y>
+      <x>123</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Orange streetcar stopped at a pick up point along a line.</caption>
+      <caption>a yellow bus that is a trolly car</caption>
+      <caption>An orange trolley traveling down a city street.</caption>
+      <caption>an orange trolley car sitting on the side of the road</caption>
+      <caption>The street trolley car is painted bright yellow.</caption>
+    </captions>
+</image>

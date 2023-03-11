@@ -1,0 +1,185 @@
+<image>
+  <image-id>2384590</image-id>
+  <coco-id>468302</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1832416</relationship_id>
+      <predicate>logo on hat</predicate>
+      <subject>691468</subject>
+      <object>691468</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307856</relationship_id>
+      <predicate>has</predicate>
+      <subject>3846788</subject>
+      <object>691493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307857</relationship_id>
+      <predicate>ON</predicate>
+      <subject>691495</subject>
+      <object>3846781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307858</relationship_id>
+      <predicate>ON</predicate>
+      <subject>691499</subject>
+      <object>3846784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307859</relationship_id>
+      <predicate>ON</predicate>
+      <subject>691495</subject>
+      <object>3846784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307860</relationship_id>
+      <predicate>ON</predicate>
+      <subject>691501</subject>
+      <object>3846784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307861</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3846785</subject>
+      <object>3846786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307862</relationship_id>
+      <predicate>Next to</predicate>
+      <subject>691503</subject>
+      <object>3846787</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307863</relationship_id>
+      <predicate>has</predicate>
+      <subject>3846788</subject>
+      <object>691504</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>23</h>
+      <object_id>691468</object_id>
+      <w>26</w>
+      <y>119</y>
+      <x>183</x>
+      <name>logo on hat</name>
+    </object>
+    <object>
+      <h>58</h>
+      <object_id>3846788</object_id>
+      <w>109</w>
+      <y>275</y>
+      <x>174</x>
+      <name>pants</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red stripe on pants</name>
+      <h>52</h>
+      <object_id>691493</object_id>
+      <w>39</w>
+      <y>280</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>man standing</name>
+      <h>34</h>
+      <object_id>691495</object_id>
+      <w>21</w>
+      <y>178</y>
+      <x>325</x>
+    </object>
+    <object>
+      <name>outfield</name>
+      <h>150</h>
+      <object_id>3846781</object_id>
+      <w>489</w>
+      <y>172</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>baseball player</name>
+      <h>25</h>
+      <object_id>691499</object_id>
+      <w>14</w>
+      <y>187</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>139</h>
+      <object_id>3846784</object_id>
+      <w>481</w>
+      <y>191</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white line</name>
+      <h>12</h>
+      <object_id>691501</object_id>
+      <w>103</w>
+      <y>310</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>86</h>
+      <object_id>3846785</object_id>
+      <w>50</w>
+      <y>39</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>164</h>
+      <object_id>3846786</object_id>
+      <w>490</w>
+      <y>5</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue fence</name>
+      <h>22</h>
+      <object_id>691503</object_id>
+      <w>317</w>
+      <y>180</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>128</h>
+      <object_id>3846787</object_id>
+      <w>484</w>
+      <y>202</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red stripe</name>
+      <h>16</h>
+      <object_id>691504</object_id>
+      <w>35</w>
+      <y>281</y>
+      <x>228</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in a blue and white baseball uniform preparing to throw a baseball.</caption>
+      <caption>A man in a baseball uniform and mitt behind a fence.</caption>
+      <caption>A baseball player wearing a catchers mitt on a field.</caption>
+      <caption>A baseball player lifts his leg behind a chain link fence</caption>
+      <caption>a man is wearing a baseball glove at a game</caption>
+    </captions>
+</image>

@@ -1,0 +1,207 @@
+<image>
+  <image-id>2386734</image-id>
+  <coco-id>415604</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1795438</relationship_id>
+      <predicate>inside a</predicate>
+      <subject>680873</subject>
+      <object>680874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795439</relationship_id>
+      <predicate>has an</predicate>
+      <subject>680873</subject>
+      <object>680876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795440</relationship_id>
+      <predicate>has an</predicate>
+      <subject>680873</subject>
+      <object>680876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795441</relationship_id>
+      <predicate>has an</predicate>
+      <subject>680873</subject>
+      <object>680877</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795442</relationship_id>
+      <predicate>has an</predicate>
+      <subject>680873</subject>
+      <object>680877</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795443</relationship_id>
+      <predicate>sitting in a</predicate>
+      <subject>680873</subject>
+      <object>680874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795444</relationship_id>
+      <predicate>pushed into</predicate>
+      <subject>680883</subject>
+      <object>680884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795445</relationship_id>
+      <predicate>ON</predicate>
+      <subject>680886</subject>
+      <object>680884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795446</relationship_id>
+      <predicate>sitting inside a</predicate>
+      <subject>680873</subject>
+      <object>680874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795447</relationship_id>
+      <predicate>filled with</predicate>
+      <subject>680874</subject>
+      <object>680887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795448</relationship_id>
+      <predicate>ON</predicate>
+      <subject>680880</subject>
+      <object>680884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795449</relationship_id>
+      <predicate>pushed into</predicate>
+      <subject>680883</subject>
+      <object>680884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795450</relationship_id>
+      <predicate>IN</predicate>
+      <subject>680873</subject>
+      <object>680874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795451</relationship_id>
+      <predicate>are zippered in</predicate>
+      <subject>680887</subject>
+      <object>680874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795452</relationship_id>
+      <predicate>ON</predicate>
+      <subject>680880</subject>
+      <object>680884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1795453</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>680873</subject>
+      <object>680874</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>orange</attribute>
+        <attribute>long haired</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>87</h>
+      <object_id>680873</object_id>
+      <w>118</w>
+      <y>155</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>case</name>
+      <h>196</h>
+      <object_id>680874</object_id>
+      <w>293</w>
+      <y>179</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>20</h>
+      <object_id>680876</object_id>
+      <w>20</w>
+      <y>155</y>
+      <x>236</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glowing</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>7</h>
+      <object_id>680877</object_id>
+      <w>7</w>
+      <y>182</y>
+      <x>261</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>49</h>
+      <object_id>680883</object_id>
+      <w>100</w>
+      <y>133</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>246</h>
+      <object_id>680884</object_id>
+      <w>498</w>
+      <y>129</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hardcovered</attribute>
+        <attribute>hardback</attribute>
+      </attributes>
+      <name>book</name>
+      <h>56</h>
+      <object_id>680886</object_id>
+      <w>156</w>
+      <y>319</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>clothes</name>
+      <h>116</h>
+      <object_id>680887</object_id>
+      <w>241</w>
+      <y>243</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>scented</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>candle</name>
+      <h>56</h>
+      <object_id>680880</object_id>
+      <w>41</w>
+      <y>168</y>
+      <x>424</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a cat is laying inside of a suitcase on the floor</caption>
+      <caption>A cat sitting amongst the clothes inside a suitcase </caption>
+      <caption>An orange cat laying in a piece of luggage.</caption>
+      <caption>What a comfy place for a cat nap.</caption>
+      <caption>A orange cat sits in the suitcase ready to be packed*</caption>
+    </captions>
+</image>

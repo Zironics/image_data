@@ -1,0 +1,73 @@
+<image>
+  <image-id>2393406</image-id>
+  <coco-id>429946</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4289978</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>1040990</subject>
+      <object>1040982</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289979</relationship_id>
+      <predicate>against</predicate>
+      <subject>1040985</subject>
+      <object>3824694</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>connected</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>74</h>
+      <object_id>1040990</object_id>
+      <w>226</w>
+      <y>206</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bricks</attribute>
+        <attribute>brown</attribute>
+        <attribute>brick</attribute>
+      </attributes>
+      <h>274</h>
+      <object_id>1040982</object_id>
+      <w>495</w>
+      <y>4</y>
+      <x>4</x>
+      <name>wall</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>closed</attribute>
+        <attribute>green</attribute>
+        <attribute>against a fence</attribute>
+        <attribute>teal</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>126</h>
+      <object_id>1040985</object_id>
+      <w>89</w>
+      <y>136</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>60</h>
+      <object_id>3824694</object_id>
+      <w>95</w>
+      <y>219</y>
+      <x>117</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two closed umbrellas near a gate in someone's backyard. </caption>
+      <caption>two closed umbrellas near trees and a fence</caption>
+      <caption>The umbrellas are closed and not in use</caption>
+      <caption>Two large umbrellas near a fence are closed.</caption>
+      <caption>Two closed table umbrellas leaning up against the fence</caption>
+    </captions>
+</image>

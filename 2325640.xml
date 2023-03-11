@@ -1,0 +1,147 @@
+<image>
+  <image-id>2325640</image-id>
+  <coco-id>426383</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483220</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3185882</subject>
+      <object>2754253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3701346</relationship_id>
+      <predicate>has</predicate>
+      <subject>2762849</subject>
+      <object>3008641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3701359</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2754248</subject>
+      <object>2754253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3701360</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2754249</subject>
+      <object>2754253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3701361</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2754250</subject>
+      <object>2754253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3701362</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2754251</subject>
+      <object>2754253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3701363</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2754252</subject>
+      <object>2754253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483221</relationship_id>
+      <predicate>next</predicate>
+      <subject>2762849</subject>
+      <object>3941048</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>10</h>
+      <object_id>3185882</object_id>
+      <w>41</w>
+      <y>188</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>115</h>
+      <object_id>2754253</object_id>
+      <w>135</w>
+      <y>146</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>225</h>
+      <object_id>2762849</object_id>
+      <w>198</w>
+      <y>82</y>
+      <x>218</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>reflective</attribute>
+      </attributes>
+      <h>50</h>
+      <object_id>3008641</object_id>
+      <w>122</w>
+      <y>195</y>
+      <x>265</x>
+      <name>window</name>
+    </object>
+    <object>
+      <name>window</name>
+      <h>27</h>
+      <object_id>2754248</object_id>
+      <w>16</w>
+      <y>159</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>22</h>
+      <object_id>2754249</object_id>
+      <w>15</w>
+      <y>162</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>22</h>
+      <object_id>2754250</object_id>
+      <w>15</w>
+      <y>160</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>17</h>
+      <object_id>2754251</object_id>
+      <w>11</w>
+      <y>164</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>20</h>
+      <object_id>2754252</object_id>
+      <w>22</w>
+      <y>162</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>curb</name>
+      <h>80</h>
+      <object_id>3941048</object_id>
+      <w>105</w>
+      <y>264</y>
+      <x>393</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two double-decker buses on the side of the road.</caption>
+      <caption>Two double-decker buses await passengers on a street.</caption>
+      <caption>Two double decker buses pulling up to a stop along the curb.</caption>
+      <caption>One red and one blue double decker bus make a stop at a bus stop.</caption>
+      <caption>Two double decker buses waiting on a street.</caption>
+    </captions>
+</image>

@@ -1,0 +1,70 @@
+<image>
+  <image-id>2383127</image-id>
+  <coco-id>472551</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1310799</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>534881</subject>
+      <object>534882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1310800</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>534883</subject>
+      <object>534882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1310801</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>534883</subject>
+      <object>534882</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>93</h>
+      <object_id>534881</object_id>
+      <w>101</w>
+      <y>159</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>210</h>
+      <object_id>534882</object_id>
+      <w>40</w>
+      <y>289</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>showing side view</attribute>
+        <attribute>showing back</attribute>
+        <attribute>showing side</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>130</h>
+      <object_id>534883</object_id>
+      <w>49</w>
+      <y>10</y>
+      <x>322</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Palm trees can be seen behind a street sign</caption>
+      <caption>These are strange looking palm trees lining the street.</caption>
+      <caption>A couple of palm trees sitting around a traffic light.</caption>
+      <caption>A street sign that is in a very prestigious location of town.</caption>
+      <caption>A street sign is hanging at an intersection.</caption>
+    </captions>
+</image>

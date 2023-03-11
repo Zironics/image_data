@@ -1,0 +1,76 @@
+<image>
+  <image-id>2330131</image-id>
+  <coco-id>419375</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3955480</relationship_id>
+      <predicate>travelling down</predicate>
+      <subject>2993322</subject>
+      <object>3278963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467651</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3025070</subject>
+      <object>3025069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3955492</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2827987</subject>
+      <object>3278963</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bus</name>
+      <h>158</h>
+      <object_id>2993322</object_id>
+      <w>177</w>
+      <y>90</y>
+      <x>134</x>
+    </object>
+    <object>
+      <h>136</h>
+      <object_id>3278963</object_id>
+      <w>500</w>
+      <y>197</y>
+      <x>0</x>
+      <name>pavement</name>
+    </object>
+    <object>
+      <name>bumper</name>
+      <h>50</h>
+      <object_id>3025070</object_id>
+      <w>131</w>
+      <y>188</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>157</h>
+      <object_id>3025069</object_id>
+      <w>190</w>
+      <y>87</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>arrow</name>
+      <h>19</h>
+      <object_id>2827987</object_id>
+      <w>70</w>
+      <y>262</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a green and white bus a car street and a building </caption>
+      <caption>A small green and white bush traveling down a highway.</caption>
+      <caption>a bus drives on the left lane of a highway</caption>
+      <caption>A bus on a two lane paved road next to a large structure.</caption>
+      <caption>A green and white bus is on the street near an overpass.</caption>
+    </captions>
+</image>

@@ -1,0 +1,82 @@
+<image>
+  <image-id>2331257</image-id>
+  <coco-id>350245</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4737263</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4433973</subject>
+      <object>4433971</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824699</relationship_id>
+      <predicate>on</predicate>
+      <subject>4658499</subject>
+      <object>4658496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824700</relationship_id>
+      <predicate>on</predicate>
+      <subject>4658499</subject>
+      <object>4658497</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824701</relationship_id>
+      <predicate>on</predicate>
+      <subject>4658499</subject>
+      <object>4658497</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>23</h>
+      <object_id>4433973</object_id>
+      <w>28</w>
+      <y>201</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>staring</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>276</h>
+      <object_id>4433971</object_id>
+      <w>262</w>
+      <y>97</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>10</h>
+      <object_id>4658499</object_id>
+      <w>17</w>
+      <y>289</y>
+      <x>287</x>
+      <name>key</name>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>92</h>
+      <object_id>4658496</object_id>
+      <w>277</w>
+      <y>243</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>97</h>
+      <object_id>4658497</object_id>
+      <w>278</w>
+      <y>257</y>
+      <x>220</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A fluffy dog sits in front of a laptop and a door.</caption>
+      <caption>A small dog sitting next to a laptop.</caption>
+      <caption>Small blonde dog sitting in front of turned on laptop</caption>
+      <caption>Dog sitting staring at the camera next to a laptop.</caption>
+      <caption>A small dog poses near a laptop computer.</caption>
+    </captions>
+</image>

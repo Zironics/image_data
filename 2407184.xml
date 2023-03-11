@@ -1,0 +1,164 @@
+<image>
+  <image-id>2407184</image-id>
+  <coco-id>407313</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3229333</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1098575</subject>
+      <object>1098576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229334</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1098578</subject>
+      <object>1098579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229335</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1098578</subject>
+      <object>1098576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229336</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1098575</subject>
+      <object>1098577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229337</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1098577</subject>
+      <object>1098576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229338</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1098577</subject>
+      <object>1098576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229339</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1098578</subject>
+      <object>1098576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229340</relationship_id>
+      <predicate>has</predicate>
+      <subject>1098578</subject>
+      <object>1098582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229341</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1098575</subject>
+      <object>1098577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229342</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1098577</subject>
+      <object>1098576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229343</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1098578</subject>
+      <object>1098576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229344</relationship_id>
+      <predicate>has</predicate>
+      <subject>1098578</subject>
+      <object>1098582</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>vegetable</attribute>
+        <attribute>cooked</attribute>
+        <attribute>green</attribute>
+        <attribute>vivid</attribute>
+        <attribute>fresh</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>230</h>
+      <object_id>1098575</object_id>
+      <w>263</w>
+      <y>5</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>white colored</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>308</h>
+      <object_id>1098576</object_id>
+      <w>491</w>
+      <y>21</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>eating utensil</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>105</h>
+      <object_id>1098578</object_id>
+      <w>238</w>
+      <y>20</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiled</attribute>
+      </attributes>
+      <name>table</name>
+      <h>102</h>
+      <object_id>1098579</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+        <attribute>seasoned</attribute>
+        <attribute>brown</attribute>
+        <attribute>penne</attribute>
+        <attribute>delicious</attribute>
+      </attributes>
+      <name>noodles</name>
+      <h>301</h>
+      <object_id>1098577</object_id>
+      <w>486</w>
+      <y>30</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>54</h>
+      <object_id>1098582</object_id>
+      <w>76</w>
+      <y>75</y>
+      <x>423</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Plate of pasta with broccoli and peppers near fork.</caption>
+      <caption>A plate with noodles, meat and broccoli in some sauce.</caption>
+      <caption>a pasta dish up close with yellow sauce and broccoli </caption>
+      <caption>A close up of a sauce covered pasta with vegetables </caption>
+      <caption>A plate with noodles and broccoli on a tile counter.</caption>
+    </captions>
+</image>

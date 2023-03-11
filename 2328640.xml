@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328640</image-id>
+  <coco-id>470663</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3894934</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3194652</subject>
+      <object>3194653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099000</relationship_id>
+      <predicate>touches</predicate>
+      <subject>3262252</subject>
+      <object>3262253</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>298</h>
+      <object_id>3194652</object_id>
+      <w>182</w>
+      <y>88</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tennis </attribute>
+      </attributes>
+      <name>racket</name>
+      <h>147</h>
+      <object_id>3194653</object_id>
+      <w>87</w>
+      <y>193</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>couple</name>
+      <h>405</h>
+      <object_id>3262252</object_id>
+      <w>363</w>
+      <y>93</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>hands</name>
+      <h>41</h>
+      <object_id>3262253</object_id>
+      <w>42</w>
+      <y>302</y>
+      <x>165</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man and a woman touching hands on a tennis court.</caption>
+      <caption>A male and female tennis player are playing a match.</caption>
+      <caption>Two players taking a break from a tennis match.</caption>
+      <caption>A male and female tennis players brush hands on the court.</caption>
+      <caption>A male and female tennis player touching hands as they walk past each other</caption>
+    </captions>
+</image>

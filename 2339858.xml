@@ -1,0 +1,62 @@
+<image>
+  <image-id>2339858</image-id>
+  <coco-id>149327</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4039042</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2254874</subject>
+      <object>2254875</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4039045</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2495364</subject>
+      <object>2495365</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>307</h>
+      <object_id>2254874</object_id>
+      <w>105</w>
+      <y>0</y>
+      <x>15</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>107</h>
+      <object_id>2254875</object_id>
+      <w>92</w>
+      <y>30</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>160</h>
+      <object_id>2495364</object_id>
+      <w>121</w>
+      <y>80</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>155</h>
+      <object_id>2495365</object_id>
+      <w>148</w>
+      <y>174</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man at an outdoor cafe gives his order to the waitress. </caption>
+      <caption>A group of people sitting outside eating at a restaurant.</caption>
+      <caption>A group of people sitting around a table eating food.</caption>
+      <caption>People gathered outside as if on street street side restaurant, common to a European style city.</caption>
+      <caption>An outdoor eatery area is crowded with customers.</caption>
+    </captions>
+</image>

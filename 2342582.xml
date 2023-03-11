@@ -1,0 +1,96 @@
+<image>
+  <image-id>2342582</image-id>
+  <coco-id>122255</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2747531</relationship_id>
+      <predicate>eating</predicate>
+      <subject>932654</subject>
+      <object>932658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747532</relationship_id>
+      <predicate>are in</predicate>
+      <subject>932659</subject>
+      <object>932659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747533</relationship_id>
+      <predicate>are in</predicate>
+      <subject>932659</subject>
+      <object>932659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747534</relationship_id>
+      <predicate>are in</predicate>
+      <subject>932659</subject>
+      <object>932659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747535</relationship_id>
+      <predicate>has</predicate>
+      <subject>932659</subject>
+      <object>932659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747536</relationship_id>
+      <predicate>eating</predicate>
+      <subject>932655</subject>
+      <object>932658</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>116</h>
+      <object_id>932654</object_id>
+      <w>164</w>
+      <y>165</y>
+      <x>106</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>119</h>
+      <object_id>932658</object_id>
+      <w>499</w>
+      <y>212</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>108</h>
+      <object_id>932659</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>40</h>
+      <object_id>932655</object_id>
+      <w>59</w>
+      <y>197</y>
+      <x>246</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A field full of cattle grazing on lush green grass.</caption>
+      <caption>the cows are eating grasses on the hill. </caption>
+      <caption>A herd of cows grazes before a misty hillside. </caption>
+      <caption>Several cows eating grass in a field near a hillside.</caption>
+      <caption>Six cows are grazing in an open field.</caption>
+    </captions>
+</image>

@@ -1,0 +1,94 @@
+<image>
+  <image-id>2372119</image-id>
+  <coco-id>244633</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4315049</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2390627</subject>
+      <object>2492927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4315050</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3853390</subject>
+      <object>1917890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4315052</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3853392</subject>
+      <object>2492927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4315053</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3853393</subject>
+      <object>2492927</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>touchpad</name>
+      <h>58</h>
+      <object_id>2390627</object_id>
+      <w>135</w>
+      <y>248</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>322</h>
+      <object_id>2492927</object_id>
+      <w>365</w>
+      <y>8</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>keys</name>
+      <h>27</h>
+      <object_id>3853390</object_id>
+      <w>64</w>
+      <y>202</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>69</h>
+      <object_id>1917890</object_id>
+      <w>269</w>
+      <y>194</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>132</h>
+      <object_id>3853392</object_id>
+      <w>80</w>
+      <y>174</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>drink</name>
+      <h>120</h>
+      <object_id>3853393</object_id>
+      <w>88</w>
+      <y>184</y>
+      <x>285</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a laptop in use and a glass of lemon</caption>
+      <caption>A laptop computer sitting on top of a wooden table.</caption>
+      <caption>a laptop with some containers around it and a full glass on it </caption>
+      <caption>Open laptop with a mixed drink on the keyboard.</caption>
+      <caption>An open laptop with several bottles and glasses nearby.</caption>
+    </captions>
+</image>

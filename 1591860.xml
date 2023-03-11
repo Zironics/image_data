@@ -1,0 +1,40 @@
+<image>
+  <image-id>1591860</image-id>
+  <coco-id>521176</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3834633</relationship_id>
+      <predicate>has</predicate>
+      <subject>1604365</subject>
+      <object>1604366</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pen</name>
+      <h>23</h>
+      <object_id>1604365</object_id>
+      <w>29</w>
+      <y>476</y>
+      <x>732</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>tip</name>
+      <h>23</h>
+      <object_id>1604366</object_id>
+      <w>7</w>
+      <y>476</y>
+      <x>754</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holds an umbrella and looks over a flowery hill to the sea beyond.</caption>
+      <caption>The man is using an umbrella for his artwork.</caption>
+      <caption>A person painting with a really great view of nature.</caption>
+      <caption>a woman is holding an umbrella above her</caption>
+      <caption>A man set up his easel on a hill to capture the scenery below. </caption>
+    </captions>
+</image>

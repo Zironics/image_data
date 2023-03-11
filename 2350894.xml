@@ -1,0 +1,147 @@
+<image>
+  <image-id>2350894</image-id>
+  <coco-id>404839</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4408141</relationship_id>
+      <predicate>wrapped in</predicate>
+      <subject>2632611</subject>
+      <object>2632612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408142</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2194085</subject>
+      <object>1683665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408143</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1660632</subject>
+      <object>3899304</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408144</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2194085</subject>
+      <object>1660632</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408145</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2194085</subject>
+      <object>3899306</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408146</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2194085</subject>
+      <object>2670502</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408147</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2194085</subject>
+      <object>1751420</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wrapped</attribute>
+      </attributes>
+      <name>present</name>
+      <h>34</h>
+      <object_id>2632611</object_id>
+      <w>49</w>
+      <y>374</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>Christmas</attribute>
+        <attribute>wrapping</attribute>
+      </attributes>
+      <name>wrapping paper</name>
+      <h>35</h>
+      <object_id>2632612</object_id>
+      <w>48</w>
+      <y>373</y>
+      <x>180</x>
+    </object>
+    <object>
+      <h>404</h>
+      <object_id>2194085</object_id>
+      <w>311</w>
+      <y>96</y>
+      <x>20</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>gaming</attribute>
+      </attributes>
+      <name>controller</name>
+      <h>162</h>
+      <object_id>1683665</object_id>
+      <w>198</w>
+      <y>174</y>
+      <x>5</x>
+    </object>
+    <object>
+      <h>30</h>
+      <object_id>1660632</object_id>
+      <w>68</w>
+      <y>184</y>
+      <x>5</x>
+      <name>controller</name>
+    </object>
+    <object>
+      <name>right hand</name>
+      <h>71</h>
+      <object_id>3899304</object_id>
+      <w>61</w>
+      <y>271</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>16</h>
+      <object_id>3899306</object_id>
+      <w>42</w>
+      <y>134</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink </attribute>
+      </attributes>
+      <name>pink blouse</name>
+      <h>247</h>
+      <object_id>2670502</object_id>
+      <w>171</w>
+      <y>175</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>black pants</name>
+      <h>113</h>
+      <object_id>1751420</object_id>
+      <w>126</w>
+      <y>385</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A couple standing together holding Wii controllers next to a building.</caption>
+      <caption>Two people playing with an interactive gaming unit.</caption>
+      <caption>Two people in a living room playing with a Wii. </caption>
+      <caption>two girls holding game controllers playing a video game</caption>
+      <caption>Two people holding Wii remotes and nun-chucks in an indoor area.</caption>
+    </captions>
+</image>

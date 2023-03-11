@@ -1,0 +1,76 @@
+<image>
+  <image-id>2330888</image-id>
+  <coco-id>553278</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4009889</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2717771</subject>
+      <object>3485026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3969860</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3210906</subject>
+      <object>3664462</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4009890</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3485027</subject>
+      <object>3485026</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bacon</name>
+      <h>92</h>
+      <object_id>2717771</object_id>
+      <w>233</w>
+      <y>66</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>329</h>
+      <object_id>3485026</object_id>
+      <w>484</w>
+      <y>17</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>302</h>
+      <object_id>3210906</object_id>
+      <w>394</w>
+      <y>38</y>
+      <x>36</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>platter</name>
+      <h>373</h>
+      <object_id>3664462</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>crust</name>
+      <h>176</h>
+      <object_id>3485027</object_id>
+      <w>90</w>
+      <y>23</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A homemade pizza with burned edges and greens on top.</caption>
+      <caption>a close up of a slightly burned pizza</caption>
+      <caption>Home baked pizza layered with leaves and cheese.</caption>
+      <caption>A slightly burnt pizza sitting on a table with lettuce on it.</caption>
+      <caption>Arugula and shaved Parmesan top a small thick crust pizza. </caption>
+    </captions>
+</image>

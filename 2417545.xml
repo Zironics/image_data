@@ -1,0 +1,60 @@
+<image>
+  <image-id>2417545</image-id>
+  <coco-id>177125</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255816</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3167736</subject>
+      <object>3044855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255817</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3167736</subject>
+      <object>3044855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255818</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3044854</subject>
+      <object>3044855</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>police officer</name>
+      <h>215</h>
+      <object_id>3167736</object_id>
+      <w>66</w>
+      <y>13</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>235</h>
+      <object_id>3044855</object_id>
+      <w>301</w>
+      <y>105</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black tail</name>
+      <h>167</h>
+      <object_id>3044854</object_id>
+      <w>45</w>
+      <y>128</y>
+      <x>104</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two officers are riding their horses on the road. </caption>
+      <caption>There are two policemen who are riding on horses.</caption>
+      <caption>A person talking to two policemen on horses in a park.</caption>
+      <caption>Two park police officers rides horses on a path.</caption>
+      <caption>A couple of men dressed in Police Uniforms sitting horses.</caption>
+    </captions>
+</image>

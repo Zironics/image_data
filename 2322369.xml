@@ -1,0 +1,98 @@
+<image>
+  <image-id>2322369</image-id>
+  <coco-id>397742</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4536661</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3961025</subject>
+      <object>3414608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4536662</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3961026</subject>
+      <object>3039774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057932</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2878715</subject>
+      <object>2878717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057933</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2878716</subject>
+      <object>2878717</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>401</h>
+      <object_id>3961025</object_id>
+      <w>400</w>
+      <y>55</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>420</h>
+      <object_id>3414608</object_id>
+      <w>448</w>
+      <y>60</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>meal</name>
+      <h>293</h>
+      <object_id>3961026</object_id>
+      <w>358</w>
+      <y>168</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>175</h>
+      <object_id>3039774</object_id>
+      <w>285</w>
+      <y>216</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>toast</name>
+      <h>301</h>
+      <object_id>2878715</object_id>
+      <w>406</w>
+      <y>163</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>413</h>
+      <object_id>2878717</object_id>
+      <w>459</w>
+      <y>68</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>toast</name>
+      <h>190</h>
+      <object_id>2878716</object_id>
+      <w>427</w>
+      <y>22</y>
+      <x>26</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two pieces of food sitting on top of a white plate next to a fork.</caption>
+      <caption>A piece of bread has eggs on it on a plate.</caption>
+      <caption>Two pieces of toast with fried eggs in the cut out centers.</caption>
+      <caption>Two pieces of toast with several toppings on them on a plate.</caption>
+      <caption>A piece of bread with an egg in its center.</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>2358856</image-id>
+  <coco-id>540762</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2235260</relationship_id>
+      <predicate>with</predicate>
+      <subject>798507</subject>
+      <object>798510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2235261</relationship_id>
+      <predicate>has</predicate>
+      <subject>798507</subject>
+      <object>798510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4398479</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3893227</subject>
+      <object>798509</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2235262</relationship_id>
+      <predicate>has</predicate>
+      <subject>798509</subject>
+      <object>798517</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2235263</relationship_id>
+      <predicate>with</predicate>
+      <subject>798507</subject>
+      <object>798510</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lion</attribute>
+        <attribute>person</attribute>
+      </attributes>
+      <name>lion</name>
+      <h>42</h>
+      <object_id>798507</object_id>
+      <w>71</w>
+      <y>157</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>wings</name>
+      <h>12</h>
+      <object_id>798510</object_id>
+      <w>33</w>
+      <y>155</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>20</h>
+      <object_id>3893227</object_id>
+      <w>100</w>
+      <y>202</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>horse</attribute>
+        <attribute>green</attribute>
+        <attribute>pictured</attribute>
+        <attribute>bronze</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>259</h>
+      <object_id>798509</object_id>
+      <w>292</w>
+      <y>141</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>92</h>
+      <object_id>798517</object_id>
+      <w>107</w>
+      <y>140</y>
+      <x>200</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a big building that has a clock on it</caption>
+      <caption>An old metal statue of horses in front of a decorative building.</caption>
+      <caption>A horse sculpture in the foreground with a colorful, ornate building in the background. </caption>
+      <caption>The statues of horses are outside of the building.</caption>
+      <caption>A statue in front of a building with several statutes on it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,94 @@
+<image>
+  <image-id>2401755</image-id>
+  <coco-id>244592</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3286733</relationship_id>
+      <predicate>has</predicate>
+      <subject>1144463</subject>
+      <object>1144464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3286734</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1144474</subject>
+      <object>1144470</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3286735</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1144463</subject>
+      <object>1144475</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>here</attribute>
+        <attribute>eating</attribute>
+        <attribute>facing</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>young</attribute>
+        <attribute>standing</attribute>
+        <attribute>leaning</attribute>
+        <attribute>male</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>227</h>
+      <object_id>1144463</object_id>
+      <w>292</w>
+      <y>64</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>stomach</name>
+      <h>59</h>
+      <object_id>1144464</object_id>
+      <w>144</w>
+      <y>183</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>trunk</name>
+      <h>162</h>
+      <object_id>1144474</object_id>
+      <w>68</w>
+      <y>11</y>
+      <x>407</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>167</h>
+      <object_id>1144470</object_id>
+      <w>38</w>
+      <y>4</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>cage</name>
+      <h>348</h>
+      <object_id>1144475</object_id>
+      <w>483</w>
+      <y>7</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Three zebras outside with two grazing next to each other.</caption>
+      <caption>Three trapped, captive zebras standing around a food or water trough. </caption>
+      <caption>Zebras socialize on some rocks in an artificial habitat.</caption>
+      <caption>Three zebras standing close together behind a fence.</caption>
+      <caption>Three zebras interacting in a zoo zebra enclosure.</caption>
+    </captions>
+</image>

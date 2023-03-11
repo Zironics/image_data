@@ -1,0 +1,61 @@
+<image>
+  <image-id>2391213</image-id>
+  <coco-id>437852</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3450845</relationship_id>
+      <predicate>by</predicate>
+      <subject>1242775</subject>
+      <object>1242781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450846</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1242784</subject>
+      <object>1242781</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>77</h>
+      <object_id>1242775</object_id>
+      <w>53</w>
+      <y>141</y>
+      <x>298</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <h>45</h>
+      <object_id>1242781</object_id>
+      <w>455</w>
+      <y>213</y>
+      <x>0</x>
+      <name>lake</name>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>22</h>
+      <object_id>1242784</object_id>
+      <w>31</w>
+      <y>222</y>
+      <x>162</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two giraffes standing around and one drinking water.</caption>
+      <caption>A giraffe standing next to three other giraffe near a lake.</caption>
+      <caption>The giraffes are enjoying the water by the trees.</caption>
+      <caption>Three giraffes loiter about a tree and a watering hole.</caption>
+      <caption>There are giraffes walking alongside a lake as one is staring straight ahead.</caption>
+    </captions>
+</image>

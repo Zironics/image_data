@@ -1,0 +1,59 @@
+<image>
+  <image-id>2334554</image-id>
+  <coco-id>565332</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3922060</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2561477</subject>
+      <object>2952591</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3999378</relationship_id>
+      <predicate>taken at</predicate>
+      <subject>2202783</subject>
+      <object>2202784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hay</name>
+      <h>172</h>
+      <object_id>2561477</object_id>
+      <w>498</w>
+      <y>201</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>70</h>
+      <object_id>2952591</object_id>
+      <w>80</w>
+      <y>172</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>photograph</name>
+      <h>371</h>
+      <object_id>2202783</object_id>
+      <w>492</w>
+      <y>0</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>zoo</name>
+      <h>367</h>
+      <object_id>2202784</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three zebras behind the fence in a grassy field.</caption>
+      <caption>Several zebras that are in an enclosure. </caption>
+      <caption>A herd of zebra standing on top of a dry grass field.</caption>
+      <caption>Three zebra's sit in a pile of hay inside an enclosure.</caption>
+      <caption>A group of zebras laying and standing on hay in a fenced in area. </caption>
+    </captions>
+</image>

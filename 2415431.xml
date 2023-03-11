@@ -1,0 +1,59 @@
+<image>
+  <image-id>2415431</image-id>
+  <coco-id>290689</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3873992</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3196481</subject>
+      <object>3053385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3873993</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3626519</subject>
+      <object>3261997</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>259</h>
+      <object_id>3196481</object_id>
+      <w>282</w>
+      <y>109</y>
+      <x>158</x>
+      <name>laptop computer</name>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>365</h>
+      <object_id>3053385</object_id>
+      <w>460</w>
+      <y>118</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>160</h>
+      <object_id>3626519</object_id>
+      <w>188</w>
+      <y>326</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>jeans</name>
+      <h>147</h>
+      <object_id>3261997</object_id>
+      <w>168</w>
+      <y>337</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are watching a movie on their laptop.</caption>
+      <caption>An open laptop reveals a face as it sits on a bed with a yellow cover.</caption>
+      <caption>An open laptop is sitting on a person's bed.</caption>
+      <caption>A laptop computer is sitting on a bed.</caption>
+      <caption>A person laying in bed with his laptop and someone's picture is on the screen.</caption>
+    </captions>
+</image>

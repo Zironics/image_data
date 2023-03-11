@@ -1,0 +1,79 @@
+<image>
+  <image-id>2339448</image-id>
+  <coco-id>166375</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3833116</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2616300</subject>
+      <object>3521020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046544</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3495560</subject>
+      <object>3521020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3632002</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3495560</subject>
+      <object>3521020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046545</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2154419</subject>
+      <object>2154420</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>knob</name>
+      <h>27</h>
+      <object_id>2616300</object_id>
+      <w>27</w>
+      <y>74</y>
+      <x>369</x>
+    </object>
+    <object>
+      <name>oven</name>
+      <h>306</h>
+      <object_id>3521020</object_id>
+      <w>424</w>
+      <y>25</y>
+      <x>16</x>
+    </object>
+    <object>
+      <h>24</h>
+      <object_id>3495560</object_id>
+      <w>26</w>
+      <y>73</y>
+      <x>329</x>
+      <name>knob</name>
+    </object>
+    <object>
+      <name>knob</name>
+      <h>29</h>
+      <object_id>2154419</object_id>
+      <w>32</w>
+      <y>58</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>oven</name>
+      <h>275</h>
+      <object_id>2154420</object_id>
+      <w>430</w>
+      <y>57</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An oven door is partly open with food inside.</caption>
+      <caption>Food in stainless steel oven with door ajar.</caption>
+      <caption>An oven that is slightly opened revealing that some food is baking in it.</caption>
+      <caption>The oven door is opened showing two dishes being cooked.</caption>
+      <caption>An open silver stove with food cooking inside.</caption>
+    </captions>
+</image>

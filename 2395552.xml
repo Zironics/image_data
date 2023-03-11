@@ -1,0 +1,102 @@
+<image>
+  <image-id>2395552</image-id>
+  <coco-id>358624</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1009472</relationship_id>
+      <predicate>compared with</predicate>
+      <subject>453319</subject>
+      <object>453320</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1009473</relationship_id>
+      <predicate>holding</predicate>
+      <subject>453327</subject>
+      <object>453319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1009474</relationship_id>
+      <predicate>has</predicate>
+      <subject>453329</subject>
+      <object>453332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1009475</relationship_id>
+      <predicate>ON</predicate>
+      <subject>453320</subject>
+      <object>453337</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>perched</attribute>
+        <attribute>existing</attribute>
+        <attribute>being held</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>198</h>
+      <object_id>453319</object_id>
+      <w>225</w>
+      <y>156</y>
+      <x>81</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>shiny</attribute>
+        <attribute>silver</attribute>
+        <attribute>gold</attribute>
+        <attribute>reflective</attribute>
+      </attributes>
+      <name>ornament</name>
+      <h>206</h>
+      <object_id>453320</object_id>
+      <w>184</w>
+      <y>15</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>98</h>
+      <object_id>453327</object_id>
+      <w>252</w>
+      <y>275</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>branch</name>
+      <h>92</h>
+      <object_id>453329</object_id>
+      <w>85</w>
+      <y>121</y>
+      <x>415</x>
+    </object>
+    <object>
+      <name>needle</name>
+      <h>27</h>
+      <object_id>453332</object_id>
+      <w>30</w>
+      <y>132</y>
+      <x>451</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>372</h>
+      <object_id>453337</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An orange being held up to a christmas tree bulb.</caption>
+      <caption>A hand holding a large orange next to a Christmas tree.</caption>
+      <caption>A person holding an orange in front of a decorated tree.</caption>
+      <caption>A person holding a orange next to a tree.</caption>
+      <caption>an orange is held in front of a christmas tree</caption>
+    </captions>
+</image>

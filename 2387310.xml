@@ -1,0 +1,128 @@
+<image>
+  <image-id>2387310</image-id>
+  <coco-id>292338</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4558114</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3995318</subject>
+      <object>3995318</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4558117</relationship_id>
+      <predicate>on top</predicate>
+      <subject>3995328</subject>
+      <object>3995329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4558119</relationship_id>
+      <predicate>near</predicate>
+      <subject>3995334</subject>
+      <object>3995318</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4558124</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3995349</subject>
+      <object>3995350</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4658821</relationship_id>
+      <predicate>from</predicate>
+      <subject>4241891</subject>
+      <object>4241892</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dark red</attribute>
+      </attributes>
+      <name>vehicle</name>
+      <h>100</h>
+      <object_id>3995318</object_id>
+      <w>70</w>
+      <y>183</y>
+      <x>428</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>28</h>
+      <object_id>3995328</object_id>
+      <w>40</w>
+      <y>101</y>
+      <x>69</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>77</h>
+      <object_id>3995329</object_id>
+      <w>7</w>
+      <y>110</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>grate</name>
+      <h>25</h>
+      <object_id>3995334</object_id>
+      <w>107</w>
+      <y>312</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>flag</name>
+      <h>29</h>
+      <object_id>3995349</object_id>
+      <w>41</w>
+      <y>101</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>72</h>
+      <object_id>3995350</object_id>
+      <w>6</w>
+      <y>111</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <name>tape</name>
+      <h>80</h>
+      <object_id>4241891</object_id>
+      <w>97</w>
+      <y>221</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>245</h>
+      <object_id>4241892</object_id>
+      <w>338</w>
+      <y>87</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train parked in a train depot loading passengers.</caption>
+      <caption>A red train traveling past another train on tracks.</caption>
+      <caption>a train on a track near people walking </caption>
+      <caption>A train parked alongside some tents on the tracks. </caption>
+      <caption>A red train engine is on the tracks.</caption>
+    </captions>
+</image>

@@ -1,0 +1,82 @@
+<image>
+  <image-id>2339628</image-id>
+  <coco-id>207027</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3729790</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3366528</subject>
+      <object>3366533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089514</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3461185</subject>
+      <object>3461186</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089515</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3461185</subject>
+      <object>3461187</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>6</h>
+      <object_id>3366528</object_id>
+      <w>9</w>
+      <y>23</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>256</h>
+      <object_id>3366533</object_id>
+      <w>71</w>
+      <y>1</y>
+      <x>260</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>palm</attribute>
+      </attributes>
+      <name>palm trees</name>
+      <h>137</h>
+      <object_id>3461185</object_id>
+      <w>171</w>
+      <y>0</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>surfboards</name>
+      <h>421</h>
+      <object_id>3461186</object_id>
+      <w>235</w>
+      <y>75</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beach</attribute>
+      </attributes>
+      <name>beach chairs</name>
+      <h>114</h>
+      <object_id>3461187</object_id>
+      <w>267</w>
+      <y>384</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A row of wooden surfboards sitting on a rack on the beach.</caption>
+      <caption>A beach area with a set of surfboards standing upright in a surfboard holder.</caption>
+      <caption>Long board surfboards stacked up on a rack on the beach</caption>
+      <caption>a rack of surfboards sits in the sun</caption>
+      <caption>Beautiful large surfboards on a rack at the beach.</caption>
+    </captions>
+</image>

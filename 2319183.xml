@@ -1,0 +1,87 @@
+<image>
+  <image-id>2319183</image-id>
+  <coco-id>324400</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2997187</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1004008</subject>
+      <object>1004009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2997188</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1004008</subject>
+      <object>1004009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2997192</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1004008</subject>
+      <object>1004011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2997193</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1004008</subject>
+      <object>1004009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2997194</relationship_id>
+      <predicate>has</predicate>
+      <subject>1004008</subject>
+      <object>1004016</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing baseball</attribute>
+        <attribute>person</attribute>
+      </attributes>
+      <name>man</name>
+      <h>349</h>
+      <object_id>1004008</object_id>
+      <w>226</w>
+      <y>151</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>gloves</name>
+      <h>50</h>
+      <object_id>1004009</object_id>
+      <w>72</w>
+      <y>260</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>189</h>
+      <object_id>1004011</object_id>
+      <w>152</w>
+      <y>132</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>15</h>
+      <object_id>1004016</object_id>
+      <w>10</w>
+      <y>203</y>
+      <x>183</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man that is standing in the dirt with a bat.</caption>
+      <caption>A baseball player waits at home plate for a pitch.</caption>
+      <caption>a man holding onto a baseball bat during a game</caption>
+      <caption>A baseball player holding a baseball bat over his shoulder.</caption>
+      <caption>A batter in the box at a baseball game.</caption>
+    </captions>
+</image>

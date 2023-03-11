@@ -1,0 +1,207 @@
+<image>
+  <image-id>2379900</image-id>
+  <coco-id>287105</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1350835</relationship_id>
+      <predicate>ON</predicate>
+      <subject>549424</subject>
+      <object>549428</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350836</relationship_id>
+      <predicate>ON</predicate>
+      <subject>549425</subject>
+      <object>549429</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350837</relationship_id>
+      <predicate>ON</predicate>
+      <subject>549424</subject>
+      <object>549428</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350838</relationship_id>
+      <predicate>ON</predicate>
+      <subject>549425</subject>
+      <object>549429</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350839</relationship_id>
+      <predicate>has</predicate>
+      <subject>549428</subject>
+      <object>549433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350840</relationship_id>
+      <predicate>has a</predicate>
+      <subject>549423</subject>
+      <object>549438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350841</relationship_id>
+      <predicate>has a</predicate>
+      <subject>549423</subject>
+      <object>549438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350842</relationship_id>
+      <predicate>has a</predicate>
+      <subject>549423</subject>
+      <object>549438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350843</relationship_id>
+      <predicate>has a</predicate>
+      <subject>549428</subject>
+      <object>549424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350844</relationship_id>
+      <predicate>has a</predicate>
+      <subject>549429</subject>
+      <object>549425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350845</relationship_id>
+      <predicate>has a</predicate>
+      <subject>549428</subject>
+      <object>549424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350846</relationship_id>
+      <predicate>has a</predicate>
+      <subject>549429</subject>
+      <object>549425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350847</relationship_id>
+      <predicate>ON</predicate>
+      <subject>549439</subject>
+      <object>549430</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1350848</relationship_id>
+      <predicate>ON</predicate>
+      <subject>549441</subject>
+      <object>549442</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>window</name>
+      <h>40</h>
+      <object_id>549424</object_id>
+      <w>31</w>
+      <y>83</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>arched</attribute>
+        <attribute>hanging open</attribute>
+      </attributes>
+      <name>door</name>
+      <h>236</h>
+      <object_id>549428</object_id>
+      <w>63</w>
+      <y>58</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>window</name>
+      <h>35</h>
+      <object_id>549425</object_id>
+      <w>27</w>
+      <y>86</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>229</h>
+      <object_id>549429</object_id>
+      <w>65</w>
+      <y>63</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>two parts</name>
+      <h>237</h>
+      <object_id>549433</object_id>
+      <w>172</w>
+      <y>56</y>
+      <x>47</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>182</h>
+      <object_id>549423</object_id>
+      <w>50</w>
+      <y>107</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>tall leg</name>
+      <h>75</h>
+      <object_id>549438</object_id>
+      <w>16</w>
+      <y>216</y>
+      <x>132</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hay basket</name>
+      <h>50</h>
+      <object_id>549439</object_id>
+      <w>39</w>
+      <y>95</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>made of brick</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>288</h>
+      <object_id>549430</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>rust</name>
+      <h>14</h>
+      <object_id>549441</object_id>
+      <w>53</w>
+      <y>197</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>225</h>
+      <object_id>549442</object_id>
+      <w>60</w>
+      <y>68</y>
+      <x>360</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe stands in the doorway of a building.</caption>
+      <caption>A giraffe standing in the doorway of a large door.</caption>
+      <caption>A giraffe standing in a doorway of a brick building.</caption>
+      <caption>Giraffe standing in an open doorway inside a building. </caption>
+      <caption>a giraffe is coming out of a tall silver door and a tree</caption>
+    </captions>
+</image>

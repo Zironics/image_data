@@ -1,0 +1,84 @@
+<image>
+  <image-id>2327536</image-id>
+  <coco-id>428041</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3632360</relationship_id>
+      <predicate>has a</predicate>
+      <subject>3228566</subject>
+      <object>3521182</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3632362</relationship_id>
+      <predicate>has a</predicate>
+      <subject>2985032</subject>
+      <object>3521183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473431</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3937439</subject>
+      <object>3082529</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>floor</name>
+      <h>102</h>
+      <object_id>3228566</object_id>
+      <w>305</w>
+      <y>167</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>9</h>
+      <object_id>3521182</object_id>
+      <w>10</w>
+      <y>213</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white floor</name>
+      <h>35</h>
+      <object_id>2985032</object_id>
+      <w>34</w>
+      <y>235</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>28</h>
+      <object_id>3521183</object_id>
+      <w>23</w>
+      <y>227</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>7</h>
+      <object_id>3937439</object_id>
+      <w>18</w>
+      <y>269</y>
+      <x>272</x>
+    </object>
+    <object>
+      <h>28</h>
+      <object_id>3082529</object_id>
+      <w>60</w>
+      <y>253</y>
+      <x>261</x>
+      <name>book</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A minimalist room features white appliances and beige walls.</caption>
+      <caption>This is a state of the art bathroom where the appliances don't look like they should</caption>
+      <caption>a room filled with white furniture and books on the ground. </caption>
+      <caption>A modern restroom with a weird looking sink, toilet, and shower.</caption>
+      <caption> room with a book and a white carpet</caption>
+    </captions>
+</image>

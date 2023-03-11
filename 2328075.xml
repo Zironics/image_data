@@ -1,0 +1,147 @@
+<image>
+  <image-id>2328075</image-id>
+  <coco-id>463665</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3637797</relationship_id>
+      <predicate>searching for</predicate>
+      <subject>3096243</subject>
+      <object>3523784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3637798</relationship_id>
+      <predicate>searching for</predicate>
+      <subject>3096244</subject>
+      <object>3523784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3637799</relationship_id>
+      <predicate>searching for</predicate>
+      <subject>3096245</subject>
+      <object>3523784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3637800</relationship_id>
+      <predicate>searching for</predicate>
+      <subject>3096246</subject>
+      <object>3523784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4157228</relationship_id>
+      <predicate>drinking</predicate>
+      <subject>3096244</subject>
+      <object>3736653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4157229</relationship_id>
+      <predicate>drinking</predicate>
+      <subject>3096245</subject>
+      <object>3736653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4157230</relationship_id>
+      <predicate>at edge of</predicate>
+      <subject>3088155</subject>
+      <object>3088156</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4157232</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3142509</subject>
+      <object>3142511</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>77</h>
+      <object_id>3096243</object_id>
+      <w>135</w>
+      <y>42</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>187</h>
+      <object_id>3523784</object_id>
+      <w>420</w>
+      <y>145</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>45</h>
+      <object_id>3096244</object_id>
+      <w>77</w>
+      <y>162</y>
+      <x>325</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>70</h>
+      <object_id>3096245</object_id>
+      <w>46</w>
+      <y>260</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>111</h>
+      <object_id>3096246</object_id>
+      <w>222</w>
+      <y>140</y>
+      <x>79</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>181</h>
+      <object_id>3736653</object_id>
+      <w>497</w>
+      <y>191</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown dirt</name>
+      <h>30</h>
+      <object_id>3088155</object_id>
+      <w>233</w>
+      <y>266</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>74</h>
+      <object_id>3088156</object_id>
+      <w>177</w>
+      <y>201</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>22</h>
+      <object_id>3142509</object_id>
+      <w>177</w>
+      <y>242</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>algae</name>
+      <h>190</h>
+      <object_id>3142511</object_id>
+      <w>497</w>
+      <y>182</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A flock of birds feeding and flying in a field.</caption>
+      <caption>A flock of birds standing and flying over a green field.</caption>
+      <caption>some birds diving down into some mud </caption>
+      <caption>Birds flying and walking around on the grass.
+</caption>
+      <caption>The group of large birds is beginning to drink the water.</caption>
+    </captions>
+</image>

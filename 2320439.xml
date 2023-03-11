@@ -1,0 +1,229 @@
+<image>
+  <image-id>2320439</image-id>
+  <coco-id>278086</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3148912</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148913</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1049863</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148914</relationship_id>
+      <predicate>stacked on</predicate>
+      <subject>1049864</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148915</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148916</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148917</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148918</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049860</subject>
+      <object>1049867</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148919</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148920</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1049863</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148921</relationship_id>
+      <predicate>have</predicate>
+      <subject>1049864</subject>
+      <object>1049869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148922</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148923</relationship_id>
+      <predicate>are beside</predicate>
+      <subject>1049863</subject>
+      <object>1049860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148924</relationship_id>
+      <predicate>above</predicate>
+      <subject>1049872</subject>
+      <object>1049860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148925</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148926</relationship_id>
+      <predicate>below</predicate>
+      <subject>1049873</subject>
+      <object>1049860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148927</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049860</subject>
+      <object>1049866</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148928</relationship_id>
+      <predicate>are on  top</predicate>
+      <subject>1049875</subject>
+      <object>1049872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148929</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049860</subject>
+      <object>1049867</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148930</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3148932</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1049860</subject>
+      <object>1049862</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>looking</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>262</h>
+      <object_id>1049860</object_id>
+      <w>285</w>
+      <y>55</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>122</h>
+      <object_id>1049862</object_id>
+      <w>384</w>
+      <y>246</y>
+      <x>116</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>vertical</attribute>
+      </attributes>
+      <name>books</name>
+      <h>201</h>
+      <object_id>1049863</object_id>
+      <w>387</w>
+      <y>145</y>
+      <x>113</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paperback</attribute>
+        <attribute>stacked</attribute>
+      </attributes>
+      <name>books</name>
+      <h>96</h>
+      <object_id>1049864</object_id>
+      <w>132</w>
+      <y>247</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>45</h>
+      <object_id>1049867</object_id>
+      <w>106</w>
+      <y>91</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>bottoms</name>
+      <h>72</h>
+      <object_id>1049869</object_id>
+      <w>102</w>
+      <y>272</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>79</h>
+      <object_id>1049872</object_id>
+      <w>380</w>
+      <y>28</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>books</name>
+      <h>66</h>
+      <object_id>1049873</object_id>
+      <w>190</w>
+      <y>308</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>15</h>
+      <object_id>1049866</object_id>
+      <w>16</w>
+      <y>144</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>books</name>
+      <h>59</h>
+      <object_id>1049875</object_id>
+      <w>382</w>
+      <y>1</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black cat is standing on a bookshelf.</caption>
+      <caption>a black cat in a book shelf near a corner </caption>
+      <caption>A cat stands on a shelf full of books.</caption>
+      <caption>A black cat standing on a bookshelf with an knocked over books.</caption>
+      <caption>A cat is standing on a book shelf next too books</caption>
+    </captions>
+</image>

@@ -1,0 +1,90 @@
+<image>
+  <image-id>2386052</image-id>
+  <coco-id>478055</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4629621</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4168965</subject>
+      <object>4168966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4781485</relationship_id>
+      <predicate>not standing</predicate>
+      <subject>4551838</subject>
+      <object>4551839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4629652</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4169026</subject>
+      <object>4169027</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4629653</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4169026</subject>
+      <object>4169027</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cow</name>
+      <h>19</h>
+      <object_id>4168965</object_id>
+      <w>23</w>
+      <y>302</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>123</h>
+      <object_id>4168966</object_id>
+      <w>492</w>
+      <y>205</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>three</attribute>
+      </attributes>
+      <name>cows</name>
+      <h>52</h>
+      <object_id>4551838</object_id>
+      <w>413</w>
+      <y>269</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>together</name>
+      <h>50</h>
+      <object_id>4551839</object_id>
+      <w>410</w>
+      <y>271</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>55</h>
+      <object_id>4169026</object_id>
+      <w>275</w>
+      <y>50</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>mountains</name>
+      <h>75</h>
+      <object_id>4169027</object_id>
+      <w>319</w>
+      <y>99</y>
+      <x>114</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of cattle grazing on a dry grass field.</caption>
+      <caption>Cattle graze a field in front of two large mountains.</caption>
+      <caption>Snow covers the tops of mountains in the fall. </caption>
+      <caption>Cows in a field in front of mountains with snow topped peaks.</caption>
+      <caption>Cows grazing in a field of dry grass by snowy hills</caption>
+    </captions>
+</image>

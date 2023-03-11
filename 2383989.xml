@@ -1,0 +1,44 @@
+<image>
+  <image-id>2383989</image-id>
+  <coco-id>153038</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4734542</relationship_id>
+      <predicate>against</predicate>
+      <subject>4427252</subject>
+      <object>4427254</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>75</h>
+      <object_id>4427252</object_id>
+      <w>357</w>
+      <y>112</y>
+      <x>68</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+        <attribute>cloud</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>240</h>
+      <object_id>4427254</object_id>
+      <w>480</w>
+      <y>9</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person standing near two cars is watching a jet take off from a field.</caption>
+      <caption>a jet flying by some cars parked in the dirt lot</caption>
+      <caption>A person watching a small plane taking off in a field</caption>
+      <caption>A fighter jet flying over two parked vehicles.</caption>
+      <caption>An small plane is taking off from a field</caption>
+    </captions>
+</image>

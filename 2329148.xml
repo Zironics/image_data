@@ -1,0 +1,87 @@
+<image>
+  <image-id>2329148</image-id>
+  <coco-id>121622</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3760256</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3188564</subject>
+      <object>3188565</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4032500</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3689369</subject>
+      <object>3013165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4032501</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3082566</subject>
+      <object>3082567</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>board</name>
+      <h>47</h>
+      <object_id>3188564</object_id>
+      <w>159</w>
+      <y>195</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>188</h>
+      <object_id>3188565</object_id>
+      <w>377</w>
+      <y>84</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>board</name>
+      <h>34</h>
+      <object_id>3689369</object_id>
+      <w>192</w>
+      <y>128</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>252</h>
+      <object_id>3013165</object_id>
+      <w>419</w>
+      <y>37</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>10</h>
+      <object_id>3082566</object_id>
+      <w>13</w>
+      <y>152</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>56</h>
+      <object_id>3082567</object_id>
+      <w>84</w>
+      <y>149</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Cat is lying on a bench in a park in the sunset.</caption>
+      <caption>A black cat laying on top of a green wooden bench.</caption>
+      <caption>A black cat laying in the sun on a green bench</caption>
+      <caption>A black cat rests on a green bench.</caption>
+      <caption>A black cat lies on a bench in front of bushes in a public park.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2383151</image-id>
+  <coco-id>376358</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4293474</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534697</subject>
+      <object>534698</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>white horns</name>
+      <h>50</h>
+      <object_id>534697</object_id>
+      <w>130</w>
+      <y>102</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <h>240</h>
+      <object_id>534698</object_id>
+      <w>298</w>
+      <y>100</y>
+      <x>106</x>
+      <name>brown cow</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a brown cow is laying in a pin</caption>
+      <caption>A large cow is sitting in a fenced area.</caption>
+      <caption>A large brown bull with long horns laying on grass.</caption>
+      <caption>A brown cow with horns in the grass</caption>
+      <caption>Brown bull with horns laying down in field near wooden fence.</caption>
+    </captions>
+</image>

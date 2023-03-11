@@ -1,0 +1,94 @@
+<image>
+  <image-id>2337400</image-id>
+  <coco-id>509157</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3972958</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2603108</subject>
+      <object>3665622</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3972959</relationship_id>
+      <predicate>stacked in</predicate>
+      <subject>2313058</subject>
+      <object>2313059</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260027</relationship_id>
+      <predicate>stacked</predicate>
+      <subject>2944014</subject>
+      <object>3795159</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>support</name>
+      <h>49</h>
+      <object_id>2603108</object_id>
+      <w>64</w>
+      <y>42</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>80</h>
+      <object_id>3665622</object_id>
+      <w>120</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stacked</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>112</h>
+      <object_id>2313058</object_id>
+      <w>192</w>
+      <y>212</y>
+      <x>195</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+      </attributes>
+      <name>pile</name>
+      <h>322</h>
+      <object_id>2313059</object_id>
+      <w>492</w>
+      <y>0</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>240</h>
+      <object_id>2944014</object_id>
+      <w>334</w>
+      <y>56</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big </attribute>
+      </attributes>
+      <name>pile</name>
+      <h>284</h>
+      <object_id>3795159</object_id>
+      <w>323</w>
+      <y>19</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A fruit stand with several rows of oranges at a market.</caption>
+      <caption>a bunch of oranges are stacked up together</caption>
+      <caption>Oranges and grapefruits close up in a market.</caption>
+      <caption>THIS IS A CLOSE UP PICTURE OF FRESH ORANGES AT THE GROCERY STORE</caption>
+      <caption>a display of oranges in the foreground and other fruit in the background</caption>
+    </captions>
+</image>

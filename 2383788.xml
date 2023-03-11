@@ -1,0 +1,159 @@
+<image>
+  <image-id>2383788</image-id>
+  <coco-id>12946</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3822797</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>2807667</subject>
+      <object>2156192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102097</relationship_id>
+      <predicate>riding</predicate>
+      <subject>2156190</subject>
+      <object>2156191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102098</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2156191</subject>
+      <object>2156192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3822802</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3411888</subject>
+      <object>2807668</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102103</relationship_id>
+      <predicate>and</predicate>
+      <subject>2238877</subject>
+      <object>2249556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3748725</relationship_id>
+      <predicate>riding</predicate>
+      <subject>2156190</subject>
+      <object>3489940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102104</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>2807667</subject>
+      <object>2807668</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102105</relationship_id>
+      <predicate>are on</predicate>
+      <subject>2935209</subject>
+      <object>2935210</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>256</h>
+      <object_id>2807667</object_id>
+      <w>112</w>
+      <y>75</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>197</h>
+      <object_id>2156192</object_id>
+      <w>498</w>
+      <y>134</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>123</h>
+      <object_id>2156190</object_id>
+      <w>74</w>
+      <y>115</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>139</h>
+      <object_id>2156191</object_id>
+      <w>72</w>
+      <y>172</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>72</h>
+      <object_id>3411888</object_id>
+      <w>21</w>
+      <y>107</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>172</h>
+      <object_id>2807668</object_id>
+      <w>495</w>
+      <y>157</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small </attribute>
+        <attribute>green </attribute>
+        <attribute>trimmed </attribute>
+      </attributes>
+      <h>32</h>
+      <object_id>2238877</object_id>
+      <w>82</w>
+      <y>130</y>
+      <x>150</x>
+      <name>bush</name>
+    </object>
+    <object>
+      <name>shrubs</name>
+      <h>30</h>
+      <object_id>2249556</object_id>
+      <w>101</w>
+      <y>119</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>scooter</name>
+      <h>165</h>
+      <object_id>3489940</object_id>
+      <w>77</w>
+      <y>154</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>business signs</name>
+      <h>90</h>
+      <object_id>2935209</object_id>
+      <w>223</w>
+      <y>11</y>
+      <x>243</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>background</attribute>
+      </attributes>
+      <name>buildings</name>
+      <h>136</h>
+      <object_id>2935210</object_id>
+      <w>277</w>
+      <y>0</y>
+      <x>222</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People walking around downtown and a man riding his bike.</caption>
+      <caption>A street scene with people walking and a man on a moped.</caption>
+      <caption>A large group of people and a man on a motor bike.</caption>
+      <caption>A man riding a scooter down a sidewalk in a green shirt.</caption>
+      <caption>A man rides a motorcycle on the sidewalk.</caption>
+    </captions>
+</image>

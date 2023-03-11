@@ -1,0 +1,62 @@
+<image>
+  <image-id>2320520</image-id>
+  <coco-id>305219</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251872</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3316843</subject>
+      <object>3316842</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3881786</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2989962</subject>
+      <object>2989963</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>kid</name>
+      <h>262</h>
+      <object_id>3316843</object_id>
+      <w>121</w>
+      <y>82</y>
+      <x>377</x>
+    </object>
+    <object>
+      <name>kid</name>
+      <h>252</h>
+      <object_id>3316842</object_id>
+      <w>79</w>
+      <y>64</y>
+      <x>50</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>water bottle</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>50</h>
+      <object_id>2989962</object_id>
+      <w>25</w>
+      <y>269</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>158</h>
+      <object_id>2989963</object_id>
+      <w>495</w>
+      <y>185</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy prepares to hit a baseball while another boy under an umbrella is watching.</caption>
+      <caption>A young boy hits a baseball while another boy with an umbrella looks on.</caption>
+      <caption>A little boy on a raining day playing base ball</caption>
+      <caption>A little league player is swinging at a ball, and a boy under an umbrella is watching on the sideline. </caption>
+      <caption>A young boy takes a swing at a baseball while another boy watches.</caption>
+    </captions>
+</image>

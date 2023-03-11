@@ -1,0 +1,92 @@
+<image>
+  <image-id>2350801</image-id>
+  <coco-id>309836</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2487767</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>865336</subject>
+      <object>865337</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2487768</relationship_id>
+      <predicate>covered with</predicate>
+      <subject>865337</subject>
+      <object>865336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2487769</relationship_id>
+      <predicate>has</predicate>
+      <subject>865335</subject>
+      <object>865340</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2487770</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>865335</subject>
+      <object>865337</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2487771</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>865335</subject>
+      <object>865337</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>short</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>26</h>
+      <object_id>865336</object_id>
+      <w>248</w>
+      <y>33</y>
+      <x>84</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>clear</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>331</h>
+      <object_id>865337</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>silver</attribute>
+        <attribute>streamlined</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>11</h>
+      <object_id>865335</object_id>
+      <w>41</w>
+      <y>163</y>
+      <x>435</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>6</h>
+      <object_id>865340</object_id>
+      <w>9</w>
+      <y>164</y>
+      <x>435</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird seems to be flying high in the air. </caption>
+      <caption>jet plane flying at high altitude in front of a rocket</caption>
+      <caption>A rocket that just lifted off and a jet fighter</caption>
+      <caption>A small airplane flying high up in the air.</caption>
+      <caption>The shuttle launching in the air as a plane flies by.</caption>
+    </captions>
+</image>

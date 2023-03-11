@@ -1,0 +1,83 @@
+<image>
+  <image-id>2388333</image-id>
+  <coco-id>159311</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4292853</relationship_id>
+      <predicate>eating</predicate>
+      <subject>3829500</subject>
+      <object>3829493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292855</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3829501</subject>
+      <object>3829503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292854</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3829500</subject>
+      <object>3829503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292856</relationship_id>
+      <predicate>grazing in</predicate>
+      <subject>3829500</subject>
+      <object>3829503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292857</relationship_id>
+      <predicate>grazing in</predicate>
+      <subject>3829501</subject>
+      <object>3829503</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+      </attributes>
+      <h>227</h>
+      <object_id>3829500</object_id>
+      <w>341</w>
+      <y>0</y>
+      <x>1</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <name>plant</name>
+      <h>37</h>
+      <object_id>3829493</object_id>
+      <w>59</w>
+      <y>228</y>
+      <x>250</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>224</h>
+      <object_id>3829501</object_id>
+      <w>307</w>
+      <y>1</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>330</h>
+      <object_id>3829503</object_id>
+      <w>482</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A pair of zebra's leaning over eating grass in a field.</caption>
+      <caption>Two zebra stand near bushes and tall grass.</caption>
+      <caption>Two zebras grazing from grass next to a tree.</caption>
+      <caption>Two zebra standing next to each other on a lush green field.</caption>
+      <caption>Two zebras are feeding on the grass by themselves.</caption>
+    </captions>
+</image>

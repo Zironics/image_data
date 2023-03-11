@@ -1,0 +1,79 @@
+<image>
+  <image-id>2338440</image-id>
+  <coco-id>538861</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4062726</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2862543</subject>
+      <object>2315883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459989</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3930215</subject>
+      <object>2315883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459991</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3930217</subject>
+      <object>2617945</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>177</h>
+      <object_id>2862543</object_id>
+      <w>377</w>
+      <y>92</y>
+      <x>87</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>full</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>302</h>
+      <object_id>2315883</object_id>
+      <w>497</w>
+      <y>26</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> red</attribute>
+      </attributes>
+      <name>pieces</name>
+      <h>82</h>
+      <object_id>3930215</object_id>
+      <w>61</w>
+      <y>127</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>23</h>
+      <object_id>3930217</object_id>
+      <w>52</w>
+      <y>262</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>52</h>
+      <object_id>2617945</object_id>
+      <w>106</w>
+      <y>33</y>
+      <x>172</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate filled with fish and vegetables</caption>
+      <caption>A white plate topped with broccoli beef and broccoli.</caption>
+      <caption>A plate full of fresh vegetables, herbs and protein.</caption>
+      <caption>A salad consists of fish, a soft boiled egg, and vegetables.</caption>
+      <caption>The salad has egg, ham, and brocolli in it.</caption>
+    </captions>
+</image>

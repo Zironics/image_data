@@ -1,0 +1,103 @@
+<image>
+  <image-id>2331856</image-id>
+  <coco-id>323258</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4097971</relationship_id>
+      <predicate>flying low to</predicate>
+      <subject>3009598</subject>
+      <object>3714796</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097972</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2961823</subject>
+      <object>2961824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097974</relationship_id>
+      <predicate>around</predicate>
+      <subject>3315010</subject>
+      <object>3714798</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097975</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3138345</subject>
+      <object>3138344</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plane</name>
+      <h>68</h>
+      <object_id>3009598</object_id>
+      <w>222</w>
+      <y>195</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>35</h>
+      <object_id>3714796</object_id>
+      <w>459</w>
+      <y>337</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>propeller</name>
+      <h>65</h>
+      <object_id>2961823</object_id>
+      <w>22</w>
+      <y>202</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>69</h>
+      <object_id>2961824</object_id>
+      <w>230</w>
+      <y>192</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>19</h>
+      <object_id>3315010</object_id>
+      <w>37</w>
+      <y>210</y>
+      <x>342</x>
+    </object>
+    <object>
+      <name>cockpit</name>
+      <h>22</h>
+      <object_id>3714798</object_id>
+      <w>49</w>
+      <y>210</y>
+      <x>337</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>145</h>
+      <object_id>3138345</object_id>
+      <w>97</w>
+      <y>145</y>
+      <x>399</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>181</h>
+      <object_id>3138344</object_id>
+      <w>216</w>
+      <y>135</y>
+      <x>256</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a small plane that is very close to the ground</caption>
+      <caption>A small airplane flying over a lush green field.</caption>
+      <caption>A crop duster style airplane flying low across a field of grass.</caption>
+      <caption>a silver jet with black and red print and design next to shrubbery.</caption>
+      <caption>a plane flying low over a grass field</caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>2352534</image-id>
+  <coco-id>211201</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4238007</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1840663</subject>
+      <object>1840662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4238009</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3783058</subject>
+      <object>2060750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4238008</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1840663</subject>
+      <object>2060750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3772818</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2564730</subject>
+      <object>2564731</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>24</h>
+      <object_id>1840663</object_id>
+      <w>14</w>
+      <y>16</y>
+      <x>461</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>201</h>
+      <object_id>1840662</object_id>
+      <w>79</w>
+      <y>9</y>
+      <x>406</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>50</h>
+      <object_id>3783058</object_id>
+      <w>23</w>
+      <y>8</y>
+      <x>424</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>267</h>
+      <object_id>2060750</object_id>
+      <w>100</w>
+      <y>2</y>
+      <x>395</x>
+    </object>
+    <object>
+      <name>solar panels</name>
+      <h>25</h>
+      <object_id>2564730</object_id>
+      <w>30</w>
+      <y>319</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>14</h>
+      <object_id>2564731</object_id>
+      <w>229</w>
+      <y>226</y>
+      <x>154</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of a occasion at a distance.</caption>
+      <caption>A clock tower next to a building and an inflatable castle.</caption>
+      <caption>a clock tower sits above a bunch of buildings </caption>
+      <caption>A festival taking place at the foot of a clock tower.</caption>
+      <caption>A clock is shown at the top of a tower.</caption>
+    </captions>
+</image>

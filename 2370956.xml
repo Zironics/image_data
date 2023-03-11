@@ -1,0 +1,111 @@
+<image>
+  <image-id>2370956</image-id>
+  <coco-id>295250</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4614017</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4129967</subject>
+      <object>4129972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4614019</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4129967</subject>
+      <object>4129972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4614020</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4129975</subject>
+      <object>4061036</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4585539</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4129967</subject>
+      <object>4061036</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4614023</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>4129967</subject>
+      <object>4129982</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4585540</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4061039</subject>
+      <object>4129967</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>133</h>
+      <object_id>4129967</object_id>
+      <w>142</w>
+      <y>85</y>
+      <x>267</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>muddy</attribute>
+      </attributes>
+      <name>field</name>
+      <h>220</h>
+      <object_id>4129972</object_id>
+      <w>480</w>
+      <y>111</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>area</name>
+      <h>330</h>
+      <object_id>4129975</object_id>
+      <w>481</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>muddy</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>229</h>
+      <object_id>4061036</object_id>
+      <w>500</w>
+      <y>102</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>330</h>
+      <object_id>4129982</object_id>
+      <w>481</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>48</h>
+      <object_id>4061039</object_id>
+      <w>497</w>
+      <y>79</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A single zebra standing alone in a field.</caption>
+      <caption>A beautiful zebra is standing in the middle of a field. </caption>
+      <caption>an image of a zebra herding and grazing in the pasture</caption>
+      <caption>A zebra standing alone in a dry grassland.</caption>
+      <caption>A zebra is sitting in the grass near mud.</caption>
+    </captions>
+</image>

@@ -1,0 +1,118 @@
+<image>
+  <image-id>2338307</image-id>
+  <coco-id>27565</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4064522</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3282633</subject>
+      <object>3702295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4064524</relationship_id>
+      <predicate>has a</predicate>
+      <subject>3435082</subject>
+      <object>2563272</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4064525</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3435082</subject>
+      <object>3124711</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4064526</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2299186</subject>
+      <object>2299187</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3957819</relationship_id>
+      <predicate>standing in front of</predicate>
+      <subject>3435082</subject>
+      <object>3435083</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>73</h>
+      <object_id>3282633</object_id>
+      <w>52</w>
+      <y>34</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>boy's head</name>
+      <h>68</h>
+      <object_id>3702295</object_id>
+      <w>67</w>
+      <y>71</y>
+      <x>118</x>
+    </object>
+    <object>
+      <h>430</h>
+      <object_id>3435082</object_id>
+      <w>200</w>
+      <y>47</y>
+      <x>111</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>baseball glove</name>
+      <h>85</h>
+      <object_id>2563272</object_id>
+      <w>56</w>
+      <y>46</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark blue</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>108</h>
+      <object_id>3124711</object_id>
+      <w>113</w>
+      <y>257</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>79</h>
+      <object_id>2299186</object_id>
+      <w>78</w>
+      <y>415</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>72</h>
+      <object_id>2299187</object_id>
+      <w>124</w>
+      <y>414</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wire</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>415</h>
+      <object_id>3435083</object_id>
+      <w>340</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kid standing with a glove by a fence.</caption>
+      <caption>a young boy stand in front of a fence with a baseball glove</caption>
+      <caption>a boy making a funny face with a baseball mitt</caption>
+      <caption>A happy little boy wearing a baseball glove and a blue "Junior Giants" t-shirt. </caption>
+      <caption>A young boy smiling while wearing a catchers mitt.</caption>
+    </captions>
+</image>

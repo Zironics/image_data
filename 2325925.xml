@@ -1,0 +1,60 @@
+<image>
+  <image-id>2325925</image-id>
+  <coco-id>197384</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2941821</relationship_id>
+      <predicate>casts</predicate>
+      <subject>984300</subject>
+      <object>984310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2941822</relationship_id>
+      <predicate>ON</predicate>
+      <subject>984307</subject>
+      <object>984300</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>in fore</attribute>
+        <attribute>side-on</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>175</h>
+      <object_id>984300</object_id>
+      <w>420</w>
+      <y>90</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>47</h>
+      <object_id>984310</object_id>
+      <w>122</w>
+      <y>231</y>
+      <x>371</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>number</attribute>
+      </attributes>
+      <name>20</name>
+      <h>38</h>
+      <object_id>984307</object_id>
+      <w>48</w>
+      <y>207</y>
+      <x>30</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red and white truck is driven down a road.</caption>
+      <caption>A red tanker truck drives down a multi-lane highway.</caption>
+      <caption>A fire truck that is driving down the street.</caption>
+      <caption>A large fire truck with a water tank on the side of the road.</caption>
+      <caption>A truck with a huge red tube on the back of it..</caption>
+    </captions>
+</image>

@@ -1,0 +1,167 @@
+<image>
+  <image-id>2403433</image-id>
+  <coco-id>384140</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3260152</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1124822</subject>
+      <object>1124819</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260153</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1124829</subject>
+      <object>1124824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260154</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1124829</subject>
+      <object>1124824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260155</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1124829</subject>
+      <object>1124830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260156</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1124830</subject>
+      <object>1124829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260157</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>1124829</subject>
+      <object>1124830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260158</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1124830</subject>
+      <object>1124829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260159</relationship_id>
+      <predicate>having a</predicate>
+      <subject>1124830</subject>
+      <object>1124829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260160</relationship_id>
+      <predicate>out in a</predicate>
+      <subject>1124829</subject>
+      <object>1124830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260161</relationship_id>
+      <predicate>watching in a</predicate>
+      <subject>1124829</subject>
+      <object>1124830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260162</relationship_id>
+      <predicate>looking in a</predicate>
+      <subject>1124829</subject>
+      <object>1124830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260163</relationship_id>
+      <predicate>lurking in a</predicate>
+      <subject>1124829</subject>
+      <object>1124830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260164</relationship_id>
+      <predicate>color</predicate>
+      <subject>1124824</subject>
+      <object>1124834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260165</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1124830</subject>
+      <object>1124829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260166</relationship_id>
+      <predicate>sheltering a</predicate>
+      <subject>1124830</subject>
+      <object>1124829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260167</relationship_id>
+      <predicate>cultivating a</predicate>
+      <subject>1124830</subject>
+      <object>1124829</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hill</name>
+      <h>54</h>
+      <object_id>1124822</object_id>
+      <w>483</w>
+      <y>180</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>dog</attribute>
+      </attributes>
+      <name>ballon</name>
+      <h>73</h>
+      <object_id>1124819</object_id>
+      <w>144</w>
+      <y>92</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>24</h>
+      <object_id>1124829</object_id>
+      <w>15</w>
+      <y>216</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>195</h>
+      <object_id>1124824</object_id>
+      <w>495</w>
+      <y>180</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>192</h>
+      <object_id>1124830</object_id>
+      <w>433</w>
+      <y>182</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>green</name>
+      <h>24</h>
+      <object_id>1124834</object_id>
+      <w>46</w>
+      <y>195</y>
+      <x>196</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a large kite flying in the air with people watching near by</caption>
+      <caption>A giant kite that looks like a dog flying over a grassy field.</caption>
+      <caption>A number of people enjoying a park as a large kite flys.</caption>
+      <caption>A large balloon shaped like a dog is flying through the sky.</caption>
+      <caption>A couple of people at the park flying some kites.</caption>
+    </captions>
+</image>

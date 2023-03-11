@@ -1,0 +1,68 @@
+<image>
+  <image-id>2315745</image-id>
+  <coco-id>91979</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4543056</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3012062</subject>
+      <object>3963322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3940388</relationship_id>
+      <predicate>with</predicate>
+      <subject>2913713</subject>
+      <object>3012062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3842400</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3012061</subject>
+      <object>3012062</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>128</h>
+      <object_id>3012062</object_id>
+      <w>177</w>
+      <y>79</y>
+      <x>149</x>
+      <name>egg</name>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>290</h>
+      <object_id>3963322</object_id>
+      <w>418</w>
+      <y>24</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>158</h>
+      <object_id>2913713</object_id>
+      <w>81</w>
+      <y>70</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red sauce</name>
+      <h>36</h>
+      <object_id>3012061</object_id>
+      <w>34</w>
+      <y>97</y>
+      <x>182</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate of pizza is sitting on a table.</caption>
+      <caption>A delicious pizza plate with an egg yolk in the middle. </caption>
+      <caption>A pizza with an egg on top of it on a  white plate.</caption>
+      <caption>A full pizza or pie with a fried egg in the center. </caption>
+      <caption>A breakfast pizza has an egg on it.</caption>
+    </captions>
+</image>

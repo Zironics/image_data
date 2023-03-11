@@ -1,0 +1,216 @@
+<image>
+  <image-id>2396066</image-id>
+  <coco-id>292993</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>995284</relationship_id>
+      <predicate>has a</predicate>
+      <subject>448297</subject>
+      <object>448298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995285</relationship_id>
+      <predicate>looking in</predicate>
+      <subject>448297</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995286</relationship_id>
+      <predicate>next to</predicate>
+      <subject>448301</subject>
+      <object>448297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995287</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>448297</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995288</relationship_id>
+      <predicate>ON</predicate>
+      <subject>448303</subject>
+      <object>448302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995289</relationship_id>
+      <predicate>has an</predicate>
+      <subject>448297</subject>
+      <object>448304</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995290</relationship_id>
+      <predicate>seeing itself in</predicate>
+      <subject>448297</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995291</relationship_id>
+      <predicate>OF</predicate>
+      <subject>448304</subject>
+      <object>448297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995292</relationship_id>
+      <predicate>ON</predicate>
+      <subject>448306</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995293</relationship_id>
+      <predicate>has a</predicate>
+      <subject>448297</subject>
+      <object>448305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995294</relationship_id>
+      <predicate>looking in</predicate>
+      <subject>448297</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995295</relationship_id>
+      <predicate>has</predicate>
+      <subject>448297</subject>
+      <object>448296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995296</relationship_id>
+      <predicate>looking in</predicate>
+      <subject>448297</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995297</relationship_id>
+      <predicate>looking in</predicate>
+      <subject>448297</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995298</relationship_id>
+      <predicate>looking in</predicate>
+      <subject>448297</subject>
+      <object>448301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>995299</relationship_id>
+      <predicate>has an</predicate>
+      <subject>448297</subject>
+      <object>448298</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>cute</attribute>
+        <attribute>curious</attribute>
+        <attribute>adorable</attribute>
+        <attribute>pretty</attribute>
+        <attribute>attractive</attribute>
+        <attribute>beautiful</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>238</h>
+      <object_id>448297</object_id>
+      <w>244</w>
+      <y>95</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>60</h>
+      <object_id>448298</object_id>
+      <w>58</w>
+      <y>93</y>
+      <x>69</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>circular</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>274</h>
+      <object_id>448301</object_id>
+      <w>248</w>
+      <y>43</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>patterns</name>
+      <h>213</h>
+      <object_id>448303</object_id>
+      <w>321</w>
+      <y>7</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>off white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>230</h>
+      <object_id>448302</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>bright</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>26</h>
+      <object_id>448304</object_id>
+      <w>30</w>
+      <y>147</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>dust</name>
+      <h>79</h>
+      <object_id>448306</object_id>
+      <w>200</w>
+      <y>55</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>head</name>
+      <h>200</h>
+      <object_id>448305</object_id>
+      <w>165</w>
+      <y>94</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dark area</name>
+      <h>113</h>
+      <object_id>448296</object_id>
+      <w>129</w>
+      <y>118</y>
+      <x>206</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Siamese cat sitting in front of a mirror.</caption>
+      <caption>This blue eyed cat is staring into a hand mirror.</caption>
+      <caption>The cat is observing its own visage in the circular make-up mirror.</caption>
+      <caption>A cat is looking at its reflection in a mirror.</caption>
+      <caption>A cat's face is reflected in a round magnifier mirror.</caption>
+    </captions>
+</image>

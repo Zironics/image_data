@@ -1,0 +1,161 @@
+<image>
+  <image-id>2402607</image-id>
+  <coco-id>310703</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3272228</relationship_id>
+      <predicate>has</predicate>
+      <subject>1133878</subject>
+      <object>1133879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272229</relationship_id>
+      <predicate>has</predicate>
+      <subject>1133883</subject>
+      <object>1133884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272230</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1133885</subject>
+      <object>1133887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272231</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>1133880</subject>
+      <object>1133878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272232</relationship_id>
+      <predicate>are painted on</predicate>
+      <subject>1133879</subject>
+      <object>1133878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272233</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1133885</subject>
+      <object>1133887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272234</relationship_id>
+      <predicate>in back of</predicate>
+      <subject>1133882</subject>
+      <object>1133887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272235</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1133883</subject>
+      <object>1133878</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+        <attribute>green</attribute>
+        <attribute>yellow</attribute>
+        <attribute>parked</attribute>
+        <attribute>rusty</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>train</name>
+      <h>112</h>
+      <object_id>1133878</object_id>
+      <w>415</w>
+      <y>164</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>painted white</attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>15</h>
+      <object_id>1133879</object_id>
+      <w>13</w>
+      <y>222</y>
+      <x>354</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>road</name>
+      <h>100</h>
+      <object_id>1133883</object_id>
+      <w>497</w>
+      <y>233</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>line</name>
+      <h>62</h>
+      <object_id>1133884</object_id>
+      <w>473</w>
+      <y>271</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>door</name>
+      <h>43</h>
+      <object_id>1133885</object_id>
+      <w>34</w>
+      <y>195</y>
+      <x>424</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>building</name>
+      <h>76</h>
+      <object_id>1133887</object_id>
+      <w>319</w>
+      <y>166</y>
+      <x>179</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>writing</name>
+      <h>58</h>
+      <object_id>1133880</object_id>
+      <w>86</w>
+      <y>187</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>cloud covered</attribute>
+        <attribute>grassy</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>119</h>
+      <object_id>1133882</object_id>
+      <w>496</w>
+      <y>74</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old abandoned train at the bottom of a mountain.</caption>
+      <caption>a train on a track near a building </caption>
+      <caption>Commercial train in motion moving through green hillside in rural area</caption>
+      <caption>a big long old train by some hills</caption>
+      <caption>A train sits near a green mountain on a cloudy day.</caption>
+    </captions>
+</image>

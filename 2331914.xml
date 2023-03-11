@@ -1,0 +1,76 @@
+<image>
+  <image-id>2331914</image-id>
+  <coco-id>201859</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4717195</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4385494</subject>
+      <object>4385490</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4717197</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4385494</subject>
+      <object>4385495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4612482</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4125576</subject>
+      <object>4125577</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>35</h>
+      <object_id>4385494</object_id>
+      <w>18</w>
+      <y>148</y>
+      <x>226</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>122</h>
+      <object_id>4385490</object_id>
+      <w>93</w>
+      <y>107</y>
+      <x>194</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>15</h>
+      <object_id>4385495</object_id>
+      <w>24</w>
+      <y>156</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>traffic</name>
+      <h>126</h>
+      <object_id>4125576</object_id>
+      <w>162</w>
+      <y>51</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>157</h>
+      <object_id>4125577</object_id>
+      <w>260</w>
+      <y>124</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A few cars waiting for their turn to drive around the corner.</caption>
+      <caption>A intersection with little traffic surrounded by tall buildings.</caption>
+      <caption>Cars stopped at an intersection waiting to proceed</caption>
+      <caption>Several cars at an intersection with buildings in the background.</caption>
+      <caption>Pedestrian crossing on a slow city road with few cars. </caption>
+    </captions>
+</image>

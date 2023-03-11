@@ -1,0 +1,65 @@
+<image>
+  <image-id>2385170</image-id>
+  <coco-id>283432</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4674699</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4282337</subject>
+      <object>4282212</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4674761</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4282256</subject>
+      <object>4282255</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cream</attribute>
+      </attributes>
+      <h>475</h>
+      <object_id>4282337</object_id>
+      <w>237</w>
+      <y>22</y>
+      <x>71</x>
+      <name>building</name>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>172</h>
+      <object_id>4282212</object_id>
+      <w>189</w>
+      <y>320</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clock</attribute>
+      </attributes>
+      <name>face</name>
+      <h>79</h>
+      <object_id>4282256</object_id>
+      <w>77</w>
+      <y>285</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>95</h>
+      <object_id>4282255</object_id>
+      <w>119</w>
+      <y>293</y>
+      <x>189</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white clock tower between two pine trees. </caption>
+      <caption>A white clock tower with clocks on both sides of the walls shown and an upper room with windows above the clocks.</caption>
+      <caption>A clock tower framed by trees against a blue sky</caption>
+      <caption>A large white brick clock tower towering over trees.</caption>
+      <caption>A photo of a large brick clock tower.</caption>
+    </captions>
+</image>

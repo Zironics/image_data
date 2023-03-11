@@ -1,0 +1,95 @@
+<image>
+  <image-id>2415768</image-id>
+  <coco-id>125782</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3680671</relationship_id>
+      <predicate>describing</predicate>
+      <subject>3095906</subject>
+      <object>2722311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3680673</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2722311</subject>
+      <object>2864784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3680674</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2799774</subject>
+      <object>2864784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3876568</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3315095</subject>
+      <object>3095906</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3876569</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3315095</subject>
+      <object>2864784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>374</h>
+      <object_id>3095906</object_id>
+      <w>281</w>
+      <y>1</y>
+      <x>7</x>
+      <name>advertisement</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cinnamon</attribute>
+      </attributes>
+      <h>118</h>
+      <object_id>2722311</object_id>
+      <w>111</w>
+      <y>75</y>
+      <x>378</x>
+      <name>donut hole</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>tray</name>
+      <h>355</h>
+      <object_id>2864784</object_id>
+      <w>460</w>
+      <y>19</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>125</h>
+      <object_id>2799774</object_id>
+      <w>45</w>
+      <y>202</y>
+      <x>271</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sugared piece </attribute>
+      </attributes>
+      <h>145</h>
+      <object_id>3315095</object_id>
+      <w>155</w>
+      <y>229</y>
+      <x>301</x>
+      <name>donut</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sign labeling donuts in a bakery with donuts</caption>
+      <caption>It is an image of an outside space.
+</caption>
+      <caption>A bunch of doughnuts that are on a tray.</caption>
+      <caption>freshly baked donuts priced to sell at 60cents each</caption>
+      <caption>some sugar donuts on a blue tray and a sign</caption>
+    </captions>
+</image>

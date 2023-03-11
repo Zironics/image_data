@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328634</image-id>
+  <coco-id>473779</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470319</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3053009</subject>
+      <object>3935992</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099345</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3065662</subject>
+      <object>3065661</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>teddy bear</name>
+      <h>279</h>
+      <object_id>3053009</object_id>
+      <w>192</w>
+      <y>21</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>dress</name>
+      <h>150</h>
+      <object_id>3935992</object_id>
+      <w>151</w>
+      <y>151</y>
+      <x>312</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>figural</attribute>
+      </attributes>
+      <name>framed photo</name>
+      <h>35</h>
+      <object_id>3065662</object_id>
+      <w>38</w>
+      <y>177</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>20</h>
+      <object_id>3065661</object_id>
+      <w>20</w>
+      <y>184</y>
+      <x>257</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bear figurine that has a chest next to it, and the bear is dressed up in a hat and dress.</caption>
+      <caption>a toy animal is wearing a feathery hat</caption>
+      <caption>A ceramic figurine featuring a teddy bear playing dress-up.</caption>
+      <caption>A teddy bear with a couple of toy items in front of it.</caption>
+      <caption>A teddy bear in a dress with pearls, umbrella, fancy hat, dress and shadow box.</caption>
+    </captions>
+</image>

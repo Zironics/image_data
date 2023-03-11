@@ -1,0 +1,90 @@
+<image>
+  <image-id>2328943</image-id>
+  <coco-id>356011</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4022072</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3685447</subject>
+      <object>3685446</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022073</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3685447</subject>
+      <object>3062124</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022081</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2830587</subject>
+      <object>3685447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022089</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2883370</subject>
+      <object>2883371</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>73</h>
+      <object_id>3685447</object_id>
+      <w>127</w>
+      <y>247</y>
+      <x>201</x>
+      <name>slice</name>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>95</h>
+      <object_id>3685446</object_id>
+      <w>120</w>
+      <y>149</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>78</h>
+      <object_id>3062124</object_id>
+      <w>130</w>
+      <y>160</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>103</h>
+      <object_id>2830587</object_id>
+      <w>182</w>
+      <y>254</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>351</h>
+      <object_id>2883370</object_id>
+      <w>295</w>
+      <y>0</y>
+      <x>203</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>228</h>
+      <object_id>2883371</object_id>
+      <w>282</w>
+      <y>107</y>
+      <x>204</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boy is eating pizza and salad with other children.</caption>
+      <caption>A young boy eating salad and pizza in a restaurant.</caption>
+      <caption>small boy eating food from a white plate</caption>
+      <caption>a table that has a couple of plates of food on it</caption>
+      <caption>A young boy eating a salad with a slice of pizza.</caption>
+    </captions>
+</image>

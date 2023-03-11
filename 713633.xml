@@ -1,0 +1,133 @@
+<image>
+  <image-id>713633</image-id>
+  <coco-id>211644</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4063216</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3399089</subject>
+      <object>3701836</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262906</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3399088</subject>
+      <object>3399089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063218</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3701838</subject>
+      <object>1978080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063224</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2778212</subject>
+      <object>1586846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063225</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2778212</subject>
+      <object>1586846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063226</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1854764</subject>
+      <object>1586846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063227</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3701838</subject>
+      <object>1586846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063228</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3399089</subject>
+      <object>1586846</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>child</name>
+      <h>539</h>
+      <object_id>3399089</object_id>
+      <w>286</w>
+      <y>226</y>
+      <x>659</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plaid</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>307</h>
+      <object_id>3701836</object_id>
+      <w>268</w>
+      <y>333</y>
+      <x>663</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>168</h>
+      <object_id>3399088</object_id>
+      <w>181</w>
+      <y>253</y>
+      <x>798</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>279</h>
+      <object_id>3701838</object_id>
+      <w>163</w>
+      <y>94</y>
+      <x>527</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>241</h>
+      <object_id>1978080</object_id>
+      <w>147</w>
+      <y>169</y>
+      <x>526</x>
+    </object>
+    <object>
+      <h>397</h>
+      <object_id>2778212</object_id>
+      <w>230</w>
+      <y>144</y>
+      <x>212</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>classroom</name>
+      <h>743</h>
+      <object_id>1586846</object_id>
+      <w>983</w>
+      <y>15</y>
+      <x>13</x>
+    </object>
+    <object>
+      <h>431</h>
+      <object_id>1854764</object_id>
+      <w>458</w>
+      <y>336</y>
+      <x>283</x>
+      <name>person</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A classroom of students all with laptop computers on their desks.</caption>
+      <caption>A group of people sitting at desk in front of laptop computers.</caption>
+      <caption>A bunch of kids in a class room with laptops.</caption>
+      <caption>The students are all using their laptops. </caption>
+      <caption>Several children are sitting at desks with laptops in front of them.</caption>
+    </captions>
+</image>

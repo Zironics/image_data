@@ -1,0 +1,61 @@
+<image>
+  <image-id>2414173</image-id>
+  <coco-id>438985</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>152771</relationship_id>
+      <predicate>jumping off</predicate>
+      <subject>158521</subject>
+      <object>158524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>152772</relationship_id>
+      <predicate>has</predicate>
+      <subject>158524</subject>
+      <object>158521</object>
+    </relationship>
+    <relationship>
+      <relationship_id>152773</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>158521</subject>
+      <object>158524</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>golden brown</attribute>
+        <attribute>jumping</attribute>
+        <attribute>orange</attribute>
+        <attribute>striped</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>162</h>
+      <object_id>158521</object_id>
+      <w>290</w>
+      <y>85</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stacked</attribute>
+        <attribute>red</attribute>
+        <attribute>smaller</attribute>
+      </attributes>
+      <name>suitcase</name>
+      <h>137</h>
+      <object_id>158524</object_id>
+      <w>308</w>
+      <y>148</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is jumping off of a stack of suitcases.</caption>
+      <caption>a yellow cat on top of stacked suit cases about to jump off</caption>
+      <caption>a cat standing on red colored travel luggage </caption>
+      <caption>A cat is playing on top of two suitcases. </caption>
+      <caption>Orange cat walking across two red suitcases stacked on floor.</caption>
+    </captions>
+</image>

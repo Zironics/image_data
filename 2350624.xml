@@ -1,0 +1,100 @@
+<image>
+  <image-id>2350624</image-id>
+  <coco-id>137154</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3797147</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2653862</subject>
+      <object>2653864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3797148</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1669063</subject>
+      <object>2653864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409679</relationship_id>
+      <predicate>of an</predicate>
+      <subject>1987823</subject>
+      <object>1987824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409680</relationship_id>
+      <predicate>rise up behind</predicate>
+      <subject>1669063</subject>
+      <object>2550325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409681</relationship_id>
+      <predicate>rise up behind</predicate>
+      <subject>1669063</subject>
+      <object>1987824</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>140</h>
+      <object_id>2653862</object_id>
+      <w>126</w>
+      <y>20</y>
+      <x>370</x>
+    </object>
+    <object>
+      <name>savannah</name>
+      <h>195</h>
+      <object_id>2653864</object_id>
+      <w>495</w>
+      <y>157</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>141</h>
+      <object_id>1669063</object_id>
+      <w>179</w>
+      <y>2</y>
+      <x>0</x>
+      <name>trees</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shorter</attribute>
+      </attributes>
+      <name>tusks</name>
+      <h>30</h>
+      <object_id>1987823</object_id>
+      <w>73</w>
+      <y>192</y>
+      <x>325</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>younger</attribute>
+        <attribute>tall </attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>262</h>
+      <object_id>1987824</object_id>
+      <w>316</w>
+      <y>66</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>118</h>
+      <object_id>2550325</object_id>
+      <w>119</w>
+      <y>127</y>
+      <x>23</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two grey elephants walking through a lush grass covered field.</caption>
+      <caption>Two elephants walking in a grassy flat area.</caption>
+      <caption>Two elephants walk in an open savanna with dried grass.</caption>
+      <caption>an image of two elephants walking in the wilderness</caption>
+      <caption>Two elephants walking across dry grass in the wild.</caption>
+    </captions>
+</image>

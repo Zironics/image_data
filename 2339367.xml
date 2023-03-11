@@ -1,0 +1,115 @@
+<image>
+  <image-id>2339367</image-id>
+  <coco-id>63040</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4039805</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2637283</subject>
+      <object>3692414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457913</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3033062</subject>
+      <object>3033063</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457914</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3352771</subject>
+      <object>3352770</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457915</relationship_id>
+      <predicate>pets</predicate>
+      <subject>3203090</subject>
+      <object>3203091</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>100</h>
+      <object_id>2637283</object_id>
+      <w>61</w>
+      <y>18</y>
+      <x>292</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>39</h>
+      <object_id>3692414</object_id>
+      <w>52</w>
+      <y>25</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lying down</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>47</h>
+      <object_id>3033062</object_id>
+      <w>92</w>
+      <y>75</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>290</h>
+      <object_id>3033063</object_id>
+      <w>497</w>
+      <y>89</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown shirt</name>
+      <h>30</h>
+      <object_id>3352771</object_id>
+      <w>31</w>
+      <y>109</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>72</h>
+      <object_id>3352770</object_id>
+      <w>47</w>
+      <y>81</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>29</h>
+      <object_id>3203090</object_id>
+      <w>41</w>
+      <y>236</y>
+      <x>271</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>98</h>
+      <object_id>3203091</object_id>
+      <w>160</w>
+      <y>222</y>
+      <x>157</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Many families are sitting down with their dogs. </caption>
+      <caption>Some little children having a fun time petting and playing with some dogs.</caption>
+      <caption>A room of children and adults petting dogs.</caption>
+      <caption>The service dogs are visiting with the children as adults watch.</caption>
+      <caption>A group session of children reading books to their dogs.</caption>
+    </captions>
+</image>

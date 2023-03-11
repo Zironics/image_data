@@ -1,0 +1,44 @@
+<image>
+  <image-id>2354568</image-id>
+  <coco-id>555366</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4688978</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4318904</subject>
+      <object>4318905</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>220</h>
+      <object_id>4318904</object_id>
+      <w>88</w>
+      <y>65</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grass</attribute>
+      </attributes>
+      <name>field</name>
+      <h>299</h>
+      <object_id>4318905</object_id>
+      <w>497</w>
+      <y>33</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white zebra stands in a grassy field.</caption>
+      <caption>A zebra running at trotting speed across a field of grass.</caption>
+      <caption>A zebra standing in a grassy field with trees in the background.</caption>
+      <caption>A zebra stands in a field of grass.</caption>
+      <caption>A zebra standing in a bright green field of grass.</caption>
+    </captions>
+</image>

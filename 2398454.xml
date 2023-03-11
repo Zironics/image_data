@@ -1,0 +1,43 @@
+<image>
+  <image-id>2398454</image-id>
+  <coco-id>351418</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4688937</relationship_id>
+      <predicate>are in</predicate>
+      <subject>4318756</subject>
+      <object>4318755</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>some</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>213</h>
+      <object_id>4318756</object_id>
+      <w>184</w>
+      <y>14</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>158</h>
+      <object_id>4318755</object_id>
+      <w>69</w>
+      <y>221</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A flower vase is placed on the glass table. </caption>
+      <caption>A vase that is sitting on a glass table with flowers inside of it.</caption>
+      <caption>A clear vase with purple flowers are on a glass table. </caption>
+      <caption>A very pretty looking flower arrangement in a glass vase on a glass table.</caption>
+      <caption>A lavender flower bouquet in a clear glass vase.</caption>
+    </captions>
+</image>

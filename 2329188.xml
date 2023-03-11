@@ -1,0 +1,94 @@
+<image>
+  <image-id>2329188</image-id>
+  <coco-id>188534</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4030984</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3366087</subject>
+      <object>3069960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049590</relationship_id>
+      <predicate>beside</predicate>
+      <subject>3165902</subject>
+      <object>3696624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4031061</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3366087</subject>
+      <object>2922844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4050586</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3069959</subject>
+      <object>3069960</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>carrot</name>
+      <h>32</h>
+      <object_id>3366087</object_id>
+      <w>103</w>
+      <y>55</y>
+      <x>315</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>plastic</attribute>
+      </attributes>
+      <h>323</h>
+      <object_id>3069960</object_id>
+      <w>498</w>
+      <y>16</y>
+      <x>0</x>
+      <name>container</name>
+    </object>
+    <object>
+      <name>broccoli</name>
+      <h>50</h>
+      <object_id>3165902</object_id>
+      <w>62</w>
+      <y>221</y>
+      <x>379</x>
+    </object>
+    <object>
+      <name>cauliflower</name>
+      <h>112</h>
+      <object_id>3696624</object_id>
+      <w>140</w>
+      <y>110</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>container</name>
+      <h>17</h>
+      <object_id>2922844</object_id>
+      <w>190</w>
+      <y>21</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>vegetable</name>
+      <h>56</h>
+      <object_id>3069959</object_id>
+      <w>63</w>
+      <y>103</y>
+      <x>385</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Assorted chinese food in a Styrofoam container on a table.</caption>
+      <caption>A open tray of rice and vegetables on a table.</caption>
+      <caption>A box of take-out food includes mixed vegetables, rice, and shrimp. </caption>
+      <caption>TAKE OUT LUNCH OR DINNER IN A STYROFOAM CONTAINER</caption>
+      <caption>A takeaway lunch rests in a styrofoam box.</caption>
+    </captions>
+</image>

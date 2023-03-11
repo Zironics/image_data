@@ -1,0 +1,101 @@
+<image>
+  <image-id>2341071</image-id>
+  <coco-id>102599</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4628354</relationship_id>
+      <predicate>around edge of</predicate>
+      <subject>4165843</subject>
+      <object>4165844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628363</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4165865</subject>
+      <object>4165866</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628368</relationship_id>
+      <predicate>at</predicate>
+      <subject>4165877</subject>
+      <object>4165878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628369</relationship_id>
+      <predicate>with</predicate>
+      <subject>4165877</subject>
+      <object>4165879</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>44</h>
+      <object_id>4165843</object_id>
+      <w>34</w>
+      <y>115</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>pool</name>
+      <h>243</h>
+      <object_id>4165844</object_id>
+      <w>417</w>
+      <y>137</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>151</h>
+      <object_id>4165865</object_id>
+      <w>36</w>
+      <y>33</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>25</h>
+      <object_id>4165866</object_id>
+      <w>53</w>
+      <y>90</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>178</h>
+      <object_id>4165877</object_id>
+      <w>279</w>
+      <y>10</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+      </attributes>
+      <name>pool</name>
+      <h>175</h>
+      <object_id>4165878</object_id>
+      <w>222</w>
+      <y>196</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>skateboards</name>
+      <h>87</h>
+      <object_id>4165879</object_id>
+      <w>109</w>
+      <y>88</y>
+      <x>282</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boy skateboards in an empty pool with other boys.</caption>
+      <caption>A skateboarder skates at a skate park with friends </caption>
+      <caption>This is an image of a skateboard park</caption>
+      <caption>A skateboarder is going down into a cement skate bowl.</caption>
+      <caption>A man grinds his skateboard at a skating rink.</caption>
+    </captions>
+</image>

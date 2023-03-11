@@ -1,0 +1,79 @@
+<image>
+  <image-id>2381780</image-id>
+  <coco-id>390213</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4577963</relationship_id>
+      <predicate>has</predicate>
+      <subject>4042927</subject>
+      <object>4042928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4577964</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4042926</subject>
+      <object>4042928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4577975</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4042950</subject>
+      <object>4042951</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>200</h>
+      <object_id>4042927</object_id>
+      <w>147</w>
+      <y>93</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>34</h>
+      <object_id>4042928</object_id>
+      <w>42</w>
+      <y>106</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>26</h>
+      <object_id>4042926</object_id>
+      <w>50</w>
+      <y>94</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>7</h>
+      <object_id>4042950</object_id>
+      <w>227</w>
+      <y>190</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>268</h>
+      <object_id>4042951</object_id>
+      <w>229</w>
+      <y>69</y>
+      <x>254</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of images of a young woman leaning over to hit a tennis ball.</caption>
+      <caption>two shots of a woman hitting a tennis ball with her racket</caption>
+      <caption>Two frames of a woman with a tennis racquet.</caption>
+      <caption>Two pictures of a woman on a tennis court, racquet outstretched, towards a ball. </caption>
+      <caption>Two images show a woman hitting a tennis ball near a crowd of spectators.</caption>
+    </captions>
+</image>

@@ -1,0 +1,76 @@
+<image>
+  <image-id>2407157</image-id>
+  <coco-id>531244</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1702970</relationship_id>
+      <predicate>has</predicate>
+      <subject>651371</subject>
+      <object>651376</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1702971</relationship_id>
+      <predicate>has</predicate>
+      <subject>651371</subject>
+      <object>651380</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1702972</relationship_id>
+      <predicate>has</predicate>
+      <subject>651371</subject>
+      <object>651383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1702973</relationship_id>
+      <predicate>with</predicate>
+      <subject>651371</subject>
+      <object>651380</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pregnant</attribute>
+        <attribute>looking</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>255</h>
+      <object_id>651371</object_id>
+      <w>186</w>
+      <y>30</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>stomach</name>
+      <h>83</h>
+      <object_id>651376</object_id>
+      <w>74</w>
+      <y>172</y>
+      <x>387</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>82</h>
+      <object_id>651380</object_id>
+      <w>72</w>
+      <y>221</y>
+      <x>360</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>163</h>
+      <object_id>651383</object_id>
+      <w>88</w>
+      <y>143</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman touching a pregnant woman's belly on a couch.</caption>
+      <caption>a woman touching the belly of a very pregnant woman </caption>
+      <caption>A pregnant woman touching another pregnant woman's belly as they sit on a couch.</caption>
+      <caption>Two pregnant women sitting beside each other on a couch while one touches the others' belly.</caption>
+      <caption>A woman reaches out to touch a pregnant woman's stomach.</caption>
+    </captions>
+</image>

@@ -1,0 +1,114 @@
+<image>
+  <image-id>2354441</image-id>
+  <coco-id>370121</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2368892</relationship_id>
+      <predicate>inside</predicate>
+      <subject>838407</subject>
+      <object>838408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2368893</relationship_id>
+      <predicate>next to</predicate>
+      <subject>838404</subject>
+      <object>838408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2368894</relationship_id>
+      <predicate>next to</predicate>
+      <subject>838404</subject>
+      <object>838411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2368895</relationship_id>
+      <predicate>on other side of</predicate>
+      <subject>838416</subject>
+      <object>838408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2368896</relationship_id>
+      <predicate>has</predicate>
+      <subject>838404</subject>
+      <object>838413</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2368897</relationship_id>
+      <predicate>lining</predicate>
+      <subject>838416</subject>
+      <object>838408</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>damn</name>
+      <h>19</h>
+      <object_id>838407</object_id>
+      <w>398</w>
+      <y>182</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on shore</attribute>
+        <attribute>going down</attribute>
+      </attributes>
+      <name>river</name>
+      <h>51</h>
+      <object_id>838408</object_id>
+      <w>498</w>
+      <y>183</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>without dreams</attribute>
+        <attribute>brown</attribute>
+        <attribute>leafless</attribute>
+        <attribute>with branches</attribute>
+        <attribute>bare</attribute>
+        <attribute>old</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>218</h>
+      <object_id>838404</object_id>
+      <w>266</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>weeds</name>
+      <h>29</h>
+      <object_id>838411</object_id>
+      <w>75</w>
+      <y>187</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>forest</name>
+      <h>65</h>
+      <object_id>838416</object_id>
+      <w>499</w>
+      <y>122</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>trunk</name>
+      <h>156</h>
+      <object_id>838413</object_id>
+      <w>63</w>
+      <y>58</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bench sits in a field by the water while it is cloudy.</caption>
+      <caption>There is a bench by the side of a tree on a shore</caption>
+      <caption>A picnic table near a lake and small waterfall</caption>
+      <caption>A bench sitting out in a field next to a tree.</caption>
+      <caption>The empty park table and benches sit beside the grey water.</caption>
+    </captions>
+</image>

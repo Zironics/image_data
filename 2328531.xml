@@ -1,0 +1,127 @@
+<image>
+  <image-id>2328531</image-id>
+  <coco-id>46440</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4105647</relationship_id>
+      <predicate>with</predicate>
+      <subject>3096545</subject>
+      <object>3096546</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4149849</relationship_id>
+      <predicate>shooting</predicate>
+      <subject>3273691</subject>
+      <object>3273692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4149850</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2756034</subject>
+      <object>3461607</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4149851</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3733754</subject>
+      <object>3733755</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4149852</relationship_id>
+      <predicate>blocking shot of</predicate>
+      <subject>3733754</subject>
+      <object>2756034</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white shorts</name>
+      <h>84</h>
+      <object_id>3096545</object_id>
+      <w>98</w>
+      <y>414</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green stripe</name>
+      <h>75</h>
+      <object_id>3096546</object_id>
+      <w>64</w>
+      <y>422</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>kid</name>
+      <h>423</h>
+      <object_id>3273691</object_id>
+      <w>189</w>
+      <y>76</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>basketball</name>
+      <h>64</h>
+      <object_id>3273692</object_id>
+      <w>66</w>
+      <y>11</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>380</h>
+      <object_id>2756034</object_id>
+      <w>142</w>
+      <y>118</y>
+      <x>192</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <h>268</h>
+      <object_id>3461607</object_id>
+      <w>102</w>
+      <y>185</y>
+      <x>232</x>
+      <name>jersey</name>
+    </object>
+    <object>
+      <name>child</name>
+      <h>373</h>
+      <object_id>3733754</object_id>
+      <w>117</w>
+      <y>124</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>uniform</name>
+      <h>192</h>
+      <object_id>3733755</object_id>
+      <w>85</w>
+      <y>274</y>
+      <x>197</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The basketball player is jumping to take a shot.</caption>
+      <caption>In a gymnasium, a group of young men reach high for a basketball.</caption>
+      <caption>A group of young men playing basketball in gymnasium.</caption>
+      <caption>A group of guys playing a basketball game together</caption>
+      <caption>A group of kids on a court playing basketball.</caption>
+    </captions>
+</image>

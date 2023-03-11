@@ -1,0 +1,71 @@
+<image>
+  <image-id>2391796</image-id>
+  <coco-id>546649</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3443914</relationship_id>
+      <predicate>under</predicate>
+      <subject>1237191</subject>
+      <object>1237190</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3443915</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1237192</subject>
+      <object>1237190</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>adjustable</attribute>
+        <attribute>hospital</attribute>
+        <attribute>hospital bed</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bed</name>
+      <h>102</h>
+      <object_id>1237191</object_id>
+      <w>219</w>
+      <y>193</y>
+      <x>131</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>grey</attribute>
+        <attribute>beat up</attribute>
+        <attribute>dirty</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>208</h>
+      <object_id>1237190</object_id>
+      <w>257</w>
+      <y>26</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>antique</attribute>
+        <attribute>tiny</attribute>
+        <attribute>small</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>fan</name>
+      <h>45</h>
+      <object_id>1237192</object_id>
+      <w>33</w>
+      <y>99</y>
+      <x>315</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>black and white image of a bedroom with bars on the windows</caption>
+      <caption>In a rundown hospital setting beds are empty.</caption>
+      <caption>Prison cell with two beds and paint peeling from walls.</caption>
+      <caption>Black and white photograph of a bedroom with multiple pullout cots.</caption>
+      <caption>Beds in an old hosipital and barred windows</caption>
+    </captions>
+</image>

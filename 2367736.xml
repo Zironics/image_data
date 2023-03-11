@@ -1,0 +1,90 @@
+<image>
+  <image-id>2367736</image-id>
+  <coco-id>506256</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4356138</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1794505</subject>
+      <object>1830682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4356139</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1794506</subject>
+      <object>1830682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4356140</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1985437</subject>
+      <object>1985438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4356141</relationship_id>
+      <predicate>in shape of</predicate>
+      <subject>1985437</subject>
+      <object>1985436</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>66</h>
+      <object_id>1794505</object_id>
+      <w>494</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>231</h>
+      <object_id>1830682</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>145</h>
+      <object_id>1794506</object_id>
+      <w>304</w>
+      <y>72</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>name</name>
+      <h>52</h>
+      <object_id>1985437</object_id>
+      <w>95</w>
+      <y>180</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>orchard</name>
+      <h>197</h>
+      <object_id>1985438</object_id>
+      <w>496</w>
+      <y>157</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>arch</name>
+      <h>52</h>
+      <object_id>1985436</object_id>
+      <w>108</w>
+      <y>176</y>
+      <x>294</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A hand holding a small apple with a bite out of it.</caption>
+      <caption>A hand holds up a bitten apple in an outdoor area.</caption>
+      <caption>a hand holding an apple with a bite taken out of it and some other people</caption>
+      <caption>A person raising a bitten apple in front of an orchard.</caption>
+      <caption>A man is holding up a small apple while outside an orchard.</caption>
+    </captions>
+</image>

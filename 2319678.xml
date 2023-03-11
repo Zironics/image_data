@@ -1,0 +1,37 @@
+<image>
+  <image-id>2319678</image-id>
+  <coco-id>164461</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3845037</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3173515</subject>
+      <object>3173516</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>200</h>
+      <object_id>3173515</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>213</h>
+      <object_id>3173516</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of red trucks driving down a road.</caption>
+      <caption>some fire trucks turning  into a parking lot on a toy set </caption>
+      <caption>Two toy red firetrucks by some trees. </caption>
+      <caption>There is a red fire truck that is backed up</caption>
+      <caption>The toy fire trucks are in a tree scene. </caption>
+    </captions>
+</image>

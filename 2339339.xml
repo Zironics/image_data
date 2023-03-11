@@ -1,0 +1,59 @@
+<image>
+  <image-id>2339339</image-id>
+  <coco-id>526371</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4048705</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3184886</subject>
+      <object>3184887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458065</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3929190</subject>
+      <object>2315654</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skiier</name>
+      <h>373</h>
+      <object_id>3184886</object_id>
+      <w>228</w>
+      <y>65</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>474</h>
+      <object_id>3184887</object_id>
+      <w>331</w>
+      <y>24</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>21</h>
+      <object_id>3929190</object_id>
+      <w>333</w>
+      <y>456</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>352</h>
+      <object_id>2315654</object_id>
+      <w>330</w>
+      <y>42</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person with a hat and some ski poles</caption>
+      <caption>A person riding skis down a snow covered ski slope.</caption>
+      <caption>A wintery day with a skier pulling a sled.</caption>
+      <caption>A person who is on snow skis, going down a hill.</caption>
+      <caption>A person wearing a hat is in the snow on skis.</caption>
+    </captions>
+</image>

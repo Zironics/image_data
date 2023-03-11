@@ -1,0 +1,42 @@
+<image>
+  <image-id>2334472</image-id>
+  <coco-id>474800</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4001126</relationship_id>
+      <predicate>eating</predicate>
+      <subject>3480612</subject>
+      <object>3677264</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>95</h>
+      <object_id>3480612</object_id>
+      <w>32</w>
+      <y>169</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+        <attribute>green</attribute>
+        <attribute>Brown</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>367</h>
+      <object_id>3677264</object_id>
+      <w>493</w>
+      <y>4</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of zebras are eating food from the container</caption>
+      <caption>Zebras gather to be with each other on a grassy plain.</caption>
+      <caption>Many zebras grazing in an open field by a tree.</caption>
+      <caption>A group of zebras that are standing in the grass.</caption>
+      <caption>A herd of zebras gather around what appears to be a dish of water in a grassy field.</caption>
+    </captions>
+</image>

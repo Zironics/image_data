@@ -1,0 +1,126 @@
+<image>
+  <image-id>713198</image-id>
+  <coco-id>483001</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4058725</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1868295</subject>
+      <object>1868297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058726</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1868296</subject>
+      <object>1868297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058729</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1580372</subject>
+      <object>3700154</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058730</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1580373</subject>
+      <object>3700155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058731</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1580374</subject>
+      <object>3700156</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tan </attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>108</h>
+      <object_id>1868295</object_id>
+      <w>118</w>
+      <y>288</y>
+      <x>79</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large </attribute>
+      </attributes>
+      <name>bed</name>
+      <h>431</h>
+      <object_id>1868297</object_id>
+      <w>571</w>
+      <y>216</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan </attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>78</h>
+      <object_id>1868296</object_id>
+      <w>81</w>
+      <y>273</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>108</h>
+      <object_id>1580372</object_id>
+      <w>77</w>
+      <y>175</y>
+      <x>520</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>243</h>
+      <object_id>3700154</object_id>
+      <w>94</w>
+      <y>133</y>
+      <x>497</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>117</h>
+      <object_id>1580373</object_id>
+      <w>111</w>
+      <y>166</y>
+      <x>595</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>219</h>
+      <object_id>3700155</object_id>
+      <w>148</w>
+      <y>142</y>
+      <x>577</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>125</h>
+      <object_id>1580374</object_id>
+      <w>95</w>
+      <y>157</y>
+      <x>710</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>225</h>
+      <object_id>3700156</object_id>
+      <w>139</w>
+      <y>153</y>
+      <x>694</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bedroom suite with a large bed and amazing view</caption>
+      <caption>A large white bed sitting in a hotel room next to a red couch.</caption>
+      <caption>A large room with a ben and some chairs</caption>
+      <caption>Large hotel room with a king sized bed and large view of the ocean. </caption>
+      <caption>A large hotel room has a bed, couch, and desks.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2339457</image-id>
+  <coco-id>116497</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4046335</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>2304829</subject>
+      <object>3695156</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046341</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3019349</subject>
+      <object>3019350</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bananas</name>
+      <h>126</h>
+      <object_id>2304829</object_id>
+      <w>171</w>
+      <y>10</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>string</name>
+      <h>37</h>
+      <object_id>3695156</object_id>
+      <w>77</w>
+      <y>3</y>
+      <x>134</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>330</h>
+      <object_id>3019349</object_id>
+      <w>475</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>tent</name>
+      <h>203</h>
+      <object_id>3019350</object_id>
+      <w>138</w>
+      <y>1</y>
+      <x>359</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A farmer market filled with lots of ripe and green bananas.</caption>
+      <caption>A fruit stand with bananas hanging on ropes</caption>
+      <caption>Bananas hanging from a stall in a produce market</caption>
+      <caption>A view of a market that sells various fruits and vegetables.</caption>
+      <caption>a large display of bananas and other fruit</caption>
+    </captions>
+</image>

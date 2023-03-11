@@ -1,0 +1,45 @@
+<image>
+  <image-id>2355199</image-id>
+  <coco-id>396958</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2347264</relationship_id>
+      <predicate>wit</predicate>
+      <subject>831874</subject>
+      <object>831867</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>holding</attribute>
+        <attribute>standing</attribute>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>112</h>
+      <object_id>831874</object_id>
+      <w>113</w>
+      <y>210</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fedora</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>74</h>
+      <object_id>831867</object_id>
+      <w>103</w>
+      <y>144</y>
+      <x>37</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person standing with a bike by a train.</caption>
+      <caption>A man riding a bike next to a yellow and blue train.</caption>
+      <caption>People wait to board the yellow train with blue windows.</caption>
+      <caption>A man with his bicycle waiting for the subway </caption>
+      <caption>An older man waits at a train station for a passenger train.</caption>
+    </captions>
+</image>

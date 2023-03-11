@@ -1,0 +1,79 @@
+<image>
+  <image-id>2377152</image-id>
+  <coco-id>199319</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4008239</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2768637</subject>
+      <object>1924926</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3963146</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3235779</subject>
+      <object>3235780</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3913645</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3274480</subject>
+      <object>1924926</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>322</h>
+      <object_id>2768637</object_id>
+      <w>485</w>
+      <y>8</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>332</h>
+      <object_id>1924926</object_id>
+      <w>225</w>
+      <y>0</y>
+      <x>272</x>
+      <name>bark tree</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>ring</name>
+      <h>17</h>
+      <object_id>3235779</object_id>
+      <w>70</w>
+      <y>195</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>tree trunk</name>
+      <h>330</h>
+      <object_id>3235780</object_id>
+      <w>111</w>
+      <y>0</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>106</h>
+      <object_id>3274480</object_id>
+      <w>58</w>
+      <y>225</y>
+      <x>297</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of palm trees with lots of bananas hanging from them.</caption>
+      <caption>A stalk of bananas is hanging off a tree.</caption>
+      <caption>A stalk of bananas hanging from a tree.</caption>
+      <caption>A huge bunch of bananas attached to the banana tree.</caption>
+      <caption>some green bananas and a flower bud hanging from a tree</caption>
+    </captions>
+</image>

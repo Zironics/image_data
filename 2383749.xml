@@ -1,0 +1,62 @@
+<image>
+  <image-id>2383749</image-id>
+  <coco-id>29299</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4776099</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4537530</subject>
+      <object>4537531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4735791</relationship_id>
+      <predicate>down side of</predicate>
+      <subject>4430268</subject>
+      <object>4430269</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>panel</name>
+      <h>35</h>
+      <object_id>4537530</object_id>
+      <w>60</w>
+      <y>37</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>120</h>
+      <object_id>4537531</object_id>
+      <w>473</w>
+      <y>6</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>70</h>
+      <object_id>4430268</object_id>
+      <w>121</w>
+      <y>129</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>161</h>
+      <object_id>4430269</object_id>
+      <w>469</w>
+      <y>80</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow airplane sitting inside of a hangar.</caption>
+      <caption>A yellow biplane above a bicycle in a warehouse.</caption>
+      <caption>an old airplane sits  by dome antique cars on what looks like a museum</caption>
+      <caption>yellow airplane inside of a large garage with old cars </caption>
+      <caption>A yellow airplane on display inside a hangar.</caption>
+    </captions>
+</image>

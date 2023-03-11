@@ -1,0 +1,84 @@
+<image>
+  <image-id>2399187</image-id>
+  <coco-id>165376</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4684474</relationship_id>
+      <predicate>cover</predicate>
+      <subject>4307721</subject>
+      <object>4307722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684475</relationship_id>
+      <predicate>reflects on</predicate>
+      <subject>4307725</subject>
+      <object>4307726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684476</relationship_id>
+      <predicate>across</predicate>
+      <subject>4307731</subject>
+      <object>4307732</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>blinds</name>
+      <h>189</h>
+      <object_id>4307721</object_id>
+      <w>156</w>
+      <y>0</y>
+      <x>342</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>181</h>
+      <object_id>4307722</object_id>
+      <w>209</w>
+      <y>5</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>61</h>
+      <object_id>4307725</object_id>
+      <w>130</w>
+      <y>171</y>
+      <x>357</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>300</h>
+      <object_id>4307726</object_id>
+      <w>218</w>
+      <y>7</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>wire</name>
+      <h>78</h>
+      <object_id>4307731</object_id>
+      <w>34</w>
+      <y>256</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>94</h>
+      <object_id>4307732</object_id>
+      <w>130</w>
+      <y>247</y>
+      <x>197</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A room is filled with sunshine and furniture.</caption>
+      <caption>A room with a yellow lamp and lots of glare.</caption>
+      <caption>A living room with lots of windows filled with odd furniture and a lamp.</caption>
+      <caption>some lamps a couch windows trees and a rug</caption>
+      <caption>A room with a large lamp on the floor.</caption>
+    </captions>
+</image>

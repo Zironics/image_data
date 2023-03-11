@@ -1,0 +1,40 @@
+<image>
+  <image-id>2335708</image-id>
+  <coco-id>208263</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260133</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3360542</subject>
+      <object>3360543</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>scissors</name>
+      <h>64</h>
+      <object_id>3360542</object_id>
+      <w>46</w>
+      <y>232</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>31</h>
+      <object_id>3360543</object_id>
+      <w>62</w>
+      <y>228</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man cutting a yellow trash bag with his foot on a stool.</caption>
+      <caption>a man with his foot on a chair with a bag</caption>
+      <caption>The boy is standing with one foot on a chair, while cutting fabric.</caption>
+      <caption>Person with foot on stool holding a pair of scissors cutting a piece of fabric.</caption>
+      <caption>A man cutting downwards a bag with scissors .</caption>
+    </captions>
+</image>

@@ -1,0 +1,90 @@
+<image>
+  <image-id>2320466</image-id>
+  <coco-id>547246</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3857000</relationship_id>
+      <predicate>with</predicate>
+      <subject>3790788</subject>
+      <object>2761027</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857001</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2802546</subject>
+      <object>3619614</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3970207</relationship_id>
+      <predicate>has</predicate>
+      <subject>3790788</subject>
+      <object>3511682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251905</relationship_id>
+      <predicate>has</predicate>
+      <subject>3790788</subject>
+      <object>3250955</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>143</h>
+      <object_id>3790788</object_id>
+      <w>78</w>
+      <y>138</y>
+      <x>80</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>30</h>
+      <object_id>2761027</object_id>
+      <w>34</w>
+      <y>154</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>wristband</name>
+      <h>7</h>
+      <object_id>2802546</object_id>
+      <w>20</w>
+      <y>184</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>140</h>
+      <object_id>3619614</object_id>
+      <w>100</w>
+      <y>144</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>right hand</name>
+      <h>24</h>
+      <object_id>3511682</object_id>
+      <w>17</w>
+      <y>160</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>left hand</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>26</h>
+      <object_id>3250955</object_id>
+      <w>32</w>
+      <y>195</y>
+      <x>100</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in blue jeans talking on a cell phone.</caption>
+      <caption>A man in sunglasses sitting on a wall talking on a cellphone.</caption>
+      <caption>A young man sits on a wall using a cell phone.</caption>
+      <caption>a person sitting down on a ledge talking on a cell phone</caption>
+      <caption>A man is sitting outside and using a cell phone.</caption>
+    </captions>
+</image>

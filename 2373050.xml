@@ -1,0 +1,242 @@
+<image>
+  <image-id>2373050</image-id>
+  <coco-id>431516</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4139361</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1908061</subject>
+      <object>1908064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139367</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2562372</subject>
+      <object>2516054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139368</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2513976</subject>
+      <object>1825556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139369</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1836474</subject>
+      <object>1836475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139370</relationship_id>
+      <predicate>Is in</predicate>
+      <subject>2300616</subject>
+      <object>2300617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139371</relationship_id>
+      <predicate>Is in</predicate>
+      <subject>2516054</subject>
+      <object>2300617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139372</relationship_id>
+      <predicate>Is in</predicate>
+      <subject>2154586</subject>
+      <object>1825556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139373</relationship_id>
+      <predicate>Is in</predicate>
+      <subject>2008732</subject>
+      <object>2008731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139374</relationship_id>
+      <predicate>Is on</predicate>
+      <subject>2308357</subject>
+      <object>2516054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139375</relationship_id>
+      <predicate>Is on</predicate>
+      <subject>2035027</subject>
+      <object>2516054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139376</relationship_id>
+      <predicate>Is on</predicate>
+      <subject>2516053</subject>
+      <object>2516054</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>97</h>
+      <object_id>1908061</object_id>
+      <w>278</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>145</h>
+      <object_id>1908064</object_id>
+      <w>326</w>
+      <y>8</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>writing</name>
+      <h>28</h>
+      <object_id>2562372</object_id>
+      <w>45</w>
+      <y>104</y>
+      <x>297</x>
+    </object>
+    <object>
+      <h>143</h>
+      <object_id>2516054</object_id>
+      <w>441</w>
+      <y>29</y>
+      <x>36</x>
+      <name>airplane</name>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>50</h>
+      <object_id>2513976</object_id>
+      <w>197</w>
+      <y>6</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>200</h>
+      <object_id>1825556</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>55</h>
+      <object_id>1836474</object_id>
+      <w>53</w>
+      <y>11</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>45</h>
+      <object_id>1836475</object_id>
+      <w>165</w>
+      <y>10</y>
+      <x>222</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>White </attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>28</h>
+      <object_id>2300616</object_id>
+      <w>78</w>
+      <y>157</y>
+      <x>394</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>44</h>
+      <object_id>2300617</object_id>
+      <w>112</w>
+      <y>9</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>194</h>
+      <object_id>2154586</object_id>
+      <w>469</w>
+      <y>7</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>135</h>
+      <object_id>2008732</object_id>
+      <w>323</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>188</h>
+      <object_id>2008731</object_id>
+      <w>302</w>
+      <y>7</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>White </attribute>
+      </attributes>
+      <name>airplane body</name>
+      <h>60</h>
+      <object_id>2308357</object_id>
+      <w>405</w>
+      <y>91</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Black </attribute>
+      </attributes>
+      <name>gear</name>
+      <h>20</h>
+      <object_id>2035027</object_id>
+      <w>14</w>
+      <y>144</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Bent</attribute>
+      </attributes>
+      <name>wing</name>
+      <h>45</h>
+      <object_id>2516053</object_id>
+      <w>46</w>
+      <y>54</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large passenger jet flying through a cloudy sky.</caption>
+      <caption>a white blue and yellow jet is flying </caption>
+      <caption>A white, blue, and yellow airplane is flying in the air.</caption>
+      <caption>An airliner is mid air on a blue cloudy day.</caption>
+      <caption>A large Lufthansa airplane soars in mid-air. </caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2333594</image-id>
+  <coco-id>162503</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4018254</relationship_id>
+      <predicate>has</predicate>
+      <subject>3683937</subject>
+      <object>3325839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018257</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2752454</subject>
+      <object>2752455</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree</name>
+      <h>493</h>
+      <object_id>3683937</object_id>
+      <w>89</w>
+      <y>2</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>trunks</name>
+      <h>220</h>
+      <object_id>3325839</object_id>
+      <w>68</w>
+      <y>276</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>bark</name>
+      <h>131</h>
+      <object_id>2752454</object_id>
+      <w>51</w>
+      <y>54</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>464</h>
+      <object_id>2752455</object_id>
+      <w>70</w>
+      <y>1</y>
+      <x>72</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird perched on top of a tree branch.</caption>
+      <caption>an owl sitting on a branch in a forest</caption>
+      <caption>A small owl is perched on a tree branch.  </caption>
+      <caption>An owl perched on a branch in the forest. </caption>
+      <caption>an owl sitting on a branch surrounded by a bunch of trees</caption>
+    </captions>
+</image>

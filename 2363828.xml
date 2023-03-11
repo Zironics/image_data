@@ -1,0 +1,120 @@
+<image>
+  <image-id>2363828</image-id>
+  <coco-id>313637</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2080928</relationship_id>
+      <predicate>in a</predicate>
+      <subject>761783</subject>
+      <object>761785</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2080929</relationship_id>
+      <predicate>in a</predicate>
+      <subject>761786</subject>
+      <object>761785</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2080930</relationship_id>
+      <predicate>in a</predicate>
+      <subject>761788</subject>
+      <object>761785</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2080931</relationship_id>
+      <predicate>has</predicate>
+      <subject>761783</subject>
+      <object>761789</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2080932</relationship_id>
+      <predicate>left of</predicate>
+      <subject>761783</subject>
+      <object>761791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2080933</relationship_id>
+      <predicate>right of</predicate>
+      <subject>761783</subject>
+      <object>761791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2080934</relationship_id>
+      <predicate>in a</predicate>
+      <subject>761783</subject>
+      <object>761785</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>white</attribute>
+        <attribute>staring</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>91</h>
+      <object_id>761783</object_id>
+      <w>95</w>
+      <y>147</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+        <attribute>dead</attribute>
+      </attributes>
+      <name>field</name>
+      <h>185</h>
+      <object_id>761785</object_id>
+      <w>497</w>
+      <y>148</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wide</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>187</h>
+      <object_id>761786</object_id>
+      <w>70</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gnarled</attribute>
+      </attributes>
+      <name>log</name>
+      <h>27</h>
+      <object_id>761788</object_id>
+      <w>150</w>
+      <y>160</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>36</h>
+      <object_id>761789</object_id>
+      <w>25</w>
+      <y>147</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>98</h>
+      <object_id>761791</object_id>
+      <w>85</w>
+      <y>136</y>
+      <x>301</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two zebras are standing still and looking around.</caption>
+      <caption>Pair of zebra's standing in remote natural area.</caption>
+      <caption>Two zebras standing in the savannah near dead trees.</caption>
+      <caption>Two zebras stand close to each other in the wild.</caption>
+      <caption>A couple of zebras standing near some dead trees.</caption>
+    </captions>
+</image>

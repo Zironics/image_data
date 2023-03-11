@@ -1,0 +1,51 @@
+<image>
+  <image-id>2334522</image-id>
+  <coco-id>56326</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3756672</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2579896</subject>
+      <object>2949098</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4000063</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2579896</subject>
+      <object>2579897</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate</name>
+      <h>269</h>
+      <object_id>2579896</object_id>
+      <w>442</w>
+      <y>42</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>tray</name>
+      <h>343</h>
+      <object_id>2949098</object_id>
+      <w>492</w>
+      <y>29</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>208</h>
+      <object_id>2579897</object_id>
+      <w>379</w>
+      <y>68</y>
+      <x>82</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a food platter with white rice carrots and some pieces of pork</caption>
+      <caption>A plate of food containing rice, meat, and vegetables.</caption>
+      <caption>An oblong plate contains seafood, rice and carrot.</caption>
+      <caption>Chicken with chies and red peppers, rice, carrots and broccoli.</caption>
+      <caption>White rice with vegetables and meat on a white plate with silverware. </caption>
+    </captions>
+</image>

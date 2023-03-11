@@ -1,0 +1,143 @@
+<image>
+  <image-id>2392324</image-id>
+  <coco-id>368117</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4628201</relationship_id>
+      <predicate>with</predicate>
+      <subject>4165617</subject>
+      <object>4165504</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628208</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4165528</subject>
+      <object>4165529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628237</relationship_id>
+      <predicate>have black</predicate>
+      <subject>4165593</subject>
+      <object>4165594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628238</relationship_id>
+      <predicate>have black</predicate>
+      <subject>4165593</subject>
+      <object>4165594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628260</relationship_id>
+      <predicate>with</predicate>
+      <subject>4165617</subject>
+      <object>4165618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628273</relationship_id>
+      <predicate>casting</predicate>
+      <subject>4165647</subject>
+      <object>4165648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <h>332</h>
+      <object_id>4165617</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+      <name>sky</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>wispy</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>102</h>
+      <object_id>4165504</object_id>
+      <w>215</w>
+      <y>4</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>unlit</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>light</name>
+      <h>56</h>
+      <object_id>4165528</object_id>
+      <w>56</w>
+      <y>226</y>
+      <x>280</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>traffic</attribute>
+      </attributes>
+      <name>light</name>
+      <h>212</h>
+      <object_id>4165529</object_id>
+      <w>104</w>
+      <y>79</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>stop lights</name>
+      <h>222</h>
+      <object_id>4165593</object_id>
+      <w>226</w>
+      <y>67</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cases</name>
+      <h>101</h>
+      <object_id>4165594</object_id>
+      <w>122</w>
+      <y>148</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>109</h>
+      <object_id>4165618</object_id>
+      <w>190</w>
+      <y>10</y>
+      <x>47</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Light </attribute>
+      </attributes>
+      <name>casing</name>
+      <h>62</h>
+      <object_id>4165647</object_id>
+      <w>77</w>
+      <y>72</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>17</h>
+      <object_id>4165648</object_id>
+      <w>19</w>
+      <y>100</y>
+      <x>281</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of traffic lights sitting under a cloudy sky.</caption>
+      <caption>a street light has the red lights glowing</caption>
+      <caption>The traffic lights are clearly visible for all of us to see. </caption>
+      <caption>a pole with a stop lights attached to it</caption>
+      <caption>two sets of street lights attached to a pole </caption>
+    </captions>
+</image>

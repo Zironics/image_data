@@ -1,0 +1,144 @@
+<image>
+  <image-id>2372278</image-id>
+  <coco-id>90366</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4153296</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>1716374</subject>
+      <object>1716373</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4314763</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>1716374</subject>
+      <object>1716373</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4153297</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>1716374</subject>
+      <object>2056801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4153298</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>1716374</subject>
+      <object>2056801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4153299</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1716374</subject>
+      <object>3735152</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4153300</relationship_id>
+      <predicate>sitting in front of</predicate>
+      <subject>1716374</subject>
+      <object>2056801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4153302</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1669288</subject>
+      <object>2056801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4153303</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2167633</subject>
+      <object>1716374</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4314764</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2077214</subject>
+      <object>3853148</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>animal</name>
+      <h>253</h>
+      <object_id>1716374</object_id>
+      <w>109</w>
+      <y>237</y>
+      <x>36</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fake</attribute>
+      </attributes>
+      <name>animal</name>
+      <h>290</h>
+      <object_id>1716373</object_id>
+      <w>297</w>
+      <y>56</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fake</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>replica</attribute>
+        <attribute>sculpture</attribute>
+        <attribute>jersey</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>283</h>
+      <object_id>2056801</object_id>
+      <w>289</w>
+      <y>59</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>119</h>
+      <object_id>3735152</object_id>
+      <w>98</w>
+      <y>314</y>
+      <x>225</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>35</h>
+      <object_id>1669288</object_id>
+      <w>49</w>
+      <y>165</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>36</h>
+      <object_id>2167633</object_id>
+      <w>78</w>
+      <y>454</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>22</h>
+      <object_id>2077214</object_id>
+      <w>13</w>
+      <y>111</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>295</h>
+      <object_id>3853148</object_id>
+      <w>309</w>
+      <y>51</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog sitting on the grass looking at a fake cow that is lit up at night.</caption>
+      <caption>A dog looking at a statue of a cow.</caption>
+      <caption>A dog sitting in the grass watching a cow</caption>
+      <caption>A black and white cow is looking through a fence.</caption>
+      <caption>A dog faces a light up cow ornament.</caption>
+    </captions>
+</image>

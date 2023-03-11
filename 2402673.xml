@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402673</image-id>
+  <coco-id>353866</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>771157</relationship_id>
+      <predicate>IN</predicate>
+      <subject>387640</subject>
+      <object>387641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270980</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1132902</subject>
+      <object>1132903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270988</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1132902</subject>
+      <object>1132903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3271000</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1132902</subject>
+      <object>1132903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3271004</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1132902</subject>
+      <object>1132903</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boat</name>
+      <h>59</h>
+      <object_id>387640</object_id>
+      <w>169</w>
+      <y>229</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>204</h>
+      <object_id>387641</object_id>
+      <w>482</w>
+      <y>79</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>38</h>
+      <object_id>1132902</object_id>
+      <w>40</w>
+      <y>22</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>38</h>
+      <object_id>1132903</object_id>
+      <w>41</w>
+      <y>26</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man wearing a hat while standing next to a body of water.</caption>
+      <caption>a man is standing in a jacket and hat</caption>
+      <caption>A man wearing a hat and jacket stand in the foreground with boats in the background.</caption>
+      <caption>a black and white photo of a man wearing a hat</caption>
+      <caption>A man standing in front of canoes in the water.</caption>
+    </captions>
+</image>

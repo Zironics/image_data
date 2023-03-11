@@ -1,0 +1,59 @@
+<image>
+  <image-id>285833</image-id>
+  <coco-id>338021</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3947588</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1569716</subject>
+      <object>3656057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3947589</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1569720</subject>
+      <object>1569721</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tire</name>
+      <h>131</h>
+      <object_id>1569716</object_id>
+      <w>108</w>
+      <y>517</y>
+      <x>320</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>547</h>
+      <object_id>3656057</object_id>
+      <w>359</w>
+      <y>123</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>sunlight</name>
+      <h>55</h>
+      <object_id>1569720</object_id>
+      <w>64</w>
+      <y>569</y>
+      <x>651</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>267</h>
+      <object_id>1569721</object_id>
+      <w>1009</w>
+      <y>406</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motorcycle parked by the railing of a scenic overlook</caption>
+      <caption>Motor scooter and helmet parked at an overlook</caption>
+      <caption>A red motorcycle sits in a lot at a mountain overlook.</caption>
+      <caption>A moped parked in a parking lot in a scenic overlook.</caption>
+      <caption>A motorbike is parked on a coastal parking lot.</caption>
+    </captions>
+</image>

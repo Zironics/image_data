@@ -1,0 +1,101 @@
+<image>
+  <image-id>2372730</image-id>
+  <coco-id>414777</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4145080</relationship_id>
+      <predicate>has</predicate>
+      <subject>1875783</subject>
+      <object>1897513</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4145081</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2619783</subject>
+      <object>3731801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4145082</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2619783</subject>
+      <object>1819363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4145083</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2619783</subject>
+      <object>1679342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4313790</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2619783</subject>
+      <object>3731806</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>43</h>
+      <object_id>1875783</object_id>
+      <w>36</w>
+      <y>88</y>
+      <x>38</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>hairnet</name>
+      <h>10</h>
+      <object_id>1897513</object_id>
+      <w>23</w>
+      <y>90</y>
+      <x>45</x>
+    </object>
+    <object>
+      <h>124</h>
+      <object_id>2619783</object_id>
+      <w>90</w>
+      <y>58</y>
+      <x>409</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>assembly line</name>
+      <h>178</h>
+      <object_id>3731801</object_id>
+      <w>486</w>
+      <y>89</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>101</h>
+      <object_id>1819363</object_id>
+      <w>106</w>
+      <y>171</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>banana</name>
+      <h>87</h>
+      <object_id>1679342</object_id>
+      <w>38</w>
+      <y>195</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>gloves</name>
+      <h>34</h>
+      <object_id>3731806</object_id>
+      <w>29</w>
+      <y>98</y>
+      <x>459</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Rows of unripe bananas on display in a store.</caption>
+      <caption>a large group of bananas sitting in a few rows.</caption>
+      <caption>Three rows of bunches of green bananas with stickers on them</caption>
+      <caption>A large amount of bananas grouped together in a line.</caption>
+      <caption>A shelf with three rows of green bananas.</caption>
+    </captions>
+</image>

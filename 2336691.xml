@@ -1,0 +1,112 @@
+<image>
+  <image-id>2336691</image-id>
+  <coco-id>506736</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3975572</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2055930</subject>
+      <object>2459405</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975573</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2455674</subject>
+      <object>2455675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975574</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2055930</subject>
+      <object>2055936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975575</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2700887</subject>
+      <object>2700889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975576</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2691126</subject>
+      <object>2700889</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>111</h>
+      <object_id>2055930</object_id>
+      <w>110</w>
+      <y>249</y>
+      <x>46</x>
+      <name>red tomato</name>
+    </object>
+    <object>
+      <name>vine</name>
+      <h>50</h>
+      <object_id>2459405</object_id>
+      <w>127</w>
+      <y>274</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>tomato</name>
+      <h>82</h>
+      <object_id>2455674</object_id>
+      <w>54</w>
+      <y>415</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>vine</name>
+      <h>35</h>
+      <object_id>2455675</object_id>
+      <w>49</w>
+      <y>318</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>vine</name>
+      <h>140</h>
+      <object_id>2055936</object_id>
+      <w>258</w>
+      <y>270</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>vegetable</name>
+      <h>147</h>
+      <object_id>2700887</object_id>
+      <w>168</w>
+      <y>52</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>colorful tablecloth</name>
+      <h>114</h>
+      <object_id>2700889</object_id>
+      <w>118</w>
+      <y>296</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>vegetable</name>
+      <h>70</h>
+      <object_id>2691126</object_id>
+      <w>249</w>
+      <y>43</y>
+      <x>79</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The lemons, carrots, and lemons are close to each other.</caption>
+      <caption>a close up of tomatoes carrots and lemon</caption>
+      <caption>Closeup of tomatoes, carrots and lemons on a table.</caption>
+      <caption>Lemons, carrots and tomatoes sitting on a table.</caption>
+      <caption>Tomatoes, carrots and lemons are sitting on a table.</caption>
+    </captions>
+</image>

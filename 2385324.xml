@@ -1,0 +1,65 @@
+<image>
+  <image-id>2385324</image-id>
+  <coco-id>58933</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4669831</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4269441</subject>
+      <object>4269440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4669840</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4269466</subject>
+      <object>4269467</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>32</h>
+      <object_id>4269441</object_id>
+      <w>171</w>
+      <y>6</y>
+      <x>327</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>54</h>
+      <object_id>4269440</object_id>
+      <w>180</w>
+      <y>9</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>43</h>
+      <object_id>4269466</object_id>
+      <w>47</w>
+      <y>104</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>120</h>
+      <object_id>4269467</object_id>
+      <w>98</w>
+      <y>102</y>
+      <x>130</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A mountain area with rocks and grass, and a large ram standing in the grass.</caption>
+      <caption>A wooly ram standing on the side of a mountain.</caption>
+      <caption>A sheep stands on the hillside with rocks.</caption>
+      <caption>A ram stands alone in grass between large rocks.</caption>
+      <caption>A fur sheep or ram standing on a hillside grazing</caption>
+    </captions>
+</image>

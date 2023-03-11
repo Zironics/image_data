@@ -1,0 +1,70 @@
+<image>
+  <image-id>2345684</image-id>
+  <coco-id>313582</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2651863</relationship_id>
+      <predicate>has</predicate>
+      <subject>905661</subject>
+      <object>905660</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4429033</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3911722</subject>
+      <object>905659</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>box</name>
+      <h>36</h>
+      <object_id>905661</object_id>
+      <w>27</w>
+      <y>303</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>tissues</name>
+      <h>26</h>
+      <object_id>905660</object_id>
+      <w>22</w>
+      <y>274</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stuffed</attribute>
+      </attributes>
+      <h>88</h>
+      <object_id>3911722</object_id>
+      <w>60</w>
+      <y>182</y>
+      <x>29</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>set</attribute>
+        <attribute>story</attribute>
+      </attributes>
+      <name>books</name>
+      <h>63</h>
+      <object_id>905659</object_id>
+      <w>62</w>
+      <y>267</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A shot features a collar shirt, tie, and cardigan on a person.</caption>
+      <caption>A closeup of a woman from the chin to chest.</caption>
+      <caption>A person wearing a shirt, tie and sweater. </caption>
+      <caption>A woman wearing a grey sweater and a red tie.</caption>
+      <caption>a girl wearing a tie with a giraffe in the background</caption>
+    </captions>
+</image>

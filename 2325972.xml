@@ -1,0 +1,121 @@
+<image>
+  <image-id>2325972</image-id>
+  <coco-id>231654</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3669980</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3243387</subject>
+      <object>3123051</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481777</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2833223</subject>
+      <object>3123051</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481778</relationship_id>
+      <predicate>of newspapers on</predicate>
+      <subject>2715218</subject>
+      <object>2715220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481779</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3123050</subject>
+      <object>3123051</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481780</relationship_id>
+      <predicate>leaning on</predicate>
+      <subject>3262728</subject>
+      <object>3262729</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>34</h>
+      <object_id>3243387</object_id>
+      <w>28</w>
+      <y>379</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>van</name>
+      <h>103</h>
+      <object_id>3123051</object_id>
+      <w>235</w>
+      <y>323</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>lettering</name>
+      <h>17</h>
+      <object_id>2833223</object_id>
+      <w>23</w>
+      <y>362</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>box</name>
+      <h>72</h>
+      <object_id>2715218</object_id>
+      <w>31</w>
+      <y>373</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>78</h>
+      <object_id>2715220</object_id>
+      <w>321</w>
+      <y>406</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chain link</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>53</h>
+      <object_id>3123050</object_id>
+      <w>221</w>
+      <y>373</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaning pole</name>
+      <h>305</h>
+      <object_id>3262728</object_id>
+      <w>166</w>
+      <y>161</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>40</h>
+      <object_id>3262729</object_id>
+      <w>166</w>
+      <y>439</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light is leaning against a lamp post.</caption>
+      <caption>Street light post bent on the side of the road. </caption>
+      <caption>A stop light that has fallen over to its side.</caption>
+      <caption>An uprooted traffic signal post leans dangerously against a street lamp.</caption>
+      <caption>A street light that appears to be falling over.</caption>
+    </captions>
+</image>

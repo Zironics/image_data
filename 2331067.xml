@@ -1,0 +1,41 @@
+<image>
+  <image-id>2331067</image-id>
+  <coco-id>493773</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4750385</relationship_id>
+      <predicate>has</predicate>
+      <subject>4466838</subject>
+      <object>4466839</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>elephant</name>
+      <h>250</h>
+      <object_id>4466838</object_id>
+      <w>296</w>
+      <y>118</y>
+      <x>117</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>98</h>
+      <object_id>4466839</object_id>
+      <w>30</w>
+      <y>266</y>
+      <x>232</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A elephant standing close to a fence in front of trees.</caption>
+      <caption>Elephant looking over rope fence with trunk in mouth</caption>
+      <caption>An elephant eating hay in an outdoor enclosure.</caption>
+      <caption>an elephant in its pen is eating some food</caption>
+      <caption>The elephant is spraying water into it's mouth.</caption>
+    </captions>
+</image>

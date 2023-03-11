@@ -1,0 +1,90 @@
+<image>
+  <image-id>2320840</image-id>
+  <coco-id>460903</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3840926</relationship_id>
+      <predicate>has</predicate>
+      <subject>3067951</subject>
+      <object>3611990</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840927</relationship_id>
+      <predicate>has</predicate>
+      <subject>3611992</subject>
+      <object>3611991</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3741115</relationship_id>
+      <predicate>with</predicate>
+      <subject>3301161</subject>
+      <object>3301162</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shoe</name>
+      <h>70</h>
+      <object_id>3067951</object_id>
+      <w>85</w>
+      <y>421</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>bottom</name>
+      <h>15</h>
+      <object_id>3611990</object_id>
+      <w>41</w>
+      <y>472</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>51</h>
+      <object_id>3611992</object_id>
+      <w>50</w>
+      <y>438</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>bottom</name>
+      <h>18</h>
+      <object_id>3611991</object_id>
+      <w>42</w>
+      <y>471</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>185</h>
+      <object_id>3301161</object_id>
+      <w>101</w>
+      <y>122</y>
+      <x>83</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>32</h>
+      <object_id>3301162</object_id>
+      <w>32</w>
+      <y>131</y>
+      <x>95</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young woman makes a funny pose while snow-shoeing on a mountain.</caption>
+      <caption>A woman wearing snowshoes poses on a snowy mountain.</caption>
+      <caption>A woman with red hair standing on a pair of skis</caption>
+      <caption>A woman with red hair wearing snow shoes.</caption>
+      <caption>a woman wearing snow shoes on the hill </caption>
+    </captions>
+</image>

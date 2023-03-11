@@ -1,0 +1,82 @@
+<image>
+  <image-id>2333265</image-id>
+  <coco-id>7522</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4832696</relationship_id>
+      <predicate>on</predicate>
+      <subject>4678973</subject>
+      <object>4678972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4832697</relationship_id>
+      <predicate>on</predicate>
+      <subject>4678971</subject>
+      <object>4678972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4832698</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>4678973</subject>
+      <object>4678974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4817757</relationship_id>
+      <predicate>in</predicate>
+      <subject>4678973</subject>
+      <object>4641471</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>168</h>
+      <object_id>4678973</object_id>
+      <w>161</w>
+      <y>161</y>
+      <x>182</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>143</h>
+      <object_id>4678972</object_id>
+      <w>478</w>
+      <y>176</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>223</h>
+      <object_id>4678971</object_id>
+      <w>314</w>
+      <y>89</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>201</h>
+      <object_id>4678974</object_id>
+      <w>318</w>
+      <y>116</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>143</h>
+      <object_id>4641471</object_id>
+      <w>493</w>
+      <y>188</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An adult zebra and a younger zebra in Savannah </caption>
+      <caption>The two zebra stand next to each other in the wilderness.</caption>
+      <caption>A couple of animals that are in the grass.</caption>
+      <caption>A couple of zebras standing int he middle of a field</caption>
+      <caption>A baby giraffe standing next to an adult giraffe.</caption>
+    </captions>
+</image>

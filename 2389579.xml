@@ -1,0 +1,62 @@
+<image>
+  <image-id>2389579</image-id>
+  <coco-id>355156</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3473941</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1259275</subject>
+      <object>1259272</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3473942</relationship_id>
+      <predicate>or</predicate>
+      <subject>1259289</subject>
+      <object>1259272</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>english</attribute>
+        <attribute>green</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>saddle</name>
+      <h>92</h>
+      <object_id>1259275</object_id>
+      <w>118</w>
+      <y>63</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>walking</attribute>
+        <attribute>short</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>355</h>
+      <object_id>1259272</object_id>
+      <w>477</w>
+      <y>49</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>178</h>
+      <object_id>1259289</object_id>
+      <w>157</w>
+      <y>81</y>
+      <x>32</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl with a helmet walking her horse.</caption>
+      <caption>An individual is dragging his or her horse along the road. </caption>
+      <caption>A person in a hat is walking a horse.</caption>
+      <caption>A woman leading a saddled horse down a dirt path.</caption>
+      <caption>A person leading a saddled horse down a road.</caption>
+    </captions>
+</image>

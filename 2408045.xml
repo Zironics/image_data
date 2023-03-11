@@ -1,0 +1,83 @@
+<image>
+  <image-id>2408045</image-id>
+  <coco-id>151611</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3224216</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1094755</subject>
+      <object>1094756</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224217</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1094755</subject>
+      <object>1094756</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224218</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1094755</subject>
+      <object>1094756</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224222</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1094755</subject>
+      <object>1094756</object>
+    </relationship>
+    <relationship>
+      <relationship_id>672311</relationship_id>
+      <predicate>plays</predicate>
+      <subject>365830</subject>
+      <object>365831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224259</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1094755</subject>
+      <object>1094756</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>62</h>
+      <object_id>1094755</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>62</h>
+      <object_id>1094756</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>489</h>
+      <object_id>365830</object_id>
+      <w>301</w>
+      <y>8</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>video game</name>
+      <h>88</h>
+      <object_id>365831</object_id>
+      <w>99</w>
+      <y>244</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>They are playing video games together in the room. </caption>
+      <caption>A man standing up holding wii controllers in his hands</caption>
+      <caption>a man standing in the living room while playing with a wii mote </caption>
+      <caption>a wild haired guy playing a video game</caption>
+      <caption>A young man with a fro holding a game controller.</caption>
+    </captions>
+</image>

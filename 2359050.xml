@@ -1,0 +1,65 @@
+<image>
+  <image-id>2359050</image-id>
+  <coco-id>581458</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2229287</relationship_id>
+      <predicate>ON</predicate>
+      <subject>796599</subject>
+      <object>796611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4214591</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>796612</subject>
+      <object>3767099</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>overhead</attribute>
+        <attribute>silver</attribute>
+        <attribute>elevated</attribute>
+        <attribute>running</attribute>
+      </attributes>
+      <name>train</name>
+      <h>184</h>
+      <object_id>796599</object_id>
+      <w>296</w>
+      <y>65</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>structure</name>
+      <h>152</h>
+      <object_id>796611</object_id>
+      <w>261</w>
+      <y>162</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>74</h>
+      <object_id>796612</object_id>
+      <w>72</w>
+      <y>183</y>
+      <x>408</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>293</h>
+      <object_id>3767099</object_id>
+      <w>354</w>
+      <y>4</y>
+      <x>141</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train passing through a city street. </caption>
+      <caption>There is a crossing guard that is standing under the train tracks</caption>
+      <caption>A train passing on bridge over a busy city street.</caption>
+      <caption>a train on a train track on an elevated bridge</caption>
+      <caption>A passenger train that is traveling over a street on a bridge.</caption>
+    </captions>
+</image>

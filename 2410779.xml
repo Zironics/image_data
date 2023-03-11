@@ -1,0 +1,97 @@
+<image>
+  <image-id>2410779</image-id>
+  <coco-id>537005</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3213105</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1085426</subject>
+      <object>1085427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3213106</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1085426</subject>
+      <object>1085427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3213107</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1085426</subject>
+      <object>1085427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3213111</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1085426</subject>
+      <object>1085427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>650073</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>362326</subject>
+      <object>362327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>650074</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>362328</subject>
+      <object>362327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3213148</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1085426</subject>
+      <object>1085427</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>62</h>
+      <object_id>1085426</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>62</h>
+      <object_id>1085427</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>98</h>
+      <object_id>362326</object_id>
+      <w>126</w>
+      <y>28</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>parking meter</name>
+      <h>327</h>
+      <object_id>362327</object_id>
+      <w>269</w>
+      <y>26</y>
+      <x>47</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>101</h>
+      <object_id>362328</object_id>
+      <w>126</w>
+      <y>29</y>
+      <x>189</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The top of a parking meter is covered with a big pile of snow.</caption>
+      <caption>Two parking meters that are covered in snow.</caption>
+      <caption>there are two parking meters that are covered in snow</caption>
+      <caption>A parking meter has snow piled on top of it.</caption>
+      <caption>A parking tole on the side of the street with snow on it </caption>
+    </captions>
+</image>

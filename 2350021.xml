@@ -1,0 +1,208 @@
+<image>
+  <image-id>2350021</image-id>
+  <coco-id>252216</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4412175</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1998053</subject>
+      <object>3901806</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412176</relationship_id>
+      <predicate>and a</predicate>
+      <subject>1747830</subject>
+      <object>1747831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412177</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3901808</subject>
+      <object>2102107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412178</relationship_id>
+      <predicate>on lamas</predicate>
+      <subject>2616872</subject>
+      <object>2616873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412179</relationship_id>
+      <predicate>a</predicate>
+      <subject>1747831</subject>
+      <object>1747831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412180</relationship_id>
+      <predicate>held up by</predicate>
+      <subject>2132603</subject>
+      <object>2132604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412181</relationship_id>
+      <predicate>held up by</predicate>
+      <subject>2132603</subject>
+      <object>2132605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412182</relationship_id>
+      <predicate>held up by</predicate>
+      <subject>2132603</subject>
+      <object>2132606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412183</relationship_id>
+      <predicate>held up by</predicate>
+      <subject>2132603</subject>
+      <object>2132607</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4412184</relationship_id>
+      <predicate>held up by</predicate>
+      <subject>2132603</subject>
+      <object>2132608</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dandelion</name>
+      <h>8</h>
+      <object_id>1998053</object_id>
+      <w>9</w>
+      <y>306</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>157</h>
+      <object_id>3901806</object_id>
+      <w>77</w>
+      <y>199</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>321</h>
+      <object_id>1747830</object_id>
+      <w>202</w>
+      <y>37</y>
+      <x>218</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <h>280</h>
+      <object_id>1747831</object_id>
+      <w>163</w>
+      <y>78</y>
+      <x>55</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>40</h>
+      <object_id>3901808</object_id>
+      <w>49</w>
+      <y>145</y>
+      <x>374</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>332</h>
+      <object_id>2102107</object_id>
+      <w>271</w>
+      <y>18</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown patch</name>
+      <h>75</h>
+      <object_id>2616872</object_id>
+      <w>66</w>
+      <y>120</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>110</h>
+      <object_id>2616873</object_id>
+      <w>67</w>
+      <y>70</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>42</h>
+      <object_id>2132603</object_id>
+      <w>495</w>
+      <y>150</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>wooden post</name>
+      <h>35</h>
+      <object_id>2132604</object_id>
+      <w>5</w>
+      <y>160</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>wooden post</name>
+      <h>33</h>
+      <object_id>2132605</object_id>
+      <w>6</w>
+      <y>158</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>wooden post</name>
+      <h>32</h>
+      <object_id>2132606</object_id>
+      <w>12</w>
+      <y>152</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>wooden post</name>
+      <h>29</h>
+      <object_id>2132607</object_id>
+      <w>7</w>
+      <y>159</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>wooden post</name>
+      <h>22</h>
+      <object_id>2132608</object_id>
+      <w>9</w>
+      <y>153</y>
+      <x>451</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Some animals that are standing in the grass together.</caption>
+      <caption>A llama and white horse standing next to each other in a grassy field.</caption>
+      <caption>A horse and a lama are standing next to each other</caption>
+      <caption>a close up of two animals in an open field</caption>
+      <caption>A white horse and a white llama in a grassy field. </caption>
+    </captions>
+</image>

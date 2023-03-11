@@ -1,0 +1,79 @@
+<image>
+  <image-id>2339438</image-id>
+  <coco-id>6854</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4457772</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2559623</subject>
+      <object>2700901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457773</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3287856</subject>
+      <object>3287857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3853443</relationship_id>
+      <predicate>in half of</predicate>
+      <subject>2700900</subject>
+      <object>2700901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>slice</attribute>
+      </attributes>
+      <name>tomato</name>
+      <h>62</h>
+      <object_id>2559623</object_id>
+      <w>26</w>
+      <y>136</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>162</h>
+      <object_id>2700901</object_id>
+      <w>213</w>
+      <y>102</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>cheese slice</name>
+      <h>64</h>
+      <object_id>3287856</object_id>
+      <w>145</w>
+      <y>171</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>sandwich half</name>
+      <h>148</h>
+      <object_id>3287857</object_id>
+      <w>205</w>
+      <y>99</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green lettuce</name>
+      <h>100</h>
+      <object_id>2700900</object_id>
+      <w>81</w>
+      <y>149</y>
+      <x>16</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A poster that indicates the letter S stands for sandwich.</caption>
+      <caption>a picture of the letter s and a sandwich</caption>
+      <caption>The picture of a sandwich has a capital and a lowercase S on it.</caption>
+      <caption>The sandwich in the picture tells the student what letter it starts with. </caption>
+      <caption>A poster is using a sandwich as an example of an "s" word.</caption>
+    </captions>
+</image>

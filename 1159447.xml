@@ -1,0 +1,60 @@
+<image>
+  <image-id>1159447</image-id>
+  <coco-id>221223</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4602256</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4101015</subject>
+      <object>4101016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4602258</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4101019</subject>
+      <object>4101020</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tie</name>
+      <h>81</h>
+      <object_id>4101015</object_id>
+      <w>33</w>
+      <y>294</y>
+      <x>442</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>256</h>
+      <object_id>4101016</object_id>
+      <w>305</w>
+      <y>132</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>figurine</name>
+      <h>53</h>
+      <object_id>4101019</object_id>
+      <w>40</w>
+      <y>93</y>
+      <x>770</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>46</h>
+      <object_id>4101020</object_id>
+      <w>184</w>
+      <y>119</y>
+      <x>705</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A table with various candles in front of an entertainment center.</caption>
+      <caption>An entertainment center with the news displayed on the tv.</caption>
+      <caption>a living room with a large screen television.</caption>
+      <caption>a very nice big television showing news in a beautiful house
+</caption>
+      <caption>A table and an entertainment center with a large screen TV.</caption>
+    </captions>
+</image>

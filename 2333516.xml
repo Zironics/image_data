@@ -1,0 +1,85 @@
+<image>
+  <image-id>2333516</image-id>
+  <coco-id>413217</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4764046</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4639764</subject>
+      <object>4503442</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764047</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4639764</subject>
+      <object>4503443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4817066</relationship_id>
+      <predicate>riding</predicate>
+      <subject>4639764</subject>
+      <object>4639765</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4817067</relationship_id>
+      <predicate>on</predicate>
+      <subject>4639764</subject>
+      <object>4639766</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>114</h>
+      <object_id>4639764</object_id>
+      <w>150</w>
+      <y>136</y>
+      <x>227</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>70</h>
+      <object_id>4503442</object_id>
+      <w>71</w>
+      <y>129</y>
+      <x>253</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>147</h>
+      <object_id>4503443</object_id>
+      <w>199</w>
+      <y>114</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>147</h>
+      <object_id>4639765</object_id>
+      <w>470</w>
+      <y>167</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>95</h>
+      <object_id>4639766</object_id>
+      <w>111</w>
+      <y>131</y>
+      <x>288</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer is pivoting his board on a wave</caption>
+      <caption>A man in yellow shirt riding on a white surfboard.</caption>
+      <caption>A surfer rides along a crashing wave in the bright blue sea.</caption>
+      <caption>A man riding a surfboard on top of a wave.</caption>
+      <caption>Surfer on small wave in the middle of falling off his board.</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2321766</image-id>
+  <coco-id>41938</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3657025</relationship_id>
+      <predicate>has</predicate>
+      <subject>2753624</subject>
+      <object>2915538</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3657464</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2753624</subject>
+      <object>3296767</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4036363</relationship_id>
+      <predicate>has</predicate>
+      <subject>2753624</subject>
+      <object>2753625</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4036364</relationship_id>
+      <predicate>has</predicate>
+      <subject>2753626</subject>
+      <object>2753625</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>229</h>
+      <object_id>2753624</object_id>
+      <w>267</w>
+      <y>14</y>
+      <x>42</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>orange</attribute>
+        <attribute>canine</attribute>
+      </attributes>
+      <h>14</h>
+      <object_id>2915538</object_id>
+      <w>8</w>
+      <y>99</y>
+      <x>244</x>
+      <name>tooth</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>327</h>
+      <object_id>3296767</object_id>
+      <w>481</w>
+      <y>20</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>tiny ears</name>
+      <h>76</h>
+      <object_id>2753625</object_id>
+      <w>123</w>
+      <y>13</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>160</h>
+      <object_id>2753626</object_id>
+      <w>170</w>
+      <y>14</y>
+      <x>129</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown bear and a dark brown bear in water.</caption>
+      <caption>Two brown bears in the water near each other. </caption>
+      <caption>A couple of bears are playing in the water</caption>
+      <caption>Two bears play fight while swimming in a stream.</caption>
+      <caption>Two bears are fighting in a body of water.</caption>
+    </captions>
+</image>

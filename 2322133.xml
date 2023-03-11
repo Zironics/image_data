@@ -1,0 +1,210 @@
+<image>
+  <image-id>2322133</image-id>
+  <coco-id>443871</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2965239</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>993301</subject>
+      <object>993302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965240</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>993304</subject>
+      <object>993305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965241</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>993306</subject>
+      <object>993305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965242</relationship_id>
+      <predicate>says</predicate>
+      <subject>993300</subject>
+      <object>993312</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965243</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>993313</subject>
+      <object>993314</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965244</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>993316</subject>
+      <object>993306</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965245</relationship_id>
+      <predicate>hanging around</predicate>
+      <subject>993301</subject>
+      <object>993302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965246</relationship_id>
+      <predicate>used for</predicate>
+      <subject>993322</subject>
+      <object>993303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965247</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>993324</subject>
+      <object>993314</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965248</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>993324</subject>
+      <object>993314</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965249</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>993324</subject>
+      <object>993314</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965250</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>993324</subject>
+      <object>993314</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2965251</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>993324</subject>
+      <object>993314</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flower basket</name>
+      <h>193</h>
+      <object_id>993301</object_id>
+      <w>277</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>317</h>
+      <object_id>993302</object_id>
+      <w>118</w>
+      <y>146</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>street light</name>
+      <h>89</h>
+      <object_id>993304</object_id>
+      <w>76</w>
+      <y>373</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>city</name>
+      <h>463</h>
+      <object_id>993305</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>apartment building</name>
+      <h>170</h>
+      <object_id>993306</object_id>
+      <w>78</w>
+      <y>293</y>
+      <x>421</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>parking sign</name>
+      <h>103</h>
+      <object_id>993300</object_id>
+      <w>309</w>
+      <y>174</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>einfahrt</name>
+      <h>55</h>
+      <object_id>993312</object_id>
+      <w>148</w>
+      <y>198</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>24</h>
+      <object_id>993313</object_id>
+      <w>15</w>
+      <y>279</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>463</h>
+      <object_id>993314</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>17</h>
+      <object_id>993316</object_id>
+      <w>15</w>
+      <y>383</y>
+      <x>451</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>40</h>
+      <object_id>993322</object_id>
+      <w>84</w>
+      <y>10</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>flag</name>
+      <h>94</h>
+      <object_id>993303</object_id>
+      <w>113</w>
+      <y>10</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>18</h>
+      <object_id>993324</object_id>
+      <w>13</w>
+      <y>279</y>
+      <x>170</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A road sign on a street light with a potted plant</caption>
+      <caption>A large sign and flag on a pole.</caption>
+      <caption>a small pole that has a sign hanging off of it</caption>
+      <caption>a funny sounding street sign in Germany </caption>
+      <caption>a pole holding onto a street sign  and a potted plan </caption>
+    </captions>
+</image>

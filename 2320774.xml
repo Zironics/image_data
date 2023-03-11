@@ -1,0 +1,80 @@
+<image>
+  <image-id>2320774</image-id>
+  <coco-id>529470</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251635</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3231904</subject>
+      <object>3371595</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3893304</relationship_id>
+      <predicate>has</predicate>
+      <subject>3231904</subject>
+      <object>3231905</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3854250</relationship_id>
+      <predicate>has</predicate>
+      <subject>3107365</subject>
+      <object>3107366</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>145</h>
+      <object_id>3231904</object_id>
+      <w>109</w>
+      <y>137</y>
+      <x>302</x>
+      <name>girl</name>
+    </object>
+    <object>
+      <name>container</name>
+      <h>49</h>
+      <object_id>3371595</object_id>
+      <w>67</w>
+      <y>154</y>
+      <x>291</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+        <attribute>short </attribute>
+      </attributes>
+      <name>hair</name>
+      <h>33</h>
+      <object_id>3231905</object_id>
+      <w>42</w>
+      <y>132</y>
+      <x>356</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>137</h>
+      <object_id>3107365</object_id>
+      <w>70</w>
+      <y>134</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>48</h>
+      <object_id>3107366</object_id>
+      <w>39</w>
+      <y>130</y>
+      <x>84</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Several people lined up near a school bus.</caption>
+      <caption>a crowd of people by a school bus and a girl holding a big blue bowl</caption>
+      <caption>A number of people crowded around a modified school bus.</caption>
+      <caption>a school bus that has some people in it</caption>
+      <caption>Group of people stand outside a yellow schoolbus. </caption>
+    </captions>
+</image>

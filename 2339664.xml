@@ -1,0 +1,57 @@
+<image>
+  <image-id>2339664</image-id>
+  <coco-id>11742</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4793651</relationship_id>
+      <predicate>on</predicate>
+      <subject>4582578</subject>
+      <object>4582579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793652</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4582581</subject>
+      <object>4582579</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>84</h>
+      <object_id>4582578</object_id>
+      <w>41</w>
+      <y>50</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>wine</name>
+      <h>389</h>
+      <object_id>4582579</object_id>
+      <w>105</w>
+      <y>49</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>82</h>
+      <object_id>4582581</object_id>
+      <w>135</w>
+      <y>266</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A glass of red wine sits beside the bottle for a refill as a piece of cake goes untouched in the back.</caption>
+      <caption>A bottle of good Shiraz sits beside a glass with some in it; something yummy to eat appears in the background. </caption>
+      <caption>A bottle of wine sitting next to a wine glass.</caption>
+      <caption>A bottle of wine and a glass on a table.</caption>
+      <caption>A partially-full glass of wine with a partially-full bottle sit on a table.</caption>
+    </captions>
+</image>

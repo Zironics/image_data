@@ -1,0 +1,70 @@
+<image>
+  <image-id>2343551</image-id>
+  <coco-id>476233</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2716069</relationship_id>
+      <predicate>IN</predicate>
+      <subject>922373</subject>
+      <object>922381</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2716070</relationship_id>
+      <predicate>ON</predicate>
+      <subject>922374</subject>
+      <object>922387</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>soccer</attribute>
+        <attribute>orange</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>23</h>
+      <object_id>922373</object_id>
+      <w>27</w>
+      <y>224</y>
+      <x>269</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sandy</attribute>
+      </attributes>
+      <h>230</h>
+      <object_id>922381</object_id>
+      <w>500</w>
+      <y>101</y>
+      <x>0</x>
+      <name>area</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>leave</name>
+      <h>52</h>
+      <object_id>922374</object_id>
+      <w>51</w>
+      <y>250</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>36</h>
+      <object_id>922387</object_id>
+      <w>64</w>
+      <y>293</y>
+      <x>241</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of young men playing a game of soccer.</caption>
+      <caption>Men playing with orange soccer ball on grass and dirt field.</caption>
+      <caption>Little boys playing soccer in an open field.</caption>
+      <caption>Several kids in a park playing soccer. </caption>
+      <caption>Some children who are playing soccer with each other.</caption>
+    </captions>
+</image>

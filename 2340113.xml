@@ -1,0 +1,37 @@
+<image>
+  <image-id>2340113</image-id>
+  <coco-id>65516</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4780024</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4547875</subject>
+      <object>4547876</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>33</h>
+      <object_id>4547875</object_id>
+      <w>85</w>
+      <y>291</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>32</h>
+      <object_id>4547876</object_id>
+      <w>487</w>
+      <y>297</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white bow standing on top of a rotten boat.</caption>
+      <caption>A cow standing next to an old boat. </caption>
+      <caption>A cow standing outside of an abandoned structure.</caption>
+      <caption>A cow standing in the ruins of buildings.</caption>
+      <caption>A cow standing inside of something next to a building ,</caption>
+    </captions>
+</image>

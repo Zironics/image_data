@@ -1,0 +1,88 @@
+<image>
+  <image-id>2385080</image-id>
+  <coco-id>240586</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4678405</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4291197</subject>
+      <object>4291198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678408</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4291203</subject>
+      <object>4291204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678420</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4291232</subject>
+      <object>4291233</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>WEATHERED</attribute>
+      </attributes>
+      <name>lines</name>
+      <h>73</h>
+      <object_id>4291197</object_id>
+      <w>47</w>
+      <y>281</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>195</h>
+      <object_id>4291198</object_id>
+      <w>404</w>
+      <y>172</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ORANGE</attribute>
+        <attribute>SAFETY</attribute>
+      </attributes>
+      <name>cones</name>
+      <h>26</h>
+      <object_id>4291203</object_id>
+      <w>109</w>
+      <y>146</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>165</h>
+      <object_id>4291204</object_id>
+      <w>259</w>
+      <y>109</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>tail lights</name>
+      <h>38</h>
+      <object_id>4291232</object_id>
+      <w>165</w>
+      <y>219</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>149</h>
+      <object_id>4291233</object_id>
+      <w>261</w>
+      <y>125</y>
+      <x>87</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A truck parked next to another truck on a street.</caption>
+      <caption>a white truck next to a black truck and a car</caption>
+      <caption>The back of a dirty white work truck driving</caption>
+      <caption>A truck and a car waiting behind a stop sign</caption>
+      <caption>a truck at an intersection with a stop sign and other cars</caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>2394485</image-id>
+  <coco-id>293276</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4728787</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4413176</subject>
+      <object>4413177</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4728788</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4413178</subject>
+      <object>4413177</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>whiskers</name>
+      <h>38</h>
+      <object_id>4413176</object_id>
+      <w>110</w>
+      <y>135</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>270</h>
+      <object_id>4413177</object_id>
+      <w>184</w>
+      <y>4</y>
+      <x>114</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>10</h>
+      <object_id>4413178</object_id>
+      <w>17</w>
+      <y>154</y>
+      <x>222</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a black cat laying on a white comforter </caption>
+      <caption>there is a black cat laying on a white bed</caption>
+      <caption>A black cat of some sort on a bed with white blanket.</caption>
+      <caption>A unenthusiastic looking cat sitting on a bed.</caption>
+      <caption>There's a black cat sitting on a bed</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2337402</image-id>
+  <coco-id>526491</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3748259</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3572477</subject>
+      <object>3218658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260026</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2263667</subject>
+      <object>3795157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3972927</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3111509</subject>
+      <object>3111510</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>word</name>
+      <h>13</h>
+      <object_id>3572477</object_id>
+      <w>35</w>
+      <y>423</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>tag</name>
+      <h>73</h>
+      <object_id>3218658</object_id>
+      <w>108</w>
+      <y>248</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>word</name>
+      <h>9</h>
+      <object_id>2263667</object_id>
+      <w>9</w>
+      <y>418</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>tag</name>
+      <h>54</h>
+      <object_id>3795157</object_id>
+      <w>53</w>
+      <y>404</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>428</h>
+      <object_id>3111509</object_id>
+      <w>238</w>
+      <y>50</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bow</attribute>
+      </attributes>
+      <name>tie</name>
+      <h>57</h>
+      <object_id>3111510</object_id>
+      <w>75</w>
+      <y>253</y>
+      <x>121</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in a suit talking into a microphone.</caption>
+      <caption>bill nye the science guy talking into a mic</caption>
+      <caption>The man in the bow tie speaks into the microphone.</caption>
+      <caption>A man is speaking with his hand by the microphone.</caption>
+      <caption>a male in a brown suit and a red bow tie</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2331295</image-id>
+  <coco-id>408101</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4465047</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>3243679</subject>
+      <object>3609696</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bear</name>
+      <h>152</h>
+      <object_id>3243679</object_id>
+      <w>273</w>
+      <y>87</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>30</h>
+      <object_id>3609696</object_id>
+      <w>17</w>
+      <y>253</y>
+      <x>378</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large black bear standing by a tree.</caption>
+      <caption>A black bear walking in the grass near a tree.</caption>
+      <caption>A bear on all fours walks toward trees. </caption>
+      <caption>The black bear is walking in grass near a tree. </caption>
+      <caption>black bear walking next to a tree and shrubs</caption>
+    </captions>
+</image>

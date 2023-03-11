@@ -1,0 +1,70 @@
+<image>
+  <image-id>2394984</image-id>
+  <coco-id>299776</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3393104</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1208883</subject>
+      <object>1208896</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3393105</relationship_id>
+      <predicate>has</predicate>
+      <subject>1208892</subject>
+      <object>1208899</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>recessed</attribute>
+        <attribute>on</attribute>
+        <attribute>inset</attribute>
+      </attributes>
+      <name>light</name>
+      <h>18</h>
+      <object_id>1208883</object_id>
+      <w>31</w>
+      <y>32</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>110</h>
+      <object_id>1208896</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>aluminum</attribute>
+        <attribute>stainless steel</attribute>
+        <attribute>silver colored</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>fridge</name>
+      <h>134</h>
+      <object_id>1208892</object_id>
+      <w>76</w>
+      <y>159</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>37</h>
+      <object_id>1208899</object_id>
+      <w>8</w>
+      <y>207</y>
+      <x>291</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An unfinished kitchen that has a refrigerator and cabinets.</caption>
+      <caption>unfinished kitchen cabinets with a black refrigerator and a door</caption>
+      <caption>A kitchen filled with lots of counter space and a refrigerator freezer.</caption>
+      <caption>A modern room with bright lights and cabinets.</caption>
+      <caption>A new kitchen doesn't have the countertops yet.</caption>
+    </captions>
+</image>

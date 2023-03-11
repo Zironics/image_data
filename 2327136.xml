@@ -1,0 +1,66 @@
+<image>
+  <image-id>2327136</image-id>
+  <coco-id>205214</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4474664</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3937946</subject>
+      <object>3174059</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4474665</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3277649</subject>
+      <object>3174060</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>17</h>
+      <object_id>3937946</object_id>
+      <w>8</w>
+      <y>142</y>
+      <x>382</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>228</h>
+      <object_id>3174059</object_id>
+      <w>105</w>
+      <y>83</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>18</h>
+      <object_id>3277649</object_id>
+      <w>19</w>
+      <y>200</y>
+      <x>86</x>
+      <name>fur</name>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>228</h>
+      <object_id>3174060</object_id>
+      <w>95</w>
+      <y>87</y>
+      <x>30</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of giraffe standing on top of a grass covered field.</caption>
+      <caption>Two giraffes standing by trees look at the camera.
+</caption>
+      <caption>Two giraffes standing in grass and bushes looking at the camera.</caption>
+      <caption>There are two giraffes standing in a wooded area.</caption>
+      <caption>Two giraffes are in a field with trees on a sunny day.</caption>
+    </captions>
+</image>

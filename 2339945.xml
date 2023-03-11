@@ -1,0 +1,43 @@
+<image>
+  <image-id>2339945</image-id>
+  <coco-id>293862</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4114700</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3041763</subject>
+      <object>3041762</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>22</h>
+      <object_id>3041763</object_id>
+      <w>366</w>
+      <y>87</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>110</h>
+      <object_id>3041762</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A FedEx plane wheels along on a tarmac. </caption>
+      <caption>FedEx Express airmail delivery plane parked on a snowy runway.</caption>
+      <caption>A plane on the tarmac is ready for takeoff at the airport.</caption>
+      <caption>A FedEx plane moving on the snowy runway.</caption>
+      <caption>an airplane on a landing strip partially covered in snow.</caption>
+    </captions>
+</image>

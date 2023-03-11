@@ -1,0 +1,136 @@
+<image>
+  <image-id>285711</image-id>
+  <coco-id>405736</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4723806</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4371187</subject>
+      <object>4401204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4723812</relationship_id>
+      <predicate>covering</predicate>
+      <subject>4401217</subject>
+      <object>4401216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4711213</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4371187</subject>
+      <object>4371188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4711215</relationship_id>
+      <predicate>standing on a</predicate>
+      <subject>4371187</subject>
+      <object>4371192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4723817</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4401229</subject>
+      <object>4371187</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4723818</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4401230</subject>
+      <object>4371187</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4723819</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4401231</subject>
+      <object>4371187</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skier</attribute>
+        <attribute>caucasian</attribute>
+      </attributes>
+      <name>man</name>
+      <h>588</h>
+      <object_id>4371187</object_id>
+      <w>229</w>
+      <y>175</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>264</h>
+      <object_id>4401204</object_id>
+      <w>990</w>
+      <y>498</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>325</h>
+      <object_id>4401217</object_id>
+      <w>984</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>336</h>
+      <object_id>4401216</object_id>
+      <w>986</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>160</h>
+      <object_id>4371188</object_id>
+      <w>143</w>
+      <y>605</y>
+      <x>461</x>
+    </object>
+    <object>
+      <name>ski slope</name>
+      <h>171</h>
+      <object_id>4371192</object_id>
+      <w>178</w>
+      <y>593</y>
+      <x>465</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>13</h>
+      <object_id>4401229</object_id>
+      <w>18</w>
+      <y>212</y>
+      <x>377</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>13</h>
+      <object_id>4401230</object_id>
+      <w>18</w>
+      <y>214</y>
+      <x>400</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>20</h>
+      <object_id>4401231</object_id>
+      <w>20</w>
+      <y>215</y>
+      <x>389</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man stands on top of a snowy hill </caption>
+      <caption>a man standing in the snow and his skis a standing on end with his helmet on top of them</caption>
+      <caption>A man standing with his skis in the snow.</caption>
+      <caption>The man has made his goal of reaching the top.</caption>
+      <caption>A man standing on top of a snow covered ski slope.</caption>
+    </captions>
+</image>

@@ -1,0 +1,117 @@
+<image>
+  <image-id>2351432</image-id>
+  <coco-id>160510</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3787319</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2292919</subject>
+      <object>2292920</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3787320</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2236194</subject>
+      <object>2403105</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021105</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1911063</subject>
+      <object>2236194</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021109</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1957751</subject>
+      <object>1957752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021126</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2448794</subject>
+      <object>2448795</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffes</name>
+      <h>160</h>
+      <object_id>2292919</object_id>
+      <w>348</w>
+      <y>252</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>92</h>
+      <object_id>2292920</object_id>
+      <w>371</w>
+      <y>237</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>111</h>
+      <object_id>2236194</object_id>
+      <w>100</w>
+      <y>251</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>173</h>
+      <object_id>2403105</object_id>
+      <w>373</w>
+      <y>325</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>back legs</name>
+      <h>82</h>
+      <object_id>1911063</object_id>
+      <w>17</w>
+      <y>267</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>front leg</name>
+      <h>60</h>
+      <object_id>1957751</object_id>
+      <w>12</w>
+      <y>326</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>139</h>
+      <object_id>1957752</object_id>
+      <w>42</w>
+      <y>258</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>moss</name>
+      <h>22</h>
+      <object_id>2448794</object_id>
+      <w>128</w>
+      <y>130</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>326</h>
+      <object_id>2448795</object_id>
+      <w>374</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two giraffes are eating in their enclosure </caption>
+      <caption>Two giraffes in a fenced in area under a tree.</caption>
+      <caption>Two giraffes stand under a large tree in an enclosure.</caption>
+      <caption>A couple of giraffes that are standing in the dirt.</caption>
+      <caption>A couple of giraffe standing next to each other.</caption>
+    </captions>
+</image>

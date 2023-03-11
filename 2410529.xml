@@ -1,0 +1,93 @@
+<image>
+  <image-id>2410529</image-id>
+  <coco-id>538809</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>214485</relationship_id>
+      <predicate>leans on</predicate>
+      <subject>215295</subject>
+      <object>215304</object>
+    </relationship>
+    <relationship>
+      <relationship_id>214486</relationship_id>
+      <predicate>standing</predicate>
+      <subject>215306</subject>
+      <object>215305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>214487</relationship_id>
+      <predicate>standing</predicate>
+      <subject>215306</subject>
+      <object>215305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>214489</relationship_id>
+      <predicate>at</predicate>
+      <subject>215306</subject>
+      <object>215305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>214491</relationship_id>
+      <predicate>leaning on</predicate>
+      <subject>215306</subject>
+      <object>215304</object>
+    </relationship>
+    <relationship>
+      <relationship_id>214492</relationship_id>
+      <predicate>at</predicate>
+      <subject>215306</subject>
+      <object>215305</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>bikes</name>
+      <h>126</h>
+      <object_id>215295</object_id>
+      <w>67</w>
+      <y>245</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>338</h>
+      <object_id>215304</object_id>
+      <w>356</w>
+      <y>0</y>
+      <x>0</x>
+      <name>building</name>
+    </object>
+    <object>
+      <name>people</name>
+      <h>173</h>
+      <object_id>215306</object_id>
+      <w>312</w>
+      <y>155</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>143</h>
+      <object_id>215305</object_id>
+      <w>295</w>
+      <y>224</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a school bus parked outside of the running room </caption>
+      <caption>A few people resting from a long bit of running. </caption>
+      <caption>People waiting for a school bus outside a gym.</caption>
+      <caption>A school bus stopped outside a running room gym.</caption>
+      <caption>A school bus is parked in front of a building</caption>
+    </captions>
+</image>

@@ -1,0 +1,176 @@
+<image>
+  <image-id>2358140</image-id>
+  <coco-id>429995</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3691993</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>1701417</subject>
+      <object>1701418</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3691994</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2258273</subject>
+      <object>2258274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3691997</relationship_id>
+      <predicate>lives in</predicate>
+      <subject>2088572</subject>
+      <object>1916585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3691998</relationship_id>
+      <predicate>lives in</predicate>
+      <subject>2088573</subject>
+      <object>1916585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3691999</relationship_id>
+      <predicate>lives in</predicate>
+      <subject>2088574</subject>
+      <object>1916585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3692002</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3547879</subject>
+      <object>1916585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3692004</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>1726853</subject>
+      <object>1726854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3692012</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3547880</subject>
+      <object>2088887</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>underwater</attribute>
+      </attributes>
+      <name>seaweed</name>
+      <h>74</h>
+      <object_id>1701417</object_id>
+      <w>135</w>
+      <y>2</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>coral</name>
+      <h>372</h>
+      <object_id>1701418</object_id>
+      <w>461</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>92</h>
+      <object_id>2258273</object_id>
+      <w>88</w>
+      <y>281</y>
+      <x>411</x>
+    </object>
+    <object>
+      <name>ocean floor</name>
+      <h>105</h>
+      <object_id>2258274</object_id>
+      <w>115</w>
+      <y>269</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>sea life</name>
+      <h>12</h>
+      <object_id>2088572</object_id>
+      <w>21</w>
+      <y>235</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>reef</name>
+      <h>372</h>
+      <object_id>1916585</object_id>
+      <w>491</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>sea life</name>
+      <h>164</h>
+      <object_id>2088573</object_id>
+      <w>137</w>
+      <y>86</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>sea life</name>
+      <h>107</h>
+      <object_id>2088574</object_id>
+      <w>52</w>
+      <y>191</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>dark area</name>
+      <h>81</h>
+      <object_id>3547879</object_id>
+      <w>120</w>
+      <y>10</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>plant</name>
+      <h>247</h>
+      <object_id>1726853</object_id>
+      <w>208</w>
+      <y>119</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>75</h>
+      <object_id>1726854</object_id>
+      <w>138</w>
+      <y>299</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>growth</name>
+      <h>83</h>
+      <object_id>3547880</object_id>
+      <w>127</w>
+      <y>115</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>coral reef</name>
+      <h>372</h>
+      <object_id>2088887</object_id>
+      <w>490</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sea animal posed on a coral reef.</caption>
+      <caption>an underwater photo of some plants and reef</caption>
+      <caption>A blue sea anemone living on a coral reef.</caption>
+      <caption>an underwater photo of a bunch of corral.</caption>
+      <caption>Some sea coral and amenities under ocean </caption>
+    </captions>
+</image>

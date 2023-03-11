@@ -1,0 +1,299 @@
+<image>
+  <image-id>2323641</image-id>
+  <coco-id>435584</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4600855</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4097739</subject>
+      <object>4148534</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600856</relationship_id>
+      <predicate>beside</predicate>
+      <subject>4097709</subject>
+      <object>4148534</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600857</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4097740</subject>
+      <object>4097715</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600858</relationship_id>
+      <predicate>draped on</predicate>
+      <subject>4097716</subject>
+      <object>4097715</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600860</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4097718</subject>
+      <object>4148534</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600859</relationship_id>
+      <predicate>fill</predicate>
+      <subject>4097717</subject>
+      <object>4097718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600861</relationship_id>
+      <predicate>stand next to</predicate>
+      <subject>4148534</subject>
+      <object>4097735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600862</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4148533</subject>
+      <object>4148534</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600863</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4097739</subject>
+      <object>4097727</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600864</relationship_id>
+      <predicate>on bottom left of</predicate>
+      <subject>4097728</subject>
+      <object>4097727</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600865</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4097739</subject>
+      <object>4097711</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600866</relationship_id>
+      <predicate>are on</predicate>
+      <subject>4097742</subject>
+      <object>4097740</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600867</relationship_id>
+      <predicate>are on</predicate>
+      <subject>4097743</subject>
+      <object>4097740</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4621436</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4097740</subject>
+      <object>4148531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4621437</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4148535</subject>
+      <object>4148536</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <h>102</h>
+      <object_id>4097739</object_id>
+      <w>102</w>
+      <y>34</y>
+      <x>126</x>
+      <name>president</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> gray</attribute>
+        <attribute> flat screen</attribute>
+        <attribute>Black </attribute>
+      </attributes>
+      <h>139</h>
+      <object_id>4148534</object_id>
+      <w>188</w>
+      <y>18</y>
+      <x>83</x>
+      <name>television</name>
+    </object>
+    <object>
+      <name>light</name>
+      <h>42</h>
+      <object_id>4097709</object_id>
+      <w>45</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>grey</attribute>
+        <attribute> gray</attribute>
+        <attribute>  tabby</attribute>
+        <attribute> black and gray</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>228</h>
+      <object_id>4097740</object_id>
+      <w>218</w>
+      <y>270</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>112</h>
+      <object_id>4097715</object_id>
+      <w>200</w>
+      <y>169</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> floral</attribute>
+        <attribute> fleece</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>259</h>
+      <object_id>4097716</object_id>
+      <w>158</w>
+      <y>239</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> tall</attribute>
+        <attribute>for book</attribute>
+      </attributes>
+      <name>shelf</name>
+      <h>51</h>
+      <object_id>4097718</object_id>
+      <w>81</w>
+      <y>135</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>books</name>
+      <h>42</h>
+      <object_id>4097717</object_id>
+      <w>32</w>
+      <y>192</y>
+      <x>312</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <h>248</h>
+      <object_id>4097735</object_id>
+      <w>111</w>
+      <y>6</y>
+      <x>262</x>
+      <name>bookshelf</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> tall</attribute>
+        <attribute>on</attribute>
+      </attributes>
+      <name>lamp</name>
+      <h>175</h>
+      <object_id>4148533</object_id>
+      <w>51</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> of television </attribute>
+      </attributes>
+      <name>screen</name>
+      <h>117</h>
+      <object_id>4097727</object_id>
+      <w>171</w>
+      <y>28</y>
+      <x>91</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>of nbc</attribute>
+      </attributes>
+      <name>symbol</name>
+      <h>10</h>
+      <object_id>4097728</object_id>
+      <w>15</w>
+      <y>116</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> black</attribute>
+      </attributes>
+      <h>49</h>
+      <object_id>4097711</object_id>
+      <w>99</w>
+      <y>90</y>
+      <x>130</x>
+      <name>coat</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>eyes</name>
+      <h>36</h>
+      <object_id>4097742</object_id>
+      <w>87</w>
+      <y>350</y>
+      <x>117</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>feline</attribute>
+      </attributes>
+      <name>whiskers</name>
+      <h>68</h>
+      <object_id>4097743</object_id>
+      <w>181</w>
+      <y>395</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>263</h>
+      <object_id>4148531</object_id>
+      <w>314</w>
+      <y>234</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>30</h>
+      <object_id>4148535</object_id>
+      <w>23</w>
+      <y>100</y>
+      <x>329</x>
+    </object>
+    <object>
+      <name>bookshelf</name>
+      <h>248</h>
+      <object_id>4148536</object_id>
+      <w>121</w>
+      <y>2</y>
+      <x>250</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat looks at the camera while Barack Obama is on the TV in the background. </caption>
+      <caption>A cat looking intently as television goes on in the background.</caption>
+      <caption>A gray cat sitting on someones legs as they watch tv</caption>
+      <caption>A grey cat on red blanket with television in background.</caption>
+      <caption>A cat on flora fabric with Obama on tv behind it</caption>
+    </captions>
+</image>

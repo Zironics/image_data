@@ -1,0 +1,112 @@
+<image>
+  <image-id>2417109</image-id>
+  <coco-id>256702</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3705401</relationship_id>
+      <predicate>are on</predicate>
+      <subject>2957842</subject>
+      <object>2957843</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3705402</relationship_id>
+      <predicate>walking along</predicate>
+      <subject>2833644</subject>
+      <object>2833649</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3633203</relationship_id>
+      <predicate>from waves hitting on</predicate>
+      <subject>3234436</subject>
+      <object>3234437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3705404</relationship_id>
+      <predicate>walking</predicate>
+      <subject>2843578</subject>
+      <object>2843577</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>foams</name>
+      <h>145</h>
+      <object_id>2957842</object_id>
+      <w>144</w>
+      <y>191</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>154</h>
+      <object_id>2957843</object_id>
+      <w>460</w>
+      <y>196</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>people</name>
+      <h>25</h>
+      <object_id>2833644</object_id>
+      <w>10</w>
+      <y>153</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>238</h>
+      <object_id>2833649</object_id>
+      <w>499</w>
+      <y>136</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>69</h>
+      <object_id>3234436</object_id>
+      <w>145</w>
+      <y>243</y>
+      <x>334</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>47</h>
+      <object_id>3234437</object_id>
+      <w>86</w>
+      <y>233</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>person</name>
+      <h>62</h>
+      <object_id>2843578</object_id>
+      <w>40</w>
+      <y>197</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>45</h>
+      <object_id>2843577</object_id>
+      <w>45</w>
+      <y>236</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a number of people walking on a beach holding surf boards</caption>
+      <caption>many people walking along the beach carrying surf boards</caption>
+      <caption>Surfers and beach goers on a sandy beach.</caption>
+      <caption>A group of people walking around a beach.</caption>
+      <caption>A man with a surfboard walking along the beach.</caption>
+    </captions>
+</image>

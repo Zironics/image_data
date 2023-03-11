@@ -1,0 +1,103 @@
+<image>
+  <image-id>2332663</image-id>
+  <coco-id>39718</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4681231</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4298839</subject>
+      <object>4298836</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4681233</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4298839</subject>
+      <object>4298840</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4681238</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4298856</subject>
+      <object>4298857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4693887</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4330556</subject>
+      <object>4330557</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>348</h>
+      <object_id>4298839</object_id>
+      <w>175</w>
+      <y>10</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>rug</name>
+      <h>101</h>
+      <object_id>4298836</object_id>
+      <w>295</w>
+      <y>263</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>sandal</name>
+      <h>24</h>
+      <object_id>4298840</object_id>
+      <w>58</w>
+      <y>329</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>toddler</name>
+      <h>159</h>
+      <object_id>4298856</object_id>
+      <w>75</w>
+      <y>214</y>
+      <x>344</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>disposable</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>36</h>
+      <object_id>4298857</object_id>
+      <w>23</w>
+      <y>250</y>
+      <x>407</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>61</h>
+      <object_id>4330556</object_id>
+      <w>70</w>
+      <y>243</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>157</h>
+      <object_id>4330557</object_id>
+      <w>424</w>
+      <y>216</y>
+      <x>72</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holding a Nintendo Will controller in a living room.</caption>
+      <caption>A man playing video games as a child walks past</caption>
+      <caption>A man plays a video game while a young child walks by.</caption>
+      <caption>Man playing game with Nintendo Wii control next to kid carrying a cup.</caption>
+      <caption>an adult standing up playing nintendo wii </caption>
+    </captions>
+</image>

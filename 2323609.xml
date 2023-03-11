@@ -1,0 +1,59 @@
+<image>
+  <image-id>2323609</image-id>
+  <coco-id>530494</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4530279</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3177646</subject>
+      <object>3958650</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3642062</relationship_id>
+      <predicate>under</predicate>
+      <subject>3111473</subject>
+      <object>3111472</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>donuts</name>
+      <h>144</h>
+      <object_id>3177646</object_id>
+      <w>292</w>
+      <y>97</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>oven</name>
+      <h>278</h>
+      <object_id>3958650</object_id>
+      <w>380</w>
+      <y>39</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>equipment</name>
+      <h>70</h>
+      <object_id>3111473</object_id>
+      <w>441</w>
+      <y>4</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>bad floor</name>
+      <h>20</h>
+      <object_id>3111472</object_id>
+      <w>117</w>
+      <y>64</y>
+      <x>90</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of doughnuts that are on a conveyor.</caption>
+      <caption>A conveyor belt that has doughnuts on them.</caption>
+      <caption>Donuts being flipped by a frying machine in a donut factory. </caption>
+      <caption>A conveyor belt topped with lots of doughnuts.</caption>
+      <caption>A bunch of doughnuts going down the assembly line to get glazed.</caption>
+    </captions>
+</image>

@@ -1,0 +1,92 @@
+<image>
+  <image-id>2392766</image-id>
+  <coco-id>358724</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1082710</relationship_id>
+      <predicate>has</predicate>
+      <subject>477477</subject>
+      <object>477478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1082711</relationship_id>
+      <predicate>ON</predicate>
+      <subject>477477</subject>
+      <object>477486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1082712</relationship_id>
+      <predicate>has</predicate>
+      <subject>477476</subject>
+      <object>477490</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>203</h>
+      <object_id>477477</object_id>
+      <w>191</w>
+      <y>57</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hands</name>
+      <h>71</h>
+      <object_id>477478</object_id>
+      <w>117</w>
+      <y>103</y>
+      <x>264</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>mechanics</name>
+      <h>371</h>
+      <object_id>477486</object_id>
+      <w>496</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>golden colored</attribute>
+        <attribute>black</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>face</name>
+      <h>179</h>
+      <object_id>477476</object_id>
+      <w>169</w>
+      <y>67</y>
+      <x>263</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>writing</name>
+      <h>66</h>
+      <object_id>477490</object_id>
+      <w>80</w>
+      <y>123</y>
+      <x>308</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A gold clock with gears and wheels near it</caption>
+      <caption>some kind of mechanical clock that his hanging on a wall</caption>
+      <caption>A clock is next to a group of gears.</caption>
+      <caption>a gold clock with some gears around it</caption>
+      <caption>A view of a clock with a faint view of a person holding a camera in a reflection. </caption>
+    </captions>
+</image>

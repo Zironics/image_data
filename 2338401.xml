@@ -1,0 +1,77 @@
+<image>
+  <image-id>2338401</image-id>
+  <coco-id>285291</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4798846</relationship_id>
+      <predicate>on</predicate>
+      <subject>4595718</subject>
+      <object>4595719</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798847</relationship_id>
+      <predicate>has</predicate>
+      <subject>4595718</subject>
+      <object>4595721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798848</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4595718</subject>
+      <object>4595722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798849</relationship_id>
+      <predicate>in</predicate>
+      <subject>4595718</subject>
+      <object>4595722</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>child</name>
+      <h>260</h>
+      <object_id>4595718</object_id>
+      <w>168</w>
+      <y>71</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>skis</name>
+      <h>49</h>
+      <object_id>4595719</object_id>
+      <w>130</w>
+      <y>260</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>29</h>
+      <object_id>4595721</object_id>
+      <w>70</w>
+      <y>85</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>271</h>
+      <object_id>4595722</object_id>
+      <w>490</w>
+      <y>60</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young lady riding skis down a snow covered slope.</caption>
+      <caption>a kid that is skiing down a snowy hill</caption>
+      <caption>A young child learning how to ski down a slope.</caption>
+      <caption>A girl in red skiing on a very snowy mountain</caption>
+      <caption>A young person in a red winter suit skiing down a snow covered hill.</caption>
+    </captions>
+</image>

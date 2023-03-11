@@ -1,0 +1,41 @@
+<image>
+  <image-id>285884</image-id>
+  <coco-id>215819</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4726446</relationship_id>
+      <predicate>has</predicate>
+      <subject>4407522</subject>
+      <object>4407523</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>55</h>
+      <object_id>4407522</object_id>
+      <w>78</w>
+      <y>456</y>
+      <x>619</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> open</attribute>
+      </attributes>
+      <name>bonnet</name>
+      <h>37</h>
+      <object_id>4407523</object_id>
+      <w>53</w>
+      <y>462</y>
+      <x>632</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small white airplane is parked on the cement.</caption>
+      <caption>An airplane glider rest on a tarmac at an airport.</caption>
+      <caption>a modern glider resting on an airport tarmac</caption>
+      <caption>An airplane parked on a lot with people walking around.
+</caption>
+      <caption>a small glider on display at an airshow</caption>
+    </captions>
+</image>

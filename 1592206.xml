@@ -1,0 +1,51 @@
+<image>
+  <image-id>1592206</image-id>
+  <coco-id>213677</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3839544</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3611466</subject>
+      <object>3611469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3839545</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3611468</subject>
+      <object>3611469</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>forehead</name>
+      <h>61</h>
+      <object_id>3611466</object_id>
+      <w>61</w>
+      <y>181</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>497</h>
+      <object_id>3611469</object_id>
+      <w>404</w>
+      <y>101</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>cheek</name>
+      <h>42</h>
+      <object_id>3611468</object_id>
+      <w>39</w>
+      <y>203</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>many people in a kitchen area preparing a pizza </caption>
+      <caption>Five men in a kitchen making cheese pizzas.</caption>
+      <caption>a couple of soldiers putting cheese on a pizza </caption>
+      <caption>men in uniform making a pizza in the kitchen</caption>
+      <caption>A group of young men putting cheese on a pizza</caption>
+    </captions>
+</image>

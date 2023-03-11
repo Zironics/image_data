@@ -1,0 +1,65 @@
+<image>
+  <image-id>2340313</image-id>
+  <coco-id>372618</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4835525</relationship_id>
+      <predicate>in</predicate>
+      <subject>4686073</subject>
+      <object>4686072</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4835526</relationship_id>
+      <predicate>in</predicate>
+      <subject>4686074</subject>
+      <object>4686072</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4835527</relationship_id>
+      <predicate>in</predicate>
+      <subject>4686075</subject>
+      <object>4686072</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wire</name>
+      <h>14</h>
+      <object_id>4686073</object_id>
+      <w>135</w>
+      <y>56</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>94</h>
+      <object_id>4686072</object_id>
+      <w>140</w>
+      <y>11</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>wire</name>
+      <h>52</h>
+      <object_id>4686074</object_id>
+      <w>83</w>
+      <y>60</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>wire</name>
+      <h>50</h>
+      <object_id>4686075</object_id>
+      <w>66</w>
+      <y>90</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The blue bus has arrived and parked on the side.</caption>
+      <caption>A train is going down the tracks near a station.</caption>
+      <caption>A blue passenger train on the tracks at a station.</caption>
+      <caption>A train at an outdoor platform with lots of wires in the air.</caption>
+      <caption>a train that almost looks like a long house</caption>
+    </captions>
+</image>

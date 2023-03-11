@@ -1,0 +1,81 @@
+<image>
+  <image-id>2390682</image-id>
+  <coco-id>99626</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1150835</relationship_id>
+      <predicate>has</predicate>
+      <subject>494821</subject>
+      <object>494814</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1150836</relationship_id>
+      <predicate>at</predicate>
+      <subject>494814</subject>
+      <object>494821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1150837</relationship_id>
+      <predicate>at</predicate>
+      <subject>494817</subject>
+      <object>494826</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>berry</attribute>
+        <attribute>red</attribute>
+        <attribute>maroon</attribute>
+      </attributes>
+      <name>table</name>
+      <h>333</h>
+      <object_id>494821</object_id>
+      <w>496</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>pastry</attribute>
+        <attribute>from</attribute>
+      </attributes>
+      <h>145</h>
+      <object_id>494814</object_id>
+      <w>132</w>
+      <y>125</y>
+      <x>120</x>
+      <name>doughnut</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colored</attribute>
+        <attribute>multicolored</attribute>
+        <attribute>icing</attribute>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>sprinkles</name>
+      <h>21</h>
+      <object_id>494817</object_id>
+      <w>19</w>
+      <y>144</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>45</h>
+      <object_id>494826</object_id>
+      <w>72</w>
+      <y>127</y>
+      <x>115</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Mostly eaten donut and a cold drink in a donut shop.</caption>
+      <caption>A doughnut with pink icing and sprinkles next to a smoothie drink.</caption>
+      <caption>A piece of donut on a napkin and a dunkin donuts cups sit on the table</caption>
+      <caption>there is a donut and a frozen drink on the table</caption>
+      <caption>The last bite of an iced donut with a drink and contact lens' case</caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>2341435</image-id>
+  <coco-id>377679</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3945541</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2152099</subject>
+      <object>2238421</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3945542</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2152099</subject>
+      <object>2570884</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lime green</attribute>
+      </attributes>
+      <h>77</h>
+      <object_id>2152099</object_id>
+      <w>68</w>
+      <y>216</y>
+      <x>330</x>
+      <name>bouquet</name>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>57</h>
+      <object_id>2238421</object_id>
+      <w>45</w>
+      <y>273</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>48</h>
+      <object_id>2570884</object_id>
+      <w>80</w>
+      <y>222</y>
+      <x>314</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of four vases filled with white and yellow flowers.</caption>
+      <caption>There are white vases with white flowers in them.</caption>
+      <caption>Several vases with flowers in them near trees. </caption>
+      <caption>a vase containing white flowers next to a branch</caption>
+      <caption>Some flowers in vases next to some branches.</caption>
+    </captions>
+</image>

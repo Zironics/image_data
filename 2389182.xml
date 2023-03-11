@@ -1,0 +1,124 @@
+<image>
+  <image-id>2389182</image-id>
+  <coco-id>129794</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4763255</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>4501326</subject>
+      <object>4501327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4763256</relationship_id>
+      <predicate>on</predicate>
+      <subject>4501329</subject>
+      <object>4501326</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4763257</relationship_id>
+      <predicate>on right side of</predicate>
+      <subject>4501331</subject>
+      <object>4501332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4763258</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4501334</subject>
+      <object>4501333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4763259</relationship_id>
+      <predicate>reflected in</predicate>
+      <subject>4501335</subject>
+      <object>4501336</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>electrical pole</name>
+      <h>163</h>
+      <object_id>4501326</object_id>
+      <w>35</w>
+      <y>81</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>134</h>
+      <object_id>4501327</object_id>
+      <w>423</w>
+      <y>196</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>thee</attribute>
+      </attributes>
+      <name>sticks</name>
+      <h>40</h>
+      <object_id>4501329</object_id>
+      <w>20</w>
+      <y>94</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>61</h>
+      <object_id>4501331</object_id>
+      <w>58</w>
+      <y>141</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>110</h>
+      <object_id>4501332</object_id>
+      <w>429</w>
+      <y>221</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>185</h>
+      <object_id>4501334</object_id>
+      <w>224</w>
+      <y>76</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>221</h>
+      <object_id>4501333</object_id>
+      <w>208</w>
+      <y>65</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>150</h>
+      <object_id>4501335</object_id>
+      <w>75</w>
+      <y>112</y>
+      <x>422</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>207</h>
+      <object_id>4501336</object_id>
+      <w>266</w>
+      <y>45</y>
+      <x>232</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A duck crosses a road while a driver is looking. </caption>
+      <caption>A bird standing in the middle of the street.</caption>
+      <caption>An automobile side view mirror in silhouette against a highway.</caption>
+      <caption>A bird that is sitting in the road.</caption>
+      <caption>A goose is seen standing in the middle of the road.</caption>
+    </captions>
+</image>

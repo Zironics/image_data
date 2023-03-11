@@ -1,0 +1,77 @@
+<image>
+  <image-id>2335509</image-id>
+  <coco-id>215471</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3716972</relationship_id>
+      <predicate>hiding in</predicate>
+      <subject>3217818</subject>
+      <object>3262839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451041</relationship_id>
+      <predicate>has</predicate>
+      <subject>3262839</subject>
+      <object>2768522</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451042</relationship_id>
+      <predicate>has</predicate>
+      <subject>3262839</subject>
+      <object>3262838</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3980773</relationship_id>
+      <predicate>falling off</predicate>
+      <subject>2768522</subject>
+      <object>3262839</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>87</h>
+      <object_id>3217818</object_id>
+      <w>84</w>
+      <y>125</y>
+      <x>279</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <h>281</h>
+      <object_id>3262839</object_id>
+      <w>477</w>
+      <y>0</y>
+      <x>8</x>
+      <name>holding rack</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>147</h>
+      <object_id>2768522</object_id>
+      <w>84</w>
+      <y>196</y>
+      <x>278</x>
+      <name>dress shoe</name>
+    </object>
+    <object>
+      <name>metalshoe</name>
+      <h>83</h>
+      <object_id>3262838</object_id>
+      <w>59</w>
+      <y>184</y>
+      <x>358</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A shelf filled with lots of different pairs of shoes .</caption>
+      <caption>Shoes messily stored on metal rack in closet.</caption>
+      <caption>A bunch of different types of shoes on a rack.</caption>
+      <caption>This collection of shoes comes with a yellow tabby cat.</caption>
+      <caption>a bunch of pairs of shoes on some racks</caption>
+    </captions>
+</image>

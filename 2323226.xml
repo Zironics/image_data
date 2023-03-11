@@ -1,0 +1,93 @@
+<image>
+  <image-id>2323226</image-id>
+  <coco-id>174048</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4532267</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3959398</subject>
+      <object>2935929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4532268</relationship_id>
+      <predicate>matching</predicate>
+      <subject>2921713</subject>
+      <object>2921714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3651910</relationship_id>
+      <predicate>of unopened</predicate>
+      <subject>3529731</subject>
+      <object>3529732</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>whole</attribute>
+      </attributes>
+      <name>mushroom</name>
+      <h>34</h>
+      <object_id>3959398</object_id>
+      <w>36</w>
+      <y>413</y>
+      <x>305</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>homemade</attribute>
+      </attributes>
+      <h>258</h>
+      <object_id>2935929</object_id>
+      <w>376</w>
+      <y>238</y>
+      <x>47</x>
+      <name>homemade pizza</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cork-sealed</attribute>
+      </attributes>
+      <name>decanter</name>
+      <h>138</h>
+      <object_id>2921713</object_id>
+      <w>53</w>
+      <y>118</y>
+      <x>341</x>
+    </object>
+    <object>
+      <name>decanter</name>
+      <h>134</h>
+      <object_id>2921714</object_id>
+      <w>64</w>
+      <y>110</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>full</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>233</h>
+      <object_id>3529731</object_id>
+      <w>68</w>
+      <y>30</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>wine</name>
+      <h>232</h>
+      <object_id>3529732</object_id>
+      <w>71</w>
+      <y>36</y>
+      <x>288</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large sliced pizza on a dining table.</caption>
+      <caption>A large pizza with toppings and some nice glassware.</caption>
+      <caption>A pizza with various toppings is served with wine.</caption>
+      <caption>A freshly baked pizza sits on the small round table beside a bottle of wine in this home kitchen.</caption>
+      <caption>A pizza with mushrooms sits on the table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,77 @@
+<image>
+  <image-id>2323100</image-id>
+  <coco-id>189461</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4533018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2913486</subject>
+      <object>3261717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4533019</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3263533</subject>
+      <object>3263533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3968753</relationship_id>
+      <predicate>with a</predicate>
+      <subject>3171250</subject>
+      <object>3261717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4533020</relationship_id>
+      <predicate>by</predicate>
+      <subject>3261717</subject>
+      <object>3171250</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>logo</name>
+      <h>32</h>
+      <object_id>2913486</object_id>
+      <w>82</w>
+      <y>225</y>
+      <x>137</x>
+    </object>
+    <object>
+      <h>225</h>
+      <object_id>3261717</object_id>
+      <w>158</w>
+      <y>131</y>
+      <x>91</x>
+      <name>coffee cup</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>creme</name>
+      <h>26</h>
+      <object_id>3263533</object_id>
+      <w>75</w>
+      <y>387</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>140</h>
+      <object_id>3171250</object_id>
+      <w>132</w>
+      <y>310</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an assortment of donuts in front of a coffee cup</caption>
+      <caption>A small toy bear in front of a cup of coffee.</caption>
+      <caption>A cup of ice cream with donuts and cookies</caption>
+      <caption>Thee is a Duncan doughnut cup on the table </caption>
+      <caption>An ad for Dunkin Donuts showing coffee cup, doughnuts and a bear shaped muffin.</caption>
+    </captions>
+</image>

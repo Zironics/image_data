@@ -1,0 +1,66 @@
+<image>
+  <image-id>2373209</image-id>
+  <coco-id>174015</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1984506</relationship_id>
+      <predicate>ON</predicate>
+      <subject>733832</subject>
+      <object>733831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1984507</relationship_id>
+      <predicate>ON</predicate>
+      <subject>733831</subject>
+      <object>733833</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1984508</relationship_id>
+      <predicate>ON</predicate>
+      <subject>733831</subject>
+      <object>733833</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>smiling</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>154</h>
+      <object_id>733832</object_id>
+      <w>100</w>
+      <y>77</y>
+      <x>203</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>cute</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cookie</name>
+      <h>188</h>
+      <object_id>733831</object_id>
+      <w>167</w>
+      <y>80</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>35</h>
+      <object_id>733833</object_id>
+      <w>45</w>
+      <y>75</y>
+      <x>379</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The chocolate cupcakes are decorated with cow faces.</caption>
+      <caption>a cupcake with a face on it on a pan</caption>
+      <caption>A chocolate doughnut with a yellow animal smiley face.</caption>
+      <caption>A chocolate cupcake with a smiling giraffe face.</caption>
+      <caption>A cupcake with the face of a giraffe.</caption>
+    </captions>
+</image>

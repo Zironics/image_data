@@ -1,0 +1,49 @@
+<image>
+  <image-id>2366330</image-id>
+  <coco-id>477705</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1631635</relationship_id>
+      <predicate>has</predicate>
+      <subject>629079</subject>
+      <object>629076</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1631636</relationship_id>
+      <predicate>has</predicate>
+      <subject>629079</subject>
+      <object>629076</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pole</name>
+      <h>124</h>
+      <object_id>629079</object_id>
+      <w>18</w>
+      <y>159</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+        <attribute>on\</attribute>
+        <attribute>red</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>light</name>
+      <h>17</h>
+      <object_id>629076</object_id>
+      <w>18</w>
+      <y>110</y>
+      <x>49</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An empty street with two street lights placed next to each other.</caption>
+      <caption>street lights showing red and yellow near a bike lane</caption>
+      <caption>Stop lights outside beside the bike lane on a road</caption>
+      <caption>bike lane near sidewalk with traffic control lights</caption>
+      <caption>Two traffic lights on a sidewalk near a street.</caption>
+    </captions>
+</image>

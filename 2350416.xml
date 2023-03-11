@@ -1,0 +1,146 @@
+<image>
+  <image-id>2350416</image-id>
+  <coco-id>230302</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3799458</relationship_id>
+      <predicate>standing on bottom of</predicate>
+      <subject>2921843</subject>
+      <object>1810830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799459</relationship_id>
+      <predicate>growing near</predicate>
+      <subject>1810829</subject>
+      <object>1810830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799460</relationship_id>
+      <predicate>with a</predicate>
+      <subject>2921843</subject>
+      <object>3593905</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799461</relationship_id>
+      <predicate>along bottom of</predicate>
+      <subject>1778875</subject>
+      <object>3593906</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799462</relationship_id>
+      <predicate>on ground below</predicate>
+      <subject>3593907</subject>
+      <object>1810830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799463</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2921843</subject>
+      <object>1810830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799464</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2635939</subject>
+      <object>2635940</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>116</h>
+      <object_id>2921843</object_id>
+      <w>92</w>
+      <y>118</y>
+      <x>188</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+        <attribute>light colored</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>345</h>
+      <object_id>1810830</object_id>
+      <w>321</w>
+      <y>0</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green plants</name>
+      <h>305</h>
+      <object_id>1810829</object_id>
+      <w>499</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>beak</name>
+      <h>25</h>
+      <object_id>3593905</object_id>
+      <w>29</w>
+      <y>124</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>42</h>
+      <object_id>1778875</object_id>
+      <w>184</w>
+      <y>174</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>221</h>
+      <object_id>3593906</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>shadows</name>
+      <h>65</h>
+      <object_id>3593907</object_id>
+      <w>460</w>
+      <y>278</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bright green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>186</h>
+      <object_id>2635939</object_id>
+      <w>156</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>plant</name>
+      <h>335</h>
+      <object_id>2635940</object_id>
+      <w>153</w>
+      <y>4</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small bird sitting on top of a wooden bench.</caption>
+      <caption>a wooden bench with a small bird at the bottom of it</caption>
+      <caption>A black and white bird sitting on the rung of a bench.</caption>
+      <caption>A bird is sitting on a wooden bench.</caption>
+      <caption>A black and white bird stands underneath a wooden bench.</caption>
+    </captions>
+</image>

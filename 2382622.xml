@@ -1,0 +1,101 @@
+<image>
+  <image-id>2382622</image-id>
+  <coco-id>285913</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4780247</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4548515</subject>
+      <object>4548516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4780248</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4548517</subject>
+      <object>4548518</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4780249</relationship_id>
+      <predicate>standing beside</predicate>
+      <subject>4548521</subject>
+      <object>4548518</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4607440</relationship_id>
+      <predicate>has</predicate>
+      <subject>4113494</subject>
+      <object>4113493</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crack</name>
+      <h>172</h>
+      <object_id>4548515</object_id>
+      <w>49</w>
+      <y>202</y>
+      <x>439</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>245</h>
+      <object_id>4548516</object_id>
+      <w>154</w>
+      <y>129</y>
+      <x>345</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>130</h>
+      <object_id>4548517</object_id>
+      <w>56</w>
+      <y>193</y>
+      <x>261</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>track</name>
+      <h>253</h>
+      <object_id>4548518</object_id>
+      <w>327</w>
+      <y>121</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>60</h>
+      <object_id>4548521</object_id>
+      <w>38</w>
+      <y>143</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>108</h>
+      <object_id>4113494</object_id>
+      <w>39</w>
+      <y>97</y>
+      <x>427</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>54</h>
+      <object_id>4113493</object_id>
+      <w>31</w>
+      <y>153</y>
+      <x>429</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a cow that is standing on a rail road track</caption>
+      <caption>a cow standing on a train track near a platform</caption>
+      <caption>a cow walks down a train track next to a wooden floor</caption>
+      <caption>The cow is stuck on the middle of the tracks.</caption>
+      <caption>An animal standing on train tracks at a passenger stop. </caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>2333575</image-id>
+  <coco-id>477156</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260338</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3229084</subject>
+      <object>3219409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260339</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3219408</subject>
+      <object>3219409</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>letter</name>
+      <h>12</h>
+      <object_id>3229084</object_id>
+      <w>15</w>
+      <y>184</y>
+      <x>269</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cardboard </attribute>
+      </attributes>
+      <h>219</h>
+      <object_id>3219409</object_id>
+      <w>161</w>
+      <y>52</y>
+      <x>154</x>
+      <name>box</name>
+    </object>
+    <object>
+      <name>letter</name>
+      <h>17</h>
+      <object_id>3219408</object_id>
+      <w>10</w>
+      <y>182</y>
+      <x>280</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A living room with a box for a large screen tv sitting in the middle of it.</caption>
+      <caption>A living room has a large box placed in the middle.</caption>
+      <caption>A large box sits on the floor in between the couch and coffee table.</caption>
+      <caption>A large brown box in front of a burgundy couch. </caption>
+      <caption>A living room with a very large unopened box located in front of the coach.</caption>
+    </captions>
+</image>

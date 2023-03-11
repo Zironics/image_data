@@ -1,0 +1,40 @@
+<image>
+  <image-id>2331206</image-id>
+  <coco-id>456807</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4741294</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4444333</subject>
+      <object>4444334</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>448</h>
+      <object_id>4444333</object_id>
+      <w>262</w>
+      <y>40</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>suit</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>323</h>
+      <object_id>4444334</object_id>
+      <w>218</w>
+      <y>133</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on a mass transit vehicle while on a cell phone.</caption>
+      <caption>A man wearing a suit on a phone with sunglasses on his head.</caption>
+      <caption>a business man on the phone in a subway</caption>
+      <caption>A man talking on the phone while waiting  for an elevator</caption>
+      <caption>A man is on a cellphone next to a thick metal door.</caption>
+    </captions>
+</image>

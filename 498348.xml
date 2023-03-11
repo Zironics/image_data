@@ -1,0 +1,101 @@
+<image>
+  <image-id>498348</image-id>
+  <coco-id>265378</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4056016</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1575771</subject>
+      <object>1575772</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056017</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1575773</subject>
+      <object>1575774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1575777</subject>
+      <object>1575782</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056019</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1575781</subject>
+      <object>1575782</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>201</h>
+      <object_id>1575771</object_id>
+      <w>110</w>
+      <y>745</y>
+      <x>656</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>483</h>
+      <object_id>1575772</object_id>
+      <w>110</w>
+      <y>530</y>
+      <x>656</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>line</name>
+      <h>16</h>
+      <object_id>1575773</object_id>
+      <w>165</w>
+      <y>567</y>
+      <x>597</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>89</h>
+      <object_id>1575774</object_id>
+      <w>138</w>
+      <y>534</y>
+      <x>624</x>
+    </object>
+    <object>
+      <name>license plate</name>
+      <h>87</h>
+      <object_id>1575777</object_id>
+      <w>153</w>
+      <y>852</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>645</h>
+      <object_id>1575782</object_id>
+      <w>642</w>
+      <y>377</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>54</h>
+      <object_id>1575781</object_id>
+      <w>53</w>
+      <y>343</y>
+      <x>418</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white car parked in a parking space.</caption>
+      <caption>a white bmw in a parking lot in day</caption>
+      <caption>A small white car parked in a parking lot.</caption>
+      <caption>A Volkswagen sedan lies still in a parking space</caption>
+      <caption>A white VW car with a California license plate and a black bird on top of the car.</caption>
+    </captions>
+</image>

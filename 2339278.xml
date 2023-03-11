@@ -1,0 +1,66 @@
+<image>
+  <image-id>2339278</image-id>
+  <coco-id>340727</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4458262</relationship_id>
+      <predicate>writing with</predicate>
+      <subject>2815919</subject>
+      <object>2314010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458263</relationship_id>
+      <predicate>in a plaid</predicate>
+      <subject>3380478</subject>
+      <object>3380479</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lady</name>
+      <h>344</h>
+      <object_id>2815919</object_id>
+      <w>393</w>
+      <y>29</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>ball point</attribute>
+      </attributes>
+      <h>77</h>
+      <object_id>2314010</object_id>
+      <w>33</w>
+      <y>211</y>
+      <x>107</x>
+      <name>pen</name>
+    </object>
+    <object>
+      <name>man</name>
+      <h>66</h>
+      <object_id>3380478</object_id>
+      <w>65</w>
+      <y>121</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plaid</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>29</h>
+      <object_id>3380479</object_id>
+      <w>46</w>
+      <y>147</y>
+      <x>267</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman sitting at a table with a glass of wine.</caption>
+      <caption>A woman writes as many people sit around tables.</caption>
+      <caption>A woman taking notes at a conference. </caption>
+      <caption>A woman sitting at a table as she writes on a paper.</caption>
+      <caption>A woman in tan shirt at a table with glass of wine.</caption>
+    </captions>
+</image>

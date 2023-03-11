@@ -1,0 +1,107 @@
+<image>
+  <image-id>2381704</image-id>
+  <coco-id>132622</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4741169</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4444048</subject>
+      <object>4444049</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4741171</relationship_id>
+      <predicate>has</predicate>
+      <subject>4444052</subject>
+      <object>4444053</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580175</relationship_id>
+      <predicate>has</predicate>
+      <subject>4048307</subject>
+      <object>4048308</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580197</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4048370</subject>
+      <object>4444052</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>105</h>
+      <object_id>4444048</object_id>
+      <w>44</w>
+      <y>244</y>
+      <x>445</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>pasture</name>
+      <h>380</h>
+      <object_id>4444049</object_id>
+      <w>150</w>
+      <y>10</y>
+      <x>341</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>390</h>
+      <object_id>4444052</object_id>
+      <w>450</w>
+      <y>6</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>fur</name>
+      <h>68</h>
+      <object_id>4444053</object_id>
+      <w>80</w>
+      <y>7</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>big bear</name>
+      <h>390</h>
+      <object_id>4048307</object_id>
+      <w>448</w>
+      <y>9</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>two ears</name>
+      <h>64</h>
+      <object_id>4048308</object_id>
+      <w>210</w>
+      <y>66</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>390</h>
+      <object_id>4048370</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>The large bear is looking in the direction of the camera.</caption>
+      <caption>A white bear stalking in the tall grass</caption>
+      <caption>A large brown bear walking across a grassy field.</caption>
+      <caption>A large grizzly bear walking through tall grass.</caption>
+      <caption>a big grizzly bear looks toward the camersa</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2320979</image-id>
+  <coco-id>353080</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3769377</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3190452</subject>
+      <object>3452267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540727</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3473329</subject>
+      <object>3473330</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>military</attribute>
+      </attributes>
+      <h>264</h>
+      <object_id>3190452</object_id>
+      <w>499</w>
+      <y>11</y>
+      <x>0</x>
+      <name>aircraft</name>
+    </object>
+    <object>
+      <name>range rover</name>
+      <h>155</h>
+      <object_id>3452267</object_id>
+      <w>297</w>
+      <y>173</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>propellers</name>
+      <h>56</h>
+      <object_id>3473329</object_id>
+      <w>455</w>
+      <y>3</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>helicopter</name>
+      <h>240</h>
+      <object_id>3473330</object_id>
+      <w>269</w>
+      <y>43</y>
+      <x>203</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An SUV backed up to a military helicopter on the tarmac.</caption>
+      <caption>A person is unloading the back of an SUV into a large helicopter.</caption>
+      <caption>A Range Rover vehicle being loaded from a helicopter behind it.</caption>
+      <caption>A Range Rover backed up to a military helicopter</caption>
+      <caption>A land rover backing into a army helicopter</caption>
+    </captions>
+</image>

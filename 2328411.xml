@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328411</image-id>
+  <coco-id>63636</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470658</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2749780</subject>
+      <object>2749781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4025146</relationship_id>
+      <predicate>under</predicate>
+      <subject>3223508</subject>
+      <object>3686617</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>guy</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>39</h>
+      <object_id>2749780</object_id>
+      <w>68</w>
+      <y>178</y>
+      <x>343</x>
+    </object>
+    <object>
+      <name>oven</name>
+      <h>315</h>
+      <object_id>2749781</object_id>
+      <w>231</w>
+      <y>3</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>concrete</name>
+      <h>113</h>
+      <object_id>3223508</object_id>
+      <w>264</w>
+      <y>260</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>oven</name>
+      <h>327</h>
+      <object_id>3686617</object_id>
+      <w>208</w>
+      <y>3</y>
+      <x>285</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a person reaching in an oven </caption>
+      <caption>a man lighting fire in a room with some firewood</caption>
+      <caption>A man putting something into a small fireplace.</caption>
+      <caption>A man is feeding the fire in the fireplace</caption>
+      <caption>A man that has his hand inside of a oven.</caption>
+    </captions>
+</image>

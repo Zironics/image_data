@@ -1,0 +1,119 @@
+<image>
+  <image-id>2333611</image-id>
+  <coco-id>202835</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4009081</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3502495</subject>
+      <object>2903694</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018021</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3502495</subject>
+      <object>3007636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018023</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3502495</subject>
+      <object>2903694</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018025</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3247848</subject>
+      <object>3007636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018026</relationship_id>
+      <predicate>crashing in</predicate>
+      <subject>3247848</subject>
+      <object>2903694</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018027</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>3069358</subject>
+      <object>3083218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018028</relationship_id>
+      <predicate>surfing on</predicate>
+      <subject>3069358</subject>
+      <object>3069359</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ripples</name>
+      <h>49</h>
+      <object_id>3502495</object_id>
+      <w>209</w>
+      <y>85</y>
+      <x>148</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ocean</attribute>
+      </attributes>
+      <name>water</name>
+      <h>276</h>
+      <object_id>2903694</object_id>
+      <w>495</w>
+      <y>69</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ocean</attribute>
+      </attributes>
+      <name>ocean water</name>
+      <h>265</h>
+      <object_id>3007636</object_id>
+      <w>497</w>
+      <y>82</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>crashing waves</name>
+      <h>145</h>
+      <object_id>3247848</object_id>
+      <w>267</w>
+      <y>202</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>83</h>
+      <object_id>3069358</object_id>
+      <w>54</w>
+      <y>161</y>
+      <x>297</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>22</h>
+      <object_id>3083218</object_id>
+      <w>45</w>
+      <y>237</y>
+      <x>346</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>59</h>
+      <object_id>3069359</object_id>
+      <w>312</w>
+      <y>262</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer wearing a wetsuit, surfing on a sunny day.</caption>
+      <caption>A woman riding a wave on top of a surfboard.</caption>
+      <caption>Adult riding breaking wave in open ocean on clear day.</caption>
+      <caption>A PERSO RIDING A WAVE IN THE OCEAN ON A SURF BOARD </caption>
+      <caption>a person on a surf board riding the waves</caption>
+    </captions>
+</image>

@@ -1,0 +1,205 @@
+<image>
+  <image-id>2388567</image-id>
+  <coco-id>530300</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1768207</relationship_id>
+      <predicate>at</predicate>
+      <subject>672531</subject>
+      <object>672530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1768208</relationship_id>
+      <predicate>of a</predicate>
+      <subject>672532</subject>
+      <object>672531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1768209</relationship_id>
+      <predicate>at a</predicate>
+      <subject>672534</subject>
+      <object>672530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1768210</relationship_id>
+      <predicate>of a</predicate>
+      <subject>672540</subject>
+      <object>672531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292756</relationship_id>
+      <predicate>covering</predicate>
+      <subject>672542</subject>
+      <object>672537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1768211</relationship_id>
+      <predicate>at a</predicate>
+      <subject>672531</subject>
+      <object>672530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292757</relationship_id>
+      <predicate>built into</predicate>
+      <subject>672537</subject>
+      <object>3829300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292760</relationship_id>
+      <predicate>lighting</predicate>
+      <subject>3829304</subject>
+      <object>672537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292761</relationship_id>
+      <predicate>lighting</predicate>
+      <subject>3829305</subject>
+      <object>672537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292762</relationship_id>
+      <predicate>lighting</predicate>
+      <subject>3829306</subject>
+      <object>672537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292758</relationship_id>
+      <predicate>lighting</predicate>
+      <subject>3829302</subject>
+      <object>672537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292759</relationship_id>
+      <predicate>lighting</predicate>
+      <subject>3829303</subject>
+      <object>672537</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+        <attribute>large</attribute>
+        <attribute>waiting</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <name>passenger train</name>
+      <h>167</h>
+      <object_id>672531</object_id>
+      <w>163</w>
+      <y>91</y>
+      <x>281</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>pavilion</name>
+      <h>318</h>
+      <object_id>672530</object_id>
+      <w>467</w>
+      <y>3</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>11</h>
+      <object_id>672532</object_id>
+      <w>11</w>
+      <y>153</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>cars</name>
+      <h>15</h>
+      <object_id>672534</object_id>
+      <w>21</w>
+      <y>184</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>11</h>
+      <object_id>672540</object_id>
+      <w>20</w>
+      <y>123</y>
+      <x>371</x>
+    </object>
+    <object>
+      <h>172</h>
+      <object_id>672542</object_id>
+      <w>233</w>
+      <y>1</y>
+      <x>81</x>
+      <name>roof</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>182</h>
+      <object_id>672537</object_id>
+      <w>499</w>
+      <y>193</y>
+      <x>0</x>
+      <name>floor</name>
+    </object>
+    <object>
+      <name>train station</name>
+      <h>367</h>
+      <object_id>3829300</object_id>
+      <w>482</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>flood light</name>
+      <h>11</h>
+      <object_id>3829304</object_id>
+      <w>14</w>
+      <y>106</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>flood light</name>
+      <h>7</h>
+      <object_id>3829305</object_id>
+      <w>12</w>
+      <y>131</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>flood light</name>
+      <h>7</h>
+      <object_id>3829306</object_id>
+      <w>9</w>
+      <y>150</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>flood light</name>
+      <h>16</h>
+      <object_id>3829302</object_id>
+      <w>22</w>
+      <y>54</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>flood light</name>
+      <h>10</h>
+      <object_id>3829303</object_id>
+      <w>14</w>
+      <y>108</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An Amtrak train at a train station at night.</caption>
+      <caption>A train driving down the tracks beside a building. </caption>
+      <caption>Blue and white train pulling into a station at night.</caption>
+      <caption>White and blue train arriving at the train station.</caption>
+      <caption>A very big train by a platform at night.</caption>
+    </captions>
+</image>

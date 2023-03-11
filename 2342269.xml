@@ -1,0 +1,88 @@
+<image>
+  <image-id>2342269</image-id>
+  <coco-id>572752</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2758146</relationship_id>
+      <predicate>ON</predicate>
+      <subject>935485</subject>
+      <object>935486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2758147</relationship_id>
+      <predicate>has</predicate>
+      <subject>935488</subject>
+      <object>935491</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2758148</relationship_id>
+      <predicate>IN</predicate>
+      <subject>935482</subject>
+      <object>935486</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ripple</name>
+      <h>72</h>
+      <object_id>935485</object_id>
+      <w>63</w>
+      <y>236</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glassy</attribute>
+        <attribute>blue</attribute>
+        <attribute>murky</attribute>
+        <attribute>calm</attribute>
+      </attributes>
+      <name>water</name>
+      <h>116</h>
+      <object_id>935486</object_id>
+      <w>246</w>
+      <y>223</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>cross</attribute>
+        <attribute>support</attribute>
+      </attributes>
+      <name>bridge</name>
+      <h>93</h>
+      <object_id>935488</object_id>
+      <w>373</w>
+      <y>121</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>braces</name>
+      <h>28</h>
+      <object_id>935491</object_id>
+      <w>42</w>
+      <y>168</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>clouds</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>31</h>
+      <object_id>935482</object_id>
+      <w>59</w>
+      <y>37</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The water is rippling under the bridge. </caption>
+      <caption>The large bridge is running across a river.</caption>
+      <caption>A bridge that is going over a body of water.</caption>
+      <caption>a water way goes under neath a bridge </caption>
+      <caption>The view of a bridge over the water.</caption>
+    </captions>
+</image>

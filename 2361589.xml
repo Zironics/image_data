@@ -1,0 +1,81 @@
+<image>
+  <image-id>2361589</image-id>
+  <coco-id>516902</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2145741</relationship_id>
+      <predicate>holding</predicate>
+      <subject>780976</subject>
+      <object>780977</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2145742</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>780976</subject>
+      <object>780980</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2145743</relationship_id>
+      <predicate>ON</predicate>
+      <subject>780976</subject>
+      <object>780978</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>serving</attribute>
+        <attribute>white</attribute>
+        <attribute>sweating</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>344</h>
+      <object_id>780976</object_id>
+      <w>176</w>
+      <y>48</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>37</h>
+      <object_id>780977</object_id>
+      <w>43</w>
+      <y>281</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>outfit</name>
+      <h>131</h>
+      <object_id>780980</object_id>
+      <w>89</w>
+      <y>143</y>
+      <x>79</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>court</name>
+      <h>110</h>
+      <object_id>780978</object_id>
+      <w>80</w>
+      <y>307</y>
+      <x>290</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beautiful woman holding a tennis ball and racquet.</caption>
+      <caption>A woman getting ready to hit a tennis ball on a court.</caption>
+      <caption>a woman with a tennis racket gets ready to hit a ball </caption>
+      <caption>A woman tennis player with a racket and ball in a service stance on the court.</caption>
+      <caption>A tennis player prepares to serve a tennis ball.</caption>
+    </captions>
+</image>

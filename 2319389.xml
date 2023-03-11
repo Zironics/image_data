@@ -1,0 +1,73 @@
+<image>
+  <image-id>2319389</image-id>
+  <coco-id>113211</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4495402</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3502780</subject>
+      <object>3370775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495403</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>3243858</subject>
+      <object>3243860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495404</relationship_id>
+      <predicate>has</predicate>
+      <subject>3243859</subject>
+      <object>3243860</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>215</h>
+      <object_id>3502780</object_id>
+      <w>152</w>
+      <y>0</y>
+      <x>2</x>
+      <name>people</name>
+    </object>
+    <object>
+      <name>jeans</name>
+      <h>179</h>
+      <object_id>3370775</object_id>
+      <w>157</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>327</h>
+      <object_id>3243858</object_id>
+      <w>343</w>
+      <y>4</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>lap</name>
+      <h>70</h>
+      <object_id>3243860</object_id>
+      <w>237</w>
+      <y>229</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>322</h>
+      <object_id>3243859</object_id>
+      <w>272</w>
+      <y>10</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holding a woman on top of his lap.</caption>
+      <caption>A man and woman sitting on sidewalk next to a wall.</caption>
+      <caption>Girl sitting on a man's lap holding her cell phone.</caption>
+      <caption>A young girl is sitting on a man's lap.</caption>
+      <caption>A lady sitting on a guys lap on a ledge.</caption>
+    </captions>
+</image>

@@ -1,0 +1,91 @@
+<image>
+  <image-id>2385323</image-id>
+  <coco-id>464087</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1822398</relationship_id>
+      <predicate>has</predicate>
+      <subject>688665</subject>
+      <object>688666</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1822399</relationship_id>
+      <predicate>has</predicate>
+      <subject>688662</subject>
+      <object>688668</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1822400</relationship_id>
+      <predicate>has</predicate>
+      <subject>688665</subject>
+      <object>688668</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1822401</relationship_id>
+      <predicate>OF</predicate>
+      <subject>688670</subject>
+      <object>688662</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>swinging</attribute>
+        <attribute>holding</attribute>
+        <attribute>wearing</attribute>
+        <attribute>back</attribute>
+        <attribute>leaning</attribute>
+      </attributes>
+      <name>man</name>
+      <h>112</h>
+      <object_id>688665</object_id>
+      <w>118</w>
+      <y>87</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>22</h>
+      <object_id>688666</object_id>
+      <w>25</w>
+      <y>118</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>behind</attribute>
+        <attribute>catching</attribute>
+        <attribute>mask</attribute>
+      </attributes>
+      <name>catcher</name>
+      <h>114</h>
+      <object_id>688662</object_id>
+      <w>121</w>
+      <y>160</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>39</h>
+      <object_id>688668</object_id>
+      <w>56</w>
+      <y>171</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>46</h>
+      <object_id>688670</object_id>
+      <w>44</w>
+      <y>230</y>
+      <x>313</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball batter takes a mighty swing as the catcher and umpire look on.</caption>
+      <caption>A baseball player at home plate taking a swing at the ball.</caption>
+      <caption>A batter swinging a bat with the catcher and umpire behind him.</caption>
+      <caption>A baseball player swinging a bat during a game. </caption>
+      <caption>The umpire stands over a baseball catcher as the batter swings.</caption>
+    </captions>
+</image>

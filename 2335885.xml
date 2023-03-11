@@ -1,0 +1,71 @@
+<image>
+  <image-id>2335885</image-id>
+  <coco-id>23400</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3975218</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2603961</subject>
+      <object>2603962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975219</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2603962</subject>
+      <object>2408849</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975220</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2741976</subject>
+      <object>2408849</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light reflection</name>
+      <h>117</h>
+      <object_id>2603961</object_id>
+      <w>92</w>
+      <y>265</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>339</h>
+      <object_id>2603962</object_id>
+      <w>303</w>
+      <y>82</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>nylon</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>385</h>
+      <object_id>2408849</object_id>
+      <w>467</w>
+      <y>62</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>oranges</name>
+      <h>312</h>
+      <object_id>2741976</object_id>
+      <w>430</w>
+      <y>94</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A number of ripe oranges inside of a mesh container.</caption>
+      <caption>close up of an orange in a net sack with other oranges</caption>
+      <caption>A close up view of an orange in a bag of oranges</caption>
+      <caption>An orange sits with other oranges in a bag. </caption>
+      <caption>A close up of a bag full or oranges.</caption>
+    </captions>
+</image>

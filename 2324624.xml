@@ -1,0 +1,151 @@
+<image>
+  <image-id>2324624</image-id>
+  <coco-id>137811</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4488310</relationship_id>
+      <predicate>walking of</predicate>
+      <subject>2857063</subject>
+      <object>3418478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488311</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2857062</subject>
+      <object>3418478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488312</relationship_id>
+      <predicate>of walking</predicate>
+      <subject>3942970</subject>
+      <object>3195732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488313</relationship_id>
+      <predicate>of walking</predicate>
+      <subject>2983364</subject>
+      <object>2857063</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488314</relationship_id>
+      <predicate>of walking</predicate>
+      <subject>3942970</subject>
+      <object>3276670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488315</relationship_id>
+      <predicate>of walking</predicate>
+      <subject>2969480</subject>
+      <object>2857062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095228</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3338666</subject>
+      <object>3338667</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488316</relationship_id>
+      <predicate>of walking</predicate>
+      <subject>3942972</subject>
+      <object>2857062</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>185</h>
+      <object_id>2857063</object_id>
+      <w>154</w>
+      <y>79</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>354</h>
+      <object_id>3418478</object_id>
+      <w>487</w>
+      <y>20</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>218</h>
+      <object_id>2857062</object_id>
+      <w>150</w>
+      <y>61</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>84</h>
+      <object_id>3942970</object_id>
+      <w>21</w>
+      <y>174</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>93</h>
+      <object_id>3195732</object_id>
+      <w>106</w>
+      <y>110</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>71</h>
+      <object_id>2983364</object_id>
+      <w>20</w>
+      <y>190</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>137</h>
+      <object_id>3276670</object_id>
+      <w>137</w>
+      <y>72</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>93</h>
+      <object_id>2969480</object_id>
+      <w>22</w>
+      <y>159</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>92</h>
+      <object_id>3338666</object_id>
+      <w>30</w>
+      <y>186</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>230</h>
+      <object_id>3338667</object_id>
+      <w>170</w>
+      <y>62</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>88</h>
+      <object_id>3942972</object_id>
+      <w>21</w>
+      <y>185</y>
+      <x>332</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two standing zebras both looking in opposite ways from each other.</caption>
+      <caption>Two zebras not facing each other on bare ground. </caption>
+      <caption>A couple of zebra standing next to each other on a dirt field.</caption>
+      <caption>Two zebras out in the wild on a sunny day </caption>
+      <caption>Two zebras standing outside on a terrain of rock and dirt.</caption>
+    </captions>
+</image>

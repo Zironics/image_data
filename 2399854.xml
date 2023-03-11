@@ -1,0 +1,40 @@
+<image>
+  <image-id>2399854</image-id>
+  <coco-id>468760</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4680884</relationship_id>
+      <predicate>inside</predicate>
+      <subject>4298022</subject>
+      <object>4298021</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>57</h>
+      <object_id>4298022</object_id>
+      <w>50</w>
+      <y>120</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark </attribute>
+      </attributes>
+      <name>buggy</name>
+      <h>120</h>
+      <object_id>4298021</object_id>
+      <w>139</w>
+      <y>90</y>
+      <x>55</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two dark brown horses pulling a black carriage.</caption>
+      <caption>People sitting inside a horse drawn carriage that is stopped in the middle of a street.</caption>
+      <caption>A team of horses pulling a carriage along.</caption>
+      <caption>two horses attacted to a covered carriage in the street </caption>
+      <caption>A man driving a carriage pulled by three horses.</caption>
+    </captions>
+</image>

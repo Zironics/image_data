@@ -1,0 +1,116 @@
+<image>
+  <image-id>2379762</image-id>
+  <coco-id>193759</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1354552</relationship_id>
+      <predicate>has</predicate>
+      <subject>550522</subject>
+      <object>550523</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4296209</relationship_id>
+      <predicate>in middle</predicate>
+      <subject>550517</subject>
+      <object>3834617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1354553</relationship_id>
+      <predicate>ON</predicate>
+      <subject>550533</subject>
+      <object>550524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4296210</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>550536</subject>
+      <object>3834618</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>370</h>
+      <object_id>550522</object_id>
+      <w>167</w>
+      <y>41</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>bottom</name>
+      <h>47</h>
+      <object_id>550523</object_id>
+      <w>126</w>
+      <y>363</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>sunflower</name>
+      <h>68</h>
+      <object_id>550517</object_id>
+      <w>67</w>
+      <y>80</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>bouquet</name>
+      <h>129</h>
+      <object_id>3834617</object_id>
+      <w>292</w>
+      <y>69</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stacked</attribute>
+      </attributes>
+      <name>magazies</name>
+      <h>86</h>
+      <object_id>550533</object_id>
+      <w>70</w>
+      <y>284</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>table</name>
+      <h>191</h>
+      <object_id>550524</object_id>
+      <w>292</w>
+      <y>307</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>paper</name>
+      <h>58</h>
+      <object_id>550536</object_id>
+      <w>60</w>
+      <y>285</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>magazines</name>
+      <h>62</h>
+      <object_id>3834618</object_id>
+      <w>57</w>
+      <y>278</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A vase of flowers set on a table.</caption>
+      <caption>A view of a vase with yellow flowers in it.</caption>
+      <caption>A vase filled with lots of yellow sun flowers.</caption>
+      <caption>an odd vase with some small sunflowers </caption>
+      <caption>a bunch of yellow flowers are in a vase</caption>
+    </captions>
+</image>

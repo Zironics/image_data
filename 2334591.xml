@@ -1,0 +1,84 @@
+<image>
+  <image-id>2334591</image-id>
+  <coco-id>549063</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3998591</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2363445</subject>
+      <object>3676153</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998595</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2683985</subject>
+      <object>3676154</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3917637</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3266069</subject>
+      <object>3266070</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>43</h>
+      <object_id>2363445</object_id>
+      <w>42</w>
+      <y>158</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>188</h>
+      <object_id>3676153</object_id>
+      <w>398</w>
+      <y>184</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>waves</name>
+      <h>50</h>
+      <object_id>2683985</object_id>
+      <w>206</w>
+      <y>170</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>52</h>
+      <object_id>3676154</object_id>
+      <w>310</w>
+      <y>167</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>white surfboard</name>
+      <h>15</h>
+      <object_id>3266069</object_id>
+      <w>85</w>
+      <y>247</y>
+      <x>314</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>97</h>
+      <object_id>3266070</object_id>
+      <w>215</w>
+      <y>258</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer is squatting down to prepare his board.</caption>
+      <caption>A person is leaning over a surfboard getting ready to surf.</caption>
+      <caption>A person bending over their surfboard on the beach.</caption>
+      <caption>A man fixing a wind surfboard on a rocky beach.</caption>
+      <caption>The man is getting his board ready to surf.</caption>
+    </captions>
+</image>

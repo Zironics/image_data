@@ -1,0 +1,126 @@
+<image>
+  <image-id>2348158</image-id>
+  <coco-id>541570</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4420910</relationship_id>
+      <predicate>in a</predicate>
+      <subject>884441</subject>
+      <object>884445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4420911</relationship_id>
+      <predicate>in an</predicate>
+      <subject>884441</subject>
+      <object>884444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4420912</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>3906323</subject>
+      <object>884443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2568523</relationship_id>
+      <predicate>with</predicate>
+      <subject>884444</subject>
+      <object>884441</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2568524</relationship_id>
+      <predicate>IN</predicate>
+      <subject>884443</subject>
+      <object>884445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2568525</relationship_id>
+      <predicate>IN</predicate>
+      <subject>884443</subject>
+      <object>884445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2568526</relationship_id>
+      <predicate>IN</predicate>
+      <subject>884443</subject>
+      <object>884445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2568527</relationship_id>
+      <predicate>IN</predicate>
+      <subject>884443</subject>
+      <object>884445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2568528</relationship_id>
+      <predicate>has</predicate>
+      <subject>884441</subject>
+      <object>884446</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>57</h>
+      <object_id>884441</object_id>
+      <w>93</w>
+      <y>149</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>field</name>
+      <h>324</h>
+      <object_id>884445</object_id>
+      <w>493</w>
+      <y>49</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>286</h>
+      <object_id>884444</object_id>
+      <w>492</w>
+      <y>87</y>
+      <x>4</x>
+      <name>an area</name>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>85</h>
+      <object_id>3906323</object_id>
+      <w>483</w>
+      <y>121</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>287</h>
+      <object_id>884443</object_id>
+      <w>494</w>
+      <y>87</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>22</h>
+      <object_id>884446</object_id>
+      <w>28</w>
+      <y>149</y>
+      <x>42</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of sheep standing on top of a lush green field.</caption>
+      <caption>A bunch of sheep in a big grassy field.</caption>
+      <caption>Herd of sheep with blue marks on side laying down on grass except one</caption>
+      <caption>A herd of sheep sits in a field of green grass.</caption>
+      <caption>Several sheep are laying in a field of green grass.</caption>
+    </captions>
+</image>

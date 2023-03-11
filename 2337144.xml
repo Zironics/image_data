@@ -1,0 +1,63 @@
+<image>
+  <image-id>2337144</image-id>
+  <coco-id>139284</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3131826</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1044756</subject>
+      <object>1044752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3131827</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1044746</subject>
+      <object>1044752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3131828</relationship_id>
+      <predicate>has</predicate>
+      <subject>1044752</subject>
+      <object>1044756</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glass</name>
+      <h>252</h>
+      <object_id>1044756</object_id>
+      <w>197</w>
+      <y>14</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>blender</name>
+      <h>433</h>
+      <object_id>1044752</object_id>
+      <w>202</w>
+      <y>7</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>blades</name>
+      <h>32</h>
+      <object_id>1044746</object_id>
+      <w>41</w>
+      <y>234</y>
+      <x>165</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two yellow blenders placed next to a green blender.</caption>
+      <caption>A grouping of bright colored blenders aligned on a table.</caption>
+      <caption>Three blenders sitting on top of a table.</caption>
+      <caption>Three blenders with colorful tops and bases, two of them matching, stand in a row. </caption>
+      <caption>Three blenders that have been lined up in a row.</caption>
+    </captions>
+</image>

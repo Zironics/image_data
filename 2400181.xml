@@ -1,0 +1,65 @@
+<image>
+  <image-id>2400181</image-id>
+  <coco-id>83815</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3313377</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1161954</subject>
+      <object>1161957</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313378</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1161969</subject>
+      <object>1161954</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>grey</attribute>
+        <attribute>here</attribute>
+        <attribute>moving</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <name>train</name>
+      <h>65</h>
+      <object_id>1161954</object_id>
+      <w>97</w>
+      <y>127</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <h>4</h>
+      <object_id>1161957</object_id>
+      <w>158</w>
+      <y>224</y>
+      <x>252</x>
+      <name>rail</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>several</attribute>
+        <attribute>closed</attribute>
+      </attributes>
+      <name>windows</name>
+      <h>57</h>
+      <object_id>1161969</object_id>
+      <w>149</w>
+      <y>148</y>
+      <x>31</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two trains at night  are going down their tracks</caption>
+      <caption>A couple of trains that are going through the night.</caption>
+      <caption>Two trains passing each other in a train station.</caption>
+      <caption>A late night train arriving at a station.</caption>
+      <caption>A photo taken at night of two trains on train tracks.</caption>
+    </captions>
+</image>

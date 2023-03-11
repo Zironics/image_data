@@ -1,0 +1,82 @@
+<image>
+  <image-id>2399249</image-id>
+  <coco-id>119458</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4684097</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4306736</subject>
+      <object>4306737</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684098</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4306736</subject>
+      <object>4306738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684099</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4306740</subject>
+      <object>4306741</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>man</name>
+      <h>138</h>
+      <object_id>4306736</object_id>
+      <w>145</w>
+      <y>134</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>sunglasses</name>
+      <h>15</h>
+      <object_id>4306737</object_id>
+      <w>23</w>
+      <y>152</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>20</h>
+      <object_id>4306738</object_id>
+      <w>27</w>
+      <y>138</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>58</h>
+      <object_id>4306740</object_id>
+      <w>43</w>
+      <y>187</y>
+      <x>83</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>foot</name>
+      <h>58</h>
+      <object_id>4306741</object_id>
+      <w>32</w>
+      <y>183</y>
+      <x>83</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man jumping in the air on a skateboard.</caption>
+      <caption>Man does a trick on his skateboard in the air.</caption>
+      <caption>There is a man in the air holding a skateboard.</caption>
+      <caption>A skater is doing stunts on his skate board on a sunny day.</caption>
+      <caption>A young man does tricks on his skateboard.</caption>
+    </captions>
+</image>

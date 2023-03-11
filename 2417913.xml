@@ -1,0 +1,140 @@
+<image>
+  <image-id>2417913</image-id>
+  <coco-id>530417</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3889827</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3472141</subject>
+      <object>3632594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001994</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3178849</subject>
+      <object>3677587</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256198</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3792731</subject>
+      <object>3412090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256197</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3412089</subject>
+      <object>3412090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256201</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3792733</subject>
+      <object>3178849</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256200</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3792732</subject>
+      <object>3178849</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256199</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2722177</subject>
+      <object>3178849</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>78</h>
+      <object_id>3472141</object_id>
+      <w>74</w>
+      <y>17</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>80</h>
+      <object_id>3632594</object_id>
+      <w>471</w>
+      <y>0</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>train</name>
+      <h>212</h>
+      <object_id>3178849</object_id>
+      <w>453</w>
+      <y>58</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>tunnel</name>
+      <h>245</h>
+      <object_id>3677587</object_id>
+      <w>490</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>14</h>
+      <object_id>3792731</object_id>
+      <w>23</w>
+      <y>171</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>train car</name>
+      <h>130</h>
+      <object_id>3412090</object_id>
+      <w>200</w>
+      <y>96</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>12</h>
+      <object_id>3412089</object_id>
+      <w>18</w>
+      <y>177</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>29</h>
+      <object_id>3792733</object_id>
+      <w>9</w>
+      <y>151</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>45</h>
+      <object_id>3792732</object_id>
+      <w>16</w>
+      <y>144</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>51</h>
+      <object_id>2722177</object_id>
+      <w>22</w>
+      <y>135</y>
+      <x>159</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green and yellow train traveling under a tunnel.</caption>
+      <caption>a yellow train that is going under a bridge</caption>
+      <caption>a speeding train under a bridge on a railroad track</caption>
+      <caption>A train passing under a bridge in the middle of a field.</caption>
+      <caption>a train passes very fast under a bridge </caption>
+    </captions>
+</image>

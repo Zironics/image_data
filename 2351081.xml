@@ -1,0 +1,62 @@
+<image>
+  <image-id>2351081</image-id>
+  <coco-id>409591</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4407140</relationship_id>
+      <predicate>over mans</predicate>
+      <subject>2504500</subject>
+      <object>2504501</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4407141</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2409745</subject>
+      <object>2409746</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>racket</name>
+      <h>119</h>
+      <object_id>2504500</object_id>
+      <w>102</w>
+      <y>45</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>shoulder</name>
+      <h>66</h>
+      <object_id>2504501</object_id>
+      <w>60</w>
+      <y>95</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>473</h>
+      <object_id>2409745</object_id>
+      <w>258</w>
+      <y>25</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white cap</name>
+      <h>41</h>
+      <object_id>2409746</object_id>
+      <w>55</w>
+      <y>23</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man playing a game of tennis on a brown tennis court.</caption>
+      <caption>A tennis player holding the racket in a swing position.</caption>
+      <caption>The professional tennis player is playing on the court.</caption>
+      <caption>Tennis player at match waiting to strike ball.</caption>
+      <caption>A man preparing to swing his racket </caption>
+    </captions>
+</image>

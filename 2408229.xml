@@ -1,0 +1,89 @@
+<image>
+  <image-id>2408229</image-id>
+  <coco-id>308635</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3223302</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1094214</subject>
+      <object>1094215</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223303</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1094216</subject>
+      <object>1094217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223304</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1094216</subject>
+      <object>1094217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223308</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1094216</subject>
+      <object>1094217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223344</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1094216</subject>
+      <object>1094217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223348</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1094216</subject>
+      <object>1094217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223349</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1094216</subject>
+      <object>1094217</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>49</h>
+      <object_id>1094214</object_id>
+      <w>60</w>
+      <y>20</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>49</h>
+      <object_id>1094215</object_id>
+      <w>62</w>
+      <y>26</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>49</h>
+      <object_id>1094216</object_id>
+      <w>60</w>
+      <y>136</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>49</h>
+      <object_id>1094217</object_id>
+      <w>62</w>
+      <y>143</y>
+      <x>217</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A display case in a bakery filled with treats.</caption>
+      <caption>A display of donuts waiting for someone to choose one.</caption>
+      <caption>A display of various flavors of colored donuts.</caption>
+      <caption>A person is holding a doughnut in front of a large selection of them.</caption>
+      <caption>Someone is choosing a cookie from a display.</caption>
+    </captions>
+</image>

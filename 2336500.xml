@@ -1,0 +1,81 @@
+<image>
+  <image-id>2336500</image-id>
+  <coco-id>441028</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4449031</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3923992</subject>
+      <object>2134361</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4449032</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3923993</subject>
+      <object>3359843</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3976297</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3071953</subject>
+      <object>3071954</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>40</h>
+      <object_id>3923992</object_id>
+      <w>78</w>
+      <y>107</y>
+      <x>409</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>75</h>
+      <object_id>2134361</object_id>
+      <w>45</w>
+      <y>115</y>
+      <x>433</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>90</h>
+      <object_id>3923993</object_id>
+      <w>67</w>
+      <y>79</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>69</h>
+      <object_id>3359843</object_id>
+      <w>42</w>
+      <y>96</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>70</h>
+      <object_id>3071953</object_id>
+      <w>59</w>
+      <y>167</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>312</h>
+      <object_id>3071954</object_id>
+      <w>485</w>
+      <y>5</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing on top of a building near a large clock.</caption>
+      <caption>Four people standing on a balcony with a clock</caption>
+      <caption>People are on a balcony next to a clock.</caption>
+      <caption>A group of people standing next to a clock.</caption>
+      <caption>A man in white shirt leaning over a ledge with a clock.</caption>
+    </captions>
+</image>

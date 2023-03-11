@@ -1,0 +1,51 @@
+<image>
+  <image-id>2388721</image-id>
+  <coco-id>207880</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1207319</relationship_id>
+      <predicate>ON</predicate>
+      <subject>508130</subject>
+      <object>508131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1207320</relationship_id>
+      <predicate>covered</predicate>
+      <subject>508127</subject>
+      <object>508131</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>74</h>
+      <object_id>508130</object_id>
+      <w>164</w>
+      <y>194</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>172</h>
+      <object_id>508131</object_id>
+      <w>492</w>
+      <y>203</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>moss</name>
+      <h>55</h>
+      <object_id>508127</object_id>
+      <w>497</w>
+      <y>319</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing next to some trees and rocks.</caption>
+      <caption>An adult zebra nudging a baby zebra that is laying on the ground.</caption>
+      <caption>Zebra looking at another zebra laying on the ground. </caption>
+      <caption>A zebra is playing with another zebra in the forest</caption>
+      <caption>An adult zebra licking a young zebra laying on the ground.</caption>
+    </captions>
+</image>

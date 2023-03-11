@@ -1,0 +1,98 @@
+<image>
+  <image-id>2395503</image-id>
+  <coco-id>518932</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1010934</relationship_id>
+      <predicate>has</predicate>
+      <subject>453735</subject>
+      <object>453736</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1010935</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>453738</subject>
+      <object>453739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1010936</relationship_id>
+      <predicate>ON</predicate>
+      <subject>453750</subject>
+      <object>453735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1010937</relationship_id>
+      <predicate>has</predicate>
+      <subject>453738</subject>
+      <object>453752</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>suit</name>
+      <h>323</h>
+      <object_id>453735</object_id>
+      <w>259</w>
+      <y>177</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>lapel</name>
+      <h>88</h>
+      <object_id>453736</object_id>
+      <w>96</w>
+      <y>185</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>holding a phone</attribute>
+        <attribute>looking away</attribute>
+      </attributes>
+      <name>man</name>
+      <h>433</h>
+      <object_id>453738</object_id>
+      <w>305</w>
+      <y>63</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tie</name>
+      <h>64</h>
+      <object_id>453739</object_id>
+      <w>28</w>
+      <y>215</y>
+      <x>130</x>
+    </object>
+    <object>
+      <name>pin</name>
+      <h>18</h>
+      <object_id>453750</object_id>
+      <w>19</w>
+      <y>226</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>126</h>
+      <object_id>453752</object_id>
+      <w>103</w>
+      <y>351</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man wearing a striped suit and tie.</caption>
+      <caption>a man in a suit give a speech to the media</caption>
+      <caption>A man in a suit is standing in the midst of many other people.</caption>
+      <caption>A man in a suit and tie holding a water bottle and people with cameras standing around him.</caption>
+      <caption>A man dressed in business attire addressing a crowd.</caption>
+    </captions>
+</image>

@@ -1,0 +1,76 @@
+<image>
+  <image-id>2340507</image-id>
+  <coco-id>209188</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265882</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3274793</subject>
+      <object>3173482</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097177</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3274793</subject>
+      <object>3274794</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097178</relationship_id>
+      <predicate>covered with</predicate>
+      <subject>2663398</subject>
+      <object>2663397</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>90</h>
+      <object_id>3274793</object_id>
+      <w>58</w>
+      <y>27</y>
+      <x>226</x>
+      <name>skier</name>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>40</h>
+      <object_id>3173482</object_id>
+      <w>51</w>
+      <y>41</y>
+      <x>236</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>45</h>
+      <object_id>3274794</object_id>
+      <w>42</w>
+      <y>72</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>145</h>
+      <object_id>2663398</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>143</h>
+      <object_id>2663397</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person riding skis down a snow covered slope.</caption>
+      <caption>Man skiing down a snowy mountain very fast</caption>
+      <caption>a person wearing a blue hoodie and backpack skiing down a hill </caption>
+      <caption>A man in a green jacket turning on skis.</caption>
+      <caption>A person with a backpack skiing down a hill.</caption>
+    </captions>
+</image>

@@ -1,0 +1,91 @@
+<image>
+  <image-id>2375366</image-id>
+  <coco-id>162182</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1935858</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>722592</subject>
+      <object>722593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1935859</relationship_id>
+      <predicate>beside</predicate>
+      <subject>722594</subject>
+      <object>722592</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1935860</relationship_id>
+      <predicate>ON</predicate>
+      <subject>722595</subject>
+      <object>722594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1935861</relationship_id>
+      <predicate>ON</predicate>
+      <subject>722595</subject>
+      <object>722594</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>big</attribute>
+        <attribute>wet</attribute>
+        <attribute>tall</attribute>
+        <attribute>alone</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>155</h>
+      <object_id>722592</object_id>
+      <w>88</w>
+      <y>313</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stone</attribute>
+        <attribute>clay</attribute>
+        <attribute>cracked</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>107</h>
+      <object_id>722593</object_id>
+      <w>101</w>
+      <y>217</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>healthy</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>225</h>
+      <object_id>722594</object_id>
+      <w>92</w>
+      <y>72</y>
+      <x>24</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>80</h>
+      <object_id>722595</object_id>
+      <w>36</w>
+      <y>23</y>
+      <x>85</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a vase next to the stairs</caption>
+      <caption>An outdoor staircase covered in vines with a pot next to it.</caption>
+      <caption>Staircase rising into Mediterranean styled house with pot at bottom and a lot of vegetation leading into building.</caption>
+      <caption>The large clay jar is beside a staircase.</caption>
+      <caption>a large vase near a large bush and a stair case </caption>
+    </captions>
+</image>

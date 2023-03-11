@@ -1,0 +1,79 @@
+<image>
+  <image-id>2340970</image-id>
+  <coco-id>463452</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4095246</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2964440</subject>
+      <object>2273936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095247</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2964440</subject>
+      <object>2743033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095252</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2964439</subject>
+      <object>2964440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095253</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2964439</subject>
+      <object>2964441</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>477</h>
+      <object_id>2964440</object_id>
+      <w>468</w>
+      <y>20</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>tie</name>
+      <h>137</h>
+      <object_id>2273936</object_id>
+      <w>40</w>
+      <y>239</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>328</h>
+      <object_id>2743033</object_id>
+      <w>471</w>
+      <y>170</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>eyes</name>
+      <h>16</h>
+      <object_id>2964439</object_id>
+      <w>80</w>
+      <y>142</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>159</h>
+      <object_id>2964441</object_id>
+      <w>120</w>
+      <y>85</y>
+      <x>192</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Man in a suit sitting down and starring </caption>
+      <caption>A young man dressed in a suit jacket and tie sits with his hands in front of him.</caption>
+      <caption>A man sitting down with an angry look.</caption>
+      <caption>a vintage photo of a man in a suit </caption>
+      <caption>A man in a suite sits at a table. </caption>
+    </captions>
+</image>

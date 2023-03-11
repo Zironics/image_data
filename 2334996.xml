@@ -1,0 +1,79 @@
+<image>
+  <image-id>2334996</image-id>
+  <coco-id>36218</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3982820</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3669676</subject>
+      <object>2270327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3982821</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2089578</subject>
+      <object>2089579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3982823</relationship_id>
+      <predicate>around</predicate>
+      <subject>2270326</subject>
+      <object>2270327</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>head</name>
+      <h>55</h>
+      <object_id>3669676</object_id>
+      <w>53</w>
+      <y>157</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>160</h>
+      <object_id>2270327</object_id>
+      <w>236</w>
+      <y>150</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>42</h>
+      <object_id>2089578</object_id>
+      <w>48</w>
+      <y>43</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>281</h>
+      <object_id>2089579</object_id>
+      <w>205</w>
+      <y>30</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>rope</name>
+      <h>117</h>
+      <object_id>2270326</object_id>
+      <w>107</w>
+      <y>147</y>
+      <x>200</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The cowboy is trying to herd in the small calf</caption>
+      <caption>Woman pulling a baby calf with a man attempting to assist.</caption>
+      <caption>A man and woman standing in the dirt near a cow.</caption>
+      <caption>A girl in a ring with a steer and a man in a suit wearing a cowboy hat.</caption>
+      <caption>A man and woman have a cow with a rope around his neck guiding him</caption>
+    </captions>
+</image>

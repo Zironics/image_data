@@ -1,0 +1,143 @@
+<image>
+  <image-id>2328535</image-id>
+  <coco-id>144904</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2919334</relationship_id>
+      <predicate>ON</predicate>
+      <subject>977118</subject>
+      <object>977119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919335</relationship_id>
+      <predicate>ON</predicate>
+      <subject>977120</subject>
+      <object>977119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919336</relationship_id>
+      <predicate>above</predicate>
+      <subject>977121</subject>
+      <object>977118</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919337</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>977119</subject>
+      <object>977122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919338</relationship_id>
+      <predicate>between</predicate>
+      <subject>977123</subject>
+      <object>977119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919339</relationship_id>
+      <predicate>are near</predicate>
+      <subject>977124</subject>
+      <object>977119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919340</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>977125</subject>
+      <object>977119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919341</relationship_id>
+      <predicate>next to</predicate>
+      <subject>977127</subject>
+      <object>977118</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>train</name>
+      <h>172</h>
+      <object_id>977118</object_id>
+      <w>191</w>
+      <y>100</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>railroad track</name>
+      <h>154</h>
+      <object_id>977119</object_id>
+      <w>499</w>
+      <y>220</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>newer</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>train</name>
+      <h>55</h>
+      <object_id>977120</object_id>
+      <w>53</w>
+      <y>174</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>wire</name>
+      <h>7</h>
+      <object_id>977121</object_id>
+      <w>493</w>
+      <y>57</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>rock gravel</name>
+      <h>101</h>
+      <object_id>977122</object_id>
+      <w>255</w>
+      <y>268</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>pathway</name>
+      <h>171</h>
+      <object_id>977123</object_id>
+      <w>290</w>
+      <y>203</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>21</h>
+      <object_id>977124</object_id>
+      <w>127</w>
+      <y>192</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>hills</name>
+      <h>31</h>
+      <object_id>977125</object_id>
+      <w>166</w>
+      <y>161</y>
+      <x>334</x>
+    </object>
+    <object>
+      <name>buildings</name>
+      <h>166</h>
+      <object_id>977127</object_id>
+      <w>191</w>
+      <y>54</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red train on tracks next to building with people</caption>
+      <caption>Electric commuter trains coming and going at a station stop.</caption>
+      <caption>A close-up of two electric trains on the train tracks.</caption>
+      <caption>two trains traveling in opposite directions on train tracks</caption>
+      <caption>A red and yellow train at a train station.</caption>
+    </captions>
+</image>

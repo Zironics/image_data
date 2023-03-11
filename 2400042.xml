@@ -1,0 +1,144 @@
+<image>
+  <image-id>2400042</image-id>
+  <coco-id>325145</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4286088</relationship_id>
+      <predicate>ON</predicate>
+      <subject>411875</subject>
+      <object>411891</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286089</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>411885</subject>
+      <object>3818673</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286090</relationship_id>
+      <predicate>on a</predicate>
+      <subject>411875</subject>
+      <object>3818674</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286091</relationship_id>
+      <predicate>with</predicate>
+      <subject>3818675</subject>
+      <object>3818676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>873251</relationship_id>
+      <predicate>wall of clock</predicate>
+      <subject>411891</subject>
+      <object>411892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286092</relationship_id>
+      <predicate>made</predicate>
+      <subject>411900</subject>
+      <object>3818677</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>141</h>
+      <object_id>411875</object_id>
+      <w>174</w>
+      <y>324</y>
+      <x>114</x>
+    </object>
+    <object>
+      <h>203</h>
+      <object_id>411891</object_id>
+      <w>375</w>
+      <y>297</y>
+      <x>0</x>
+      <name>brick wall</name>
+    </object>
+    <object>
+      <name>weather vane</name>
+      <h>137</h>
+      <object_id>411885</object_id>
+      <w>100</w>
+      <y>25</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>319</h>
+      <object_id>3818673</object_id>
+      <w>330</w>
+      <y>166</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>342</h>
+      <object_id>3818674</object_id>
+      <w>346</w>
+      <y>156</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>113</h>
+      <object_id>3818675</object_id>
+      <w>59</w>
+      <y>14</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>152</h>
+      <object_id>3818676</object_id>
+      <w>76</w>
+      <y>10</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>brick wall</name>
+      <h>204</h>
+      <object_id>411892</object_id>
+      <w>365</w>
+      <y>287</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bricks</attribute>
+      </attributes>
+      <name>building</name>
+      <h>271</h>
+      <object_id>411900</object_id>
+      <w>358</w>
+      <y>218</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>bricks</name>
+      <h>90</h>
+      <object_id>3818677</object_id>
+      <w>79</w>
+      <y>329</y>
+      <x>283</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large clock mounted to the side of a brick building.</caption>
+      <caption>A building with a clock and weather vane is outlined against the blue sky.</caption>
+      <caption>A roman numeral clock and a compass on a brick building.</caption>
+      <caption>a building with a clock inside of it </caption>
+      <caption>A clock on  the side of a brick building with a weather vane on top of it.</caption>
+    </captions>
+</image>

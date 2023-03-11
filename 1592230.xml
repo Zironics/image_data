@@ -1,0 +1,57 @@
+<image>
+  <image-id>1592230</image-id>
+  <coco-id>47418</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251266</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3790536</subject>
+      <object>1607789</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251267</relationship_id>
+      <predicate>under</predicate>
+      <subject>1607789</subject>
+      <object>3790537</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>plastic lining</name>
+      <h>62</h>
+      <object_id>3790536</object_id>
+      <w>62</w>
+      <y>643</y>
+      <x>345</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wastepaper</attribute>
+      </attributes>
+      <h>96</h>
+      <object_id>1607789</object_id>
+      <w>82</w>
+      <y>642</y>
+      <x>343</x>
+      <name>basket</name>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>69</h>
+      <object_id>3790537</object_id>
+      <w>160</w>
+      <y>484</y>
+      <x>296</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small bathroom has a sink, mirror and shower.</caption>
+      <caption>a bathroom with brick red tile and a sink with a basket underneath </caption>
+      <caption>A long narrow bathroom with a sink and a shower.</caption>
+      <caption>A bathroom sink and mirror next to a shower curtain.</caption>
+      <caption>A bathroom with a standing shower and tiled floors and walls and a sink.</caption>
+    </captions>
+</image>

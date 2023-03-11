@@ -1,0 +1,101 @@
+<image>
+  <image-id>2371094</image-id>
+  <coco-id>20796</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3639312</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3524558</subject>
+      <object>2468564</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639314</relationship_id>
+      <predicate>has</predicate>
+      <subject>599724</subject>
+      <object>2328401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639315</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2276242</subject>
+      <object>3524560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4317654</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1775130</subject>
+      <object>2468564</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>traffic sign</name>
+      <h>355</h>
+      <object_id>3524558</object_id>
+      <w>200</w>
+      <y>74</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>123</h>
+      <object_id>2468564</object_id>
+      <w>43</w>
+      <y>376</y>
+      <x>293</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>v</attribute>
+      </attributes>
+      <h>29</h>
+      <object_id>599724</object_id>
+      <w>48</w>
+      <y>150</y>
+      <x>175</x>
+      <name>bike</name>
+    </object>
+    <object>
+      <name>symbol</name>
+      <h>56</h>
+      <object_id>2328401</object_id>
+      <w>65</w>
+      <y>138</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>36</h>
+      <object_id>2276242</object_id>
+      <w>175</w>
+      <y>462</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>360</h>
+      <object_id>3524560</object_id>
+      <w>199</w>
+      <y>75</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>signs</name>
+      <h>69</h>
+      <object_id>1775130</object_id>
+      <w>28</w>
+      <y>381</y>
+      <x>293</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The stop light has a picture of a bike. </caption>
+      <caption>a close up of a traffic with trees in the background </caption>
+      <caption>THIS IS A YELLOW STOP LIGHT WITH A BICYCLE SIGNAL</caption>
+      <caption>a traffic light in front of trees with no leaves</caption>
+      <caption>A stoplight that has a bicycle on it.</caption>
+    </captions>
+</image>

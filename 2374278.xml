@@ -1,0 +1,65 @@
+<image>
+  <image-id>2374278</image-id>
+  <coco-id>61354</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4117109</relationship_id>
+      <predicate>displaying</predicate>
+      <subject>2502213</subject>
+      <object>3721340</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4117111</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2224769</subject>
+      <object>2224770</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>table</name>
+      <h>44</h>
+      <object_id>2502213</object_id>
+      <w>47</w>
+      <y>338</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>apples</name>
+      <h>62</h>
+      <object_id>3721340</object_id>
+      <w>113</w>
+      <y>279</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>53</h>
+      <object_id>2224769</object_id>
+      <w>40</w>
+      <y>211</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>vest</name>
+      <h>34</h>
+      <object_id>2224770</object_id>
+      <w>35</w>
+      <y>226</y>
+      <x>165</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An outdoor market has fruit to sell. </caption>
+      <caption>Wooden crates are stored outside a fruit market stall.</caption>
+      <caption>A fruit market with bananas strung up on a pipe.</caption>
+      <caption>An open market selling assorted fruits with bananas hanging .</caption>
+      <caption>A produce stand with several patrons in it.</caption>
+    </captions>
+</image>

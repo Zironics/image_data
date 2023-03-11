@@ -1,0 +1,68 @@
+<image>
+  <image-id>2360063</image-id>
+  <coco-id>25139</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4206438</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3762969</subject>
+      <object>3762968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4206439</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2175550</subject>
+      <object>1683358</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4206440</relationship_id>
+      <predicate>are on</predicate>
+      <subject>2175550</subject>
+      <object>1683358</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mane</name>
+      <h>93</h>
+      <object_id>3762969</object_id>
+      <w>119</w>
+      <y>25</y>
+      <x>333</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>250</h>
+      <object_id>3762968</object_id>
+      <w>189</w>
+      <y>30</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>eyelash</name>
+      <h>29</h>
+      <object_id>2175550</object_id>
+      <w>42</w>
+      <y>62</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>next to fence</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>333</h>
+      <object_id>1683358</object_id>
+      <w>350</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A zebra grazing on food behind a metal fence.</caption>
+      <caption>A zebra putting its face up close to a fence rail.</caption>
+      <caption>Two zebras relaxing in the fenced area of a zoo</caption>
+      <caption>The two zebras are looking through the fence.</caption>
+      <caption>Two zebras are stranding next to each other by a fence.</caption>
+    </captions>
+</image>

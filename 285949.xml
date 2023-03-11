@@ -1,0 +1,84 @@
+<image>
+  <image-id>285949</image-id>
+  <coco-id>108701</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4050088</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570662</subject>
+      <object>1570663</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3662112</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570664</subject>
+      <object>1570665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261862</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1570666</subject>
+      <object>1570667</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>45</h>
+      <object_id>1570662</object_id>
+      <w>45</w>
+      <y>370</y>
+      <x>869</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>668</h>
+      <object_id>1570663</object_id>
+      <w>222</w>
+      <y>1</y>
+      <x>799</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white car</name>
+      <h>127</h>
+      <object_id>1570664</object_id>
+      <w>318</w>
+      <y>640</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>86</h>
+      <object_id>1570665</object_id>
+      <w>727</w>
+      <y>680</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>advertisment</name>
+      <h>301</h>
+      <object_id>1570666</object_id>
+      <w>133</w>
+      <y>263</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>471</h>
+      <object_id>1570667</object_id>
+      <w>242</w>
+      <y>169</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a building in a city near buildings with a sky background</caption>
+      <caption>A church is featured in this photo in a city.</caption>
+      <caption>Small church sitting on the intersection of a busy city road. </caption>
+      <caption>A crowded city street next to a church with lots of bikes parked in front of it.</caption>
+      <caption>People are waiting to cross a street in an old town.</caption>
+    </captions>
+</image>

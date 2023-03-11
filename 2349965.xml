@@ -1,0 +1,41 @@
+<image>
+  <image-id>2349965</image-id>
+  <coco-id>412939</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4734260</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>4426542</subject>
+      <object>4426543</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>130</h>
+      <object_id>4426542</object_id>
+      <w>146</w>
+      <y>82</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>64</h>
+      <object_id>4426543</object_id>
+      <w>136</w>
+      <y>175</y>
+      <x>358</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bear observes its surroundings while near a fallen tree. </caption>
+      <caption>Concerned brown bear wandering around a deforested area.</caption>
+      <caption>A brown bear standing in grass near many logs.</caption>
+      <caption>A large brown bear is next to a log.</caption>
+      <caption>A brown bear is walking by a fallen log.</caption>
+    </captions>
+</image>

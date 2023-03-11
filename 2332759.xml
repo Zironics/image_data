@@ -1,0 +1,112 @@
+<image>
+  <image-id>2332759</image-id>
+  <coco-id>500884</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3996494</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3439889</subject>
+      <object>3439890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3996496</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2719898</subject>
+      <object>2719899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3996500</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2886774</subject>
+      <object>2886779</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3996501</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2886775</subject>
+      <object>2886780</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>map</name>
+      <h>78</h>
+      <object_id>3439889</object_id>
+      <w>59</w>
+      <y>170</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>440</h>
+      <object_id>3439890</object_id>
+      <w>197</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>239</h>
+      <object_id>2719898</object_id>
+      <w>68</w>
+      <y>207</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>bag</name>
+      <h>39</h>
+      <object_id>2719899</object_id>
+      <w>30</w>
+      <y>267</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass </attribute>
+      </attributes>
+      <name>window</name>
+      <h>40</h>
+      <object_id>2886774</object_id>
+      <w>20</w>
+      <y>116</y>
+      <x>429</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>192</h>
+      <object_id>2886779</object_id>
+      <w>103</w>
+      <y>0</y>
+      <x>388</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass </attribute>
+      </attributes>
+      <name>window</name>
+      <h>40</h>
+      <object_id>2886775</object_id>
+      <w>29</w>
+      <y>63</y>
+      <x>419</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>445</h>
+      <object_id>2886780</object_id>
+      <w>392</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing in front of a building in the rain.</caption>
+      <caption>A woman looking at a window while standing in the rain.</caption>
+      <caption>a woman with an umbrella is looking at a map on a wall</caption>
+      <caption>The woman is standing in a rainy street looking at a sign.</caption>
+      <caption>A woman stops on a rainy street to read something on a building.</caption>
+    </captions>
+</image>

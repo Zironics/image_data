@@ -1,0 +1,81 @@
+<image>
+  <image-id>2331066</image-id>
+  <coco-id>478410</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3964233</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2755220</subject>
+      <object>3662346</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3789615</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3464629</subject>
+      <object>3464630</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3950775</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3340231</subject>
+      <object>3340233</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>67</h>
+      <object_id>2755220</object_id>
+      <w>57</w>
+      <y>160</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>outside</name>
+      <h>233</h>
+      <object_id>3662346</object_id>
+      <w>410</w>
+      <y>29</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>115</h>
+      <object_id>3464629</object_id>
+      <w>52</w>
+      <y>112</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>dress</name>
+      <h>49</h>
+      <object_id>3464630</object_id>
+      <w>39</w>
+      <y>168</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>24</h>
+      <object_id>3340231</object_id>
+      <w>37</w>
+      <y>228</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>102</h>
+      <object_id>3340233</object_id>
+      <w>105</w>
+      <y>211</y>
+      <x>187</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A family with two dogs are relaxing together. </caption>
+      <caption>A father eating outside with his daughter, two dogs, and another man.</caption>
+      <caption>Two men, two dogs and a girl eating.</caption>
+      <caption>A man sitting on a chair next to a couple of dogs and a little girl.</caption>
+      <caption>a group of people that are around a little table</caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>2331857</image-id>
+  <coco-id>507317</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4721514</relationship_id>
+      <predicate>fabric sweater</predicate>
+      <subject>4395619</subject>
+      <object>4395619</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4721519</relationship_id>
+      <predicate>wearing brown</predicate>
+      <subject>4395629</subject>
+      <object>4395630</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>black</name>
+      <h>120</h>
+      <object_id>4395619</object_id>
+      <w>191</w>
+      <y>125</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>210</h>
+      <object_id>4395629</object_id>
+      <w>51</w>
+      <y>90</y>
+      <x>263</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>54</h>
+      <object_id>4395630</object_id>
+      <w>32</w>
+      <y>149</y>
+      <x>272</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People at a museum looking at some pottery</caption>
+      <caption>A man grabbing a woman while standing in front of an art exhibit</caption>
+      <caption>A man and woman in a museum looking at a piece.</caption>
+      <caption>A man and woman looking at pottery in a display case. </caption>
+      <caption>A man and woman looking at a display at a museum. </caption>
+    </captions>
+</image>

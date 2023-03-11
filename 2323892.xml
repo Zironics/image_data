@@ -1,0 +1,103 @@
+<image>
+  <image-id>2323892</image-id>
+  <coco-id>270248</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4528856</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3498999</subject>
+      <object>3675475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528857</relationship_id>
+      <predicate>trying to hit</predicate>
+      <subject>3498999</subject>
+      <object>2783620</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3996807</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3358271</subject>
+      <object>3675475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3996808</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3358271</subject>
+      <object>3675475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3977218</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3311100</subject>
+      <object>3311101</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>257</h>
+      <object_id>3498999</object_id>
+      <w>410</w>
+      <y>66</y>
+      <x>71</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal </attribute>
+      </attributes>
+      <h>46</h>
+      <object_id>3675475</object_id>
+      <w>124</w>
+      <y>163</y>
+      <x>15</x>
+      <name>baseball bat</name>
+    </object>
+    <object>
+      <name>baseball</name>
+      <h>62</h>
+      <object_id>2783620</object_id>
+      <w>171</w>
+      <y>162</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gloved</attribute>
+      </attributes>
+      <name>hands</name>
+      <h>70</h>
+      <object_id>3358271</object_id>
+      <w>102</w>
+      <y>175</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>94</h>
+      <object_id>3311100</object_id>
+      <w>119</w>
+      <y>70</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>109</h>
+      <object_id>3311101</object_id>
+      <w>90</w>
+      <y>69</y>
+      <x>186</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player holding his bat out to bunt.</caption>
+      <caption>A batter stands ready to bunt with the catcher and first baseman also pictured.</caption>
+      <caption>a baseball player preparing to bunt a baseball</caption>
+      <caption>There is a baseball game going on, the hitter is about to hit the ball.</caption>
+      <caption>A man with a baseball bat on a baseball field.</caption>
+    </captions>
+</image>

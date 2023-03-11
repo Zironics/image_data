@@ -1,0 +1,148 @@
+<image>
+  <image-id>2330188</image-id>
+  <coco-id>267571</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3951294</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>3318097</subject>
+      <object>2812378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951295</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>3275555</subject>
+      <object>2812378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951296</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>3318097</subject>
+      <object>2812378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951298</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3318097</subject>
+      <object>2987701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951297</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>2987701</subject>
+      <object>2812378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951302</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>2987700</subject>
+      <object>2987701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951303</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>2987700</subject>
+      <object>2812378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951304</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>2987701</subject>
+      <object>2812378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951307</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>2812379</subject>
+      <object>2812378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951308</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3239410</subject>
+      <object>3239411</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>53</h>
+      <object_id>3318097</object_id>
+      <w>55</w>
+      <y>90</y>
+      <x>362</x>
+      <name>left ear</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>347</h>
+      <object_id>2812378</object_id>
+      <w>435</w>
+      <y>27</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>97</h>
+      <object_id>3275555</object_id>
+      <w>80</w>
+      <y>78</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>260</h>
+      <object_id>2987701</object_id>
+      <w>237</w>
+      <y>26</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>lumps</name>
+      <h>75</h>
+      <object_id>2987700</object_id>
+      <w>65</w>
+      <y>80</y>
+      <x>314</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>face</name>
+      <h>167</h>
+      <object_id>2812379</object_id>
+      <w>156</w>
+      <y>102</y>
+      <x>266</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>neck</name>
+      <h>188</h>
+      <object_id>3239410</object_id>
+      <w>177</w>
+      <y>171</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>338</h>
+      <object_id>3239411</object_id>
+      <w>378</w>
+      <y>32</y>
+      <x>88</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a giraffe standing on a sandy beach in front of some rocks</caption>
+      <caption>A giraffe standing in the dirt near some rocks.</caption>
+      <caption>Closeup of giraffe's head in front of a stone wall.</caption>
+      <caption>The giraffe stands looking forward in an enclosure with a dirt floor.</caption>
+      <caption>The giraffe with brown spots is standing in the enclosure.</caption>
+    </captions>
+</image>

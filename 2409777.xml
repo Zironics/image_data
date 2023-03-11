@@ -1,0 +1,401 @@
+<image>
+  <image-id>2409777</image-id>
+  <coco-id>173688</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>243020</relationship_id>
+      <predicate>pipe black</predicate>
+      <subject>233822</subject>
+      <object>233823</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243021</relationship_id>
+      <predicate>water pipe shown</predicate>
+      <subject>233823</subject>
+      <object>3807472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243026</relationship_id>
+      <predicate>cap for pipe</predicate>
+      <subject>233828</subject>
+      <object>233829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243027</relationship_id>
+      <predicate>dirt on road</predicate>
+      <subject>233831</subject>
+      <object>233831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243028</relationship_id>
+      <predicate>tape for caution</predicate>
+      <subject>233832</subject>
+      <object>233833</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243029</relationship_id>
+      <predicate>water in puddle</predicate>
+      <subject>233862</subject>
+      <object>233862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243031</relationship_id>
+      <predicate>water in puddle</predicate>
+      <subject>233862</subject>
+      <object>233862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243033</relationship_id>
+      <predicate>rainfall wets gravel</predicate>
+      <subject>233838</subject>
+      <object>233839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243039</relationship_id>
+      <predicate>work site seen</predicate>
+      <subject>3807469</subject>
+      <object>233843</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243052</relationship_id>
+      <predicate>top yellow</predicate>
+      <subject>233850</subject>
+      <object>233851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243054</relationship_id>
+      <predicate>hydrant has inlet</predicate>
+      <subject>233852</subject>
+      <object>233853</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243055</relationship_id>
+      <predicate>road lacks paving</predicate>
+      <subject>233831</subject>
+      <object>233831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243056</relationship_id>
+      <predicate>pole has orange</predicate>
+      <subject>3807473</subject>
+      <object>3807473</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243059</relationship_id>
+      <predicate>see standing poles</predicate>
+      <subject>233856</subject>
+      <object>233857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243060</relationship_id>
+      <predicate>site has mud</predicate>
+      <subject>233858</subject>
+      <object>233859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243061</relationship_id>
+      <predicate>hydrant atop pipe</predicate>
+      <subject>233822</subject>
+      <object>233823</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243062</relationship_id>
+      <predicate>log behind hydrant</predicate>
+      <subject>233860</subject>
+      <object>233860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243063</relationship_id>
+      <predicate>materials near pool</predicate>
+      <subject>233862</subject>
+      <object>233862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243064</relationship_id>
+      <predicate>bin has claws</predicate>
+      <subject>3807469</subject>
+      <object>233863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243067</relationship_id>
+      <predicate>beam near bin</predicate>
+      <subject>233864</subject>
+      <object>233864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243068</relationship_id>
+      <predicate>white signs seen</predicate>
+      <subject>233866</subject>
+      <object>233867</object>
+    </relationship>
+    <relationship>
+      <relationship_id>243069</relationship_id>
+      <predicate>pipe edges noted</predicate>
+      <subject>233841</subject>
+      <object>233868</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>above-ground</attribute>
+        <attribute>old</attribute>
+        <attribute>dirty</attribute>
+      </attributes>
+      <name>hydrant is yellow</name>
+      <h>178</h>
+      <object_id>233822</object_id>
+      <w>101</w>
+      <y>176</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pipe for water</name>
+      <h>134</h>
+      <object_id>233823</object_id>
+      <w>65</w>
+      <y>351</y>
+      <x>213</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <h>308</h>
+      <object_id>3807472</object_id>
+      <w>106</w>
+      <y>174</y>
+      <x>186</x>
+      <name>fire hydrant</name>
+    </object>
+    <object>
+      <name>cap for pipe seen</name>
+      <h>31</h>
+      <object_id>233828</object_id>
+      <w>33</w>
+      <y>445</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>pipe cap seen</name>
+      <h>36</h>
+      <object_id>233829</object_id>
+      <w>34</w>
+      <y>448</y>
+      <x>189</x>
+    </object>
+    <object>
+      <h>145</h>
+      <object_id>233831</object_id>
+      <w>356</w>
+      <y>182</y>
+      <x>0</x>
+      <name>dirt road seen</name>
+    </object>
+    <object>
+      <name>yellow tape seen</name>
+      <h>18</h>
+      <object_id>233832</object_id>
+      <w>161</w>
+      <y>113</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>tape is yellow</name>
+      <h>18</h>
+      <object_id>233833</object_id>
+      <w>55</w>
+      <y>111</y>
+      <x>1</x>
+    </object>
+    <object>
+      <h>18</h>
+      <object_id>233862</object_id>
+      <w>193</w>
+      <y>119</y>
+      <x>47</x>
+      <name>pool has water</name>
+    </object>
+    <object>
+      <name>gravel is wet</name>
+      <h>29</h>
+      <object_id>233838</object_id>
+      <w>173</w>
+      <y>149</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>wet gravel noted</name>
+      <h>40</h>
+      <object_id>233839</object_id>
+      <w>214</w>
+      <y>146</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>forked</attribute>
+      </attributes>
+      <h>62</h>
+      <object_id>3807469</object_id>
+      <w>88</w>
+      <y>119</y>
+      <x>258</x>
+      <name>bucket</name>
+    </object>
+    <object>
+      <name>site is for work</name>
+      <h>175</h>
+      <object_id>233843</object_id>
+      <w>353</w>
+      <y>6</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>hydrant has top</name>
+      <h>67</h>
+      <object_id>233850</object_id>
+      <w>70</w>
+      <y>173</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>hydrant has yellow</name>
+      <h>105</h>
+      <object_id>233851</object_id>
+      <w>51</w>
+      <y>242</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>hose inlet is seen</name>
+      <h>29</h>
+      <object_id>233852</object_id>
+      <w>25</w>
+      <y>253</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>inlet for hose shown</name>
+      <h>29</h>
+      <object_id>233853</object_id>
+      <w>30</w>
+      <y>255</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflective</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <h>70</h>
+      <object_id>3807473</object_id>
+      <w>8</w>
+      <y>110</y>
+      <x>67</x>
+      <name>cone</name>
+    </object>
+    <object>
+      <name>poles are standing</name>
+      <h>54</h>
+      <object_id>233856</object_id>
+      <w>29</w>
+      <y>64</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>poles are yellow</name>
+      <h>45</h>
+      <object_id>233857</object_id>
+      <w>95</w>
+      <y>67</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>mud seen in site</name>
+      <h>27</h>
+      <object_id>233858</object_id>
+      <w>118</w>
+      <y>134</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>site shows mud</name>
+      <h>34</h>
+      <object_id>233859</object_id>
+      <w>89</w>
+      <y>135</y>
+      <x>86</x>
+    </object>
+    <object>
+      <h>77</h>
+      <object_id>233860</object_id>
+      <w>213</w>
+      <y>333</y>
+      <x>0</x>
+      <name>hydrant fronts log</name>
+    </object>
+    <object>
+      <name>claws on bin</name>
+      <h>24</h>
+      <object_id>233863</object_id>
+      <w>65</w>
+      <y>163</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>bin near beam</name>
+      <h>51</h>
+      <object_id>233864</object_id>
+      <w>48</w>
+      <y>63</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>signs on partition</name>
+      <h>37</h>
+      <object_id>233866</object_id>
+      <w>28</w>
+      <y>27</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>partition is grey</name>
+      <h>104</h>
+      <object_id>233867</object_id>
+      <w>45</w>
+      <y>4</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cement</attribute>
+      </attributes>
+      <name>grey pipe has rims</name>
+      <h>28</h>
+      <object_id>233841</object_id>
+      <w>60</w>
+      <y>67</y>
+      <x>47</x>
+    </object>
+    <object>
+      <name>edges are rimmed</name>
+      <h>30</h>
+      <object_id>233868</object_id>
+      <w>20</w>
+      <y>67</y>
+      <x>86</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Yellow fire hydrant sitting on a black post around mud. </caption>
+      <caption>A yellow fire hydrant sitting on the side of the road.</caption>
+      <caption>a yellow fire hydrant with a black base protruding from a unfinished mud like surface.</caption>
+      <caption>an image of a yellow fire hydrant in the street</caption>
+      <caption>An old dirty yellow fire hydrant near a job site.</caption>
+    </captions>
+</image>

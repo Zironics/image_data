@@ -1,0 +1,59 @@
+<image>
+  <image-id>2332187</image-id>
+  <coco-id>454154</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4093880</relationship_id>
+      <predicate>on  a</predicate>
+      <subject>3217995</subject>
+      <object>3713408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3766906</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3348651</subject>
+      <object>3348652</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flower</name>
+      <h>76</h>
+      <object_id>3217995</object_id>
+      <w>72</w>
+      <y>22</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>sheet</name>
+      <h>37</h>
+      <object_id>3713408</object_id>
+      <w>62</w>
+      <y>287</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>flower</name>
+      <h>30</h>
+      <object_id>3348651</object_id>
+      <w>31</w>
+      <y>127</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>sheet</name>
+      <h>305</h>
+      <object_id>3348652</object_id>
+      <w>486</w>
+      <y>25</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Siamese cat taking a nap on a flowery bed with pillow.</caption>
+      <caption>A siamese cat is curled up with it's head on a pillow.</caption>
+      <caption>A cat sleeps on a bed with a pillow. </caption>
+      <caption>A small dog sleeping on the pillow on a bed.</caption>
+      <caption>A cat curled up sleeping on a bed.</caption>
+    </captions>
+</image>

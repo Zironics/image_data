@@ -1,0 +1,82 @@
+<image>
+  <image-id>2328468</image-id>
+  <coco-id>106978</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4055173</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2849356</subject>
+      <object>3686505</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261511</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3075652</subject>
+      <object>3686505</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055183</relationship_id>
+      <predicate>talks to</predicate>
+      <subject>2842289</subject>
+      <object>2842290</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>worn</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>35</h>
+      <object_id>2849356</object_id>
+      <w>44</w>
+      <y>126</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>men</name>
+      <h>200</h>
+      <object_id>3686505</object_id>
+      <w>284</w>
+      <y>119</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>89</h>
+      <object_id>3075652</object_id>
+      <w>177</w>
+      <y>40</y>
+      <x>317</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>talkative</attribute>
+      </attributes>
+      <name>men</name>
+      <h>221</h>
+      <object_id>2842289</object_id>
+      <w>154</w>
+      <y>126</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>talkative</attribute>
+      </attributes>
+      <name>men</name>
+      <h>196</h>
+      <object_id>2842290</object_id>
+      <w>132</w>
+      <y>121</y>
+      <x>319</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men sit on the street under a blue umbrella. </caption>
+      <caption>A couple of men sitting on the side of the street.</caption>
+      <caption>A couple of men sitting next to each other under an umbrella.</caption>
+      <caption>two guys outside having a conversation while one of them is under an umbrella</caption>
+      <caption>The two men are sitting in the shade of the umbrella while talking. </caption>
+    </captions>
+</image>

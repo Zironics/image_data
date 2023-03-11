@@ -1,0 +1,167 @@
+<image>
+  <image-id>2412532</image-id>
+  <coco-id>141477</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4272202</relationship_id>
+      <predicate>with</predicate>
+      <subject>3804295</subject>
+      <object>192371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272203</relationship_id>
+      <predicate>with</predicate>
+      <subject>192381</subject>
+      <object>3804297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272204</relationship_id>
+      <predicate>OF</predicate>
+      <subject>192368</subject>
+      <object>3804303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272205</relationship_id>
+      <predicate>overgrown with</predicate>
+      <subject>192377</subject>
+      <object>3804301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272206</relationship_id>
+      <predicate>with</predicate>
+      <subject>3804303</subject>
+      <object>192368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272207</relationship_id>
+      <predicate>behind</predicate>
+      <subject>192368</subject>
+      <object>3804305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272208</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3804307</subject>
+      <object>3804306</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> Red</attribute>
+        <attribute> chipping</attribute>
+      </attributes>
+      <name>curb</name>
+      <h>29</h>
+      <object_id>3804295</object_id>
+      <w>80</w>
+      <y>257</y>
+      <x>381</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>32</h>
+      <object_id>192371</object_id>
+      <w>39</w>
+      <y>267</y>
+      <x>352</x>
+      <name>blue paint</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Tall</attribute>
+      </attributes>
+      <name>tall plant</name>
+      <h>177</h>
+      <object_id>192381</object_id>
+      <w>67</w>
+      <y>85</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> yellow</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>14</h>
+      <object_id>3804297</object_id>
+      <w>15</w>
+      <y>89</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>tile</attribute>
+        <attribute> shingled</attribute>
+        <attribute> house's</attribute>
+      </attributes>
+      <h>61</h>
+      <object_id>192368</object_id>
+      <w>192</w>
+      <y>89</y>
+      <x>308</x>
+      <name>red tile roof</name>
+    </object>
+    <object>
+      <name>house</name>
+      <h>130</h>
+      <object_id>3804303</object_id>
+      <w>190</w>
+      <y>93</y>
+      <x>307</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+      </attributes>
+      <h>234</h>
+      <object_id>192377</object_id>
+      <w>497</w>
+      <y>105</y>
+      <x>1</x>
+      <name>bushes are dry</name>
+    </object>
+    <object>
+      <name>weeds</name>
+      <h>90</h>
+      <object_id>3804301</object_id>
+      <w>65</w>
+      <y>207</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>weeds</name>
+      <h>71</h>
+      <object_id>3804305</object_id>
+      <w>180</w>
+      <y>145</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>church</name>
+      <h>80</h>
+      <object_id>3804307</object_id>
+      <w>34</w>
+      <y>49</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>weeds</name>
+      <h>99</h>
+      <object_id>3804306</object_id>
+      <w>460</w>
+      <y>136</y>
+      <x>38</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow fire hydrant in an empty lot, overgrown with weeds.</caption>
+      <caption>a fire hydrant sits next to a dusty curb</caption>
+      <caption>An overgrown empty lot with a yellow fire hydrant</caption>
+      <caption>A fire hydrant in a weedy lot next to a street.</caption>
+      <caption>A yellow fire hydrant is almost hidden by tall grass.</caption>
+    </captions>
+</image>

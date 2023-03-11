@@ -1,0 +1,99 @@
+<image>
+  <image-id>2415221</image-id>
+  <coco-id>145668</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4547762</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4128067</subject>
+      <object>3970843</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4547763</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4128067</subject>
+      <object>3970843</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4547764</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3970837</subject>
+      <object>3970841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4547765</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>3970839</subject>
+      <object>3970841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4547766</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4128067</subject>
+      <object>3970841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4547767</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4128067</subject>
+      <object>3970843</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>white</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>248</h>
+      <object_id>4128067</object_id>
+      <w>466</w>
+      <y>23</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>book</name>
+      <h>112</h>
+      <object_id>3970843</object_id>
+      <w>152</w>
+      <y>98</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>book</name>
+      <h>103</h>
+      <object_id>3970837</object_id>
+      <w>139</w>
+      <y>106</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>arm chair</name>
+      <h>57</h>
+      <object_id>3970841</object_id>
+      <w>250</w>
+      <y>0</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>204</h>
+      <object_id>3970839</object_id>
+      <w>131</w>
+      <y>76</y>
+      <x>365</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A gray and white cat sitting on a grey office chair.</caption>
+      <caption>A cat laying in an office chair on top of a book</caption>
+      <caption>CAT IN AN OFFICE CHAIR LAYING ON A BOOK</caption>
+      <caption>A cat lays down on top of a book on a gray office chair.</caption>
+      <caption>A cat curled up on an office chair and book.</caption>
+    </captions>
+</image>

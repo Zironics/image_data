@@ -1,0 +1,103 @@
+<image>
+  <image-id>2322173</image-id>
+  <coco-id>113880</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4537515</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2984174</subject>
+      <object>2984175</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3736012</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>3550769</subject>
+      <object>3277375</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3698161</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3464414</subject>
+      <object>2819205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3698162</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3550769</subject>
+      <object>2819205</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>fire hydrant</name>
+      <h>40</h>
+      <object_id>2984174</object_id>
+      <w>22</w>
+      <y>108</y>
+      <x>333</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>73</h>
+      <object_id>2984175</object_id>
+      <w>361</w>
+      <y>122</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+        <attribute>brown</attribute>
+        <attribute>is light brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>74</h>
+      <object_id>3550769</object_id>
+      <w>116</w>
+      <y>160</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>62</h>
+      <object_id>3277375</object_id>
+      <w>152</w>
+      <y>290</y>
+      <x>169</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>is light brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>68</h>
+      <object_id>3464414</object_id>
+      <w>89</w>
+      <y>155</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>177</h>
+      <object_id>2819205</object_id>
+      <w>496</w>
+      <y>194</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two dogs sit chained to a pole on the sidewalk.</caption>
+      <caption>two dogs tethered to a pole near a motorcycle</caption>
+      <caption>two big white dogs tied to a pole next to a cycle</caption>
+      <caption>Two white dogs tied to lamp post next to a street.</caption>
+      <caption>Two dogs tied to a lamp post on a sidewalk. </caption>
+    </captions>
+</image>

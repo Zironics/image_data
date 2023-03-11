@@ -1,0 +1,40 @@
+<image>
+  <image-id>2386350</image-id>
+  <coco-id>348680</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4595123</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4084009</subject>
+      <object>4084010</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>soft</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>14</h>
+      <object_id>4084009</object_id>
+      <w>13</w>
+      <y>147</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>brochure</name>
+      <h>28</h>
+      <object_id>4084010</object_id>
+      <w>19</w>
+      <y>150</y>
+      <x>183</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in a blue shirt standing on a loading dock.</caption>
+      <caption>A woman pulling a suitcase onto a boat past a man.</caption>
+      <caption>A woman holding a suitcase in front of man on a ramp to a boat.</caption>
+      <caption>A small woman with a suitcase is entering a cruise ship.</caption>
+      <caption>a man takes a photo of a woman holding a black suitcase and a pink shopping bag in front of a loading ship.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2338271</image-id>
+  <coco-id>285000</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3969249</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2473012</subject>
+      <object>3664216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3969250</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2142299</subject>
+      <object>3664217</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>58</h>
+      <object_id>2473012</object_id>
+      <w>81</w>
+      <y>222</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>112</h>
+      <object_id>3664216</object_id>
+      <w>300</w>
+      <y>197</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>80</h>
+      <object_id>2142299</object_id>
+      <w>89</w>
+      <y>207</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>137</h>
+      <object_id>3664217</object_id>
+      <w>384</w>
+      <y>182</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Giraffes and zebras are walking in the dry grass.</caption>
+      <caption>A herd of wild animals walking across a large dry field.</caption>
+      <caption>Two giraffes, two zebras and some other animals in a grassy field.</caption>
+      <caption>Two giraffes, and antelope and some zebra in tall dry grass</caption>
+      <caption>Gazelles, zebras and giraffes roaming around the plains.</caption>
+    </captions>
+</image>

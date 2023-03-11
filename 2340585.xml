@@ -1,0 +1,195 @@
+<image>
+  <image-id>2340585</image-id>
+  <coco-id>486168</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4661234</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4248239</subject>
+      <object>4248239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661235</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4248239</subject>
+      <object>4248239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661236</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4248239</subject>
+      <object>4248239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661237</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4248239</subject>
+      <object>4248239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661238</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248244</subject>
+      <object>4248255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661239</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248248</subject>
+      <object>4248255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661240</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248253</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661241</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248253</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661242</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>4248254</subject>
+      <object>4248255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661243</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>4248254</subject>
+      <object>4248255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661248</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248264</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661252</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248363</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661253</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248363</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661254</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248363</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661255</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248363</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661256</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4248363</subject>
+      <object>4248254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661283</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4248264</subject>
+      <object>4248352</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>49</h>
+      <object_id>4248239</object_id>
+      <w>23</w>
+      <y>187</y>
+      <x>0</x>
+      <name>fork</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>70</h>
+      <object_id>4248244</object_id>
+      <w>82</w>
+      <y>104</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>471</h>
+      <object_id>4248255</object_id>
+      <w>280</w>
+      <y>26</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>butter knife</name>
+      <h>50</h>
+      <object_id>4248248</object_id>
+      <w>56</w>
+      <y>28</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>245</h>
+      <object_id>4248253</object_id>
+      <w>285</w>
+      <y>150</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>296</h>
+      <object_id>4248254</object_id>
+      <w>280</w>
+      <y>165</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>cheese</name>
+      <h>107</h>
+      <object_id>4248264</object_id>
+      <w>138</w>
+      <y>289</y>
+      <x>22</x>
+    </object>
+    <object>
+      <h>88</h>
+      <object_id>4248363</object_id>
+      <w>179</w>
+      <y>221</y>
+      <x>0</x>
+      <name>cucumber</name>
+    </object>
+    <object>
+      <name>ham</name>
+      <h>107</h>
+      <object_id>4248352</object_id>
+      <w>94</w>
+      <y>283</y>
+      <x>57</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate of food with cheese, vegetables and fruit.</caption>
+      <caption>A white plate of food containing vegetables, cheese and an egg.</caption>
+      <caption>A plate full of food sitting on the table next to a fork, orange, cup and salt and pepper shakers.</caption>
+      <caption>A plate of vegetables with an egg in a cup</caption>
+      <caption>A plate full of cheese, egg and sliced pickles with an orange on the side. </caption>
+    </captions>
+</image>

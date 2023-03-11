@@ -1,0 +1,127 @@
+<image>
+  <image-id>2359266</image-id>
+  <coco-id>409513</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4213445</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>2598789</subject>
+      <object>3539178</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4213446</relationship_id>
+      <predicate>in</predicate>
+      <subject>2598789</subject>
+      <object>3539175</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3672799</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3539176</subject>
+      <object>2598789</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3672804</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2598789</subject>
+      <object>1711095</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3672805</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2644804</subject>
+      <object>3539178</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4398032</relationship_id>
+      <predicate>has</predicate>
+      <subject>2598789</subject>
+      <object>3892873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3672806</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1980914</subject>
+      <object>2598789</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>laying down</attribute>
+      </attributes>
+      <name>animal</name>
+      <h>266</h>
+      <object_id>2598789</object_id>
+      <w>425</w>
+      <y>107</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>372</h>
+      <object_id>3539178</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>363</h>
+      <object_id>3539175</object_id>
+      <w>475</w>
+      <y>7</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>body</name>
+      <h>234</h>
+      <object_id>3539176</object_id>
+      <w>330</w>
+      <y>130</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>168</h>
+      <object_id>1711095</object_id>
+      <w>321</w>
+      <y>29</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>116</h>
+      <object_id>2644804</object_id>
+      <w>175</w>
+      <y>19</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>121</h>
+      <object_id>3892873</object_id>
+      <w>131</w>
+      <y>124</y>
+      <x>366</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>55</h>
+      <object_id>1980914</object_id>
+      <w>68</w>
+      <y>277</y>
+      <x>193</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sheep rolling around the green grass in an open field.</caption>
+      <caption>A picture of an animal laying in the grass.</caption>
+      <caption>An horned animal laying down in the grass.</caption>
+      <caption>Some type of animal with a white coat laying in the green grass</caption>
+      <caption>A white sheep is lying on the grass.</caption>
+    </captions>
+</image>

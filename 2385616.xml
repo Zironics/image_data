@@ -1,0 +1,247 @@
+<image>
+  <image-id>2385616</image-id>
+  <coco-id>460235</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3532969</relationship_id>
+      <predicate>wears a</predicate>
+      <subject>1294601</subject>
+      <object>1294602</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532970</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1294601</subject>
+      <object>1294605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532971</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1294601</subject>
+      <object>1294606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532972</relationship_id>
+      <predicate>standing</predicate>
+      <subject>1294601</subject>
+      <object>1294608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532973</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1294609</subject>
+      <object>1294608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532974</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1294601</subject>
+      <object>1294611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532975</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1294612</subject>
+      <object>1294604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532976</relationship_id>
+      <predicate>above</predicate>
+      <subject>1294605</subject>
+      <object>1294606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532977</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1294601</subject>
+      <object>1294614</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532978</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1294601</subject>
+      <object>1294602</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532979</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1294602</subject>
+      <object>1294615</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532980</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1294601</subject>
+      <object>1294611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532981</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1294601</subject>
+      <object>1294611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532982</relationship_id>
+      <predicate>standing near</predicate>
+      <subject>1294601</subject>
+      <object>1294609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532983</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1294611</subject>
+      <object>1294601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3532984</relationship_id>
+      <predicate>under</predicate>
+      <subject>1294603</subject>
+      <object>1294604</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>going to throw ball</attribute>
+        <attribute>playing baseball</attribute>
+        <attribute>standing</attribute>
+        <attribute>mlb baseball pitcher</attribute>
+        <attribute>infield</attribute>
+      </attributes>
+      <name>man</name>
+      <h>396</h>
+      <object_id>1294601</object_id>
+      <w>160</w>
+      <y>68</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for baseball</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>23</h>
+      <object_id>1294602</object_id>
+      <w>60</w>
+      <y>68</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cinched</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>belt</name>
+      <h>13</h>
+      <object_id>1294605</object_id>
+      <w>34</w>
+      <y>232</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white colored</attribute>
+        <attribute>baseball pants</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>198</h>
+      <object_id>1294606</object_id>
+      <w>114</w>
+      <y>240</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>infield</name>
+      <h>102</h>
+      <object_id>1294608</object_id>
+      <w>499</w>
+      <y>397</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beautiful</attribute>
+        <attribute>green</attribute>
+        <attribute>in field</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>378</h>
+      <object_id>1294609</object_id>
+      <w>497</w>
+      <y>58</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown leather</attribute>
+        <attribute>catcher's mitt</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>62</h>
+      <object_id>1294611</object_id>
+      <w>42</w>
+      <y>148</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>red sox logo</name>
+      <h>27</h>
+      <object_id>1294612</object_id>
+      <w>77</w>
+      <y>162</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red sox</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>jersey</name>
+      <h>120</h>
+      <object_id>1294604</object_id>
+      <w>144</w>
+      <y>123</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>uniform</name>
+      <h>312</h>
+      <object_id>1294614</object_id>
+      <w>146</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red sox logo</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>14</h>
+      <object_id>1294615</object_id>
+      <w>14</w>
+      <y>66</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>undershirt</name>
+      <h>25</h>
+      <object_id>1294603</object_id>
+      <w>38</w>
+      <y>118</y>
+      <x>243</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player is holding his mit. </caption>
+      <caption>A man with a baseball mitten plays baseball.  </caption>
+      <caption>A baseball player waits for action on the field.</caption>
+      <caption>A baseball player holds a ball in his glove.</caption>
+      <caption>A baseball player holds a catcher's mitt on the field during a game.</caption>
+    </captions>
+</image>

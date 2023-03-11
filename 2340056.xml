@@ -1,0 +1,90 @@
+<image>
+  <image-id>2340056</image-id>
+  <coco-id>476525</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4035575</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3313862</subject>
+      <object>3313863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035577</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2186743</subject>
+      <object>2186744</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035579</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3690613</subject>
+      <object>2656707</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue writing</name>
+      <h>67</h>
+      <object_id>3313862</object_id>
+      <w>77</w>
+      <y>145</y>
+      <x>422</x>
+    </object>
+    <object>
+      <name>envelope</name>
+      <h>332</h>
+      <object_id>3313863</object_id>
+      <w>492</w>
+      <y>0</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>steel</attribute>
+      </attributes>
+      <name>blades</name>
+      <h>90</h>
+      <object_id>2186743</object_id>
+      <w>142</w>
+      <y>181</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>scissors</name>
+      <h>251</h>
+      <object_id>2186744</object_id>
+      <w>399</w>
+      <y>17</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>letters</name>
+      <h>70</h>
+      <object_id>3690613</object_id>
+      <w>150</w>
+      <y>257</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>paper</name>
+      <h>70</h>
+      <object_id>2656707</object_id>
+      <w>120</w>
+      <y>239</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red pair of scissors on top of an envelope</caption>
+      <caption>A red pair of scissors on some unused envelopes.</caption>
+      <caption>A pair of scissors lies on top of blank envelopes</caption>
+      <caption>A pair of scissors being used as a paper weight on a stack of mail</caption>
+      <caption>A pair of red scissors on top of a stack of mail.</caption>
+    </captions>
+</image>

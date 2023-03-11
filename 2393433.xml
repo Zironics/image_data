@@ -1,0 +1,146 @@
+<image>
+  <image-id>2393433</image-id>
+  <coco-id>156607</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1065243</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>472451</subject>
+      <object>472452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065244</relationship_id>
+      <predicate>next to</predicate>
+      <subject>472451</subject>
+      <object>472454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065245</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>472455</subject>
+      <object>472454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065246</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>472456</subject>
+      <object>472451</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065247</relationship_id>
+      <predicate>by</predicate>
+      <subject>472451</subject>
+      <object>472454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065248</relationship_id>
+      <predicate>next to</predicate>
+      <subject>472451</subject>
+      <object>472454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065249</relationship_id>
+      <predicate>beyond</predicate>
+      <subject>472457</subject>
+      <object>472454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065250</relationship_id>
+      <predicate>with</predicate>
+      <subject>472451</subject>
+      <object>472456</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065251</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>472451</subject>
+      <object>472452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1065252</relationship_id>
+      <predicate>has</predicate>
+      <subject>472457</subject>
+      <object>472462</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>123</h>
+      <object_id>472451</object_id>
+      <w>146</w>
+      <y>238</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+        <attribute>green</attribute>
+        <attribute>area</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>116</h>
+      <object_id>472452</object_id>
+      <w>362</w>
+      <y>258</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>river</name>
+      <h>182</h>
+      <object_id>472454</object_id>
+      <w>340</w>
+      <y>163</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>ripple</name>
+      <h>27</h>
+      <object_id>472455</object_id>
+      <w>72</w>
+      <y>217</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>horn</name>
+      <h>37</h>
+      <object_id>472456</object_id>
+      <w>21</w>
+      <y>234</y>
+      <x>326</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>136</h>
+      <object_id>472457</object_id>
+      <w>138</w>
+      <y>32</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>20</h>
+      <object_id>472462</object_id>
+      <w>22</w>
+      <y>35</y>
+      <x>278</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of cows standing and sitting on top of a field.</caption>
+      <caption>Cow laying by lake while another cow walks in grass</caption>
+      <caption>a couple of steer are standing outside by a lake</caption>
+      <caption>Two cows are sitting next to water surrounded by some trees</caption>
+      <caption>a couple of cows are standing by a lake</caption>
+    </captions>
+</image>

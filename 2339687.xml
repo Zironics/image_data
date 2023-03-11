@@ -1,0 +1,117 @@
+<image>
+  <image-id>2339687</image-id>
+  <coco-id>517465</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4141789</relationship_id>
+      <predicate>catching a</predicate>
+      <subject>2062958</subject>
+      <object>3060063</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4042276</relationship_id>
+      <predicate>catching</predicate>
+      <subject>2062958</subject>
+      <object>2336206</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4042277</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2062958</subject>
+      <object>2466863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118250</relationship_id>
+      <predicate>jumping for</predicate>
+      <subject>2062958</subject>
+      <object>3308292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4042279</relationship_id>
+      <predicate>near</predicate>
+      <subject>2062958</subject>
+      <object>3693443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141797</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3083301</subject>
+      <object>3693443</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>255</h>
+      <object_id>2062958</object_id>
+      <w>148</w>
+      <y>71</y>
+      <x>112</x>
+      <name>goalkeeper</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>42</h>
+      <object_id>3060063</object_id>
+      <w>42</w>
+      <y>77</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>43</h>
+      <object_id>2336206</object_id>
+      <w>47</w>
+      <y>80</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lime</attribute>
+      </attributes>
+      <name>green top</name>
+      <h>109</h>
+      <object_id>2466863</object_id>
+      <w>119</w>
+      <y>92</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>71</h>
+      <object_id>3308292</object_id>
+      <w>75</w>
+      <y>72</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>goal</name>
+      <h>309</h>
+      <object_id>3693443</object_id>
+      <w>373</w>
+      <y>3</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>mesh</name>
+      <h>252</h>
+      <object_id>3083301</object_id>
+      <w>363</w>
+      <y>38</y>
+      <x>136</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man holding a ball in his hands.</caption>
+      <caption>A person is catching a soccer ball near a net.</caption>
+      <caption>A kid jumping in the air blocking a ball.</caption>
+      <caption>A boy hitting a soccer ball out of the goal</caption>
+      <caption>A boy blocked a soccer ball from the goal.</caption>
+    </captions>
+</image>

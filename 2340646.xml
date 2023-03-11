@@ -1,0 +1,102 @@
+<image>
+  <image-id>2340646</image-id>
+  <coco-id>395791</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3956100</relationship_id>
+      <predicate>with</predicate>
+      <subject>2717869</subject>
+      <object>2717870</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956101</relationship_id>
+      <predicate>with</predicate>
+      <subject>2717869</subject>
+      <object>2717871</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956102</relationship_id>
+      <predicate>with</predicate>
+      <subject>2717869</subject>
+      <object>2717872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956103</relationship_id>
+      <predicate>with</predicate>
+      <subject>2717869</subject>
+      <object>2717873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956104</relationship_id>
+      <predicate>with</predicate>
+      <subject>2717869</subject>
+      <object>2233033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4096569</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2233033</subject>
+      <object>2717869</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>lunch box</name>
+      <h>462</h>
+      <object_id>2717869</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>40</h>
+      <object_id>2717870</object_id>
+      <w>32</w>
+      <y>177</y>
+      <x>389</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>44</h>
+      <object_id>2717871</object_id>
+      <w>50</w>
+      <y>279</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>43</h>
+      <object_id>2717872</object_id>
+      <w>57</w>
+      <y>302</y>
+      <x>361</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>48</h>
+      <object_id>2717873</object_id>
+      <w>60</w>
+      <y>267</y>
+      <x>186</x>
+    </object>
+    <object>
+      <h>49</h>
+      <object_id>2233033</object_id>
+      <w>41</w>
+      <y>180</y>
+      <x>75</x>
+      <name>tomato</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pink lunch box with four containers, each with different food and a fork.</caption>
+      <caption>A lunchbox with fruit, vegetables, wraps and cookies.</caption>
+      <caption>a fork and four different small trays of different food </caption>
+      <caption>A pile of fruit and some food in several trays.</caption>
+      <caption>Several different foods are displayed in trays. </caption>
+    </captions>
+</image>

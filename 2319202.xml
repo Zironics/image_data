@@ -1,0 +1,110 @@
+<image>
+  <image-id>2319202</image-id>
+  <coco-id>250951</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2996531</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1003798</subject>
+      <object>1003799</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2996532</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1003793</subject>
+      <object>1003800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2996533</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1003803</subject>
+      <object>1003800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2996534</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1003809</subject>
+      <object>1003795</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tape</name>
+      <h>95</h>
+      <object_id>1003798</object_id>
+      <w>13</w>
+      <y>56</y>
+      <x>367</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>140</h>
+      <object_id>1003799</object_id>
+      <w>271</w>
+      <y>29</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>book</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>book</name>
+      <h>109</h>
+      <object_id>1003793</object_id>
+      <w>41</w>
+      <y>62</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>149</h>
+      <object_id>1003800</object_id>
+      <w>204</w>
+      <y>27</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>titled</attribute>
+      </attributes>
+      <name>book</name>
+      <h>99</h>
+      <object_id>1003803</object_id>
+      <w>38</w>
+      <y>74</y>
+      <x>79</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>57</h>
+      <object_id>1003809</object_id>
+      <w>49</w>
+      <y>178</y>
+      <x>236</x>
+      <name>letter</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bag</attribute>
+        <attribute>tote</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>248</h>
+      <object_id>1003795</object_id>
+      <w>219</w>
+      <y>52</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white cat sitting in front of a black bag.</caption>
+      <caption>A cat standing next to bag near a bookcase.</caption>
+      <caption>a small cat sits next to a holder bag </caption>
+      <caption>Black and white cat looking at bag in front of bookshelf.</caption>
+      <caption>A cat and a black bag on the floor in front of book shelves.</caption>
+    </captions>
+</image>

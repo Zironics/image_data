@@ -1,0 +1,104 @@
+<image>
+  <image-id>2339093</image-id>
+  <coco-id>118463</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4562618</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4006056</subject>
+      <object>4291552</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678453</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4291317</subject>
+      <object>4291318</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678463</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4291552</subject>
+      <object>4291553</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678570</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>4291552</subject>
+      <object>4291553</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678571</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4291556</subject>
+      <object>4291555</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>front part</name>
+      <h>15</h>
+      <object_id>4006056</object_id>
+      <w>26</w>
+      <y>157</y>
+      <x>189</x>
+    </object>
+    <object>
+      <h>59</h>
+      <object_id>4291552</object_id>
+      <w>170</w>
+      <y>140</y>
+      <x>189</x>
+      <name>aeroplane</name>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>43</h>
+      <object_id>4291317</object_id>
+      <w>33</w>
+      <y>135</y>
+      <x>260</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>69</h>
+      <object_id>4291318</object_id>
+      <w>170</w>
+      <y>138</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>324</h>
+      <object_id>4291553</object_id>
+      <w>490</w>
+      <y>6</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>37</h>
+      <object_id>4291556</object_id>
+      <w>114</w>
+      <y>4</y>
+      <x>220</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>112</h>
+      <object_id>4291555</object_id>
+      <w>370</w>
+      <y>10</y>
+      <x>95</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large airplane flying under a cloudy blue sky.</caption>
+      <caption>The airplane is flying low in the cloudy sky.</caption>
+      <caption>A plane is viewed through iron bars as it flies overhead. </caption>
+      <caption>A view through a fence of a plane flying low.</caption>
+      <caption>The view of a commercial airliner in flight through a fence.</caption>
+    </captions>
+</image>

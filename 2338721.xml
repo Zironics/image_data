@@ -1,0 +1,65 @@
+<image>
+  <image-id>2338721</image-id>
+  <coco-id>1915</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4058334</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3207247</subject>
+      <object>2280544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058335</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3207247</subject>
+      <object>3207249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058336</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3207248</subject>
+      <object>3207249</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>326</h>
+      <object_id>3207247</object_id>
+      <w>218</w>
+      <y>6</y>
+      <x>0</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>237</h>
+      <object_id>2280544</object_id>
+      <w>435</w>
+      <y>94</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>141</h>
+      <object_id>3207249</object_id>
+      <w>431</w>
+      <y>190</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>83</h>
+      <object_id>3207248</object_id>
+      <w>129</w>
+      <y>133</y>
+      <x>293</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a red motorcycle down a street with a dog on back of it.</caption>
+      <caption>A guy on a motorcycle with a small dog on it.</caption>
+      <caption>A man on a motorcycle going for a ride with his dog.</caption>
+      <caption>A man that is riding on a motorcycle with a dog.</caption>
+      <caption>The man is riding his motorcycle with his dog. </caption>
+    </captions>
+</image>

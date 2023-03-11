@@ -1,0 +1,80 @@
+<image>
+  <image-id>2393978</image-id>
+  <coco-id>510117</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4609170</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4117621</subject>
+      <object>4117628</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4609171</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4117622</subject>
+      <object>4117628</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4609175</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4117633</subject>
+      <object>4117631</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>circle</name>
+      <h>7</h>
+      <object_id>4117621</object_id>
+      <w>9</w>
+      <y>51</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden </attribute>
+      </attributes>
+      <h>109</h>
+      <object_id>4117628</object_id>
+      <w>82</w>
+      <y>0</y>
+      <x>0</x>
+      <name>handle</name>
+    </object>
+    <object>
+      <name>circle</name>
+      <h>7</h>
+      <object_id>4117622</object_id>
+      <w>12</w>
+      <y>70</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>toppings</name>
+      <h>145</h>
+      <object_id>4117633</object_id>
+      <w>321</w>
+      <y>70</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>burnt </attribute>
+        <attribute>round </attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>261</h>
+      <object_id>4117631</object_id>
+      <w>452</w>
+      <y>50</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza with thick crust sitting on a table.</caption>
+      <caption>A delicious cooked pizza is set on a brown table. </caption>
+      <caption>A thick crusted pizza just taken out of the oven</caption>
+      <caption>A small cheesy pizza is displayed on a cutting board.</caption>
+      <caption>The personal size pizza has cheese and pineapple toppings.</caption>
+    </captions>
+</image>

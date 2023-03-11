@@ -1,0 +1,72 @@
+<image>
+  <image-id>2415493</image-id>
+  <coco-id>491942</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3676302</relationship_id>
+      <predicate>has</predicate>
+      <subject>3493837</subject>
+      <object>2733248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3990151</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2985115</subject>
+      <object>3414312</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bus</attribute>
+        <attribute>vintage</attribute>
+        <attribute>green</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>263</h>
+      <object_id>3493837</object_id>
+      <w>478</w>
+      <y>20</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>104</h>
+      <object_id>2733248</object_id>
+      <w>103</w>
+      <y>180</y>
+      <x>134</x>
+      <name>blackwheels</name>
+    </object>
+    <object>
+      <name>headlights</name>
+      <h>38</h>
+      <object_id>2985115</object_id>
+      <w>75</w>
+      <y>149</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>public</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>273</h>
+      <object_id>3414312</object_id>
+      <w>446</w>
+      <y>8</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old bus is parked on the side of the street.</caption>
+      <caption>The Special 2 city bus shown parked along the street. </caption>
+      <caption>An old, antique transit bus parked at a stop.</caption>
+      <caption>An old bus is parked along the side of a street.</caption>
+      <caption>A green and beige bus in front of a red car is parked next to a sign. </caption>
+    </captions>
+</image>

@@ -1,0 +1,73 @@
+<image>
+  <image-id>2391902</image-id>
+  <coco-id>236125</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3442429</relationship_id>
+      <predicate>near</predicate>
+      <subject>1236222</subject>
+      <object>3826572</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3442430</relationship_id>
+      <predicate>near</predicate>
+      <subject>3826572</subject>
+      <object>3826571</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4291148</relationship_id>
+      <predicate>stirring</predicate>
+      <subject>3826572</subject>
+      <object>3826573</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>oven</name>
+      <h>105</h>
+      <object_id>1236222</object_id>
+      <w>68</w>
+      <y>226</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>222</h>
+      <object_id>3826572</object_id>
+      <w>95</w>
+      <y>111</y>
+      <x>0</x>
+      <name>nun</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shiny</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <h>31</h>
+      <object_id>3826571</object_id>
+      <w>45</w>
+      <y>192</y>
+      <x>2</x>
+      <name>container</name>
+    </object>
+    <object>
+      <name>pot</name>
+      <h>40</h>
+      <object_id>3826573</object_id>
+      <w>17</w>
+      <y>173</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A row of women wearing brown line up against a kitchen counter.</caption>
+      <caption>a bunch of elder woman in a kitchen cleaning and cooking</caption>
+      <caption>A group of women that are in a kitchen.</caption>
+      <caption>Five women doing miscellaneous tasks in the kitchen.</caption>
+      <caption>Some old women are getting ready to cook in the kitchen. </caption>
+    </captions>
+</image>

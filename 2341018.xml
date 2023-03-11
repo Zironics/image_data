@@ -1,0 +1,95 @@
+<image>
+  <image-id>2341018</image-id>
+  <coco-id>491910</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4095098</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3062901</subject>
+      <object>2379009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095099</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2379007</subject>
+      <object>2379009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095100</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2379007</subject>
+      <object>2379010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095101</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2379008</subject>
+      <object>2379009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4095102</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2379008</subject>
+      <object>2379010</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>132</h>
+      <object_id>3062901</object_id>
+      <w>26</w>
+      <y>173</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>219</h>
+      <object_id>2379009</object_id>
+      <w>282</w>
+      <y>122</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>192</h>
+      <object_id>2379007</object_id>
+      <w>154</w>
+      <y>2</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>204</h>
+      <object_id>2379010</object_id>
+      <w>237</w>
+      <y>99</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>137</h>
+      <object_id>2379008</object_id>
+      <w>172</w>
+      <y>2</y>
+      <x>124</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>TWO MOUNTED POLICE ON HORSES, ONE OF THEM SMILING</caption>
+      <caption>Two park policemen on top of horses in a park. </caption>
+      <caption>Some police officers on horses in the road.</caption>
+      <caption>Park police sit side by side on their horses with a person nearby.</caption>
+      <caption>Two policemen are riding on horses which are standing still. </caption>
+    </captions>
+</image>

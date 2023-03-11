@@ -1,0 +1,88 @@
+<image>
+  <image-id>2334899</image-id>
+  <coco-id>474784</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3992313</relationship_id>
+      <predicate>at</predicate>
+      <subject>2260505</subject>
+      <object>2260506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4452392</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>3239188</subject>
+      <object>3239189</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3992315</relationship_id>
+      <predicate>around</predicate>
+      <subject>2251376</subject>
+      <object>2251377</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>72</h>
+      <object_id>2260505</object_id>
+      <w>85</w>
+      <y>245</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>urn</name>
+      <h>107</h>
+      <object_id>2260506</object_id>
+      <w>97</w>
+      <y>87</y>
+      <x>112</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stone </attribute>
+      </attributes>
+      <name>urn</name>
+      <h>100</h>
+      <object_id>3239188</object_id>
+      <w>90</w>
+      <y>111</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>plants</name>
+      <h>114</h>
+      <object_id>3239189</object_id>
+      <w>162</w>
+      <y>212</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>stone walkway</name>
+      <h>172</h>
+      <object_id>2251376</object_id>
+      <w>106</w>
+      <y>201</y>
+      <x>225</x>
+    </object>
+    <object>
+      <name>sculpture</name>
+      <h>109</h>
+      <object_id>2251377</object_id>
+      <w>100</w>
+      <y>108</y>
+      <x>123</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giant vase sitting in the middle of a garden.</caption>
+      <caption>There is a green garden with pink, white, yellow, and red flowers in it.</caption>
+      <caption>A circular walk path is shown is flowers.</caption>
+      <caption>The garden has many flowers and green plants. </caption>
+      <caption>A large ceramic ornament is surrounded by a flower bed and several flowers, bushes, and shrubs on a bright cloudy day.</caption>
+    </captions>
+</image>

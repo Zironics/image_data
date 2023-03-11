@@ -1,0 +1,84 @@
+<image>
+  <image-id>2321624</image-id>
+  <coco-id>466321</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3930828</relationship_id>
+      <predicate>has</predicate>
+      <subject>3649598</subject>
+      <object>3083776</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539011</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2877092</subject>
+      <object>2877091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539012</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2967681</subject>
+      <object>2967680</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cheese</attribute>
+      </attributes>
+      <name>pita</name>
+      <h>456</h>
+      <object_id>3649598</object_id>
+      <w>456</w>
+      <y>23</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>olives</name>
+      <h>267</h>
+      <object_id>3083776</object_id>
+      <w>60</w>
+      <y>110</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>grime</name>
+      <h>45</h>
+      <object_id>2877092</object_id>
+      <w>67</w>
+      <y>212</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>cutter</name>
+      <h>247</h>
+      <object_id>2877091</object_id>
+      <w>259</w>
+      <y>161</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>493</h>
+      <object_id>2967681</object_id>
+      <w>460</w>
+      <y>3</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>102</h>
+      <object_id>2967680</object_id>
+      <w>131</w>
+      <y>396</y>
+      <x>106</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza cutter on a pizza that is missing a slice.</caption>
+      <caption>A pizza cutter sitting next to a pizza in a pizza pan.</caption>
+      <caption>A pizza slicer resting on top of a pizza that has a slice missing.</caption>
+      <caption>a pizza with black olives and a pizza cutter</caption>
+      <caption>A pizza sits on a white plate while a pizza cutter sits on top of it.</caption>
+    </captions>
+</image>

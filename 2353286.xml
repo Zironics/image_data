@@ -1,0 +1,127 @@
+<image>
+  <image-id>2353286</image-id>
+  <coco-id>149257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2406242</relationship_id>
+      <predicate>in a</predicate>
+      <subject>847579</subject>
+      <object>847580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2406243</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>847583</subject>
+      <object>847582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2406244</relationship_id>
+      <predicate>behind</predicate>
+      <subject>847583</subject>
+      <object>847582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2406245</relationship_id>
+      <predicate>has a</predicate>
+      <subject>847579</subject>
+      <object>847584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2406246</relationship_id>
+      <predicate>behind</predicate>
+      <subject>847583</subject>
+      <object>847582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2406247</relationship_id>
+      <predicate>have</predicate>
+      <subject>847579</subject>
+      <object>847585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2406248</relationship_id>
+      <predicate>has</predicate>
+      <subject>847579</subject>
+      <object>847586</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>healthy</attribute>
+      </attributes>
+      <name>horses</name>
+      <h>317</h>
+      <object_id>847579</object_id>
+      <w>418</w>
+      <y>29</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>pen</name>
+      <h>317</h>
+      <object_id>847580</object_id>
+      <w>496</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plants</attribute>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>165</h>
+      <object_id>847583</object_id>
+      <w>489</w>
+      <y>1</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>222</h>
+      <object_id>847582</object_id>
+      <w>495</w>
+      <y>97</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>mane</name>
+      <h>88</h>
+      <object_id>847584</object_id>
+      <w>179</w>
+      <y>40</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>hooves</name>
+      <h>49</h>
+      <object_id>847585</object_id>
+      <w>318</w>
+      <y>298</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>poop</name>
+      <h>39</h>
+      <object_id>847586</object_id>
+      <w>49</w>
+      <y>301</y>
+      <x>445</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large horse next to a calf in a corral.</caption>
+      <caption>A large horse standing next to a smaller horse. </caption>
+      <caption>A brown and a black horse in dirt area by a fence.</caption>
+      <caption>A couple of horses standing on top of a dirt pen.</caption>
+      <caption>this is a pony and a larger horse next to a fence</caption>
+    </captions>
+</image>

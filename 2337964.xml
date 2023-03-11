@@ -1,0 +1,62 @@
+<image>
+  <image-id>2337964</image-id>
+  <coco-id>376017</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4460934</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3453455</subject>
+      <object>3704342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3887721</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3110077</subject>
+      <object>3110078</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ear</name>
+      <h>30</h>
+      <object_id>3453455</object_id>
+      <w>20</w>
+      <y>307</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>327</h>
+      <object_id>3704342</object_id>
+      <w>321</w>
+      <y>99</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>126</h>
+      <object_id>3110077</object_id>
+      <w>22</w>
+      <y>178</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>368</h>
+      <object_id>3110078</object_id>
+      <w>107</w>
+      <y>0</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of some animals in the dirt.</caption>
+      <caption>A giraffe leaning over to drink water from a pond.</caption>
+      <caption>One giraffe drinking water with its front legs spread wide and a giraffe in the background facing the other direction.</caption>
+      <caption>Two giraffe one leaning down to drink water.</caption>
+      <caption>Giraffe at the zoo leaning down to drink some water</caption>
+    </captions>
+</image>

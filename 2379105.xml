@@ -1,0 +1,200 @@
+<image>
+  <image-id>2379105</image-id>
+  <coco-id>10759</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3618111</relationship_id>
+      <predicate>line</predicate>
+      <subject>1361030</subject>
+      <object>1361035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618112</relationship_id>
+      <predicate>at end of</predicate>
+      <subject>1361036</subject>
+      <object>1361035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618113</relationship_id>
+      <predicate>has</predicate>
+      <subject>1361026</subject>
+      <object>1361038</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618114</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1361028</subject>
+      <object>1361026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618115</relationship_id>
+      <predicate>has</predicate>
+      <subject>1361026</subject>
+      <object>1361040</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618116</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>1361026</subject>
+      <object>1361035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618117</relationship_id>
+      <predicate>parked behind</predicate>
+      <subject>1361026</subject>
+      <object>1361029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618118</relationship_id>
+      <predicate>at end of</predicate>
+      <subject>1361033</subject>
+      <object>1361035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618119</relationship_id>
+      <predicate>lining</predicate>
+      <subject>1361030</subject>
+      <object>1361035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618120</relationship_id>
+      <predicate>over</predicate>
+      <subject>1361039</subject>
+      <object>1361035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3618121</relationship_id>
+      <predicate>extending across</predicate>
+      <subject>1361041</subject>
+      <object>1361035</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>226</h>
+      <object_id>1361030</object_id>
+      <w>213</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>157</h>
+      <object_id>1361035</object_id>
+      <w>474</w>
+      <y>174</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>at intersection</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>24</h>
+      <object_id>1361036</object_id>
+      <w>21</w>
+      <y>153</y>
+      <x>424</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+        <attribute>light blue</attribute>
+      </attributes>
+      <name>dump truck</name>
+      <h>148</h>
+      <object_id>1361026</object_id>
+      <w>197</w>
+      <y>94</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tire</name>
+      <h>49</h>
+      <object_id>1361038</object_id>
+      <w>27</w>
+      <y>193</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cone</name>
+      <h>36</h>
+      <object_id>1361028</object_id>
+      <w>17</w>
+      <y>196</y>
+      <x>260</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>27</h>
+      <object_id>1361040</object_id>
+      <w>26</w>
+      <y>124</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>road machine</name>
+      <h>94</h>
+      <object_id>1361029</object_id>
+      <w>161</w>
+      <y>106</y>
+      <x>215</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>house</name>
+      <h>65</h>
+      <object_id>1361033</object_id>
+      <w>85</w>
+      <y>105</y>
+      <x>415</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>street lamp</name>
+      <h>37</h>
+      <object_id>1361039</object_id>
+      <w>36</w>
+      <y>18</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>lines</name>
+      <h>109</h>
+      <object_id>1361041</object_id>
+      <w>355</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Construction equipment on the side of a residential street. </caption>
+      <caption>A blue truck is parked by a pile of dirt</caption>
+      <caption>A dump truck that just dumped sand onto a road</caption>
+      <caption>There is a large pile of dirt in the street, indicating that construction or landscaping is taking place.</caption>
+      <caption>A blue dump truck parked in front of a yellow tractor.</caption>
+    </captions>
+</image>

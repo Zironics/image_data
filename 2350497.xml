@@ -1,0 +1,133 @@
+<image>
+  <image-id>2350497</image-id>
+  <coco-id>9628</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4106347</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3368914</subject>
+      <object>3236912</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4106392</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3368914</subject>
+      <object>3368915</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410297</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2770768</subject>
+      <object>2312426</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410298</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3285053</subject>
+      <object>2173775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410299</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2287280</subject>
+      <object>2287282</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>81</h>
+      <object_id>3368914</object_id>
+      <w>88</w>
+      <y>49</y>
+      <x>130</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>air</name>
+      <h>14</h>
+      <object_id>3236912</object_id>
+      <w>81</w>
+      <y>152</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>tight</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>48</h>
+      <object_id>3368915</object_id>
+      <w>64</w>
+      <y>87</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>wake</name>
+      <h>79</h>
+      <object_id>2770768</object_id>
+      <w>487</w>
+      <y>255</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>224</h>
+      <object_id>2312426</object_id>
+      <w>499</w>
+      <y>150</y>
+      <x>1</x>
+      <name>lake water</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>181</h>
+      <object_id>3285053</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+      <name>green trees</name>
+    </object>
+    <object>
+      <name>lake</name>
+      <h>221</h>
+      <object_id>2173775</object_id>
+      <w>487</w>
+      <y>150</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>fin</name>
+      <h>15</h>
+      <object_id>2287280</object_id>
+      <w>39</w>
+      <y>204</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>water ski</name>
+      <h>83</h>
+      <object_id>2287282</object_id>
+      <w>64</w>
+      <y>91</y>
+      <x>166</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a board over the top of a wave.</caption>
+      <caption>A person being pulled on a surf board .</caption>
+      <caption>A man is in the air while sitting on a surf board.</caption>
+      <caption>A man using a hydrofoil wake board being pulled behind a boat</caption>
+      <caption>A man flying through the air over the water on a board while holding a rope.</caption>
+    </captions>
+</image>

@@ -1,0 +1,80 @@
+<image>
+  <image-id>2390268</image-id>
+  <coco-id>87737</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4750086</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4465999</subject>
+      <object>4466004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4750087</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4465999</subject>
+      <object>4466008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4750092</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4466044</subject>
+      <object>4466045</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cylinder shaped white </attribute>
+      </attributes>
+      <h>241</h>
+      <object_id>4465999</object_id>
+      <w>127</w>
+      <y>34</y>
+      <x>22</x>
+      <name>toilet</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>corner </attribute>
+      </attributes>
+      <name>room</name>
+      <h>346</h>
+      <object_id>4466004</object_id>
+      <w>477</w>
+      <y>20</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>40</h>
+      <object_id>4466008</object_id>
+      <w>64</w>
+      <y>331</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>trash</name>
+      <h>149</h>
+      <object_id>4466044</object_id>
+      <w>99</w>
+      <y>222</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>151</h>
+      <object_id>4466045</object_id>
+      <w>302</w>
+      <y>222</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A minimalist bathroom with toilet paper that needs to be cleaned.</caption>
+      <caption>The bathroom is not clean and is ill attended.</caption>
+      <caption>An oddly shaped toilet and urinal in a public restroom.
+</caption>
+      <caption>A very unpleasant looking bathroom with a urinal and commode</caption>
+      <caption>A dirty bathroom with toliet paper on the floor.</caption>
+    </captions>
+</image>

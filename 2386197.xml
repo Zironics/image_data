@@ -1,0 +1,62 @@
+<image>
+  <image-id>2386197</image-id>
+  <coco-id>390689</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4602757</relationship_id>
+      <predicate>lifted up</predicate>
+      <subject>4102333</subject>
+      <object>4102334</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4602768</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4102361</subject>
+      <object>4102362</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lower</attribute>
+      </attributes>
+      <name>legs</name>
+      <h>65</h>
+      <object_id>4102333</object_id>
+      <w>56</w>
+      <y>155</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>54</h>
+      <object_id>4102334</object_id>
+      <w>118</w>
+      <y>208</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>hose</name>
+      <h>90</h>
+      <object_id>4102361</object_id>
+      <w>148</w>
+      <y>3</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>210</h>
+      <object_id>4102362</object_id>
+      <w>409</w>
+      <y>6</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man with a yellow helmet riding a boogie board down a slide</caption>
+      <caption>A man with a helmet is laying on a water board.</caption>
+      <caption>A man wearing a helmet on a body board in a body of water.</caption>
+      <caption>A man wearing a helmet is propelled through the water on a board. </caption>
+      <caption>A man in a helmet on a boogie board in water</caption>
+    </captions>
+</image>

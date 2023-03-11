@@ -1,0 +1,95 @@
+<image>
+  <image-id>2384874</image-id>
+  <coco-id>288137</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1271254</relationship_id>
+      <predicate>has</predicate>
+      <subject>523794</subject>
+      <object>523795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1271255</relationship_id>
+      <predicate>close to</predicate>
+      <subject>523794</subject>
+      <object>523798</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1271256</relationship_id>
+      <predicate>has</predicate>
+      <subject>523787</subject>
+      <object>523788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1271257</relationship_id>
+      <predicate>behind</predicate>
+      <subject>523794</subject>
+      <object>523787</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cut in half</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>374</h>
+      <object_id>523794</object_id>
+      <w>107</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>hole</name>
+      <h>25</h>
+      <object_id>523795</object_id>
+      <w>26</w>
+      <y>324</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chain link</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>173</h>
+      <object_id>523798</object_id>
+      <w>497</w>
+      <y>202</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>yellow</attribute>
+        <attribute>diamond shaped</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>270</h>
+      <object_id>523787</object_id>
+      <w>249</w>
+      <y>51</y>
+      <x>117</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>pointing</attribute>
+      </attributes>
+      <name>arrow</name>
+      <h>94</h>
+      <object_id>523788</object_id>
+      <w>206</w>
+      <y>135</y>
+      <x>141</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sign that has arrows pointing in opposite directions, one of the arrows has a dog sticker on it.</caption>
+      <caption>A yellow and black traffic sign with a white dog sticker on it.</caption>
+      <caption>A road sign sitting in front of a group of trees.</caption>
+      <caption>A sign is shown pointing two ways with a dog.</caption>
+      <caption>a street sign with a dog sticker added to it
+</caption>
+    </captions>
+</image>

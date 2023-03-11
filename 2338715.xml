@@ -1,0 +1,68 @@
+<image>
+  <image-id>2338715</image-id>
+  <coco-id>1596</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4797239</relationship_id>
+      <predicate>are attached to</predicate>
+      <subject>4591604</subject>
+      <object>4591605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797240</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591608</subject>
+      <object>4591607</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>strings</name>
+      <h>49</h>
+      <object_id>4591604</object_id>
+      <w>31</w>
+      <y>85</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tennis</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>158</h>
+      <object_id>4591605</object_id>
+      <w>122</w>
+      <y>50</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>155</h>
+      <object_id>4591608</object_id>
+      <w>111</w>
+      <y>48</y>
+      <x>171</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>26</h>
+      <object_id>4591607</object_id>
+      <w>22</w>
+      <y>179</y>
+      <x>172</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person swing a tennis racket at a tennis ball.</caption>
+      <caption>A tennis racket that is near the net.</caption>
+      <caption>A person holds a racket close to a flying tennis ball.</caption>
+      <caption>A tennis player with a racket hits the ball over the net</caption>
+      <caption>A tennis ball flying in the air towards a tennis racket.</caption>
+    </captions>
+</image>

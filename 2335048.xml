@@ -1,0 +1,79 @@
+<image>
+  <image-id>2335048</image-id>
+  <coco-id>384232</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3989382</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2475070</subject>
+      <object>2827783</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3989383</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2475070</subject>
+      <object>2827783</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3989384</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2893408</subject>
+      <object>2827783</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4452025</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2335713</subject>
+      <object>2335714</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>white letter</name>
+      <h>35</h>
+      <object_id>2475070</object_id>
+      <w>32</w>
+      <y>50</y>
+      <x>415</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>115</h>
+      <object_id>2827783</object_id>
+      <w>100</w>
+      <y>7</y>
+      <x>399</x>
+    </object>
+    <object>
+      <name>letter</name>
+      <h>15</h>
+      <object_id>2893408</object_id>
+      <w>15</w>
+      <y>26</y>
+      <x>426</x>
+    </object>
+    <object>
+      <name>police officer</name>
+      <h>278</h>
+      <object_id>2335713</object_id>
+      <w>117</w>
+      <y>101</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>331</h>
+      <object_id>2335714</object_id>
+      <w>357</w>
+      <y>165</y>
+      <x>82</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing next to a man on a horse.</caption>
+      <caption>a policeman sitting on a horse some people and some buildings</caption>
+      <caption>A police officer on a horse on a crowded city street.</caption>
+      <caption>A man on a horse in the middle of the street.</caption>
+      <caption>The mounted officers are near a crowd of people.</caption>
+    </captions>
+</image>

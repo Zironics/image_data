@@ -1,0 +1,88 @@
+<image>
+  <image-id>2405481</image-id>
+  <coco-id>21161</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1711255</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654333</subject>
+      <object>654334</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1711256</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654335</subject>
+      <object>654336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1711257</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654335</subject>
+      <object>654336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1711258</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654335</subject>
+      <object>654336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1711259</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654335</subject>
+      <object>654336</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hamburger</name>
+      <h>51</h>
+      <object_id>654333</object_id>
+      <w>44</w>
+      <y>177</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>75</h>
+      <object_id>654334</object_id>
+      <w>132</w>
+      <y>196</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>149</h>
+      <object_id>654335</object_id>
+      <w>126</w>
+      <y>7</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>bed</name>
+      <h>59</h>
+      <object_id>654336</object_id>
+      <w>38</w>
+      <y>115</y>
+      <x>351</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat eating a part of a person sandwich </caption>
+      <caption>A cat eating a half a sandwich on top of a bed.</caption>
+      <caption>An orange, white, and black kitten is eating from a plate.</caption>
+      <caption>A cat is eating a bagel sandwich on a tray.</caption>
+      <caption>White, black and orange cat eating food off of a plate.</caption>
+    </captions>
+</image>

@@ -1,0 +1,227 @@
+<image>
+  <image-id>2412859</image-id>
+  <coco-id>512785</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4270343</relationship_id>
+      <predicate>ON</predicate>
+      <subject>185265</subject>
+      <object>3802806</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270344</relationship_id>
+      <predicate>ON</predicate>
+      <subject>185254</subject>
+      <object>185254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270345</relationship_id>
+      <predicate>with</predicate>
+      <subject>185254</subject>
+      <object>3802809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270346</relationship_id>
+      <predicate>IN</predicate>
+      <subject>185253</subject>
+      <object>3802810</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270347</relationship_id>
+      <predicate>stuck in</predicate>
+      <subject>185264</subject>
+      <object>3802811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270348</relationship_id>
+      <predicate>IN</predicate>
+      <subject>185260</subject>
+      <object>3802812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270349</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3802813</subject>
+      <object>185253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270350</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3802814</subject>
+      <object>185258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270351</relationship_id>
+      <predicate>IN</predicate>
+      <subject>185260</subject>
+      <object>3802817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270352</relationship_id>
+      <predicate>has</predicate>
+      <subject>185253</subject>
+      <object>3802818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4270353</relationship_id>
+      <predicate>has</predicate>
+      <subject>185253</subject>
+      <object>3802813</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wooden leg</name>
+      <h>63</h>
+      <object_id>185265</object_id>
+      <w>36</w>
+      <y>279</y>
+      <x>366</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>176</h>
+      <object_id>3802806</object_id>
+      <w>192</w>
+      <y>189</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>attached</attribute>
+        <attribute>curved</attribute>
+      </attributes>
+      <h>68</h>
+      <object_id>185254</object_id>
+      <w>87</w>
+      <y>231</y>
+      <x>160</x>
+      <name>blue fabric</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood </attribute>
+      </attributes>
+      <name>frame</name>
+      <h>109</h>
+      <object_id>3802809</object_id>
+      <w>81</w>
+      <y>218</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>facing</attribute>
+        <attribute>blue </attribute>
+        <attribute>reclined </attribute>
+        <attribute>brown </attribute>
+        <attribute>wooden </attribute>
+      </attributes>
+      <name>beach chair</name>
+      <h>155</h>
+      <object_id>185253</object_id>
+      <w>160</w>
+      <y>200</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>30</h>
+      <object_id>3802810</object_id>
+      <w>127</w>
+      <y>343</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large </attribute>
+        <attribute>blue </attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>blue umbrella</name>
+      <h>329</h>
+      <object_id>185264</object_id>
+      <w>311</w>
+      <y>3</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>37</h>
+      <object_id>3802811</object_id>
+      <w>88</w>
+      <y>311</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lapping</attribute>
+      </attributes>
+      <name>small wave</name>
+      <h>17</h>
+      <object_id>185260</object_id>
+      <w>153</w>
+      <y>269</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>70</h>
+      <object_id>3802812</object_id>
+      <w>117</w>
+      <y>199</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>arm rest</name>
+      <h>29</h>
+      <object_id>3802813</object_id>
+      <w>50</w>
+      <y>261</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>footprints</name>
+      <h>56</h>
+      <object_id>3802814</object_id>
+      <w>85</w>
+      <y>292</y>
+      <x>43</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>under</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>golden sand</name>
+      <h>90</h>
+      <object_id>185258</object_id>
+      <w>497</w>
+      <y>284</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>98</h>
+      <object_id>3802817</object_id>
+      <w>458</w>
+      <y>192</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>26</h>
+      <object_id>3802818</object_id>
+      <w>29</w>
+      <y>257</y>
+      <x>263</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a few chairs sitting under an umbrella on the beach </caption>
+      <caption>A beach umbrella and two beach chairs in the sand.</caption>
+      <caption>A couple of blue lawn chairs sitting under a blue umbrella.</caption>
+      <caption>there are two blue chairs and a blue umbrellas on the beach</caption>
+      <caption>Beach chairs and an umbrella look lonely on the beach.</caption>
+    </captions>
+</image>

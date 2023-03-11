@@ -1,0 +1,82 @@
+<image>
+  <image-id>2358513</image-id>
+  <coco-id>235672</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2247276</relationship_id>
+      <predicate>ON</predicate>
+      <subject>801875</subject>
+      <object>801876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2247277</relationship_id>
+      <predicate>ON</predicate>
+      <subject>801863</subject>
+      <object>801877</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4216320</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3768425</subject>
+      <object>801876</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>drink</name>
+      <h>36</h>
+      <object_id>801875</object_id>
+      <w>43</w>
+      <y>204</y>
+      <x>117</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>table</name>
+      <h>62</h>
+      <object_id>801876</object_id>
+      <w>39</w>
+      <y>236</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>light</name>
+      <h>44</h>
+      <object_id>801863</object_id>
+      <w>43</w>
+      <y>77</y>
+      <x>436</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>70</h>
+      <object_id>801877</object_id>
+      <w>232</w>
+      <y>55</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sit </attribute>
+      </attributes>
+      <name>man</name>
+      <h>106</h>
+      <object_id>3768425</object_id>
+      <w>57</w>
+      <y>186</y>
+      <x>74</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a group of people sitting down with umbrellas</caption>
+      <caption>a number of people holding umbrellas near one another </caption>
+      <caption>People walking through street with tents outside and rain</caption>
+      <caption>a few people that has some umbrellas in hand</caption>
+      <caption>A group of people standing around a farmers market.</caption>
+    </captions>
+</image>

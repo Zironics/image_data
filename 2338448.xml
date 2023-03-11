@@ -1,0 +1,73 @@
+<image>
+  <image-id>2338448</image-id>
+  <coco-id>304645</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4062630</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2291178</subject>
+      <object>2269512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141018</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2291178</subject>
+      <object>2801225</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4062631</relationship_id>
+      <predicate>creating</predicate>
+      <subject>2010383</subject>
+      <object>2010384</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boy</name>
+      <h>153</h>
+      <object_id>2291178</object_id>
+      <w>170</w>
+      <y>58</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>necklace</name>
+      <h>15</h>
+      <object_id>2269512</object_id>
+      <w>22</w>
+      <y>90</y>
+      <x>200</x>
+    </object>
+    <object>
+      <h>48</h>
+      <object_id>2801225</object_id>
+      <w>88</w>
+      <y>126</y>
+      <x>180</x>
+      <name>boy shorts</name>
+    </object>
+    <object>
+      <name>board</name>
+      <h>59</h>
+      <object_id>2010383</object_id>
+      <w>130</w>
+      <y>176</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>wake</name>
+      <h>94</h>
+      <object_id>2010384</object_id>
+      <w>353</w>
+      <y>174</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man crouched surfing in rough water.</caption>
+      <caption>A person surfing on a surfing board in the sea.</caption>
+      <caption>A man riding a wave on a surf board in the ocean.</caption>
+      <caption>A man surfing on a nice wave in the ocean.</caption>
+      <caption>A young man riding a surf board on top of the waves.</caption>
+    </captions>
+</image>

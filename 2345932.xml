@@ -1,0 +1,209 @@
+<image>
+  <image-id>2345932</image-id>
+  <coco-id>39191</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3859870</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>1817990</subject>
+      <object>1817991</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859871</relationship_id>
+      <predicate>of</predicate>
+      <subject>2063028</subject>
+      <object>1783492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859873</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>1783492</subject>
+      <object>2086700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859874</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1817990</subject>
+      <object>3620790</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859875</relationship_id>
+      <predicate>on</predicate>
+      <subject>2131168</subject>
+      <object>2063028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859876</relationship_id>
+      <predicate>being dragged in</predicate>
+      <subject>2063028</subject>
+      <object>2063029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859877</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2353027</subject>
+      <object>1783492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859878</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>1783492</subject>
+      <object>2518423</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859879</relationship_id>
+      <predicate>on</predicate>
+      <subject>2518423</subject>
+      <object>1783494</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859881</relationship_id>
+      <predicate>with one foot off</predicate>
+      <subject>2063028</subject>
+      <object>1844097</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3859882</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2518423</subject>
+      <object>3620791</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>board</name>
+      <h>14</h>
+      <object_id>1817990</object_id>
+      <w>67</w>
+      <y>162</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> seated</attribute>
+      </attributes>
+      <name>person</name>
+      <h>32</h>
+      <object_id>1817991</object_id>
+      <w>31</w>
+      <y>133</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Yellow</attribute>
+      </attributes>
+      <h>51</h>
+      <object_id>2063028</object_id>
+      <w>187</w>
+      <y>268</y>
+      <x>232</x>
+      <name>snowboard</name>
+    </object>
+    <object>
+      <h>232</h>
+      <object_id>1783492</object_id>
+      <w>118</w>
+      <y>84</y>
+      <x>325</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> beige</attribute>
+      </attributes>
+      <name>beige pants</name>
+      <h>100</h>
+      <object_id>2086700</object_id>
+      <w>70</w>
+      <y>200</y>
+      <x>342</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>100</h>
+      <object_id>3620790</object_id>
+      <w>328</w>
+      <y>171</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Black</attribute>
+      </attributes>
+      <name>binding</name>
+      <h>46</h>
+      <object_id>2131168</object_id>
+      <w>30</w>
+      <y>270</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>370</h>
+      <object_id>2063029</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Black</attribute>
+      </attributes>
+      <name>black hat</name>
+      <h>32</h>
+      <object_id>2353027</object_id>
+      <w>32</w>
+      <y>85</y>
+      <x>397</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> for eye </attribute>
+      </attributes>
+      <h>5</h>
+      <object_id>2518423</object_id>
+      <w>13</w>
+      <y>107</y>
+      <x>419</x>
+      <name>eyeglasses</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> his</attribute>
+      </attributes>
+      <name>face</name>
+      <h>23</h>
+      <object_id>1783494</object_id>
+      <w>15</w>
+      <y>103</y>
+      <x>416</x>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>49</h>
+      <object_id>1844097</object_id>
+      <w>180</w>
+      <y>269</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>50</h>
+      <object_id>3620791</object_id>
+      <w>36</w>
+      <y>81</y>
+      <x>393</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A snowboarder and a dog are in the snow.</caption>
+      <caption>A man riding a snow board on a snow covered slope.</caption>
+      <caption>A man walking with his snowboard attached to one foot.</caption>
+      <caption>A man in an orange parka is snowboarding.</caption>
+      <caption>This is a man in an orange coat walking away from another man with his snowboard.</caption>
+    </captions>
+</image>

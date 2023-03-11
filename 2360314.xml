@@ -1,0 +1,57 @@
+<image>
+  <image-id>2360314</image-id>
+  <coco-id>551736</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4204067</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>2945252</subject>
+      <object>3892011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4396961</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2178102</subject>
+      <object>3892011</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>small</attribute>
+        <attribute>black</attribute>
+        <attribute>fluffy</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>223</h>
+      <object_id>2945252</object_id>
+      <w>267</w>
+      <y>37</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>175</h>
+      <object_id>3892011</object_id>
+      <w>497</w>
+      <y>158</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>103</h>
+      <object_id>2178102</object_id>
+      <w>279</w>
+      <y>212</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An adorable dog walking along a sandy beach next to the ocean.</caption>
+      <caption>A cute dog is walking along the shoreline.</caption>
+      <caption>A small dog walking on a lonely beach.</caption>
+      <caption>A dog walking along a sandy beach by the water.</caption>
+      <caption>close up of a dog walking on a beach near a body of water</caption>
+    </captions>
+</image>

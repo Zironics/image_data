@@ -1,0 +1,106 @@
+<image>
+  <image-id>2340786</image-id>
+  <coco-id>147425</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4673405</relationship_id>
+      <predicate>cat has a right front</predicate>
+      <subject>4278929</subject>
+      <object>4278929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677640</relationship_id>
+      <predicate>HAS WHITE</predicate>
+      <subject>4289425</subject>
+      <object>4366695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677641</relationship_id>
+      <predicate>HAS WHITE</predicate>
+      <subject>4289425</subject>
+      <object>4289427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677642</relationship_id>
+      <predicate>ON BOTH SIDES OF</predicate>
+      <subject>4366695</subject>
+      <object>4289428</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677643</relationship_id>
+      <predicate>ON BOTH SIDES OF</predicate>
+      <subject>4289427</subject>
+      <object>4289425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4709330</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4366695</subject>
+      <object>4289528</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>29</h>
+      <object_id>4278929</object_id>
+      <w>44</w>
+      <y>305</y>
+      <x>232</x>
+      <name>paw</name>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>322</h>
+      <object_id>4289425</object_id>
+      <w>308</w>
+      <y>5</y>
+      <x>148</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>140</h>
+      <object_id>4366695</object_id>
+      <w>60</w>
+      <y>102</y>
+      <x>154</x>
+      <name>whiskers</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>WHITE</attribute>
+      </attributes>
+      <name>whiskers</name>
+      <h>58</h>
+      <object_id>4289427</object_id>
+      <w>90</w>
+      <y>194</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>93</h>
+      <object_id>4289428</object_id>
+      <w>125</w>
+      <y>128</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>310</h>
+      <object_id>4289528</object_id>
+      <w>230</w>
+      <y>20</y>
+      <x>186</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat in a dark room standing up on all fours.</caption>
+      <caption>A gray stripped cat standing on a blue rug.</caption>
+      <caption>The large brown and dark brown cat is looking straight ahead.</caption>
+      <caption>A large tabby cat sitting on the floor.</caption>
+      <caption>close up of brown a cat sitting down</caption>
+    </captions>
+</image>

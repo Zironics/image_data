@@ -1,0 +1,78 @@
+<image>
+  <image-id>2316170</image-id>
+  <coco-id>532857</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3666109</relationship_id>
+      <predicate>with</predicate>
+      <subject>3110449</subject>
+      <object>3273932</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3666110</relationship_id>
+      <predicate>with</predicate>
+      <subject>3110449</subject>
+      <object>3273932</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3855565</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3110450</subject>
+      <object>3110449</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3855566</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3110450</subject>
+      <object>3110449</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3855567</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3110450</subject>
+      <object>3110449</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3855568</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3110450</subject>
+      <object>3110449</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>303</h>
+      <object_id>3110449</object_id>
+      <w>373</w>
+      <y>28</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>37</h>
+      <object_id>3273932</object_id>
+      <w>37</w>
+      <y>114</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>whisker</name>
+      <h>37</h>
+      <object_id>3110450</object_id>
+      <w>96</w>
+      <y>101</y>
+      <x>313</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and white dog laying on top of a bed.</caption>
+      <caption>a dog that is laying down on a mattress </caption>
+      <caption>A dog sleeping on a patterned blanket or pillow.</caption>
+      <caption>a brown black and white dog and red collar</caption>
+      <caption>A medium sized gold and white dog sleeping.</caption>
+    </captions>
+</image>

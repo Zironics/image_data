@@ -1,0 +1,59 @@
+<image>
+  <image-id>1592834</image-id>
+  <coco-id>170545</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4087618</relationship_id>
+      <predicate>against</predicate>
+      <subject>1613311</subject>
+      <object>1613312</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4087619</relationship_id>
+      <predicate>for</predicate>
+      <subject>1613313</subject>
+      <object>1613314</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lines</name>
+      <h>198</h>
+      <object_id>1613311</object_id>
+      <w>947</w>
+      <y>156</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>198</h>
+      <object_id>1613312</object_id>
+      <w>947</w>
+      <y>156</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>292</h>
+      <object_id>1613313</object_id>
+      <w>228</w>
+      <y>296</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>292</h>
+      <object_id>1613314</object_id>
+      <w>228</w>
+      <y>296</y>
+      <x>283</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A pay phone sitting on the side of a street.</caption>
+      <caption>There is a pay phone on the dark street corner.</caption>
+      <caption>Dark street with a pizza hut on the opposite corner.</caption>
+      <caption>It is night and there are street lights on.</caption>
+      <caption>A pay phone is sitting at the corner of an empty street.</caption>
+    </captions>
+</image>

@@ -1,0 +1,102 @@
+<image>
+  <image-id>2367652</image-id>
+  <coco-id>118885</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4356923</relationship_id>
+      <predicate>eating</predicate>
+      <subject>2292244</subject>
+      <object>1812544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4356924</relationship_id>
+      <predicate>eats</predicate>
+      <subject>2292244</subject>
+      <object>1812544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4356925</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2007477</subject>
+      <object>1812543</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4356926</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>2062891</subject>
+      <object>2608143</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>316</h>
+      <object_id>2292244</object_id>
+      <w>142</w>
+      <y>147</y>
+      <x>38</x>
+      <name>giraffe</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <h>462</h>
+      <object_id>1812544</object_id>
+      <w>69</w>
+      <y>1</y>
+      <x>174</x>
+      <name>tall tree</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>71</h>
+      <object_id>2007477</object_id>
+      <w>43</w>
+      <y>77</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <h>255</h>
+      <object_id>1812543</object_id>
+      <w>192</w>
+      <y>0</y>
+      <x>0</x>
+      <name>tall tree</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>cable</name>
+      <h>9</h>
+      <object_id>2062891</object_id>
+      <w>373</w>
+      <y>311</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>317</h>
+      <object_id>2608143</object_id>
+      <w>139</w>
+      <y>146</y>
+      <x>39</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two giraffe standing next to a tall tree.</caption>
+      <caption>A group of giraffes at a feeding station.</caption>
+      <caption>Two giraffes eating the leaves off a tree.</caption>
+      <caption>Two giraffes eating dried leaves tied to a dead tree.</caption>
+      <caption>Two giraffes feed on leaves on either side of a tree. </caption>
+    </captions>
+</image>

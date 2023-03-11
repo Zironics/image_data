@@ -1,0 +1,71 @@
+<image>
+  <image-id>2316098</image-id>
+  <coco-id>255045</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3860775</relationship_id>
+      <predicate>has</predicate>
+      <subject>3621108</subject>
+      <object>3069240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860776</relationship_id>
+      <predicate>has</predicate>
+      <subject>3621108</subject>
+      <object>3069241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860777</relationship_id>
+      <predicate>has</predicate>
+      <subject>3621108</subject>
+      <object>3621109</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>327</h>
+      <object_id>3621108</object_id>
+      <w>233</w>
+      <y>46</y>
+      <x>107</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>121</h>
+      <object_id>3069240</object_id>
+      <w>71</w>
+      <y>90</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>28</h>
+      <object_id>3069241</object_id>
+      <w>56</w>
+      <y>295</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>whiskers</name>
+      <h>25</h>
+      <object_id>3621109</object_id>
+      <w>70</w>
+      <y>119</y>
+      <x>268</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat this is sitting in front of a window. </caption>
+      <caption>A black and white cat sitting on a windowsill by some candles.</caption>
+      <caption>a black and white cat seated on a locked window</caption>
+      <caption>A black-and-white tuxedo cat sitting on a windowsill with holiday candles lit behind it.</caption>
+      <caption>A car sitting on the ledge of a window near candles.</caption>
+    </captions>
+</image>

@@ -1,0 +1,179 @@
+<image>
+  <image-id>2383233</image-id>
+  <coco-id>388009</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3573331</relationship_id>
+      <predicate>laying beside</predicate>
+      <subject>1322647</subject>
+      <object>1322646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573332</relationship_id>
+      <predicate>are attached to</predicate>
+      <subject>1322662</subject>
+      <object>1322647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573333</relationship_id>
+      <predicate>laying next to a</predicate>
+      <subject>1322646</subject>
+      <object>1322647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573334</relationship_id>
+      <predicate>has</predicate>
+      <subject>1322646</subject>
+      <object>1322654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573335</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1322646</subject>
+      <object>1322658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573336</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1322646</subject>
+      <object>1322659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573337</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1322646</subject>
+      <object>1322660</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573338</relationship_id>
+      <predicate>has</predicate>
+      <subject>1322646</subject>
+      <object>1322661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573339</relationship_id>
+      <predicate>are attached to</predicate>
+      <subject>1322662</subject>
+      <object>1322647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573340</relationship_id>
+      <predicate>leaning against a</predicate>
+      <subject>1322646</subject>
+      <object>1322647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573341</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1322662</subject>
+      <object>1322647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573342</relationship_id>
+      <predicate>looking at its</predicate>
+      <subject>1322646</subject>
+      <object>1322660</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573343</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1322646</subject>
+      <object>1322665</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brownish</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>203</h>
+      <object_id>1322647</object_id>
+      <w>276</w>
+      <y>133</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>orange</attribute>
+        <attribute>striped</attribute>
+        <attribute>brown</attribute>
+        <attribute>lying down</attribute>
+      </attributes>
+      <h>360</h>
+      <object_id>1322646</object_id>
+      <w>262</w>
+      <y>1</y>
+      <x>0</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <h>71</h>
+      <object_id>1322662</object_id>
+      <w>60</w>
+      <y>176</y>
+      <x>383</x>
+      <name>lace</name>
+    </object>
+    <object>
+      <name>ears</name>
+      <h>67</h>
+      <object_id>1322654</object_id>
+      <w>123</w>
+      <y>119</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>left paw</name>
+      <h>55</h>
+      <object_id>1322658</object_id>
+      <w>38</w>
+      <y>228</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>right paw</name>
+      <h>114</h>
+      <object_id>1322659</object_id>
+      <w>78</w>
+      <y>166</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>front paw</name>
+      <h>115</h>
+      <object_id>1322660</object_id>
+      <w>79</w>
+      <y>169</y>
+      <x>95</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>whiskers</name>
+      <h>34</h>
+      <object_id>1322661</object_id>
+      <w>57</w>
+      <y>166</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>collar</name>
+      <h>33</h>
+      <object_id>1322665</object_id>
+      <w>8</w>
+      <y>112</y>
+      <x>247</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An orange and white cat laying on top of a brown shoe.</caption>
+      <caption>an orange and white cat and a pair of brown shoes</caption>
+      <caption>A cat is sitting on the floor next to a shoe.</caption>
+      <caption>An orange and white kitten sleeping on a wood floor beside a shoe.</caption>
+      <caption>A cat is lying next to a shoe</caption>
+    </captions>
+</image>

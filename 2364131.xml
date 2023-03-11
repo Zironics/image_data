@@ -1,0 +1,85 @@
+<image>
+  <image-id>2364131</image-id>
+  <coco-id>199251</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4165453</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2274228</subject>
+      <object>2731184</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4165455</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1837322</subject>
+      <object>2731184</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4165456</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>2274228</subject>
+      <object>2274228</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4165457</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2274228</subject>
+      <object>3740967</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>sitting </attribute>
+        <attribute>gray</attribute>
+        <attribute>tan</attribute>
+        <attribute>tabby</attribute>
+        <attribute>stray</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>81</h>
+      <object_id>2274228</object_id>
+      <w>132</w>
+      <y>24</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>117</h>
+      <object_id>2731184</object_id>
+      <w>154</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>16</h>
+      <object_id>1837322</object_id>
+      <w>40</w>
+      <y>26</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>burgundy</attribute>
+      </attributes>
+      <name>bow</name>
+      <h>27</h>
+      <object_id>3740967</object_id>
+      <w>11</w>
+      <y>66</y>
+      <x>111</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tiger cat walking across a field. near plants.</caption>
+      <caption>A gray tiger kitten playing outside in the dirt.</caption>
+      <caption>A photo of a cat from the back side.</caption>
+      <caption>a cat that is sitting on the ground</caption>
+      <caption>The black and grey cat is facing the other way</caption>
+    </captions>
+</image>

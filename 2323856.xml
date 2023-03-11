@@ -1,0 +1,170 @@
+<image>
+  <image-id>2323856</image-id>
+  <coco-id>410750</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4528988</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2746719</subject>
+      <object>2746720</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528989</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2952435</subject>
+      <object>3185905</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528990</relationship_id>
+      <predicate>to right of</predicate>
+      <subject>3305014</subject>
+      <object>3185905</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528996</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3185905</subject>
+      <object>3958219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528997</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3185905</subject>
+      <object>3185906</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528998</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3185905</subject>
+      <object>3958219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4528999</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3185905</subject>
+      <object>3431548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4529000</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3185905</subject>
+      <object>3958219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4529001</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3254817</subject>
+      <object>3254816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4529002</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3254817</subject>
+      <object>2785050</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>65</h>
+      <object_id>2746719</object_id>
+      <w>382</w>
+      <y>4</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>television</name>
+      <h>260</h>
+      <object_id>2746720</object_id>
+      <w>329</w>
+      <y>6</y>
+      <x>126</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tall speaker</name>
+      <h>119</h>
+      <object_id>2952435</object_id>
+      <w>54</w>
+      <y>82</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large </attribute>
+        <attribute>widescreen </attribute>
+      </attributes>
+      <h>251</h>
+      <object_id>3185905</object_id>
+      <w>341</w>
+      <y>0</y>
+      <x>111</x>
+      <name>television</name>
+    </object>
+    <object>
+      <name>speaker</name>
+      <h>107</h>
+      <object_id>3305014</object_id>
+      <w>54</w>
+      <y>194</y>
+      <x>444</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>110</h>
+      <object_id>3958219</object_id>
+      <w>340</w>
+      <y>171</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>159</h>
+      <object_id>3185906</object_id>
+      <w>381</w>
+      <y>0</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>110</h>
+      <object_id>3431548</object_id>
+      <w>265</w>
+      <y>203</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>blinds</name>
+      <h>114</h>
+      <object_id>3254817</object_id>
+      <w>364</w>
+      <y>2</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>107</h>
+      <object_id>3254816</object_id>
+      <w>367</w>
+      <y>10</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>80</h>
+      <object_id>2785050</object_id>
+      <w>430</w>
+      <y>8</y>
+      <x>31</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A foot in front of a flat screen TV in a living room.</caption>
+      <caption>A man is watching TV in bed with only his foot showing.</caption>
+      <caption>A person's foot is visible in front of a television.</caption>
+      <caption>A person's foot in front of a television screen.</caption>
+      <caption>A laptop and foot with a television screen in the background.</caption>
+    </captions>
+</image>

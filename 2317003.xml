@@ -1,0 +1,164 @@
+<image>
+  <image-id>2317003</image-id>
+  <coco-id>435294</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3152464</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152465</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152466</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152467</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152468</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1050853</subject>
+      <object>1050857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152469</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1050853</subject>
+      <object>1050858</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152470</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152471</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152472</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1050853</subject>
+      <object>1050861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152473</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1050853</subject>
+      <object>1050861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152474</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3152475</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1050853</subject>
+      <object>1050862</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>running</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>177</h>
+      <object_id>1050853</object_id>
+      <w>344</w>
+      <y>139</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>78</h>
+      <object_id>1050855</object_id>
+      <w>45</w>
+      <y>169</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>79</h>
+      <object_id>1050856</object_id>
+      <w>65</w>
+      <y>226</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>21</h>
+      <object_id>1050857</object_id>
+      <w>22</w>
+      <y>152</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>11</h>
+      <object_id>1050858</object_id>
+      <w>12</w>
+      <y>171</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>18</h>
+      <object_id>1050859</object_id>
+      <w>11</w>
+      <y>182</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>67</h>
+      <object_id>1050860</object_id>
+      <w>39</w>
+      <y>152</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>226</h>
+      <object_id>1050861</object_id>
+      <w>498</w>
+      <y>147</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>collar</name>
+      <h>71</h>
+      <object_id>1050862</object_id>
+      <w>38</w>
+      <y>162</y>
+      <x>135</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog is splashing around in the water.</caption>
+      <caption>a wet dog splashing around in the water.</caption>
+      <caption>A dog gets wet while running through the water</caption>
+      <caption>A black and white dog splashing through a small creek.</caption>
+      <caption>A dog running in the water of a stream </caption>
+    </captions>
+</image>

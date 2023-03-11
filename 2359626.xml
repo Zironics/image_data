@@ -1,0 +1,88 @@
+<image>
+  <image-id>2359626</image-id>
+  <coco-id>402082</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2210593</relationship_id>
+      <predicate>OF</predicate>
+      <subject>792057</subject>
+      <object>792052</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2210594</relationship_id>
+      <predicate>OF</predicate>
+      <subject>792058</subject>
+      <object>792052</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2210595</relationship_id>
+      <predicate>OF</predicate>
+      <subject>792058</subject>
+      <object>792052</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2210596</relationship_id>
+      <predicate>has</predicate>
+      <subject>792052</subject>
+      <object>792063</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2210597</relationship_id>
+      <predicate>OF</predicate>
+      <subject>792058</subject>
+      <object>792052</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ear</name>
+      <h>71</h>
+      <object_id>792057</object_id>
+      <w>53</w>
+      <y>105</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>beside</attribute>
+        <attribute>old</attribute>
+        <attribute>trunk</attribute>
+        <attribute>grey</attribute>
+        <attribute>large</attribute>
+        <attribute>brown</attribute>
+        <attribute>ear</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>268</h>
+      <object_id>792052</object_id>
+      <w>363</w>
+      <y>21</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>134</h>
+      <object_id>792058</object_id>
+      <w>69</w>
+      <y>187</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>76</h>
+      <object_id>792063</object_id>
+      <w>69</w>
+      <y>95</y>
+      <x>108</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large elephant next to a wire fence.</caption>
+      <caption>An elephant stands in front of vegetation and a fence.  </caption>
+      <caption>An elephant stands in front of a wire fence.</caption>
+      <caption>there is a elephant standing by a fence next to a large white ball</caption>
+      <caption>An elephant standing around a fence at the edge of its enclosure.</caption>
+    </captions>
+</image>

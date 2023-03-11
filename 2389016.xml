@@ -1,0 +1,37 @@
+<image>
+  <image-id>2389016</image-id>
+  <coco-id>212342</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4764423</relationship_id>
+      <predicate>standing</predicate>
+      <subject>4504642</subject>
+      <object>4504652</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>peacock</name>
+      <h>220</h>
+      <object_id>4504642</object_id>
+      <w>147</w>
+      <y>29</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>200</h>
+      <object_id>4504652</object_id>
+      <w>151</w>
+      <y>84</y>
+      <x>326</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two colorful peacocks walking towards a brown wooden bench.</caption>
+      <caption>a peacock on a bench and a peacock on the ground</caption>
+      <caption>A peacock perched on a bench looking at another peacock</caption>
+      <caption>A peacock unfurls its feathers in front of another peacock.</caption>
+      <caption>A peacock sits on a garden bench while another peacock spreads its tail feathers.</caption>
+    </captions>
+</image>

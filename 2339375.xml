@@ -1,0 +1,51 @@
+<image>
+  <image-id>2339375</image-id>
+  <coco-id>293979</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4047983</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3385687</subject>
+      <object>3385689</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4047984</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3385687</subject>
+      <object>3385691</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>men</name>
+      <h>298</h>
+      <object_id>3385687</object_id>
+      <w>152</w>
+      <y>32</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>shorts</name>
+      <h>67</h>
+      <object_id>3385689</object_id>
+      <w>85</w>
+      <y>170</y>
+      <x>299</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>116</h>
+      <object_id>3385691</object_id>
+      <w>493</w>
+      <y>230</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men playing tennis on a grass court.</caption>
+      <caption>Two men playing tennis on a tennis court.</caption>
+      <caption>Two tennis players are on grass with their racquets posed.</caption>
+      <caption>A man getting ready to return a hit in a mens double tennis game</caption>
+      <caption>A couple of guys holding tennis racquets on a tennis court.</caption>
+    </captions>
+</image>

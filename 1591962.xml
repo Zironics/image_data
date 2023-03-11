@@ -1,0 +1,103 @@
+<image>
+  <image-id>1591962</image-id>
+  <coco-id>566757</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4264473</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1605554</subject>
+      <object>1605555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264474</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1605556</subject>
+      <object>1605557</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264475</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1605558</subject>
+      <object>1605559</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264476</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1605549</subject>
+      <object>1605561</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>201</h>
+      <object_id>1605554</object_id>
+      <w>235</w>
+      <y>395</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>592</h>
+      <object_id>1605555</object_id>
+      <w>654</w>
+      <y>4</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>194</h>
+      <object_id>1605556</object_id>
+      <w>171</w>
+      <y>400</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>563</h>
+      <object_id>1605557</object_id>
+      <w>864</w>
+      <y>31</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>168</h>
+      <object_id>1605558</object_id>
+      <w>142</w>
+      <y>389</y>
+      <x>433</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>446</h>
+      <object_id>1605559</object_id>
+      <w>456</w>
+      <y>112</y>
+      <x>433</x>
+    </object>
+    <object>
+      <h>154</h>
+      <object_id>1605549</object_id>
+      <w>122</w>
+      <y>401</y>
+      <x>555</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>55</h>
+      <object_id>1605561</object_id>
+      <w>137</w>
+      <y>410</y>
+      <x>553</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People sitting and standing on a bus at night.</caption>
+      <caption>A group of people sitting and standing inside of a bus.</caption>
+      <caption>People standing up to ride on a bus.</caption>
+      <caption>Multiple male commuters traveling in a subway car.</caption>
+      <caption>People standing up on a crowded subway train.</caption>
+    </captions>
+</image>

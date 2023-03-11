@@ -1,0 +1,54 @@
+<image>
+  <image-id>2384010</image-id>
+  <coco-id>489906</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3561470</relationship_id>
+      <predicate>has</predicate>
+      <subject>1314387</subject>
+      <object>1314377</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>brown</attribute>
+        <attribute>in a pen</attribute>
+        <attribute>alone</attribute>
+        <attribute>standing</attribute>
+        <attribute>preoccupied</attribute>
+        <attribute>well groomed</attribute>
+        <attribute>inside pen</attribute>
+        <attribute>in hay</attribute>
+        <attribute>eating hay</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>333</h>
+      <object_id>1314387</object_id>
+      <w>351</w>
+      <y>34</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>83</h>
+      <object_id>1314377</object_id>
+      <w>30</w>
+      <y>267</y>
+      <x>384</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Horse eating hay on ground in middle of metal pen</caption>
+      <caption>A baby horse eating hay while fenced in.</caption>
+      <caption>A horse eating hay standing next to a metal fence.</caption>
+      <caption>The large horse is eating the hay at it's feet.</caption>
+      <caption>A horse bending it's neck to eat hay in a caged in area. </caption>
+    </captions>
+</image>

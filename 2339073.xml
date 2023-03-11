@@ -1,0 +1,104 @@
+<image>
+  <image-id>2339073</image-id>
+  <coco-id>405811</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4458614</relationship_id>
+      <predicate>has</predicate>
+      <subject>3698253</subject>
+      <object>3198476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458615</relationship_id>
+      <predicate>has</predicate>
+      <subject>3698253</subject>
+      <object>3198477</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458616</relationship_id>
+      <predicate>has</predicate>
+      <subject>2270087</subject>
+      <object>3010953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458617</relationship_id>
+      <predicate>has</predicate>
+      <subject>3252614</subject>
+      <object>3698252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053509</relationship_id>
+      <predicate>drinking from</predicate>
+      <subject>2270087</subject>
+      <object>2270087</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>107</h>
+      <object_id>3698253</object_id>
+      <w>90</w>
+      <y>130</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>udder</name>
+      <h>9</h>
+      <object_id>3198476</object_id>
+      <w>6</w>
+      <y>191</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>udder</name>
+      <h>8</h>
+      <object_id>3198477</object_id>
+      <w>7</w>
+      <y>189</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>123</h>
+      <object_id>2270087</object_id>
+      <w>175</w>
+      <y>140</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>90</h>
+      <object_id>3010953</object_id>
+      <w>20</w>
+      <y>158</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>calf</name>
+      <h>80</h>
+      <object_id>3252614</object_id>
+      <w>112</w>
+      <y>188</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>41</h>
+      <object_id>3698252</object_id>
+      <w>65</w>
+      <y>191</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cow with its baby nursing in a field.</caption>
+      <caption>The suckling calf and mother cow are among the herd in the  grassy plain</caption>
+      <caption>Young calf nursing off mom in a field.</caption>
+      <caption>A calf that is nursing from his mother with other cows in an open field</caption>
+      <caption>Cattle in an open field, with a calf nursing.</caption>
+    </captions>
+</image>

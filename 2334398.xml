@@ -1,0 +1,54 @@
+<image>
+  <image-id>2334398</image-id>
+  <coco-id>370610</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3848091</relationship_id>
+      <predicate>ahead of</predicate>
+      <subject>3427263</subject>
+      <object>2812272</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260254</relationship_id>
+      <predicate>left</predicate>
+      <subject>2812272</subject>
+      <object>2812271</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown and white</attribute>
+      </attributes>
+      <name>boot</name>
+      <h>20</h>
+      <object_id>3427263</object_id>
+      <w>35</w>
+      <y>147</y>
+      <x>84</x>
+    </object>
+    <object>
+      <h>144</h>
+      <object_id>2812272</object_id>
+      <w>74</w>
+      <y>25</y>
+      <x>45</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>15</h>
+      <object_id>2812271</object_id>
+      <w>8</w>
+      <y>63</y>
+      <x>86</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Someone dressed warmly holding an umbrella walking a dog in the snow.</caption>
+      <caption>A person walking through the snow while holding an umbrella.</caption>
+      <caption>A person holding an umbrella walking a dog in the snow </caption>
+      <caption>a person walking on a snowy surface with an umbrella</caption>
+      <caption>A person with an open umbrella and a dog walking in the snow.</caption>
+    </captions>
+</image>

@@ -1,0 +1,104 @@
+<image>
+  <image-id>2324525</image-id>
+  <coco-id>564432</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4524611</relationship_id>
+      <predicate>eating</predicate>
+      <subject>3087190</subject>
+      <object>3956604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524612</relationship_id>
+      <predicate>on</predicate>
+      <subject>3295192</subject>
+      <object>3295193</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524613</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3956604</subject>
+      <object>2891187</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524614</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3956605</subject>
+      <object>3956606</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffe</name>
+      <h>199</h>
+      <object_id>3087190</object_id>
+      <w>213</w>
+      <y>79</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>211</h>
+      <object_id>3956604</object_id>
+      <w>488</w>
+      <y>160</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown spots</name>
+      <h>46</h>
+      <object_id>3295192</object_id>
+      <w>33</w>
+      <y>85</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>224</h>
+      <object_id>3295193</object_id>
+      <w>135</w>
+      <y>47</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>217</h>
+      <object_id>2891187</object_id>
+      <w>498</w>
+      <y>155</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>mountain</name>
+      <h>143</h>
+      <object_id>3956605</object_id>
+      <w>393</w>
+      <y>4</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>148</h>
+      <object_id>3956606</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a couple of giraffes are standing in the grass</caption>
+      <caption>Two giraffes standing in high grass beside each other.</caption>
+      <caption>two giraffes are standing in the open field.</caption>
+      <caption>2 giraffes one of them is doing the splits</caption>
+      <caption>Pair of giraffes standing in large open field with tall golden grasses.</caption>
+    </captions>
+</image>

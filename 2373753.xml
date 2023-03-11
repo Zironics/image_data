@@ -1,0 +1,49 @@
+<image>
+  <image-id>2373753</image-id>
+  <coco-id>574275</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1969865</relationship_id>
+      <predicate>ON</predicate>
+      <subject>730893</subject>
+      <object>730897</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>grazing</attribute>
+        <attribute>walking</attribute>
+        <attribute>walkingy</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>112</h>
+      <object_id>730893</object_id>
+      <w>176</w>
+      <y>146</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>brwon</attribute>
+        <attribute>dry</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>25</h>
+      <object_id>730897</object_id>
+      <w>71</w>
+      <y>322</y>
+      <x>136</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The three animals are grazing in the field.</caption>
+      <caption>Two young calves grazing in an open field.</caption>
+      <caption>Three cows are grazing on the grass by an orange cone.</caption>
+      <caption>Three spotted furry animals gazing in a field.</caption>
+      <caption>A group of cows eating grass on the land</caption>
+    </captions>
+</image>

@@ -1,0 +1,94 @@
+<image>
+  <image-id>2376957</image-id>
+  <coco-id>499571</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1922663</relationship_id>
+      <predicate>has</predicate>
+      <subject>718995</subject>
+      <object>719003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4300856</relationship_id>
+      <predicate>ON</predicate>
+      <subject>718995</subject>
+      <object>3839103</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1922664</relationship_id>
+      <predicate>OF</predicate>
+      <subject>719006</subject>
+      <object>718999</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1922665</relationship_id>
+      <predicate>OF</predicate>
+      <subject>719006</subject>
+      <object>718999</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>182</h>
+      <object_id>718995</object_id>
+      <w>259</w>
+      <y>162</y>
+      <x>193</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>56</h>
+      <object_id>719003</object_id>
+      <w>30</w>
+      <y>280</y>
+      <x>423</x>
+    </object>
+    <object>
+      <name>boxes</name>
+      <h>114</h>
+      <object_id>3839103</object_id>
+      <w>125</w>
+      <y>263</y>
+      <x>293</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>of soda</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>crates</name>
+      <h>63</h>
+      <object_id>719006</object_id>
+      <w>289</w>
+      <y>132</y>
+      <x>95</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>old</attribute>
+        <attribute>of soda</attribute>
+        <attribute>visibles</attribute>
+        <attribute>glass</attribute>
+      </attributes>
+      <h>66</h>
+      <object_id>718999</object_id>
+      <w>271</w>
+      <y>97</y>
+      <x>113</x>
+      <name>bottles</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A thin cat jumping off a pile of stuff</caption>
+      <caption>A cat standing on a pallet of junk in a desert state.</caption>
+      <caption>A skinny, wet cat looks over the side of a platform.</caption>
+      <caption>a cat jumping off of a truck  with containers of bottles</caption>
+      <caption>a skinny cat looking over the side of a ledge next to some bottles </caption>
+    </captions>
+</image>

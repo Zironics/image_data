@@ -1,0 +1,88 @@
+<image>
+  <image-id>2318865</image-id>
+  <coco-id>182028</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3933626</relationship_id>
+      <predicate>at</predicate>
+      <subject>2999963</subject>
+      <object>3034965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3933627</relationship_id>
+      <predicate>at</predicate>
+      <subject>3034964</subject>
+      <object>3034965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3787846</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2999963</subject>
+      <object>3018107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3787847</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>2999963</subject>
+      <object>3018107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3787853</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2999963</subject>
+      <object>3253888</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>323</h>
+      <object_id>2999963</object_id>
+      <w>178</w>
+      <y>177</y>
+      <x>46</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>183</h>
+      <object_id>3034965</object_id>
+      <w>402</w>
+      <y>315</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>60</h>
+      <object_id>3034964</object_id>
+      <w>23</w>
+      <y>291</y>
+      <x>392</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>492</h>
+      <object_id>3018107</object_id>
+      <w>78</w>
+      <y>6</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>83</h>
+      <object_id>3253888</object_id>
+      <w>77</w>
+      <y>304</y>
+      <x>79</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a beach with a surfboard.</caption>
+      <caption>Boy stands next to his tall surfboard at the beach.</caption>
+      <caption>A man on the beach with his surfboard.</caption>
+      <caption>A man standing next to his surf board.</caption>
+      <caption>A young man at the beach holding up his surfboard</caption>
+    </captions>
+</image>

@@ -1,0 +1,88 @@
+<image>
+  <image-id>2329911</image-id>
+  <coco-id>72776</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4801892</relationship_id>
+      <predicate>loaded</predicate>
+      <subject>4603324</subject>
+      <object>4603325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4801893</relationship_id>
+      <predicate>unloaded</predicate>
+      <subject>4603324</subject>
+      <object>4603325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828910</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>4669499</subject>
+      <object>4640765</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828911</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>4669502</subject>
+      <object>4640765</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>items</name>
+      <h>18</h>
+      <object_id>4603324</object_id>
+      <w>36</w>
+      <y>300</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>140</h>
+      <object_id>4603325</object_id>
+      <w>477</w>
+      <y>101</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>18</h>
+      <object_id>4669499</object_id>
+      <w>16</w>
+      <y>160</y>
+      <x>365</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tied down</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>156</h>
+      <object_id>4640765</object_id>
+      <w>483</w>
+      <y>101</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>18</h>
+      <object_id>4669502</object_id>
+      <w>13</w>
+      <y>160</y>
+      <x>355</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large jetliner sitting on top of a tarmac.</caption>
+      <caption>A passenger jet being serviced on a runway in an airport.</caption>
+      <caption>there is a very large plane that is stopped at the airport </caption>
+      <caption>A large Lufthansa plane that is sitting on the runway area.</caption>
+      <caption>A Lufthansa airlines plane is parked at a terminal with several support vehicles around it.</caption>
+    </captions>
+</image>

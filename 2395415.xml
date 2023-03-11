@@ -1,0 +1,172 @@
+<image>
+  <image-id>2395415</image-id>
+  <coco-id>528154</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4289002</relationship_id>
+      <predicate>in a</predicate>
+      <subject>454778</subject>
+      <object>3823180</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289003</relationship_id>
+      <predicate>in a</predicate>
+      <subject>454779</subject>
+      <object>3823172</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289004</relationship_id>
+      <predicate>IN</predicate>
+      <subject>454792</subject>
+      <object>3823173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289005</relationship_id>
+      <predicate>behind</predicate>
+      <subject>454791</subject>
+      <object>454793</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289006</relationship_id>
+      <predicate>IN</predicate>
+      <subject>454791</subject>
+      <object>3823176</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289007</relationship_id>
+      <predicate>IN</predicate>
+      <subject>454792</subject>
+      <object>3823181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289008</relationship_id>
+      <predicate>IN</predicate>
+      <subject>454792</subject>
+      <object>3823179</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289009</relationship_id>
+      <predicate>around</predicate>
+      <subject>454793</subject>
+      <object>3823180</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289010</relationship_id>
+      <predicate>around</predicate>
+      <subject>454795</subject>
+      <object>3823181</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>two cows</name>
+      <h>98</h>
+      <object_id>454778</object_id>
+      <w>207</w>
+      <y>151</y>
+      <x>264</x>
+    </object>
+    <object>
+      <h>201</h>
+      <object_id>3823180</object_id>
+      <w>495</w>
+      <y>194</y>
+      <x>0</x>
+      <name>farm field</name>
+    </object>
+    <object>
+      <name>couple cows</name>
+      <h>109</h>
+      <object_id>454779</object_id>
+      <w>224</w>
+      <y>150</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>119</h>
+      <object_id>3823172</object_id>
+      <w>372</w>
+      <y>183</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grazing</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <h>70</h>
+      <object_id>454792</object_id>
+      <w>62</w>
+      <y>181</y>
+      <x>261</x>
+      <name>brown cow</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>96</h>
+      <object_id>3823173</object_id>
+      <w>106</w>
+      <y>234</y>
+      <x>259</x>
+    </object>
+    <object>
+      <h>49</h>
+      <object_id>454791</object_id>
+      <w>36</w>
+      <y>163</y>
+      <x>427</x>
+      <name>cows behind</name>
+    </object>
+    <object>
+      <h>208</h>
+      <object_id>454793</object_id>
+      <w>499</w>
+      <y>143</y>
+      <x>0</x>
+      <name>barbed wire fence</name>
+    </object>
+    <object>
+      <name>daytime</name>
+      <h>389</h>
+      <object_id>3823176</object_id>
+      <w>496</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>201</h>
+      <object_id>3823181</object_id>
+      <w>487</w>
+      <y>188</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>136</h>
+      <object_id>3823179</object_id>
+      <w>183</w>
+      <y>170</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>leafless trees</name>
+      <h>59</h>
+      <object_id>454795</object_id>
+      <w>229</w>
+      <y>139</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two cows are walking along the fence of their pasture.</caption>
+      <caption>A couple of cows that are standing in the grass.</caption>
+      <caption>A couple of cows standing around behind a fenced in area.</caption>
+      <caption>A couple of cows grazing in a pasture near a fence.</caption>
+      <caption>A few cows in a field behind a chain link fence.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2321971</image-id>
+  <coco-id>209178</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3655472</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3531140</subject>
+      <object>3280742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538337</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3416399</subject>
+      <object>3416400</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>9</h>
+      <object_id>3531140</object_id>
+      <w>30</w>
+      <y>85</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>270</h>
+      <object_id>3280742</object_id>
+      <w>337</w>
+      <y>39</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>24</h>
+      <object_id>3416399</object_id>
+      <w>22</w>
+      <y>72</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>280</h>
+      <object_id>3416400</object_id>
+      <w>255</w>
+      <y>18</y>
+      <x>100</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman and child sitting at a table.</caption>
+      <caption>two people sit next to each other in front of a cake</caption>
+      <caption>An adult in a party crown and a child are sitting in front of a birthday cake.</caption>
+      <caption>A woman wearing a crown sits next to a boy in a yellow shirt and a cake is on a table in front of them.</caption>
+      <caption>a woman wearing a crown and a young boy smile at a table with a cake</caption>
+    </captions>
+</image>

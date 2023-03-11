@@ -1,0 +1,135 @@
+<image>
+  <image-id>2331654</image-id>
+  <coco-id>71440</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4099900</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2769227</subject>
+      <object>3715352</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099901</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3182329</subject>
+      <object>3715353</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099902</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3172268</subject>
+      <object>3172267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099903</relationship_id>
+      <predicate>above</predicate>
+      <subject>3229408</subject>
+      <object>3229410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099904</relationship_id>
+      <predicate>above</predicate>
+      <subject>3229409</subject>
+      <object>3229410</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>45</h>
+      <object_id>2769227</object_id>
+      <w>48</w>
+      <y>114</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>peatonal</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>127</h>
+      <object_id>3715352</object_id>
+      <w>104</w>
+      <y>106</y>
+      <x>163</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>light</name>
+      <h>175</h>
+      <object_id>3182329</object_id>
+      <w>191</w>
+      <y>90</y>
+      <x>174</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>peatonal</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>116</h>
+      <object_id>3715353</object_id>
+      <w>128</w>
+      <y>111</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>man</name>
+      <h>44</h>
+      <object_id>3172268</object_id>
+      <w>72</w>
+      <y>330</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>peatonal</attribute>
+      </attributes>
+      <name>light</name>
+      <h>87</h>
+      <object_id>3172267</object_id>
+      <w>72</w>
+      <y>132</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>power line</name>
+      <h>113</h>
+      <object_id>3229408</object_id>
+      <w>105</w>
+      <y>42</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>215</h>
+      <object_id>3229410</object_id>
+      <w>145</w>
+      <y>80</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>power line</name>
+      <h>70</h>
+      <object_id>3229409</object_id>
+      <w>86</w>
+      <y>84</y>
+      <x>34</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pedestrian crossing signal on a busy urban street with old buildings.</caption>
+      <caption>Traffic signal on post at city roadway intersection.</caption>
+      <caption>Traffic signal with walk light, near a bus stop.</caption>
+      <caption>Crosswalk light in city indicating it is time to walk.</caption>
+      <caption>A stop light is mounted in front of some buildings.  </caption>
+    </captions>
+</image>

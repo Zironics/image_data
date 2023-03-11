@@ -1,0 +1,92 @@
+<image>
+  <image-id>2351393</image-id>
+  <coco-id>138347</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2468100</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>861035</subject>
+      <object>861039</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2468101</relationship_id>
+      <predicate>under</predicate>
+      <subject>3897581</subject>
+      <object>861041</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4405138</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3897580</subject>
+      <object>3897581</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4405137</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3897581</subject>
+      <object>3897580</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bent</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>45</h>
+      <object_id>861035</object_id>
+      <w>42</w>
+      <y>227</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>18</h>
+      <object_id>861039</object_id>
+      <w>14</w>
+      <y>232</y>
+      <x>160</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in background</attribute>
+      </attributes>
+      <h>64</h>
+      <object_id>3897581</object_id>
+      <w>400</w>
+      <y>172</y>
+      <x>12</x>
+      <name>hill</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>75</h>
+      <object_id>861041</object_id>
+      <w>111</w>
+      <y>23</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in front of the mountain</attribute>
+      </attributes>
+      <name>water</name>
+      <h>10</h>
+      <object_id>3897580</object_id>
+      <w>20</w>
+      <y>220</y>
+      <x>347</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption> A large grass field with a parking lot and several tethered animal balloons floating.</caption>
+      <caption>Several kites are flying in an open field. </caption>
+      <caption>A bunch of kites flying around a park, with a few people standing around.</caption>
+      <caption>a line of kites attached to some sticks fly over a grassy field</caption>
+      <caption>A variety of colorful kites hovering in the air</caption>
+    </captions>
+</image>

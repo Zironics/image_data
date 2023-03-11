@@ -1,0 +1,79 @@
+<image>
+  <image-id>2329019</image-id>
+  <coco-id>150746</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4141038</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3153635</subject>
+      <object>3153636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065795</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3009903</subject>
+      <object>3169500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141040</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>3009903</subject>
+      <object>3125987</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>158</h>
+      <object_id>3153635</object_id>
+      <w>155</w>
+      <y>167</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>266</h>
+      <object_id>3153636</object_id>
+      <w>321</w>
+      <y>103</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>102</h>
+      <object_id>3009903</object_id>
+      <w>325</w>
+      <y>37</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>tv</name>
+      <h>242</h>
+      <object_id>3169500</object_id>
+      <w>297</w>
+      <y>118</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+      </attributes>
+      <h>256</h>
+      <object_id>3125987</object_id>
+      <w>307</w>
+      <y>118</y>
+      <x>60</x>
+      <name>television</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>cat lays on top of television while owner takes a picture</caption>
+      <caption>A cat sleeping on top of the television with the television on.</caption>
+      <caption>Large tabby cat laying on top of television set.</caption>
+      <caption>A adult cat is sitting on top of a tv set</caption>
+      <caption>An orange cat sleeping on top of a TV set.</caption>
+    </captions>
+</image>

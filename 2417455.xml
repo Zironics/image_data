@@ -1,0 +1,37 @@
+<image>
+  <image-id>2417455</image-id>
+  <coco-id>329455</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255715</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3792469</subject>
+      <object>2944413</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>state</name>
+      <h>18</h>
+      <object_id>3792469</object_id>
+      <w>49</w>
+      <y>61</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>156</h>
+      <object_id>2944413</object_id>
+      <w>167</w>
+      <y>2</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A very large pizza on a wooden table .</caption>
+      <caption>A giant pizza sitting on top of a large cutting board.</caption>
+      <caption>a cutting board covered with a big pepperoni pizza </caption>
+      <caption>A square-shaped pizza on a wooden board near white plates.</caption>
+      <caption>Some people sitting at a table with a large oval shaped pizza.</caption>
+    </captions>
+</image>

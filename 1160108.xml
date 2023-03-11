@@ -1,0 +1,207 @@
+<image>
+  <image-id>1160108</image-id>
+  <coco-id>507937</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3204680</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1077533</subject>
+      <object>1077531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204681</relationship_id>
+      <predicate>across from</predicate>
+      <subject>1077531</subject>
+      <object>1077537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204682</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1077534</subject>
+      <object>1077531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204683</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1077538</subject>
+      <object>1077539</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204684</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1077539</subject>
+      <object>1077531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204685</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1077539</subject>
+      <object>1077535</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204686</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1077531</subject>
+      <object>1077539</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204687</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1077533</subject>
+      <object>1077531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204688</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1077540</subject>
+      <object>1077531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204689</relationship_id>
+      <predicate>near</predicate>
+      <subject>1077539</subject>
+      <object>1077531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204690</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1077531</subject>
+      <object>1077535</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204691</relationship_id>
+      <predicate>above</predicate>
+      <subject>1077532</subject>
+      <object>1077531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204692</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1077544</subject>
+      <object>1077531</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>headlight</name>
+      <h>31</h>
+      <object_id>1077533</object_id>
+      <w>36</w>
+      <y>524</y>
+      <x>564</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>258</h>
+      <object_id>1077531</object_id>
+      <w>353</w>
+      <y>353</y>
+      <x>276</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>road barrier</name>
+      <h>73</h>
+      <object_id>1077537</object_id>
+      <w>322</w>
+      <y>479</y>
+      <x>699</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bumper</name>
+      <h>57</h>
+      <object_id>1077534</object_id>
+      <w>231</w>
+      <y>540</y>
+      <x>383</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>25</h>
+      <object_id>1077538</object_id>
+      <w>25</w>
+      <y>446</y>
+      <x>117</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>man</name>
+      <h>134</h>
+      <object_id>1077539</object_id>
+      <w>65</w>
+      <y>446</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>street light</name>
+      <h>540</h>
+      <object_id>1077535</object_id>
+      <w>161</w>
+      <y>1</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>skinny</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>windshield wipers</name>
+      <h>73</h>
+      <object_id>1077540</object_id>
+      <w>124</w>
+      <y>445</y>
+      <x>436</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>bright</attribute>
+        <attribute>clear</attribute>
+        <attribute>light</attribute>
+        <attribute>sunny</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>316</h>
+      <object_id>1077532</object_id>
+      <w>983</w>
+      <y>4</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>driver</name>
+      <h>49</h>
+      <object_id>1077544</object_id>
+      <w>59</w>
+      <y>424</y>
+      <x>515</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>White and green bus moving with traffic on the street.</caption>
+      <caption>A white and green bus driving down a street next to a sidewalk.</caption>
+      <caption>A bus driving down a street, with a pedestrian on the sidewalk next to it</caption>
+      <caption>The city bus is traveling down a almost empty street. </caption>
+      <caption>A green and white bus  and a man walking a sidewalk</caption>
+    </captions>
+</image>

@@ -1,0 +1,73 @@
+<image>
+  <image-id>285685</image-id>
+  <coco-id>357004</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4046551</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1568717</subject>
+      <object>3603724</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3822630</relationship_id>
+      <predicate>under</predicate>
+      <subject>1568719</subject>
+      <object>3603724</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261751</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1568720</subject>
+      <object>3796018</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bear</name>
+      <h>330</h>
+      <object_id>1568717</object_id>
+      <w>353</w>
+      <y>97</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>616</h>
+      <object_id>3603724</object_id>
+      <w>708</w>
+      <y>278</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>261</h>
+      <object_id>1568719</object_id>
+      <w>403</w>
+      <y>831</y>
+      <x>381</x>
+    </object>
+    <object>
+      <name>paper</name>
+      <h>202</h>
+      <object_id>1568720</object_id>
+      <w>138</w>
+      <y>780</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>816</h>
+      <object_id>3796018</object_id>
+      <w>921</w>
+      <y>462</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A teddy bear sits in a derby car under which another teddy bear is pinned.</caption>
+      <caption>Various dolls are humorously placed on the ground.</caption>
+      <caption>a little Teddy Bear is sitting behind the wheel of a toy race car, while a little grey teddy bear is under the nose of the toy car.</caption>
+      <caption>Teddy Bears are all around a teddy bear in a toy car.</caption>
+      <caption>A stuffed teddy bear in a car running over another stuffed teddy bear</caption>
+    </captions>
+</image>

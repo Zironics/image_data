@@ -1,0 +1,87 @@
+<image>
+  <image-id>2334676</image-id>
+  <coco-id>269866</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3997055</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3675551</subject>
+      <object>2125738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4452866</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3334802</subject>
+      <object>3026333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3907451</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2183551</subject>
+      <object>3026333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3682048</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3026332</subject>
+      <object>3026333</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>10:14</name>
+      <h>20</h>
+      <object_id>3675551</object_id>
+      <w>38</w>
+      <y>50</y>
+      <x>351</x>
+    </object>
+    <object>
+      <name>microwave</name>
+      <h>242</h>
+      <object_id>2125738</object_id>
+      <w>306</w>
+      <y>40</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>85</h>
+      <object_id>3334802</object_id>
+      <w>230</w>
+      <y>204</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>microwave</name>
+      <h>270</h>
+      <object_id>3026333</object_id>
+      <w>334</w>
+      <y>36</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>160</h>
+      <object_id>2183551</object_id>
+      <w>203</w>
+      <y>76</y>
+      <x>106</x>
+    </object>
+    <object>
+      <name>buttons</name>
+      <h>131</h>
+      <object_id>3026332</object_id>
+      <w>66</w>
+      <y>80</y>
+      <x>321</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A microwave oven with a tray on the bottom</caption>
+      <caption>A microwave oven sitting on a granite countertop.</caption>
+      <caption>the microwave is closed the clock on it is at 10:14</caption>
+      <caption>a microwave oven sits on top of a granite counter </caption>
+      <caption>Chrome colored toaster oven with time on 10.14</caption>
+    </captions>
+</image>

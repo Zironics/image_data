@@ -1,0 +1,57 @@
+<image>
+  <image-id>2378993</image-id>
+  <coco-id>385929</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1369546</relationship_id>
+      <predicate>ON</predicate>
+      <subject>555855</subject>
+      <object>555856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1369547</relationship_id>
+      <predicate>ON</predicate>
+      <subject>555857</subject>
+      <object>555856</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>blue</attribute>
+        <attribute>sail</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>141</h>
+      <object_id>555855</object_id>
+      <w>237</w>
+      <y>186</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>185</h>
+      <object_id>555856</object_id>
+      <w>398</w>
+      <y>147</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>48</h>
+      <object_id>555857</object_id>
+      <w>144</w>
+      <y>210</y>
+      <x>154</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Four boats grounded because of low tide. </caption>
+      <caption>Several sail boats laying on a muddy beach with men working.</caption>
+      <caption>There are four small boats on the beach.</caption>
+      <caption>Boats sit on the dirt where water once sat.</caption>
+      <caption>Man and boats on the sand in low tide.</caption>
+    </captions>
+</image>

@@ -1,0 +1,76 @@
+<image>
+  <image-id>2338513</image-id>
+  <coco-id>490529</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459828</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2809741</subject>
+      <object>2809740</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459829</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2809742</subject>
+      <object>2809740</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061521</relationship_id>
+      <predicate>outside</predicate>
+      <subject>3461613</subject>
+      <object>3461614</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tile</name>
+      <h>22</h>
+      <object_id>2809741</object_id>
+      <w>89</w>
+      <y>278</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiled</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>135</h>
+      <object_id>2809740</object_id>
+      <w>120</w>
+      <y>236</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>tile</name>
+      <h>19</h>
+      <object_id>2809742</object_id>
+      <w>65</w>
+      <y>263</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>parking meter</name>
+      <h>47</h>
+      <object_id>3461613</object_id>
+      <w>26</w>
+      <y>95</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>174</h>
+      <object_id>3461614</object_id>
+      <w>79</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in pink looking at her phone</caption>
+      <caption>A woman holding a cell phone looking at it.</caption>
+      <caption>The woman in a pink sweater looks into her phone.</caption>
+      <caption>A beautiful woman in a pink sweater using a smart phone.</caption>
+      <caption>a person in a foyer holding  and looking at a cellular phone.</caption>
+    </captions>
+</image>

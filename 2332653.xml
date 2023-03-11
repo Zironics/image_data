@@ -1,0 +1,62 @@
+<image>
+  <image-id>2332653</image-id>
+  <coco-id>64359</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4820250</relationship_id>
+      <predicate>sitting next to</predicate>
+      <subject>4647458</subject>
+      <object>4647459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4820251</relationship_id>
+      <predicate>scattered with</predicate>
+      <subject>4647460</subject>
+      <object>4647461</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rock wall</name>
+      <h>160</h>
+      <object_id>4647458</object_id>
+      <w>196</w>
+      <y>7</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>74</h>
+      <object_id>4647459</object_id>
+      <w>314</w>
+      <y>85</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>183</h>
+      <object_id>4647460</object_id>
+      <w>494</w>
+      <y>145</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>178</h>
+      <object_id>4647461</object_id>
+      <w>470</w>
+      <y>153</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Three zebra and four giraffe inside a fenced area.</caption>
+      <caption>Four giraffes standing around while three zebras walk by.</caption>
+      <caption>a group of zebras staning in line next to some trees </caption>
+      <caption>Some zoo animals are walking and having fun in the zoo. </caption>
+      <caption>Zebras and giraffes together in a zoo cage.</caption>
+    </captions>
+</image>

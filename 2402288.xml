@@ -1,0 +1,105 @@
+<image>
+  <image-id>2402288</image-id>
+  <coco-id>67655</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3278174</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1138003</subject>
+      <object>1138004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3278178</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1138003</subject>
+      <object>1138004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>787615</relationship_id>
+      <predicate>IN</predicate>
+      <subject>391014</subject>
+      <object>391015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>787616</relationship_id>
+      <predicate>IN</predicate>
+      <subject>391016</subject>
+      <object>391017</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3278215</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1138003</subject>
+      <object>1138004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>787690</relationship_id>
+      <predicate>IN</predicate>
+      <subject>391016</subject>
+      <object>391017</object>
+    </relationship>
+    <relationship>
+      <relationship_id>787689</relationship_id>
+      <predicate>IN</predicate>
+      <subject>391014</subject>
+      <object>391015</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>large billboard</name>
+      <h>39</h>
+      <object_id>1138003</object_id>
+      <w>41</w>
+      <y>23</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>39</h>
+      <object_id>1138004</object_id>
+      <w>42</w>
+      <y>27</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>119</h>
+      <object_id>391014</object_id>
+      <w>73</w>
+      <y>103</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>white</name>
+      <h>90</h>
+      <object_id>391015</object_id>
+      <w>65</w>
+      <y>124</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>97</h>
+      <object_id>391016</object_id>
+      <w>62</w>
+      <y>113</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>white</name>
+      <h>84</h>
+      <object_id>391017</object_id>
+      <w>48</w>
+      <y>132</y>
+      <x>293</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are sitting on the couches and chairs while they converse.</caption>
+      <caption>A diverse group of people is having a conversation.</caption>
+      <caption>A big drawing room where five persons of different nationality are busy in discussion.</caption>
+      <caption>A business meeting happening in the living room.</caption>
+      <caption>A couple of men sitting next to each other in chairs.</caption>
+    </captions>
+</image>

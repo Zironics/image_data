@@ -1,0 +1,115 @@
+<image>
+  <image-id>2382109</image-id>
+  <coco-id>411751</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3583829</relationship_id>
+      <predicate>has</predicate>
+      <subject>1330956</subject>
+      <object>1330962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583830</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1330956</subject>
+      <object>1330962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583831</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1330956</subject>
+      <object>1330961</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583832</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1330956</subject>
+      <object>1330963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583833</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>1330955</subject>
+      <object>1330956</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583834</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1330956</subject>
+      <object>1330962</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>low</attribute>
+        <attribute>skiing</attribute>
+        <attribute>learning</attribute>
+        <attribute>going downhill</attribute>
+      </attributes>
+      <name>skier</name>
+      <h>108</h>
+      <object_id>1330956</object_id>
+      <w>135</w>
+      <y>128</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dragging</attribute>
+      </attributes>
+      <name>poles</name>
+      <h>75</h>
+      <object_id>1330962</object_id>
+      <w>71</w>
+      <y>131</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>61</h>
+      <object_id>1330961</object_id>
+      <w>51</w>
+      <y>176</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>coat</name>
+      <h>64</h>
+      <object_id>1330963</object_id>
+      <w>72</w>
+      <y>136</y>
+      <x>236</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shadowy</attribute>
+        <attribute>green</attribute>
+        <attribute>covered</attribute>
+        <attribute>shadowed</attribute>
+        <attribute>small</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>267</h>
+      <object_id>1330955</object_id>
+      <w>492</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skier rides the slopes down a snowy hill</caption>
+      <caption>A man snow skiing down a steep snowy hill. </caption>
+      <caption>A skier leans back to make a sharp turn down a snowy mountain.</caption>
+      <caption>A snow skier makes a sharp turn on a mountain.</caption>
+      <caption>A skier wearing blue and black making his way down a hill.</caption>
+    </captions>
+</image>

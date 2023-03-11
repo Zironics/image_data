@@ -1,0 +1,198 @@
+<image>
+  <image-id>2388116</image-id>
+  <coco-id>545007</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1777718</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675444</subject>
+      <object>675445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777719</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675446</subject>
+      <object>675447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777720</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675445</subject>
+      <object>675448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777721</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675444</subject>
+      <object>675445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777722</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675445</subject>
+      <object>675446</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777723</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675444</subject>
+      <object>675445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777724</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675446</subject>
+      <object>675450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777725</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675446</subject>
+      <object>675452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777726</relationship_id>
+      <predicate>on a</predicate>
+      <subject>675446</subject>
+      <object>675454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777727</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675446</subject>
+      <object>675455</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777728</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675445</subject>
+      <object>675446</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777729</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675446</subject>
+      <object>675447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777730</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675445</subject>
+      <object>675447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1777731</relationship_id>
+      <predicate>has a</predicate>
+      <subject>675445</subject>
+      <object>675458</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tower</name>
+      <h>300</h>
+      <object_id>675444</object_id>
+      <w>233</w>
+      <y>199</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>137</h>
+      <object_id>675445</object_id>
+      <w>119</w>
+      <y>230</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>big</attribute>
+        <attribute>woman</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>statue</name>
+      <h>185</h>
+      <object_id>675446</object_id>
+      <w>102</w>
+      <y>23</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>12</h>
+      <object_id>675447</object_id>
+      <w>22</w>
+      <y>61</y>
+      <x>197</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>40</h>
+      <object_id>675448</object_id>
+      <w>50</w>
+      <y>290</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>30</h>
+      <object_id>675450</object_id>
+      <w>36</w>
+      <y>24</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>52</h>
+      <object_id>675452</object_id>
+      <w>29</w>
+      <y>58</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thick</attribute>
+        <attribute>decorative</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pillar</name>
+      <h>98</h>
+      <object_id>675454</object_id>
+      <w>162</w>
+      <y>401</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>globe</name>
+      <h>17</h>
+      <object_id>675455</object_id>
+      <w>26</w>
+      <y>34</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>210</h>
+      <object_id>675458</object_id>
+      <w>81</w>
+      <y>209</y>
+      <x>57</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A clock tower with a statue on top of it</caption>
+      <caption>A statue holding a glass light stands atop an old clock.</caption>
+      <caption>A clock with a statue of a woman on top.</caption>
+      <caption>a statue is standing on top of a clock on a pole</caption>
+      <caption>A statue holding a lamp on top of a clock.</caption>
+    </captions>
+</image>

@@ -1,0 +1,132 @@
+<image>
+  <image-id>2324648</image-id>
+  <coco-id>183988</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4572981</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4030815</subject>
+      <object>4030829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4572982</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4030832</subject>
+      <object>4030818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4572983</relationship_id>
+      <predicate>playing</predicate>
+      <subject>4030815</subject>
+      <object>4030835</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4572984</relationship_id>
+      <predicate>reflecting off</predicate>
+      <subject>4030844</subject>
+      <object>4030845</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4572985</relationship_id>
+      <predicate>lining</predicate>
+      <subject>4030848</subject>
+      <object>4030849</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>114</h>
+      <object_id>4030815</object_id>
+      <w>183</w>
+      <y>0</y>
+      <x>159</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>sweater</name>
+      <h>58</h>
+      <object_id>4030829</object_id>
+      <w>111</w>
+      <y>6</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cue ball</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>46</h>
+      <object_id>4030832</object_id>
+      <w>53</w>
+      <y>83</y>
+      <x>292</x>
+    </object>
+    <object>
+      <h>309</h>
+      <object_id>4030818</object_id>
+      <w>495</w>
+      <y>63</y>
+      <x>1</x>
+      <name>pool table</name>
+    </object>
+    <object>
+      <name>pool</name>
+      <h>293</h>
+      <object_id>4030835</object_id>
+      <w>490</w>
+      <y>79</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>19</h>
+      <object_id>4030844</object_id>
+      <w>17</w>
+      <y>269</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>Solid red </attribute>
+        <attribute>pool ball</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>104</h>
+      <object_id>4030845</object_id>
+      <w>182</w>
+      <y>269</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>cushion</name>
+      <h>19</h>
+      <object_id>4030848</object_id>
+      <w>109</w>
+      <y>82</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>table's</attribute>
+      </attributes>
+      <name>interior</name>
+      <h>180</h>
+      <object_id>4030849</object_id>
+      <w>465</w>
+      <y>114</y>
+      <x>22</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person holding a pool Q on top of a pool table.</caption>
+      <caption>A close-up photo of a pool table with a man playing.</caption>
+      <caption>a man getting ready to shoot a game of pool</caption>
+      <caption>Someone is lining up the cue ball on the pool table.</caption>
+      <caption>a close up of a player on a pool table </caption>
+    </captions>
+</image>

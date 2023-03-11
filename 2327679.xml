@@ -1,0 +1,88 @@
+<image>
+  <image-id>2327679</image-id>
+  <coco-id>356015</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4028447</relationship_id>
+      <predicate>plays</predicate>
+      <subject>2999923</subject>
+      <object>3687810</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4028449</relationship_id>
+      <predicate>has</predicate>
+      <subject>2808654</subject>
+      <object>2808657</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4028450</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3239556</subject>
+      <object>3239557</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>men</name>
+      <h>183</h>
+      <object_id>2999923</object_id>
+      <w>380</w>
+      <y>120</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>polo</name>
+      <h>176</h>
+      <object_id>3687810</object_id>
+      <w>437</w>
+      <y>111</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown horse</name>
+      <h>131</h>
+      <object_id>2808654</object_id>
+      <w>85</w>
+      <y>149</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>face</name>
+      <h>46</h>
+      <object_id>2808657</object_id>
+      <w>33</w>
+      <y>149</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>112</h>
+      <object_id>3239556</object_id>
+      <w>67</w>
+      <y>120</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>141</h>
+      <object_id>3239557</object_id>
+      <w>56</w>
+      <y>141</y>
+      <x>221</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people who are on the backs of horses.</caption>
+      <caption>A group of men on top of horses playing a game of polo.</caption>
+      <caption>Several people riding horses playing polo in the dirt.</caption>
+      <caption>Men playing polo on horses at the goal post
+</caption>
+      <caption>The men on horses are playing a game of polo.</caption>
+    </captions>
+</image>

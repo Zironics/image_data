@@ -1,0 +1,68 @@
+<image>
+  <image-id>2337282</image-id>
+  <coco-id>376811</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4080658</relationship_id>
+      <predicate>with</predicate>
+      <subject>2600617</subject>
+      <object>3708734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462314</relationship_id>
+      <predicate>roadside</predicate>
+      <subject>2074044</subject>
+      <object>2074044</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080659</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2171675</subject>
+      <object>2171675</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sidewalk</name>
+      <h>271</h>
+      <object_id>2600617</object_id>
+      <w>340</w>
+      <y>9</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>blocks</name>
+      <h>152</h>
+      <object_id>3708734</object_id>
+      <w>51</w>
+      <y>10</y>
+      <x>10</x>
+    </object>
+    <object>
+      <h>501</h>
+      <object_id>2074044</object_id>
+      <w>285</w>
+      <y>0</y>
+      <x>28</x>
+      <name>fire hydrant</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>asphalt</name>
+      <h>62</h>
+      <object_id>2171675</object_id>
+      <w>34</w>
+      <y>7</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green fire hydrant with white accents on a sidewalk.</caption>
+      <caption>A rusty fire hydrant on the sidewalk outside.</caption>
+      <caption>A picture of a green and white fire hydrant on the corner.</caption>
+      <caption>a green and white fire hydrant sitting on the sidewalk </caption>
+      <caption>An old fire hydrant with a white top and green body sitting on top of a broken cement road.</caption>
+    </captions>
+</image>

@@ -1,0 +1,85 @@
+<image>
+  <image-id>2401109</image-id>
+  <coco-id>156410</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1728284</relationship_id>
+      <predicate>ON</predicate>
+      <subject>659917</subject>
+      <object>659914</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1728285</relationship_id>
+      <predicate>IN</predicate>
+      <subject>659916</subject>
+      <object>659915</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>white</attribute>
+        <attribute>roman</attribute>
+        <attribute>gold</attribute>
+        <attribute>ornate</attribute>
+        <attribute>big ben</attribute>
+        <attribute>brown</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>77</h>
+      <object_id>659917</object_id>
+      <w>85</w>
+      <y>360</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+        <attribute>pointy</attribute>
+        <attribute>grey</attribute>
+        <attribute>blue</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>333</h>
+      <object_id>659914</object_id>
+      <w>192</w>
+      <y>99</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>32</h>
+      <object_id>659916</object_id>
+      <w>34</w>
+      <y>92</y>
+      <x>329</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>grey</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>67</h>
+      <object_id>659915</object_id>
+      <w>99</w>
+      <y>23</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The infamous Big Ben clock tower with a bird flying over it.</caption>
+      <caption>A large clock  tower stands high above a town.</caption>
+      <caption>A bird flies past a tall clock tower.</caption>
+      <caption>a brown steeple with two large white clocks and a bird</caption>
+      <caption>A sky view of a bird flying past a large clock tower.</caption>
+    </captions>
+</image>

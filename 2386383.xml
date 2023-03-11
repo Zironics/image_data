@@ -1,0 +1,72 @@
+<image>
+  <image-id>2386383</image-id>
+  <coco-id>136501</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1249146</relationship_id>
+      <predicate>ON</predicate>
+      <subject>518653</subject>
+      <object>518654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1249147</relationship_id>
+      <predicate>has</predicate>
+      <subject>518646</subject>
+      <object>518645</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dirt</name>
+      <h>21</h>
+      <object_id>518653</object_id>
+      <w>12</w>
+      <y>56</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+      </attributes>
+      <name>field</name>
+      <h>101</h>
+      <object_id>518654</object_id>
+      <w>98</w>
+      <y>59</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+        <attribute>base</attribute>
+      </attributes>
+      <name>man</name>
+      <h>475</h>
+      <object_id>518646</object_id>
+      <w>239</w>
+      <y>20</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>66</h>
+      <object_id>518645</object_id>
+      <w>141</w>
+      <y>265</y>
+      <x>60</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player with one leg kicked up preparing to throw a ball</caption>
+      <caption>A baseball player winding up for a pitch.</caption>
+      <caption>A baseball player prepares to throw the ball.</caption>
+      <caption>A man is leaning back to throw a ball</caption>
+      <caption>A male baseball player is preparing to throw the ball</caption>
+    </captions>
+</image>

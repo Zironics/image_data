@@ -1,0 +1,71 @@
+<image>
+  <image-id>2415880</image-id>
+  <coco-id>161545</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3177014</relationship_id>
+      <predicate>blends with</predicate>
+      <subject>1056488</subject>
+      <object>1056487</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3177015</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1056486</subject>
+      <object>1056488</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>string</name>
+      <h>56</h>
+      <object_id>1056488</object_id>
+      <w>91</w>
+      <y>232</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>stormy</attribute>
+        <attribute>lighter</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>282</h>
+      <object_id>1056487</object_id>
+      <w>496</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>blue</attribute>
+        <attribute>flying</attribute>
+        <attribute>diamond shaped</attribute>
+        <attribute>winged</attribute>
+        <attribute>tipped</attribute>
+        <attribute>pyramid shaped</attribute>
+        <attribute>parallel</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>243</h>
+      <object_id>1056486</object_id>
+      <w>267</w>
+      <y>28</y>
+      <x>192</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red and blue kite floats in the sky.</caption>
+      <caption>A colorful kite with streamers being flown in the sky.</caption>
+      <caption>A large kite with streamers floating in the sky.</caption>
+      <caption>A kite with a tail flying high in the sky.</caption>
+      <caption>A red and blue kite is flying high.</caption>
+    </captions>
+</image>

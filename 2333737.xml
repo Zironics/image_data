@@ -1,0 +1,86 @@
+<image>
+  <image-id>2333737</image-id>
+  <coco-id>150650</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4828603</relationship_id>
+      <predicate>jumping on</predicate>
+      <subject>4668500</subject>
+      <object>4668501</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821449</relationship_id>
+      <predicate>has</predicate>
+      <subject>4668500</subject>
+      <object>4650436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4816308</relationship_id>
+      <predicate>riding in front of</predicate>
+      <subject>4668500</subject>
+      <object>4637929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4816309</relationship_id>
+      <predicate>riding under</predicate>
+      <subject>4668500</subject>
+      <object>4668499</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>93</h>
+      <object_id>4668500</object_id>
+      <w>114</w>
+      <y>218</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>63</h>
+      <object_id>4668501</object_id>
+      <w>13</w>
+      <y>272</y>
+      <x>408</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>32</h>
+      <object_id>4650436</object_id>
+      <w>52</w>
+      <y>229</y>
+      <x>386</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>16</h>
+      <object_id>4637929</object_id>
+      <w>103</w>
+      <y>426</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>413</h>
+      <object_id>4668499</object_id>
+      <w>468</w>
+      <y>18</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skateboarder doing a trick with his board flipping.</caption>
+      <caption>Someone doing a trick off of some steps at a skate park</caption>
+      <caption>A skateboarder performing a jumping trick on a wall.</caption>
+      <caption>a man on a skate board does a trick in the air </caption>
+      <caption>A boy doing tricks on a skateboard on a wall. </caption>
+    </captions>
+</image>

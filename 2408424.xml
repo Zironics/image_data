@@ -1,0 +1,56 @@
+<image>
+  <image-id>2408424</image-id>
+  <coco-id>288586</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4586310</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4062899</subject>
+      <object>4062886</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4586311</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4062899</subject>
+      <object>4062887</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wet</attribute>
+        <attribute>in</attribute>
+      </attributes>
+      <h>197</h>
+      <object_id>4062899</object_id>
+      <w>323</w>
+      <y>64</y>
+      <x>49</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>82</h>
+      <object_id>4062886</object_id>
+      <w>70</w>
+      <y>248</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>81</h>
+      <object_id>4062887</object_id>
+      <w>101</w>
+      <y>241</y>
+      <x>373</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A  large grizzly bear wading through a river.</caption>
+      <caption>A brown bear walking across a moving river.</caption>
+      <caption>a brown bear is walking in some water</caption>
+      <caption>A large grizzly bear wading in a stream.</caption>
+      <caption>A wet grizzly bear walking through shallow water</caption>
+    </captions>
+</image>

@@ -1,0 +1,105 @@
+<image>
+  <image-id>2354185</image-id>
+  <coco-id>120021</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3752963</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2607019</subject>
+      <object>2003440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4400918</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>2507641</subject>
+      <object>2003440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3752964</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2292650</subject>
+      <object>2292651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3752967</relationship_id>
+      <predicate>with</predicate>
+      <subject>3574386</subject>
+      <object>1841390</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>front wheel</name>
+      <h>117</h>
+      <object_id>2607019</object_id>
+      <w>128</w>
+      <y>164</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>252</h>
+      <object_id>2003440</object_id>
+      <w>499</w>
+      <y>45</y>
+      <x>0</x>
+      <name>black motorcycle</name>
+    </object>
+    <object>
+      <h>76</h>
+      <object_id>2507641</object_id>
+      <w>59</w>
+      <y>166</y>
+      <x>356</x>
+      <name>absorption</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>92</h>
+      <object_id>2292650</object_id>
+      <w>50</w>
+      <y>0</y>
+      <x>215</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beige</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>90</h>
+      <object_id>2292651</object_id>
+      <w>51</w>
+      <y>4</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>32</h>
+      <object_id>3574386</object_id>
+      <w>55</w>
+      <y>50</y>
+      <x>131</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jean</name>
+      <h>102</h>
+      <object_id>1841390</object_id>
+      <w>60</w>
+      <y>7</y>
+      <x>136</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motorcycle with a red seat is on top of a stand. </caption>
+      <caption>a motorcycle with a red seat up on a red jack</caption>
+      <caption>A motorcycle is raised on a jack inside a house.</caption>
+      <caption>A motorcycle with red seat sits parked in a garage.</caption>
+      <caption>People looking at a motorcycle that is on display. 
+</caption>
+    </captions>
+</image>

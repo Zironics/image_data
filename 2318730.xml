@@ -1,0 +1,79 @@
+<image>
+  <image-id>2318730</image-id>
+  <coco-id>374185</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3009335</relationship_id>
+      <predicate>has</predicate>
+      <subject>1007670</subject>
+      <object>1007671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3009336</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1007672</subject>
+      <object>1007673</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3009337</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1007672</subject>
+      <object>1007673</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3009338</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1007672</subject>
+      <object>1007673</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>123</h>
+      <object_id>1007670</object_id>
+      <w>30</w>
+      <y>356</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>25</h>
+      <object_id>1007671</object_id>
+      <w>18</w>
+      <y>388</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>38</h>
+      <object_id>1007672</object_id>
+      <w>29</w>
+      <y>44</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>clera</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>41</h>
+      <object_id>1007673</object_id>
+      <w>34</w>
+      <y>51</y>
+      <x>254</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The boy is flying his kite high in the sky on the beach.</caption>
+      <caption>A little boy in the sand flying a kite.</caption>
+      <caption>a lady that is on a beach with a kite</caption>
+      <caption>A man standing on top of a sandy beach.</caption>
+      <caption>The person is flying a kite with two strings.</caption>
+    </captions>
+</image>

@@ -1,0 +1,83 @@
+<image>
+  <image-id>2378693</image-id>
+  <coco-id>169309</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1378049</relationship_id>
+      <predicate>on a</predicate>
+      <subject>558150</subject>
+      <object>558151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1378050</relationship_id>
+      <predicate>with</predicate>
+      <subject>558146</subject>
+      <object>558149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1378053</relationship_id>
+      <predicate>has</predicate>
+      <subject>558146</subject>
+      <object>558149</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>metal tray</name>
+      <h>181</h>
+      <object_id>558150</object_id>
+      <w>493</w>
+      <y>191</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>table</name>
+      <h>301</h>
+      <object_id>558151</object_id>
+      <w>493</w>
+      <y>73</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>blue</attribute>
+        <attribute>decorated</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>258</h>
+      <object_id>558146</object_id>
+      <w>408</w>
+      <y>71</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>white</attribute>
+        <attribute>rectangle</attribute>
+      </attributes>
+      <name>fondant</name>
+      <h>87</h>
+      <object_id>558149</object_id>
+      <w>276</w>
+      <y>1</y>
+      <x>133</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue cake with the words " Central Park " frosted on it's side.</caption>
+      <caption>A blue cake that has a depiction of Central Park on the front of it.</caption>
+      <caption>A round blue cake decorated with a sign that reads "Central Park".</caption>
+      <caption>this is a very unique cake of central park</caption>
+      <caption>A picture of a cake that has been placed on a table.</caption>
+    </captions>
+</image>

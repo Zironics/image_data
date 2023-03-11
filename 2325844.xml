@@ -1,0 +1,79 @@
+<image>
+  <image-id>2325844</image-id>
+  <coco-id>336330</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3678639</relationship_id>
+      <predicate>biking on</predicate>
+      <subject>3052546</subject>
+      <object>3052548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3678640</relationship_id>
+      <predicate>biking on</predicate>
+      <subject>3052547</subject>
+      <object>3052548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3678648</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3163779</subject>
+      <object>3163780</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>43</h>
+      <object_id>3052546</object_id>
+      <w>28</w>
+      <y>251</y>
+      <x>193</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>192</h>
+      <object_id>3052548</object_id>
+      <w>373</w>
+      <y>306</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>49</h>
+      <object_id>3052547</object_id>
+      <w>28</w>
+      <y>243</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>169</h>
+      <object_id>3163779</object_id>
+      <w>344</w>
+      <y>22</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow sky</name>
+      <h>225</h>
+      <object_id>3163780</object_id>
+      <w>372</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of men riding bikes on top of a sandy beach.</caption>
+      <caption>Two bicyclists pedal down the beach at sunset.</caption>
+      <caption>Two people cycling at the beach at sunset</caption>
+      <caption>Two people ride their bikes on the beach at sunset.</caption>
+      <caption>two people are riding their bikes on the beach</caption>
+    </captions>
+</image>

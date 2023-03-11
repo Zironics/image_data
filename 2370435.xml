@@ -1,0 +1,186 @@
+<image>
+  <image-id>2370435</image-id>
+  <coco-id>456076</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4325144</relationship_id>
+      <predicate>upright</predicate>
+      <subject>2327322</subject>
+      <object>2327321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325146</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2327322</subject>
+      <object>2327321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325187</relationship_id>
+      <predicate>with</predicate>
+      <subject>1775985</subject>
+      <object>1775986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325188</relationship_id>
+      <predicate>on top</predicate>
+      <subject>1775986</subject>
+      <object>1775985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325189</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3858663</subject>
+      <object>2215626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325190</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1833759</subject>
+      <object>1833760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325191</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3858664</subject>
+      <object>3858664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325192</relationship_id>
+      <predicate>on top</predicate>
+      <subject>3858664</subject>
+      <object>2452755</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325193</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2645072</subject>
+      <object>3858665</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bottle</name>
+      <h>31</h>
+      <object_id>2327322</object_id>
+      <w>13</w>
+      <y>167</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+        <attribute>triangular tip</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>30</h>
+      <object_id>2327321</object_id>
+      <w>13</w>
+      <y>168</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> paper towel </attribute>
+      </attributes>
+      <name>towel dispenser</name>
+      <h>50</h>
+      <object_id>1775985</object_id>
+      <w>51</w>
+      <y>36</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>supplies</name>
+      <h>26</h>
+      <object_id>1775986</object_id>
+      <w>48</w>
+      <y>15</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>dryer</name>
+      <h>79</h>
+      <object_id>3858663</object_id>
+      <w>79</w>
+      <y>79</y>
+      <x>233</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver hand</attribute>
+        <attribute>black </attribute>
+      </attributes>
+      <name>wall</name>
+      <h>355</h>
+      <object_id>2215626</object_id>
+      <w>159</w>
+      <y>2</y>
+      <x>213</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>white toilet</name>
+      <h>130</h>
+      <object_id>1833759</object_id>
+      <w>82</w>
+      <y>180</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden </attribute>
+      </attributes>
+      <name>wooden stool</name>
+      <h>51</h>
+      <object_id>1833760</object_id>
+      <w>37</w>
+      <y>445</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>31</h>
+      <object_id>3858664</object_id>
+      <w>29</w>
+      <y>147</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>11</h>
+      <object_id>2452755</object_id>
+      <w>43</w>
+      <y>166</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal </attribute>
+      </attributes>
+      <name>sink</name>
+      <h>133</h>
+      <object_id>2645072</object_id>
+      <w>90</w>
+      <y>169</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>482</h>
+      <object_id>3858665</object_id>
+      <w>359</w>
+      <y>4</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A room with a toilet and medical equipment.</caption>
+      <caption>A bathroom with wooden steps and old furnishings</caption>
+      <caption>An elevated toilet and sink in a cramped bathroom.</caption>
+      <caption>a bathroom that has a toilet and a mirror</caption>
+      <caption>A bathroom that has stairs leading up to the toilet.</caption>
+    </captions>
+</image>

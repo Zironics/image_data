@@ -1,0 +1,83 @@
+<image>
+  <image-id>2341132</image-id>
+  <coco-id>576354</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265799</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2175755</subject>
+      <object>3798490</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265800</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2175755</subject>
+      <object>3798490</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265801</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2147380</subject>
+      <object>2147382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265802</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2175755</subject>
+      <object>2147382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265803</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2175755</subject>
+      <object>3798490</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>157</h>
+      <object_id>2175755</object_id>
+      <w>230</w>
+      <y>5</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>284</h>
+      <object_id>3798490</object_id>
+      <w>422</w>
+      <y>4</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>250</h>
+      <object_id>2147380</object_id>
+      <w>83</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>260</h>
+      <object_id>2147382</object_id>
+      <w>499</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a black and white sign some trees fence and buildings</caption>
+      <caption>A large white museum entrance sign in front of a building.</caption>
+      <caption>A museum sign showing the main entrance and car park </caption>
+      <caption>A sign is partially obscured by a tree.</caption>
+      <caption>Two signs in front of a gate near a house. </caption>
+    </captions>
+</image>

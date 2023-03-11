@@ -1,0 +1,54 @@
+<image>
+  <image-id>2398735</image-id>
+  <coco-id>38662</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4686850</relationship_id>
+      <predicate>has</predicate>
+      <subject>4313859</subject>
+      <object>4313860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4686851</relationship_id>
+      <predicate>are on</predicate>
+      <subject>4313859</subject>
+      <object>4313866</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boat</name>
+      <h>316</h>
+      <object_id>4313859</object_id>
+      <w>281</w>
+      <y>16</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood </attribute>
+      </attributes>
+      <name>wood panels</name>
+      <h>295</h>
+      <object_id>4313860</object_id>
+      <w>251</w>
+      <y>35</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>shore</name>
+      <h>37</h>
+      <object_id>4313866</object_id>
+      <w>262</w>
+      <y>281</y>
+      <x>225</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The bow of a ship on land with another on the edge of the water.</caption>
+      <caption>The bottom of a rustic boat overlooks a brightly painted one.</caption>
+      <caption>The wooden bow of a ship with an out of focus boat in the back ground. </caption>
+      <caption>Two boats on shore near an ocean. </caption>
+      <caption>A close up of a front of a boat with another in the background.</caption>
+    </captions>
+</image>

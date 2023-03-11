@@ -1,0 +1,40 @@
+<image>
+  <image-id>2391165</image-id>
+  <coco-id>384875</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4683816</relationship_id>
+      <predicate>covering</predicate>
+      <subject>4305877</subject>
+      <object>4305882</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>50</h>
+      <object_id>4305877</object_id>
+      <w>481</w>
+      <y>50</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snow covered</attribute>
+      </attributes>
+      <name>mountain</name>
+      <h>64</h>
+      <object_id>4305882</object_id>
+      <w>482</w>
+      <y>48</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A line of wooly sheep walking on a path through the snow.</caption>
+      <caption>Three very woolly sheep walk through shoulder-deep snow. </caption>
+      <caption>A herd of sheep trekking through a  snow covered field.</caption>
+      <caption>some sheep are walking single file in some snow</caption>
+      <caption>a number of animals waling in tall snow</caption>
+    </captions>
+</image>

@@ -1,0 +1,43 @@
+<image>
+  <image-id>2327333</image-id>
+  <coco-id>373540</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4029972</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3295029</subject>
+      <object>3295031</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4029973</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3295029</subject>
+      <object>3295031</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>33</h>
+      <object_id>3295029</object_id>
+      <w>77</w>
+      <y>184</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>359</h>
+      <object_id>3295031</object_id>
+      <w>373</w>
+      <y>60</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown dog laying on a red blanket on bed.</caption>
+      <caption>A dog rests its head on top of a blanket.</caption>
+      <caption>A large dog napping on someone's bed during the day.</caption>
+      <caption>A brown dog almost asleep on a bed</caption>
+      <caption>A dog laying on a bed with its eyes closed.</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>2381347</image-id>
+  <coco-id>354729</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4589252</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4069760</subject>
+      <object>4069767</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589255</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4069766</subject>
+      <object>4069767</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589266</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4069791</subject>
+      <object>4069792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589267</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4069793</subject>
+      <object>4069794</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>paw</name>
+      <h>46</h>
+      <object_id>4069760</object_id>
+      <w>36</w>
+      <y>279</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>330</h>
+      <object_id>4069767</object_id>
+      <w>160</w>
+      <y>18</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>42</h>
+      <object_id>4069766</object_id>
+      <w>29</w>
+      <y>22</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>72</h>
+      <object_id>4069791</object_id>
+      <w>100</w>
+      <y>25</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>231</h>
+      <object_id>4069792</object_id>
+      <w>443</w>
+      <y>99</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>32</h>
+      <object_id>4069793</object_id>
+      <w>54</w>
+      <y>22</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>270</h>
+      <object_id>4069794</object_id>
+      <w>242</w>
+      <y>51</y>
+      <x>72</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beige colored dog jumps to catch a frisbee.</caption>
+      <caption>A dog with a Frisbee in its mouth is running toward the camera.</caption>
+      <caption>A dog is carrying a frisbee in his mouth</caption>
+      <caption>there is a dog in the field playing with a frisbee</caption>
+      <caption>A dog catching a frisbee in the air. </caption>
+    </captions>
+</image>

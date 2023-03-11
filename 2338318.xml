@@ -1,0 +1,103 @@
+<image>
+  <image-id>2338318</image-id>
+  <coco-id>128387</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2836349</relationship_id>
+      <predicate>has a</predicate>
+      <subject>954560</subject>
+      <object>954561</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2836350</relationship_id>
+      <predicate>on a</predicate>
+      <subject>954560</subject>
+      <object>954559</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2836351</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>954567</subject>
+      <object>954560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2836352</relationship_id>
+      <predicate>standing on a</predicate>
+      <subject>954560</subject>
+      <object>954559</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2836353</relationship_id>
+      <predicate>are around</predicate>
+      <subject>954566</subject>
+      <object>954559</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>440</h>
+      <object_id>954560</object_id>
+      <w>190</w>
+      <y>53</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>foot</name>
+      <h>46</h>
+      <object_id>954561</object_id>
+      <w>51</w>
+      <y>274</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thin</attribute>
+        <attribute>brown</attribute>
+        <attribute>dried</attribute>
+      </attributes>
+      <name>stick</name>
+      <h>224</h>
+      <object_id>954559</object_id>
+      <w>134</w>
+      <y>275</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>465</h>
+      <object_id>954567</object_id>
+      <w>331</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>talons</name>
+      <h>63</h>
+      <object_id>954566</object_id>
+      <w>30</w>
+      <y>319</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small red bird perched on a branch.</caption>
+      <caption>Large red and purple bird sits on end of branch in outdoor setting.</caption>
+      <caption>A parrot is perched on a plant stem.</caption>
+      <caption>A red parrot perched on a tree limb with trees in the background.</caption>
+      <caption>A colorful bird sitting on the end of a small branch</caption>
+    </captions>
+</image>

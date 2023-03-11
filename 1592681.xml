@@ -1,0 +1,82 @@
+<image>
+  <image-id>1592681</image-id>
+  <coco-id>286564</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4743430</relationship_id>
+      <predicate>on</predicate>
+      <subject>4449588</subject>
+      <object>4449589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743432</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4449593</subject>
+      <object>4449594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743433</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4449593</subject>
+      <object>4449596</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743434</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>4449593</subject>
+      <object>4449589</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cockpit</name>
+      <h>212</h>
+      <object_id>4449588</object_id>
+      <w>428</w>
+      <y>155</y>
+      <x>413</x>
+    </object>
+    <object>
+      <name>aircraft</name>
+      <h>363</h>
+      <object_id>4449589</object_id>
+      <w>843</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>201</h>
+      <object_id>4449593</object_id>
+      <w>67</w>
+      <y>330</y>
+      <x>931</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>44</h>
+      <object_id>4449594</object_id>
+      <w>46</w>
+      <y>330</y>
+      <x>951</x>
+    </object>
+    <object>
+      <name>camera</name>
+      <h>29</h>
+      <object_id>4449596</object_id>
+      <w>50</w>
+      <y>360</y>
+      <x>931</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plane at a museum with people walking around.</caption>
+      <caption>People stand in a museum and look at a large airplane.</caption>
+      <caption>A group of people walking around a hangar at an air museum.</caption>
+      <caption>A jet inside of a museum show room</caption>
+      <caption>Museum with people looking at airplanes on floor and ceiling.</caption>
+    </captions>
+</image>

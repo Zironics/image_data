@@ -1,0 +1,59 @@
+<image>
+  <image-id>2384628</image-id>
+  <coco-id>188520</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4579517</relationship_id>
+      <predicate>has</predicate>
+      <subject>4046724</subject>
+      <object>4046725</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579530</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4046754</subject>
+      <object>4046755</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ground</name>
+      <h>230</h>
+      <object_id>4046724</object_id>
+      <w>495</w>
+      <y>143</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>123</h>
+      <object_id>4046725</object_id>
+      <w>95</w>
+      <y>199</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>hoof</name>
+      <h>33</h>
+      <object_id>4046754</object_id>
+      <w>34</w>
+      <y>315</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>349</h>
+      <object_id>4046755</object_id>
+      <w>344</w>
+      <y>24</y>
+      <x>138</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra in a well-kept area walking during the day.</caption>
+      <caption>a zebra walking on a dirt surface next to rocks and a stone wall.</caption>
+      <caption>A zebra and giraffe in an enclosure with some rocks and trees.</caption>
+      <caption>a single zebra walking away from a giraffe </caption>
+      <caption>A zebra that is walking in an enclosure.</caption>
+    </captions>
+</image>

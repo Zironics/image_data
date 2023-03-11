@@ -1,0 +1,41 @@
+<image>
+  <image-id>2380044</image-id>
+  <coco-id>555549</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3608738</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1351359</subject>
+      <object>1351358</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vehicle</name>
+      <h>30</h>
+      <object_id>1351359</object_id>
+      <w>29</w>
+      <y>389</y>
+      <x>345</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>jeep</name>
+      <h>41</h>
+      <object_id>1351358</object_id>
+      <w>68</w>
+      <y>385</y>
+      <x>278</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Corner of 5th Ave. and E. 89th St.</caption>
+      <caption>A street corner that is the intersection for several streets.</caption>
+      <caption>many street signs on a street pole with trees in the background</caption>
+      <caption>A pole has street signs, direction signs, and traffic lights.</caption>
+      <caption>The street sign has four street names on it.</caption>
+    </captions>
+</image>

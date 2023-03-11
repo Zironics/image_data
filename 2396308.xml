@@ -1,0 +1,97 @@
+<image>
+  <image-id>2396308</image-id>
+  <coco-id>45314</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>989751</relationship_id>
+      <predicate>near</predicate>
+      <subject>445813</subject>
+      <object>445812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>989752</relationship_id>
+      <predicate>near</predicate>
+      <subject>445811</subject>
+      <object>445813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>989753</relationship_id>
+      <predicate>near</predicate>
+      <subject>445817</subject>
+      <object>445812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>989754</relationship_id>
+      <predicate>near</predicate>
+      <subject>445822</subject>
+      <object>445813</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>docked</attribute>
+      </attributes>
+      <name>boats</name>
+      <h>38</h>
+      <object_id>445813</object_id>
+      <w>384</w>
+      <y>153</y>
+      <x>59</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in fore</attribute>
+        <attribute>rippled</attribute>
+        <attribute>dark blue</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>120</h>
+      <object_id>445812</object_id>
+      <w>292</w>
+      <y>206</y>
+      <x>71</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in background</attribute>
+        <attribute>green</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>48</h>
+      <object_id>445811</object_id>
+      <w>143</w>
+      <y>102</y>
+      <x>290</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>houses</name>
+      <h>28</h>
+      <object_id>445817</object_id>
+      <w>117</w>
+      <y>133</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>pier</name>
+      <h>51</h>
+      <object_id>445822</object_id>
+      <w>64</w>
+      <y>153</y>
+      <x>435</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are ships docked on the city's waterfront.</caption>
+      <caption>A harbor filled with large boats floating on top of water.</caption>
+      <caption>Some boats on a lake in a marina.</caption>
+      <caption>A row of boats on water with city in the distance.</caption>
+      <caption>A couple of large boats in the water.</caption>
+    </captions>
+</image>

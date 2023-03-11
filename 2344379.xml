@@ -1,0 +1,44 @@
+<image>
+  <image-id>2344379</image-id>
+  <coco-id>68084</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3127056</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1043617</subject>
+      <object>1043618</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>closed</attribute>
+      </attributes>
+      <name>phone</name>
+      <h>126</h>
+      <object_id>1043617</object_id>
+      <w>383</w>
+      <y>284</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>189</h>
+      <object_id>1043618</object_id>
+      <w>461</w>
+      <y>270</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cell phone sits on a table near a blue glass.</caption>
+      <caption>A cell phone sitting on top of a wooden table next to a glass.</caption>
+      <caption>A cell phone on a table with a blue glass behind it.</caption>
+      <caption>A table with a cellphone and a blue glass of water.</caption>
+      <caption>A cellphone sitting on a table with a cup. </caption>
+    </captions>
+</image>

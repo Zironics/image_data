@@ -1,0 +1,89 @@
+<image>
+  <image-id>2385409</image-id>
+  <coco-id>176481</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3536452</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1297191</subject>
+      <object>1297192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3536453</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1297180</subject>
+      <object>1297192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3536454</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1297187</subject>
+      <object>1297192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3536455</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1297195</subject>
+      <object>1297192</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>glasses</name>
+      <h>47</h>
+      <object_id>1297191</object_id>
+      <w>69</w>
+      <y>143</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>cook</name>
+      <h>147</h>
+      <object_id>1297192</object_id>
+      <w>201</w>
+      <y>167</y>
+      <x>163</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>118</h>
+      <object_id>1297180</object_id>
+      <w>63</w>
+      <y>323</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>metallic</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>36</h>
+      <object_id>1297187</object_id>
+      <w>67</w>
+      <y>399</y>
+      <x>134</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>30</h>
+      <object_id>1297195</object_id>
+      <w>36</w>
+      <y>111</y>
+      <x>249</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A male cooking onions on a stove. </caption>
+      <caption>A man is preparing food in a deep fryer.</caption>
+      <caption>A chef in a red shirt and blue hat grilling onions.</caption>
+      <caption>some dude cheffin up dumb hard for his job</caption>
+      <caption>A man at work cooking with two utensils. </caption>
+    </captions>
+</image>

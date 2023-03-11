@@ -1,0 +1,90 @@
+<image>
+  <image-id>1592710</image-id>
+  <coco-id>454680</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4086454</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1612048</subject>
+      <object>1612049</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086455</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1612052</subject>
+      <object>3710907</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086456</relationship_id>
+      <predicate>at</predicate>
+      <subject>1612053</subject>
+      <object>1612054</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>traffic lights</name>
+      <h>168</h>
+      <object_id>1612048</object_id>
+      <w>131</w>
+      <y>167</y>
+      <x>498</x>
+    </object>
+    <object>
+      <name>metal post</name>
+      <h>168</h>
+      <object_id>1612049</object_id>
+      <w>1018</w>
+      <y>167</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>construction signs</name>
+      <h>89</h>
+      <object_id>1612052</object_id>
+      <w>109</w>
+      <y>762</y>
+      <x>707</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>53</h>
+      <object_id>3710907</object_id>
+      <w>221</w>
+      <y>800</y>
+      <x>407</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>at</attribute>
+      </attributes>
+      <name>cars</name>
+      <h>48</h>
+      <object_id>1612053</object_id>
+      <w>118</w>
+      <y>791</y>
+      <x>458</x>
+    </object>
+    <object>
+      <name>intersection</name>
+      <h>83</h>
+      <object_id>1612054</object_id>
+      <w>163</w>
+      <y>756</y>
+      <x>458</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two traffic lights near a street sign above a city street</caption>
+      <caption>A red traffic light hangs above a wide street with orange signs lining either side.</caption>
+      <caption>a blocked off road with some red lights and street signs </caption>
+      <caption>A street with two red lights hanging over a road</caption>
+      <caption>a blue and white street sign and two traffic lights and buildings</caption>
+    </captions>
+</image>

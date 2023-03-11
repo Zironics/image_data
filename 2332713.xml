@@ -1,0 +1,65 @@
+<image>
+  <image-id>2332713</image-id>
+  <coco-id>302997</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4679440</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4293853</subject>
+      <object>4647116</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4820124</relationship_id>
+      <predicate>on</predicate>
+      <subject>4647134</subject>
+      <object>4647135</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>some</attribute>
+      </attributes>
+      <name>fruit</name>
+      <h>216</h>
+      <object_id>4293853</object_id>
+      <w>145</w>
+      <y>24</y>
+      <x>165</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <h>482</h>
+      <object_id>4647116</object_id>
+      <w>187</w>
+      <y>0</y>
+      <x>129</x>
+      <name>plant</name>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>104</h>
+      <object_id>4647134</object_id>
+      <w>62</w>
+      <y>248</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>flower</name>
+      <h>77</h>
+      <object_id>4647135</object_id>
+      <w>87</w>
+      <y>357</y>
+      <x>158</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A flower hanging from a bunch or green bananas.</caption>
+      <caption>a flower with some plants on its stem </caption>
+      <caption>A plant with a purple flower and several unripe bananas.</caption>
+      <caption>a purple flower hanging upside down from a green stem with green plantains attached</caption>
+      <caption>a banana plant and a bunch of green bananas </caption>
+    </captions>
+</image>

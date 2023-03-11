@@ -1,0 +1,41 @@
+<image>
+  <image-id>2382202</image-id>
+  <coco-id>219410</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4631138</relationship_id>
+      <predicate>with</predicate>
+      <subject>4172804</subject>
+      <object>4172803</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>206</h>
+      <object_id>4172804</object_id>
+      <w>166</w>
+      <y>259</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>53</h>
+      <object_id>4172803</object_id>
+      <w>87</w>
+      <y>212</y>
+      <x>110</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>It is raining, a male jumping and so happy to take this picture</caption>
+      <caption>A person jumping into the air while holding a black umbrella.</caption>
+      <caption>A guy dressed in black jumps into the air holding a black umbrella. </caption>
+      <caption>A snapshot of a man in the air holding an umbrella.</caption>
+      <caption>A person on a sidewalk jumping with an umbrella.</caption>
+    </captions>
+</image>

@@ -1,0 +1,130 @@
+<image>
+  <image-id>1159420</image-id>
+  <coco-id>157986</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068030</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>1593120</subject>
+      <object>1593120</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068031</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>1593107</subject>
+      <object>1593107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068032</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>1593117</subject>
+      <object>1593117</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068033</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>1593111</subject>
+      <object>1593111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263353</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1593114</subject>
+      <object>1593115</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068034</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1593117</subject>
+      <object>1593118</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068035</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1593120</subject>
+      <object>1593119</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>344</h>
+      <object_id>1593120</object_id>
+      <w>184</w>
+      <y>338</y>
+      <x>224</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>318</h>
+      <object_id>1593107</object_id>
+      <w>103</w>
+      <y>350</y>
+      <x>127</x>
+    </object>
+    <object>
+      <h>340</h>
+      <object_id>1593117</object_id>
+      <w>367</w>
+      <y>343</y>
+      <x>0</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>261</h>
+      <object_id>1593111</object_id>
+      <w>62</w>
+      <y>365</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>door window</attribute>
+      </attributes>
+      <name>window</name>
+      <h>296</h>
+      <object_id>1593114</object_id>
+      <w>313</w>
+      <y>70</y>
+      <x>612</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>296</h>
+      <object_id>1593115</object_id>
+      <w>313</w>
+      <y>70</y>
+      <x>612</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>suit</name>
+      <h>336</h>
+      <object_id>1593118</object_id>
+      <w>358</w>
+      <y>339</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>suit</name>
+      <h>330</h>
+      <object_id>1593119</object_id>
+      <w>187</w>
+      <y>337</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Four men standing next to a large truck.</caption>
+      <caption>Several men look at a large, white truck.</caption>
+      <caption>Group of men standing next to a white van. </caption>
+      <caption>Several men looking at a parked delivery truck.</caption>
+      <caption>Several men in suits looking at a delivery truck</caption>
+    </captions>
+</image>

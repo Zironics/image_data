@@ -1,0 +1,51 @@
+<image>
+  <image-id>2384057</image-id>
+  <coco-id>107705</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4731307</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>4419374</subject>
+      <object>4271586</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4670714</relationship_id>
+      <predicate>mounted on side of</predicate>
+      <subject>4271585</subject>
+      <object>4271586</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>58</h>
+      <object_id>4419374</object_id>
+      <w>57</w>
+      <y>97</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>403</h>
+      <object_id>4271586</object_id>
+      <w>368</w>
+      <y>25</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>30</h>
+      <object_id>4271585</object_id>
+      <w>14</w>
+      <y>149</y>
+      <x>79</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lit clock mounted on the side of a red building at night.</caption>
+      <caption>A red building at night with a clock at the top of the building. </caption>
+      <caption>A man walking into a red building with a clock on it.</caption>
+      <caption>A man walks into a building with a large clock on it front</caption>
+      <caption>This is a red building with a giant clock in the center.</caption>
+    </captions>
+</image>

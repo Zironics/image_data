@@ -1,0 +1,97 @@
+<image>
+  <image-id>2407351</image-id>
+  <coco-id>42756</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>341590</relationship_id>
+      <predicate>near womans hand</predicate>
+      <subject>281191</subject>
+      <object>281191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>341604</relationship_id>
+      <predicate>catching a frisbee</predicate>
+      <subject>281200</subject>
+      <object>281217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>341606</relationship_id>
+      <predicate>a young woman</predicate>
+      <subject>281211</subject>
+      <object>281200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>341623</relationship_id>
+      <predicate>barefoot on beach</predicate>
+      <subject>281200</subject>
+      <object>281200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>341628</relationship_id>
+      <predicate>reaching to catch</predicate>
+      <subject>281200</subject>
+      <object>281200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>341636</relationship_id>
+      <predicate>watch on wrist</predicate>
+      <subject>281225</subject>
+      <object>281225</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>blue frisbee</name>
+      <h>79</h>
+      <object_id>281191</object_id>
+      <w>102</w>
+      <y>43</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bare</attribute>
+      </attributes>
+      <h>290</h>
+      <object_id>281200</object_id>
+      <w>237</w>
+      <y>67</y>
+      <x>148</x>
+      <name>playing bare feet</name>
+    </object>
+    <object>
+      <h>37</h>
+      <object_id>281217</object_id>
+      <w>57</w>
+      <y>67</y>
+      <x>146</x>
+      <name>catching frisbee</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <h>134</h>
+      <object_id>281211</object_id>
+      <w>150</w>
+      <y>99</y>
+      <x>200</x>
+      <name>shirt is purple</name>
+    </object>
+    <object>
+      <h>8</h>
+      <object_id>281225</object_id>
+      <w>9</w>
+      <y>93</y>
+      <x>192</x>
+      <name>watch on woman</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a woman catches a frisbee on a beach</caption>
+      <caption>A woman on the beach catching a frisbee.</caption>
+      <caption>A lady on the beach reaches to catch a frisbee.</caption>
+      <caption>A woman playing with a Frisbee on the beach.</caption>
+      <caption>a woman with a frisbee on a stormy beach</caption>
+    </captions>
+</image>

@@ -1,0 +1,85 @@
+<image>
+  <image-id>713684</image-id>
+  <coco-id>310851</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4789976</relationship_id>
+      <predicate>on</predicate>
+      <subject>4573603</subject>
+      <object>4573604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4789977</relationship_id>
+      <predicate>has</predicate>
+      <subject>4573603</subject>
+      <object>4573607</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4789978</relationship_id>
+      <predicate>has</predicate>
+      <subject>4573612</subject>
+      <object>4573613</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>bus</name>
+      <h>336</h>
+      <object_id>4573603</object_id>
+      <w>467</w>
+      <y>202</y>
+      <x>516</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>219</h>
+      <object_id>4573604</object_id>
+      <w>673</w>
+      <y>523</y>
+      <x>319</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>headlights</name>
+      <h>39</h>
+      <object_id>4573607</object_id>
+      <w>251</w>
+      <y>458</y>
+      <x>710</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>second </attribute>
+      </attributes>
+      <name>bus</name>
+      <h>167</h>
+      <object_id>4573612</object_id>
+      <w>253</w>
+      <y>314</y>
+      <x>294</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>46</h>
+      <object_id>4573613</object_id>
+      <w>96</w>
+      <y>400</y>
+      <x>337</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Red buses with "London Bridge" in sign in front of buildings</caption>
+      <caption>There are buses moving in traffic on a street.</caption>
+      <caption>Buses line up at a stop in London.</caption>
+      <caption>Two red busses on street next to buildings.</caption>
+      <caption>Buses and car following a path down the street</caption>
+    </captions>
+</image>

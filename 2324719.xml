@@ -1,0 +1,93 @@
+<image>
+  <image-id>2324719</image-id>
+  <coco-id>404687</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4487866</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3185899</subject>
+      <object>2802136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4487867</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3195818</subject>
+      <object>3195819</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4487868</relationship_id>
+      <predicate>with</predicate>
+      <subject>3185899</subject>
+      <object>3185900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4487869</relationship_id>
+      <predicate>with</predicate>
+      <subject>3185899</subject>
+      <object>3185901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>497</h>
+      <object_id>3185899</object_id>
+      <w>372</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>331</h>
+      <object_id>2802136</object_id>
+      <w>164</w>
+      <y>38</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>46</h>
+      <object_id>3195818</object_id>
+      <w>33</w>
+      <y>255</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>race car</name>
+      <h>31</h>
+      <object_id>3195819</object_id>
+      <w>39</w>
+      <y>297</y>
+      <x>179</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>tie</name>
+      <h>368</h>
+      <object_id>3185900</object_id>
+      <w>64</w>
+      <y>118</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>tie</name>
+      <h>246</h>
+      <object_id>3185901</object_id>
+      <w>77</w>
+      <y>207</y>
+      <x>231</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A smiling young man sits in a chair with ties on his shoulder. </caption>
+      <caption>a man sitting on a couch with a tie drapped over his shoulder</caption>
+      <caption>A smiling young man sitting with several neckties over his shoulder.</caption>
+      <caption>A man is sitting down with two ties on his shoulder.</caption>
+      <caption>The guy has three ties on his shoulder.</caption>
+    </captions>
+</image>

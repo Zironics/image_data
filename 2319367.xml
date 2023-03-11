@@ -1,0 +1,93 @@
+<image>
+  <image-id>2319367</image-id>
+  <coco-id>456732</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3877002</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3345769</subject>
+      <object>2783432</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875689</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3627247</subject>
+      <object>2727091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495479</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3345769</subject>
+      <object>2783432</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875808</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3627278</subject>
+      <object>3249897</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>paper</name>
+      <h>19</h>
+      <object_id>3345769</object_id>
+      <w>33</w>
+      <y>480</y>
+      <x>335</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <h>121</h>
+      <object_id>2783432</object_id>
+      <w>316</w>
+      <y>378</y>
+      <x>54</x>
+      <name>board</name>
+    </object>
+    <object>
+      <name>stains</name>
+      <h>70</h>
+      <object_id>3627247</object_id>
+      <w>49</w>
+      <y>395</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>toilet</name>
+      <h>455</h>
+      <object_id>2727091</object_id>
+      <w>212</w>
+      <y>42</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>letters</name>
+      <h>27</h>
+      <object_id>3627278</object_id>
+      <w>25</w>
+      <y>128</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>65</h>
+      <object_id>3249897</object_id>
+      <w>61</w>
+      <y>120</y>
+      <x>197</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white toilet sitting under a window on an airplane.</caption>
+      <caption>A very close up look at a typical white toilet.</caption>
+      <caption>A toilet in an airplane with the seat open.</caption>
+      <caption>A toilet with the lid open in front of a window </caption>
+      <caption>There is a toilet with a sign on the lid.</caption>
+    </captions>
+</image>

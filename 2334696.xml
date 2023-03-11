@@ -1,0 +1,49 @@
+<image>
+  <image-id>2334696</image-id>
+  <coco-id>269947</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3996578</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3675360</subject>
+      <object>3148739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3904775</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3675360</subject>
+      <object>3148739</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>115</h>
+      <object_id>3675360</object_id>
+      <w>190</w>
+      <y>25</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <h>373</h>
+      <object_id>3148739</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+      <name>cloudy sky</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane is flying in the sky on a cloudy day. </caption>
+      <caption>A airplane flying high in the sky with the blue sky in the background</caption>
+      <caption>A plane is flying through a cloudy sky.</caption>
+      <caption>An airplane in the sky on a cloudy day. </caption>
+      <caption>Jetliner flying at low altitude on overcast day.</caption>
+    </captions>
+</image>

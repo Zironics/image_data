@@ -1,0 +1,62 @@
+<image>
+  <image-id>2323285</image-id>
+  <coco-id>170194</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3644692</relationship_id>
+      <predicate>near</predicate>
+      <subject>3315818</subject>
+      <object>3315817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3644693</relationship_id>
+      <predicate>near</predicate>
+      <subject>2822220</subject>
+      <object>2822221</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>105</h>
+      <object_id>3315818</object_id>
+      <w>141</w>
+      <y>150</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>138</h>
+      <object_id>3315817</object_id>
+      <w>497</w>
+      <y>191</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>75</h>
+      <object_id>2822220</object_id>
+      <w>72</w>
+      <y>256</y>
+      <x>426</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>177</h>
+      <object_id>2822221</object_id>
+      <w>482</w>
+      <y>147</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A single rail kart not moving on the tracks. </caption>
+      <caption>A train sitting on top of tracks next to tall buildings.</caption>
+      <caption>The group is waiting for the subway train</caption>
+      <caption>A train that is sitting on the tracks in a rail yard.</caption>
+      <caption>Old train car and railway with buildings in the background</caption>
+    </captions>
+</image>

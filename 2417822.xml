@@ -1,0 +1,59 @@
+<image>
+  <image-id>2417822</image-id>
+  <coco-id>535094</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4028414</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3687793</subject>
+      <object>2829238</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3889147</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3632326</subject>
+      <object>3430356</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>fingers</name>
+      <h>115</h>
+      <object_id>3687793</object_id>
+      <w>52</w>
+      <y>214</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>293</h>
+      <object_id>2829238</object_id>
+      <w>265</w>
+      <y>7</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>45</h>
+      <object_id>3632326</object_id>
+      <w>32</w>
+      <y>131</y>
+      <x>442</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>203</h>
+      <object_id>3430356</object_id>
+      <w>257</w>
+      <y>57</y>
+      <x>238</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A person holds a bottle toward a brown and white baby cow.</caption>
+      <caption>Cow being fed a popsicle by a person over a fence.</caption>
+      <caption>A brown cow sniffing on a person hand</caption>
+      <caption>A baby cow is interested in a drink someone has.</caption>
+      <caption>A baby calf licking on a block of ice with fruit in it.</caption>
+    </captions>
+</image>

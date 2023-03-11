@@ -1,0 +1,84 @@
+<image>
+  <image-id>2389484</image-id>
+  <coco-id>220739</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3475931</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1260424</subject>
+      <object>1260419</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3475932</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1260419</subject>
+      <object>1260418</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3475933</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1260418</subject>
+      <object>1260421</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sky</name>
+      <h>139</h>
+      <object_id>1260424</object_id>
+      <w>477</w>
+      <y>4</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>large</attribute>
+        <attribute>brown</attribute>
+        <attribute>leaved</attribute>
+        <attribute>leafy</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>330</h>
+      <object_id>1260419</object_id>
+      <w>491</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+        <attribute>backed</attribute>
+        <attribute>fully-visible</attribute>
+        <attribute>rectangular</attribute>
+        <attribute>upper</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>79</h>
+      <object_id>1260418</object_id>
+      <w>350</w>
+      <y>141</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>137</h>
+      <object_id>1260421</object_id>
+      <w>11</w>
+      <y>4</y>
+      <x>242</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green and white street sign that reads "lincoln av e."</caption>
+      <caption>A street sign reads "Lincoln" ave below the trees.</caption>
+      <caption>The street sign is near a very large tree.</caption>
+      <caption>A green street sign next to some trees.</caption>
+      <caption>The name of the street is Lincoln Ave </caption>
+    </captions>
+</image>

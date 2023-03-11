@@ -1,0 +1,184 @@
+<image>
+  <image-id>2338811</image-id>
+  <coco-id>27226</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4057079</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2081870</subject>
+      <object>3699576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057080</relationship_id>
+      <predicate>running above</predicate>
+      <subject>2955893</subject>
+      <object>2955894</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057081</relationship_id>
+      <predicate>running above</predicate>
+      <subject>2955893</subject>
+      <object>2955895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057082</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2600653</subject>
+      <object>3699577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057083</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2600653</subject>
+      <object>3699578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057084</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>2078502</subject>
+      <object>3699579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057085</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2017932</subject>
+      <object>3699580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057086</relationship_id>
+      <predicate>on edge of</predicate>
+      <subject>2583845</subject>
+      <object>2583847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057087</relationship_id>
+      <predicate>on edge of</predicate>
+      <subject>2583845</subject>
+      <object>2583847</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>28</h>
+      <object_id>2081870</object_id>
+      <w>30</w>
+      <y>161</y>
+      <x>468</x>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>25</h>
+      <object_id>3699576</object_id>
+      <w>94</w>
+      <y>176</y>
+      <x>404</x>
+    </object>
+    <object>
+      <name>lines</name>
+      <h>125</h>
+      <object_id>2955893</object_id>
+      <w>472</w>
+      <y>20</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>85</h>
+      <object_id>2955894</object_id>
+      <w>95</w>
+      <y>125</y>
+      <x>130</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>36</h>
+      <object_id>2955895</object_id>
+      <w>38</w>
+      <y>149</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>buildings</name>
+      <h>131</h>
+      <object_id>2600653</object_id>
+      <w>134</w>
+      <y>86</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>train tracks</name>
+      <h>24</h>
+      <object_id>3699577</object_id>
+      <w>60</w>
+      <y>176</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>train tracks</name>
+      <h>17</h>
+      <object_id>3699578</object_id>
+      <w>50</w>
+      <y>169</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>10</h>
+      <object_id>2078502</object_id>
+      <w>40</w>
+      <y>150</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>89</h>
+      <object_id>3699579</object_id>
+      <w>105</w>
+      <y>122</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>50</h>
+      <object_id>2017932</object_id>
+      <w>21</w>
+      <y>107</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>50</h>
+      <object_id>3699580</object_id>
+      <w>9</w>
+      <y>152</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white lines</name>
+      <h>145</h>
+      <object_id>2583845</object_id>
+      <w>173</w>
+      <y>182</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>plateform</name>
+      <h>151</h>
+      <object_id>2583847</object_id>
+      <w>342</w>
+      <y>180</y>
+      <x>151</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>We are looking a train in the distance.</caption>
+      <caption>a train on a track near some buildings </caption>
+      <caption>an empty area at a large train station</caption>
+      <caption>A large long train on a steel track.</caption>
+      <caption>A train engine parked at a train stop.</caption>
+    </captions>
+</image>

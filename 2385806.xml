@@ -1,0 +1,177 @@
+<image>
+  <image-id>2385806</image-id>
+  <coco-id>370583</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3529681</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1292845</subject>
+      <object>1292846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529682</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1292846</subject>
+      <object>1292845</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529683</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1292843</subject>
+      <object>1292847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529684</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1292843</subject>
+      <object>1292852</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4307142</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1292843</subject>
+      <object>3845641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529686</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1292843</subject>
+      <object>1292851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529687</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1292843</subject>
+      <object>1292847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529688</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1292843</subject>
+      <object>1292856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529689</relationship_id>
+      <predicate>has</predicate>
+      <subject>1292859</subject>
+      <object>1292860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3529690</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1292843</subject>
+      <object>1292852</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>hard</attribute>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>141</h>
+      <object_id>1292845</object_id>
+      <w>372</w>
+      <y>358</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>87</h>
+      <object_id>1292846</object_id>
+      <w>372</w>
+      <y>412</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>looking</attribute>
+        <attribute>feeding</attribute>
+        <attribute>white</attribute>
+        <attribute>baby</attribute>
+        <attribute>mother</attribute>
+        <attribute>small</attribute>
+        <attribute>large</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>247</h>
+      <object_id>1292843</object_id>
+      <w>113</w>
+      <y>205</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>90</h>
+      <object_id>1292847</object_id>
+      <w>83</w>
+      <y>87</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>59</h>
+      <object_id>1292852</object_id>
+      <w>10</w>
+      <y>310</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>396</h>
+      <object_id>3845641</object_id>
+      <w>183</w>
+      <y>46</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>211</h>
+      <object_id>1292851</object_id>
+      <w>142</w>
+      <y>2</y>
+      <x>193</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>122</h>
+      <object_id>1292856</object_id>
+      <w>39</w>
+      <y>332</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>52</h>
+      <object_id>1292859</object_id>
+      <w>25</w>
+      <y>275</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>jeans</name>
+      <h>18</h>
+      <object_id>1292860</object_id>
+      <w>17</w>
+      <y>314</y>
+      <x>325</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>this is two giraffes standing in the shade</caption>
+      <caption>some people watching the mamma giraffe with her baby</caption>
+      <caption>A baby giraffe stands behind its mother in a zoo enclosure.</caption>
+      <caption>THIS IS A PHOTO OF A MOTHER AND BABY GIRAFFE</caption>
+      <caption>A couple of giraffe standing in the middle of a forest.</caption>
+    </captions>
+</image>

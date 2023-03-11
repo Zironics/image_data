@@ -1,0 +1,206 @@
+<image>
+  <image-id>713354</image-id>
+  <coco-id>151267</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4787164</relationship_id>
+      <predicate>holding her little brothers</predicate>
+      <subject>4566678</subject>
+      <object>4566679</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787165</relationship_id>
+      <predicate>waiting to cross</predicate>
+      <subject>4566681</subject>
+      <object>4566682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787166</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4566683</subject>
+      <object>4566674</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787167</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4566686</subject>
+      <object>4566705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787169</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4566690</subject>
+      <object>4252140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787170</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4566693</subject>
+      <object>4252140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787171</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4566695</subject>
+      <object>4566696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787172</relationship_id>
+      <predicate>has</predicate>
+      <subject>4566705</subject>
+      <object>4566698</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787173</relationship_id>
+      <predicate>has</predicate>
+      <subject>4566705</subject>
+      <object>4566701</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>girl</name>
+      <h>128</h>
+      <object_id>4566678</object_id>
+      <w>35</w>
+      <y>363</y>
+      <x>952</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>little brothers</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>16</h>
+      <object_id>4566679</object_id>
+      <w>9</w>
+      <y>420</y>
+      <x>984</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>a group</attribute>
+      </attributes>
+      <name>people</name>
+      <h>152</h>
+      <object_id>4566681</object_id>
+      <w>115</w>
+      <y>335</y>
+      <x>874</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>256</h>
+      <object_id>4566682</object_id>
+      <w>983</w>
+      <y>422</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>light bar</name>
+      <h>55</h>
+      <object_id>4566683</object_id>
+      <w>327</w>
+      <y>94</y>
+      <x>457</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>moving</attribute>
+      </attributes>
+      <name>fire truck</name>
+      <h>545</h>
+      <object_id>4566674</object_id>
+      <w>826</w>
+      <y>65</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>193</h>
+      <object_id>4566686</object_id>
+      <w>122</w>
+      <y>413</y>
+      <x>295</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>541</h>
+      <object_id>4566705</object_id>
+      <w>810</w>
+      <y>66</y>
+      <x>102</x>
+      <name>fire engine</name>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>44</h>
+      <object_id>4566690</object_id>
+      <w>35</w>
+      <y>424</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>136</h>
+      <object_id>4252140</object_id>
+      <w>107</w>
+      <y>332</y>
+      <x>8</x>
+      <name>golf cart</name>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>44</h>
+      <object_id>4566693</object_id>
+      <w>27</w>
+      <y>417</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>141</h>
+      <object_id>4566695</object_id>
+      <w>40</w>
+      <y>336</y>
+      <x>892</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>113</h>
+      <object_id>4566696</object_id>
+      <w>89</w>
+      <y>426</y>
+      <x>900</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>156</h>
+      <object_id>4566698</object_id>
+      <w>247</w>
+      <y>158</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>147</h>
+      <object_id>4566701</object_id>
+      <w>50</w>
+      <y>162</y>
+      <x>266</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red fire engine truck on the street in a parade.</caption>
+      <caption>A firetruck stopped in the middle of a quiet street while people pass by on the sidewalk.</caption>
+      <caption>A red fire truck traveling down a busy city street.</caption>
+      <caption>A red fire truck driving down the street.</caption>
+      <caption>A big fire truck driving down the street.  </caption>
+    </captions>
+</image>

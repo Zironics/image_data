@@ -1,0 +1,40 @@
+<image>
+  <image-id>2332479</image-id>
+  <coco-id>536996</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3998390</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3010378</subject>
+      <object>3010379</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pizza</name>
+      <h>192</h>
+      <object_id>3010378</object_id>
+      <w>375</w>
+      <y>111</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>plate</name>
+      <h>318</h>
+      <object_id>3010379</object_id>
+      <w>496</w>
+      <y>52</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Plate of hot sliced pizza ready for consumption.</caption>
+      <caption>A white platter is holding a brick oven pizza with mushrooms on it.</caption>
+      <caption>a white plate with a pizza with some black olive toppings</caption>
+      <caption>A pizza on a plate is cut open.</caption>
+      <caption>A mushroom and cheese pizza on top of a plate.</caption>
+    </captions>
+</image>

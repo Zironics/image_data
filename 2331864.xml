@@ -1,0 +1,62 @@
+<image>
+  <image-id>2331864</image-id>
+  <coco-id>318683</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4464162</relationship_id>
+      <predicate>under</predicate>
+      <subject>2761700</subject>
+      <object>2761701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097915</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3155827</subject>
+      <object>3714771</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>table</name>
+      <h>330</h>
+      <object_id>2761700</object_id>
+      <w>493</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tray</name>
+      <h>315</h>
+      <object_id>2761701</object_id>
+      <w>495</w>
+      <y>14</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>87</h>
+      <object_id>3155827</object_id>
+      <w>147</w>
+      <y>106</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>board</name>
+      <h>320</h>
+      <object_id>3714771</object_id>
+      <w>493</w>
+      <y>10</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small pizza topped with red peppers, green peppers, and onions. </caption>
+      <caption>A pizza cut into wedges on a wooden cutting board.</caption>
+      <caption>There is a puffy pizza on a cutting board</caption>
+      <caption>A cut pizza with cheese and vegetables on a table.</caption>
+      <caption>A pizza on a wooden plate during the day.</caption>
+    </captions>
+</image>

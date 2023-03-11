@@ -1,0 +1,87 @@
+<image>
+  <image-id>2337239</image-id>
+  <coco-id>496214</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4081236</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2755747</subject>
+      <object>2755748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081237</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3148626</subject>
+      <object>3148627</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081239</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3708989</subject>
+      <object>2066104</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white straps</name>
+      <h>36</h>
+      <object_id>2755747</object_id>
+      <w>61</w>
+      <y>12</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>372</h>
+      <object_id>2755748</object_id>
+      <w>110</w>
+      <y>1</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>frame</name>
+      <h>262</h>
+      <object_id>3148626</object_id>
+      <w>137</w>
+      <y>18</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>51</h>
+      <object_id>3148627</object_id>
+      <w>27</w>
+      <y>121</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>bolt</name>
+      <h>40</h>
+      <object_id>3708989</object_id>
+      <w>28</w>
+      <y>266</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>373</h>
+      <object_id>2066104</object_id>
+      <w>250</w>
+      <y>1</y>
+      <x>86</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light hanging from the side of a pole.</caption>
+      <caption>A traffic light has turned yellow and do not walk sign is up.</caption>
+      <caption>A traffic light with the yellow light and the don't walk light lit up.</caption>
+      <caption>A traffic signal and a pedestrian crossing signal.</caption>
+      <caption>A traffic light signaling yellow, with a pedestrian light below.  </caption>
+    </captions>
+</image>

@@ -1,0 +1,63 @@
+<image>
+  <image-id>2403923</image-id>
+  <coco-id>79572</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>738037</relationship_id>
+      <predicate>ON</predicate>
+      <subject>379484</subject>
+      <object>379485</object>
+    </relationship>
+    <relationship>
+      <relationship_id>738038</relationship_id>
+      <predicate>ON</predicate>
+      <subject>379486</subject>
+      <object>379485</object>
+    </relationship>
+    <relationship>
+      <relationship_id>738103</relationship_id>
+      <predicate>ON</predicate>
+      <subject>379484</subject>
+      <object>379485</object>
+    </relationship>
+    <relationship>
+      <relationship_id>738104</relationship_id>
+      <predicate>ON</predicate>
+      <subject>379486</subject>
+      <object>379485</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>292</h>
+      <object_id>379484</object_id>
+      <w>194</w>
+      <y>42</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>89</h>
+      <object_id>379485</object_id>
+      <w>28</w>
+      <y>231</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>159</h>
+      <object_id>379486</object_id>
+      <w>253</w>
+      <y>90</y>
+      <x>246</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two different types of dogs sitting together on a bed</caption>
+      <caption>Two dogs sitting on top of a bed, one black, the other brown and white.</caption>
+      <caption>Two dogs laying on a bed side by side.</caption>
+      <caption>A black and brown dog and a brown dog sitting on a bed together. </caption>
+      <caption>Two dogs sitting together on a made up bed.</caption>
+    </captions>
+</image>

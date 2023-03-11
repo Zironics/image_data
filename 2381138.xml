@@ -1,0 +1,105 @@
+<image>
+  <image-id>2381138</image-id>
+  <coco-id>107013</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1881491</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>706992</subject>
+      <object>706996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1881492</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>706993</subject>
+      <object>706998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1881493</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>706992</subject>
+      <object>707000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1881494</relationship_id>
+      <predicate>reflected in</predicate>
+      <subject>707002</subject>
+      <object>706998</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>soap dispenser</name>
+      <h>27</h>
+      <object_id>706992</object_id>
+      <w>38</w>
+      <y>230</y>
+      <x>384</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>in bathroom</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>47</h>
+      <object_id>706996</object_id>
+      <w>232</w>
+      <y>235</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>rectangular</attribute>
+        <attribute>advertisement</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>198</h>
+      <object_id>706993</object_id>
+      <w>107</w>
+      <y>21</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflecting</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>230</h>
+      <object_id>706998</object_id>
+      <w>480</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>106</h>
+      <object_id>707000</object_id>
+      <w>384</w>
+      <y>176</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>doorway</name>
+      <h>175</h>
+      <object_id>707002</object_id>
+      <w>12</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A data storage advertisement on a public bathroom mirror.</caption>
+      <caption>a close up of a sink with a mirror</caption>
+      <caption>A mirror behind two sinks in a bathroom.</caption>
+      <caption>A double sink vanity with an advertisement stuck in the mirror.</caption>
+      <caption>Advertising on the mirror of a public bath room</caption>
+    </captions>
+</image>

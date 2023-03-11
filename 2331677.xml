@@ -1,0 +1,43 @@
+<image>
+  <image-id>2331677</image-id>
+  <coco-id>487583</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4733877</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4463814</subject>
+      <object>4425720</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4749199</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>4463814</subject>
+      <object>4425720</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>23</h>
+      <object_id>4463814</object_id>
+      <w>58</w>
+      <y>180</y>
+      <x>216</x>
+      <name>food</name>
+    </object>
+    <object>
+      <name>dish</name>
+      <h>36</h>
+      <object_id>4425720</object_id>
+      <w>96</w>
+      <y>172</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A white toilet and cup in a room.</caption>
+      <caption>A table with a white cup and a cookie next to a toilet.</caption>
+      <caption>A corner of a rest room with a cookie and coffee.</caption>
+      <caption>there is a small black table next to a white toilet</caption>
+      <caption>A cup and a plate with food on it on a table next to a toilet.</caption>
+    </captions>
+</image>

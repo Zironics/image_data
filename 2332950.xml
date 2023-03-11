@@ -1,0 +1,73 @@
+<image>
+  <image-id>2332950</image-id>
+  <coco-id>544253</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4834949</relationship_id>
+      <predicate>has</predicate>
+      <subject>4684640</subject>
+      <object>4684635</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4834950</relationship_id>
+      <predicate>has</predicate>
+      <subject>4684640</subject>
+      <object>4684639</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4834960</relationship_id>
+      <predicate>match</predicate>
+      <subject>4684660</subject>
+      <object>4684661</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>189</h>
+      <object_id>4684640</object_id>
+      <w>76</w>
+      <y>18</y>
+      <x>413</x>
+      <name>tree</name>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>16</h>
+      <object_id>4684635</object_id>
+      <w>14</w>
+      <y>53</y>
+      <x>421</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>16</h>
+      <object_id>4684639</object_id>
+      <w>25</w>
+      <y>84</y>
+      <x>459</x>
+    </object>
+    <object>
+      <name>wallpaper</name>
+      <h>134</h>
+      <object_id>4684660</object_id>
+      <w>194</w>
+      <y>47</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>223</h>
+      <object_id>4684661</object_id>
+      <w>410</w>
+      <y>0</y>
+      <x>88</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a laptop and a mouse on a small table </caption>
+      <caption>A laptop computer in front of a window.</caption>
+      <caption>The computer has a screensaver of plants outside the window.</caption>
+      <caption>A notebook computer by a window with an image of the same window on the screen.</caption>
+      <caption>A laptop that has a picture of outside a window.</caption>
+    </captions>
+</image>

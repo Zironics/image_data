@@ -1,0 +1,85 @@
+<image>
+  <image-id>2320166</image-id>
+  <coco-id>85581</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4490142</relationship_id>
+      <predicate>dressed in</predicate>
+      <subject>2883400</subject>
+      <object>2861110</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4490143</relationship_id>
+      <predicate>dressed in</predicate>
+      <subject>2883400</subject>
+      <object>3943691</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3806058</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2883400</subject>
+      <object>3265883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3858277</relationship_id>
+      <predicate>turned around in</predicate>
+      <subject>2883400</subject>
+      <object>3620094</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>287</h>
+      <object_id>2883400</object_id>
+      <w>120</w>
+      <y>10</y>
+      <x>1</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>309</h>
+      <object_id>2861110</object_id>
+      <w>147</w>
+      <y>9</y>
+      <x>198</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>winter clothes</name>
+      <h>297</h>
+      <object_id>3943691</object_id>
+      <w>120</w>
+      <y>18</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>42</h>
+      <object_id>3265883</object_id>
+      <w>47</w>
+      <y>9</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black, silver and yellow</attribute>
+      </attributes>
+      <name>clothes</name>
+      <h>226</h>
+      <object_id>3620094</object_id>
+      <w>121</w>
+      <y>47</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man carrying a snowboard across a dirt road.</caption>
+      <caption>A person walking in a ski hat and a snow board.</caption>
+      <caption>A man holds a snowboard as he walks across a city street.</caption>
+      <caption>A guy is walking in the sand holding a snowboard.</caption>
+      <caption>A man is walking with his blue snowboard.</caption>
+    </captions>
+</image>

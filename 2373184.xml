@@ -1,0 +1,215 @@
+<image>
+  <image-id>2373184</image-id>
+  <coco-id>526044</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4600274</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4096338</subject>
+      <object>4096331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600277</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4096339</subject>
+      <object>4096338</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600297</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4096390</subject>
+      <object>4096338</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600298</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4096338</subject>
+      <object>4096386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600299</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4096338</subject>
+      <object>4096378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600304</relationship_id>
+      <predicate>washed up on</predicate>
+      <subject>4096384</subject>
+      <object>4096388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600303</relationship_id>
+      <predicate>washed up on</predicate>
+      <subject>4096383</subject>
+      <object>4096388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600302</relationship_id>
+      <predicate>washed up on</predicate>
+      <subject>4096382</subject>
+      <object>4096388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600301</relationship_id>
+      <predicate>washed up on</predicate>
+      <subject>4096381</subject>
+      <object>4096388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600300</relationship_id>
+      <predicate>washed up on</predicate>
+      <subject>4096380</subject>
+      <object>4096388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600305</relationship_id>
+      <predicate>jutting out of</predicate>
+      <subject>4096299</subject>
+      <object>4096386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600306</relationship_id>
+      <predicate>washed up on</predicate>
+      <subject>4096387</subject>
+      <object>4096388</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>solitary</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>223</h>
+      <object_id>4096338</object_id>
+      <w>266</w>
+      <y>150</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>323</h>
+      <object_id>4096331</object_id>
+      <w>380</w>
+      <y>48</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>81</h>
+      <object_id>4096339</object_id>
+      <w>62</w>
+      <y>150</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>175</h>
+      <object_id>4096390</object_id>
+      <w>35</w>
+      <y>189</y>
+      <x>435</x>
+      <name>cow tail</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>368</h>
+      <object_id>4096386</object_id>
+      <w>479</w>
+      <y>10</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>371</h>
+      <object_id>4096378</object_id>
+      <w>480</w>
+      <y>10</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>debris</name>
+      <h>7</h>
+      <object_id>4096384</object_id>
+      <w>8</w>
+      <y>311</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>shore</name>
+      <h>320</h>
+      <object_id>4096388</object_id>
+      <w>314</w>
+      <y>59</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>debris</name>
+      <h>5</h>
+      <object_id>4096383</object_id>
+      <w>7</w>
+      <y>321</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>debris</name>
+      <h>6</h>
+      <object_id>4096382</object_id>
+      <w>8</w>
+      <y>321</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>debris</name>
+      <h>9</h>
+      <object_id>4096381</object_id>
+      <w>10</w>
+      <y>333</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>debris</name>
+      <h>10</h>
+      <object_id>4096380</object_id>
+      <w>12</w>
+      <y>331</y>
+      <x>142</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>washed up</attribute>
+      </attributes>
+      <h>22</h>
+      <object_id>4096299</object_id>
+      <w>32</w>
+      <y>47</y>
+      <x>101</x>
+      <name>flotsam</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>seaweed</name>
+      <h>70</h>
+      <object_id>4096387</object_id>
+      <w>91</w>
+      <y>309</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>cow at the waters edge wading in the water</caption>
+      <caption>A BROWN AND WHITE COW STANDING NEAR THE WATER.</caption>
+      <caption>A cow walks at the edge of the water.</caption>
+      <caption>A cow is standing at the edge of the ocean.</caption>
+      <caption>a cow walking on a beach near water</caption>
+    </captions>
+</image>

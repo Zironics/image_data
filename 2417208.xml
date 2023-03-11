@@ -1,0 +1,105 @@
+<image>
+  <image-id>2417208</image-id>
+  <coco-id>344075</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4242488</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3785811</subject>
+      <object>2738452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4045266</relationship_id>
+      <predicate>reclining on</predicate>
+      <subject>2738452</subject>
+      <object>3299564</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3871501</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2738452</subject>
+      <object>3280446</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974434</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2738452</subject>
+      <object>3265259</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974435</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2738452</subject>
+      <object>2738454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974436</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2738452</subject>
+      <object>3265259</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>20</h>
+      <object_id>3785811</object_id>
+      <w>27</w>
+      <y>163</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>201</h>
+      <object_id>2738452</object_id>
+      <w>283</w>
+      <y>90</y>
+      <x>31</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <name>gravel</name>
+      <h>30</h>
+      <object_id>3299564</object_id>
+      <w>52</w>
+      <y>284</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>80</h>
+      <object_id>3280446</object_id>
+      <w>135</w>
+      <y>201</y>
+      <x>332</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>122</h>
+      <object_id>3265259</object_id>
+      <w>493</w>
+      <y>209</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>155</h>
+      <object_id>2738454</object_id>
+      <w>195</w>
+      <y>50</y>
+      <x>302</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black bear lies down and relaxes on some gravel</caption>
+      <caption>A large black bear laying on the ground.</caption>
+      <caption>A large black bear is laying down in the wilderness. </caption>
+      <caption>A black bear laying in gravel near grass.</caption>
+      <caption>A black bear laying down in a graveled area.</caption>
+    </captions>
+</image>

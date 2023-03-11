@@ -1,0 +1,134 @@
+<image>
+  <image-id>2393693</image-id>
+  <coco-id>46612</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1058733</relationship_id>
+      <predicate>has</predicate>
+      <subject>470526</subject>
+      <object>470527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1058734</relationship_id>
+      <predicate>has</predicate>
+      <subject>470526</subject>
+      <object>470532</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1058735</relationship_id>
+      <predicate>has</predicate>
+      <subject>470524</subject>
+      <object>470533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1058736</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>470524</subject>
+      <object>470529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1058737</relationship_id>
+      <predicate>next to</predicate>
+      <subject>470528</subject>
+      <object>470524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1058738</relationship_id>
+      <predicate>with</predicate>
+      <subject>470529</subject>
+      <object>470534</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>degrading</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>204</h>
+      <object_id>470526</object_id>
+      <w>85</w>
+      <y>0</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>base</name>
+      <h>88</h>
+      <object_id>470527</object_id>
+      <w>67</w>
+      <y>115</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>knot</name>
+      <h>25</h>
+      <object_id>470532</object_id>
+      <w>20</w>
+      <y>34</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>105</h>
+      <object_id>470524</object_id>
+      <w>150</w>
+      <y>103</y>
+      <x>288</x>
+    </object>
+    <object>
+      <name>right ear</name>
+      <h>12</h>
+      <object_id>470533</object_id>
+      <w>12</w>
+      <y>138</y>
+      <x>424</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>worn</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>141</h>
+      <object_id>470529</object_id>
+      <w>497</w>
+      <y>124</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>leaning</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>139</h>
+      <object_id>470528</object_id>
+      <w>188</w>
+      <y>0</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>degraded</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>209</h>
+      <object_id>470534</object_id>
+      <w>323</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large brown bear walking across a grass covered field.</caption>
+      <caption>THERE IS A BEAR THAT IS WALKING AROUND </caption>
+      <caption>A bear is walking around some trees in the wilderness.</caption>
+      <caption>A bear looking down at grass and a nearby bear under a manmade leanto
+made with logs.</caption>
+      <caption>A bear sniffs the ground next to some fallen trees. </caption>
+    </captions>
+</image>

@@ -1,0 +1,104 @@
+<image>
+  <image-id>2397704</image-id>
+  <coco-id>429236</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4612337</relationship_id>
+      <predicate>has</predicate>
+      <subject>4322048</subject>
+      <object>4125245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690315</relationship_id>
+      <predicate>riding</predicate>
+      <subject>4322033</subject>
+      <object>4322045</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690318</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4322044</subject>
+      <object>4322045</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4692307</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4326868</subject>
+      <object>4326869</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <h>220</h>
+      <object_id>4322048</object_id>
+      <w>147</w>
+      <y>0</y>
+      <x>273</x>
+      <name>jean</name>
+    </object>
+    <object>
+      <name>holes</name>
+      <h>50</h>
+      <object_id>4125245</object_id>
+      <w>118</w>
+      <y>38</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>211</h>
+      <object_id>4322033</object_id>
+      <w>177</w>
+      <y>95</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>85</h>
+      <object_id>4322045</object_id>
+      <w>263</w>
+      <y>282</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink </attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>42</h>
+      <object_id>4322044</object_id>
+      <w>35</w>
+      <y>326</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>wheels</name>
+      <h>60</h>
+      <object_id>4326868</object_id>
+      <w>278</w>
+      <y>319</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>103</h>
+      <object_id>4326869</object_id>
+      <w>280</w>
+      <y>278</y>
+      <x>180</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small brown dog riding a skateboard with their owner.</caption>
+      <caption>A cute little dog is on a skateboard.</caption>
+      <caption>A little brown dog wearing a green sweater on a skateboard.</caption>
+      <caption>A brown dog in green sweater riding on a skateboard.</caption>
+      <caption>A tiny dog wearing a sweater riding on a skateboard with someone.</caption>
+    </captions>
+</image>

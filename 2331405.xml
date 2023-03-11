@@ -1,0 +1,65 @@
+<image>
+  <image-id>2331405</image-id>
+  <coco-id>282843</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4005994</relationship_id>
+      <predicate>riding on</predicate>
+      <subject>2760296</subject>
+      <object>3032457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4005999</relationship_id>
+      <predicate>surfing in</predicate>
+      <subject>2760296</subject>
+      <object>3679248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4006001</relationship_id>
+      <predicate>shredding in</predicate>
+      <subject>2760296</subject>
+      <object>2760297</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>71</h>
+      <object_id>2760296</object_id>
+      <w>41</w>
+      <y>148</y>
+      <x>260</x>
+      <name>guy</name>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>45</h>
+      <object_id>3032457</object_id>
+      <w>37</w>
+      <y>192</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>wave pool</name>
+      <h>252</h>
+      <object_id>3679248</object_id>
+      <w>480</w>
+      <y>57</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>wave pool</name>
+      <h>281</h>
+      <object_id>2760297</object_id>
+      <w>497</w>
+      <y>50</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Someone surfing on their surfboard through some waves.</caption>
+      <caption>Someone riding their surf board on waves. </caption>
+      <caption>People are waiting to ride waves in a wave simulator.</caption>
+      <caption>A man riding a wave with a  surfboard, in a man made pool.</caption>
+      <caption>A person riding on top of a river on a surfboard.</caption>
+    </captions>
+</image>

@@ -1,0 +1,86 @@
+<image>
+  <image-id>2385874</image-id>
+  <coco-id>266250</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3528422</relationship_id>
+      <predicate>near</predicate>
+      <subject>1291977</subject>
+      <object>1291978</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528423</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1291979</subject>
+      <object>1291976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528424</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1291979</subject>
+      <object>1291977</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>small</attribute>
+        <attribute>close</attribute>
+        <attribute>looking</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>219</h>
+      <object_id>1291977</object_id>
+      <w>120</w>
+      <y>155</y>
+      <x>366</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown haired</attribute>
+      </attributes>
+      <name>person</name>
+      <h>213</h>
+      <object_id>1291978</object_id>
+      <w>275</w>
+      <y>159</y>
+      <x>20</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>225</h>
+      <object_id>1291979</object_id>
+      <w>394</w>
+      <y>5</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>black</attribute>
+        <attribute>on</attribute>
+        <attribute>tiny</attribute>
+      </attributes>
+      <name>tv</name>
+      <h>133</h>
+      <object_id>1291976</object_id>
+      <w>165</w>
+      <y>23</y>
+      <x>281</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman and a cat sitting in front of a TV.</caption>
+      <caption>A cat looking around sitting beside someone that is watching t.v. </caption>
+      <caption>A person and a cat are watching tv together. </caption>
+      <caption>A person watching TV with a cat next to her. </caption>
+      <caption>A person and a cat are looking at television.</caption>
+    </captions>
+</image>

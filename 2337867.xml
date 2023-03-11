@@ -1,0 +1,82 @@
+<image>
+  <image-id>2337867</image-id>
+  <coco-id>89909</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4071615</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2128732</subject>
+      <object>2128733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4071616</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2590794</subject>
+      <object>3171503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4071619</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2590794</subject>
+      <object>3705018</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rest area</name>
+      <h>191</h>
+      <object_id>2128732</object_id>
+      <w>290</w>
+      <y>268</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>botanical garden</name>
+      <h>245</h>
+      <object_id>2128733</object_id>
+      <w>146</w>
+      <y>198</y>
+      <x>352</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>306</h>
+      <object_id>2590794</object_id>
+      <w>270</w>
+      <y>0</y>
+      <x>0</x>
+      <name>plants</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>329</h>
+      <object_id>3171503</object_id>
+      <w>397</w>
+      <y>8</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>retaining</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>199</h>
+      <object_id>3705018</object_id>
+      <w>395</w>
+      <y>27</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden bench on a fence and plants surrounding it</caption>
+      <caption>A walled garden has a bench and a fountain.</caption>
+      <caption>Bench in a garden surrounded by vines and flowers. </caption>
+      <caption>A wooden bench sitting in front of a brick wall surrounded by flowers.</caption>
+      <caption>A wooden bench nestled by a fountain on a vine covered wall in a garden</caption>
+    </captions>
+</image>

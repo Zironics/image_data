@@ -1,0 +1,201 @@
+<image>
+  <image-id>2368652</image-id>
+  <coco-id>26435</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4345504</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3867793</subject>
+      <object>2138341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345505</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3867794</subject>
+      <object>3867795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345506</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2678333</subject>
+      <object>2607555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345507</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3867799</subject>
+      <object>2678333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345508</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3867797</subject>
+      <object>2138341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345509</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2678333</subject>
+      <object>3867799</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345510</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3867799</subject>
+      <object>2678333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345511</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1658781</subject>
+      <object>3867800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345512</relationship_id>
+      <predicate>leaning</predicate>
+      <subject>3867797</subject>
+      <object>3867802</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4345513</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2079368</subject>
+      <object>2607555</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>top </attribute>
+      </attributes>
+      <name>crust</name>
+      <h>230</h>
+      <object_id>3867793</object_id>
+      <w>407</w>
+      <y>16</y>
+      <x>72</x>
+    </object>
+    <object>
+      <h>230</h>
+      <object_id>2138341</object_id>
+      <w>422</w>
+      <y>12</y>
+      <x>78</x>
+      <name>pastry</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cream </attribute>
+      </attributes>
+      <name>sauce</name>
+      <h>30</h>
+      <object_id>3867794</object_id>
+      <w>75</w>
+      <y>300</y>
+      <x>152</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>piece </attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>216</h>
+      <object_id>3867795</object_id>
+      <w>184</w>
+      <y>115</y>
+      <x>249</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>part </attribute>
+        <attribute>white </attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <h>357</h>
+      <object_id>2678333</object_id>
+      <w>501</w>
+      <y>0</y>
+      <x>0</x>
+      <name>dish</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pot </attribute>
+      </attributes>
+      <name>pie</name>
+      <h>311</h>
+      <object_id>2607555</object_id>
+      <w>485</w>
+      <y>22</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>portion size </attribute>
+      </attributes>
+      <h>301</h>
+      <object_id>3867799</object_id>
+      <w>480</w>
+      <y>32</y>
+      <x>20</x>
+      <name>food</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>soft </attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>203</h>
+      <object_id>3867797</object_id>
+      <w>410</w>
+      <y>121</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>spec </attribute>
+      </attributes>
+      <name>food</name>
+      <h>207</h>
+      <object_id>1658781</object_id>
+      <w>275</w>
+      <y>47</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>meat</name>
+      <h>279</h>
+      <object_id>3867800</object_id>
+      <w>378</w>
+      <y>36</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>pie</name>
+      <h>189</h>
+      <object_id>3867802</object_id>
+      <w>226</w>
+      <y>10</y>
+      <x>79</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white meat</name>
+      <h>99</h>
+      <object_id>2079368</object_id>
+      <w>158</w>
+      <y>181</y>
+      <x>18</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>
+A plate topped with meat and vegetables covered in sauce.</caption>
+      <caption>bread wrapped around broccoli on a plate </caption>
+      <caption>A broccoli casserole is falling out of its crust.</caption>
+      <caption>A white play contains an entree featuring broccoli. </caption>
+      <caption>A plate with a baked style dinner pie on it, that has broccoli, meat and a sauce.</caption>
+    </captions>
+</image>

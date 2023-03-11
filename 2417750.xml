@@ -1,0 +1,113 @@
+<image>
+  <image-id>2417750</image-id>
+  <coco-id>332990</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3718400</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2778247</subject>
+      <object>2842240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244201</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2778247</subject>
+      <object>2842240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244202</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2778247</subject>
+      <object>2778248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3717442</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3217792</subject>
+      <object>3217791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3775281</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2707770</subject>
+      <object>2707771</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>374</h>
+      <object_id>2778247</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+      <name>snow</name>
+    </object>
+    <object>
+      <name>hillside</name>
+      <h>300</h>
+      <object_id>2842240</object_id>
+      <w>499</w>
+      <y>68</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>371</h>
+      <object_id>2778248</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>snowboarder</name>
+      <h>82</h>
+      <object_id>3217792</object_id>
+      <w>75</w>
+      <y>107</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snowy</attribute>
+      </attributes>
+      <name>snowy hill</name>
+      <h>287</h>
+      <object_id>3217791</object_id>
+      <w>492</w>
+      <y>84</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white cloud</name>
+      <h>48</h>
+      <object_id>2707770</object_id>
+      <w>165</w>
+      <y>19</y>
+      <x>64</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>80</h>
+      <object_id>2707771</object_id>
+      <w>328</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in his ski gear is in the deep snow. </caption>
+      <caption>Silhouette is an snow broader gliding downhill  </caption>
+      <caption>there is a snowboarder that is riding down a hill</caption>
+      <caption>The snowboarder is enjoying his trip down the mountain.</caption>
+      <caption>Someone skiing in the snow at night time</caption>
+    </captions>
+</image>

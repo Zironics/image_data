@@ -1,0 +1,43 @@
+<image>
+  <image-id>2353288</image-id>
+  <coco-id>27522</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2406214</relationship_id>
+      <predicate>has</predicate>
+      <subject>847545</subject>
+      <object>847549</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>jumping</attribute>
+        <attribute>wearing</attribute>
+        <attribute>in air</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>49</h>
+      <object_id>847545</object_id>
+      <w>35</w>
+      <y>219</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>25</h>
+      <object_id>847549</object_id>
+      <w>18</w>
+      <y>277</y>
+      <x>117</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>peopl standing on a hill watching someone doing a jump in the sky </caption>
+      <caption>A person who is wearing a snowboard in mid air.</caption>
+      <caption>Several men and motorcycles watching a man jumping.</caption>
+      <caption>A man flying through the air while riding a snowboard.</caption>
+      <caption>people with motorbikes and others skating on a snow</caption>
+    </captions>
+</image>

@@ -1,0 +1,159 @@
+<image>
+  <image-id>2397820</image-id>
+  <coco-id>356810</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>945102</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1186073</subject>
+      <object>430446</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347350</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1186080</subject>
+      <object>1186073</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347351</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1186073</subject>
+      <object>430448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347352</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1186073</subject>
+      <object>430448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347353</relationship_id>
+      <predicate>have</predicate>
+      <subject>1186073</subject>
+      <object>1186081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347354</relationship_id>
+      <predicate>have</predicate>
+      <subject>1186073</subject>
+      <object>1186082</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347355</relationship_id>
+      <predicate>have</predicate>
+      <subject>1186073</subject>
+      <object>1186083</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347356</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1186073</subject>
+      <object>430448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347357</relationship_id>
+      <predicate>leave</predicate>
+      <subject>1186073</subject>
+      <object>1186080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347358</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1186073</subject>
+      <object>430448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3347359</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1186080</subject>
+      <object>1186073</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>performing tricks</attribute>
+        <attribute>in sky</attribute>
+        <attribute>show planes</attribute>
+        <attribute>flying down</attribute>
+        <attribute>going downward</attribute>
+        <attribute>high</attribute>
+        <attribute>flying</attribute>
+        <attribute>in air</attribute>
+        <attribute>grouped</attribute>
+      </attributes>
+      <name>planes</name>
+      <h>26</h>
+      <object_id>1186073</object_id>
+      <w>15</w>
+      <y>133</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>formation</name>
+      <h>57</h>
+      <object_id>430446</object_id>
+      <w>67</w>
+      <y>121</y>
+      <x>198</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in sky</attribute>
+        <attribute>diffuse</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>streams</name>
+      <h>70</h>
+      <object_id>1186080</object_id>
+      <w>105</w>
+      <y>78</y>
+      <x>141</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cloudyy</attribute>
+        <attribute>cloudy</attribute>
+        <attribute>light blue</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>41</h>
+      <object_id>430448</object_id>
+      <w>57</w>
+      <y>51</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>7</h>
+      <object_id>1186081</object_id>
+      <w>8</w>
+      <y>134</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>wings</name>
+      <h>7</h>
+      <object_id>1186082</object_id>
+      <w>10</w>
+      <y>144</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>body</name>
+      <h>2</h>
+      <object_id>1186083</object_id>
+      <w>16</w>
+      <y>138</y>
+      <x>227</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Four planes in the sky in a flying formation.</caption>
+      <caption>Four airplanes flying in formation under sparce clouds.</caption>
+      <caption>A group of planes fly synchronized together in the sky</caption>
+      <caption>Four airplanes in a diamond formation descending downward in the sky with three of the planes releasing smoke from them.</caption>
+      <caption>Four airplanes in formation doing stunts in the sky</caption>
+    </captions>
+</image>

@@ -1,0 +1,57 @@
+<image>
+  <image-id>2350349</image-id>
+  <coco-id>145215</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4410863</relationship_id>
+      <predicate>has</predicate>
+      <subject>2063076</subject>
+      <object>2277834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410864</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>2063076</subject>
+      <object>2277834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410865</relationship_id>
+      <predicate>has</predicate>
+      <subject>2277834</subject>
+      <object>3900931</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>72</h>
+      <object_id>2063076</object_id>
+      <w>32</w>
+      <y>216</y>
+      <x>86</x>
+    </object>
+    <object>
+      <h>35</h>
+      <object_id>2277834</object_id>
+      <w>85</w>
+      <y>244</y>
+      <x>55</x>
+      <name>board</name>
+    </object>
+    <object>
+      <name>part</name>
+      <h>9</h>
+      <object_id>3900931</object_id>
+      <w>9</w>
+      <y>263</y>
+      <x>99</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer carrying his surf board out of the ocean.</caption>
+      <caption>A surfer heads out into the ocean with surfboard.</caption>
+      <caption>A person carrying a surfboard out of the ocean. </caption>
+      <caption>A man holding a surfboard while standing in the ocean.</caption>
+      <caption>A surfer exiting the water with board in hand.</caption>
+    </captions>
+</image>

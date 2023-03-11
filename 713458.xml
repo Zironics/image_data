@@ -1,0 +1,89 @@
+<image>
+  <image-id>713458</image-id>
+  <coco-id>173652</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4061301</relationship_id>
+      <predicate>with</predicate>
+      <subject>1584049</subject>
+      <object>3701174</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061302</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3701175</subject>
+      <object>1584050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061303</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3701176</subject>
+      <object>1584050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061304</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3701176</subject>
+      <object>3701175</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>car</name>
+      <h>188</h>
+      <object_id>1584049</object_id>
+      <w>453</w>
+      <y>394</y>
+      <x>220</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tires</name>
+      <h>89</h>
+      <object_id>3701174</object_id>
+      <w>327</w>
+      <y>478</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>second floor</name>
+      <h>236</h>
+      <object_id>3701175</object_id>
+      <w>398</w>
+      <y>8</y>
+      <x>293</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>two-story</attribute>
+      </attributes>
+      <name>building</name>
+      <h>513</h>
+      <object_id>1584050</object_id>
+      <w>411</w>
+      <y>5</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>terrace</name>
+      <h>240</h>
+      <object_id>3701176</object_id>
+      <w>329</w>
+      <y>17</y>
+      <x>332</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue car parked in front of an apartment.</caption>
+      <caption>A small blue car parked outside a house</caption>
+      <caption>A car parked on a steep hill near some buildings</caption>
+      <caption>A blue car that is parked on the side of the street.</caption>
+      <caption>a small blue car parked on the road in front of a building </caption>
+    </captions>
+</image>

@@ -1,0 +1,104 @@
+<image>
+  <image-id>2377740</image-id>
+  <coco-id>387599</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1913886</relationship_id>
+      <predicate>IN</predicate>
+      <subject>716659</subject>
+      <object>716661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1913887</relationship_id>
+      <predicate>around</predicate>
+      <subject>716662</subject>
+      <object>716665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1913888</relationship_id>
+      <predicate>has</predicate>
+      <subject>716665</subject>
+      <object>716660</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1913889</relationship_id>
+      <predicate>IN</predicate>
+      <subject>716659</subject>
+      <object>716661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1913890</relationship_id>
+      <predicate>with</predicate>
+      <subject>716661</subject>
+      <object>716659</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute> pretty</attribute>
+        <attribute>pink</attribute>
+        <attribute>yellow</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>57</h>
+      <object_id>716659</object_id>
+      <w>92</w>
+      <y>82</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>49</h>
+      <object_id>716661</object_id>
+      <w>55</w>
+      <y>138</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>158</h>
+      <object_id>716662</object_id>
+      <w>452</w>
+      <y>176</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>123</h>
+      <object_id>716665</object_id>
+      <w>434</w>
+      <y>171</y>
+      <x>36</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>checkered</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cloth</name>
+      <h>149</h>
+      <object_id>716660</object_id>
+      <w>441</w>
+      <y>185</y>
+      <x>31</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A middle view of two chairs facing a table and two other chairs.</caption>
+      <caption>A vase of flowers sitting on a checkered table cloth</caption>
+      <caption>a close up of two chairs near a table with flowers on it</caption>
+      <caption>A table with two white chairs with a green vase filled with flowers on top of it.</caption>
+      <caption>A couple of chairs are facing a flower pot.</caption>
+    </captions>
+</image>

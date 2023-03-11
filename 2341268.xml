@@ -1,0 +1,112 @@
+<image>
+  <image-id>2341268</image-id>
+  <coco-id>106981</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3948063</relationship_id>
+      <predicate>standing up on</predicate>
+      <subject>2351838</subject>
+      <object>2351839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4445806</relationship_id>
+      <predicate>on</predicate>
+      <subject>2623428</subject>
+      <object>2351839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3948065</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2828346</subject>
+      <object>2828347</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4445807</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>2082518</subject>
+      <object>3921945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4445808</relationship_id>
+      <predicate>driving down</predicate>
+      <subject>2828347</subject>
+      <object>3921946</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>69</h>
+      <object_id>2351838</object_id>
+      <w>28</w>
+      <y>23</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>257</h>
+      <object_id>2351839</object_id>
+      <w>494</w>
+      <y>78</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>trash</name>
+      <h>167</h>
+      <object_id>2623428</object_id>
+      <w>227</w>
+      <y>137</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bike</name>
+      <h>56</h>
+      <object_id>2828346</object_id>
+      <w>84</w>
+      <y>69</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>cart</name>
+      <h>135</h>
+      <object_id>2828347</object_id>
+      <w>217</w>
+      <y>26</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>72</h>
+      <object_id>2082518</object_id>
+      <w>122</w>
+      <y>49</y>
+      <x>356</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>23</h>
+      <object_id>3921945</object_id>
+      <w>230</w>
+      <y>161</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>80</h>
+      <object_id>3921946</object_id>
+      <w>283</w>
+      <y>133</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black cow and dog near a pile of trash.</caption>
+      <caption>a very poor country with a bull in town rummaging through trash</caption>
+      <caption>A black cow has his nose toward a pile of trash as a man stands near by on a busy street.</caption>
+      <caption>A crowd of people and vehicles that are parked .</caption>
+      <caption>a street filled with trash, people, a cow, and some cars  </caption>
+    </captions>
+</image>

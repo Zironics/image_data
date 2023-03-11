@@ -1,0 +1,76 @@
+<image>
+  <image-id>2374988</image-id>
+  <coco-id>303873</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1941405</relationship_id>
+      <predicate>ON</predicate>
+      <subject>724119</subject>
+      <object>724117</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1941406</relationship_id>
+      <predicate>OF</predicate>
+      <subject>724120</subject>
+      <object>724117</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1941407</relationship_id>
+      <predicate>ON</predicate>
+      <subject>724119</subject>
+      <object>724117</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1941408</relationship_id>
+      <predicate>ON</predicate>
+      <subject>724126</subject>
+      <object>724117</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>nose</name>
+      <h>26</h>
+      <object_id>724119</object_id>
+      <w>29</w>
+      <y>211</y>
+      <x>304</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>black</attribute>
+        <attribute>man</attribute>
+      </attributes>
+      <name>statue</name>
+      <h>174</h>
+      <object_id>724117</object_id>
+      <w>117</w>
+      <y>94</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>elbow</name>
+      <h>110</h>
+      <object_id>724120</object_id>
+      <w>96</w>
+      <y>64</y>
+      <x>347</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>153</h>
+      <object_id>724126</object_id>
+      <w>123</w>
+      <y>177</y>
+      <x>247</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very large clock among a lot of windows. </caption>
+      <caption>A clock mounted to the side of a building next to Olympic rings.</caption>
+      <caption>a large building that has a very large clock on it</caption>
+      <caption>a clock is sitting on the outside of the building</caption>
+      <caption>A clock can be seen on the exterior of a building.</caption>
+    </captions>
+</image>

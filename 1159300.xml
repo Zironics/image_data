@@ -1,0 +1,73 @@
+<image>
+  <image-id>1159300</image-id>
+  <coco-id>401862</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4263246</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1591287</subject>
+      <object>1591288</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4066745</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1591290</subject>
+      <object>1591289</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4066746</relationship_id>
+      <predicate>on side of a</predicate>
+      <subject>1591292</subject>
+      <object>1591292</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pants</name>
+      <h>207</h>
+      <object_id>1591287</object_id>
+      <w>127</w>
+      <y>470</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>387</h>
+      <object_id>1591288</object_id>
+      <w>133</w>
+      <y>299</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>122</h>
+      <object_id>1591290</object_id>
+      <w>108</w>
+      <y>359</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>370</h>
+      <object_id>1591289</object_id>
+      <w>156</w>
+      <y>323</y>
+      <x>296</x>
+    </object>
+    <object>
+      <h>90</h>
+      <object_id>1591292</object_id>
+      <w>88</w>
+      <y>301</y>
+      <x>934</x>
+      <name>building</name>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>PEOPLE WAITING IN LINE TO GET FOOD FROM A FOOD TRUCK</caption>
+      <caption>People line up to buy food from a food truck.</caption>
+      <caption>people standing in line beside a food truck</caption>
+      <caption>People are lined up by a red food truck.</caption>
+      <caption>a line of food trucks and a group of people stand by</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2347543</image-id>
+  <coco-id>37001</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2590828</relationship_id>
+      <predicate>IN</predicate>
+      <subject>889803</subject>
+      <object>889808</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>315</h>
+      <object_id>889803</object_id>
+      <w>148</w>
+      <y>22</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>156</h>
+      <object_id>889808</object_id>
+      <w>150</w>
+      <y>180</y>
+      <x>21</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little kid standing in front of a pile of stuffed animals.</caption>
+      <caption>A child with stuffed animals in the background</caption>
+      <caption>The little boy is standing near the line of stuffed animals.</caption>
+      <caption>A boy standing in front of a bed of stuffed animals.</caption>
+      <caption>The young kid seems proud of his trio of stuffed animals.</caption>
+    </captions>
+</image>

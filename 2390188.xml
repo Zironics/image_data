@@ -1,0 +1,161 @@
+<image>
+  <image-id>2390188</image-id>
+  <coco-id>398225</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1168702</relationship_id>
+      <predicate>IN</predicate>
+      <subject>499699</subject>
+      <object>499700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1168703</relationship_id>
+      <predicate>ON</predicate>
+      <subject>499699</subject>
+      <object>499700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1168704</relationship_id>
+      <predicate>OF</predicate>
+      <subject>499694</subject>
+      <object>499693</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1168705</relationship_id>
+      <predicate>has a</predicate>
+      <subject>499693</subject>
+      <object>499707</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1168706</relationship_id>
+      <predicate>has</predicate>
+      <subject>499693</subject>
+      <object>499709</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1168707</relationship_id>
+      <predicate>ON</predicate>
+      <subject>499710</subject>
+      <object>499712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1168708</relationship_id>
+      <predicate>has</predicate>
+      <subject>499703</subject>
+      <object>499713</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> of  bulb</attribute>
+        <attribute>recessed</attribute>
+      </attributes>
+      <name>light</name>
+      <h>21</h>
+      <object_id>499699</object_id>
+      <w>61</w>
+      <y>59</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ceiling</name>
+      <h>80</h>
+      <object_id>499700</object_id>
+      <w>476</w>
+      <y>4</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bare</attribute>
+        <attribute> of  mattress</attribute>
+        <attribute>king sized</attribute>
+      </attributes>
+      <name>mattress</name>
+      <h>83</h>
+      <object_id>499694</object_id>
+      <w>221</w>
+      <y>192</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light colored</attribute>
+        <attribute>a full size</attribute>
+      </attributes>
+      <name>bed</name>
+      <h>174</h>
+      <object_id>499693</object_id>
+      <w>247</w>
+      <y>154</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>120</h>
+      <object_id>499707</object_id>
+      <w>23</w>
+      <y>216</y>
+      <x>376</x>
+    </object>
+    <object>
+      <name>four posters</name>
+      <h>173</h>
+      <object_id>499709</object_id>
+      <w>245</w>
+      <y>155</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>framed</attribute>
+      </attributes>
+      <name>picture</name>
+      <h>45</h>
+      <object_id>499710</object_id>
+      <w>68</w>
+      <y>79</y>
+      <x>378</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>156</h>
+      <object_id>499712</object_id>
+      <w>257</w>
+      <y>76</y>
+      <x>243</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute> of bed</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>headboard</name>
+      <h>64</h>
+      <object_id>499703</object_id>
+      <w>134</w>
+      <y>147</y>
+      <x>342</x>
+    </object>
+    <object>
+      <name>2 posts</name>
+      <h>92</h>
+      <object_id>499713</object_id>
+      <w>134</w>
+      <y>151</y>
+      <x>343</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bedroom with a bed and a couch. </caption>
+      <caption>A blurry photo of a sofa and a bed.</caption>
+      <caption>A bed sitting inside of a room next to a couch.</caption>
+      <caption>A very big room with a bed and a couch in it.</caption>
+      <caption>a black and blue couch a light and a bed without sheets</caption>
+    </captions>
+</image>

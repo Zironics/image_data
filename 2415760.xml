@@ -1,0 +1,88 @@
+<image>
+  <image-id>2415760</image-id>
+  <coco-id>451751</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3176538</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1056384</subject>
+      <object>1056385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3176542</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1056384</subject>
+      <object>1056385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3176543</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>1056386</subject>
+      <object>1056383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3176544</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1056384</subject>
+      <object>1056385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3176545</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>1056386</subject>
+      <object>1056392</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tattoo</name>
+      <h>40</h>
+      <object_id>1056384</object_id>
+      <w>37</w>
+      <y>284</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>94</h>
+      <object_id>1056385</object_id>
+      <w>117</w>
+      <y>246</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>250</h>
+      <object_id>1056386</object_id>
+      <w>229</w>
+      <y>89</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>138</h>
+      <object_id>1056383</object_id>
+      <w>142</w>
+      <y>147</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>blanket</name>
+      <h>242</h>
+      <object_id>1056392</object_id>
+      <w>488</w>
+      <y>132</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man is on a rug with a laptop computer.</caption>
+      <caption>A man is laying on the bed while using a computer.</caption>
+      <caption>a man lays on the floor as he messes with a laptop</caption>
+      <caption>a man reclines on a bed and works on his laptop computer</caption>
+      <caption> A man lying the floor working on his laptop.</caption>
+    </captions>
+</image>

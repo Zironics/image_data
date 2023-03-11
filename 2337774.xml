@@ -1,0 +1,86 @@
+<image>
+  <image-id>2337774</image-id>
+  <coco-id>334217</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4073074</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>2913301</subject>
+      <object>2913303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073075</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>2913302</subject>
+      <object>2913303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073078</relationship_id>
+      <predicate>on side</predicate>
+      <subject>2366528</subject>
+      <object>3705600</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Brown</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>82</h>
+      <object_id>2913301</object_id>
+      <w>148</w>
+      <y>131</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>188</h>
+      <object_id>2913303</object_id>
+      <w>497</w>
+      <y>144</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>Brown</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>91</h>
+      <object_id>2913302</object_id>
+      <w>128</w>
+      <y>131</y>
+      <x>302</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Fluffy</attribute>
+        <attribute>white</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>81</h>
+      <object_id>2366528</object_id>
+      <w>438</w>
+      <y>6</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>108</h>
+      <object_id>3705600</object_id>
+      <w>494</w>
+      <y>4</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Horses standing in a field full of smoke.</caption>
+      <caption>A bunch of horses in a field near a smoke plume</caption>
+      <caption>a number of horses in a field with mountains in the background</caption>
+      <caption>Horses and cows standing in a valley meadow with some3thing smoking in the grass in front of them. </caption>
+      <caption>Horses in a group next to the fire in the field.</caption>
+    </captions>
+</image>

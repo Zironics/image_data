@@ -1,0 +1,148 @@
+<image>
+  <image-id>2386748</image-id>
+  <coco-id>325143</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3513202</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>1282883</subject>
+      <object>1282884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513203</relationship_id>
+      <predicate>are sitting in a</predicate>
+      <subject>1282899</subject>
+      <object>1282884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513204</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>1282881</subject>
+      <object>1282889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513205</relationship_id>
+      <predicate>are sitting in</predicate>
+      <subject>1282901</subject>
+      <object>1282899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513206</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1282896</subject>
+      <object>1282897</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513207</relationship_id>
+      <predicate>are sitting by an</predicate>
+      <subject>1282901</subject>
+      <object>1282899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513208</relationship_id>
+      <predicate>are sitting in</predicate>
+      <subject>1282901</subject>
+      <object>1282899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513209</relationship_id>
+      <predicate>are sitting amidst</predicate>
+      <subject>1282901</subject>
+      <object>1282899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513210</relationship_id>
+      <predicate>has</predicate>
+      <subject>1282900</subject>
+      <object>1282901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>colored orange</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>57</h>
+      <object_id>1282883</object_id>
+      <w>63</w>
+      <y>124</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>pile</name>
+      <h>209</h>
+      <object_id>1282884</object_id>
+      <w>497</w>
+      <y>124</y>
+      <x>1</x>
+    </object>
+    <object>
+      <h>55</h>
+      <object_id>1282899</object_id>
+      <w>58</w>
+      <y>192</y>
+      <x>181</x>
+      <name>orange</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>bananas</name>
+      <h>211</h>
+      <object_id>1282881</object_id>
+      <w>304</w>
+      <y>2</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>pile</name>
+      <h>213</h>
+      <object_id>1282889</object_id>
+      <w>299</w>
+      <y>2</y>
+      <x>201</x>
+    </object>
+    <object>
+      <h>30</h>
+      <object_id>1282901</object_id>
+      <w>18</w>
+      <y>229</y>
+      <x>130</x>
+      <name>green leaves</name>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>63</h>
+      <object_id>1282896</object_id>
+      <w>65</w>
+      <y>236</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>crease</name>
+      <h>46</h>
+      <object_id>1282897</object_id>
+      <w>11</w>
+      <y>241</y>
+      <x>360</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>49</h>
+      <object_id>1282900</object_id>
+      <w>56</w>
+      <y>235</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pile of oranges sitting next to a pile of green apples.</caption>
+      <caption>A display of apples oranges and bananas at a fruit stand.</caption>
+      <caption>Apples and oranges and bananas at a fruit stand</caption>
+      <caption>Delicious looking fruit of various types are pictured.</caption>
+      <caption>some oranges, apples, and bananas clustered and stacked high</caption>
+    </captions>
+</image>

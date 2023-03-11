@@ -1,0 +1,64 @@
+<image>
+  <image-id>2391945</image-id>
+  <coco-id>547808</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3441737</relationship_id>
+      <predicate>has</predicate>
+      <subject>1235788</subject>
+      <object>1235796</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3441738</relationship_id>
+      <predicate>has</predicate>
+      <subject>1235788</subject>
+      <object>1235805</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+        <attribute>pulling train</attribute>
+        <attribute>red white blue</attribute>
+        <attribute>colorful</attribute>
+        <attribute>leading train</attribute>
+      </attributes>
+      <name>train</name>
+      <h>90</h>
+      <object_id>1235788</object_id>
+      <w>261</w>
+      <y>21</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on train</attribute>
+      </attributes>
+      <name>window</name>
+      <h>16</h>
+      <object_id>1235796</object_id>
+      <w>46</w>
+      <y>28</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in line</attribute>
+      </attributes>
+      <name>cars</name>
+      <h>49</h>
+      <object_id>1235805</object_id>
+      <w>216</w>
+      <y>57</y>
+      <x>266</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red, white and blue train on the tracks in a mountainous location.</caption>
+      <caption>A red, white and blue train in motion on tracks.</caption>
+      <caption>A colorful train traveling at high speed across the tracks</caption>
+      <caption>a red, whit and blue train traveling on a train track</caption>
+      <caption>A red white and blue train is going down the tracks.</caption>
+    </captions>
+</image>

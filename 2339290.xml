@@ -1,0 +1,182 @@
+<image>
+  <image-id>2339290</image-id>
+  <coco-id>361386</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4049802</relationship_id>
+      <predicate>parked in</predicate>
+      <subject>2692139</subject>
+      <object>2692140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458228</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2697859</subject>
+      <object>2029699</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3648962</relationship_id>
+      <predicate>has</predicate>
+      <subject>2692139</subject>
+      <object>3194424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458229</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3929256</subject>
+      <object>2068362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458230</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3929257</subject>
+      <object>2068362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3648972</relationship_id>
+      <predicate>worn while riding a</predicate>
+      <subject>3359295</subject>
+      <object>2692139</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458231</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2552962</subject>
+      <object>2029699</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458232</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3230786</subject>
+      <object>3929258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458233</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3929260</subject>
+      <object>2029699</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458234</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2692139</subject>
+      <object>2029699</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>motorbike</name>
+      <h>253</h>
+      <object_id>2692139</object_id>
+      <w>370</w>
+      <y>34</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>parking</attribute>
+      </attributes>
+      <name>parking lot</name>
+      <h>156</h>
+      <object_id>2692140</object_id>
+      <w>498</w>
+      <y>175</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>27</h>
+      <object_id>2697859</object_id>
+      <w>21</w>
+      <y>35</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>252</h>
+      <object_id>2029699</object_id>
+      <w>368</w>
+      <y>35</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>108</h>
+      <object_id>3194424</object_id>
+      <w>172</w>
+      <y>174</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>rim</name>
+      <h>63</h>
+      <object_id>3929256</object_id>
+      <w>69</w>
+      <y>191</y>
+      <x>350</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>285</h>
+      <object_id>2068362</object_id>
+      <w>411</w>
+      <y>30</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>rim</name>
+      <h>43</h>
+      <object_id>3929257</object_id>
+      <w>32</w>
+      <y>194</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>52</h>
+      <object_id>3359295</object_id>
+      <w>94</w>
+      <y>84</y>
+      <x>102</x>
+    </object>
+    <object>
+      <name>seat</name>
+      <h>43</h>
+      <object_id>2552962</object_id>
+      <w>112</w>
+      <y>112</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>30</h>
+      <object_id>3230786</object_id>
+      <w>38</w>
+      <y>78</y>
+      <x>295</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>225</h>
+      <object_id>3929258</object_id>
+      <w>354</w>
+      <y>49</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>80</h>
+      <object_id>3929260</object_id>
+      <w>96</w>
+      <y>164</y>
+      <x>221</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motorcycle is in a parking lot with a helmet on top.</caption>
+      <caption>A motorcycle parked in a parking lot next to trees.</caption>
+      <caption>A motorcycle parked in a parking lot with a helmet on the seat.</caption>
+      <caption>A motorcycle is parked in an empty parking lot.</caption>
+      <caption>A motorcycle with a helmet on it is parked in a parking lot.</caption>
+    </captions>
+</image>

@@ -1,0 +1,41 @@
+<image>
+  <image-id>2320353</image-id>
+  <coco-id>139782</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2967191</relationship_id>
+      <predicate>IN</predicate>
+      <subject>993971</subject>
+      <object>993972</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>jumping</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>man</name>
+      <h>108</h>
+      <object_id>993971</object_id>
+      <w>123</w>
+      <y>94</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>24</h>
+      <object_id>993972</object_id>
+      <w>23</w>
+      <y>62</y>
+      <x>240</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man flying through the air while riding a snowboard.</caption>
+      <caption>A snowboarder hitting a trick in the middle of the air.</caption>
+      <caption>A man in black jacket doing a trick on a snowboard.</caption>
+      <caption>a person jumping high in the air with a snowboard </caption>
+      <caption>A snowboarder jumps in the air and grabs their board.</caption>
+    </captions>
+</image>

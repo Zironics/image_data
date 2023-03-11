@@ -1,0 +1,59 @@
+<image>
+  <image-id>2338418</image-id>
+  <coco-id>273617</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4062939</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2948194</subject>
+      <object>2948193</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460008</relationship_id>
+      <predicate>atop</predicate>
+      <subject>2760361</subject>
+      <object>3930238</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>octagon</name>
+      <h>30</h>
+      <object_id>2948194</object_id>
+      <w>28</w>
+      <y>127</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>35</h>
+      <object_id>2948193</object_id>
+      <w>31</w>
+      <y>125</y>
+      <x>99</x>
+    </object>
+    <object>
+      <h>17</h>
+      <object_id>2760361</object_id>
+      <w>19</w>
+      <y>110</y>
+      <x>102</x>
+      <name>sign</name>
+    </object>
+    <object>
+      <name>stop sign</name>
+      <h>150</h>
+      <object_id>3930238</object_id>
+      <w>40</w>
+      <y>125</y>
+      <x>94</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a street light is on at the top of a hilll</caption>
+      <caption>An intersection with a street sign, traffic sign and a street light. </caption>
+      <caption>A stop sign and lighted lamp post along a street at dusk.</caption>
+      <caption>A city street at dusk with a street light that is on and a stop sign across the street.</caption>
+      <caption>A light shining on the street at night time</caption>
+    </captions>
+</image>

@@ -1,0 +1,71 @@
+<image>
+  <image-id>2398452</image-id>
+  <coco-id>107135</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4688938</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4318788</subject>
+      <object>4318789</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4688953</relationship_id>
+      <predicate>are</predicate>
+      <subject>4318827</subject>
+      <object>4318828</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4688954</relationship_id>
+      <predicate>are</predicate>
+      <subject>4318827</subject>
+      <object>4318828</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>picture</name>
+      <h>41</h>
+      <object_id>4318788</object_id>
+      <w>62</w>
+      <y>6</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>78</h>
+      <object_id>4318789</object_id>
+      <w>103</w>
+      <y>7</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green peas</name>
+      <h>68</h>
+      <object_id>4318827</object_id>
+      <w>97</w>
+      <y>308</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>visible</name>
+      <h>112</h>
+      <object_id>4318828</object_id>
+      <w>178</w>
+      <y>264</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pile of food next to a drink and greens.</caption>
+      <caption>A closeup of some sort of fried food</caption>
+      <caption>There is a close up picture of some fried food</caption>
+      <caption>I think these are tater tots and onions.</caption>
+      <caption>A chicken dish that has been fried with grilled onions and a beer.</caption>
+    </captions>
+</image>

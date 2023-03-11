@@ -1,0 +1,90 @@
+<image>
+  <image-id>2354781</image-id>
+  <coco-id>326849</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4226891</relationship_id>
+      <predicate>under</predicate>
+      <subject>1774170</subject>
+      <object>2198979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4400460</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2188027</subject>
+      <object>2543146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4400461</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2543148</subject>
+      <object>2543146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4400462</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2543149</subject>
+      <object>2543146</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>napkin</name>
+      <h>81</h>
+      <object_id>1774170</object_id>
+      <w>364</w>
+      <y>276</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>205</h>
+      <object_id>2198979</object_id>
+      <w>223</w>
+      <y>117</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>microwave</attribute>
+      </attributes>
+      <name>vent</name>
+      <h>100</h>
+      <object_id>2188027</object_id>
+      <w>55</w>
+      <y>103</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>microwave</name>
+      <h>372</h>
+      <object_id>2543146</object_id>
+      <w>493</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>vent</name>
+      <h>79</h>
+      <object_id>2543148</object_id>
+      <w>16</w>
+      <y>120</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>vent</name>
+      <h>37</h>
+      <object_id>2543149</object_id>
+      <w>62</w>
+      <y>20</y>
+      <x>86</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow banana on top of a coffee cup in a microwave. </caption>
+      <caption>A white coffee cup with a banana sitting on top. </caption>
+      <caption>Banana on top of a coffee mug inside of an open microwave.</caption>
+      <caption>Banana on a white mug in a microwave.</caption>
+      <caption>A ripe yellow banana sitting on a mug.</caption>
+    </captions>
+</image>

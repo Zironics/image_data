@@ -1,0 +1,80 @@
+<image>
+  <image-id>2400044</image-id>
+  <coco-id>13912</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>873220</relationship_id>
+      <predicate>has</predicate>
+      <subject>411847</subject>
+      <object>411850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>873221</relationship_id>
+      <predicate>full of</predicate>
+      <subject>411846</subject>
+      <object>411862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>873222</relationship_id>
+      <predicate>full of</predicate>
+      <subject>411846</subject>
+      <object>411862</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>existing</attribute>
+        <attribute>seated</attribute>
+      </attributes>
+      <name>man</name>
+      <h>74</h>
+      <object_id>411847</object_id>
+      <w>66</w>
+      <y>135</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>fingers</name>
+      <h>8</h>
+      <object_id>411850</object_id>
+      <w>9</w>
+      <y>151</y>
+      <x>291</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+        <attribute>full of oranges</attribute>
+        <attribute>one of several</attribute>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>container</name>
+      <h>97</h>
+      <object_id>411846</object_id>
+      <w>90</w>
+      <y>223</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>existing</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>oranges</name>
+      <h>58</h>
+      <object_id>411862</object_id>
+      <w>59</w>
+      <y>233</y>
+      <x>252</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bunch of oranges that are under a building</caption>
+      <caption> very bright colored looking market with a bunch of fruit.</caption>
+      <caption>A man sitting in a chair in front of a marketplace</caption>
+      <caption>A man sits beside large bags of fruit in a market.</caption>
+      <caption>There is plenty of fresh fruit being sold at the store.</caption>
+    </captions>
+</image>

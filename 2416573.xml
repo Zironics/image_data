@@ -1,0 +1,79 @@
+<image>
+  <image-id>2416573</image-id>
+  <coco-id>480005</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4099122</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2889164</subject>
+      <object>2889165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3695500</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2889164</subject>
+      <object>3380636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3905103</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3449127</subject>
+      <object>3449125</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>137</h>
+      <object_id>2889164</object_id>
+      <w>70</w>
+      <y>35</y>
+      <x>312</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flat</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>83</h>
+      <object_id>2889165</object_id>
+      <w>307</w>
+      <y>122</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>wood oar</name>
+      <h>143</h>
+      <object_id>3380636</object_id>
+      <w>202</w>
+      <y>110</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>35</h>
+      <object_id>3449127</object_id>
+      <w>102</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>39</h>
+      <object_id>3449125</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person paddling a boat filled with fruits and vegetables.</caption>
+      <caption>A man that is standing in a boat in the water.</caption>
+      <caption>a man standing in a boat filled with produce.</caption>
+      <caption>A woman with fruits and vegetables in a boat on the harbor.</caption>
+      <caption>This is a man paddling his own boat full of produce.</caption>
+    </captions>
+</image>

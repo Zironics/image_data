@@ -1,0 +1,121 @@
+<image>
+  <image-id>2337768</image-id>
+  <coco-id>517875</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4073182</relationship_id>
+      <predicate>reading on</predicate>
+      <subject>3048567</subject>
+      <object>3221599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073183</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>3226379</subject>
+      <object>3226381</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073184</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>3226380</subject>
+      <object>3226381</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073185</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3221598</subject>
+      <object>3048567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073186</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3048567</subject>
+      <object>3221599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073187</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>3484686</subject>
+      <object>3705626</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>106</h>
+      <object_id>3048567</object_id>
+      <w>89</w>
+      <y>205</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>77</h>
+      <object_id>3221599</object_id>
+      <w>84</w>
+      <y>253</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white car</name>
+      <h>57</h>
+      <object_id>3226379</object_id>
+      <w>94</w>
+      <y>160</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>131</h>
+      <object_id>3226381</object_id>
+      <w>345</w>
+      <y>140</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white car</name>
+      <h>31</h>
+      <object_id>3226380</object_id>
+      <w>53</w>
+      <y>132</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>28</h>
+      <object_id>3221598</object_id>
+      <w>47</w>
+      <y>213</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>cars</name>
+      <h>33</h>
+      <object_id>3484686</object_id>
+      <w>151</w>
+      <y>142</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>126</h>
+      <object_id>3705626</object_id>
+      <w>350</w>
+      <y>151</y>
+      <x>149</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting on top of a bench next to a mail box.</caption>
+      <caption>A man reads on a bench park a pretty park.</caption>
+      <caption>A city sidewalk lined with trees and people sitting in benches.</caption>
+      <caption>A sidewalk view of people sitting on park benches.</caption>
+      <caption>A man that is sitting down on a bench.</caption>
+    </captions>
+</image>

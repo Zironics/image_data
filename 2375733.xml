@@ -1,0 +1,176 @@
+<image>
+  <image-id>2375733</image-id>
+  <coco-id>490125</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1449646</relationship_id>
+      <predicate>has</predicate>
+      <subject>579835</subject>
+      <object>579836</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1449647</relationship_id>
+      <predicate>are on</predicate>
+      <subject>579838</subject>
+      <object>579833</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1449648</relationship_id>
+      <predicate>IN</predicate>
+      <subject>579840</subject>
+      <object>579841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1449649</relationship_id>
+      <predicate>are on</predicate>
+      <subject>579843</subject>
+      <object>579833</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1449650</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>579841</subject>
+      <object>579844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1449651</relationship_id>
+      <predicate>IN</predicate>
+      <subject>579848</subject>
+      <object>579841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1449652</relationship_id>
+      <predicate>are standing on</predicate>
+      <subject>579832</subject>
+      <object>579844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1449653</relationship_id>
+      <predicate>lead to</predicate>
+      <subject>579857</subject>
+      <object>579858</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>63</h>
+      <object_id>579835</object_id>
+      <w>39</w>
+      <y>132</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>long legs</name>
+      <h>28</h>
+      <object_id>579836</object_id>
+      <w>19</w>
+      <y>165</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>49</h>
+      <object_id>579838</object_id>
+      <w>64</w>
+      <y>4</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan colored</attribute>
+      </attributes>
+      <name>building</name>
+      <h>103</h>
+      <object_id>579833</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>35</h>
+      <object_id>579840</object_id>
+      <w>32</w>
+      <y>235</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>puddle</name>
+      <h>48</h>
+      <object_id>579841</object_id>
+      <w>268</w>
+      <y>224</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in a row</attribute>
+      </attributes>
+      <name>three windows</name>
+      <h>52</h>
+      <object_id>579843</object_id>
+      <w>106</w>
+      <y>4</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>asphalt</name>
+      <h>238</h>
+      <object_id>579844</object_id>
+      <w>495</w>
+      <y>95</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>35</h>
+      <object_id>579848</object_id>
+      <w>219</w>
+      <y>228</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>in a group</attribute>
+      </attributes>
+      <name>birds</name>
+      <h>110</h>
+      <object_id>579832</object_id>
+      <w>467</w>
+      <y>133</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>stairs</name>
+      <h>32</h>
+      <object_id>579857</object_id>
+      <w>35</w>
+      <y>66</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>entrance</name>
+      <h>63</h>
+      <object_id>579858</object_id>
+      <w>13</w>
+      <y>11</y>
+      <x>385</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>White birds are gathered around a water puddle.</caption>
+      <caption>A group of birds in a bunch of puddles. </caption>
+      <caption>White birds getting a drink from the water puddles.</caption>
+      <caption>Several white birds standing in a puddle in a parking lot.</caption>
+      <caption>A flock of white birds stands in a parking lot puddle.</caption>
+    </captions>
+</image>

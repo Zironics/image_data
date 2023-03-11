@@ -1,0 +1,88 @@
+<image>
+  <image-id>2404391</image-id>
+  <coco-id>170558</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1716877</relationship_id>
+      <predicate>ON</predicate>
+      <subject>656220</subject>
+      <object>656221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1716878</relationship_id>
+      <predicate>with</predicate>
+      <subject>656216</subject>
+      <object>656228</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1716879</relationship_id>
+      <predicate>has</predicate>
+      <subject>656216</subject>
+      <object>656220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1716880</relationship_id>
+      <predicate>has</predicate>
+      <subject>656216</subject>
+      <object>656231</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>headphone</name>
+      <h>48</h>
+      <object_id>656220</object_id>
+      <w>58</w>
+      <y>214</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>87</h>
+      <object_id>656221</object_id>
+      <w>96</w>
+      <y>213</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>holding</attribute>
+        <attribute>wearing</attribute>
+        <attribute>smoking</attribute>
+        <attribute>using</attribute>
+        <attribute>typing</attribute>
+        <attribute>touching</attribute>
+        <attribute>focused</attribute>
+      </attributes>
+      <name>man</name>
+      <h>67</h>
+      <object_id>656216</object_id>
+      <w>72</w>
+      <y>249</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>37</h>
+      <object_id>656228</object_id>
+      <w>29</w>
+      <y>209</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>ipod</name>
+      <h>70</h>
+      <object_id>656231</object_id>
+      <w>51</w>
+      <y>396</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Adults using laptop computers while sitting at outdoor venue.</caption>
+      <caption>A row of men using laptops on side of a building.</caption>
+      <caption>A man is on his laptop while people looking on. </caption>
+      <caption>a number of people siting on a bench with a laptop</caption>
+      <caption>Young men sit next to each other working on laptops. </caption>
+    </captions>
+</image>

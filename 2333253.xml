@@ -1,0 +1,51 @@
+<image>
+  <image-id>2333253</image-id>
+  <coco-id>108020</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260450</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3384480</subject>
+      <object>3795346</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260451</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3209396</subject>
+      <object>3795346</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffe</name>
+      <h>202</h>
+      <object_id>3384480</object_id>
+      <w>48</w>
+      <y>150</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>enclosure</name>
+      <h>298</h>
+      <object_id>3795346</object_id>
+      <w>363</w>
+      <y>198</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>203</h>
+      <object_id>3209396</object_id>
+      <w>145</w>
+      <y>147</y>
+      <x>127</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of giraffe standing next to each other.</caption>
+      <caption>Three giraffes stand in an area with provided food.</caption>
+      <caption>a couple of giraffes are standing in the dirt</caption>
+      <caption>Three giraffes are seen in the distance around a pole.</caption>
+      <caption>Three giraffes  one tugging at something on a pole with his mouth.</caption>
+    </captions>
+</image>

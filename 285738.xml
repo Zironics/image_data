@@ -1,0 +1,51 @@
+<image>
+  <image-id>285738</image-id>
+  <coco-id>22008</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4047243</relationship_id>
+      <predicate>looks at</predicate>
+      <subject>1569224</subject>
+      <object>1569223</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4047244</relationship_id>
+      <predicate>looks at</predicate>
+      <subject>1569225</subject>
+      <object>1569223</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>305</h>
+      <object_id>1569224</object_id>
+      <w>106</w>
+      <y>807</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>cell phone</name>
+      <h>23</h>
+      <object_id>1569223</object_id>
+      <w>37</w>
+      <y>865</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>305</h>
+      <object_id>1569225</object_id>
+      <w>142</w>
+      <y>818</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Many pedestrians are navigating around a street corner</caption>
+      <caption>a painting of a person and a dog on a city street</caption>
+      <caption>A crowd of people walking down a busy city street.</caption>
+      <caption>A painting of a man walking his dog, sitting on a sidewalk.</caption>
+      <caption>A dog and people are on a dark city street, difficult to make out details.</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2380830</image-id>
+  <coco-id>301508</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4632526</relationship_id>
+      <predicate>has</predicate>
+      <subject>4176256</subject>
+      <object>4176257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4632533</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4176270</subject>
+      <object>4176271</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>35</h>
+      <object_id>4176256</object_id>
+      <w>35</w>
+      <y>177</y>
+      <x>174</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>face</name>
+      <h>29</h>
+      <object_id>4176257</object_id>
+      <w>25</w>
+      <y>180</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>archways</name>
+      <h>23</h>
+      <object_id>4176270</object_id>
+      <w>70</w>
+      <y>146</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>clock tower</name>
+      <h>257</h>
+      <object_id>4176271</object_id>
+      <w>101</w>
+      <y>13</y>
+      <x>134</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very pretty tall clock tower near a very narrow street.</caption>
+      <caption>A city street with lots of stone buildings on both sides</caption>
+      <caption>A city has buildings and a building with a clock tower.</caption>
+      <caption>A few different buildings in a city. </caption>
+      <caption>A large clock tower towering over a city with buildings.</caption>
+    </captions>
+</image>

@@ -1,0 +1,66 @@
+<image>
+  <image-id>2329833</image-id>
+  <coco-id>361417</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4017045</relationship_id>
+      <predicate>on left of</predicate>
+      <subject>2727817</subject>
+      <object>2727818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4017046</relationship_id>
+      <predicate>on right of</predicate>
+      <subject>3480432</subject>
+      <object>3480433</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>115</h>
+      <object_id>2727817</object_id>
+      <w>62</w>
+      <y>83</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>237</h>
+      <object_id>2727818</object_id>
+      <w>92</w>
+      <y>88</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>leafless</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>134</h>
+      <object_id>3480432</object_id>
+      <w>147</w>
+      <y>53</y>
+      <x>312</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>128</h>
+      <object_id>3480433</object_id>
+      <w>102</w>
+      <y>99</y>
+      <x>192</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow commuter train heading down the tracks.</caption>
+      <caption>There is a short train moving down the tracks</caption>
+      <caption>A commuter train approaching a switch on the rail line.</caption>
+      <caption>A yellow train is on a train track</caption>
+      <caption>A small train in the cou try comming up to a railroad crossing.</caption>
+    </captions>
+</image>

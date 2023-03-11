@@ -1,0 +1,87 @@
+<image>
+  <image-id>2330055</image-id>
+  <coco-id>86426</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4830921</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4674243</subject>
+      <object>4674244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828423</relationship_id>
+      <predicate>of</predicate>
+      <subject>4668111</subject>
+      <object>4668112</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828435</relationship_id>
+      <predicate>computer</predicate>
+      <subject>4668133</subject>
+      <object>4668133</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828436</relationship_id>
+      <predicate>laptop</predicate>
+      <subject>4668135</subject>
+      <object>4668135</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>monitor</name>
+      <h>130</h>
+      <object_id>4674243</object_id>
+      <w>151</w>
+      <y>68</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>210</h>
+      <object_id>4674244</object_id>
+      <w>392</w>
+      <y>154</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>armrest</name>
+      <h>47</h>
+      <object_id>4668111</object_id>
+      <w>102</w>
+      <y>279</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>259</h>
+      <object_id>4668112</object_id>
+      <w>201</w>
+      <y>106</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>a</name>
+      <h>41</h>
+      <object_id>4668133</object_id>
+      <w>26</w>
+      <y>251</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>a</name>
+      <h>21</h>
+      <object_id>4668135</object_id>
+      <w>21</w>
+      <y>168</y>
+      <x>407</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A computer screen is lit up on a computer desk.</caption>
+      <caption>A desk has a computer and computer accessories in it.</caption>
+      <caption>A computer sits on a desk next to some shelves. </caption>
+      <caption>A computer monitor glows on a wooden desk that has a black computer chair near it.</caption>
+      <caption>A computer desk with a laptop, printer, and speakers.</caption>
+    </captions>
+</image>

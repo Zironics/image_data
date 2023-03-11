@@ -1,0 +1,91 @@
+<image>
+  <image-id>2375351</image-id>
+  <coco-id>116717</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4041577</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3693185</subject>
+      <object>1693718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4041579</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>2170918</subject>
+      <object>3693183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4304366</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2170918</subject>
+      <object>2170919</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4304367</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3693185</subject>
+      <object>1791288</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>plastic</attribute>
+      </attributes>
+      <h>237</h>
+      <object_id>3693185</object_id>
+      <w>265</w>
+      <y>37</y>
+      <x>226</x>
+      <name>basin</name>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>230</h>
+      <object_id>1693718</object_id>
+      <w>485</w>
+      <y>134</y>
+      <x>8</x>
+    </object>
+    <object>
+      <h>37</h>
+      <object_id>2170918</object_id>
+      <w>45</w>
+      <y>43</y>
+      <x>64</x>
+      <name>reflection</name>
+    </object>
+    <object>
+      <name>countertop</name>
+      <h>220</h>
+      <object_id>3693183</object_id>
+      <w>466</w>
+      <y>141</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>257</h>
+      <object_id>2170919</object_id>
+      <w>319</w>
+      <y>9</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>227</h>
+      <object_id>1791288</object_id>
+      <w>495</w>
+      <y>146</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue tank sitting on top of a bathroom counter.</caption>
+      <caption>A contraption sits on a counter next to a sink.</caption>
+      <caption>a tan counter a water pick machine and a sink</caption>
+      <caption>Humidifier with blue tub sitting on marbled counter</caption>
+      <caption>A picture of a old water pic machine. </caption>
+    </captions>
+</image>

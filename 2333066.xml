@@ -1,0 +1,95 @@
+<image>
+  <image-id>2333066</image-id>
+  <coco-id>331832</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4104411</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3264020</subject>
+      <object>3264021</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3656503</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3060391</subject>
+      <object>3060392</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260509</relationship_id>
+      <predicate>eating</predicate>
+      <subject>3264020</subject>
+      <object>2858409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260510</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2999430</subject>
+      <object>2999431</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>350</h>
+      <object_id>3264020</object_id>
+      <w>115</w>
+      <y>16</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>41</h>
+      <object_id>3264021</object_id>
+      <w>17</w>
+      <y>215</y>
+      <x>379</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>212</h>
+      <object_id>3060391</object_id>
+      <w>155</w>
+      <y>40</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>fork</name>
+      <h>22</h>
+      <object_id>3060392</object_id>
+      <w>55</w>
+      <y>190</y>
+      <x>79</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>77</h>
+      <object_id>2858409</object_id>
+      <w>147</w>
+      <y>212</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>box</name>
+      <h>77</h>
+      <object_id>2999430</object_id>
+      <w>177</w>
+      <y>213</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>50</h>
+      <object_id>2999431</object_id>
+      <w>302</w>
+      <y>323</y>
+      <x>130</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men sitting at a table eating pizza from boxes.</caption>
+      <caption>Two men seated together at a table eating food.</caption>
+      <caption>Two men eating pizza out of boxes at a table.</caption>
+      <caption>Two men sitting at a table eating pizza.</caption>
+      <caption>A pair of men cutting into some pizza at a dinner table.</caption>
+    </captions>
+</image>

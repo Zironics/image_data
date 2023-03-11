@@ -1,0 +1,46 @@
+<image>
+  <image-id>2322923</image-id>
+  <coco-id>16046</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2957742</relationship_id>
+      <predicate>has</predicate>
+      <subject>990341</subject>
+      <object>990345</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>large</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>142</h>
+      <object_id>990341</object_id>
+      <w>217</w>
+      <y>145</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tusk</name>
+      <h>15</h>
+      <object_id>990345</object_id>
+      <w>17</w>
+      <y>217</y>
+      <x>389</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of elephants walking across a grass covered field.</caption>
+      <caption>Elephants standing in the sand, one picking up a stick with its trunk.</caption>
+      <caption>Elephants in a sandy outdoor setting near some rocks.</caption>
+      <caption>Elephants standing amid dusty logs and stone formations.</caption>
+      <caption>A group of elephants are scattered in an enclosure.</caption>
+    </captions>
+</image>

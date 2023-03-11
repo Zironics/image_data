@@ -1,0 +1,81 @@
+<image>
+  <image-id>2377040</image-id>
+  <coco-id>536786</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1413168</relationship_id>
+      <predicate>IN</predicate>
+      <subject>568101</subject>
+      <object>568098</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1413169</relationship_id>
+      <predicate>behind</predicate>
+      <subject>568102</subject>
+      <object>568101</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1413170</relationship_id>
+      <predicate>IN</predicate>
+      <subject>568101</subject>
+      <object>568098</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>black</attribute>
+        <attribute>striped</attribute>
+        <attribute>long</attribute>
+        <attribute>waving</attribute>
+        <attribute>standing</attribute>
+        <attribute>white</attribute>
+        <attribute>short</attribute>
+        <attribute>alone</attribute>
+        <attribute>looking</attribute>
+        <attribute>staring</attribute>
+        <attribute>outdoors</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>111</h>
+      <object_id>568101</object_id>
+      <w>178</w>
+      <y>129</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>dry</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>78</h>
+      <object_id>568098</object_id>
+      <w>67</w>
+      <y>169</y>
+      <x>50</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>far</attribute>
+        <attribute>red</attribute>
+        <attribute>bare</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>41</h>
+      <object_id>568102</object_id>
+      <w>44</w>
+      <y>13</y>
+      <x>189</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing in tall brown grass in front of trees.</caption>
+      <caption>A zebra stands in a field of dried shrubs.</caption>
+      <caption>A single zebra standing in a tan veldt.</caption>
+      <caption>A zebra standing in  a dry field of grass.</caption>
+      <caption>A lone zebra stands in the dry savannah.</caption>
+    </captions>
+</image>

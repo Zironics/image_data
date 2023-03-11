@@ -1,0 +1,54 @@
+<image>
+  <image-id>2413979</image-id>
+  <coco-id>566518</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>156001</relationship_id>
+      <predicate>wears</predicate>
+      <subject>162214</subject>
+      <object>162215</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156002</relationship_id>
+      <predicate>wears</predicate>
+      <subject>162214</subject>
+      <object>162216</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>performing</attribute>
+      </attributes>
+      <name>snowboarder</name>
+      <h>108</h>
+      <object_id>162214</object_id>
+      <w>76</w>
+      <y>47</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>72</h>
+      <object_id>162215</object_id>
+      <w>63</w>
+      <y>83</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>45</h>
+      <object_id>162216</object_id>
+      <w>38</w>
+      <y>46</y>
+      <x>184</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skier is high in the air performing a jump while under a canopy of a dark grey sky.</caption>
+      <caption>A snow boarder jumps high in the air with stormy sky.</caption>
+      <caption>A young man riding a snowboard through the air above a mountain.</caption>
+      <caption>A snowboarder doing a jump in the snow.</caption>
+      <caption>A man skiing in the air above a snow filled mountain top</caption>
+    </captions>
+</image>

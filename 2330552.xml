@@ -1,0 +1,96 @@
+<image>
+  <image-id>2330552</image-id>
+  <coco-id>273918</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4809816</relationship_id>
+      <predicate>has</predicate>
+      <subject>4621601</subject>
+      <object>4621614</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4809817</relationship_id>
+      <predicate>on</predicate>
+      <subject>4663897</subject>
+      <object>4621601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4809818</relationship_id>
+      <predicate>has</predicate>
+      <subject>4621601</subject>
+      <object>4621618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4826714</relationship_id>
+      <predicate>ON A</predicate>
+      <subject>4663897</subject>
+      <object>4621601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4809820</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4621622</subject>
+      <object>4621623</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>551</attribute>
+      </attributes>
+      <name>train</name>
+      <h>330</h>
+      <object_id>4621601</object_id>
+      <w>476</w>
+      <y>0</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>stripe</name>
+      <h>56</h>
+      <object_id>4621614</object_id>
+      <w>132</w>
+      <y>87</y>
+      <x>79</x>
+    </object>
+    <object>
+      <h>34</h>
+      <object_id>4663897</object_id>
+      <w>76</w>
+      <y>88</y>
+      <x>0</x>
+      <name>stripe</name>
+    </object>
+    <object>
+      <name>stripe</name>
+      <h>29</h>
+      <object_id>4621618</object_id>
+      <w>38</w>
+      <y>151</y>
+      <x>348</x>
+    </object>
+    <object>
+      <name>stripe</name>
+      <h>47</h>
+      <object_id>4621622</object_id>
+      <w>79</w>
+      <y>91</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>294</h>
+      <object_id>4621623</object_id>
+      <w>473</w>
+      <y>18</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train that is sitting on the rails next to a pole.</caption>
+      <caption>The side of a large black train with a red stripe and white number.</caption>
+      <caption>A train car is shown next to a light on a pole.</caption>
+      <caption>A large black train that reads "551". </caption>
+      <caption>A black locomotive with car number 551 behind it.</caption>
+    </captions>
+</image>

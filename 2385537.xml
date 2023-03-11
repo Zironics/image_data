@@ -1,0 +1,84 @@
+<image>
+  <image-id>2385537</image-id>
+  <coco-id>125821</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4663301</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4253638</subject>
+      <object>4253639</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4663303</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4253642</subject>
+      <object>4253643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4663351</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4253743</subject>
+      <object>4253744</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tile</name>
+      <h>37</h>
+      <object_id>4253638</object_id>
+      <w>47</w>
+      <y>461</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>51</h>
+      <object_id>4253639</object_id>
+      <w>135</w>
+      <y>445</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>63</h>
+      <object_id>4253642</object_id>
+      <w>34</w>
+      <y>227</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>68</h>
+      <object_id>4253643</object_id>
+      <w>130</w>
+      <y>262</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>toaster oven</name>
+      <h>64</h>
+      <object_id>4253743</object_id>
+      <w>67</w>
+      <y>81</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>fridge</name>
+      <h>335</h>
+      <object_id>4253744</object_id>
+      <w>119</w>
+      <y>152</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kitchen has dark brown cabinets and counter.</caption>
+      <caption>A small kitchen with a refrigerator, microwave, and dishwasher.</caption>
+      <caption>A kitchen with a microwave, refrigerator, and dishwasher.</caption>
+      <caption>A picture of a very nice and clean kitchen.</caption>
+      <caption>A corner of a small kitchen with cluttered counters.</caption>
+    </captions>
+</image>

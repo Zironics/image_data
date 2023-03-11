@@ -1,0 +1,97 @@
+<image>
+  <image-id>2336849</image-id>
+  <coco-id>303210</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3962754</relationship_id>
+      <predicate>having</predicate>
+      <subject>3318333</subject>
+      <object>3661821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3962755</relationship_id>
+      <predicate>having</predicate>
+      <subject>2480002</subject>
+      <object>3661821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3962756</relationship_id>
+      <predicate>having</predicate>
+      <subject>2424330</subject>
+      <object>3661821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3962757</relationship_id>
+      <predicate>having</predicate>
+      <subject>2424331</subject>
+      <object>3661821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3962758</relationship_id>
+      <predicate>rides</predicate>
+      <subject>3318333</subject>
+      <object>2143648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skateboarding</attribute>
+        <attribute>having great fun</attribute>
+      </attributes>
+      <h>189</h>
+      <object_id>3318333</object_id>
+      <w>108</w>
+      <y>90</y>
+      <x>152</x>
+      <name>people</name>
+    </object>
+    <object>
+      <name>recreation</name>
+      <h>226</h>
+      <object_id>3661821</object_id>
+      <w>323</w>
+      <y>68</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>142</h>
+      <object_id>2480002</object_id>
+      <w>86</w>
+      <y>118</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>60</h>
+      <object_id>2424330</object_id>
+      <w>32</w>
+      <y>140</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>78</h>
+      <object_id>2424331</object_id>
+      <w>49</w>
+      <y>112</y>
+      <x>406</x>
+    </object>
+    <object>
+      <name>skateboards</name>
+      <h>70</h>
+      <object_id>2143648</object_id>
+      <w>127</w>
+      <y>210</y>
+      <x>206</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two skateboarders performing a trick on a ramp.</caption>
+      <caption>A man riding a skateboard down a ramp.</caption>
+      <caption>Two people about to colide with each other on a skateboard ramp.</caption>
+      <caption>Two skateboarders are on a cement sloping structure.</caption>
+      <caption>Four mean at a skate park during the day. </caption>
+    </captions>
+</image>

@@ -1,0 +1,64 @@
+<image>
+  <image-id>2379595</image-id>
+  <coco-id>564726</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1357644</relationship_id>
+      <predicate>OF</predicate>
+      <subject>551850</subject>
+      <object>551848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1357645</relationship_id>
+      <predicate>has</predicate>
+      <subject>551848</subject>
+      <object>551851</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>plate</attribute>
+      </attributes>
+      <name>box</name>
+      <h>441</h>
+      <object_id>551850</object_id>
+      <w>360</w>
+      <y>45</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chocolate</attribute>
+        <attribute>white</attribute>
+        <attribute>big</attribute>
+        <attribute>black</attribute>
+        <attribute>yummy</attribute>
+      </attributes>
+      <name>doughnut</name>
+      <h>147</h>
+      <object_id>551848</object_id>
+      <w>158</w>
+      <y>147</y>
+      <x>141</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>hole</name>
+      <h>152</h>
+      <object_id>551851</object_id>
+      <w>102</w>
+      <y>134</y>
+      <x>246</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A number of donuts on a box on the table</caption>
+      <caption>a big group of doughnuts that are piled high</caption>
+      <caption>Box of chocolate glazed doughnuts sitting on shelf.</caption>
+      <caption>a group of chocolate dougnuts clustered together on a tray</caption>
+      <caption>Delicious glazed chocolate donuts resting on one another. </caption>
+    </captions>
+</image>

@@ -1,0 +1,104 @@
+<image>
+  <image-id>2322613</image-id>
+  <coco-id>184470</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3925347</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3260845</subject>
+      <object>3260846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3927119</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3648042</subject>
+      <object>2916710</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3648670</relationship_id>
+      <predicate>with</predicate>
+      <subject>2841392</subject>
+      <object>2841393</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3648671</relationship_id>
+      <predicate>with</predicate>
+      <subject>2841392</subject>
+      <object>2841394</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>edge</name>
+      <h>317</h>
+      <object_id>3260845</object_id>
+      <w>27</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>box</name>
+      <h>323</h>
+      <object_id>3260846</object_id>
+      <w>468</w>
+      <y>5</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>chocolate</name>
+      <h>103</h>
+      <object_id>3648042</object_id>
+      <w>122</w>
+      <y>1</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>doughnut</name>
+      <h>105</h>
+      <object_id>2916710</object_id>
+      <w>117</w>
+      <y>1</y>
+      <x>232</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>heart-shaped</attribute>
+      </attributes>
+      <name>doughnut</name>
+      <h>115</h>
+      <object_id>2841392</object_id>
+      <w>114</w>
+      <y>119</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chocolate</attribute>
+      </attributes>
+      <name>glaze</name>
+      <h>100</h>
+      <object_id>2841393</object_id>
+      <w>90</w>
+      <y>127</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>drizzle</name>
+      <h>96</h>
+      <object_id>2841394</object_id>
+      <w>107</w>
+      <y>129</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a dozen assorted donuts sitting together in a box</caption>
+      <caption>Picture of some donuts that are together on a plate.</caption>
+      <caption>A dozen glazed mixed donuts with three that are hearts</caption>
+      <caption>A variety of doughnuts are showed in a box.</caption>
+      <caption>Twelve doughnuts with varying shapes, flavors, and toppings. </caption>
+    </captions>
+</image>

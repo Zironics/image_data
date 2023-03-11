@@ -1,0 +1,174 @@
+<image>
+  <image-id>2349805</image-id>
+  <coco-id>358836</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3807183</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2371599</subject>
+      <object>1938801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807184</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2371599</subject>
+      <object>1938801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807185</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1757035</subject>
+      <object>1938801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807186</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1802759</subject>
+      <object>1674647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807187</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1800328</subject>
+      <object>1674647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807188</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1757035</subject>
+      <object>1674647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807189</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1757035</subject>
+      <object>1674647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807190</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1757035</subject>
+      <object>1674647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807191</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1757035</subject>
+      <object>1674647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807192</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1757035</subject>
+      <object>1674647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807193</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2644143</subject>
+      <object>2644142</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3807194</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1674647</subject>
+      <object>1674648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>dried leaf</name>
+      <h>25</h>
+      <object_id>2371599</object_id>
+      <w>55</w>
+      <y>348</y>
+      <x>183</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on the couch</attribute>
+      </attributes>
+      <h>201</h>
+      <object_id>1938801</object_id>
+      <w>499</w>
+      <y>171</y>
+      <x>0</x>
+      <name>floor</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+      </attributes>
+      <h>34</h>
+      <object_id>1757035</object_id>
+      <w>459</w>
+      <y>341</y>
+      <x>0</x>
+      <name>leaf</name>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>72</h>
+      <object_id>1802759</object_id>
+      <w>58</w>
+      <y>182</y>
+      <x>12</x>
+    </object>
+    <object>
+      <h>195</h>
+      <object_id>1674647</object_id>
+      <w>458</w>
+      <y>142</y>
+      <x>14</x>
+      <name>chair</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <h>145</h>
+      <object_id>1800328</object_id>
+      <w>23</w>
+      <y>1</y>
+      <x>274</x>
+      <name>metal pole</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>tarp</name>
+      <h>76</h>
+      <object_id>2644143</object_id>
+      <w>67</w>
+      <y>65</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>147</h>
+      <object_id>2644142</object_id>
+      <w>25</w>
+      <y>2</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>sofa</name>
+      <h>137</h>
+      <object_id>1674648</object_id>
+      <w>444</w>
+      <y>137</y>
+      <x>55</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couch sitting outside in front of a heap of objects and a wall.</caption>
+      <caption>An orange sofa is shown on the street.</caption>
+      <caption>An orange couch with wood arms in an outdoor courtyard.</caption>
+      <caption>a couch sitting in a pile of trash on a street</caption>
+      <caption>A large couch out on the open street.</caption>
+    </captions>
+</image>

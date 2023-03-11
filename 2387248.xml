@@ -1,0 +1,51 @@
+<image>
+  <image-id>2387248</image-id>
+  <coco-id>355168</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4562121</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4004910</subject>
+      <object>4004911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4562120</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4004909</subject>
+      <object>4004911</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>arm</name>
+      <h>51</h>
+      <object_id>4004910</object_id>
+      <w>70</w>
+      <y>262</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>tennis player</name>
+      <h>372</h>
+      <object_id>4004911</object_id>
+      <w>173</w>
+      <y>105</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>99</h>
+      <object_id>4004909</object_id>
+      <w>44</w>
+      <y>109</y>
+      <x>164</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tennis player is taking a swing at a ball near an audience.</caption>
+      <caption>Four people with a boat docked on the side of the water.</caption>
+      <caption>A tennis player is reaching into the air to hit the ball.</caption>
+      <caption>A man swinging a tennis racquet on a tennis court.</caption>
+      <caption>A man in white shirt and shorts playing a game of tennis.</caption>
+    </captions>
+</image>

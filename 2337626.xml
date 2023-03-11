@@ -1,0 +1,93 @@
+<image>
+  <image-id>2337626</image-id>
+  <coco-id>133161</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4075719</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2360649</subject>
+      <object>2360654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075720</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2360650</subject>
+      <object>2360654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075721</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2360651</subject>
+      <object>2360653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075722</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2360652</subject>
+      <object>2360653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075723</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2360653</subject>
+      <object>2360654</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>fruit</name>
+      <h>80</h>
+      <object_id>2360649</object_id>
+      <w>81</w>
+      <y>240</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>49</h>
+      <object_id>2360654</object_id>
+      <w>65</w>
+      <y>261</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>114</h>
+      <object_id>2360650</object_id>
+      <w>124</w>
+      <y>146</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>113</h>
+      <object_id>2360651</object_id>
+      <w>127</w>
+      <y>249</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>94</h>
+      <object_id>2360653</object_id>
+      <w>96</w>
+      <y>131</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>112</h>
+      <object_id>2360652</object_id>
+      <w>98</w>
+      <y>339</y>
+      <x>231</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>some oranges and lemons sitting together on a table </caption>
+      <caption>a bunch of oranges are in a pile</caption>
+      <caption>Oranges and lemons placed together in a display.</caption>
+      <caption>Oranges mixed with lemons displayed in color photograph.</caption>
+      <caption>A mixture of lemons and oranges with stickers.</caption>
+    </captions>
+</image>

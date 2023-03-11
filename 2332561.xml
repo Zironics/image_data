@@ -1,0 +1,73 @@
+<image>
+  <image-id>2332561</image-id>
+  <coco-id>404655</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3731116</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>3337304</subject>
+      <object>3565231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260652</relationship_id>
+      <predicate>walking on a</predicate>
+      <subject>3471179</subject>
+      <object>3795437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3913082</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>3471179</subject>
+      <object>3642170</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>268</h>
+      <object_id>3337304</object_id>
+      <w>111</w>
+      <y>59</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>51</h>
+      <object_id>3565231</object_id>
+      <w>184</w>
+      <y>293</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>229</h>
+      <object_id>3471179</object_id>
+      <w>112</w>
+      <y>107</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>90</h>
+      <object_id>3795437</object_id>
+      <w>98</w>
+      <y>239</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>252</h>
+      <object_id>3642170</object_id>
+      <w>494</w>
+      <y>91</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The people are walking the the street and some are wearing ties. </caption>
+      <caption>Crowd of people walking in the same direction on a street.</caption>
+      <caption>a group of people walking on the street during the day</caption>
+      <caption>A group of people walking down a street half naked.</caption>
+      <caption>A group of young boys and girls barely dressed walking on the road.</caption>
+    </captions>
+</image>

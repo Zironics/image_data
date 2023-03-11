@@ -1,0 +1,41 @@
+<image>
+  <image-id>2328857</image-id>
+  <coco-id>548169</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3799040</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2924127</subject>
+      <object>3166446</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>358</h>
+      <object_id>2924127</object_id>
+      <w>423</w>
+      <y>5</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rectangular</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>372</h>
+      <object_id>3166446</object_id>
+      <w>488</w>
+      <y>2</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pan topped with meat, broccoli and veggies.</caption>
+      <caption>A meat platter with garnish and brocclie on the side.</caption>
+      <caption>Raw food is arranged artistically on a plate.</caption>
+      <caption>some broccoli and some raw fish on a white and black plate</caption>
+      <caption>Japanese food of meat and vegetable are on a plate.</caption>
+    </captions>
+</image>

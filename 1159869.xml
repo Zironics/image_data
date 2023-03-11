@@ -1,0 +1,50 @@
+<image>
+  <image-id>1159869</image-id>
+  <coco-id>391600</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4658332</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4240670</subject>
+      <object>4240670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4636227</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4185227</subject>
+      <object>4185227</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>59</h>
+      <object_id>4240670</object_id>
+      <w>59</w>
+      <y>371</y>
+      <x>86</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>389</h>
+      <object_id>4185227</object_id>
+      <w>1016</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Boat docked at pier next to building on cloudy day.</caption>
+      <caption>Some very nice looking boats docked by a big building.</caption>
+      <caption>A large boat in the water pulled up to a dock by a building.</caption>
+      <caption>there are many boats that can be seen in the water</caption>
+      <caption>Various boats parked at a dock surrounded by water.</caption>
+    </captions>
+</image>

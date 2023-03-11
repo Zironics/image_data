@@ -1,0 +1,124 @@
+<image>
+  <image-id>2402473</image-id>
+  <coco-id>146711</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3274868</relationship_id>
+      <predicate>near</predicate>
+      <subject>1135680</subject>
+      <object>1135682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3274869</relationship_id>
+      <predicate>across from</predicate>
+      <subject>1135677</subject>
+      <object>1135682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3274870</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1135680</subject>
+      <object>1135682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3274871</relationship_id>
+      <predicate>near</predicate>
+      <subject>1135677</subject>
+      <object>1135679</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3274872</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1135680</subject>
+      <object>1135681</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3274873</relationship_id>
+      <predicate>near</predicate>
+      <subject>1135679</subject>
+      <object>1135677</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>light</attribute>
+        <attribute>large</attribute>
+        <attribute>green</attribute>
+        <attribute>wide</attribute>
+      </attributes>
+      <name>cucumber</name>
+      <h>62</h>
+      <object_id>1135680</object_id>
+      <w>305</w>
+      <y>56</y>
+      <x>79</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>laying</attribute>
+        <attribute>silver</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>knife</name>
+      <h>80</h>
+      <object_id>1135682</object_id>
+      <w>280</w>
+      <y>31</y>
+      <x>220</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow </attribute>
+        <attribute>small</attribute>
+        <attribute>little</attribute>
+        <attribute>fresh</attribute>
+        <attribute>mini</attribute>
+        <attribute>sliced</attribute>
+        <attribute>tiny</attribute>
+      </attributes>
+      <name>carrots</name>
+      <h>105</h>
+      <object_id>1135677</object_id>
+      <w>61</w>
+      <y>231</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>light</attribute>
+        <attribute>round</attribute>
+        <attribute>small</attribute>
+        <attribute>open</attribute>
+      </attributes>
+      <name>avocado</name>
+      <h>89</h>
+      <object_id>1135679</object_id>
+      <w>109</w>
+      <y>180</y>
+      <x>390</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden </attribute>
+      </attributes>
+      <name>table</name>
+      <h>380</h>
+      <object_id>1135681</object_id>
+      <w>494</w>
+      <y>18</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A counter topped with sliced up vegetables and a knife.</caption>
+      <caption>The cutting board has avocado, carrot, and cucumber slices.</caption>
+      <caption>A knife and some cut up vegetables on a surface.</caption>
+      <caption>the cutting board holds a cucumber, avocado, carrots and a knife.</caption>
+      <caption>there are many different vegetables on this cutting board</caption>
+    </captions>
+</image>

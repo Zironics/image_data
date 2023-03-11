@@ -1,0 +1,141 @@
+<image>
+  <image-id>713079</image-id>
+  <coco-id>97967</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262298</relationship_id>
+      <predicate>IS STANDING NEXT TO</predicate>
+      <subject>1684690</subject>
+      <object>2024852</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262299</relationship_id>
+      <predicate>IS STANDING NEXT TO</predicate>
+      <subject>2024854</subject>
+      <object>1684690</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262300</relationship_id>
+      <predicate>IS STANDING NEXT TO</predicate>
+      <subject>2024855</subject>
+      <object>2024854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262301</relationship_id>
+      <predicate>IS STANDING NEXT TO</predicate>
+      <subject>2024856</subject>
+      <object>2024855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057817</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1684690</subject>
+      <object>1684691</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057818</relationship_id>
+      <predicate>and</predicate>
+      <subject>1684691</subject>
+      <object>1684692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057819</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2520633</subject>
+      <object>2520634</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>198</h>
+      <object_id>1684690</object_id>
+      <w>69</w>
+      <y>46</y>
+      <x>479</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>144</h>
+      <object_id>2024852</object_id>
+      <w>36</w>
+      <y>61</y>
+      <x>475</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>150</h>
+      <object_id>2024854</object_id>
+      <w>77</w>
+      <y>64</y>
+      <x>571</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>236</h>
+      <object_id>2024855</object_id>
+      <w>73</w>
+      <y>49</y>
+      <x>269</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>220</h>
+      <object_id>2024856</object_id>
+      <w>61</w>
+      <y>36</y>
+      <x>329</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>68</h>
+      <object_id>1684691</object_id>
+      <w>35</w>
+      <y>87</y>
+      <x>510</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>48</h>
+      <object_id>1684692</object_id>
+      <w>39</w>
+      <y>163</y>
+      <x>504</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>man</name>
+      <h>286</h>
+      <object_id>2520633</object_id>
+      <w>89</w>
+      <y>14</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>124</h>
+      <object_id>2520634</object_id>
+      <w>83</w>
+      <y>45</y>
+      <x>96</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people standing in front of a window.</caption>
+      <caption>People in a building near a wooden platform.  </caption>
+      <caption>a group of people standing near a small pool</caption>
+      <caption>A group of people standing around a large indoor pool.</caption>
+      <caption>Indoor court of wood as a pen for people to view</caption>
+    </captions>
+</image>

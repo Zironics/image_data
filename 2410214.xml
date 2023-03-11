@@ -1,0 +1,106 @@
+<image>
+  <image-id>2410214</image-id>
+  <coco-id>164310</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>225037</relationship_id>
+      <predicate>holding</predicate>
+      <subject>223338</subject>
+      <object>223339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>225038</relationship_id>
+      <predicate>has</predicate>
+      <subject>223338</subject>
+      <object>223347</object>
+    </relationship>
+    <relationship>
+      <relationship_id>225039</relationship_id>
+      <predicate>behind</predicate>
+      <subject>223349</subject>
+      <object>223350</object>
+    </relationship>
+    <relationship>
+      <relationship_id>225040</relationship_id>
+      <predicate>holds</predicate>
+      <subject>223338</subject>
+      <object>223339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>225041</relationship_id>
+      <predicate>holding</predicate>
+      <subject>223338</subject>
+      <object>223339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>225042</relationship_id>
+      <predicate>pulling</predicate>
+      <subject>223350</subject>
+      <object>223338</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>waterskiing</attribute>
+        <attribute>crouched</attribute>
+        <attribute>skier</attribute>
+        <attribute>bent</attribute>
+      </attributes>
+      <name>man</name>
+      <h>41</h>
+      <object_id>223338</object_id>
+      <w>30</w>
+      <y>167</y>
+      <x>400</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>white</attribute>
+        <attribute>tied</attribute>
+        <attribute>ski pull</attribute>
+      </attributes>
+      <name>rope</name>
+      <h>95</h>
+      <object_id>223339</object_id>
+      <w>413</w>
+      <y>182</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>6</h>
+      <object_id>223347</object_id>
+      <w>8</w>
+      <y>168</y>
+      <x>407</x>
+    </object>
+    <object>
+      <name>white caps</name>
+      <h>29</h>
+      <object_id>223349</object_id>
+      <w>167</w>
+      <y>221</y>
+      <x>325</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>124</h>
+      <object_id>223350</object_id>
+      <w>495</w>
+      <y>250</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person water skiing on the ocean from a boat.</caption>
+      <caption>A water skier is pulled by a watercraft in a large lake.</caption>
+      <caption>A person on water-skis being pulled behind a boat in a lake.</caption>
+      <caption>A boat is pulling a water skier along.</caption>
+      <caption>A boat drags a person on jet skis through the water.</caption>
+    </captions>
+</image>

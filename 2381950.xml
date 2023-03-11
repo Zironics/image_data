@@ -1,0 +1,75 @@
+<image>
+  <image-id>2381950</image-id>
+  <coco-id>260491</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3585792</relationship_id>
+      <predicate>with</predicate>
+      <subject>1332626</subject>
+      <object>1332618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3585793</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1332630</subject>
+      <object>1332631</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3585794</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1332630</subject>
+      <object>1332631</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+        <attribute>gray</attribute>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>118</h>
+      <object_id>1332626</object_id>
+      <w>91</w>
+      <y>122</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>black</attribute>
+        <attribute>parking</attribute>
+      </attributes>
+      <name>meter</name>
+      <h>139</h>
+      <object_id>1332618</object_id>
+      <w>67</w>
+      <y>74</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>35</h>
+      <object_id>1332630</object_id>
+      <w>48</w>
+      <y>14</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>63</h>
+      <object_id>1332631</object_id>
+      <w>95</w>
+      <y>15</y>
+      <x>177</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue parkng metter on an empty sidewalk</caption>
+      <caption>A car parked next to a parking meter.</caption>
+      <caption>A parking meter on a sidewalk next to a car.</caption>
+      <caption>A parking meter on a sidewalk with a black car parked next to it.</caption>
+      <caption>A car is parked on the side of the street next to a parking meter. </caption>
+    </captions>
+</image>

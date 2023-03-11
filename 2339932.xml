@@ -1,0 +1,40 @@
+<image>
+  <image-id>2339932</image-id>
+  <coco-id>276753</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4037734</relationship_id>
+      <predicate>under</predicate>
+      <subject>2180004</subject>
+      <object>2180005</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>260</h>
+      <object_id>2180004</object_id>
+      <w>497</w>
+      <y>19</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>267</h>
+      <object_id>2180005</object_id>
+      <w>383</w>
+      <y>3</y>
+      <x>55</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza sitting on top of a white counter top.</caption>
+      <caption>A pizza that has vegetables on it is on the table.</caption>
+      <caption>A pizza containing ham and purple lettuce. </caption>
+      <caption>A pizza sitting on a counter with diffrent toppings on it .</caption>
+      <caption>A ham and pineapple pizza topped with mixed greens.</caption>
+    </captions>
+</image>

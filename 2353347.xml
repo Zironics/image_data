@@ -1,0 +1,97 @@
+<image>
+  <image-id>2353347</image-id>
+  <coco-id>44127</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2404605</relationship_id>
+      <predicate>IN</predicate>
+      <subject>846920</subject>
+      <object>846921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404606</relationship_id>
+      <predicate>with</predicate>
+      <subject>846920</subject>
+      <object>846921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404607</relationship_id>
+      <predicate>with</predicate>
+      <subject>846920</subject>
+      <object>846921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404608</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>846920</subject>
+      <object>846923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404609</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>846920</subject>
+      <object>846921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404610</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>846920</subject>
+      <object>846923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404611</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>846920</subject>
+      <object>846923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404612</relationship_id>
+      <predicate>with</predicate>
+      <subject>846920</subject>
+      <object>846923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>swinging</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>man</name>
+      <h>261</h>
+      <object_id>846920</object_id>
+      <w>219</w>
+      <y>73</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>64</h>
+      <object_id>846921</object_id>
+      <w>79</w>
+      <y>29</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>130</h>
+      <object_id>846923</object_id>
+      <w>92</w>
+      <y>147</y>
+      <x>381</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player swinging his bat at a baseball.</caption>
+      <caption>a pro baseball player is swinging a bat</caption>
+      <caption>A baseball player taking a swing at a ball.</caption>
+      <caption>A young man playing baseball with a black bat.</caption>
+      <caption>A baseball player from Toronto swinging a bat.</caption>
+    </captions>
+</image>

@@ -1,0 +1,45 @@
+<image>
+  <image-id>2371827</image-id>
+  <coco-id>347691</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1501800</relationship_id>
+      <predicate>ON</predicate>
+      <subject>595720</subject>
+      <object>595722</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tennis</attribute>
+      </attributes>
+      <name>player</name>
+      <h>477</h>
+      <object_id>595720</object_id>
+      <w>171</w>
+      <y>19</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tennis</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>court</name>
+      <h>207</h>
+      <object_id>595722</object_id>
+      <w>342</w>
+      <y>291</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holding out a tennis racket on a tennis court.</caption>
+      <caption>a male tennis player wearing white is playing tennis</caption>
+      <caption>A man holding a tennis racquet on a tennis court.</caption>
+      <caption>A tennis player attempted to hit the ball. </caption>
+      <caption>A tennis player attempting to play the ball back to his opponent.</caption>
+    </captions>
+</image>

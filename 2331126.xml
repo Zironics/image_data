@@ -1,0 +1,101 @@
+<image>
+  <image-id>2331126</image-id>
+  <coco-id>2349</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4105649</relationship_id>
+      <predicate>has</predicate>
+      <subject>3139547</subject>
+      <object>3198972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4105650</relationship_id>
+      <predicate>has a left</predicate>
+      <subject>3139547</subject>
+      <object>3079035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4105651</relationship_id>
+      <predicate>has</predicate>
+      <subject>3139547</subject>
+      <object>3489349</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4105652</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>3139547</subject>
+      <object>3139548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4465440</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3161298</subject>
+      <object>3933476</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>95</h>
+      <object_id>3139547</object_id>
+      <w>168</w>
+      <y>185</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>right ear</name>
+      <h>25</h>
+      <object_id>3198972</object_id>
+      <w>25</w>
+      <y>180</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>20</h>
+      <object_id>3079035</object_id>
+      <w>17</w>
+      <y>183</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>whiskers</name>
+      <h>21</h>
+      <object_id>3489349</object_id>
+      <w>28</w>
+      <y>246</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>pillow</name>
+      <h>100</h>
+      <object_id>3139548</object_id>
+      <w>330</w>
+      <y>261</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>10</h>
+      <object_id>3161298</object_id>
+      <w>15</w>
+      <y>225</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>94</h>
+      <object_id>3933476</object_id>
+      <w>153</w>
+      <y>184</y>
+      <x>124</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white cat sitting on top of  a pillow in a chair.</caption>
+      <caption>A black cat sits on top of the pillow.</caption>
+      <caption>A black and white cat perched on a pillow on a white chair</caption>
+      <caption>A cat sitting on a cushion which is on a chair</caption>
+      <caption>A black cat lying on a pillow placed on a chair.</caption>
+    </captions>
+</image>

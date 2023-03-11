@@ -1,0 +1,76 @@
+<image>
+  <image-id>2386618</image-id>
+  <coco-id>72800</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4587275</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4065138</subject>
+      <object>4065086</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4587300</relationship_id>
+      <predicate>reflecting on</predicate>
+      <subject>4065126</subject>
+      <object>4065127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4587305</relationship_id>
+      <predicate>standing</predicate>
+      <subject>4065138</subject>
+      <object>4065139</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>124</h>
+      <object_id>4065138</object_id>
+      <w>106</w>
+      <y>124</y>
+      <x>181</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>books</name>
+      <h>146</h>
+      <object_id>4065086</object_id>
+      <w>381</w>
+      <y>226</y>
+      <x>117</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflection</attribute>
+      </attributes>
+      <name>light</name>
+      <h>11</h>
+      <object_id>4065126</object_id>
+      <w>227</w>
+      <y>226</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>book</name>
+      <h>146</h>
+      <object_id>4065127</object_id>
+      <w>346</w>
+      <y>226</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>book</name>
+      <h>113</h>
+      <object_id>4065139</object_id>
+      <w>116</w>
+      <y>219</y>
+      <x>162</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird perched on top of stacked books. </caption>
+      <caption>A bird sitting on books back-lit by a light.</caption>
+      <caption>A bird in a dark room perched on a stack of books.</caption>
+      <caption>A bird standing on a pile of boos in front of a lamp.</caption>
+      <caption>A large light glows brightly in the background.</caption>
+    </captions>
+</image>

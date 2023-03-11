@@ -1,0 +1,85 @@
+<image>
+  <image-id>2416589</image-id>
+  <coco-id>410226</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4669788</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4269343</subject>
+      <object>4269292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4669792</relationship_id>
+      <predicate>laying under</predicate>
+      <subject>4269343</subject>
+      <object>4269339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4669794</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4269342</subject>
+      <object>4269344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4669795</relationship_id>
+      <predicate>has</predicate>
+      <subject>4269343</subject>
+      <object>4269344</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>173</h>
+      <object_id>4269343</object_id>
+      <w>348</w>
+      <y>165</y>
+      <x>32</x>
+      <name>calf</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dead</attribute>
+      </attributes>
+      <h>366</h>
+      <object_id>4269292</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>0</x>
+      <name>grass</name>
+    </object>
+    <object>
+      <name>adult</name>
+      <h>353</h>
+      <object_id>4269339</object_id>
+      <w>291</w>
+      <y>19</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>chain</name>
+      <h>55</h>
+      <object_id>4269342</object_id>
+      <w>18</w>
+      <y>247</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>74</h>
+      <object_id>4269344</object_id>
+      <w>57</w>
+      <y>210</y>
+      <x>257</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cow nuzzles a new baby calf in a barn.</caption>
+      <caption>Mother cow laying next to her baby on the grass</caption>
+      <caption>The black cow with white spots is lying on the hay beside an identical calf. </caption>
+      <caption>a close up of a large and a small cow </caption>
+      <caption>there is a mother cow and a baby cow laying in the hay</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2340893</image-id>
+  <coco-id>145628</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4653374</relationship_id>
+      <predicate>has</predicate>
+      <subject>4228341</subject>
+      <object>4228342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4707229</relationship_id>
+      <predicate>above</predicate>
+      <subject>4361853</subject>
+      <object>4361854</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pole</name>
+      <h>338</h>
+      <object_id>4228341</object_id>
+      <w>19</w>
+      <y>158</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>street sign</name>
+      <h>252</h>
+      <object_id>4228342</object_id>
+      <w>107</w>
+      <y>99</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>384</h>
+      <object_id>4361853</object_id>
+      <w>397</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>64</h>
+      <object_id>4361854</object_id>
+      <w>397</w>
+      <y>433</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red stop sign topped with street signs.</caption>
+      <caption>A street intersection with a stop sign and street signs.</caption>
+      <caption>Back side of stop sign with cross street signage.</caption>
+      <caption>The street signs are directing people where to go. </caption>
+      <caption>A group of street signs with a cloudy blue sky in the background.</caption>
+    </captions>
+</image>

@@ -1,0 +1,105 @@
+<image>
+  <image-id>498107</image-id>
+  <coco-id>336961</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4053831</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3367257</subject>
+      <object>3367258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053832</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2535565</subject>
+      <object>2535566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053833</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2535565</subject>
+      <object>2535567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053835</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3367257</subject>
+      <object>3367258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053836</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3367257</subject>
+      <object>3367259</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>189</h>
+      <object_id>3367257</object_id>
+      <w>257</w>
+      <y>492</y>
+      <x>503</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>109</h>
+      <object_id>3367258</object_id>
+      <w>219</w>
+      <y>573</y>
+      <x>517</x>
+      <name>green shirt</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>little</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>285</h>
+      <object_id>2535565</object_id>
+      <w>144</w>
+      <y>372</y>
+      <x>348</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>222</h>
+      <object_id>2535566</object_id>
+      <w>885</w>
+      <y>457</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>184</h>
+      <object_id>2535567</object_id>
+      <w>150</w>
+      <y>452</y>
+      <x>344</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue hat</name>
+      <h>84</h>
+      <object_id>3367259</object_id>
+      <w>115</w>
+      <y>474</y>
+      <x>570</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man with a orange headband is playing tennis.</caption>
+      <caption>this is a man in the middle of a tennis match</caption>
+      <caption>A man swinging hard to hit a tennis ball</caption>
+      <caption>A crowd of spectators are watching an athlete compete.</caption>
+      <caption>The man with an orange headband is hitting the ball.</caption>
+    </captions>
+</image>

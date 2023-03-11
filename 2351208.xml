@@ -1,0 +1,107 @@
+<image>
+  <image-id>2351208</image-id>
+  <coco-id>370305</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2474933</relationship_id>
+      <predicate>on surface of</predicate>
+      <subject>862427</subject>
+      <object>862428</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2474934</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>862429</subject>
+      <object>862430</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2474935</relationship_id>
+      <predicate>next to</predicate>
+      <subject>862432</subject>
+      <object>862421</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2474936</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>862436</subject>
+      <object>862428</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>ripped</attribute>
+        <attribute>remnants</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>98</h>
+      <object_id>862427</object_id>
+      <w>114</w>
+      <y>215</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>block</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>323</h>
+      <object_id>862428</object_id>
+      <w>496</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>0 10</name>
+      <h>20</h>
+      <object_id>862429</object_id>
+      <w>42</w>
+      <y>28</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>parenthesis</name>
+      <h>24</h>
+      <object_id>862430</object_id>
+      <w>12</w>
+      <y>26</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>5</name>
+      <h>64</h>
+      <object_id>862432</object_id>
+      <w>41</w>
+      <y>200</y>
+      <x>346</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>2</name>
+      <h>64</h>
+      <object_id>862421</object_id>
+      <w>38</w>
+      <y>202</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>324</h>
+      <object_id>862436</object_id>
+      <w>475</w>
+      <y>4</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brick wall with signs posted to the side of it.</caption>
+      <caption>A bunch of signs and numbers mounted on concrete</caption>
+      <caption>a wall with some writing on it and some peeled paint </caption>
+      <caption>A block concrete wall with several different signs on it.</caption>
+      <caption>some signs on the wall written in a foreign language </caption>
+    </captions>
+</image>

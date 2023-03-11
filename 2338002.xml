@@ -1,0 +1,67 @@
+<image>
+  <image-id>2338002</image-id>
+  <coco-id>446303</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4650180</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4219873</subject>
+      <object>4219874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4650211</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4219940</subject>
+      <object>4219941</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black circle</attribute>
+        <attribute>pink </attribute>
+      </attributes>
+      <name>pattern</name>
+      <h>139</h>
+      <object_id>4219873</object_id>
+      <w>55</w>
+      <y>210</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>208</h>
+      <object_id>4219874</object_id>
+      <w>345</w>
+      <y>155</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>slices</attribute>
+        <attribute>cutting</attribute>
+      </attributes>
+      <name>bread</name>
+      <h>150</h>
+      <object_id>4219940</object_id>
+      <w>157</w>
+      <y>64</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>256</h>
+      <object_id>4219941</object_id>
+      <w>207</w>
+      <y>14</y>
+      <x>276</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of doughnuts on a plate on a table.</caption>
+      <caption>A stack of pastries on a plate and on a serving board.</caption>
+      <caption>a close up of a plate of food on a table</caption>
+      <caption>a plate with some chicken and a beagle on it </caption>
+      <caption>Closeup of a white and red plate holding various pastries.</caption>
+    </captions>
+</image>

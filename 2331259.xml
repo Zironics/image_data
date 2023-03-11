@@ -1,0 +1,93 @@
+<image>
+  <image-id>2331259</image-id>
+  <coco-id>12241</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2900204</relationship_id>
+      <predicate>has</predicate>
+      <subject>972131</subject>
+      <object>972132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2900205</relationship_id>
+      <predicate>has</predicate>
+      <subject>972131</subject>
+      <object>972133</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2900206</relationship_id>
+      <predicate>has</predicate>
+      <subject>972131</subject>
+      <object>972134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2900207</relationship_id>
+      <predicate>has</predicate>
+      <subject>972131</subject>
+      <object>972135</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>227</h>
+      <object_id>972131</object_id>
+      <w>487</w>
+      <y>68</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>34</h>
+      <object_id>972132</object_id>
+      <w>79</w>
+      <y>164</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>43</h>
+      <object_id>972133</object_id>
+      <w>39</w>
+      <y>247</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>engine</name>
+      <h>48</h>
+      <object_id>972134</object_id>
+      <w>53</w>
+      <y>178</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>43</h>
+      <object_id>972135</object_id>
+      <w>50</w>
+      <y>196</y>
+      <x>432</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large white airplane is on the snowy runway.</caption>
+      <caption>Very large jet sitting on the runway which has ice on it</caption>
+      <caption>Large airplane sitting on an iced over runway.</caption>
+      <caption>An airplane on a tarmac with patchy snow.</caption>
+      <caption>A large white airplane is sitting on a runway.</caption>
+    </captions>
+</image>

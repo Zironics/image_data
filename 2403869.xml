@@ -1,0 +1,131 @@
+<image>
+  <image-id>2403869</image-id>
+  <coco-id>441430</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>587198</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>348485</subject>
+      <object>348486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>587199</relationship_id>
+      <predicate>ON</predicate>
+      <subject>348491</subject>
+      <object>348488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>587200</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>348485</subject>
+      <object>348493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>587201</relationship_id>
+      <predicate>near</predicate>
+      <subject>348494</subject>
+      <object>348488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>587202</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>348485</subject>
+      <object>348486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>587203</relationship_id>
+      <predicate>ON</predicate>
+      <subject>348486</subject>
+      <object>348493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>587204</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>348491</subject>
+      <object>348488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>587205</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>348496</subject>
+      <object>348488</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>banana</name>
+      <h>14</h>
+      <object_id>348485</object_id>
+      <w>16</w>
+      <y>298</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>sheet</name>
+      <h>57</h>
+      <object_id>348486</object_id>
+      <w>407</w>
+      <y>276</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>banana</name>
+      <h>12</h>
+      <object_id>348491</object_id>
+      <w>14</w>
+      <y>89</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>loaded</attribute>
+        <attribute>in daytime</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>77</h>
+      <object_id>348488</object_id>
+      <w>344</w>
+      <y>66</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>91</h>
+      <object_id>348493</object_id>
+      <w>498</w>
+      <y>241</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>37</h>
+      <object_id>348494</object_id>
+      <w>26</w>
+      <y>98</y>
+      <x>314</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>51</h>
+      <object_id>348496</object_id>
+      <w>30</w>
+      <y>54</y>
+      <x>259</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Multiple bunches of bananas and plantains in an outdoor market.</caption>
+      <caption>Harvested bananas, still green, sit in a pile.</caption>
+      <caption>A large pile of bananas sitting inside of a market.</caption>
+      <caption>Bushels of bananas being unloaded into a pile.</caption>
+      <caption>A bunch of green bananas are in a large pile.</caption>
+    </captions>
+</image>

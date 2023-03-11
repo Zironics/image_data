@@ -1,0 +1,149 @@
+<image>
+  <image-id>2417680</image-id>
+  <coco-id>492060</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3749645</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3261705</subject>
+      <object>3572972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4243985</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2757109</subject>
+      <object>3261705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4243986</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3485418</subject>
+      <object>3261705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4243987</relationship_id>
+      <predicate>on rear of</predicate>
+      <subject>3106627</subject>
+      <object>3106628</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4243988</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3157509</subject>
+      <object>3157510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4243989</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>2953385</subject>
+      <object>3261705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4243990</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>2953386</subject>
+      <object>3261705</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red and yellow</attribute>
+        <attribute>tansit </attribute>
+        <attribute>red and white</attribute>
+        <attribute>yellow and red</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>190</h>
+      <object_id>3261705</object_id>
+      <w>362</w>
+      <y>96</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>70</h>
+      <object_id>3572972</object_id>
+      <w>480</w>
+      <y>224</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>88</h>
+      <object_id>2757109</object_id>
+      <w>104</w>
+      <y>131</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>90</h>
+      <object_id>3485418</object_id>
+      <w>280</w>
+      <y>118</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>20</h>
+      <object_id>3106627</object_id>
+      <w>22</w>
+      <y>225</y>
+      <x>388</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>car</name>
+      <h>62</h>
+      <object_id>3106628</object_id>
+      <w>120</w>
+      <y>189</y>
+      <x>378</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>40</h>
+      <object_id>3157509</object_id>
+      <w>35</w>
+      <y>180</y>
+      <x>452</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>car</name>
+      <h>125</h>
+      <object_id>3157510</object_id>
+      <w>91</w>
+      <y>147</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>12</h>
+      <object_id>2953385</object_id>
+      <w>23</w>
+      <y>237</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>8</h>
+      <object_id>2953386</object_id>
+      <w>17</w>
+      <y>233</y>
+      <x>346</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a red and yellow bus passing down the street</caption>
+      <caption>there is a yellow and red bus coming up the street</caption>
+      <caption>A bus driving on a brick street </caption>
+      <caption>a car drives on a street next to some parked cars</caption>
+      <caption>A city bus traveling along a cobblestone street on a very cloudy day.</caption>
+    </captions>
+</image>

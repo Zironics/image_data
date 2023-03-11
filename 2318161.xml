@@ -1,0 +1,120 @@
+<image>
+  <image-id>2318161</image-id>
+  <coco-id>153827</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3025281</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1013581</subject>
+      <object>1013582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3025282</relationship_id>
+      <predicate>has on</predicate>
+      <subject>1013581</subject>
+      <object>1013584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3025283</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1013580</subject>
+      <object>1013588</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3025284</relationship_id>
+      <predicate>has on</predicate>
+      <subject>1013580</subject>
+      <object>1013584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3025285</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1013580</subject>
+      <object>1013588</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3025286</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1013580</subject>
+      <object>1013588</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3025287</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1013580</subject>
+      <object>1013575</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>reaching</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>259</h>
+      <object_id>1013581</object_id>
+      <w>340</w>
+      <y>72</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>26</h>
+      <object_id>1013582</object_id>
+      <w>111</w>
+      <y>135</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>10</h>
+      <object_id>1013584</object_id>
+      <w>36</w>
+      <y>97</y>
+      <x>289</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>woman</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>291</h>
+      <object_id>1013580</object_id>
+      <w>109</w>
+      <y>42</y>
+      <x>95</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>52</h>
+      <object_id>1013588</object_id>
+      <w>45</w>
+      <y>125</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>grey</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>94</h>
+      <object_id>1013575</object_id>
+      <w>88</w>
+      <y>216</y>
+      <x>105</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people that are playing a frisbee game.</caption>
+      <caption>Two young people engaged in a Frisbee competition.</caption>
+      <caption>A woman tries to grab a frisbee from another woman. </caption>
+      <caption>two girls fighting over a frisbee on a field</caption>
+      <caption>A woman reaches to intercept a frisbee from an opponent. </caption>
+    </captions>
+</image>

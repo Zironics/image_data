@@ -1,0 +1,112 @@
+<image>
+  <image-id>2334387</image-id>
+  <coco-id>545753</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4002921</relationship_id>
+      <predicate>with</predicate>
+      <subject>2868997</subject>
+      <object>2868998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4002923</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3677980</subject>
+      <object>3235269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4002924</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>2936892</subject>
+      <object>2936893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3911957</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3389109</subject>
+      <object>3389110</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>pallet</name>
+      <h>49</h>
+      <object_id>2868997</object_id>
+      <w>198</w>
+      <y>369</y>
+      <x>148</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cases</attribute>
+      </attributes>
+      <name>beer</name>
+      <h>30</h>
+      <object_id>2868998</object_id>
+      <w>57</w>
+      <y>330</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>boxes</name>
+      <h>32</h>
+      <object_id>3677980</object_id>
+      <w>74</w>
+      <y>283</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>beer</name>
+      <h>47</h>
+      <object_id>3235269</object_id>
+      <w>77</w>
+      <y>277</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>34</h>
+      <object_id>2936892</object_id>
+      <w>18</w>
+      <y>264</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>65</h>
+      <object_id>2936893</object_id>
+      <w>32</w>
+      <y>277</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>86</h>
+      <object_id>3389109</object_id>
+      <w>85</w>
+      <y>75</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>metal pole</name>
+      <h>313</h>
+      <object_id>3389110</object_id>
+      <w>28</w>
+      <y>166</y>
+      <x>67</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A forklift delivers a pallet of beer on the sidewalk.</caption>
+      <caption>A stop sign stands near a truck with a pallet of merchandise on it.</caption>
+      <caption>A stop sign with a forklift next to it with beer packs on it.</caption>
+      <caption>A loading truck carrying boxes and a Stop sign</caption>
+      <caption>A forklift full of cases of Coors beer.</caption>
+    </captions>
+</image>

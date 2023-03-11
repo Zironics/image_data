@@ -1,0 +1,40 @@
+<image>
+  <image-id>2331945</image-id>
+  <coco-id>389541</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4097141</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2927593</subject>
+      <object>2927592</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>patch</name>
+      <h>22</h>
+      <object_id>2927593</object_id>
+      <w>26</w>
+      <y>85</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>70</h>
+      <object_id>2927592</object_id>
+      <w>70</w>
+      <y>81</y>
+      <x>187</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat sleeps inside a grey sweater on a couch.</caption>
+      <caption>A cat covered up sleeping on furniture. </caption>
+      <caption>A white cat snuggled under a blanket on a couch</caption>
+      <caption>A cat is curled up in a gray blanket.</caption>
+      <caption>A cat sitting on a couch , with a shirt covering it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,70 @@
+<image>
+  <image-id>2363852</image-id>
+  <coco-id>535934</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2080158</relationship_id>
+      <predicate>and</predicate>
+      <subject>761579</subject>
+      <object>761580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2080159</relationship_id>
+      <predicate>ON</predicate>
+      <subject>761597</subject>
+      <object>761596</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>lifting</attribute>
+      </attributes>
+      <name>men</name>
+      <h>191</h>
+      <object_id>761579</object_id>
+      <w>236</w>
+      <y>37</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>looking</attribute>
+      </attributes>
+      <name>women</name>
+      <h>205</h>
+      <object_id>761580</object_id>
+      <w>58</w>
+      <y>47</y>
+      <x>442</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>62</h>
+      <object_id>761597</object_id>
+      <w>49</w>
+      <y>127</y>
+      <x>361</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>11</h>
+      <object_id>761596</object_id>
+      <w>23</w>
+      <y>257</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is no image here to provide a caption for.</caption>
+      <caption>Group of people standing in front of a table with wine glasses. </caption>
+      <caption>A group of people sitting around a table with glasses of wine.</caption>
+      <caption>A group of people having dinner and drinking wine. </caption>
+      <caption>a group of people sitting at a long table drinking glasses of wine </caption>
+    </captions>
+</image>

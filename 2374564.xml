@@ -1,0 +1,57 @@
+<image>
+  <image-id>2374564</image-id>
+  <coco-id>138350</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1949241</relationship_id>
+      <predicate>IN</predicate>
+      <subject>726032</subject>
+      <object>726033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949242</relationship_id>
+      <predicate>IN</predicate>
+      <subject>726032</subject>
+      <object>726033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949243</relationship_id>
+      <predicate>IN</predicate>
+      <subject>726032</subject>
+      <object>726033</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>226</h>
+      <object_id>726032</object_id>
+      <w>237</w>
+      <y>90</y>
+      <x>203</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>17</h>
+      <object_id>726033</object_id>
+      <w>24</w>
+      <y>156</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A horse walking around in the water in a bay.</caption>
+      <caption>a horse that is walking through some water</caption>
+      <caption>A black and white horse walks through a shallow pond</caption>
+      <caption>a black and white horse and a brown and white horse and water</caption>
+      <caption>A black and white horse walking across a flowing river.</caption>
+    </captions>
+</image>

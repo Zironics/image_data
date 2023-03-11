@@ -1,0 +1,67 @@
+<image>
+  <image-id>2373794</image-id>
+  <coco-id>42196</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4311490</relationship_id>
+      <predicate>under</predicate>
+      <subject>2416332</subject>
+      <object>2416333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4311491</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2373713</subject>
+      <object>2445301</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>under</attribute>
+      </attributes>
+      <name>engine</name>
+      <h>40</h>
+      <object_id>2416332</object_id>
+      <w>71</w>
+      <y>160</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>56</h>
+      <object_id>2416333</object_id>
+      <w>312</w>
+      <y>122</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>18</h>
+      <object_id>2373713</object_id>
+      <w>15</w>
+      <y>190</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>engine booster </attribute>
+        <attribute>cock pit windows </attribute>
+        <attribute>side</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>149</h>
+      <object_id>2445301</object_id>
+      <w>475</w>
+      <y>54</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A commercial plane on a runway with snow on the ground.</caption>
+      <caption>A large airplane sitting on a landing strip.</caption>
+      <caption>An airplane sitting on a runway in the snow.</caption>
+      <caption>The airplane is stopped on a runway surrounded by snow.</caption>
+      <caption>a plane sitting in the middle of the runway</caption>
+    </captions>
+</image>

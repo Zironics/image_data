@@ -1,0 +1,54 @@
+<image>
+  <image-id>2334609</image-id>
+  <coco-id>517182</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4778195</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4543227</subject>
+      <object>4543229</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4778194</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4543228</subject>
+      <object>4543227</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>scissors</name>
+      <h>178</h>
+      <object_id>4543227</object_id>
+      <w>204</w>
+      <y>13</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>349</h>
+      <object_id>4543229</object_id>
+      <w>372</w>
+      <y>7</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>pair</name>
+      <h>179</h>
+      <object_id>4543228</object_id>
+      <w>192</w>
+      <y>14</y>
+      <x>92</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a pair of scissors sitting on a car seat </caption>
+      <caption>A pair of scissors laying on a blue surface. </caption>
+      <caption>Scissors are laying next to an opened pack of AA batteries.</caption>
+      <caption>a pair of sissors that are on a blanket</caption>
+      <caption>Scissors are used to open the package on the couch</caption>
+    </captions>
+</image>

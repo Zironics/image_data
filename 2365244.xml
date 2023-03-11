@@ -1,0 +1,177 @@
+<image>
+  <image-id>2365244</image-id>
+  <coco-id>250749</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4385165</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2694384</subject>
+      <object>2694383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385166</relationship_id>
+      <predicate>has</predicate>
+      <subject>1817630</subject>
+      <object>1817631</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385167</relationship_id>
+      <predicate>has</predicate>
+      <subject>1817630</subject>
+      <object>1817632</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385168</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2122616</subject>
+      <object>2122617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385169</relationship_id>
+      <predicate>cutting</predicate>
+      <subject>1817630</subject>
+      <object>2116696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385170</relationship_id>
+      <predicate>for slice of</predicate>
+      <subject>2055961</subject>
+      <object>2116696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385171</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2520150</subject>
+      <object>2520151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385172</relationship_id>
+      <predicate>on a mans</predicate>
+      <subject>2003099</subject>
+      <object>2463605</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>161</h>
+      <object_id>2694384</object_id>
+      <w>100</w>
+      <y>82</y>
+      <x>152</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>tie</name>
+      <h>50</h>
+      <object_id>2694383</object_id>
+      <w>20</w>
+      <y>184</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>384</h>
+      <object_id>1817630</object_id>
+      <w>134</w>
+      <y>114</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>42</h>
+      <object_id>1817631</object_id>
+      <w>48</w>
+      <y>201</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>25</h>
+      <object_id>1817632</object_id>
+      <w>46</w>
+      <y>172</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>55</h>
+      <object_id>2122616</object_id>
+      <w>43</w>
+      <y>442</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown cabinet</name>
+      <h>102</h>
+      <object_id>2122617</object_id>
+      <w>189</w>
+      <y>392</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>266</h>
+      <object_id>2116696</object_id>
+      <w>128</w>
+      <y>186</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>paper plate</name>
+      <h>19</h>
+      <object_id>2055961</object_id>
+      <w>63</w>
+      <y>383</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>cake top</name>
+      <h>79</h>
+      <object_id>2520150</object_id>
+      <w>91</w>
+      <y>178</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>wedding cake</name>
+      <h>278</h>
+      <object_id>2520151</object_id>
+      <w>143</w>
+      <y>181</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>button</name>
+      <h>20</h>
+      <object_id>2003099</object_id>
+      <w>22</w>
+      <y>330</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>navy</attribute>
+      </attributes>
+      <h>362</h>
+      <object_id>2463605</object_id>
+      <w>161</w>
+      <y>138</y>
+      <x>102</x>
+      <name>suit</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A newly married couple cutting a wedding cake.</caption>
+      <caption>A woman cutting into a cake with a knife.</caption>
+      <caption>A man and woman making a cut into a wedding cake</caption>
+      <caption>Woman cutting the cake on her wedding day with husband at side.</caption>
+      <caption>A woman is getting ready to slice a wedding cake with a knife.</caption>
+    </captions>
+</image>

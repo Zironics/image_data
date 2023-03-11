@@ -1,0 +1,98 @@
+<image>
+  <image-id>1159946</image-id>
+  <coco-id>274083</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4640784</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4196283</subject>
+      <object>4196286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4640785</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4196285</subject>
+      <object>4196286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4668042</relationship_id>
+      <predicate>with a</predicate>
+      <subject>4264926</subject>
+      <object>4264927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4640807</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4196344</subject>
+      <object>4196345</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate</name>
+      <h>27</h>
+      <object_id>4196283</object_id>
+      <w>83</w>
+      <y>537</y>
+      <x>421</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>338</h>
+      <object_id>4196286</object_id>
+      <w>461</w>
+      <y>372</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>21</h>
+      <object_id>4196285</object_id>
+      <w>23</w>
+      <y>486</y>
+      <x>445</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>105</h>
+      <object_id>4264926</object_id>
+      <w>147</w>
+      <y>311</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>120</h>
+      <object_id>4264927</object_id>
+      <w>127</w>
+      <y>360</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>he</name>
+      <h>430</h>
+      <object_id>4196344</object_id>
+      <w>180</w>
+      <y>298</y>
+      <x>605</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>robe</name>
+      <h>320</h>
+      <object_id>4196345</object_id>
+      <w>158</w>
+      <y>383</y>
+      <x>603</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A double decker bus driving down a street next to tall buildings.</caption>
+      <caption>People are standing next to a car parked behind a bus.</caption>
+      <caption>an orange and black car and a yellow and blue bus and some people </caption>
+      <caption>Men standing in a street next to a car and a large bus.</caption>
+      <caption>A Hyundai vehicle is following a city bus.</caption>
+    </captions>
+</image>

@@ -1,0 +1,90 @@
+<image>
+  <image-id>2332029</image-id>
+  <coco-id>74554</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4463881</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3932629</subject>
+      <object>3332048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463882</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3082708</subject>
+      <object>3082709</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463883</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3932630</subject>
+      <object>3398254</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>91</h>
+      <object_id>3932629</object_id>
+      <w>42</w>
+      <y>162</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>169</h>
+      <object_id>3332048</object_id>
+      <w>195</w>
+      <y>3</y>
+      <x>294</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>4</h>
+      <object_id>3082708</object_id>
+      <w>5</w>
+      <y>17</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>288</h>
+      <object_id>3082709</object_id>
+      <w>216</w>
+      <y>0</y>
+      <x>69</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>55</h>
+      <object_id>3932630</object_id>
+      <w>20</w>
+      <y>205</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>135</h>
+      <object_id>3398254</object_id>
+      <w>231</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A big elephant outside in front of trees.</caption>
+      <caption>An elephant standing on dirt in front of rocks and bushes</caption>
+      <caption>An elephants walking in an enclosure at a zoo.</caption>
+      <caption>An elephant is walking on the dusty ground.</caption>
+      <caption>A large elephant walks in its zoo enclosure</caption>
+    </captions>
+</image>

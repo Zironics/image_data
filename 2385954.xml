@@ -1,0 +1,91 @@
+<image>
+  <image-id>2385954</image-id>
+  <coco-id>562113</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1809802</relationship_id>
+      <predicate>ON</predicate>
+      <subject>684821</subject>
+      <object>684822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1809803</relationship_id>
+      <predicate>from</predicate>
+      <subject>684824</subject>
+      <object>684823</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1809804</relationship_id>
+      <predicate>and</predicate>
+      <subject>684823</subject>
+      <object>684818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1809805</relationship_id>
+      <predicate>ON</predicate>
+      <subject>684818</subject>
+      <object>684823</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>15</h>
+      <object_id>684821</object_id>
+      <w>16</w>
+      <y>227</y>
+      <x>233</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>upside down</attribute>
+      </attributes>
+      <name>building</name>
+      <h>276</h>
+      <object_id>684822</object_id>
+      <w>499</w>
+      <y>90</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>35</h>
+      <object_id>684824</object_id>
+      <w>62</w>
+      <y>0</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>500</h>
+      <object_id>684823</object_id>
+      <w>62</w>
+      <y>0</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>stop</attribute>
+        <attribute>octagon</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>220</h>
+      <object_id>684818</object_id>
+      <w>162</w>
+      <y>152</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stop sign centers an upside down street image.</caption>
+      <caption>a street sign attached to a pole on a street.</caption>
+      <caption>A upside down picture of a stop which is right side up.</caption>
+      <caption>An inverted stop sign looks normal in this upside-down photo.</caption>
+      <caption>Inverted photograph including an upside down stop sign </caption>
+    </captions>
+</image>

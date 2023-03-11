@@ -1,0 +1,164 @@
+<image>
+  <image-id>2370370</image-id>
+  <coco-id>218096</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4325820</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>2275415</subject>
+      <object>1999350</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325821</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>2249333</subject>
+      <object>1737129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325822</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2249333</subject>
+      <object>2249332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325823</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2275415</subject>
+      <object>2581038</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325824</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1705713</subject>
+      <object>2275415</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325825</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2275415</subject>
+      <object>1841649</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325826</relationship_id>
+      <predicate>drinking from a</predicate>
+      <subject>2249333</subject>
+      <object>1715950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325827</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2249332</subject>
+      <object>2249333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325828</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2147043</subject>
+      <object>2147044</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>290</h>
+      <object_id>2275415</object_id>
+      <w>171</w>
+      <y>33</y>
+      <x>328</x>
+      <name>man</name>
+    </object>
+    <object>
+      <h>77</h>
+      <object_id>1999350</object_id>
+      <w>121</w>
+      <y>86</y>
+      <x>321</x>
+      <name>chair</name>
+    </object>
+    <object>
+      <h>303</h>
+      <object_id>2249333</object_id>
+      <w>269</w>
+      <y>20</y>
+      <x>95</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>seat</name>
+      <h>62</h>
+      <object_id>1737129</object_id>
+      <w>36</w>
+      <y>95</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>180</h>
+      <object_id>2249332</object_id>
+      <w>268</w>
+      <y>143</y>
+      <x>95</x>
+      <name>shirt</name>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>97</h>
+      <object_id>2581038</object_id>
+      <w>28</w>
+      <y>124</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>6</h>
+      <object_id>1705713</object_id>
+      <w>16</w>
+      <y>92</y>
+      <x>388</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue patterned</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>193</h>
+      <object_id>1841649</object_id>
+      <w>171</w>
+      <y>127</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>flask</name>
+      <h>100</h>
+      <object_id>1715950</object_id>
+      <w>63</w>
+      <y>81</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>facial hair</name>
+      <h>41</h>
+      <object_id>2147043</object_id>
+      <w>32</w>
+      <y>108</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>man's face</name>
+      <h>142</h>
+      <object_id>2147044</object_id>
+      <w>116</w>
+      <y>28</y>
+      <x>186</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>One man drinking from a beer bottle and another from a flask.</caption>
+      <caption>Two men react as they drink alcohol on a bus.</caption>
+      <caption>Some people are celebrating while on the bus. </caption>
+      <caption>A man who is drinking from a flask.</caption>
+      <caption>A man in stripes is drinking from a flask </caption>
+    </captions>
+</image>

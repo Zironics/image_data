@@ -1,0 +1,127 @@
+<image>
+  <image-id>2333991</image-id>
+  <coco-id>194248</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4010777</relationship_id>
+      <predicate>with</predicate>
+      <subject>3926942</subject>
+      <object>3681119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075548</relationship_id>
+      <predicate>with</predicate>
+      <subject>2889292</subject>
+      <object>3217462</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4454168</relationship_id>
+      <predicate>etched into</predicate>
+      <subject>3105453</subject>
+      <object>3926942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4454169</relationship_id>
+      <predicate>seen through</predicate>
+      <subject>2881206</subject>
+      <object>3926942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4454170</relationship_id>
+      <predicate>with</predicate>
+      <subject>2889292</subject>
+      <object>3926943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4010779</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2859777</subject>
+      <object>3926942</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>325</h>
+      <object_id>3926942</object_id>
+      <w>344</w>
+      <y>3</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>writing</name>
+      <h>140</h>
+      <object_id>3681119</object_id>
+      <w>222</w>
+      <y>157</y>
+      <x>135</x>
+    </object>
+    <object>
+      <h>215</h>
+      <object_id>2889292</object_id>
+      <w>95</w>
+      <y>54</y>
+      <x>404</x>
+      <name>window</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>frame</name>
+      <h>283</h>
+      <object_id>3217462</object_id>
+      <w>95</w>
+      <y>9</y>
+      <x>403</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ETCHED</attribute>
+      </attributes>
+      <name>etched poem</name>
+      <h>153</h>
+      <object_id>3105453</object_id>
+      <w>242</w>
+      <y>154</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>92</h>
+      <object_id>2881206</object_id>
+      <w>33</w>
+      <y>3</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>closed</attribute>
+      </attributes>
+      <name>blinds</name>
+      <h>228</h>
+      <object_id>3926943</object_id>
+      <w>71</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>quotation marks</name>
+      <h>9</h>
+      <object_id>2859777</object_id>
+      <w>15</w>
+      <y>270</y>
+      <x>216</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A vase with a poem about interns painted on the side of it.</caption>
+      <caption>There is a vase with a poem written on it. </caption>
+      <caption>A vase with a poem carved on it. </caption>
+      <caption>A vase that has a dedication written on it.</caption>
+      <caption>Poem etched in glass vase with white lettering. </caption>
+    </captions>
+</image>

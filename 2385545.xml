@@ -1,0 +1,197 @@
+<image>
+  <image-id>2385545</image-id>
+  <coco-id>48900</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1818516</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687309</subject>
+      <object>687311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818517</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687312</subject>
+      <object>687311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818518</relationship_id>
+      <predicate>by</predicate>
+      <subject>687315</subject>
+      <object>687309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818519</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687310</subject>
+      <object>687311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818520</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687309</subject>
+      <object>687311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818521</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>687309</subject>
+      <object>687310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818522</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>687309</subject>
+      <object>687310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818523</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>687310</subject>
+      <object>687309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818524</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>687310</subject>
+      <object>687309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818525</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>687309</subject>
+      <object>687310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818526</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>687310</subject>
+      <object>687309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818527</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687310</subject>
+      <object>687311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818528</relationship_id>
+      <predicate>plugged into</predicate>
+      <subject>687310</subject>
+      <object>687309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818529</relationship_id>
+      <predicate>plugged into</predicate>
+      <subject>687312</subject>
+      <object>687309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818530</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687316</subject>
+      <object>687310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818531</relationship_id>
+      <predicate>plugged into</predicate>
+      <subject>687309</subject>
+      <object>687310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1818532</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687317</subject>
+      <object>687311</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>on</attribute>
+        <attribute>tiny</attribute>
+        <attribute>being used</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>171</h>
+      <object_id>687309</object_id>
+      <w>117</w>
+      <y>329</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+        <attribute>wooden</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>51</h>
+      <object_id>687311</object_id>
+      <w>66</w>
+      <y>411</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cords</name>
+      <h>62</h>
+      <object_id>687312</object_id>
+      <w>123</w>
+      <y>385</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>mobile</name>
+      <h>65</h>
+      <object_id>687315</object_id>
+      <w>66</w>
+      <y>434</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>on</attribute>
+        <attribute>connected to laptop</attribute>
+      </attributes>
+      <name>mobile</name>
+      <h>316</h>
+      <object_id>687310</object_id>
+      <w>232</w>
+      <y>21</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>applications</name>
+      <h>121</h>
+      <object_id>687316</object_id>
+      <w>110</w>
+      <y>82</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>tangled</attribute>
+      </attributes>
+      <name>cord</name>
+      <h>98</h>
+      <object_id>687317</object_id>
+      <w>73</w>
+      <y>269</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small laptop is connected to a large screen.</caption>
+      <caption>A large monitor on it's side near a laptop.</caption>
+      <caption>A laptop connected to a flat screen tv.</caption>
+      <caption>a laptop on the floor and a big monitor</caption>
+      <caption>A mobile phone sits near a laptop computer that's plugged into a large display. </caption>
+    </captions>
+</image>

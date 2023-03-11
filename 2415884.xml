@@ -1,0 +1,109 @@
+<image>
+  <image-id>2415884</image-id>
+  <coco-id>338319</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4035005</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2705861</subject>
+      <object>2705860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035019</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3690416</subject>
+      <object>2821384</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035024</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3346995</subject>
+      <object>3690416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035025</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3690416</subject>
+      <object>3346997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3682713</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>2705860</subject>
+      <object>2956226</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>leafy</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>268</h>
+      <object_id>2705861</object_id>
+      <w>297</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>239</h>
+      <object_id>2705860</object_id>
+      <w>126</w>
+      <y>165</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>88</h>
+      <object_id>3690416</object_id>
+      <w>109</w>
+      <y>152</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>208</h>
+      <object_id>2821384</object_id>
+      <w>174</w>
+      <y>155</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>77</h>
+      <object_id>3346995</object_id>
+      <w>110</w>
+      <y>131</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>103</h>
+      <object_id>3346997</object_id>
+      <w>149</w>
+      <y>254</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <h>52</h>
+      <object_id>2956226</object_id>
+      <w>75</w>
+      <y>117</y>
+      <x>41</x>
+      <name>baseball bat</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man tossing a frisbee in a park with green grass.</caption>
+      <caption>A man is swinging a club with both hands</caption>
+      <caption>A man in shorts is swinging a bat.</caption>
+      <caption>A man taking a swing at a  baseball on the grass</caption>
+      <caption>Man swinging a baseball bat in a green grass field.</caption>
+    </captions>
+</image>

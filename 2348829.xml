@@ -1,0 +1,100 @@
+<image>
+  <image-id>2348829</image-id>
+  <coco-id>509154</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2545535</relationship_id>
+      <predicate>stands in</predicate>
+      <subject>879503</subject>
+      <object>879504</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2545536</relationship_id>
+      <predicate>IN</predicate>
+      <subject>879512</subject>
+      <object>879514</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2545537</relationship_id>
+      <predicate>OF</predicate>
+      <subject>879519</subject>
+      <object>879503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2545538</relationship_id>
+      <predicate>OF</predicate>
+      <subject>879520</subject>
+      <object>879503</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>spotted</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>306</h>
+      <object_id>879503</object_id>
+      <w>143</w>
+      <y>27</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>bushes</name>
+      <h>163</h>
+      <object_id>879504</object_id>
+      <w>272</w>
+      <y>193</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>puffy</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>44</h>
+      <object_id>879512</object_id>
+      <w>117</w>
+      <y>92</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>176</h>
+      <object_id>879514</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>108</h>
+      <object_id>879519</object_id>
+      <w>28</w>
+      <y>218</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>116</h>
+      <object_id>879520</object_id>
+      <w>16</w>
+      <y>213</y>
+      <x>256</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe standing in the middle of a forest.</caption>
+      <caption>a large giraffe near many bushes in a field </caption>
+      <caption>A giraffe standing in the brush on the plains.</caption>
+      <caption>a big giraffe stands over a bunch of bushes </caption>
+      <caption>A giraffe stands amongst short brush on a plain.</caption>
+    </captions>
+</image>

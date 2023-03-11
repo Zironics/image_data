@@ -1,0 +1,206 @@
+<image>
+  <image-id>2318285</image-id>
+  <coco-id>141240</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3022235</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1012292</subject>
+      <object>1012293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022236</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1012295</subject>
+      <object>1012293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022237</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1012296</subject>
+      <object>1012293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022238</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1012288</subject>
+      <object>1012299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022239</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1012288</subject>
+      <object>1012299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022240</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1012288</subject>
+      <object>1012300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022241</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1012288</subject>
+      <object>1012300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022242</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1012288</subject>
+      <object>1012302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022243</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1012296</subject>
+      <object>1012303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022244</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1012292</subject>
+      <object>1012304</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022245</relationship_id>
+      <predicate>lying on a</predicate>
+      <subject>1012288</subject>
+      <object>1012299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022254</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1012288</subject>
+      <object>1012299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022255</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>1012292</subject>
+      <object>1012293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022256</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1012295</subject>
+      <object>1012293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022257</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1012296</subject>
+      <object>1012293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022258</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1012288</subject>
+      <object>1012299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3022259</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1012292</subject>
+      <object>1012293</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>diploma</name>
+      <h>49</h>
+      <object_id>1012292</object_id>
+      <w>64</w>
+      <y>53</y>
+      <x>436</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>195</h>
+      <object_id>1012293</object_id>
+      <w>209</w>
+      <y>1</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>print</name>
+      <h>51</h>
+      <object_id>1012295</object_id>
+      <w>101</w>
+      <y>0</y>
+      <x>307</x>
+    </object>
+    <object>
+      <name>painting</name>
+      <h>44</h>
+      <object_id>1012296</object_id>
+      <w>73</w>
+      <y>3</y>
+      <x>427</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>sleeping</attribute>
+        <attribute>sprawled out</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>60</h>
+      <object_id>1012288</object_id>
+      <w>281</w>
+      <y>159</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>82</h>
+      <object_id>1012299</object_id>
+      <w>497</w>
+      <y>163</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>10</h>
+      <object_id>1012300</object_id>
+      <w>5</w>
+      <y>184</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>15</h>
+      <object_id>1012302</object_id>
+      <w>12</w>
+      <y>166</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>frame</name>
+      <h>49</h>
+      <object_id>1012303</object_id>
+      <w>76</w>
+      <y>1</y>
+      <x>424</x>
+    </object>
+    <object>
+      <name>frame</name>
+      <h>53</h>
+      <object_id>1012304</object_id>
+      <w>63</w>
+      <y>51</y>
+      <x>437</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two cats sleep on a blanket covered bed.</caption>
+      <caption>Two different colored cat laying on a bed.</caption>
+      <caption>An orange cat and a black and white cat both laying on a bed. </caption>
+      <caption>Two cats are laying on a bed in a bit of sunlight.</caption>
+      <caption>Two cats rest on a bed in front of wooden closet doors. </caption>
+    </captions>
+</image>

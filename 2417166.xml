@@ -1,0 +1,90 @@
+<image>
+  <image-id>2417166</image-id>
+  <coco-id>369751</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4672600</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4276704</subject>
+      <object>4276705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4611144</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4122199</subject>
+      <object>4122200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4611180</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4122290</subject>
+      <object>4122291</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>55</h>
+      <object_id>4276704</object_id>
+      <w>79</w>
+      <y>53</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>156</h>
+      <object_id>4276705</object_id>
+      <w>233</w>
+      <y>4</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>car</name>
+      <h>42</h>
+      <object_id>4122199</object_id>
+      <w>109</w>
+      <y>168</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>184</h>
+      <object_id>4122200</object_id>
+      <w>175</w>
+      <y>201</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>markings</name>
+      <h>35</h>
+      <object_id>4122290</object_id>
+      <w>123</w>
+      <y>221</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>road</name>
+      <h>262</h>
+      <object_id>4122291</object_id>
+      <w>178</w>
+      <y>204</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Parking meters and signage are on the side of the street</caption>
+      <caption>A row of parking meters in front of a stop sign. </caption>
+      <caption>A car is driving down the road near some road signs. </caption>
+      <caption>a row of parking meters line a street in front of a stop sign</caption>
+      <caption>A view of a parking lot with parking meters.</caption>
+    </captions>
+</image>

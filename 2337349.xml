@@ -1,0 +1,166 @@
+<image>
+  <image-id>2337349</image-id>
+  <coco-id>316397</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4803344</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4606850</subject>
+      <object>4606868</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803345</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4606873</subject>
+      <object>4606853</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803346</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>4606856</subject>
+      <object>4606857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803347</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>4606859</subject>
+      <object>4606857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803348</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4606864</subject>
+      <object>4606865</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803349</relationship_id>
+      <predicate>preparing to swing</predicate>
+      <subject>4606850</subject>
+      <object>4606860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803350</relationship_id>
+      <predicate>crouching behind</predicate>
+      <subject>4606855</subject>
+      <object>4606859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803351</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4606873</subject>
+      <object>4606874</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>181</h>
+      <object_id>4606850</object_id>
+      <w>78</w>
+      <y>76</y>
+      <x>303</x>
+    </object>
+    <object>
+      <h>45</h>
+      <object_id>4606868</object_id>
+      <w>55</w>
+      <y>38</y>
+      <x>327</x>
+      <name>baseball bat</name>
+    </object>
+    <object>
+      <h>86</h>
+      <object_id>4606873</object_id>
+      <w>32</w>
+      <y>40</y>
+      <x>37</x>
+      <name>base coach</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>334</h>
+      <object_id>4606853</object_id>
+      <w>496</w>
+      <y>39</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>191</h>
+      <object_id>4606856</object_id>
+      <w>131</w>
+      <y>41</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>337</h>
+      <object_id>4606857</object_id>
+      <w>482</w>
+      <y>36</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>base</name>
+      <h>10</h>
+      <object_id>4606859</object_id>
+      <w>40</w>
+      <y>242</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>third baseman</name>
+      <h>71</h>
+      <object_id>4606864</object_id>
+      <w>30</w>
+      <y>46</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>249</h>
+      <object_id>4606865</object_id>
+      <w>483</w>
+      <y>98</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>45</h>
+      <object_id>4606860</object_id>
+      <w>56</w>
+      <y>38</y>
+      <x>326</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>squatting down</attribute>
+      </attributes>
+      <name>catcher</name>
+      <h>105</h>
+      <object_id>4606855</object_id>
+      <w>80</w>
+      <y>163</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>foul territory</name>
+      <h>338</h>
+      <object_id>4606874</object_id>
+      <w>244</w>
+      <y>35</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player standing on home plate with a bat in hand.</caption>
+      <caption>A baseball batter up to bat during a baseball game.</caption>
+      <caption>A batter is waiting for the pitcher to trow the ball for him.</caption>
+      <caption>Batter getting ready to swing his bat at a baseball game.</caption>
+      <caption>A baseball player holds his bat high before a pitch.</caption>
+    </captions>
+</image>

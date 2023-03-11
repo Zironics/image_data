@@ -1,0 +1,59 @@
+<image>
+  <image-id>2320981</image-id>
+  <coco-id>324669</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3661122</relationship_id>
+      <predicate>created by</predicate>
+      <subject>3203068</subject>
+      <object>3203069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3661123</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3273447</subject>
+      <object>3533488</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>foam</name>
+      <h>99</h>
+      <object_id>3203068</object_id>
+      <w>142</w>
+      <y>139</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>214</h>
+      <object_id>3203069</object_id>
+      <w>401</w>
+      <y>160</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>mountains</name>
+      <h>80</h>
+      <object_id>3273447</object_id>
+      <w>197</w>
+      <y>26</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>distance</name>
+      <h>64</h>
+      <object_id>3533488</object_id>
+      <w>492</w>
+      <y>36</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boat traveling on a lake filled with water.</caption>
+      <caption>a lot of scuba gear with a tank on the back of a boat</caption>
+      <caption>A boat in the water holding scuba gear.</caption>
+      <caption>A boat carrying SCUBA equipment  leaving a mountain surrounded bay.</caption>
+      <caption>A boat is traveling down the water near mountains.</caption>
+    </captions>
+</image>

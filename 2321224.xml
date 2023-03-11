@@ -1,0 +1,79 @@
+<image>
+  <image-id>2321224</image-id>
+  <coco-id>205338</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4540075</relationship_id>
+      <predicate>has</predicate>
+      <subject>3067740</subject>
+      <object>2841681</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540076</relationship_id>
+      <predicate>has</predicate>
+      <subject>3067740</subject>
+      <object>3373216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540077</relationship_id>
+      <predicate>has</predicate>
+      <subject>3067740</subject>
+      <object>3962300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3873349</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3457772</subject>
+      <object>3067740</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>353</h>
+      <object_id>3067740</object_id>
+      <w>466</w>
+      <y>81</y>
+      <x>2</x>
+      <name>donut</name>
+    </object>
+    <object>
+      <name>sprinkle</name>
+      <h>13</h>
+      <object_id>2841681</object_id>
+      <w>12</w>
+      <y>272</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>sprinkles</name>
+      <h>354</h>
+      <object_id>3373216</object_id>
+      <w>428</w>
+      <y>87</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>sprinkle</name>
+      <h>23</h>
+      <object_id>3962300</object_id>
+      <w>23</w>
+      <y>292</y>
+      <x>350</x>
+    </object>
+    <object>
+      <name>sprinkle</name>
+      <h>20</h>
+      <object_id>3457772</object_id>
+      <w>15</w>
+      <y>298</y>
+      <x>136</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A chocolate doughnut topped with sprinkles sitting on a table.</caption>
+      <caption>A big doughnut with chocolate fudge and sprinkles.</caption>
+      <caption>There is a doughnut with chocolate frosting and rainbow sprinkles.</caption>
+      <caption>A doughnut with chocolate and rainbow colored sprinkles.  </caption>
+      <caption>A closeup of a donut with chocolate glaze and sprinkles.</caption>
+    </captions>
+</image>

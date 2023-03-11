@@ -1,0 +1,65 @@
+<image>
+  <image-id>2402965</image-id>
+  <coco-id>513541</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3266030</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1129435</subject>
+      <object>1129436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3266036</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1129437</subject>
+      <object>1129438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3266072</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1129437</subject>
+      <object>1129438</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1129435</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1129436</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1129437</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1129438</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue fighter airplane is parked at a show.</caption>
+      <caption>An old style airplane is parked while people walk in the background.</caption>
+      <caption>A small plane is parked and on display. </caption>
+      <caption>A blue propeller plane is on display at an airshow.</caption>
+      <caption>A propeller plan that is sitting on concrete.</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2368149</image-id>
+  <coco-id>405179</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4351613</relationship_id>
+      <predicate>reflect</predicate>
+      <subject>2702694</subject>
+      <object>1903639</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4351614</relationship_id>
+      <predicate>on side of a</predicate>
+      <subject>1743340</subject>
+      <object>1743341</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wet platform</name>
+      <h>80</h>
+      <object_id>2702694</object_id>
+      <w>270</w>
+      <y>235</y>
+      <x>59</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>194</h>
+      <object_id>1903639</object_id>
+      <w>380</w>
+      <y>80</y>
+      <x>86</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>text</name>
+      <h>12</h>
+      <object_id>1743340</object_id>
+      <w>41</w>
+      <y>202</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>163</h>
+      <object_id>1743341</object_id>
+      <w>332</w>
+      <y>107</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A public bus pulled up to an empty bus stop</caption>
+      <caption>A train is stopped at a train station.</caption>
+      <caption>a shuttle bus parked at a bus stop on the street.</caption>
+      <caption>A bus is pulled up to a bus stop.</caption>
+      <caption>BUS THAT LOOKS LIKE ITS FROM THE FUTURE JUST SITTING STILL</caption>
+    </captions>
+</image>

@@ -1,0 +1,78 @@
+<image>
+  <image-id>2329308</image-id>
+  <coco-id>21166</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4136063</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2722090</subject>
+      <object>3658958</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3955476</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3060655</subject>
+      <object>3658958</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3955797</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3267869</subject>
+      <object>3267870</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>behind</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>330</h>
+      <object_id>2722090</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>130</h>
+      <object_id>3658958</object_id>
+      <w>390</w>
+      <y>95</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>words</name>
+      <h>124</h>
+      <object_id>3060655</object_id>
+      <w>380</w>
+      <y>99</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>spots</name>
+      <h>55</h>
+      <object_id>3267869</object_id>
+      <w>125</w>
+      <y>231</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>67</h>
+      <object_id>3267870</object_id>
+      <w>140</w>
+      <y>226</y>
+      <x>345</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow sign pointing in both direction mounted to a wall under a window.</caption>
+      <caption>A street sign for Per S. Marco under a window.</caption>
+      <caption>A yellow sign points in two different directions </caption>
+      <caption>Yellow and black Italian street sign below a window
+
+</caption>
+      <caption>A street sign indicates the location of Per S. Marco.</caption>
+    </captions>
+</image>

@@ -1,0 +1,66 @@
+<image>
+  <image-id>285668</image-id>
+  <coco-id>205916</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4723176</relationship_id>
+      <predicate>over</predicate>
+      <subject>4399605</subject>
+      <object>4399606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4723177</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4399612</subject>
+      <object>4399612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4723178</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4399612</subject>
+      <object>4399612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4723179</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4399612</subject>
+      <object>4399612</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bridge</name>
+      <h>12</h>
+      <object_id>4399605</object_id>
+      <w>108</w>
+      <y>440</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>53</h>
+      <object_id>4399606</object_id>
+      <w>160</w>
+      <y>533</y>
+      <x>299</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>400</h>
+      <object_id>4399612</object_id>
+      <w>534</w>
+      <y>6</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large church tower with clocks embedded in it's sides.</caption>
+      <caption>A clock tower sits across a river next to a bridge.</caption>
+      <caption>The large clock tower is beside a bridge near a river.</caption>
+      <caption>a tall clock tower with trees in the background</caption>
+      <caption>An old clock tower on a river, near a bridge.</caption>
+    </captions>
+</image>

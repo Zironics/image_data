@@ -1,0 +1,88 @@
+<image>
+  <image-id>2391169</image-id>
+  <coco-id>74860</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1135842</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>490963</subject>
+      <object>490966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1135843</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>490963</subject>
+      <object>490964</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1135844</relationship_id>
+      <predicate>on a</predicate>
+      <subject>490963</subject>
+      <object>490965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1135845</relationship_id>
+      <predicate>ON</predicate>
+      <subject>490963</subject>
+      <object>490964</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>snowboarding</attribute>
+        <attribute>alone</attribute>
+      </attributes>
+      <name>man</name>
+      <h>59</h>
+      <object_id>490963</object_id>
+      <w>67</w>
+      <y>187</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>11</h>
+      <object_id>490966</object_id>
+      <w>18</w>
+      <y>186</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>groomed</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>330</h>
+      <object_id>490964</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>snowboard</name>
+      <h>26</h>
+      <object_id>490965</object_id>
+      <w>100</w>
+      <y>237</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A person sitting on the side of a mountain with a snow board.</caption>
+      <caption>A man sitting on the ground with a snowboard on his feet.</caption>
+      <caption>A man sitting in the snow with his snowboard on. </caption>
+      <caption>Snow boarder sitting on snow covered slope on sunny day.</caption>
+      <caption>there is a snowboarder that has fallen n the snow</caption>
+    </captions>
+</image>

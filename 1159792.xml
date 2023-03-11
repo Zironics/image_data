@@ -1,0 +1,59 @@
+<image>
+  <image-id>1159792</image-id>
+  <coco-id>380280</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4633134</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4177577</subject>
+      <object>4177578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4638860</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4191550</subject>
+      <object>4191551</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chandelier</name>
+      <h>174</h>
+      <object_id>4177577</object_id>
+      <w>151</w>
+      <y>0</y>
+      <x>397</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>72</h>
+      <object_id>4177578</object_id>
+      <w>396</w>
+      <y>2</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>plant</name>
+      <h>73</h>
+      <object_id>4191550</object_id>
+      <w>79</w>
+      <y>220</y>
+      <x>433</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>136</h>
+      <object_id>4191551</object_id>
+      <w>209</w>
+      <y>263</y>
+      <x>363</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A room filled with a giant chandelier and some furniture.</caption>
+      <caption>A full view of a big room in a building. </caption>
+      <caption>A view of what looks like a hotel lobby, there is lots of luggage.</caption>
+      <caption>a big motel reception area with lots of luggage on the cart</caption>
+      <caption>A large open room with a table, luggage and a chandelier. </caption>
+    </captions>
+</image>

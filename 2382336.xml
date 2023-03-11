@@ -1,0 +1,59 @@
+<image>
+  <image-id>2382336</image-id>
+  <coco-id>252048</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1323424</relationship_id>
+      <predicate>above</predicate>
+      <subject>539796</subject>
+      <object>539792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1323425</relationship_id>
+      <predicate>near</predicate>
+      <subject>539796</subject>
+      <object>539792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1323426</relationship_id>
+      <predicate>above</predicate>
+      <subject>539796</subject>
+      <object>539792</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>planks</name>
+      <h>43</h>
+      <object_id>539796</object_id>
+      <w>36</w>
+      <y>36</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pretty</attribute>
+        <attribute>brown</attribute>
+        <attribute>long</attribute>
+        <attribute>posing</attribute>
+        <attribute>standing</attribute>
+        <attribute>grey</attribute>
+        <attribute>pictured</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>456</h>
+      <object_id>539792</object_id>
+      <w>264</w>
+      <y>32</y>
+      <x>90</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A horse is standing in the stables in the hay</caption>
+      <caption>A close up shot of a horse sitting in its area. </caption>
+      <caption>A horse standing on the ground behind a fence.</caption>
+      <caption>A closeup of a horse in a stable looking at the camera</caption>
+      <caption>A tawny horse in a holding pen looking at the camera.</caption>
+    </captions>
+</image>

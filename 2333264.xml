@@ -1,0 +1,95 @@
+<image>
+  <image-id>2333264</image-id>
+  <coco-id>288507</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4053297</relationship_id>
+      <predicate>using</predicate>
+      <subject>3028731</subject>
+      <object>2829975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053298</relationship_id>
+      <predicate>using</predicate>
+      <subject>3028731</subject>
+      <object>3028733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4024358</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3686272</subject>
+      <object>2817566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3733603</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3357032</subject>
+      <object>3357032</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>182</h>
+      <object_id>3028731</object_id>
+      <w>197</w>
+      <y>76</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>wireless</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>mouse</name>
+      <h>103</h>
+      <object_id>2829975</object_id>
+      <w>114</w>
+      <y>55</y>
+      <x>309</x>
+    </object>
+    <object>
+      <name>mouse</name>
+      <h>84</h>
+      <object_id>3028733</object_id>
+      <w>78</w>
+      <y>95</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>ring finger</name>
+      <h>32</h>
+      <object_id>3686272</object_id>
+      <w>41</w>
+      <y>88</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>262</h>
+      <object_id>2817566</object_id>
+      <w>300</w>
+      <y>69</y>
+      <x>198</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>numeric</attribute>
+      </attributes>
+      <name>key pad</name>
+      <h>141</h>
+      <object_id>3357032</object_id>
+      <w>135</w>
+      <y>186</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person using a computer mouse on a wooden desk.</caption>
+      <caption>Someone is controlling their mouse for their computer. </caption>
+      <caption>A person working with a mouse and keyboard on a computer</caption>
+      <caption>A person uses a mouse beside another mouse on their desktop.</caption>
+      <caption>A persons hand beside a keyboard on a table.</caption>
+    </captions>
+</image>

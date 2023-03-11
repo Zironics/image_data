@@ -1,0 +1,81 @@
+<image>
+  <image-id>2413966</image-id>
+  <coco-id>110001</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>156287</relationship_id>
+      <predicate>over</predicate>
+      <subject>162494</subject>
+      <object>162495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156288</relationship_id>
+      <predicate>ON</predicate>
+      <subject>162500</subject>
+      <object>162499</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156289</relationship_id>
+      <predicate>between</predicate>
+      <subject>162492</subject>
+      <object>162499</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lamp post</name>
+      <h>111</h>
+      <object_id>162494</object_id>
+      <w>54</w>
+      <y>69</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>33</h>
+      <object_id>162495</object_id>
+      <w>43</w>
+      <y>178</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>71</h>
+      <object_id>162500</object_id>
+      <w>57</w>
+      <y>202</y>
+      <x>316</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>wide</attribute>
+      </attributes>
+      <name>road</name>
+      <h>54</h>
+      <object_id>162499</object_id>
+      <w>68</w>
+      <y>256</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>rectangular</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>23</h>
+      <object_id>162492</object_id>
+      <w>45</w>
+      <y>130</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a street sign with trees in the background</caption>
+      <caption>There is no traffic on this road during this time of day. </caption>
+      <caption>A blurry photo of a street with traffic signs and trees.</caption>
+      <caption>A roadway with caution traffic signs and road identification markers.</caption>
+      <caption>an empty street  and a fork in the road next to a tree lined sidewalk.</caption>
+    </captions>
+</image>

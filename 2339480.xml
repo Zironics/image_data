@@ -1,0 +1,98 @@
+<image>
+  <image-id>2339480</image-id>
+  <coco-id>494182</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4045907</relationship_id>
+      <predicate>eat</predicate>
+      <subject>3398141</subject>
+      <object>3384024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3628647</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3398141</subject>
+      <object>3519482</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4045910</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>2160263</subject>
+      <object>2160264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4045911</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3694966</subject>
+      <object>2762500</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>124</h>
+      <object_id>3398141</object_id>
+      <w>130</w>
+      <y>159</y>
+      <x>267</x>
+      <name>horse</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>189</h>
+      <object_id>3384024</object_id>
+      <w>491</w>
+      <y>182</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>harness</name>
+      <h>53</h>
+      <object_id>3519482</object_id>
+      <w>123</w>
+      <y>247</y>
+      <x>299</x>
+    </object>
+    <object>
+      <name>rope</name>
+      <h>43</h>
+      <object_id>2160263</object_id>
+      <w>101</w>
+      <y>260</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>190</h>
+      <object_id>2160264</object_id>
+      <w>497</w>
+      <y>184</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sunny</attribute>
+      </attributes>
+      <name>area</name>
+      <h>54</h>
+      <object_id>3694966</object_id>
+      <w>235</w>
+      <y>218</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>122</h>
+      <object_id>2762500</object_id>
+      <w>163</w>
+      <y>208</y>
+      <x>47</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Brown and white horses grazing in the grass.</caption>
+      <caption>2 horses stand and graze in a grassy field with many trees.</caption>
+      <caption>A brown horse grazing in grassy area with white horse behind it.</caption>
+      <caption>A horse on a rope in a field of trees and grass.</caption>
+      <caption>Two horses in a field by some trees.</caption>
+    </captions>
+</image>

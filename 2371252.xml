@@ -1,0 +1,116 @@
+<image>
+  <image-id>2371252</image-id>
+  <coco-id>99984</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3636596</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2348456</subject>
+      <object>3523169</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3636606</relationship_id>
+      <predicate>with an</predicate>
+      <subject>1817977</subject>
+      <object>1817978</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4317372</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3855036</subject>
+      <object>1894727</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3636612</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2191431</subject>
+      <object>2191426</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>square</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>signboard</name>
+      <h>38</h>
+      <object_id>2348456</object_id>
+      <w>27</w>
+      <y>138</y>
+      <x>322</x>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>46</h>
+      <object_id>3523169</object_id>
+      <w>33</w>
+      <y>34</y>
+      <x>296</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>round sign</name>
+      <h>40</h>
+      <object_id>1817977</object_id>
+      <w>38</w>
+      <y>119</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>x</name>
+      <h>41</h>
+      <object_id>1817978</object_id>
+      <w>38</w>
+      <y>117</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>x</name>
+      <h>50</h>
+      <object_id>3855036</object_id>
+      <w>40</w>
+      <y>114</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>54</h>
+      <object_id>1894727</object_id>
+      <w>50</w>
+      <y>126</y>
+      <x>429</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>border</name>
+      <h>38</h>
+      <object_id>2191431</object_id>
+      <w>38</w>
+      <y>119</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sign</name>
+      <h>76</h>
+      <object_id>2191426</object_id>
+      <w>71</w>
+      <y>160</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a couple of different types of signs on the outside</caption>
+      <caption>A series of road signs near an intersection.</caption>
+      <caption>A traffic light sitting next to other signs near a bunch of trees.</caption>
+      <caption>a couple of street signs that are by some bushes</caption>
+      <caption>Several traffic signs in a row behind bushes.</caption>
+    </captions>
+</image>

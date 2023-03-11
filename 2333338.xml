@@ -1,0 +1,62 @@
+<image>
+  <image-id>2333338</image-id>
+  <coco-id>405730</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4455645</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3194041</subject>
+      <object>3194042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4071187</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3137477</subject>
+      <object>3137478</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>beak</name>
+      <h>7</h>
+      <object_id>3194041</object_id>
+      <w>16</w>
+      <y>157</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>81</h>
+      <object_id>3194042</object_id>
+      <w>75</w>
+      <y>152</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>reeds</name>
+      <h>217</h>
+      <object_id>3137477</object_id>
+      <w>137</w>
+      <y>127</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>114</h>
+      <object_id>3137478</object_id>
+      <w>171</w>
+      <y>109</y>
+      <x>298</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird is sitting on the edge of some wood on the side of a large lake.</caption>
+      <caption>A small bird standing on some wood at the beach.</caption>
+      <caption>a bird sitting on a fence against a lake</caption>
+      <caption>A bird perched on a wooden fence looking out near the ocean </caption>
+      <caption>A large water bird preens at the water's edge.</caption>
+    </captions>
+</image>

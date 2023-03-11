@@ -1,0 +1,91 @@
+<image>
+  <image-id>2336807</image-id>
+  <coco-id>113977</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4448431</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2048878</subject>
+      <object>3118899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448432</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2486638</subject>
+      <object>2486637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448433</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2041384</subject>
+      <object>2041385</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>121</h>
+      <object_id>2048878</object_id>
+      <w>95</w>
+      <y>212</y>
+      <x>263</x>
+      <name>person</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>top</name>
+      <h>52</h>
+      <object_id>3118899</object_id>
+      <w>75</w>
+      <y>264</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>little</attribute>
+      </attributes>
+      <name>little boy</name>
+      <h>165</h>
+      <object_id>2486638</object_id>
+      <w>92</w>
+      <y>142</y>
+      <x>398</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light green</attribute>
+      </attributes>
+      <name>green top</name>
+      <h>72</h>
+      <object_id>2486637</object_id>
+      <w>71</w>
+      <y>191</y>
+      <x>421</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>150</h>
+      <object_id>2041384</object_id>
+      <w>52</w>
+      <y>2</y>
+      <x>446</x>
+    </object>
+    <object>
+      <name>beard</name>
+      <h>22</h>
+      <object_id>2041385</object_id>
+      <w>35</w>
+      <y>42</y>
+      <x>463</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An audience watches as a bird spreads its wings.</caption>
+      <caption>Vulture flying over a large group of people.</caption>
+      <caption>An eagle soaring over a crowd of people</caption>
+      <caption>A group of people sitting down while an eagle flies over them.</caption>
+      <caption>A large bird flies over a group of people at a show.</caption>
+    </captions>
+</image>

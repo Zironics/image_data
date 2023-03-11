@@ -1,0 +1,40 @@
+<image>
+  <image-id>2328637</image-id>
+  <coco-id>282406</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2917416</relationship_id>
+      <predicate>IN</predicate>
+      <subject>976657</subject>
+      <object>976658</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>running</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>159</h>
+      <object_id>976657</object_id>
+      <w>117</w>
+      <y>136</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>flannel</name>
+      <h>50</h>
+      <object_id>976658</object_id>
+      <w>48</w>
+      <y>162</y>
+      <x>343</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man that is standing in the grass with a kite.</caption>
+      <caption>a couple of people that are running around outside</caption>
+      <caption>A boy runs with a kite as many people mill about nearby. </caption>
+      <caption>A boy running in a park with a kite.</caption>
+      <caption>A boy running through a field with a kite.</caption>
+    </captions>
+</image>

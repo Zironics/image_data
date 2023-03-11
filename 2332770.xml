@@ -1,0 +1,87 @@
+<image>
+  <image-id>2332770</image-id>
+  <coco-id>362370</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4462735</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3243122</subject>
+      <object>3931844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3903498</relationship_id>
+      <predicate>resting</predicate>
+      <subject>3412542</subject>
+      <object>3638113</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260618</relationship_id>
+      <predicate>caging</predicate>
+      <subject>3795421</subject>
+      <object>3333473</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sheep</name>
+      <h>305</h>
+      <object_id>3243122</object_id>
+      <w>485</w>
+      <y>55</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>pen</name>
+      <h>361</h>
+      <object_id>3931844</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Sheep</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>84</h>
+      <object_id>3412542</object_id>
+      <w>82</w>
+      <y>240</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>straw</name>
+      <h>60</h>
+      <object_id>3638113</object_id>
+      <w>94</w>
+      <y>244</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Silver </attribute>
+      </attributes>
+      <name>bars</name>
+      <h>219</h>
+      <object_id>3795421</object_id>
+      <w>480</w>
+      <y>1</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>317</h>
+      <object_id>3333473</object_id>
+      <w>182</w>
+      <y>57</y>
+      <x>317</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Sheep lying in hay in pen areas with feed nearby.</caption>
+      <caption>There are animals laying on hay within a corral.</caption>
+      <caption>A couple of animals laying in the hay by a fence.</caption>
+      <caption>Two sheet lie together on straw bedding in a pen.</caption>
+      <caption>Two sheep are facing each other sleeping in a pen full of hay.</caption>
+    </captions>
+</image>

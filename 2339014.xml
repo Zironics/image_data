@@ -1,0 +1,40 @@
+<image>
+  <image-id>2339014</image-id>
+  <coco-id>485462</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4555100</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3988060</subject>
+      <object>3988061</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>light blue</attribute>
+      </attributes>
+      <name>bristles</name>
+      <h>51</h>
+      <object_id>3988060</object_id>
+      <w>22</w>
+      <y>372</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>toothbrush</name>
+      <h>152</h>
+      <object_id>3988061</object_id>
+      <w>421</w>
+      <y>286</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Toothpaste sits on the wrong side of a toothbrush.</caption>
+      <caption>A toothbrush with the tooth paste on the wrong side.</caption>
+      <caption>toothpaste on the wrong side of a tooth brush.</caption>
+      <caption>A toothbrush with toothpaste on the back of the head.</caption>
+      <caption>A tooth brush covered in tooth paste in front of a mirror.</caption>
+    </captions>
+</image>

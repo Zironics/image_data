@@ -1,0 +1,65 @@
+<image>
+  <image-id>2415847</image-id>
+  <coco-id>382692</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3682154</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3543399</subject>
+      <object>2894249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3876921</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3163879</subject>
+      <object>3163880</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>back</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>75</h>
+      <object_id>3543399</object_id>
+      <w>88</w>
+      <y>230</y>
+      <x>112</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>144</h>
+      <object_id>2894249</object_id>
+      <w>301</w>
+      <y>169</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>261</h>
+      <object_id>3163879</object_id>
+      <w>491</w>
+      <y>6</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>261</h>
+      <object_id>3163880</object_id>
+      <w>490</w>
+      <y>6</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motorcycle parked in front of two garage doors.</caption>
+      <caption>a blue beautiful motorbike placed outside a building</caption>
+      <caption>A motorcycle is parked in front of two garages. </caption>
+      <caption>The motorcycle is by the garage door outside. </caption>
+      <caption>A blue motorcycle parked in front of two garage doors.</caption>
+    </captions>
+</image>

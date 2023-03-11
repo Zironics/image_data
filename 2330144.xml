@@ -1,0 +1,66 @@
+<image>
+  <image-id>2330144</image-id>
+  <coco-id>480807</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4828243</relationship_id>
+      <predicate>on</predicate>
+      <subject>4667689</subject>
+      <object>4667680</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828246</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4667689</subject>
+      <object>4667686</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828247</relationship_id>
+      <predicate>sitting in front of</predicate>
+      <subject>4667689</subject>
+      <object>4667688</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>42</h>
+      <object_id>4667689</object_id>
+      <w>27</w>
+      <y>264</y>
+      <x>219</x>
+      <name>cup</name>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>117</h>
+      <object_id>4667680</object_id>
+      <w>470</w>
+      <y>196</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>120</h>
+      <object_id>4667686</object_id>
+      <w>484</w>
+      <y>200</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>243</h>
+      <object_id>4667688</object_id>
+      <w>462</w>
+      <y>40</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red and black motorcycle parked next to a car.</caption>
+      <caption>a coffee cup on the ground in front of a motorcycle</caption>
+      <caption>A red motorcycle parked next to a parked car.</caption>
+      <caption>a red and black motorcycle is parked next to a black car</caption>
+      <caption>a red and black motorcycle sitting next to a black car
+</caption>
+    </captions>
+</image>

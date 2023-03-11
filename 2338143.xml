@@ -1,0 +1,101 @@
+<image>
+  <image-id>2338143</image-id>
+  <coco-id>268412</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4460559</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>2426294</subject>
+      <object>3930615</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067030</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2482852</subject>
+      <object>2482853</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460560</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2891673</subject>
+      <object>3930616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460561</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2891673</subject>
+      <object>3930617</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>20</h>
+      <object_id>2426294</object_id>
+      <w>57</w>
+      <y>128</y>
+      <x>312</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>72</h>
+      <object_id>3930615</object_id>
+      <w>210</w>
+      <y>136</y>
+      <x>197</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>gray cow</name>
+      <h>81</h>
+      <object_id>2482852</object_id>
+      <w>76</w>
+      <y>177</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>group</name>
+      <h>94</h>
+      <object_id>2482853</object_id>
+      <w>222</w>
+      <y>162</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>220</h>
+      <object_id>2891673</object_id>
+      <w>62</w>
+      <y>118</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>76</h>
+      <object_id>3930616</object_id>
+      <w>41</w>
+      <y>213</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>20</h>
+      <object_id>3930617</object_id>
+      <w>20</w>
+      <y>142</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bunch of cows walking down the road</caption>
+      <caption>A large herd of cows are walking down the street.</caption>
+      <caption>A herd of cows traveling down the street.</caption>
+      <caption>A herd of cattle walking down a street near a grass field.</caption>
+      <caption>A bunch of cows and some people by a building.</caption>
+    </captions>
+</image>

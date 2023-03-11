@@ -1,0 +1,62 @@
+<image>
+  <image-id>2415476</image-id>
+  <coco-id>220382</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3874314</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3085451</subject>
+      <object>3085452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3874315</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3383784</subject>
+      <object>3383785</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>covering</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>85</h>
+      <object_id>3085451</object_id>
+      <w>144</w>
+      <y>232</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>186</h>
+      <object_id>3085452</object_id>
+      <w>492</w>
+      <y>144</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>black pants</name>
+      <h>105</h>
+      <object_id>3383784</object_id>
+      <w>79</w>
+      <y>196</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>252</h>
+      <object_id>3383785</object_id>
+      <w>192</w>
+      <y>64</y>
+      <x>162</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>this is a man riding on some skis</caption>
+      <caption>A boy snowboards down a snowy hill on a snowy day.</caption>
+      <caption>A man snowboarding down a snowy hill during the day.</caption>
+      <caption>A young boy snowboards down a hill in winter.</caption>
+      <caption>a guy riding a snow board down a slight hill</caption>
+    </captions>
+</image>

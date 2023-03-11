@@ -1,0 +1,43 @@
+<image>
+  <image-id>2392271</image-id>
+  <coco-id>423513</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3435581</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1231973</subject>
+      <object>1231974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3435612</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1231973</subject>
+      <object>1231974</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>42</h>
+      <object_id>1231973</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>43</h>
+      <object_id>1231974</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is sitting outdoors near a park bench. </caption>
+      <caption>A very cute cat by an empty wooden bench.</caption>
+      <caption>A cat that is laying in the dirt.</caption>
+      <caption>A white cat next to a park bench.</caption>
+      <caption>A cat standing behind a wooden bench next to white flowers.</caption>
+    </captions>
+</image>

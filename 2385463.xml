@@ -1,0 +1,107 @@
+<image>
+  <image-id>2385463</image-id>
+  <coco-id>126950</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1820058</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687854</subject>
+      <object>687848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1820059</relationship_id>
+      <predicate>has</predicate>
+      <subject>687855</subject>
+      <object>687856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1820060</relationship_id>
+      <predicate>and</predicate>
+      <subject>687851</subject>
+      <object>687855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1820061</relationship_id>
+      <predicate>ON</predicate>
+      <subject>687859</subject>
+      <object>687848</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>ring</attribute>
+      </attributes>
+      <name>binder</name>
+      <h>106</h>
+      <object_id>687854</object_id>
+      <w>90</w>
+      <y>253</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiled</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>55</h>
+      <object_id>687848</object_id>
+      <w>74</w>
+      <y>288</y>
+      <x>156</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>bang</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>153</h>
+      <object_id>687855</object_id>
+      <w>100</w>
+      <y>97</y>
+      <x>394</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>sock</name>
+      <h>35</h>
+      <object_id>687856</object_id>
+      <w>50</w>
+      <y>330</y>
+      <x>442</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>squatting</attribute>
+        <attribute>holding</attribute>
+        <attribute>squating</attribute>
+        <attribute>squat</attribute>
+        <attribute>wearing tie</attribute>
+      </attributes>
+      <name>man</name>
+      <h>200</h>
+      <object_id>687851</object_id>
+      <w>177</w>
+      <y>50</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>folder</name>
+      <h>61</h>
+      <object_id>687859</object_id>
+      <w>58</w>
+      <y>250</y>
+      <x>252</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and a woman are using their cell phones.</caption>
+      <caption>A woman is sitting on the floor looking at her phone</caption>
+      <caption>A man and woman kneeling down around a notebook.</caption>
+      <caption>Two people are sitting on the floor beside a notebook playing on their cell phones. </caption>
+      <caption>A man and woman on cellphones while the man holds a camcorder with a binder open between them.</caption>
+    </captions>
+</image>

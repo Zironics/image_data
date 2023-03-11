@@ -1,0 +1,105 @@
+<image>
+  <image-id>2381726</image-id>
+  <coco-id>378896</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1867332</relationship_id>
+      <predicate>has</predicate>
+      <subject>702393</subject>
+      <object>702394</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1867333</relationship_id>
+      <predicate>has</predicate>
+      <subject>702393</subject>
+      <object>702395</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1867334</relationship_id>
+      <predicate>over</predicate>
+      <subject>702393</subject>
+      <object>702392</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1867335</relationship_id>
+      <predicate>has</predicate>
+      <subject>702393</subject>
+      <object>702396</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1867336</relationship_id>
+      <predicate>behind</predicate>
+      <subject>702397</subject>
+      <object>702393</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bigger than others</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <h>331</h>
+      <object_id>702393</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+      <name>vegetable</name>
+    </object>
+    <object>
+      <name>head</name>
+      <h>173</h>
+      <object_id>702394</object_id>
+      <w>150</w>
+      <y>102</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>65</h>
+      <object_id>702395</object_id>
+      <w>56</w>
+      <y>265</y>
+      <x>304</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>dark green</attribute>
+        <attribute>light green</attribute>
+      </attributes>
+      <name>vegetable</name>
+      <h>70</h>
+      <object_id>702392</object_id>
+      <w>191</w>
+      <y>3</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>flourette</name>
+      <h>17</h>
+      <object_id>702396</object_id>
+      <w>13</w>
+      <y>105</y>
+      <x>226</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>background</name>
+      <h>98</h>
+      <object_id>702397</object_id>
+      <w>248</w>
+      <y>0</y>
+      <x>252</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large head of broccoli is seen in this photo.</caption>
+      <caption>A view of several broccoli heads in a group.</caption>
+      <caption>The large green vegetation dominates the small picture.</caption>
+      <caption>a close up of some broccoli heads </caption>
+      <caption>a close up of a green plant with ridges</caption>
+    </captions>
+</image>

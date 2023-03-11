@@ -1,0 +1,117 @@
+<image>
+  <image-id>2389321</image-id>
+  <coco-id>86098</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4762093</relationship_id>
+      <predicate>are growing on</predicate>
+      <subject>4498154</subject>
+      <object>4498153</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4762094</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4498156</subject>
+      <object>4498155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4762096</relationship_id>
+      <predicate>are on top of</predicate>
+      <subject>4498163</subject>
+      <object>4498164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4762097</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4498165</subject>
+      <object>4498166</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>54</h>
+      <object_id>4498154</object_id>
+      <w>50</w>
+      <y>262</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>103</h>
+      <object_id>4498153</object_id>
+      <w>76</w>
+      <y>262</y>
+      <x>294</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>40</h>
+      <object_id>4498156</object_id>
+      <w>32</w>
+      <y>180</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>318</h>
+      <object_id>4498155</object_id>
+      <w>327</w>
+      <y>55</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>spots</name>
+      <h>60</h>
+      <object_id>4498163</object_id>
+      <w>75</w>
+      <y>201</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>spotted</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>262</h>
+      <object_id>4498164</object_id>
+      <w>310</w>
+      <y>68</y>
+      <x>53</x>
+    </object>
+    <object>
+      <name>mountain range</name>
+      <h>147</h>
+      <object_id>4498165</object_id>
+      <w>155</w>
+      <y>63</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>295</h>
+      <object_id>4498166</object_id>
+      <w>309</w>
+      <y>65</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe looking over a fence surrounded by trees.</caption>
+      <caption>a very large giraffe that is next to a fence</caption>
+      <caption>A giraffe that is walking in an enclosure.</caption>
+      <caption>There is a giraffe standing next to the fence.</caption>
+      <caption>A large giraffe can be seen next to a chain link fence.</caption>
+    </captions>
+</image>

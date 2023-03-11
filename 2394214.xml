@@ -1,0 +1,141 @@
+<image>
+  <image-id>2394214</image-id>
+  <coco-id>162366</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1045449</relationship_id>
+      <predicate>has a</predicate>
+      <subject>466115</subject>
+      <object>466116</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1045450</relationship_id>
+      <predicate>next to</predicate>
+      <subject>466117</subject>
+      <object>466127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1045451</relationship_id>
+      <predicate>ON</predicate>
+      <subject>466118</subject>
+      <object>466115</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1045452</relationship_id>
+      <predicate>has</predicate>
+      <subject>466120</subject>
+      <object>466121</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1045453</relationship_id>
+      <predicate>IN</predicate>
+      <subject>466124</subject>
+      <object>466125</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1045454</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>466120</subject>
+      <object>466127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>used for parking</attribute>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>signal</name>
+      <h>68</h>
+      <object_id>466115</object_id>
+      <w>71</w>
+      <y>57</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>p</name>
+      <h>34</h>
+      <object_id>466116</object_id>
+      <w>25</w>
+      <y>67</y>
+      <x>314</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>rail</name>
+      <h>46</h>
+      <object_id>466117</object_id>
+      <w>90</w>
+      <y>171</y>
+      <x>410</x>
+    </object>
+    <object>
+      <h>104</h>
+      <object_id>466127</object_id>
+      <w>384</w>
+      <y>38</y>
+      <x>1</x>
+      <name>top of brick wall</name>
+    </object>
+    <object>
+      <name>pay</name>
+      <h>14</h>
+      <object_id>466118</object_id>
+      <w>23</w>
+      <y>101</y>
+      <x>317</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>machine</name>
+      <h>195</h>
+      <object_id>466120</object_id>
+      <w>139</w>
+      <y>114</y>
+      <x>279</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>used for payment</attribute>
+      </attributes>
+      <name>slots</name>
+      <h>25</h>
+      <object_id>466121</object_id>
+      <w>25</w>
+      <y>269</y>
+      <x>370</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>116</h>
+      <object_id>466124</object_id>
+      <w>92</w>
+      <y>140</y>
+      <x>407</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>222</h>
+      <object_id>466125</object_id>
+      <w>107</w>
+      <y>41</y>
+      <x>392</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A parking meter sitting in front of a brick building.</caption>
+      <caption>An automated pay station for a parking lot.</caption>
+      <caption>A black parking meter next to a brick building. </caption>
+      <caption>They'll probably tow your car if you don't pay for parking.</caption>
+      <caption>A box where you pay for your parking.</caption>
+    </captions>
+</image>

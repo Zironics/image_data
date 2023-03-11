@@ -1,0 +1,108 @@
+<image>
+  <image-id>2388931</image-id>
+  <coco-id>354094</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4292545</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3829047</subject>
+      <object>669738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292546</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3829046</subject>
+      <object>669735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292547</relationship_id>
+      <predicate>behind</predicate>
+      <subject>669740</subject>
+      <object>3829047</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292548</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3829048</subject>
+      <object>669737</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>497</h>
+      <object_id>3829047</object_id>
+      <w>245</w>
+      <y>1</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>94</h>
+      <object_id>669738</object_id>
+      <w>102</w>
+      <y>187</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>buckle</name>
+      <h>29</h>
+      <object_id>3829046</object_id>
+      <w>38</w>
+      <y>443</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>belt</name>
+      <h>58</h>
+      <object_id>669735</object_id>
+      <w>197</w>
+      <y>416</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>double</attribute>
+        <attribute>building entrance</attribute>
+      </attributes>
+      <name>door</name>
+      <h>149</h>
+      <object_id>669740</object_id>
+      <w>105</w>
+      <y>6</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>button</name>
+      <h>13</h>
+      <object_id>3829048</object_id>
+      <w>10</w>
+      <y>254</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>worn</attribute>
+        <attribute>long-sleeved</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>374</h>
+      <object_id>669737</object_id>
+      <w>264</w>
+      <y>99</y>
+      <x>69</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man with a tie that is not neatly tied.</caption>
+      <caption>A man looking down at his own tie, which has drifted to one side.</caption>
+      <caption>A man looks down at his loose necktie with disdain.</caption>
+      <caption>a young man in a white shirt and green tie</caption>
+      <caption>Man looking down at his untied green tie.</caption>
+    </captions>
+</image>

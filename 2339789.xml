@@ -1,0 +1,102 @@
+<image>
+  <image-id>2339789</image-id>
+  <coco-id>53058</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4040382</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2169413</subject>
+      <object>3692696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4040383</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2008089</subject>
+      <object>2126000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4130756</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2266748</subject>
+      <object>2266747</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4040384</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2126000</subject>
+      <object>2126002</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>coffee</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>38</h>
+      <object_id>2169413</object_id>
+      <w>25</w>
+      <y>192</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>236</h>
+      <object_id>3692696</object_id>
+      <w>222</w>
+      <y>194</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>spectacles</name>
+      <h>20</h>
+      <object_id>2008089</object_id>
+      <w>34</w>
+      <y>121</y>
+      <x>289</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>elderly</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>elderly man</name>
+      <h>302</h>
+      <object_id>2126000</object_id>
+      <w>177</w>
+      <y>81</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>word document</name>
+      <h>45</h>
+      <object_id>2266748</object_id>
+      <w>53</w>
+      <y>174</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>58</h>
+      <object_id>2266747</object_id>
+      <w>68</w>
+      <y>161</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>235</h>
+      <object_id>2126002</object_id>
+      <w>165</w>
+      <y>215</y>
+      <x>272</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a older man sitting and using a lap top</caption>
+      <caption>a man writing on his laptop in a cafe</caption>
+      <caption>An elderly man is using a laptop computer at a desk. </caption>
+      <caption>a person at a table with a laptop and a luggage bag</caption>
+      <caption>A woman sitting at a desk with his laptop</caption>
+    </captions>
+</image>

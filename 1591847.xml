@@ -1,0 +1,59 @@
+<image>
+  <image-id>1591847</image-id>
+  <coco-id>293071</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4264362</relationship_id>
+      <predicate>car a</predicate>
+      <subject>3797537</subject>
+      <object>1604259</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264363</relationship_id>
+      <predicate>a fire</predicate>
+      <subject>3797539</subject>
+      <object>1604260</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>the</name>
+      <h>77</h>
+      <object_id>3797537</object_id>
+      <w>193</w>
+      <y>443</y>
+      <x>249</x>
+    </object>
+    <object>
+      <h>209</h>
+      <object_id>1604259</object_id>
+      <w>521</w>
+      <y>382</y>
+      <x>188</x>
+      <name>car</name>
+    </object>
+    <object>
+      <name>this</name>
+      <h>221</h>
+      <object_id>3797539</object_id>
+      <w>177</w>
+      <y>459</y>
+      <x>430</x>
+    </object>
+    <object>
+      <name>hydrant</name>
+      <h>636</h>
+      <object_id>1604260</object_id>
+      <w>197</w>
+      <y>588</y>
+      <x>216</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A red. white, and blue fire hydrant on the side of the road. </caption>
+      <caption>A fire hydrant is being paint as an U.S.A flag.</caption>
+      <caption>A fire hydrant that is painted like an american flag is next to a street.</caption>
+      <caption>A fire hydrant painted like the American flag.</caption>
+      <caption>A fire hydrant painted in the American patriotic colors</caption>
+    </captions>
+</image>

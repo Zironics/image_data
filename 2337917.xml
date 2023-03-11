@@ -1,0 +1,82 @@
+<image>
+  <image-id>2337917</image-id>
+  <coco-id>455956</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4070576</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2833801</subject>
+      <object>3162654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4070577</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2833801</subject>
+      <object>2833802</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4070578</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2965289</subject>
+      <object>2965290</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>109</h>
+      <object_id>2833801</object_id>
+      <w>57</w>
+      <y>49</y>
+      <x>271</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>vest</name>
+      <h>47</h>
+      <object_id>3162654</object_id>
+      <w>30</w>
+      <y>72</y>
+      <x>292</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>40</h>
+      <object_id>2833802</object_id>
+      <w>56</w>
+      <y>115</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>53</h>
+      <object_id>2965289</object_id>
+      <w>25</w>
+      <y>135</y>
+      <x>463</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>29</h>
+      <object_id>2965290</object_id>
+      <w>20</w>
+      <y>118</y>
+      <x>479</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of a person and a horse in the street.</caption>
+      <caption>A woman riding a horse and carriage down a busy city street</caption>
+      <caption>A street scene with a horse pulling a carriage.</caption>
+      <caption>A woman guides a hansom cab with white horse.</caption>
+      <caption>A woman driving a horse drawn carriage down a street.</caption>
+    </captions>
+</image>

@@ -1,0 +1,89 @@
+<image>
+  <image-id>2380824</image-id>
+  <coco-id>122188</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3597688</relationship_id>
+      <predicate>has</predicate>
+      <subject>1341870</subject>
+      <object>1341884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3597689</relationship_id>
+      <predicate>has</predicate>
+      <subject>1341870</subject>
+      <object>1341873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3597690</relationship_id>
+      <predicate>has</predicate>
+      <subject>1341870</subject>
+      <object>1341884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3597691</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1341870</subject>
+      <object>1341871</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+        <attribute>eating</attribute>
+        <attribute>asian</attribute>
+      </attributes>
+      <name>man</name>
+      <h>480</h>
+      <object_id>1341870</object_id>
+      <w>329</w>
+      <y>18</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>eyebrows</name>
+      <h>43</h>
+      <object_id>1341884</object_id>
+      <w>85</w>
+      <y>226</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>short</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>199</h>
+      <object_id>1341873</object_id>
+      <w>246</w>
+      <y>13</y>
+      <x>86</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>brown</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>140</h>
+      <object_id>1341871</object_id>
+      <w>85</w>
+      <y>219</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man eating a piece of chicken with both hands.</caption>
+      <caption>an image of a boy eating a sandwich in  a diner</caption>
+      <caption>A man taking a bite of a sandwich wrap.</caption>
+      <caption>A man biting into a sandwich with his mouth.</caption>
+      <caption>a man chowing in to some food at a restaurant </caption>
+    </captions>
+</image>

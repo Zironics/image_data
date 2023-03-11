@@ -1,0 +1,64 @@
+<image>
+  <image-id>2359763</image-id>
+  <coco-id>405621</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2205991</relationship_id>
+      <predicate>ON</predicate>
+      <subject>791307</subject>
+      <object>791308</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2205992</relationship_id>
+      <predicate>ON</predicate>
+      <subject>791307</subject>
+      <object>791308</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2205993</relationship_id>
+      <predicate>ON</predicate>
+      <subject>791308</subject>
+      <object>791307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2205994</relationship_id>
+      <predicate>ON</predicate>
+      <subject>791307</subject>
+      <object>791308</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+        <attribute>stop</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>108</h>
+      <object_id>791307</object_id>
+      <w>128</w>
+      <y>19</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>160</h>
+      <object_id>791308</object_id>
+      <w>62</w>
+      <y>156</y>
+      <x>62</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there are several stop signs along side the grass</caption>
+      <caption>Row of stop signs lined up in a grassy area.</caption>
+      <caption>Several stop signs lined up in an open field area.</caption>
+      <caption>A bunch of red stop signs arranged in a row. </caption>
+      <caption>Many stop signs are lined up in a yard.</caption>
+    </captions>
+</image>

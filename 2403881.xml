@@ -1,0 +1,89 @@
+<image>
+  <image-id>2403881</image-id>
+  <coco-id>385598</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3255532</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1120605</subject>
+      <object>1120606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255533</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1120607</subject>
+      <object>1120608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255534</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1120607</subject>
+      <object>1120608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255538</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1120607</subject>
+      <object>1120608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255574</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1120607</subject>
+      <object>1120608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255578</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1120607</subject>
+      <object>1120608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255579</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1120607</subject>
+      <object>1120608</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1120605</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1120606</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>42</h>
+      <object_id>1120607</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>43</h>
+      <object_id>1120608</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man on skis showing a young child how to ski</caption>
+      <caption>An adult in a red jacket is with a child in a blue snow suit on skis.</caption>
+      <caption>A man and a little boy on skis on a ski hill.</caption>
+      <caption>A man teaches a boy how to ski</caption>
+      <caption>Small child on skis talking to an adult on skis</caption>
+    </captions>
+</image>

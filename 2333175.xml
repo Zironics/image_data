@@ -1,0 +1,79 @@
+<image>
+  <image-id>2333175</image-id>
+  <coco-id>570019</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4455892</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3437418</subject>
+      <object>2998259</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3707994</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3437418</subject>
+      <object>3555228</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3646891</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3356905</subject>
+      <object>3356906</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <h>89</h>
+      <object_id>3437418</object_id>
+      <w>63</w>
+      <y>243</y>
+      <x>312</x>
+      <name>fork</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>285</h>
+      <object_id>2998259</object_id>
+      <w>493</w>
+      <y>44</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>275</h>
+      <object_id>3555228</object_id>
+      <w>454</w>
+      <y>33</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>knife</name>
+      <h>80</h>
+      <object_id>3356905</object_id>
+      <w>57</w>
+      <y>250</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>napkin</name>
+      <h>77</h>
+      <object_id>3356906</object_id>
+      <w>292</w>
+      <y>252</y>
+      <x>204</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden table with a hotdog and a pitcher of beer.</caption>
+      <caption>a hot dog sitting next to a few glasses of beer</caption>
+      <caption>A hot dog on a table with some drinks.</caption>
+      <caption>A hot dog covered in toppings sitting next to beer.</caption>
+      <caption>a close up of a hot dog near a fork </caption>
+    </captions>
+</image>

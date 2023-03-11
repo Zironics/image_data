@@ -1,0 +1,86 @@
+<image>
+  <image-id>713896</image-id>
+  <coco-id>89238</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4593772</relationship_id>
+      <predicate>with</predicate>
+      <subject>4577873</subject>
+      <object>4080619</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4593773</relationship_id>
+      <predicate>with</predicate>
+      <subject>4577873</subject>
+      <object>4080620</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4593774</relationship_id>
+      <predicate>sleeping in</predicate>
+      <subject>4080626</subject>
+      <object>4080627</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <h>265</h>
+      <object_id>4577873</object_id>
+      <w>272</w>
+      <y>201</y>
+      <x>416</x>
+      <name>laptop</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>keyboard</name>
+      <h>139</h>
+      <object_id>4080619</object_id>
+      <w>247</w>
+      <y>328</y>
+      <x>413</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>light</name>
+      <h>20</h>
+      <object_id>4080620</object_id>
+      <w>42</w>
+      <y>389</y>
+      <x>496</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>59</h>
+      <object_id>4080626</object_id>
+      <w>78</w>
+      <y>93</y>
+      <x>260</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reclining</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>257</h>
+      <object_id>4080627</object_id>
+      <w>240</w>
+      <y>2</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of laptops with mouses sitting on tv trays.</caption>
+      <caption>two laptops two wooden trays toys and chairs</caption>
+      <caption>Two open laptops sitting on small fold out tables.</caption>
+      <caption>Two laptops sit on top of tv trays in a living area.</caption>
+      <caption>a living room with two laptops on wooden tables</caption>
+    </captions>
+</image>

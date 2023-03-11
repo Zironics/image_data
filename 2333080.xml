@@ -1,0 +1,62 @@
+<image>
+  <image-id>2333080</image-id>
+  <coco-id>291921</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4610696</relationship_id>
+      <predicate>has</predicate>
+      <subject>4121089</subject>
+      <object>4121088</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4610968</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4121789</subject>
+      <object>4121790</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>309</h>
+      <object_id>4121089</object_id>
+      <w>156</w>
+      <y>0</y>
+      <x>106</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>13</h>
+      <object_id>4121088</object_id>
+      <w>5</w>
+      <y>29</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>ripples</name>
+      <h>77</h>
+      <object_id>4121789</object_id>
+      <w>234</w>
+      <y>6</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ocean</attribute>
+      </attributes>
+      <name>water</name>
+      <h>259</h>
+      <object_id>4121790</object_id>
+      <w>482</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in a wet suit riding a surfboard on a wave.</caption>
+      <caption>A person riding on top of a surfboard on top of a wave.</caption>
+      <caption>A surfer in a skin suit riding a surfboard with with water spray</caption>
+      <caption>Male surfer in wet suit finishing a run, about to be overcome by a large wave.</caption>
+      <caption>A man riding a surfboard in the ocean.</caption>
+    </captions>
+</image>

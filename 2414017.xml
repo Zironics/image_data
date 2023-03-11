@@ -1,0 +1,206 @@
+<image>
+  <image-id>2414017</image-id>
+  <coco-id>190326</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>155302</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>161459</subject>
+      <object>161460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155303</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>161461</subject>
+      <object>161462</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155304</relationship_id>
+      <predicate>ON</predicate>
+      <subject>161463</subject>
+      <object>161464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155305</relationship_id>
+      <predicate>parked next to</predicate>
+      <subject>161464</subject>
+      <object>161465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155306</relationship_id>
+      <predicate>made out of</predicate>
+      <subject>161465</subject>
+      <object>161466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155307</relationship_id>
+      <predicate>made out of</predicate>
+      <subject>161465</subject>
+      <object>161467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155308</relationship_id>
+      <predicate>made out of</predicate>
+      <subject>161465</subject>
+      <object>161468</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155309</relationship_id>
+      <predicate>made out of</predicate>
+      <subject>161465</subject>
+      <object>161469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155310</relationship_id>
+      <predicate>made out of</predicate>
+      <subject>161465</subject>
+      <object>161470</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155311</relationship_id>
+      <predicate>has</predicate>
+      <subject>161464</subject>
+      <object>161463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155312</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>161461</subject>
+      <object>161462</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155313</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>161459</subject>
+      <object>161460</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>little</attribute>
+        <attribute>dark colored</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>70</h>
+      <object_id>161459</object_id>
+      <w>88</w>
+      <y>130</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>moped</name>
+      <h>292</h>
+      <object_id>161460</object_id>
+      <w>448</w>
+      <y>3</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>grey</attribute>
+        <attribute>unhappy</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>117</h>
+      <object_id>161461</object_id>
+      <w>184</w>
+      <y>178</y>
+      <x>165</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>parked</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>car</name>
+      <h>156</h>
+      <object_id>161462</object_id>
+      <w>474</w>
+      <y>219</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>license plate</name>
+      <h>28</h>
+      <object_id>161463</object_id>
+      <w>83</w>
+      <y>49</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>smart car</attribute>
+        <attribute>blue</attribute>
+        <attribute>little</attribute>
+      </attributes>
+      <name>car</name>
+      <h>182</h>
+      <object_id>161464</object_id>
+      <w>231</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>203</h>
+      <object_id>161465</object_id>
+      <w>190</w>
+      <y>30</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>stone</name>
+      <h>14</h>
+      <object_id>161466</object_id>
+      <w>19</w>
+      <y>200</y>
+      <x>351</x>
+    </object>
+    <object>
+      <name>stone</name>
+      <h>14</h>
+      <object_id>161467</object_id>
+      <w>21</w>
+      <y>180</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>stone</name>
+      <h>10</h>
+      <object_id>161468</object_id>
+      <w>22</w>
+      <y>185</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>stone</name>
+      <h>11</h>
+      <object_id>161469</object_id>
+      <w>16</w>
+      <y>143</y>
+      <x>288</x>
+    </object>
+    <object>
+      <name>stone</name>
+      <h>10</h>
+      <object_id>161470</object_id>
+      <w>16</w>
+      <y>131</y>
+      <x>263</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat standing on top of a car trunk next to a parked motorcycle.</caption>
+      <caption>A cat sitting on a car hood next to another cat sittiing on a scooter.</caption>
+      <caption>A cat is standing on the hood of a car and another cat is sitting on a motorcycle.</caption>
+      <caption>A couple of cats rest on tops of different vehicles.</caption>
+      <caption>Two cats sitting on a parked scooter and car.</caption>
+    </captions>
+</image>

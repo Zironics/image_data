@@ -1,0 +1,40 @@
+<image>
+  <image-id>2331092</image-id>
+  <coco-id>13228</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4825117</relationship_id>
+      <predicate>of</predicate>
+      <subject>4659603</subject>
+      <object>4659602</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rolls</name>
+      <h>85</h>
+      <object_id>4659603</object_id>
+      <w>78</w>
+      <y>221</y>
+      <x>223</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>toilet</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>87</h>
+      <object_id>4659602</object_id>
+      <w>98</w>
+      <y>227</y>
+      <x>214</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toilet is sitting in a restroom with it's lid open.</caption>
+      <caption>A white open toilet next to a vanity in a bathroom.</caption>
+      <caption>The electronic toilet is sitting next to a wooden bathroom sink counter.</caption>
+      <caption>An open toilet in a bathroom with a vanity.</caption>
+      <caption>a white toilet with two toilet paper rolls</caption>
+    </captions>
+</image>

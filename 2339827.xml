@@ -1,0 +1,73 @@
+<image>
+  <image-id>2339827</image-id>
+  <coco-id>270570</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4039630</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2235980</subject>
+      <object>2235981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4039631</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2235982</subject>
+      <object>2235981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4039632</relationship_id>
+      <predicate>by</predicate>
+      <subject>2853681</subject>
+      <object>2853682</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glasses</name>
+      <h>65</h>
+      <object_id>2235980</object_id>
+      <w>114</w>
+      <y>305</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>180</h>
+      <object_id>2235981</object_id>
+      <w>387</w>
+      <y>99</y>
+      <x>102</x>
+    </object>
+    <object>
+      <name>pipe</name>
+      <h>35</h>
+      <object_id>2235982</object_id>
+      <w>65</w>
+      <y>276</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>143</h>
+      <object_id>2853681</object_id>
+      <w>139</w>
+      <y>139</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>mouse</name>
+      <h>23</h>
+      <object_id>2853682</object_id>
+      <w>40</w>
+      <y>124</y>
+      <x>341</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A computer and a laptop on a desk next to a tobacco pipe.</caption>
+      <caption>A laptop computer is attached to an external monitor and keyboard on a desk.</caption>
+      <caption>The lap top keyboard light-up feature makes the keys easier to see.</caption>
+      <caption>THIS IS A MESSY DESK WITH BOTH A LAP TOP AND DESK TOP COMPUTER</caption>
+      <caption>A desk with computer equipment, books and a phone.</caption>
+    </captions>
+</image>

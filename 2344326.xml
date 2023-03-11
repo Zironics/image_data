@@ -1,0 +1,101 @@
+<image>
+  <image-id>2344326</image-id>
+  <coco-id>532833</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4435507</relationship_id>
+      <predicate>with</predicate>
+      <subject>3915365</subject>
+      <object>916236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4435508</relationship_id>
+      <predicate>with</predicate>
+      <subject>916234</subject>
+      <object>3915366</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4435509</relationship_id>
+      <predicate>IN</predicate>
+      <subject>916233</subject>
+      <object>3915367</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>numeral</name>
+      <h>10</h>
+      <object_id>3915365</object_id>
+      <w>30</w>
+      <y>164</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>twelve</attribute>
+        <attribute>one</attribute>
+        <attribute>roman</attribute>
+        <attribute> two</attribute>
+        <attribute>black</attribute>
+        <attribute>letter</attribute>
+      </attributes>
+      <name>number</name>
+      <h>33</h>
+      <object_id>916236</object_id>
+      <w>31</w>
+      <y>146</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+        <attribute>metal</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>66</h>
+      <object_id>916234</object_id>
+      <w>42</w>
+      <y>266</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>100</h>
+      <object_id>3915366</object_id>
+      <w>157</w>
+      <y>136</y>
+      <x>160</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>glass</attribute>
+        <attribute>metal</attribute>
+        <attribute>antique</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>75</h>
+      <object_id>916233</object_id>
+      <w>156</w>
+      <y>33</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>237</h>
+      <object_id>3915367</object_id>
+      <w>173</w>
+      <y>78</y>
+      <x>307</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large free standing street clock with a cloudy sky.</caption>
+      <caption>a clock with a sky and clouds in the background</caption>
+      <caption>A photo of a clock with a partly cloudy sky in the background.</caption>
+      <caption>An iron clock face alone against a cloudy sky.</caption>
+      <caption>A clock stands in front of an overcast sky. </caption>
+    </captions>
+</image>

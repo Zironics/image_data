@@ -1,0 +1,220 @@
+<image>
+  <image-id>2387376</image-id>
+  <coco-id>114140</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3502287</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1276484</subject>
+      <object>1276486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502288</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1276487</subject>
+      <object>1276488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502289</relationship_id>
+      <predicate>says</predicate>
+      <subject>1276494</subject>
+      <object>1276495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502290</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1276491</subject>
+      <object>1276496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502291</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1276491</subject>
+      <object>1276499</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502292</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1276494</subject>
+      <object>1276499</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502293</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1276489</subject>
+      <object>1276499</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502294</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1276499</subject>
+      <object>1276501</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502295</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1276488</subject>
+      <object>1276499</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502296</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1276487</subject>
+      <object>1276488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502297</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1276489</subject>
+      <object>1276502</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3502298</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1276499</subject>
+      <object>1276503</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>man</name>
+      <h>70</h>
+      <object_id>1276484</object_id>
+      <w>25</w>
+      <y>183</y>
+      <x>268</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>35</h>
+      <object_id>1276486</object_id>
+      <w>18</w>
+      <y>215</y>
+      <x>275</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>trash can</attribute>
+      </attributes>
+      <name>trash can</name>
+      <h>40</h>
+      <object_id>1276487</object_id>
+      <w>15</w>
+      <y>203</y>
+      <x>350</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>69</h>
+      <object_id>1276488</object_id>
+      <w>209</w>
+      <y>207</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>neon</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>26</h>
+      <object_id>1276494</object_id>
+      <w>33</w>
+      <y>143</y>
+      <x>350</x>
+    </object>
+    <object>
+      <name>cigar</name>
+      <h>9</h>
+      <object_id>1276495</object_id>
+      <w>29</w>
+      <y>144</y>
+      <x>351</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>christmas lights</name>
+      <h>123</h>
+      <object_id>1276491</object_id>
+      <w>95</w>
+      <y>0</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>balcony</attribute>
+      </attributes>
+      <name>balcony</name>
+      <h>54</h>
+      <object_id>1276496</object_id>
+      <w>60</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>store</name>
+      <h>147</h>
+      <object_id>1276499</object_id>
+      <w>87</w>
+      <y>98</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+        <attribute>on</attribute>
+        <attribute>white</attribute>
+        <attribute>glowing</attribute>
+        <attribute>twinkling</attribute>
+      </attributes>
+      <name>light</name>
+      <h>14</h>
+      <object_id>1276489</object_id>
+      <w>9</w>
+      <y>106</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lit</attribute>
+      </attributes>
+      <name>window</name>
+      <h>64</h>
+      <object_id>1276501</object_id>
+      <w>29</w>
+      <y>136</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>doorway</name>
+      <h>65</h>
+      <object_id>1276502</object_id>
+      <w>18</w>
+      <y>155</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>second story</name>
+      <h>156</h>
+      <object_id>1276503</object_id>
+      <w>185</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dark street with lit shops on either side.</caption>
+      <caption>some people walk down a street next to some businesses </caption>
+      <caption>A dark city street is lit up with colored lights.</caption>
+      <caption>A downtown city with a few people walking in the background. </caption>
+      <caption>A street scene at night with a man walking down the street.</caption>
+    </captions>
+</image>

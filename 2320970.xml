@@ -1,0 +1,40 @@
+<image>
+  <image-id>2320970</image-id>
+  <coco-id>253416</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3830374</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3391539</subject>
+      <object>3391540</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>license plate</name>
+      <h>6</h>
+      <object_id>3391539</object_id>
+      <w>12</w>
+      <y>374</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>car</name>
+      <h>48</h>
+      <object_id>3391540</object_id>
+      <w>74</w>
+      <y>353</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Single black car stopped at a red light.</caption>
+      <caption>A black car on a street in an urban setting.</caption>
+      <caption>a couple of old buildings on a corner from a old road.</caption>
+      <caption>A black town care is driving down an empty street.</caption>
+      <caption>A single car sits at a stop light of an intersection.</caption>
+    </captions>
+</image>

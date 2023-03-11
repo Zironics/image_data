@@ -1,0 +1,82 @@
+<image>
+  <image-id>2358161</image-id>
+  <coco-id>157424</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2258978</relationship_id>
+      <predicate>has</predicate>
+      <subject>805584</subject>
+      <object>805593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4216880</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>805601</subject>
+      <object>3768862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2258979</relationship_id>
+      <predicate>ha</predicate>
+      <subject>805584</subject>
+      <object>805590</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>257</h>
+      <object_id>805584</object_id>
+      <w>164</w>
+      <y>11</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>26</h>
+      <object_id>805593</object_id>
+      <w>35</w>
+      <y>22</y>
+      <x>377</x>
+      <name>beanie</name>
+    </object>
+    <object>
+      <name>men</name>
+      <h>165</h>
+      <object_id>805601</object_id>
+      <w>333</w>
+      <y>12</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>102</h>
+      <object_id>3768862</object_id>
+      <w>270</w>
+      <y>229</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>33</h>
+      <object_id>805590</object_id>
+      <w>60</w>
+      <y>131</y>
+      <x>153</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of men walking along a snow covered hillside.</caption>
+      <caption>Two men standing in skis on the slope of a hill.</caption>
+      <caption>Two people going for a walk on a snowy path wearing snow shoes.</caption>
+      <caption>A pair of two young people snowshoe down a snowy hill.</caption>
+      <caption>two males on short snow skis and one has a black jacket on</caption>
+    </captions>
+</image>

@@ -1,0 +1,74 @@
+<image>
+  <image-id>2363094</image-id>
+  <coco-id>67052</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2099530</relationship_id>
+      <predicate>OF</predicate>
+      <subject>768358</subject>
+      <object>768359</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2099531</relationship_id>
+      <predicate>OF</predicate>
+      <subject>768358</subject>
+      <object>768359</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2099532</relationship_id>
+      <predicate>ON</predicate>
+      <subject>768362</subject>
+      <object>768360</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>part</name>
+      <h>23</h>
+      <object_id>768358</object_id>
+      <w>24</w>
+      <y>305</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>made of tiles</attribute>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>100</h>
+      <object_id>768359</object_id>
+      <w>316</w>
+      <y>273</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>83</h>
+      <object_id>768362</object_id>
+      <w>138</w>
+      <y>51</y>
+      <x>361</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stone</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>270</h>
+      <object_id>768360</object_id>
+      <w>397</w>
+      <y>46</y>
+      <x>96</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom with a  white tub next to a stone wall.</caption>
+      <caption>A bathroom with a bathtub sink and chair with stone walls and floors.</caption>
+      <caption>A stone walled and stained glassed windowed bathroom.</caption>
+      <caption>The interior of a bathroom made of stone and colored glass.</caption>
+      <caption>A sink in a room with stone walls.</caption>
+    </captions>
+</image>

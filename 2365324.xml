@@ -1,0 +1,81 @@
+<image>
+  <image-id>2365324</image-id>
+  <coco-id>112085</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4384254</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3884820</subject>
+      <object>2048975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4384255</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2348284</subject>
+      <object>2348285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4384256</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2096420</subject>
+      <object>1880976</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>guy</name>
+      <h>64</h>
+      <object_id>3884820</object_id>
+      <w>74</w>
+      <y>128</y>
+      <x>339</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>10</h>
+      <object_id>2048975</object_id>
+      <w>27</w>
+      <y>120</y>
+      <x>374</x>
+    </object>
+    <object>
+      <name>ears</name>
+      <h>22</h>
+      <object_id>2348284</object_id>
+      <w>57</w>
+      <y>106</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>horses</name>
+      <h>130</h>
+      <object_id>2348285</object_id>
+      <w>212</w>
+      <y>97</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>noses</name>
+      <h>10</h>
+      <object_id>2096420</object_id>
+      <w>16</w>
+      <y>158</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>horses</name>
+      <h>117</h>
+      <object_id>1880976</object_id>
+      <w>192</w>
+      <y>107</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding on the back of a wagon being pulled by two horses.</caption>
+      <caption>A farmer plowing using field horses for propulsion.</caption>
+      <caption>A farmer is plowing the land with his horses.</caption>
+      <caption>A farmer on a plow being pulled by two horses.</caption>
+      <caption>Two horses pushing a carriage with a man sitting on it. </caption>
+    </captions>
+</image>

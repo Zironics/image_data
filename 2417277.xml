@@ -1,0 +1,69 @@
+<image>
+  <image-id>2417277</image-id>
+  <coco-id>323970</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3632262</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3283746</subject>
+      <object>3521143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100132</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3715440</subject>
+      <object>2877551</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>35</h>
+      <object_id>3283746</object_id>
+      <w>132</w>
+      <y>23</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>240</h>
+      <object_id>3521143</object_id>
+      <w>407</w>
+      <y>40</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>37</h>
+      <object_id>3715440</object_id>
+      <w>34</w>
+      <y>92</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>271</h>
+      <object_id>2877551</object_id>
+      <w>407</w>
+      <y>58</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe stretching his long neck towards the grass</caption>
+      <caption>A giraffe stretches its neck down in the sunlight. </caption>
+      <caption>There is a giraffe in the wild leaning towards the grass</caption>
+      <caption>an image of a giraffe grazing nearby in the forest</caption>
+      <caption>A giraffe standing on a lush green field of grass.</caption>
+    </captions>
+</image>

@@ -1,0 +1,85 @@
+<image>
+  <image-id>2320197</image-id>
+  <coco-id>393297</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4085665</relationship_id>
+      <predicate>with</predicate>
+      <subject>3024416</subject>
+      <object>3079375</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3803397</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3595434</subject>
+      <object>3356825</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4489960</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2756717</subject>
+      <object>2756718</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>118</h>
+      <object_id>3024416</object_id>
+      <w>153</w>
+      <y>271</y>
+      <x>347</x>
+      <name>bag</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>apples</name>
+      <h>126</h>
+      <object_id>3079375</object_id>
+      <w>152</w>
+      <y>157</y>
+      <x>347</x>
+    </object>
+    <object>
+      <name>apple</name>
+      <h>65</h>
+      <object_id>3595434</object_id>
+      <w>84</w>
+      <y>217</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>basket</name>
+      <h>160</h>
+      <object_id>3356825</object_id>
+      <w>148</w>
+      <y>197</y>
+      <x>350</x>
+    </object>
+    <object>
+      <name>opening</name>
+      <h>65</h>
+      <object_id>2756717</object_id>
+      <w>21</w>
+      <y>245</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>basket</name>
+      <h>84</h>
+      <object_id>2756718</object_id>
+      <w>126</w>
+      <y>228</y>
+      <x>83</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bunch of trays that have apples inside of them.</caption>
+      <caption>Apples sit in bushels, waiting for customers to buy them.</caption>
+      <caption>A large display of bushels of McIntosh apples for sale</caption>
+      <caption>a couple of boxes with some fruit inside of it </caption>
+      <caption>Several baskets filled with apples near a sign.</caption>
+    </captions>
+</image>

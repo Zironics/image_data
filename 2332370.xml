@@ -1,0 +1,73 @@
+<image>
+  <image-id>2332370</image-id>
+  <coco-id>146470</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3999117</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3064197</subject>
+      <object>3064196</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3999118</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3064198</subject>
+      <object>3064196</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3999132</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2877482</subject>
+      <object>2877481</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>36</h>
+      <object_id>3064197</object_id>
+      <w>40</w>
+      <y>108</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>owl</name>
+      <h>393</h>
+      <object_id>3064196</object_id>
+      <w>253</w>
+      <y>42</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>40</h>
+      <object_id>3064198</object_id>
+      <w>39</w>
+      <y>111</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>dark feathers</name>
+      <h>198</h>
+      <object_id>2877482</object_id>
+      <w>142</w>
+      <y>233</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>281</h>
+      <object_id>2877481</object_id>
+      <w>163</w>
+      <y>148</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A grey owl standing on a wooden block.</caption>
+      <caption>Small dark owl standing atop small wooden structure.</caption>
+      <caption>The owl is looking at the camera in an intense fashion.</caption>
+      <caption>An owl standing on a carpeted wood stand </caption>
+      <caption>A barn owl sits on a wooden post.</caption>
+    </captions>
+</image>

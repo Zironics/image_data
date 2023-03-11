@@ -1,0 +1,62 @@
+<image>
+  <image-id>2324110</image-id>
+  <coco-id>175933</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4527544</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3256707</subject>
+      <object>3256708</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638616</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3190481</subject>
+      <object>3524198</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>four</attribute>
+      </attributes>
+      <name>wheels</name>
+      <h>28</h>
+      <object_id>3256707</object_id>
+      <w>30</w>
+      <y>108</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>43</h>
+      <object_id>3256708</object_id>
+      <w>48</w>
+      <y>102</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>shadows</name>
+      <h>55</h>
+      <object_id>3190481</object_id>
+      <w>67</w>
+      <y>129</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>229</h>
+      <object_id>3524198</object_id>
+      <w>310</w>
+      <y>100</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a skateboard through the air.</caption>
+      <caption>A man in a skate park performing tricks on a skate board.</caption>
+      <caption>Man in a cap doing tricks on a skateboard.</caption>
+      <caption>A boy on a skateboard doing a trick on a slope.</caption>
+      <caption>A skater flips his skateboard in an alley at night.</caption>
+    </captions>
+</image>

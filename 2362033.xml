@@ -1,0 +1,43 @@
+<image>
+  <image-id>2362033</image-id>
+  <coco-id>533601</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2130421</relationship_id>
+      <predicate>ON</predicate>
+      <subject>777642</subject>
+      <object>777643</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tire</name>
+      <h>59</h>
+      <object_id>777642</object_id>
+      <w>41</w>
+      <y>235</y>
+      <x>160</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>parking</attribute>
+        <attribute>black</attribute>
+        <attribute>parked</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bike</name>
+      <h>95</h>
+      <object_id>777643</object_id>
+      <w>69</w>
+      <y>188</y>
+      <x>121</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motorcycle parked in front of a shoe repair shop.</caption>
+      <caption>The front entrance of a repair shop with a motorcycle. </caption>
+      <caption>The rear entrance of a shoe repair shop with a motorcycle parked next to it.</caption>
+      <caption>a shoe repair shop with a motorcycle parked in front</caption>
+      <caption>A motorcycle is parked outside of a shoe repair shop.</caption>
+    </captions>
+</image>

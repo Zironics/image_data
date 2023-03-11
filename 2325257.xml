@@ -1,0 +1,132 @@
+<image>
+  <image-id>2325257</image-id>
+  <coco-id>398540</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4485214</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3484252</subject>
+      <object>3484253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4485215</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3106667</subject>
+      <object>3106668</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4485216</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2837273</subject>
+      <object>2837274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4485217</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2748517</subject>
+      <object>2748516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3739694</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3136368</subject>
+      <object>3569059</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>8</h>
+      <object_id>3484252</object_id>
+      <w>27</w>
+      <y>135</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>99</h>
+      <object_id>3484253</object_id>
+      <w>211</w>
+      <y>97</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>42</h>
+      <object_id>3106667</object_id>
+      <w>59</w>
+      <y>129</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>68</h>
+      <object_id>3106668</object_id>
+      <w>184</w>
+      <y>119</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>29</h>
+      <object_id>2837273</object_id>
+      <w>72</w>
+      <y>157</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>75</h>
+      <object_id>2837274</object_id>
+      <w>166</w>
+      <y>119</y>
+      <x>203</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stripe</attribute>
+      </attributes>
+      <name>pattern</name>
+      <h>18</h>
+      <object_id>2748517</object_id>
+      <w>59</w>
+      <y>157</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>135</h>
+      <object_id>2748516</object_id>
+      <w>188</w>
+      <y>119</y>
+      <x>206</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>46</h>
+      <object_id>3136368</object_id>
+      <w>77</w>
+      <y>132</y>
+      <x>123</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>141</h>
+      <object_id>3569059</object_id>
+      <w>459</w>
+      <y>175</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large group of zebra on a grass field.</caption>
+      <caption>A few zebras stand in a grassy field.</caption>
+      <caption>Three zebras grazing in some tall grasses in the savannah </caption>
+      <caption>Three zebras are standing in the tall grass.</caption>
+      <caption>a herd of zebras stand in a grass area </caption>
+    </captions>
+</image>

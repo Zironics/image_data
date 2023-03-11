@@ -1,0 +1,73 @@
+<image>
+  <image-id>2339160</image-id>
+  <coco-id>279136</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4052226</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2171269</subject>
+      <object>2410661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4052227</relationship_id>
+      <predicate>holding up</predicate>
+      <subject>3119808</subject>
+      <object>3697674</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4052228</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2171269</subject>
+      <object>3697675</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>12</h>
+      <object_id>2171269</object_id>
+      <w>43</w>
+      <y>362</y>
+      <x>153</x>
+      <name>truck</name>
+    </object>
+    <object>
+      <name>road</name>
+      <h>2</h>
+      <object_id>2410661</object_id>
+      <w>257</w>
+      <y>369</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>97</h>
+      <object_id>3119808</object_id>
+      <w>37</w>
+      <y>276</y>
+      <x>343</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>229</h>
+      <object_id>3697674</object_id>
+      <w>225</w>
+      <y>62</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>14</h>
+      <object_id>3697675</object_id>
+      <w>67</w>
+      <y>359</y>
+      <x>151</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stop sign has some graffiti on it.</caption>
+      <caption>There is a stop sign with spray paint on it</caption>
+      <caption>There is a red and one graffiti'd stop sign.</caption>
+      <caption>The stop sign has some graffiti on it.</caption>
+      <caption>A red stop sign that reads "Clay Rox".</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2401819</image-id>
+  <coco-id>568240</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>807751</relationship_id>
+      <predicate>has</predicate>
+      <subject>395636</subject>
+      <object>395637</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pizza</name>
+      <h>278</h>
+      <object_id>395636</object_id>
+      <w>428</w>
+      <y>51</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>163</h>
+      <object_id>395637</object_id>
+      <w>322</w>
+      <y>76</y>
+      <x>110</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate with a full pizza on it that has been cooked.</caption>
+      <caption>six slices of bacon and cheese pizza and some other dish</caption>
+      <caption>The pizza has been sliced into eight pieces.</caption>
+      <caption>Pizza with bacon sitting on the top of a white plate. </caption>
+      <caption>A pizza has meat toppings on a square plate with other food items on a table.</caption>
+    </captions>
+</image>

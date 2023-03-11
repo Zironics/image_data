@@ -1,0 +1,90 @@
+<image>
+  <image-id>2382597</image-id>
+  <coco-id>60810</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1320375</relationship_id>
+      <predicate>OF</predicate>
+      <subject>538254</subject>
+      <object>538255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1320376</relationship_id>
+      <predicate>holding</predicate>
+      <subject>538255</subject>
+      <object>538257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1320377</relationship_id>
+      <predicate>holding</predicate>
+      <subject>538255</subject>
+      <object>538257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1320378</relationship_id>
+      <predicate>IN</predicate>
+      <subject>538263</subject>
+      <object>538259</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>reflection</name>
+      <h>69</h>
+      <object_id>538254</object_id>
+      <w>45</w>
+      <y>256</y>
+      <x>325</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>person</name>
+      <h>106</h>
+      <object_id>538255</object_id>
+      <w>44</w>
+      <y>129</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>45</h>
+      <object_id>538257</object_id>
+      <w>16</w>
+      <y>165</y>
+      <x>339</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>9</h>
+      <object_id>538263</object_id>
+      <w>23</w>
+      <y>53</y>
+      <x>397</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>35</h>
+      <object_id>538259</object_id>
+      <w>42</w>
+      <y>21</y>
+      <x>343</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boy standing in shallow water holds a round item.</caption>
+      <caption>A man and a surf board on the beach in front of mountain</caption>
+      <caption>A person holding a small board on the beach near the water.</caption>
+      <caption>a single man standing on the beach holding onto a surfboard </caption>
+      <caption>A girl carries a boogie board along the shoreline of the beach</caption>
+    </captions>
+</image>

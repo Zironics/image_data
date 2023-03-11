@@ -1,0 +1,108 @@
+<image>
+  <image-id>2320779</image-id>
+  <coco-id>531633</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3146826</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1049254</subject>
+      <object>1049255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3146827</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049251</subject>
+      <object>1049256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3146828</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049251</subject>
+      <object>1049259</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3146829</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049251</subject>
+      <object>1049260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3146830</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049251</subject>
+      <object>1049256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3146831</relationship_id>
+      <predicate>in surface of</predicate>
+      <subject>1049254</subject>
+      <object>1049255</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>170</h>
+      <object_id>1049254</object_id>
+      <w>285</w>
+      <y>97</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>sand</name>
+      <h>330</h>
+      <object_id>1049255</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>holding</attribute>
+      </attributes>
+      <name>man</name>
+      <h>201</h>
+      <object_id>1049251</object_id>
+      <w>115</w>
+      <y>67</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>tattoo</name>
+      <h>42</h>
+      <object_id>1049256</object_id>
+      <w>35</w>
+      <y>95</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <h>155</h>
+      <object_id>1049259</object_id>
+      <w>264</w>
+      <y>121</y>
+      <x>183</x>
+      <name>board</name>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>91</h>
+      <object_id>1049260</object_id>
+      <w>34</w>
+      <y>124</y>
+      <x>332</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a man walking on the beach holding two surf boards</caption>
+      <caption>A man holding two surfboards standing on a beach.</caption>
+      <caption>A person with a couple surfboards on the beach.</caption>
+      <caption>Man holding two white surfboards underneath his arms. </caption>
+      <caption>A man holding two surfboards walking on a beach.</caption>
+    </captions>
+</image>

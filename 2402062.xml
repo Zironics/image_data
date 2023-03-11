@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402062</image-id>
+  <coco-id>541999</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3282069</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1140809</subject>
+      <object>1140810</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282075</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1140811</subject>
+      <object>1140812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282111</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1140811</subject>
+      <object>1140812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282115</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1140811</subject>
+      <object>1140812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3282116</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1140811</subject>
+      <object>1140812</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1140809</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1140810</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1140811</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1140812</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of passengers pulling suit cases on wheels through an airport terminal.</caption>
+      <caption>People in an airport with their wheeled luggage.</caption>
+      <caption>People walking through an airport, pulling their luggage.</caption>
+      <caption>A group of people entering an airport with their luggage.</caption>
+      <caption>A group of people walking with suitcases in an airport.</caption>
+    </captions>
+</image>

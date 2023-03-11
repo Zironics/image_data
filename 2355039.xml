@@ -1,0 +1,83 @@
+<image>
+  <image-id>2355039</image-id>
+  <coco-id>75415</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3743908</relationship_id>
+      <predicate>near</predicate>
+      <subject>2463557</subject>
+      <object>3775675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3743909</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2696881</subject>
+      <object>3775675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3743910</relationship_id>
+      <predicate>with</predicate>
+      <subject>1924740</subject>
+      <object>3775675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3743911</relationship_id>
+      <predicate>with</predicate>
+      <subject>3775675</subject>
+      <object>2469745</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>432</h>
+      <object_id>2463557</object_id>
+      <w>227</w>
+      <y>5</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>442</h>
+      <object_id>3775675</object_id>
+      <w>141</w>
+      <y>32</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>frilled top</name>
+      <h>20</h>
+      <object_id>2696881</object_id>
+      <w>110</w>
+      <y>28</y>
+      <x>133</x>
+    </object>
+    <object>
+      <h>43</h>
+      <object_id>1924740</object_id>
+      <w>14</w>
+      <y>251</y>
+      <x>199</x>
+      <name>people</name>
+    </object>
+    <object>
+      <name>trim</name>
+      <h>10</h>
+      <object_id>2469745</object_id>
+      <w>65</w>
+      <y>102</y>
+      <x>154</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A huge vase sits in a corner with scrolled window frames, ornamental walls and concrete wainscoting for a perfect match.</caption>
+      <caption>A large Asian vase in the corner of a room.</caption>
+      <caption>Large oriental ceramic urn in the corner of an ornate room</caption>
+      <caption>A large colorful vase sitting in a corner next to a window.</caption>
+      <caption>a large ornate Chinese vase in the corner of a room</caption>
+    </captions>
+</image>

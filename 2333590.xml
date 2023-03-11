@@ -1,0 +1,81 @@
+<image>
+  <image-id>2333590</image-id>
+  <coco-id>421902</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4017356</relationship_id>
+      <predicate>smelling</predicate>
+      <subject>2739527</subject>
+      <object>3683607</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018317</relationship_id>
+      <predicate>has a</predicate>
+      <subject>2714867</subject>
+      <object>2714869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018318</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2862166</subject>
+      <object>2862168</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>126</h>
+      <object_id>2739527</object_id>
+      <w>183</w>
+      <y>179</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>51</h>
+      <object_id>3683607</object_id>
+      <w>33</w>
+      <y>281</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>144</h>
+      <object_id>2714867</object_id>
+      <w>184</w>
+      <y>163</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>soccer ball</name>
+      <h>43</h>
+      <object_id>2714869</object_id>
+      <w>47</w>
+      <y>224</y>
+      <x>314</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>95</h>
+      <object_id>2862166</object_id>
+      <w>57</w>
+      <y>81</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>them</name>
+      <h>283</h>
+      <object_id>2862168</object_id>
+      <w>429</w>
+      <y>64</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of girls sitting with a white and grey dog.</caption>
+      <caption>A group of young, smiling children are gathered around a dog.</caption>
+      <caption>A large group of children in a room with a couple adults and multiple dogs.</caption>
+      <caption>A group of kids sitting around a fluffy dog.</caption>
+      <caption>A group of children sit around a Husky dog while two people with two dogs in the background watch.</caption>
+    </captions>
+</image>

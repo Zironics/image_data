@@ -1,0 +1,88 @@
+<image>
+  <image-id>2406371</image-id>
+  <coco-id>61575</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>493732</relationship_id>
+      <predicate>ON</predicate>
+      <subject>324774</subject>
+      <object>324775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>493739</relationship_id>
+      <predicate>ON</predicate>
+      <subject>324783</subject>
+      <object>324784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>493745</relationship_id>
+      <predicate>ON</predicate>
+      <subject>324775</subject>
+      <object>324784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>493746</relationship_id>
+      <predicate>ON</predicate>
+      <subject>324783</subject>
+      <object>324784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lower case</attribute>
+      </attributes>
+      <name>cedar street</name>
+      <h>72</h>
+      <object_id>324774</object_id>
+      <w>181</w>
+      <y>222</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+        <attribute>name</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>101</h>
+      <object_id>324775</object_id>
+      <w>219</w>
+      <y>213</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rectangular</attribute>
+        <attribute>white</attribute>
+        <attribute>off</attribute>
+      </attributes>
+      <name>light</name>
+      <h>60</h>
+      <object_id>324783</object_id>
+      <w>67</w>
+      <y>92</y>
+      <x>336</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>post</name>
+      <h>240</h>
+      <object_id>324784</object_id>
+      <w>84</w>
+      <y>90</y>
+      <x>396</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A street sign for Cedar Street under a street light.</caption>
+      <caption>A street sign with a light above it.</caption>
+      <caption>A large street sign with light says Cedar Street.</caption>
+      <caption>A street sign attached to a metal fixture.</caption>
+      <caption>A street sign displays Cedar Street under a street lamp.</caption>
+    </captions>
+</image>

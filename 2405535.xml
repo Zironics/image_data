@@ -1,0 +1,84 @@
+<image>
+  <image-id>2405535</image-id>
+  <coco-id>23927</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4281209</relationship_id>
+      <predicate>ON</predicate>
+      <subject>331308</subject>
+      <object>3812585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4281210</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3812586</subject>
+      <object>331322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4281211</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3812587</subject>
+      <object>331327</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black and white</attribute>
+      </attributes>
+      <name>man is lounging</name>
+      <h>498</h>
+      <object_id>331308</object_id>
+      <w>358</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>389</h>
+      <object_id>3812585</object_id>
+      <w>292</w>
+      <y>73</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>353</h>
+      <object_id>3812586</object_id>
+      <w>281</w>
+      <y>89</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>black dress shoes</name>
+      <h>42</h>
+      <object_id>331322</object_id>
+      <w>61</w>
+      <y>236</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>410</h>
+      <object_id>3812587</object_id>
+      <w>284</w>
+      <y>84</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>front of tree trunk</name>
+      <h>29</h>
+      <object_id>331327</object_id>
+      <w>68</w>
+      <y>291</y>
+      <x>187</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man laying on a wooden bench in a yard.</caption>
+      <caption>The man is posing for a photo on the bench outside.</caption>
+      <caption>A man is learning back on a wooden bench.</caption>
+      <caption>an older man in a suit laying on a bench</caption>
+      <caption>a male in a hat is laying on a wooden bench</caption>
+    </captions>
+</image>

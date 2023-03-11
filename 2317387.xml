@@ -1,0 +1,82 @@
+<image>
+  <image-id>2317387</image-id>
+  <coco-id>140252</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3810313</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3255281</subject>
+      <object>3598502</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3854091</relationship_id>
+      <predicate>has</predicate>
+      <subject>3255281</subject>
+      <object>3618307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3886939</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3156086</subject>
+      <object>3156087</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>124</h>
+      <object_id>3255281</object_id>
+      <w>82</w>
+      <y>190</y>
+      <x>114</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mouth</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>113</h>
+      <object_id>3598502</object_id>
+      <w>85</w>
+      <y>267</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>89</h>
+      <object_id>3618307</object_id>
+      <w>113</w>
+      <y>392</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>writing</name>
+      <h>16</h>
+      <object_id>3156086</object_id>
+      <w>31</w>
+      <y>307</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>112</h>
+      <object_id>3156087</object_id>
+      <w>75</w>
+      <y>260</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tan dog carrying a green frisbee up a path.</caption>
+      <caption>A brown dog is carrying a green Frisbee in his mouth.</caption>
+      <caption>there is a dog running threw a field with a frisbee</caption>
+      <caption>a dog running with a green frisbee in its mouth </caption>
+      <caption>A dog running in the grass while carrying a frisbee.</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>1592437</image-id>
+  <coco-id>571598</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4083696</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1609652</subject>
+      <object>1609646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083698</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1609656</subject>
+      <object>1609652</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083699</relationship_id>
+      <predicate>around</predicate>
+      <subject>1609659</subject>
+      <object>1609662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083700</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1609663</subject>
+      <object>1609664</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>82</h>
+      <object_id>1609652</object_id>
+      <w>79</w>
+      <y>592</y>
+      <x>561</x>
+      <name>game remotes</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>98</h>
+      <object_id>1609646</object_id>
+      <w>157</w>
+      <y>667</y>
+      <x>462</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>569</h>
+      <object_id>1609656</object_id>
+      <w>345</w>
+      <y>196</y>
+      <x>678</x>
+    </object>
+    <object>
+      <name>badge</name>
+      <h>291</h>
+      <object_id>1609659</object_id>
+      <w>219</w>
+      <y>443</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>68</h>
+      <object_id>1609662</object_id>
+      <w>138</w>
+      <y>400</y>
+      <x>798</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>153</h>
+      <object_id>1609663</object_id>
+      <w>538</w>
+      <y>377</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>men</name>
+      <h>612</h>
+      <object_id>1609664</object_id>
+      <w>1019</w>
+      <y>152</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>three men smiling holding a wii controller in their hands</caption>
+      <caption>Three men each holding something and posing for a picture.</caption>
+      <caption>A group of three men standing next to each other.</caption>
+      <caption>Three men holding WiiMotes at a trade show.</caption>
+      <caption>Those look like remote or game controls in their hands.</caption>
+    </captions>
+</image>

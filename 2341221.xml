@@ -1,0 +1,88 @@
+<image>
+  <image-id>2341221</image-id>
+  <coco-id>544</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265764</relationship_id>
+      <predicate>ready to hit</predicate>
+      <subject>2457564</subject>
+      <object>2457565</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265765</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3798468</subject>
+      <object>2129935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265766</relationship_id>
+      <predicate>around</predicate>
+      <subject>3491010</subject>
+      <object>3491011</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>baseball player</name>
+      <h>128</h>
+      <object_id>2457564</object_id>
+      <w>87</w>
+      <y>189</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>11</h>
+      <object_id>2457565</object_id>
+      <w>15</w>
+      <y>226</y>
+      <x>462</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>padding</name>
+      <h>40</h>
+      <object_id>3798468</object_id>
+      <w>454</w>
+      <y>177</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>47</h>
+      <object_id>2129935</object_id>
+      <w>447</w>
+      <y>175</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+        <attribute>metal </attribute>
+      </attributes>
+      <name>railing</name>
+      <h>43</h>
+      <object_id>3491010</object_id>
+      <w>150</w>
+      <y>139</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>spectators</name>
+      <h>179</h>
+      <object_id>3491011</object_id>
+      <w>497</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball game is going on for the crowd. </caption>
+      <caption>A baseball player holding a bat over the top of a base.</caption>
+      <caption>The stands are packed as a baseball player in a gray uniform holds a bat as a catcher holds out his mitt.</caption>
+      <caption>A man that has a baseball bat standing in the dirt.</caption>
+      <caption>A man swinging a bat at a baseball on a field.</caption>
+    </captions>
+</image>

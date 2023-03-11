@@ -1,0 +1,37 @@
+<image>
+  <image-id>2315642</image-id>
+  <coco-id>13294</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4253145</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3045459</subject>
+      <object>3045460</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shrubery</name>
+      <h>31</h>
+      <object_id>3045459</object_id>
+      <w>50</w>
+      <y>10</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>294</h>
+      <object_id>3045460</object_id>
+      <w>428</w>
+      <y>49</y>
+      <x>32</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large brown horse running down a dirt road.</caption>
+      <caption>A horse trots through a sand pit on a farm.</caption>
+      <caption>A horse galloping through the sand on a farm.</caption>
+      <caption>A brown horse is running in the dirt.</caption>
+      <caption>A horse is running through a bed of sand and kicking up dust.</caption>
+    </captions>
+</image>

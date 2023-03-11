@@ -1,0 +1,91 @@
+<image>
+  <image-id>2393624</image-id>
+  <coco-id>472102</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3410317</relationship_id>
+      <predicate>are on top of</predicate>
+      <subject>1218306</subject>
+      <object>1218299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3410318</relationship_id>
+      <predicate>has</predicate>
+      <subject>1218308</subject>
+      <object>1218308</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3410319</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1218299</subject>
+      <object>1218305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3410320</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1218313</subject>
+      <object>1218305</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>feet</name>
+      <h>42</h>
+      <object_id>1218306</object_id>
+      <w>119</w>
+      <y>141</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>black</attribute>
+        <attribute>handled</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>luggage</name>
+      <h>133</h>
+      <object_id>1218299</object_id>
+      <w>91</w>
+      <y>148</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>66</h>
+      <object_id>1218308</object_id>
+      <w>72</w>
+      <y>108</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>gray</attribute>
+        <attribute>carpeted</attribute>
+        <attribute>presen</attribute>
+      </attributes>
+      <name>carpet</name>
+      <h>184</h>
+      <object_id>1218305</object_id>
+      <w>491</w>
+      <y>146</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>20</h>
+      <object_id>1218313</object_id>
+      <w>12</w>
+      <y>176</y>
+      <x>473</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An woman sleeps in a chair at an airport terminal filled with travelers.</caption>
+      <caption>A waiting room filled with lots of seats and people with luggage.</caption>
+      <caption>A woman sleeping with her foot on a suitcase </caption>
+      <caption>A person sitting in a chair with their feet resting on their luggage. </caption>
+      <caption>This woman is relaxing at an airport with an amp </caption>
+    </captions>
+</image>

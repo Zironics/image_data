@@ -1,0 +1,37 @@
+<image>
+  <image-id>2381720</image-id>
+  <coco-id>96705</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4579560</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4046824</subject>
+      <object>4046825</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>14</h>
+      <object_id>4046824</object_id>
+      <w>19</w>
+      <y>103</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>302</h>
+      <object_id>4046825</object_id>
+      <w>250</w>
+      <y>27</y>
+      <x>153</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man eats a banana while standing outside.</caption>
+      <caption>A man in a grey shirt is eating a banana. </caption>
+      <caption>A man eats a banana while walking on the street.</caption>
+      <caption>A man is biting into a banana outside.</caption>
+      <caption>a man eating a large banana vigorously </caption>
+    </captions>
+</image>

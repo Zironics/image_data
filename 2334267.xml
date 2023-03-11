@@ -1,0 +1,61 @@
+<image>
+  <image-id>2334267</image-id>
+  <coco-id>159215</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4106627</relationship_id>
+      <predicate>using</predicate>
+      <subject>3053024</subject>
+      <object>3295635</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4005298</relationship_id>
+      <predicate>looking at a</predicate>
+      <subject>3053024</subject>
+      <object>3020774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4005299</relationship_id>
+      <predicate>examining a</predicate>
+      <subject>3053024</subject>
+      <object>3020774</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>fun-loving</attribute>
+      </attributes>
+      <h>331</h>
+      <object_id>3053024</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>cell phone</name>
+      <h>125</h>
+      <object_id>3295635</object_id>
+      <w>195</w>
+      <y>70</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>112</h>
+      <object_id>3020774</object_id>
+      <w>128</w>
+      <y>77</y>
+      <x>252</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person is taking a picture of three people with a camera.</caption>
+      <caption>A man viewing a video on his smart phone.</caption>
+      <caption>A person observing some people on a camera.</caption>
+      <caption>A woman is holding an iPhone and trying to take a picture.</caption>
+      <caption>Man holding a mobile phone up to see a picture on it.</caption>
+    </captions>
+</image>

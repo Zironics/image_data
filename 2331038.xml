@@ -1,0 +1,110 @@
+<image>
+  <image-id>2331038</image-id>
+  <coco-id>487567</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4106769</relationship_id>
+      <predicate>with</predicate>
+      <subject>3338101</subject>
+      <object>3338102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4465628</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3338101</subject>
+      <object>3338102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260911</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3795598</subject>
+      <object>3036166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260912</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3503760</subject>
+      <object>3338101</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3965139</relationship_id>
+      <predicate>under</predicate>
+      <subject>2808480</subject>
+      <object>2808481</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>young boy</name>
+      <h>371</h>
+      <object_id>3338101</object_id>
+      <w>232</w>
+      <y>9</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>baseball glove</name>
+      <h>90</h>
+      <object_id>3338102</object_id>
+      <w>119</w>
+      <y>406</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>text</name>
+      <h>20</h>
+      <object_id>3795598</object_id>
+      <w>95</w>
+      <y>385</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>321</h>
+      <object_id>3036166</object_id>
+      <w>326</w>
+      <y>177</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>wrist</name>
+      <h>29</h>
+      <object_id>3503760</object_id>
+      <w>46</w>
+      <y>375</y>
+      <x>225</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>under</attribute>
+      </attributes>
+      <name>base</name>
+      <h>21</h>
+      <object_id>2808480</object_id>
+      <w>48</w>
+      <y>366</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>118</h>
+      <object_id>2808481</object_id>
+      <w>51</w>
+      <y>256</y>
+      <x>166</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boy holds a baseball glove on his left hand.</caption>
+      <caption>A boy wearing a baseball glove and baseball shirt.</caption>
+      <caption>A young boy wearing a baseball glove and a funny t-shirt.</caption>
+      <caption>a little boy that has a big glove on</caption>
+      <caption>The young boy is walking with his glove on.</caption>
+    </captions>
+</image>

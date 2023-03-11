@@ -1,0 +1,86 @@
+<image>
+  <image-id>2327534</image-id>
+  <coco-id>149022</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4473433</relationship_id>
+      <predicate>on a</predicate>
+      <subject>980069</subject>
+      <object>3937440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473435</relationship_id>
+      <predicate>sitting under</predicate>
+      <subject>980067</subject>
+      <object>3937441</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473437</relationship_id>
+      <predicate>on a</predicate>
+      <subject>980067</subject>
+      <object>3937442</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>sprinkles</name>
+      <h>27</h>
+      <object_id>980069</object_id>
+      <w>29</w>
+      <y>29</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>256</h>
+      <object_id>3937440</object_id>
+      <w>260</w>
+      <y>13</y>
+      <x>218</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rectangled shaped</attribute>
+        <attribute>sprinkled</attribute>
+        <attribute>white</attribute>
+        <attribute>powder</attribute>
+        <attribute>chocolate</attribute>
+      </attributes>
+      <name>donuts</name>
+      <h>256</h>
+      <object_id>980067</object_id>
+      <w>404</w>
+      <y>7</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>rectangle donut</name>
+      <h>249</h>
+      <object_id>3937441</object_id>
+      <w>258</w>
+      <y>15</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>294</h>
+      <object_id>3937442</object_id>
+      <w>424</w>
+      <y>37</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate holding various sized doughnuts on a table.</caption>
+      <caption>On a table sits a plate with 3 doughnuts.</caption>
+      <caption>An assortment of pastry treats on a white tray.</caption>
+      <caption>a plate with assorted square donuts on it </caption>
+      <caption>a close up of a plate of doughnuts on a table</caption>
+    </captions>
+</image>

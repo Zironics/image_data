@@ -1,0 +1,62 @@
+<image>
+  <image-id>2394578</image-id>
+  <coco-id>510838</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4727424</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4409854</subject>
+      <object>4409855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4727430</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4409870</subject>
+      <object>4409871</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>umbrella</name>
+      <h>34</h>
+      <object_id>4409854</object_id>
+      <w>32</w>
+      <y>292</y>
+      <x>125</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>91</h>
+      <object_id>4409855</object_id>
+      <w>267</w>
+      <y>185</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sail</name>
+      <h>18</h>
+      <object_id>4409870</object_id>
+      <w>16</w>
+      <y>166</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>75</h>
+      <object_id>4409871</object_id>
+      <w>250</w>
+      <y>190</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A rainbow umbrella in the water off the shore</caption>
+      <caption>Ocean side shot of a umbrella floating on the side of the ocean.</caption>
+      <caption>An umbrella sitting in the middle of the water.</caption>
+      <caption>A sailboat sailing on the ocean and an umbrella floating in the ocean.</caption>
+      <caption>A colorful umbrella sitting on top of a body of water.</caption>
+    </captions>
+</image>

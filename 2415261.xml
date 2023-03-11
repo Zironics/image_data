@@ -1,0 +1,273 @@
+<image>
+  <image-id>2415261</image-id>
+  <coco-id>393292</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>138294</relationship_id>
+      <predicate>sink has a faucet</predicate>
+      <subject>142987</subject>
+      <object>142988</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266078</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3798855</subject>
+      <object>3798851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138297</relationship_id>
+      <predicate>building has floors</predicate>
+      <subject>142991</subject>
+      <object>142992</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266079</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3798854</subject>
+      <object>3798855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138301</relationship_id>
+      <predicate>water has waves</predicate>
+      <subject>142995</subject>
+      <object>142996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138303</relationship_id>
+      <predicate>pigeon has feet</predicate>
+      <subject>142994</subject>
+      <object>142997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138304</relationship_id>
+      <predicate>pigeon has a neck</predicate>
+      <subject>142998</subject>
+      <object>142999</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138308</relationship_id>
+      <predicate>building white</predicate>
+      <subject>143003</subject>
+      <object>142990</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138313</relationship_id>
+      <predicate>sink has a bird</predicate>
+      <subject>142994</subject>
+      <object>142998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138314</relationship_id>
+      <predicate>waves are in water</predicate>
+      <subject>142996</subject>
+      <object>142995</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138315</relationship_id>
+      <predicate>sink against rail</predicate>
+      <subject>142989</subject>
+      <object>143007</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138316</relationship_id>
+      <predicate>faucet on sink</predicate>
+      <subject>142987</subject>
+      <object>142988</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138318</relationship_id>
+      <predicate>sink has shadow</predicate>
+      <subject>143004</subject>
+      <object>143009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266080</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3798857</subject>
+      <object>3798856</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>faucet on a sink</name>
+      <h>46</h>
+      <object_id>142987</object_id>
+      <w>28</w>
+      <y>87</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>faucet on a sink</name>
+      <h>33</h>
+      <object_id>142988</object_id>
+      <w>28</w>
+      <y>88</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>273</h>
+      <object_id>3798855</object_id>
+      <w>483</w>
+      <y>102</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>dock</name>
+      <h>310</h>
+      <object_id>3798851</object_id>
+      <w>496</w>
+      <y>65</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>building is white</name>
+      <h>25</h>
+      <object_id>142991</object_id>
+      <w>99</w>
+      <y>23</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>building is white</name>
+      <h>20</h>
+      <object_id>142992</object_id>
+      <w>63</w>
+      <y>16</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>dove</name>
+      <h>63</h>
+      <object_id>3798854</object_id>
+      <w>81</w>
+      <y>143</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water is blue</name>
+      <h>118</h>
+      <object_id>142995</object_id>
+      <w>497</w>
+      <y>12</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>waves are on beach</name>
+      <h>61</h>
+      <object_id>142996</object_id>
+      <w>495</w>
+      <y>15</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>pigeon is black</name>
+      <h>51</h>
+      <object_id>142994</object_id>
+      <w>73</w>
+      <y>150</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>feet are red</name>
+      <h>16</h>
+      <object_id>142997</object_id>
+      <w>21</w>
+      <y>182</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>pigeon is black</name>
+      <h>44</h>
+      <object_id>142998</object_id>
+      <w>46</w>
+      <y>198</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>neck is green</name>
+      <h>12</h>
+      <object_id>142999</object_id>
+      <w>16</w>
+      <y>155</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>building is tall</name>
+      <h>21</h>
+      <object_id>143003</object_id>
+      <w>64</w>
+      <y>38</y>
+      <x>405</x>
+    </object>
+    <object>
+      <name>building on beach</name>
+      <h>18</h>
+      <object_id>142990</object_id>
+      <w>43</w>
+      <y>38</y>
+      <x>405</x>
+    </object>
+    <object>
+      <name>sink is metal</name>
+      <h>283</h>
+      <object_id>142989</object_id>
+      <w>480</w>
+      <y>81</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>rail is on deck</name>
+      <h>260</h>
+      <object_id>143007</object_id>
+      <w>496</w>
+      <y>113</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Metal </attribute>
+      </attributes>
+      <name>sink has legs</name>
+      <h>178</h>
+      <object_id>143004</object_id>
+      <w>124</w>
+      <y>184</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>legs have shadow</name>
+      <h>73</h>
+      <object_id>143009</object_id>
+      <w>76</w>
+      <y>280</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>55</h>
+      <object_id>3798857</object_id>
+      <w>60</w>
+      <y>196</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>303</h>
+      <object_id>3798856</object_id>
+      <w>488</w>
+      <y>72</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some birds are sitting on a cast iron sink</caption>
+      <caption>A sink by the water with two pigeons in it.</caption>
+      <caption>Two pigeons in a sink by the water.</caption>
+      <caption>A pair of birds are standing in a sink by a beach.</caption>
+      <caption>A metal sink with a pigeon sitting on top of it.</caption>
+    </captions>
+</image>

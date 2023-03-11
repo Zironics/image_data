@@ -1,0 +1,149 @@
+<image>
+  <image-id>2356344</image-id>
+  <coco-id>355398</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2312899</relationship_id>
+      <predicate>used by</predicate>
+      <subject>821378</subject>
+      <object>821374</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2312900</relationship_id>
+      <predicate>at</predicate>
+      <subject>821381</subject>
+      <object>821382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2312901</relationship_id>
+      <predicate>ON</predicate>
+      <subject>821382</subject>
+      <object>821383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2312902</relationship_id>
+      <predicate>IN</predicate>
+      <subject>821381</subject>
+      <object>821384</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2312903</relationship_id>
+      <predicate>ON</predicate>
+      <subject>821385</subject>
+      <object>821382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2312904</relationship_id>
+      <predicate>ON</predicate>
+      <subject>821379</subject>
+      <object>821374</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2312905</relationship_id>
+      <predicate>ON</predicate>
+      <subject>821382</subject>
+      <object>821383</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tennis racket</name>
+      <h>35</h>
+      <object_id>821378</object_id>
+      <w>17</w>
+      <y>211</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>serving</attribute>
+        <attribute>playing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>124</h>
+      <object_id>821374</object_id>
+      <w>67</w>
+      <y>197</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ball girl</attribute>
+      </attributes>
+      <name>person</name>
+      <h>33</h>
+      <object_id>821381</object_id>
+      <w>25</w>
+      <y>159</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>tennis</attribute>
+      </attributes>
+      <name>net</name>
+      <h>74</h>
+      <object_id>821382</object_id>
+      <w>90</w>
+      <y>158</y>
+      <x>408</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white baseline</attribute>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+        <attribute>lined in white</attribute>
+      </attributes>
+      <name>tennis court</name>
+      <h>169</h>
+      <object_id>821383</object_id>
+      <w>493</w>
+      <y>203</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>blue shirt</name>
+      <h>10</h>
+      <object_id>821384</object_id>
+      <w>17</w>
+      <y>164</y>
+      <x>336</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>34</h>
+      <object_id>821385</object_id>
+      <w>31</w>
+      <y>167</y>
+      <x>415</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>10</h>
+      <object_id>821379</object_id>
+      <w>11</w>
+      <y>224</y>
+      <x>60</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tennis player has one hand up to throw the ball and the other hand is back to hit the tennis ball over the net.</caption>
+      <caption>The tennis player is crouched down in position with his racquet and arm up. </caption>
+      <caption>A man serving the ball in a tennis match</caption>
+      <caption>a man that is on a tennis court with a racket</caption>
+      <caption>A tennis player serving the ball to the other side </caption>
+    </captions>
+</image>

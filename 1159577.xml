@@ -1,0 +1,115 @@
+<image>
+  <image-id>1159577</image-id>
+  <coco-id>193380</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4250709</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1595352</subject>
+      <object>1595347</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4250710</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1595348</subject>
+      <object>3790199</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3824003</relationship_id>
+      <predicate>filled with</predicate>
+      <subject>3604374</subject>
+      <object>1595351</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4250711</relationship_id>
+      <predicate>tied to</predicate>
+      <subject>1595354</subject>
+      <object>3604384</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>174</h>
+      <object_id>1595352</object_id>
+      <w>83</w>
+      <y>61</y>
+      <x>180</x>
+      <name>glass building</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lots</attribute>
+      </attributes>
+      <name>buildings</name>
+      <h>235</h>
+      <object_id>1595347</object_id>
+      <w>501</w>
+      <y>55</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>series</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>54</h>
+      <object_id>1595348</object_id>
+      <w>112</w>
+      <y>257</y>
+      <x>252</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>side of</attribute>
+      </attributes>
+      <name>street</name>
+      <h>63</h>
+      <object_id>3790199</object_id>
+      <w>212</w>
+      <y>268</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>marina</name>
+      <h>469</h>
+      <object_id>3604374</object_id>
+      <w>523</w>
+      <y>284</y>
+      <x>471</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>docked</attribute>
+      </attributes>
+      <name>boats</name>
+      <h>143</h>
+      <object_id>1595351</object_id>
+      <w>596</w>
+      <y>279</y>
+      <x>423</x>
+    </object>
+    <object>
+      <name>bicycle</name>
+      <h>305</h>
+      <object_id>1595354</object_id>
+      <w>70</w>
+      <y>425</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>rail</name>
+      <h>463</h>
+      <object_id>3604384</object_id>
+      <w>279</w>
+      <y>299</y>
+      <x>64</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Many boats are docked at the harbor of a large city.</caption>
+      <caption>A harbor with many boats docked in it.</caption>
+      <caption>A harbor with boats next to pier with people.</caption>
+      <caption>The harbor is filled with various boats, but not many people.</caption>
+      <caption>A boardwalk near a waterway at a boat dock.</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2330614</image-id>
+  <coco-id>415151</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3977171</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3319438</subject>
+      <object>3319439</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bed</name>
+      <h>295</h>
+      <object_id>3319438</object_id>
+      <w>442</w>
+      <y>77</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>hospital room</name>
+      <h>371</h>
+      <object_id>3319439</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A double hospital bed is sitting in the middle of the room with a white rug on the side.</caption>
+      <caption>two beds pushed together in front of a telephone </caption>
+      <caption>A couple of beds pushed together inside of a hospital.</caption>
+      <caption>A very sparse modern bedroom with yellow bed and built-in cabinets and antique telephones.</caption>
+      <caption>A hospital room with two beds pushed together and two phones.</caption>
+    </captions>
+</image>

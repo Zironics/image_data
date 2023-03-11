@@ -1,0 +1,98 @@
+<image>
+  <image-id>2315837</image-id>
+  <coco-id>448376</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4542931</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3133772</subject>
+      <object>3963282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4542932</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3133772</subject>
+      <object>3133773</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4542933</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3352176</subject>
+      <object>3352177</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867726</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>3462641</subject>
+      <object>3462642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>104</h>
+      <object_id>3133772</object_id>
+      <w>43</w>
+      <y>132</y>
+      <x>202</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>train</name>
+      <h>236</h>
+      <object_id>3963282</object_id>
+      <w>227</w>
+      <y>101</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>103</h>
+      <object_id>3133773</object_id>
+      <w>142</w>
+      <y>115</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>113</h>
+      <object_id>3352176</object_id>
+      <w>41</w>
+      <y>136</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>120</h>
+      <object_id>3352177</object_id>
+      <w>145</w>
+      <y>115</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>94</h>
+      <object_id>3462641</object_id>
+      <w>80</w>
+      <y>265</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>train</name>
+      <h>494</h>
+      <object_id>3462642</object_id>
+      <w>249</w>
+      <y>2</y>
+      <x>81</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train traveling down snow covered train tracks.</caption>
+      <caption>A person holds an umbrella out of a train on a rainy day.</caption>
+      <caption>Someone holding a blue umbrella out a train door. </caption>
+      <caption>a person with a blue umbrella is leaning out of a train</caption>
+      <caption>A person holding an umbrella leans out the train door.</caption>
+    </captions>
+</image>

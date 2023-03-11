@@ -1,0 +1,65 @@
+<image>
+  <image-id>2332058</image-id>
+  <coco-id>160941</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4822019</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4651848</subject>
+      <object>4651849</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4822020</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4651854</subject>
+      <object>4651855</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>train</name>
+      <h>104</h>
+      <object_id>4651848</object_id>
+      <w>211</w>
+      <y>118</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>98</h>
+      <object_id>4651849</object_id>
+      <w>350</w>
+      <y>220</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>shadow</name>
+      <h>94</h>
+      <object_id>4651854</object_id>
+      <w>188</w>
+      <y>225</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>101</h>
+      <object_id>4651855</object_id>
+      <w>221</w>
+      <y>219</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train traveling down train tracks surrounded by forest.</caption>
+      <caption>A train driving on tracks past a house.</caption>
+      <caption>A railroad train traveling down the train tracks</caption>
+      <caption>an image of train moving down the tracks</caption>
+      <caption>An approaching train is seen through some trees.</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>713754</image-id>
+  <coco-id>209785</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4590293</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4072207</subject>
+      <object>4072206</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590294</relationship_id>
+      <predicate>at</predicate>
+      <subject>4072209</subject>
+      <object>4072210</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>511</h>
+      <object_id>4072207</object_id>
+      <w>147</w>
+      <y>362</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>leather</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>197</h>
+      <object_id>4072206</object_id>
+      <w>150</w>
+      <y>426</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>car</name>
+      <h>103</h>
+      <object_id>4072209</object_id>
+      <w>276</w>
+      <y>243</y>
+      <x>379</x>
+    </object>
+    <object>
+      <name>intersection</name>
+      <h>748</h>
+      <object_id>4072210</object_id>
+      <w>679</w>
+      <y>233</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man talks on a cell phone while standing in the road, at an intersection</caption>
+      <caption>A person stands at a country cross road making a phone call. </caption>
+      <caption>A man standing in the street on a cellphone.</caption>
+      <caption>A white car passing a person in a black jacket.</caption>
+      <caption>A man standing in the road looking at a car while on a cell phone.</caption>
+    </captions>
+</image>

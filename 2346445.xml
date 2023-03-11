@@ -1,0 +1,90 @@
+<image>
+  <image-id>2346445</image-id>
+  <coco-id>403590</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4426697</relationship_id>
+      <predicate>crossing</predicate>
+      <subject>899377</subject>
+      <object>3910079</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2625706</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>899371</subject>
+      <object>899366</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2625707</relationship_id>
+      <predicate>OF</predicate>
+      <subject>899378</subject>
+      <object>899371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4426698</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3910078</subject>
+      <object>3910079</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>36</h>
+      <object_id>899377</object_id>
+      <w>21</w>
+      <y>190</y>
+      <x>469</x>
+    </object>
+    <object>
+      <h>148</h>
+      <object_id>3910079</object_id>
+      <w>500</w>
+      <y>185</y>
+      <x>0</x>
+      <name>pavement</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>71</h>
+      <object_id>899371</object_id>
+      <w>127</w>
+      <y>171</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>77</h>
+      <object_id>899366</object_id>
+      <w>146</w>
+      <y>218</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>10</h>
+      <object_id>899378</object_id>
+      <w>13</w>
+      <y>224</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>zebra crossing</name>
+      <h>12</h>
+      <object_id>3910078</object_id>
+      <w>285</w>
+      <y>208</y>
+      <x>131</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A city street with a bus is slightly dark.</caption>
+      <caption>A picture of some cars driving down the street.</caption>
+      <caption>A busy street with traffic, surrounded by tall buildings and skyscrapers.</caption>
+      <caption>a city street with cars and busses near buildings</caption>
+      <caption>A metropolitan street nearly deserted in the early morning hours.</caption>
+    </captions>
+</image>

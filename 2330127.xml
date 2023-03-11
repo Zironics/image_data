@@ -1,0 +1,60 @@
+<image>
+  <image-id>2330127</image-id>
+  <coco-id>323182</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4073380</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3125888</subject>
+      <object>3705750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4121365</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3125888</subject>
+      <object>3125889</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>444</h>
+      <object_id>3125888</object_id>
+      <w>401</w>
+      <y>0</y>
+      <x>0</x>
+      <name>white clouds</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>161</h>
+      <object_id>3705750</object_id>
+      <w>116</w>
+      <y>100</y>
+      <x>272</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue sky</name>
+      <h>99</h>
+      <object_id>3125889</object_id>
+      <w>120</w>
+      <y>15</y>
+      <x>204</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall tower with a clock on it</caption>
+      <caption>The building is tall and brown and large.</caption>
+      <caption>Silver clock sitting on the side of a stone building. </caption>
+      <caption>A high brick building with a clock on it.</caption>
+      <caption>A very tall brick building sitting under a beautiful blue sky.</caption>
+    </captions>
+</image>

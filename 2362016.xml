@@ -1,0 +1,82 @@
+<image>
+  <image-id>2362016</image-id>
+  <coco-id>518522</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3651465</relationship_id>
+      <predicate>close to</predicate>
+      <subject>2413330</subject>
+      <object>1672794</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3651466</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2413330</subject>
+      <object>1822264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4185836</relationship_id>
+      <predicate>close to</predicate>
+      <subject>1672794</subject>
+      <object>3752302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4185837</relationship_id>
+      <predicate>has</predicate>
+      <subject>2413330</subject>
+      <object>1711855</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>train</name>
+      <h>95</h>
+      <object_id>2413330</object_id>
+      <w>70</w>
+      <y>217</y>
+      <x>194</x>
+    </object>
+    <object>
+      <h>186</h>
+      <object_id>1672794</object_id>
+      <w>215</w>
+      <y>23</y>
+      <x>154</x>
+      <name>building</name>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>62</h>
+      <object_id>1822264</object_id>
+      <w>252</w>
+      <y>300</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>170</h>
+      <object_id>3752302</object_id>
+      <w>81</w>
+      <y>193</y>
+      <x>392</x>
+    </object>
+    <object>
+      <name>headlights</name>
+      <h>34</h>
+      <object_id>1711855</object_id>
+      <w>85</w>
+      <y>256</y>
+      <x>189</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The train is going down the tracks by the church. </caption>
+      <caption>A train rolls down the tracks on front of a church. </caption>
+      <caption>A church sitting among the hills with a train below it.</caption>
+      <caption>The train travels by  the old church and then heads down near the highway.</caption>
+      <caption>A small train traveling on the railroad tracks</caption>
+    </captions>
+</image>

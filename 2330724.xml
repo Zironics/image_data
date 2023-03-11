@@ -1,0 +1,93 @@
+<image>
+  <image-id>2330724</image-id>
+  <coco-id>338146</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4111341</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3186995</subject>
+      <object>3466742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3648690</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3186995</subject>
+      <object>3186996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4111342</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3466737</subject>
+      <object>3466742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4466404</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3425177</subject>
+      <object>3934046</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>29</h>
+      <object_id>3186995</object_id>
+      <w>28</w>
+      <y>21</y>
+      <x>299</x>
+      <name>window</name>
+    </object>
+    <object>
+      <name>room</name>
+      <h>330</h>
+      <object_id>3466742</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>310</h>
+      <object_id>3186996</object_id>
+      <w>472</w>
+      <y>0</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Small</attribute>
+      </attributes>
+      <name>window</name>
+      <h>23</h>
+      <object_id>3466737</object_id>
+      <w>22</w>
+      <y>47</y>
+      <x>275</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cast iron</attribute>
+      </attributes>
+      <name>skillet</name>
+      <h>42</h>
+      <object_id>3425177</object_id>
+      <w>68</w>
+      <y>142</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>176</h>
+      <object_id>3934046</object_id>
+      <w>262</w>
+      <y>90</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The kitchen has some of the best antique fixtures.</caption>
+      <caption>a large kitchen with an island and tile floors</caption>
+      <caption>A stove and a counter in a room.</caption>
+      <caption>some black cabinets in a large home kitchen</caption>
+      <caption>Old and empty industrial kitchen with large stoves.</caption>
+    </captions>
+</image>

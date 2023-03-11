@@ -1,0 +1,59 @@
+<image>
+  <image-id>2324285</image-id>
+  <coco-id>165675</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4526030</relationship_id>
+      <predicate>next to a</predicate>
+      <subject>2900811</subject>
+      <object>2900812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3794822</relationship_id>
+      <predicate>seeping under</predicate>
+      <subject>2978130</subject>
+      <object>2978131</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>knife</name>
+      <h>286</h>
+      <object_id>2900811</object_id>
+      <w>105</w>
+      <y>212</y>
+      <x>381</x>
+    </object>
+    <object>
+      <name>roast</name>
+      <h>410</h>
+      <object_id>2900812</object_id>
+      <w>355</w>
+      <y>40</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>juices</name>
+      <h>64</h>
+      <object_id>2978130</object_id>
+      <w>132</w>
+      <y>410</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>ham</name>
+      <h>388</h>
+      <object_id>2978131</object_id>
+      <w>301</w>
+      <y>44</y>
+      <x>81</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Slices of ham on a black tray next to a knife</caption>
+      <caption>a close up of a ham on a stove</caption>
+      <caption>A delicious ham set in the kitchen on the stove. </caption>
+      <caption>A large bone in ham cooking in an oven.</caption>
+      <caption>A pan with ham on it sitting on top of an oven with a knife next to it.</caption>
+    </captions>
+</image>

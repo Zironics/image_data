@@ -1,0 +1,115 @@
+<image>
+  <image-id>2327474</image-id>
+  <coco-id>139567</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3633377</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3521665</subject>
+      <object>2935036</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3633378</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3521666</subject>
+      <object>3314688</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3766868</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2935035</subject>
+      <object>2935036</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3633379</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2869413</subject>
+      <object>3120820</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473628</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3120819</subject>
+      <object>3120820</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4059004</relationship_id>
+      <predicate>grazing in</predicate>
+      <subject>2935035</subject>
+      <object>2935036</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>section</name>
+      <h>29</h>
+      <object_id>3521665</object_id>
+      <w>97</w>
+      <y>433</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>128</h>
+      <object_id>2935036</object_id>
+      <w>331</w>
+      <y>370</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>section</name>
+      <h>36</h>
+      <object_id>3521666</object_id>
+      <w>117</w>
+      <y>440</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>171</h>
+      <object_id>3314688</object_id>
+      <w>302</w>
+      <y>315</y>
+      <x>28</x>
+    </object>
+    <object>
+      <h>50</h>
+      <object_id>2935035</object_id>
+      <w>28</w>
+      <y>355</y>
+      <x>31</x>
+      <name>horse</name>
+    </object>
+    <object>
+      <name>brick face</name>
+      <h>90</h>
+      <object_id>2869413</object_id>
+      <w>47</w>
+      <y>248</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>292</h>
+      <object_id>3120820</object_id>
+      <w>158</w>
+      <y>79</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>cross</name>
+      <h>20</h>
+      <object_id>3120819</object_id>
+      <w>4</w>
+      <y>78</y>
+      <x>220</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall church sitting next to a lush green field.</caption>
+      <caption>A horse in a grassy field in front of a historic looking building with a steeple.</caption>
+      <caption>A horse is on the grass by a tall building.</caption>
+      <caption>BROWN HORSE OUT ON THE LAWN, IN FRONT OF A CHURCH</caption>
+      <caption>horse grazing in field next to old church</caption>
+    </captions>
+</image>

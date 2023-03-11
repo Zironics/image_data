@@ -1,0 +1,268 @@
+<image>
+  <image-id>2401365</image-id>
+  <coco-id>347007</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>824507</relationship_id>
+      <predicate>to left of</predicate>
+      <subject>400130</subject>
+      <object>400131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824508</relationship_id>
+      <predicate>to left of</predicate>
+      <subject>400131</subject>
+      <object>400132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824509</relationship_id>
+      <predicate>visible in</predicate>
+      <subject>400135</subject>
+      <object>400136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824510</relationship_id>
+      <predicate>to left of</predicate>
+      <subject>400130</subject>
+      <object>400131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824511</relationship_id>
+      <predicate>taller than</predicate>
+      <subject>400130</subject>
+      <object>400131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824512</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>400136</subject>
+      <object>400133</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824513</relationship_id>
+      <predicate>next to</predicate>
+      <subject>400132</subject>
+      <object>400138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824514</relationship_id>
+      <predicate>to right of</predicate>
+      <subject>400131</subject>
+      <object>400130</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824515</relationship_id>
+      <predicate>near</predicate>
+      <subject>400138</subject>
+      <object>400132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824516</relationship_id>
+      <predicate>standing above</predicate>
+      <subject>400130</subject>
+      <object>400131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824517</relationship_id>
+      <predicate>overlooking</predicate>
+      <subject>400138</subject>
+      <object>400136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824518</relationship_id>
+      <predicate>at base of</predicate>
+      <subject>400138</subject>
+      <object>400132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824519</relationship_id>
+      <predicate>IN</predicate>
+      <subject>400140</subject>
+      <object>400136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824520</relationship_id>
+      <predicate>meets</predicate>
+      <subject>400136</subject>
+      <object>400133</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824521</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>400134</subject>
+      <object>400133</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824522</relationship_id>
+      <predicate>ON</predicate>
+      <subject>400130</subject>
+      <object>400139</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824523</relationship_id>
+      <predicate>ON</predicate>
+      <subject>400131</subject>
+      <object>400139</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824524</relationship_id>
+      <predicate>ON</predicate>
+      <subject>400132</subject>
+      <object>400139</object>
+    </relationship>
+    <relationship>
+      <relationship_id>824525</relationship_id>
+      <predicate>below</predicate>
+      <subject>400130</subject>
+      <object>400133</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>cell phone tower</attribute>
+        <attribute>alone</attribute>
+        <attribute>cell tower</attribute>
+        <attribute>distant</attribute>
+        <attribute>telephone tower</attribute>
+        <attribute>metal</attribute>
+        <attribute>large</attribute>
+        <attribute>in shadow</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>50</h>
+      <object_id>400130</object_id>
+      <w>11</w>
+      <y>136</y>
+      <x>171</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>distant</attribute>
+        <attribute>gray</attribute>
+        <attribute>short</attribute>
+        <attribute>electric power tower</attribute>
+      </attributes>
+      <name>structure</name>
+      <h>20</h>
+      <object_id>400131</object_id>
+      <w>5</w>
+      <y>165</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>power pole</attribute>
+        <attribute>a grid tower</attribute>
+        <attribute>distant</attribute>
+        <attribute>electric pole tower</attribute>
+        <attribute>for electricity</attribute>
+      </attributes>
+      <name>structure</name>
+      <h>28</h>
+      <object_id>400132</object_id>
+      <w>23</w>
+      <y>150</y>
+      <x>363</x>
+    </object>
+    <object>
+      <name>ripple</name>
+      <h>24</h>
+      <object_id>400135</object_id>
+      <w>498</w>
+      <y>190</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>hilly</attribute>
+        <attribute>dimly lit</attribute>
+        <attribute>hazy</attribute>
+        <attribute>dry</attribute>
+        <attribute>foggy</attribute>
+        <attribute>ascending</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>155</h>
+      <object_id>400136</object_id>
+      <w>500</w>
+      <y>177</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cloudy</attribute>
+        <attribute>blue</attribute>
+        <attribute>light blue</attribute>
+        <attribute>patterned</attribute>
+        <attribute>foggy</attribute>
+        <attribute>clouded</attribute>
+        <attribute>clear</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>194</h>
+      <object_id>400133</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>building</name>
+      <h>8</h>
+      <object_id>400138</object_id>
+      <w>16</w>
+      <y>173</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>ridge</name>
+      <h>45</h>
+      <object_id>400140</object_id>
+      <w>495</w>
+      <y>266</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>thin</attribute>
+        <attribute>pink</attribute>
+        <attribute>wispy</attribute>
+        <attribute>line</attribute>
+        <attribute>yellow</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>18</h>
+      <object_id>400134</object_id>
+      <w>498</w>
+      <y>97</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>horizon</name>
+      <h>23</h>
+      <object_id>400139</object_id>
+      <w>500</w>
+      <y>177</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Smoggy picture of two radio towers on a hill.</caption>
+      <caption>An drilling rig out in an open field.</caption>
+      <caption>A large hill and field with a distant structure.</caption>
+      <caption>a foggy image of a hillside with radio towers </caption>
+      <caption>A large tower next to an other tower on a  hillside.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2330941</image-id>
+  <coco-id>518605</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4825545</relationship_id>
+      <predicate>eating</predicate>
+      <subject>4660815</subject>
+      <object>4660816</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>looking</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>123</h>
+      <object_id>4660815</object_id>
+      <w>70</w>
+      <y>125</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>20</h>
+      <object_id>4660816</object_id>
+      <w>12</w>
+      <y>103</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Giraffes and zebras graze in a field with trees. </caption>
+      <caption>A group of giraffe hiding among some trees.</caption>
+      <caption>a few giraffes that are standing out in a field under a tree</caption>
+      <caption>Five giraffes and two zebras standing in a grassy field.</caption>
+      <caption>A medium size herd of giraffes and zebras hiding in a small grove of trees.</caption>
+    </captions>
+</image>

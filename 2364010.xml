@@ -1,0 +1,71 @@
+<image>
+  <image-id>2364010</image-id>
+  <coco-id>124509</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4167252</relationship_id>
+      <predicate>outside of a</predicate>
+      <subject>3741934</subject>
+      <object>760256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4167253</relationship_id>
+      <predicate>near a</predicate>
+      <subject>760250</subject>
+      <object>3741935</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>phone</attribute>
+      </attributes>
+      <name>booth</name>
+      <h>50</h>
+      <object_id>3741934</object_id>
+      <w>26</w>
+      <y>233</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>brick</attribute>
+      </attributes>
+      <h>107</h>
+      <object_id>760256</object_id>
+      <w>140</w>
+      <y>174</y>
+      <x>0</x>
+      <name>building</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pin</attribute>
+        <attribute>pink</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>39</h>
+      <object_id>760250</object_id>
+      <w>51</w>
+      <y>284</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>320</h>
+      <object_id>3741935</object_id>
+      <w>66</w>
+      <y>12</y>
+      <x>317</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Main street of a small town in South Australia</caption>
+      <caption>A photo of a corner street and the street addresses.</caption>
+      <caption>Street signs help everyone find their way in the neighborhood.</caption>
+      <caption>a street pole sitting on the corner of a city street</caption>
+      <caption>a street sign indicates nearby locations in front of an empty street</caption>
+    </captions>
+</image>

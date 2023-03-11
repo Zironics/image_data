@@ -1,0 +1,68 @@
+<image>
+  <image-id>2325357</image-id>
+  <coco-id>417339</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4080074</relationship_id>
+      <predicate>at</predicate>
+      <subject>3387618</subject>
+      <object>3390506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080075</relationship_id>
+      <predicate>at</predicate>
+      <subject>3390505</subject>
+      <object>3390506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4484709</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3390505</subject>
+      <object>3434435</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>270</h>
+      <object_id>3387618</object_id>
+      <w>65</w>
+      <y>188</y>
+      <x>134</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>ski resort</name>
+      <h>391</h>
+      <object_id>3390506</object_id>
+      <w>370</w>
+      <y>100</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>father</name>
+      <h>388</h>
+      <object_id>3390505</object_id>
+      <w>141</w>
+      <y>67</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>42</h>
+      <object_id>3434435</object_id>
+      <w>43</w>
+      <y>73</y>
+      <x>214</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and a boy standing next to each other.</caption>
+      <caption>a boy and a man standing together with some snowboards </caption>
+      <caption>A father and son posing for a picture with their snowboards.</caption>
+      <caption>a man and a boy holding snowboards in the snow</caption>
+      <caption>A man and a boy standing in the snow with their snowboards.</caption>
+    </captions>
+</image>

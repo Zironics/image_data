@@ -1,0 +1,42 @@
+<image>
+  <image-id>2384413</image-id>
+  <coco-id>102644</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3554764</relationship_id>
+      <predicate>has</predicate>
+      <subject>1309783</subject>
+      <object>1309798</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>silver</attribute>
+        <attribute>on ledge</attribute>
+      </attributes>
+      <name>box</name>
+      <h>37</h>
+      <object_id>1309783</object_id>
+      <w>40</w>
+      <y>182</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>tissue</name>
+      <h>25</h>
+      <object_id>1309798</object_id>
+      <w>34</w>
+      <y>157</y>
+      <x>60</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A white toilet sitting in a bathroom next to a shower.</caption>
+      <caption>There is a bathroom with tile floors and tile walls.</caption>
+      <caption>A bathroom with a glass shower door, a toilet and a towel handle. </caption>
+      <caption>a bathroom with a walk in shower and toilet</caption>
+      <caption>A small bathroom with a shower and a toilet.</caption>
+    </captions>
+</image>

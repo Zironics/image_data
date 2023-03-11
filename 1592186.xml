@@ -1,0 +1,95 @@
+<image>
+  <image-id>1592186</image-id>
+  <coco-id>363469</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4081030</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1607085</subject>
+      <object>1607086</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081031</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1607087</subject>
+      <object>1607088</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081032</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1607087</subject>
+      <object>1607090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081033</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1607091</subject>
+      <object>1607092</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>elbow</name>
+      <h>58</h>
+      <object_id>1607085</object_id>
+      <w>108</w>
+      <y>308</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>169</h>
+      <object_id>1607086</object_id>
+      <w>125</w>
+      <y>197</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>73</h>
+      <object_id>1607087</object_id>
+      <w>78</w>
+      <y>603</y>
+      <x>877</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>479</h>
+      <object_id>1607088</object_id>
+      <w>99</w>
+      <y>197</y>
+      <x>877</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>570</h>
+      <object_id>1607090</object_id>
+      <w>155</w>
+      <y>103</y>
+      <x>868</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>87</h>
+      <object_id>1607091</object_id>
+      <w>134</w>
+      <y>208</y>
+      <x>856</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>87</h>
+      <object_id>1607092</object_id>
+      <w>134</w>
+      <y>208</y>
+      <x>856</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man swinging a baseball bat in a batting cage.</caption>
+      <caption>Baseball players stand and watch another take batting practice.</caption>
+      <caption>a man practices in a batting cage as other people look on</caption>
+      <caption>A batting cage is surrounded by a group of people.</caption>
+      <caption>A group of men standing around a batting cage.</caption>
+    </captions>
+</image>

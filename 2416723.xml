@@ -1,0 +1,98 @@
+<image>
+  <image-id>2416723</image-id>
+  <coco-id>427166</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3959494</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>2975104</subject>
+      <object>2975105</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3932231</relationship_id>
+      <predicate>above</predicate>
+      <subject>3364755</subject>
+      <object>3364756</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4143589</relationship_id>
+      <predicate>has</predicate>
+      <subject>2975104</subject>
+      <object>2962418</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254858</relationship_id>
+      <predicate>carried by</predicate>
+      <subject>3204908</subject>
+      <object>3792064</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>218</h>
+      <object_id>2975104</object_id>
+      <w>60</w>
+      <y>155</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>57</h>
+      <object_id>2975105</object_id>
+      <w>70</w>
+      <y>195</y>
+      <x>246</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>woman's</attribute>
+      </attributes>
+      <name>head</name>
+      <h>35</h>
+      <object_id>3364755</object_id>
+      <w>25</w>
+      <y>150</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>shouler</name>
+      <h>12</h>
+      <object_id>3364756</object_id>
+      <w>20</w>
+      <y>185</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>92</h>
+      <object_id>2962418</object_id>
+      <w>65</w>
+      <y>164</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>21</h>
+      <object_id>3204908</object_id>
+      <w>17</w>
+      <y>208</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>118</h>
+      <object_id>3792064</object_id>
+      <w>69</w>
+      <y>143</y>
+      <x>134</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl who is walking toward an airplane. </caption>
+      <caption>a group of people make their way to a air plane </caption>
+      <caption>A group people walks towards an airplane together. </caption>
+      <caption>A woman smiles over her shoulder as she walks toward an airplane.</caption>
+      <caption>A  woman looking back at the camera while boarding a plane.</caption>
+    </captions>
+</image>

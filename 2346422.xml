@@ -1,0 +1,92 @@
+<image>
+  <image-id>2346422</image-id>
+  <coco-id>364783</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2626730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>899640</subject>
+      <object>899641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2626731</relationship_id>
+      <predicate>has</predicate>
+      <subject>899646</subject>
+      <object>899649</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2626732</relationship_id>
+      <predicate>IN</predicate>
+      <subject>899648</subject>
+      <object>899654</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bar</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>soap</name>
+      <h>22</h>
+      <object_id>899640</object_id>
+      <w>21</w>
+      <y>224</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>basin</name>
+      <h>63</h>
+      <object_id>899641</object_id>
+      <w>85</w>
+      <y>243</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+        <attribute>holding</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>30</h>
+      <object_id>899646</object_id>
+      <w>29</w>
+      <y>236</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>tube</name>
+      <h>20</h>
+      <object_id>899649</object_id>
+      <w>18</w>
+      <y>212</y>
+      <x>19</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>plant</name>
+      <h>59</h>
+      <object_id>899648</object_id>
+      <w>84</w>
+      <y>86</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>window sill</name>
+      <h>77</h>
+      <object_id>899654</object_id>
+      <w>114</w>
+      <y>91</y>
+      <x>339</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white toilet sitting next to a sink near a red wall.</caption>
+      <caption>Most of the walls in the bathroom are painted red.</caption>
+      <caption>An inside view of a red walled bathroom.</caption>
+      <caption>A bathroom with colored walls, a toilet, a sink, a tub and a mirror.</caption>
+      <caption>the clean bathroom is painted red and white.</caption>
+    </captions>
+</image>

@@ -1,0 +1,96 @@
+<image>
+  <image-id>2351156</image-id>
+  <coco-id>392683</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2476580</relationship_id>
+      <predicate>OF</predicate>
+      <subject>862671</subject>
+      <object>862672</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406592</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3898410</subject>
+      <object>862670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406593</relationship_id>
+      <predicate>are right of</predicate>
+      <subject>3898411</subject>
+      <object>862670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2476581</relationship_id>
+      <predicate>ON</predicate>
+      <subject>862670</subject>
+      <object>862671</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>railway</attribute>
+        <attribute>lay</attribute>
+        <attribute>between</attribute>
+        <attribute>next</attribute>
+      </attributes>
+      <name>track</name>
+      <h>26</h>
+      <object_id>862671</object_id>
+      <w>118</w>
+      <y>238</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>railway</name>
+      <h>21</h>
+      <object_id>862672</object_id>
+      <w>41</w>
+      <y>257</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>24</h>
+      <object_id>3898410</object_id>
+      <w>158</w>
+      <y>237</y>
+      <x>142</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>wheel</attribute>
+        <attribute>car</attribute>
+        <attribute>white</attribute>
+        <attribute>number</attribute>
+        <attribute>track</attribute>
+        <attribute>door</attribute>
+        <attribute>traffic</attribute>
+        <attribute>warning</attribute>
+      </attributes>
+      <name>train</name>
+      <h>235</h>
+      <object_id>862670</object_id>
+      <w>296</w>
+      <y>12</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>90</h>
+      <object_id>3898411</object_id>
+      <w>68</w>
+      <y>189</y>
+      <x>422</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train on the tracks next to a wooded area.</caption>
+      <caption>A yellow and white four car train on the tracks.</caption>
+      <caption>a train drives across a big open field</caption>
+      <caption>The bus is travelling alongside the tall weeds.</caption>
+      <caption>The train is on one side of the track.</caption>
+    </captions>
+</image>

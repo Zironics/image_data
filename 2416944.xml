@@ -1,0 +1,116 @@
+<image>
+  <image-id>2416944</image-id>
+  <coco-id>475711</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4090076</relationship_id>
+      <predicate>with</predicate>
+      <subject>2760777</subject>
+      <object>3712077</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4242213</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3785640</subject>
+      <object>3785641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4242212</relationship_id>
+      <predicate>has</predicate>
+      <subject>2760777</subject>
+      <object>3785641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3702511</relationship_id>
+      <predicate>playing on</predicate>
+      <subject>2760777</subject>
+      <object>3014424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4131743</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2852573</subject>
+      <object>2852574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3702513</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3785640</subject>
+      <object>2760777</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>312</h>
+      <object_id>2760777</object_id>
+      <w>405</w>
+      <y>10</y>
+      <x>38</x>
+      <name>dog</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>51</h>
+      <object_id>3712077</object_id>
+      <w>85</w>
+      <y>242</y>
+      <x>395</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>31</h>
+      <object_id>3785640</object_id>
+      <w>72</w>
+      <y>263</y>
+      <x>405</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>28</h>
+      <object_id>3785641</object_id>
+      <w>21</w>
+      <y>253</y>
+      <x>395</x>
+    </object>
+    <object>
+      <h>342</h>
+      <object_id>3014424</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+      <name>grassy field</name>
+    </object>
+    <object>
+      <name>d-ring</name>
+      <h>14</h>
+      <object_id>2852573</object_id>
+      <w>12</w>
+      <y>240</y>
+      <x>357</x>
+    </object>
+    <object>
+      <name>collar</name>
+      <h>72</h>
+      <object_id>2852574</object_id>
+      <w>22</w>
+      <y>182</y>
+      <x>355</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown dog holding a blue frisbee in it's mouth.</caption>
+      <caption>A dog holding his tail high as he scooped up a frisbee with his mouth.</caption>
+      <caption>A dog getting a frisbee off of the ground </caption>
+      <caption>A dog picks up a Frisbee out of the grass.</caption>
+      <caption>A dog picking up a frisbee with it's teeth in the yard.</caption>
+    </captions>
+</image>

@@ -1,0 +1,88 @@
+<image>
+  <image-id>2321157</image-id>
+  <coco-id>455696</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4540292</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3962357</subject>
+      <object>2972914</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540293</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3962358</subject>
+      <object>3083614</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540294</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3131687</subject>
+      <object>3054765</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>line</name>
+      <h>61</h>
+      <object_id>3962357</object_id>
+      <w>40</w>
+      <y>269</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>strip</name>
+      <h>68</h>
+      <object_id>2972914</object_id>
+      <w>55</w>
+      <y>262</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>city scape</name>
+      <h>36</h>
+      <object_id>3962358</object_id>
+      <w>390</w>
+      <y>67</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>fog</name>
+      <h>114</h>
+      <object_id>3083614</object_id>
+      <w>334</w>
+      <y>11</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>177</h>
+      <object_id>3131687</object_id>
+      <w>479</w>
+      <y>56</y>
+      <x>12</x>
+      <name>airplane</name>
+    </object>
+    <object>
+      <name>landing strip</name>
+      <h>198</h>
+      <object_id>3054765</object_id>
+      <w>495</w>
+      <y>132</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Continental Connections plane driving on airport roadway.</caption>
+      <caption>A lear jet on a rainy tarmac waiting to take off.</caption>
+      <caption>An airplane sitting still on a airport tarmac.</caption>
+      <caption>A plane sitting on the runway during rain.</caption>
+      <caption>A Cesna or small plane is set to take flight after it stops raining</caption>
+    </captions>
+</image>

@@ -1,0 +1,51 @@
+<image>
+  <image-id>2327201</image-id>
+  <coco-id>193743</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4474500</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2784780</subject>
+      <object>2784781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4474501</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2784780</subject>
+      <object>3251329</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>player</name>
+      <h>458</h>
+      <object_id>2784780</object_id>
+      <w>223</w>
+      <y>36</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>147</h>
+      <object_id>2784781</object_id>
+      <w>22</w>
+      <y>272</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>219</h>
+      <object_id>3251329</object_id>
+      <w>57</w>
+      <y>240</y>
+      <x>273</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man standing on a tennis court waves to someone. </caption>
+      <caption>A tennis player sticks out his hand on a court</caption>
+      <caption>A tennis player on an indoor court pauses to raise three fingers in the air.</caption>
+      <caption>Man on tennis court with hand up to say stop.</caption>
+      <caption>A man holding a tennis racket is holding up his hand.</caption>
+    </captions>
+</image>

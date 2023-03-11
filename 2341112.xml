@@ -1,0 +1,51 @@
+<image>
+  <image-id>2341112</image-id>
+  <coco-id>290221</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4626042</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4160196</subject>
+      <object>4160197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580740</relationship_id>
+      <predicate>parasail</predicate>
+      <subject>4049784</subject>
+      <object>4049784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>arm</name>
+      <h>29</h>
+      <object_id>4160196</object_id>
+      <w>46</w>
+      <y>76</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>181</h>
+      <object_id>4160197</object_id>
+      <w>150</w>
+      <y>55</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>a</name>
+      <h>130</h>
+      <object_id>4049784</object_id>
+      <w>125</w>
+      <y>73</y>
+      <x>137</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Man flying a kite while on a snowboard.</caption>
+      <caption>A snowboarder using a sail to snowboard in the snow</caption>
+      <caption>kite boarder on an open span of snow</caption>
+      <caption>A snowboarder is flying a kite in the snow.</caption>
+      <caption>Man snowboarding with a kite across an open snowy field.</caption>
+    </captions>
+</image>

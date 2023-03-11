@@ -1,0 +1,71 @@
+<image>
+  <image-id>2328580</image-id>
+  <coco-id>319903</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470402</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3936053</subject>
+      <object>3165735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4470403</relationship_id>
+      <predicate>near</predicate>
+      <subject>3165736</subject>
+      <object>2789570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4148804</relationship_id>
+      <predicate>perched on</predicate>
+      <subject>3165735</subject>
+      <object>3165736</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+      </attributes>
+      <name>mouth</name>
+      <h>26</h>
+      <object_id>3936053</object_id>
+      <w>29</w>
+      <y>108</y>
+      <x>192</x>
+    </object>
+    <object>
+      <h>119</h>
+      <object_id>3165735</object_id>
+      <w>88</w>
+      <y>100</y>
+      <x>132</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ocean</attribute>
+      </attributes>
+      <name>rocks</name>
+      <h>180</h>
+      <object_id>3165736</object_id>
+      <w>500</w>
+      <y>150</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>322</h>
+      <object_id>2789570</object_id>
+      <w>490</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A calling bird is pictured on a rock near the ocean.</caption>
+      <caption>A seagull perched on a rock beside the ocean.</caption>
+      <caption>A bird standing on a rock overlooking water </caption>
+      <caption>A seagull perched on a cliff next to the ocean.</caption>
+      <caption>A bird perched on a rock by the beach.</caption>
+    </captions>
+</image>

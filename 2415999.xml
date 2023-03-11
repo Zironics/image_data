@@ -1,0 +1,109 @@
+<image>
+  <image-id>2415999</image-id>
+  <coco-id>458016</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3877989</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3371579</subject>
+      <object>3384222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3877994</relationship_id>
+      <predicate>boarding</predicate>
+      <subject>3384222</subject>
+      <object>3218944</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3877996</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3440497</subject>
+      <object>3440498</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3877997</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2987418</subject>
+      <object>3384222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3877998</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2950653</subject>
+      <object>3384222</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>blue car</name>
+      <h>85</h>
+      <object_id>3371579</object_id>
+      <w>84</w>
+      <y>142</y>
+      <x>415</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>red</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>192</h>
+      <object_id>3384222</object_id>
+      <w>415</w>
+      <y>89</y>
+      <x>84</x>
+      <name>train cars</name>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>47</h>
+      <object_id>3218944</object_id>
+      <w>51</w>
+      <y>232</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red lettering</name>
+      <h>19</h>
+      <object_id>3440497</object_id>
+      <w>53</w>
+      <y>204</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>train front</name>
+      <h>200</h>
+      <object_id>3440498</object_id>
+      <w>187</w>
+      <y>97</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>red/blue logo</name>
+      <h>123</h>
+      <object_id>2987418</object_id>
+      <w>70</w>
+      <y>123</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>80</h>
+      <object_id>2950653</object_id>
+      <w>108</w>
+      <y>113</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a train makes its way through a mountain town </caption>
+      <caption>a train that is going down a train track in front of a statoin</caption>
+      <caption>A train traveling toward a train station in a mountainous area. </caption>
+      <caption>The train is travelling down the tracks during the daytime.</caption>
+      <caption>A large long train on a steel track.</caption>
+    </captions>
+</image>

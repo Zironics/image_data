@@ -1,0 +1,206 @@
+<image>
+  <image-id>2367928</image-id>
+  <coco-id>142340</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4353899</relationship_id>
+      <predicate>with</predicate>
+      <subject>2122493</subject>
+      <object>3871548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3833748</relationship_id>
+      <predicate>for</predicate>
+      <subject>3608791</subject>
+      <object>2122493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3833750</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2122493</subject>
+      <object>3608792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3833752</relationship_id>
+      <predicate>with</predicate>
+      <subject>2122493</subject>
+      <object>3871548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3790063</relationship_id>
+      <predicate>coming out of</predicate>
+      <subject>1700130</subject>
+      <object>3871547</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353900</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>1700130</subject>
+      <object>3871547</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353901</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>1700130</subject>
+      <object>3871547</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3732497</relationship_id>
+      <predicate>has</predicate>
+      <subject>2122493</subject>
+      <object>3871548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353902</relationship_id>
+      <predicate>on</predicate>
+      <subject>3871548</subject>
+      <object>2108858</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353903</relationship_id>
+      <predicate>with</predicate>
+      <subject>2122493</subject>
+      <object>2125013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353904</relationship_id>
+      <predicate>with</predicate>
+      <subject>2122493</subject>
+      <object>3871548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353905</relationship_id>
+      <predicate>for</predicate>
+      <subject>2058144</subject>
+      <object>2122493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353906</relationship_id>
+      <predicate>for</predicate>
+      <subject>1790582</subject>
+      <object>2122493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353907</relationship_id>
+      <predicate>for</predicate>
+      <subject>1685606</subject>
+      <object>3871548</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>354</h>
+      <object_id>2122493</object_id>
+      <w>177</w>
+      <y>134</y>
+      <x>61</x>
+      <name>toilet</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> blue</attribute>
+        <attribute> for  toilet</attribute>
+        <attribute>for toilet</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>116</h>
+      <object_id>3871548</object_id>
+      <w>172</w>
+      <y>279</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>46</h>
+      <object_id>3608791</object_id>
+      <w>57</w>
+      <y>96</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>display</name>
+      <h>377</h>
+      <object_id>3608792</object_id>
+      <w>258</w>
+      <y>86</y>
+      <x>2</x>
+    </object>
+    <object>
+      <h>135</h>
+      <object_id>1700130</object_id>
+      <w>25</w>
+      <y>143</y>
+      <x>78</x>
+      <name>pipe</name>
+    </object>
+    <object>
+      <name>toilet</name>
+      <h>211</h>
+      <object_id>3871547</object_id>
+      <w>171</w>
+      <y>275</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+        <attribute>for bathroom</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>314</h>
+      <object_id>2108858</object_id>
+      <w>266</w>
+      <y>150</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> blue</attribute>
+      </attributes>
+      <name>lid</name>
+      <h>123</h>
+      <object_id>2125013</object_id>
+      <w>184</w>
+      <y>274</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> for Plumbing</attribute>
+      </attributes>
+      <name>plumbing mechanism</name>
+      <h>141</h>
+      <object_id>2058144</object_id>
+      <w>64</w>
+      <y>141</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>information</name>
+      <h>45</h>
+      <object_id>1790582</object_id>
+      <w>56</w>
+      <y>94</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Green</attribute>
+      </attributes>
+      <name>hinges</name>
+      <h>23</h>
+      <object_id>1685606</object_id>
+      <w>109</w>
+      <y>278</y>
+      <x>88</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white toilet with a blue seat on a display platform.</caption>
+      <caption>A blue, misshapen toilet seat sits on a toilet.</caption>
+      <caption>A blue toilet seat sitting on top of a toilet in a restroom.</caption>
+      <caption>Toilet with oddly shaped shiny blue toilet seat.</caption>
+      <caption>A white toilet is on display with a blue seat.</caption>
+    </captions>
+</image>

@@ -1,0 +1,73 @@
+<image>
+  <image-id>2319488</image-id>
+  <coco-id>302885</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2989321</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1001520</subject>
+      <object>1001515</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2989322</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1001516</subject>
+      <object>1001515</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2989323</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1001520</subject>
+      <object>1001515</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>flavors</attribute>
+      </attributes>
+      <name>fruit</name>
+      <h>294</h>
+      <object_id>1001520</object_id>
+      <w>440</w>
+      <y>33</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dinner</attribute>
+        <attribute>square</attribute>
+        <attribute>white</attribute>
+        <attribute>assorted</attribute>
+        <attribute>clear</attribute>
+        <attribute>edge</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>36</h>
+      <object_id>1001515</object_id>
+      <w>46</w>
+      <y>291</y>
+      <x>355</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dinner</attribute>
+        <attribute>silve</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>32</h>
+      <object_id>1001516</object_id>
+      <w>33</w>
+      <y>24</y>
+      <x>32</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The plate is decorated with a bright assortment of fruit.</caption>
+      <caption>Various fruits cut and displayed on a platter</caption>
+      <caption>A serving platter with different fruits on it.</caption>
+      <caption>A collection of fruits are stacked on a plate.</caption>
+      <caption>some slices of apples oranges watermelon and pears</caption>
+    </captions>
+</image>

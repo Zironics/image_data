@@ -1,0 +1,49 @@
+<image>
+  <image-id>2375058</image-id>
+  <coco-id>327638</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1459674</relationship_id>
+      <predicate>with</predicate>
+      <subject>584371</subject>
+      <object>584372</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cut</attribute>
+        <attribute>pepperoni</attribute>
+        <attribute>sitting</attribute>
+        <attribute>sauced</attribute>
+        <attribute>crusted</attribute>
+        <attribute>sliced</attribute>
+        <attribute>edged</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>328</h>
+      <object_id>584371</object_id>
+      <w>366</w>
+      <y>10</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metallic</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>165</h>
+      <object_id>584372</object_id>
+      <w>70</w>
+      <y>62</y>
+      <x>395</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza with pepperoni and olives on a checkered tablecloth. </caption>
+      <caption>A sliced pizza with cheese, pepperoni, and black olives.</caption>
+      <caption>A pizza is topped with pepperoni and olives.</caption>
+      <caption>A cut pizza with toppings sitting on a table.</caption>
+      <caption>A sliced pizza with pepperoni and black olives.</caption>
+    </captions>
+</image>

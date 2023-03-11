@@ -1,0 +1,76 @@
+<image>
+  <image-id>2324619</image-id>
+  <coco-id>501229</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4488318</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2755650</subject>
+      <object>3407894</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488319</relationship_id>
+      <predicate>laying on a</predicate>
+      <subject>3448436</subject>
+      <object>3448437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488320</relationship_id>
+      <predicate>covering</predicate>
+      <subject>3407893</subject>
+      <object>3407894</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>carpet</name>
+      <h>372</h>
+      <object_id>2755650</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>372</h>
+      <object_id>3407894</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>252</h>
+      <object_id>3448436</object_id>
+      <w>368</w>
+      <y>58</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>rug</name>
+      <h>373</h>
+      <object_id>3448437</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>area rug</name>
+      <h>360</h>
+      <object_id>3407893</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown cat lies down on a brown carpet.</caption>
+      <caption>Cat lackadaisical on rug, near wooden floor with piercing eyes</caption>
+      <caption>A cat laying on its side on a rug.</caption>
+      <caption>A cat laying on a rug on the floor playing with a toy.</caption>
+      <caption>A calico cat lying on a rug with a toy.</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2324444</image-id>
+  <coco-id>517929</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4524933</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3419972</subject>
+      <object>3419973</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524934</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3180359</subject>
+      <object>3180360</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524935</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2858968</subject>
+      <object>2858969</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>building</name>
+      <h>157</h>
+      <object_id>3419972</object_id>
+      <w>376</w>
+      <y>150</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>corner</name>
+      <h>158</h>
+      <object_id>3419973</object_id>
+      <w>77</w>
+      <y>151</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>53</h>
+      <object_id>3180359</object_id>
+      <w>12</w>
+      <y>246</y>
+      <x>391</x>
+    </object>
+    <object>
+      <name>street corner</name>
+      <h>112</h>
+      <object_id>3180360</object_id>
+      <w>140</w>
+      <y>203</y>
+      <x>225</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>arched</attribute>
+      </attributes>
+      <name>windows</name>
+      <h>53</h>
+      <object_id>2858968</object_id>
+      <w>30</w>
+      <y>234</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>181</h>
+      <object_id>2858969</object_id>
+      <w>376</w>
+      <y>137</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A building on the corner of the street at night</caption>
+      <caption>A corner building is surrounded by street lights and power lines in a city.</caption>
+      <caption>A picture of a street corner at night.</caption>
+      <caption>Old New Orleans-style tavern and apartment building along tram lines late at night.</caption>
+      <caption>a traffic light on a city street near buildings</caption>
+    </captions>
+</image>

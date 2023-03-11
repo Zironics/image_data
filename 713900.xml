@@ -1,0 +1,84 @@
+<image>
+  <image-id>713900</image-id>
+  <coco-id>296901</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4065645</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1590023</subject>
+      <object>1590024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065646</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1590025</subject>
+      <object>1590026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065647</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1590027</subject>
+      <object>1590028</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>21</h>
+      <object_id>1590023</object_id>
+      <w>74</w>
+      <y>345</y>
+      <x>583</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>453</h>
+      <object_id>1590024</object_id>
+      <w>141</w>
+      <y>336</y>
+      <x>578</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>172</h>
+      <object_id>1590025</object_id>
+      <w>58</w>
+      <y>105</y>
+      <x>483</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>563</h>
+      <object_id>1590026</object_id>
+      <w>602</w>
+      <y>19</y>
+      <x>394</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>147</h>
+      <object_id>1590027</object_id>
+      <w>76</w>
+      <y>117</y>
+      <x>599</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>620</h>
+      <object_id>1590028</object_id>
+      <w>708</w>
+      <y>3</y>
+      <x>302</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man sits on a bike on a city street </caption>
+      <caption>A man sitting on a bike in the middle of a street.</caption>
+      <caption>A rider on a bicycle wearing a helmet and stopped in a crosswalk.</caption>
+      <caption>a man standing by  a bike on a street corner</caption>
+      <caption>A man pauses at a street corner while on his bicycle.</caption>
+    </captions>
+</image>

@@ -1,0 +1,49 @@
+<image>
+  <image-id>2387607</image-id>
+  <coco-id>319345</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3499634</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1274547</subject>
+      <object>1274548</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3499635</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1274547</subject>
+      <object>1274548</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>car</name>
+      <h>72</h>
+      <object_id>1274547</object_id>
+      <w>59</w>
+      <y>198</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>road</name>
+      <h>175</h>
+      <object_id>1274548</object_id>
+      <w>139</w>
+      <y>196</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A row of motorcycles parked next to each other.</caption>
+      <caption>a group of motorcyles placed side by side parked on the street</caption>
+      <caption>A group of motorcycles by a street together.</caption>
+      <caption>A line of motorcycles parked next to parking meters.</caption>
+      <caption>A line of motorcycles parked on a street</caption>
+    </captions>
+</image>

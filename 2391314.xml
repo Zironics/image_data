@@ -1,0 +1,159 @@
+<image>
+  <image-id>2391314</image-id>
+  <coco-id>186042</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3449604</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1241600</subject>
+      <object>1241603</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449605</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1241600</subject>
+      <object>1241605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449606</relationship_id>
+      <predicate>near</predicate>
+      <subject>1241600</subject>
+      <object>1241605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449607</relationship_id>
+      <predicate>near</predicate>
+      <subject>1241600</subject>
+      <object>1241605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449608</relationship_id>
+      <predicate>covered by</predicate>
+      <subject>1241601</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449609</relationship_id>
+      <predicate>full of</predicate>
+      <subject>1241601</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449610</relationship_id>
+      <predicate>full of</predicate>
+      <subject>1241601</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449611</relationship_id>
+      <predicate>full of</predicate>
+      <subject>1241601</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449612</relationship_id>
+      <predicate>full of</predicate>
+      <subject>1241601</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449613</relationship_id>
+      <predicate>covered in</predicate>
+      <subject>1241603</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449614</relationship_id>
+      <predicate>covered by</predicate>
+      <subject>1241603</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449615</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1241604</subject>
+      <object>1241600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3449616</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1241606</subject>
+      <object>1241605</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>colored white</attribute>
+        <attribute>white</attribute>
+        <attribute>fallen</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>68</h>
+      <object_id>1241600</object_id>
+      <w>100</w>
+      <y>169</y>
+      <x>327</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snow-covered</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>144</h>
+      <object_id>1241603</object_id>
+      <w>127</w>
+      <y>131</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>41</h>
+      <object_id>1241605</object_id>
+      <w>186</w>
+      <y>143</y>
+      <x>274</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>snow-covered</attribute>
+        <attribute>colored white</attribute>
+      </attributes>
+      <name>field</name>
+      <h>142</h>
+      <object_id>1241601</object_id>
+      <w>297</w>
+      <y>137</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>90</h>
+      <object_id>1241604</object_id>
+      <w>120</w>
+      <y>174</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>sun</name>
+      <h>61</h>
+      <object_id>1241606</object_id>
+      <w>58</w>
+      <y>93</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a person skiing through the snow near some trees toward a sunset</caption>
+      <caption>This is a painting of a cross country skier traveling up a slope at sunrise.</caption>
+      <caption>Cross country skier skiing along a well-worn trail.</caption>
+      <caption>A person in ski gear skiing on slope next to trees.</caption>
+      <caption>A person in the snow on some skis.</caption>
+    </captions>
+</image>

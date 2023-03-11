@@ -1,0 +1,87 @@
+<image>
+  <image-id>1160093</image-id>
+  <coco-id>62995</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4654073</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4229968</subject>
+      <object>4229969</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691710</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4325451</subject>
+      <object>4325452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4683828</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4229969</subject>
+      <object>4305900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4683829</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4229969</subject>
+      <object>4305901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pants</name>
+      <h>288</h>
+      <object_id>4229968</object_id>
+      <w>184</w>
+      <y>389</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>515</h>
+      <object_id>4229969</object_id>
+      <w>161</w>
+      <y>166</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>189</h>
+      <object_id>4325451</object_id>
+      <w>202</w>
+      <y>184</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>374</h>
+      <object_id>4325452</object_id>
+      <w>841</w>
+      <y>351</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>microphone</name>
+      <h>42</h>
+      <object_id>4305900</object_id>
+      <w>26</w>
+      <y>256</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>258</h>
+      <object_id>4305901</object_id>
+      <w>990</w>
+      <y>502</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A news reporting team covering a breaking story.</caption>
+      <caption>A beautiful young woman standing in a crosswalk holding a microphone.</caption>
+      <caption>A reporter being filmed near the scene of an accident.</caption>
+      <caption>a reporter standing in the crosswalk in front of a cameraman</caption>
+      <caption>A man filming a women holding a microphone on a street corner.</caption>
+    </captions>
+</image>

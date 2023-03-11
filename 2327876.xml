@@ -1,0 +1,65 @@
+<image>
+  <image-id>2327876</image-id>
+  <coco-id>158684</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3626132</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3182873</subject>
+      <object>3182874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638708</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3182873</subject>
+      <object>3485503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638709</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3485503</subject>
+      <object>3485502</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>60</h>
+      <object_id>3182873</object_id>
+      <w>47</w>
+      <y>158</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>12</h>
+      <object_id>3182874</object_id>
+      <w>46</w>
+      <y>215</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>117</h>
+      <object_id>3485503</object_id>
+      <w>496</w>
+      <y>169</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>164</h>
+      <object_id>3485502</object_id>
+      <w>497</w>
+      <y>152</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in the ocean surfing on a wave. </caption>
+      <caption>A girl surfing a wave on a sunny day.</caption>
+      <caption>A girl in a bikini surfing on waves in the water.</caption>
+      <caption>Surfer wearing a bikini riding an ocean wave.</caption>
+      <caption>A woman wearing a bikini on a surfboard in the waves.</caption>
+    </captions>
+</image>

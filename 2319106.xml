@@ -1,0 +1,78 @@
+<image>
+  <image-id>2319106</image-id>
+  <coco-id>22257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4497246</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3946306</subject>
+      <object>1004630</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4497247</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3946307</subject>
+      <object>1004632</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>mane</name>
+      <h>49</h>
+      <object_id>3946306</object_id>
+      <w>41</w>
+      <y>96</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>head</attribute>
+        <attribute>tail</attribute>
+        <attribute>neck</attribute>
+        <attribute>baby</attribute>
+        <attribute>spot</attribute>
+        <attribute>black</attribute>
+        <attribute>knee</attribute>
+        <attribute>behind</attribute>
+        <attribute>white</attribute>
+        <attribute>standing</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>201</h>
+      <object_id>1004630</object_id>
+      <w>156</w>
+      <y>52</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tips</name>
+      <h>8</h>
+      <object_id>3946307</object_id>
+      <w>13</w>
+      <y>87</y>
+      <x>257</x>
+    </object>
+    <object>
+      <h>11</h>
+      <object_id>1004632</object_id>
+      <w>16</w>
+      <y>58</y>
+      <x>152</x>
+      <name>horn</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of giraffe standing next to each other near a forested hillside.</caption>
+      <caption>A group of giraffes are standing together on the veldt.</caption>
+      <caption>an image of a herd of giraffes in a plain</caption>
+      <caption>Half a dozen healthy giraffes hanging out in a field</caption>
+      <caption>A group of giraffes faces and stare in the same direction while one of the faces and stares in the other .</caption>
+    </captions>
+</image>

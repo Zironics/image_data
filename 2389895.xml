@@ -1,0 +1,91 @@
+<image>
+  <image-id>2389895</image-id>
+  <coco-id>111813</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3468501</relationship_id>
+      <predicate>over</predicate>
+      <subject>1256187</subject>
+      <object>1256188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468502</relationship_id>
+      <predicate>has</predicate>
+      <subject>1256180</subject>
+      <object>1256189</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468503</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1256180</subject>
+      <object>1256194</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468504</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1256180</subject>
+      <object>1256195</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>gird</name>
+      <h>34</h>
+      <object_id>1256187</object_id>
+      <w>14</w>
+      <y>103</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>fan</name>
+      <h>51</h>
+      <object_id>1256188</object_id>
+      <w>32</w>
+      <y>97</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mounted</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>331</h>
+      <object_id>1256180</object_id>
+      <w>189</w>
+      <y>44</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>bracket</name>
+      <h>50</h>
+      <object_id>1256189</object_id>
+      <w>43</w>
+      <y>207</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>104</h>
+      <object_id>1256194</object_id>
+      <w>217</w>
+      <y>169</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>371</h>
+      <object_id>1256195</object_id>
+      <w>491</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three mirrors with lights inside of a room.</caption>
+      <caption>Three lighted doors have gold rectangular lights above them.</caption>
+      <caption>A picture of bathroom lighting fixtures above mirrors.</caption>
+      <caption>Three mirrors mounted on a tiled wall with lights.</caption>
+      <caption>This is a fancy bathroom with nice lighting.</caption>
+    </captions>
+</image>

@@ -1,0 +1,67 @@
+<image>
+  <image-id>2405716</image-id>
+  <coco-id>183386</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>706156</relationship_id>
+      <predicate>holding</predicate>
+      <subject>372415</subject>
+      <object>372414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>706157</relationship_id>
+      <predicate>holding</predicate>
+      <subject>372415</subject>
+      <object>372414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>706158</relationship_id>
+      <predicate>has an</predicate>
+      <subject>372415</subject>
+      <object>372419</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>25</h>
+      <object_id>372415</object_id>
+      <w>21</w>
+      <y>367</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>dark</attribute>
+        <attribute>flying</attribute>
+        <attribute>floating</attribute>
+        <attribute>connected</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>73</h>
+      <object_id>372414</object_id>
+      <w>36</w>
+      <y>91</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>11</h>
+      <object_id>372419</object_id>
+      <w>7</w>
+      <y>376</y>
+      <x>256</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The person is riding a kite board in the ocean.</caption>
+      <caption>A man is kite surfing on the ocean waves.</caption>
+      <caption>A person para sailing in the ocean on a board.</caption>
+      <caption>A person kite surfing in the white capped ocean.</caption>
+      <caption>a person holding onto a big kite while riding a surfboard </caption>
+    </captions>
+</image>

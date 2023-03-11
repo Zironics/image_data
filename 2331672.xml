@@ -1,0 +1,87 @@
+<image>
+  <image-id>2331672</image-id>
+  <coco-id>303260</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4099764</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3415023</subject>
+      <object>3074671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099765</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3439580</subject>
+      <object>3715316</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099767</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2869140</subject>
+      <object>2869141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3804755</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3074671</subject>
+      <object>3415023</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glasses</name>
+      <h>15</h>
+      <object_id>3415023</object_id>
+      <w>41</w>
+      <y>121</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>230</h>
+      <object_id>3074671</object_id>
+      <w>193</w>
+      <y>90</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>lion</name>
+      <h>35</h>
+      <object_id>3439580</object_id>
+      <w>42</w>
+      <y>144</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>chest</name>
+      <h>95</h>
+      <object_id>3715316</object_id>
+      <w>117</w>
+      <y>137</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>cigarette</name>
+      <h>22</h>
+      <object_id>2869140</object_id>
+      <w>21</w>
+      <y>94</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>7</h>
+      <object_id>2869141</object_id>
+      <w>24</w>
+      <y>97</y>
+      <x>124</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men, one dressed as a Roman warrior and using the phone, standing outside.</caption>
+      <caption>A man in armor smokes and talks on a phone.</caption>
+      <caption>Man in medevil cosplay smoking a cigarette and talking on the phone next to an old man.</caption>
+      <caption>An elderly man stands next to a large armor clad youth.</caption>
+      <caption>A man in a gladiator costume talking on a cell phone and another man without a costume.</caption>
+    </captions>
+</image>

@@ -1,0 +1,245 @@
+<image>
+  <image-id>2382116</image-id>
+  <coco-id>432898</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3583774</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>1330866</subject>
+      <object>1330867</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583775</relationship_id>
+      <predicate>flying a</predicate>
+      <subject>1330866</subject>
+      <object>1330865</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583776</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1330866</subject>
+      <object>1330870</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583777</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1330873</subject>
+      <object>1330874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583778</relationship_id>
+      <predicate>are in</predicate>
+      <subject>1330876</subject>
+      <object>1330877</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583780</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1330880</subject>
+      <object>1330879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583779</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1330878</subject>
+      <object>1330879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583781</relationship_id>
+      <predicate>flying a</predicate>
+      <subject>1330866</subject>
+      <object>1330865</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583782</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1330866</subject>
+      <object>1330869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583783</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1330878</subject>
+      <object>1330875</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583784</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1330866</subject>
+      <object>1330882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583785</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1330866</subject>
+      <object>1330883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3583786</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1330875</subject>
+      <object>1330867</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>220</h>
+      <object_id>1330866</object_id>
+      <w>95</w>
+      <y>266</y>
+      <x>347</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>205</h>
+      <object_id>1330867</object_id>
+      <w>498</w>
+      <y>294</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>white black</attribute>
+        <attribute>red</attribute>
+        <attribute>black red</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>black white</attribute>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>53</h>
+      <object_id>1330865</object_id>
+      <w>69</w>
+      <y>15</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>87</h>
+      <object_id>1330870</object_id>
+      <w>74</w>
+      <y>290</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>twine</name>
+      <h>79</h>
+      <object_id>1330873</object_id>
+      <w>109</w>
+      <y>295</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>left hand</name>
+      <h>14</h>
+      <object_id>1330874</object_id>
+      <w>17</w>
+      <y>362</y>
+      <x>345</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>being flown</attribute>
+      </attributes>
+      <name>kites</name>
+      <h>41</h>
+      <object_id>1330876</object_id>
+      <w>380</w>
+      <y>235</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>177</h>
+      <object_id>1330877</object_id>
+      <w>494</w>
+      <y>101</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>8</h>
+      <object_id>1330880</object_id>
+      <w>24</w>
+      <y>311</y>
+      <x>437</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>205</h>
+      <object_id>1330879</object_id>
+      <w>497</w>
+      <y>294</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>8</h>
+      <object_id>1330878</object_id>
+      <w>38</w>
+      <y>309</y>
+      <x>261</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>khaki</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>55</h>
+      <object_id>1330869</object_id>
+      <w>41</w>
+      <y>371</y>
+      <x>382</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>thick</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>203</h>
+      <object_id>1330875</object_id>
+      <w>497</w>
+      <y>295</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>sneakers</name>
+      <h>27</h>
+      <object_id>1330882</object_id>
+      <w>47</w>
+      <y>456</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>27</h>
+      <object_id>1330883</object_id>
+      <w>25</w>
+      <y>268</y>
+      <x>384</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>The man is flying his kite in the sky. </caption>
+      <caption>A man standing on a lush green field under a kite.</caption>
+      <caption>A an flying a kite in a field away from parked cars and other flying kites.</caption>
+      <caption>Man flying kite in open field near RV park.</caption>
+      <caption>A man is bluing a kite in an open area.</caption>
+    </captions>
+</image>

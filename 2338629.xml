@@ -1,0 +1,85 @@
+<image>
+  <image-id>2338629</image-id>
+  <coco-id>539132</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4582905</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4054935</subject>
+      <object>4054936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797682</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4592826</subject>
+      <object>4054935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797683</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4592829</subject>
+      <object>4054935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797684</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4592830</subject>
+      <object>4054935</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stall wall</name>
+      <h>349</h>
+      <object_id>4054935</object_id>
+      <w>43</w>
+      <y>11</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>460</h>
+      <object_id>4054936</object_id>
+      <w>431</w>
+      <y>20</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>urinal</name>
+      <h>226</h>
+      <object_id>4592826</object_id>
+      <w>134</w>
+      <y>234</y>
+      <x>286</x>
+    </object>
+    <object>
+      <name>urinal</name>
+      <h>198</h>
+      <object_id>4592829</object_id>
+      <w>125</w>
+      <y>145</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver </attribute>
+      </attributes>
+      <name>pipe</name>
+      <h>50</h>
+      <object_id>4592830</object_id>
+      <w>32</w>
+      <y>199</y>
+      <x>336</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A urinal high off the floor next to a urinal low to the floor. </caption>
+      <caption>Urinals are shown in a men's bathroom with tiled flooring.</caption>
+      <caption>a bathroom featuring 2 urinals of different heights </caption>
+      <caption>Two urinals are shown with one placed taller than the other.</caption>
+      <caption>A couple of urinals mounted to a wall.</caption>
+    </captions>
+</image>

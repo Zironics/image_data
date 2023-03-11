@@ -1,0 +1,77 @@
+<image>
+  <image-id>2403369</image-id>
+  <coco-id>132212</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3260681</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1125401</subject>
+      <object>1125402</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260687</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1125403</subject>
+      <object>1125404</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260723</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1125403</subject>
+      <object>1125404</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260727</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1125403</subject>
+      <object>1125404</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3260728</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1125403</subject>
+      <object>1125404</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1125401</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1125402</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1125403</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1125404</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man flying through the air while riding skis.</caption>
+      <caption>A skier jumps into the sky at night.</caption>
+      <caption>A snowboarder hits a jump, earning some air, while night boarding. </caption>
+      <caption>Snowboarder making a jump at night lit from below.</caption>
+      <caption>A snowboarder flies from a ramp at night time</caption>
+    </captions>
+</image>

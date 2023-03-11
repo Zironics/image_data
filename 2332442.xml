@@ -1,0 +1,107 @@
+<image>
+  <image-id>2332442</image-id>
+  <coco-id>32054</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3917891</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2749337</subject>
+      <object>3676188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998678</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2749337</subject>
+      <object>3676188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998680</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2749337</subject>
+      <object>3676188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3748496</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2749337</subject>
+      <object>2813768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998683</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2950058</subject>
+      <object>2950059</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3748506</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3319145</subject>
+      <object>3319146</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>68</h>
+      <object_id>2749337</object_id>
+      <w>33</w>
+      <y>73</y>
+      <x>0</x>
+      <name>tree</name>
+    </object>
+    <object>
+      <name>city</name>
+      <h>493</h>
+      <object_id>3676188</object_id>
+      <w>298</w>
+      <y>4</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>city</name>
+      <h>194</h>
+      <object_id>2813768</object_id>
+      <w>176</w>
+      <y>83</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>20</h>
+      <object_id>2950058</object_id>
+      <w>19</w>
+      <y>454</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>61</h>
+      <object_id>2950059</object_id>
+      <w>303</w>
+      <y>438</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>223</h>
+      <object_id>3319145</object_id>
+      <w>145</w>
+      <y>127</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>187</h>
+      <object_id>3319146</object_id>
+      <w>233</w>
+      <y>34</y>
+      <x>51</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog standing next to an address marker and a woman holding an umbrella.</caption>
+      <caption>a dog standing near a street sign on a dirt road</caption>
+      <caption>A thin dog is standing by a marker in the road. </caption>
+      <caption>A white dog standing by a sign on the street. </caption>
+      <caption>A dog is walking alone on a dirt road.</caption>
+    </captions>
+</image>

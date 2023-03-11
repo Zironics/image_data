@@ -1,0 +1,109 @@
+<image>
+  <image-id>2390057</image-id>
+  <coco-id>578193</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3465992</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1254371</subject>
+      <object>1254364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3465993</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1254365</subject>
+      <object>1254372</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3465994</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1254373</subject>
+      <object>1254366</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3465995</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1254365</subject>
+      <object>1254372</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>name</name>
+      <h>29</h>
+      <object_id>1254371</object_id>
+      <w>81</w>
+      <y>96</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+        <attribute>black</attribute>
+        <attribute>for parking</attribute>
+        <attribute>a message</attribute>
+        <attribute>for a museum</attribute>
+        <attribute>for the vatican</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>53</h>
+      <object_id>1254364</object_id>
+      <w>105</w>
+      <y>78</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in rome</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>158</h>
+      <object_id>1254365</object_id>
+      <w>157</w>
+      <y>166</y>
+      <x>200</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>206</h>
+      <object_id>1254372</object_id>
+      <w>19</w>
+      <y>168</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>pipe</name>
+      <h>92</h>
+      <object_id>1254373</object_id>
+      <w>42</w>
+      <y>1</y>
+      <x>246</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>curved</attribute>
+        <attribute>white</attribute>
+        <attribute>stone</attribute>
+        <attribute>of famous building</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>374</h>
+      <object_id>1254366</object_id>
+      <w>320</w>
+      <y>0</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light hanging from the side of a pole.</caption>
+      <caption>A set of stop lights on the corner in a city.</caption>
+      <caption>Street lights on the corner of a building with sign on top</caption>
+      <caption>A stoplight with a sign on the top of them.</caption>
+      <caption>Two traffic lights facing opposite directions with a street sign atop the same pole.</caption>
+    </captions>
+</image>

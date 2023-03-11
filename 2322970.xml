@@ -1,0 +1,87 @@
+<image>
+  <image-id>2322970</image-id>
+  <coco-id>210426</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3742505</relationship_id>
+      <predicate>above</predicate>
+      <subject>3494223</subject>
+      <object>3367282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4533840</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3150737</subject>
+      <object>2955271</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4533841</relationship_id>
+      <predicate>has</predicate>
+      <subject>3124704</subject>
+      <object>3124705</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>84</h>
+      <object_id>3494223</object_id>
+      <w>286</w>
+      <y>27</y>
+      <x>212</x>
+      <name>bridge</name>
+    </object>
+    <object>
+      <name>railroad</name>
+      <h>155</h>
+      <object_id>3367282</object_id>
+      <w>470</w>
+      <y>168</y>
+      <x>29</x>
+    </object>
+    <object>
+      <h>43</h>
+      <object_id>3150737</object_id>
+      <w>23</w>
+      <y>121</y>
+      <x>22</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>window</name>
+      <h>73</h>
+      <object_id>2955271</object_id>
+      <w>41</w>
+      <y>116</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>74</h>
+      <object_id>3124704</object_id>
+      <w>86</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>75</h>
+      <object_id>3124705</object_id>
+      <w>85</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Passenger train traveling underneath small overpass for people.</caption>
+      <caption>A blue yellow and green train traveling down tracks.</caption>
+      <caption>a blue train is sitting on the tracks</caption>
+      <caption>A green and yellow train traveling under a green bridge. </caption>
+      <caption>A train is traveling under a bridge on some train tracks.</caption>
+    </captions>
+</image>

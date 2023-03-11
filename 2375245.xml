@@ -1,0 +1,132 @@
+<image>
+  <image-id>2375245</image-id>
+  <coco-id>95243</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4043520</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1765994</subject>
+      <object>1935864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4043524</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3693965</subject>
+      <object>3693966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4043525</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3693965</subject>
+      <object>2028919</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4043529</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>3201985</subject>
+      <object>3201986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4043530</relationship_id>
+      <predicate>with</predicate>
+      <subject>2714131</subject>
+      <object>2714132</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>36</h>
+      <object_id>1765994</object_id>
+      <w>88</w>
+      <y>158</y>
+      <x>121</x>
+      <name>car</name>
+    </object>
+    <object>
+      <name>roadway</name>
+      <h>201</h>
+      <object_id>1935864</object_id>
+      <w>497</w>
+      <y>170</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> silver</attribute>
+        <attribute> round</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>37</h>
+      <object_id>3693965</object_id>
+      <w>19</w>
+      <y>102</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>170</h>
+      <object_id>3693966</object_id>
+      <w>7</w>
+      <y>60</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>97</h>
+      <object_id>2028919</object_id>
+      <w>39</w>
+      <y>138</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> large</attribute>
+        <attribute> retangle</attribute>
+      </attributes>
+      <name>boxes</name>
+      <h>84</h>
+      <object_id>3201985</object_id>
+      <w>124</w>
+      <y>82</y>
+      <x>353</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>107</h>
+      <object_id>3201986</object_id>
+      <w>86</w>
+      <y>2</y>
+      <x>379</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> small </attribute>
+        <attribute> blue</attribute>
+      </attributes>
+      <name>flags</name>
+      <h>31</h>
+      <object_id>2714131</object_id>
+      <w>77</w>
+      <y>70</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>emblem</name>
+      <h>12</h>
+      <object_id>2714132</object_id>
+      <w>7</w>
+      <y>71</y>
+      <x>237</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of red and white road dividers in the road.</caption>
+      <caption>some buildings a silver car and a street</caption>
+      <caption>a desolate street during the with only two cars traveling on it</caption>
+      <caption>red protective barriers around a hole in the street</caption>
+      <caption>A mall car is driving through the empty street with red barriers.</caption>
+    </captions>
+</image>

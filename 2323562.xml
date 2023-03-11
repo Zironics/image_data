@@ -1,0 +1,62 @@
+<image>
+  <image-id>2323562</image-id>
+  <coco-id>71344</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4138644</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3333665</subject>
+      <object>3333666</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4530571</relationship_id>
+      <predicate>line</predicate>
+      <subject>3257854</subject>
+      <object>3257855</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skier</name>
+      <h>118</h>
+      <object_id>3333665</object_id>
+      <w>53</w>
+      <y>148</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gentle</attribute>
+      </attributes>
+      <name>slope</name>
+      <h>120</h>
+      <object_id>3333666</object_id>
+      <w>277</w>
+      <y>252</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>262</h>
+      <object_id>3257854</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ski slope</name>
+      <h>232</h>
+      <object_id>3257855</object_id>
+      <w>497</w>
+      <y>141</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a female skier skiing down a snowy hill near evergreen trees</caption>
+      <caption>A person is skiing down a slow covered slow. </caption>
+      <caption>A person skiing down a snow covered hill. </caption>
+      <caption>A person is skiing down a snowy hill.</caption>
+      <caption>A person sliding down a snow covered hill on their skis.</caption>
+    </captions>
+</image>

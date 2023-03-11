@@ -1,0 +1,44 @@
+<image>
+  <image-id>2383322</image-id>
+  <coco-id>300737</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1306789</relationship_id>
+      <predicate>has</predicate>
+      <subject>533490</subject>
+      <object>533500</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>sheep</attribute>
+        <attribute>young</attribute>
+        <attribute>afraid</attribute>
+        <attribute>in grass</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>120</h>
+      <object_id>533490</object_id>
+      <w>84</w>
+      <y>128</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>14</h>
+      <object_id>533500</object_id>
+      <w>20</w>
+      <y>134</y>
+      <x>224</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very cute goat standing in some very tall grass.</caption>
+      <caption>Wildlife animal looking at fence from tall grassy area.</caption>
+      <caption>An animal that blends in with the surround of trees and grass.</caption>
+      <caption>an animal in a field behind a fence </caption>
+      <caption>An animal stands in the tall grass next to a barbed wire fence.</caption>
+    </captions>
+</image>

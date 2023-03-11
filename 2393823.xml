@@ -1,0 +1,104 @@
+<image>
+  <image-id>2393823</image-id>
+  <coco-id>521495</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1752264</relationship_id>
+      <predicate>holding</predicate>
+      <subject>667476</subject>
+      <object>667477</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1752265</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>667476</subject>
+      <object>667481</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289781</relationship_id>
+      <predicate>growing</predicate>
+      <subject>3824444</subject>
+      <object>3824445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1752266</relationship_id>
+      <predicate>holding</predicate>
+      <subject>667476</subject>
+      <object>667477</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1752267</relationship_id>
+      <predicate>holding</predicate>
+      <subject>667476</subject>
+      <object>667477</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1752268</relationship_id>
+      <predicate>held by</predicate>
+      <subject>667477</subject>
+      <object>667476</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>71</h>
+      <object_id>667476</object_id>
+      <w>48</w>
+      <y>129</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>32</h>
+      <object_id>667477</object_id>
+      <w>18</w>
+      <y>146</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>whtie</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>19</h>
+      <object_id>667481</object_id>
+      <w>24</w>
+      <y>152</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>vines</name>
+      <h>45</h>
+      <object_id>3824444</object_id>
+      <w>95</w>
+      <y>226</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>63</h>
+      <object_id>3824445</object_id>
+      <w>161</w>
+      <y>210</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A aerial photo showing a tennis player ready to serve the ball.</caption>
+      <caption>A man stands on the outer edge of a tennis court.</caption>
+      <caption>A man is playing tennis on a tennis court. </caption>
+      <caption>A man holding a tennis racquet while standing on a tennis court.</caption>
+      <caption>An overhead view of a man about to serve a tennis ball at a tennis court.</caption>
+    </captions>
+</image>

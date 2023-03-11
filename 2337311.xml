@@ -1,0 +1,102 @@
+<image>
+  <image-id>2337311</image-id>
+  <coco-id>382006</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4666355</relationship_id>
+      <predicate>ARE ON A</predicate>
+      <subject>4260773</subject>
+      <object>4260774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4666357</relationship_id>
+      <predicate>ARE ON A</predicate>
+      <subject>4260790</subject>
+      <object>4260791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4666362</relationship_id>
+      <predicate>ON A</predicate>
+      <subject>4260790</subject>
+      <object>4260791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803452</relationship_id>
+      <predicate>in</predicate>
+      <subject>4607063</subject>
+      <object>4607061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803453</relationship_id>
+      <predicate>in</predicate>
+      <subject>4607063</subject>
+      <object>4607061</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>apples</name>
+      <h>40</h>
+      <object_id>4260773</object_id>
+      <w>28</w>
+      <y>146</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>73</h>
+      <object_id>4260774</object_id>
+      <w>39</w>
+      <y>134</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>GREEN </attribute>
+      </attributes>
+      <name>apples</name>
+      <h>66</h>
+      <object_id>4260790</object_id>
+      <w>71</w>
+      <y>130</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>WHITE </attribute>
+      </attributes>
+      <name>plate</name>
+      <h>80</h>
+      <object_id>4260791</object_id>
+      <w>83</w>
+      <y>129</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>27</h>
+      <object_id>4607063</object_id>
+      <w>29</w>
+      <y>119</y>
+      <x>379</x>
+      <name>apple</name>
+    </object>
+    <object>
+      <name>bucket</name>
+      <h>103</h>
+      <object_id>4607061</object_id>
+      <w>116</w>
+      <y>100</y>
+      <x>326</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Displays of green apples with award ribbons at a fair.</caption>
+      <caption>Homegrown granny smith apples are judged at a fair.</caption>
+      <caption>Bowls of green apples are on display with ribbons on them.</caption>
+      <caption>a bunch of apples are for sale in a market </caption>
+      <caption>Several baskets and plates that have ribbons on them and filled with apples.</caption>
+    </captions>
+</image>

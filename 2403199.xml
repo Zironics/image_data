@@ -1,0 +1,77 @@
+<image>
+  <image-id>2403199</image-id>
+  <coco-id>368363</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3263147</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1127170</subject>
+      <object>1127171</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3263153</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1127172</subject>
+      <object>1127173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3263189</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1127172</subject>
+      <object>1127173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3263193</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1127172</subject>
+      <object>1127173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3263194</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1127172</subject>
+      <object>1127173</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1127170</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1127171</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1127172</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1127173</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two zebras that are eating grass together outside</caption>
+      <caption>Two zebras are standing next to each other grazing.</caption>
+      <caption>The two zebras are standing together eating hay. </caption>
+      <caption>Two zebras stand side by side eating grass.</caption>
+      <caption>Two zebras are eating grass in a small area</caption>
+    </captions>
+</image>

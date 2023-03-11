@@ -1,0 +1,40 @@
+<image>
+  <image-id>285908</image-id>
+  <coco-id>522330</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4049571</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1570446</subject>
+      <object>1570444</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>147</h>
+      <object_id>1570446</object_id>
+      <w>216</w>
+      <y>282</y>
+      <x>272</x>
+      <name>brown head</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>laying</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>243</h>
+      <object_id>1570444</object_id>
+      <w>339</w>
+      <y>188</y>
+      <x>271</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and white dog laying next to baggage claim.</caption>
+      <caption>A working dog in a vest lies on a baggage claim area in an airport.</caption>
+      <caption>A dog laying on the ground by a suitcase.</caption>
+      <caption>Dog wearing a vest lays down next to a luggage bag.</caption>
+      <caption>The dog is laying down next to the suitcases. </caption>
+    </captions>
+</image>

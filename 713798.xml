@@ -1,0 +1,65 @@
+<image>
+  <image-id>713798</image-id>
+  <coco-id>56705</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4064703</relationship_id>
+      <predicate>of an</predicate>
+      <subject>1588871</subject>
+      <object>1588872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4064704</relationship_id>
+      <predicate>exiting</predicate>
+      <subject>3702337</subject>
+      <object>1588873</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>26</h>
+      <object_id>1588871</object_id>
+      <w>21</w>
+      <y>195</y>
+      <x>735</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+      </attributes>
+      <name>train</name>
+      <h>190</h>
+      <object_id>1588872</object_id>
+      <w>491</w>
+      <y>59</y>
+      <x>531</x>
+    </object>
+    <object>
+      <name>engineer</name>
+      <h>225</h>
+      <object_id>3702337</object_id>
+      <w>94</w>
+      <y>178</y>
+      <x>146</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>train</name>
+      <h>523</h>
+      <object_id>1588873</object_id>
+      <w>751</w>
+      <y>117</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red railroad train engine on the tracks by a platform.</caption>
+      <caption>A locomotive engine on a train track in a city.</caption>
+      <caption>A red locomotive is on the railroad tracks.</caption>
+      <caption>A red train on the tracks with a worker outside of it.</caption>
+      <caption>A man standing on the side of a train on a train track.</caption>
+    </captions>
+</image>

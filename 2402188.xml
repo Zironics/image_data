@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402188</image-id>
+  <coco-id>51200</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3280011</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1139289</subject>
+      <object>1139290</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3280019</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1139289</subject>
+      <object>1139290</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3280031</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1139289</subject>
+      <object>1139290</object>
+    </relationship>
+    <relationship>
+      <relationship_id>791832</relationship_id>
+      <predicate>sailing in front of</predicate>
+      <subject>391971</subject>
+      <object>391972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3280035</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1139289</subject>
+      <object>1139290</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>62</h>
+      <object_id>1139289</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>62</h>
+      <object_id>1139290</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>233</h>
+      <object_id>391971</object_id>
+      <w>64</w>
+      <y>154</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>mountains</name>
+      <h>140</h>
+      <object_id>391972</object_id>
+      <w>369</w>
+      <y>217</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large boat floating across a body of water.</caption>
+      <caption>A ship is sailing on a body of water.</caption>
+      <caption>A small white boat floating in a lake.</caption>
+      <caption>A boat is sailing down the open water</caption>
+      <caption>A large white sailboat in a body of water surrounded by hills.</caption>
+    </captions>
+</image>

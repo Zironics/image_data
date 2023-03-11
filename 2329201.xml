@@ -1,0 +1,119 @@
+<image>
+  <image-id>2329201</image-id>
+  <coco-id>98276</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4590273</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4072125</subject>
+      <object>4072126</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4831448</relationship_id>
+      <predicate>on</predicate>
+      <subject>4675672</subject>
+      <object>4675671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4831449</relationship_id>
+      <predicate>on</predicate>
+      <subject>4675673</subject>
+      <object>4675671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4831450</relationship_id>
+      <predicate>on</predicate>
+      <subject>4675676</subject>
+      <object>4675671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4831451</relationship_id>
+      <predicate>on</predicate>
+      <subject>4675677</subject>
+      <object>4675671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4831452</relationship_id>
+      <predicate />
+      <subject>4675679</subject>
+      <object>4675679</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>370</h>
+      <object_id>4072125</object_id>
+      <w>160</w>
+      <y>2</y>
+      <x>339</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>plaid</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>367</h>
+      <object_id>4072126</object_id>
+      <w>149</w>
+      <y>2</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>coconut shaving</name>
+      <h>22</h>
+      <object_id>4675672</object_id>
+      <w>35</w>
+      <y>63</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>pastry</name>
+      <h>235</h>
+      <object_id>4675671</object_id>
+      <w>270</w>
+      <y>61</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>coconut shaving</name>
+      <h>30</h>
+      <object_id>4675673</object_id>
+      <w>20</w>
+      <y>146</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>coconut shaving</name>
+      <h>36</h>
+      <object_id>4675676</object_id>
+      <w>30</w>
+      <y>120</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>coconut shaving</name>
+      <h>25</h>
+      <object_id>4675677</object_id>
+      <w>15</w>
+      <y>143</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>this</name>
+      <h>49</h>
+      <object_id>4675679</object_id>
+      <w>72</w>
+      <y>204</y>
+      <x>240</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person that is holding doughnuts on a white paper.</caption>
+      <caption>Hands holding a bowl of food on top of paper.  </caption>
+      <caption>A person holding a bowl full of Cinnamon buns.</caption>
+      <caption>a person that is holding some food in hand</caption>
+      <caption>A cup holds a brown and tan striped dessert.</caption>
+    </captions>
+</image>

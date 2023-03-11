@@ -1,0 +1,73 @@
+<image>
+  <image-id>2340635</image-id>
+  <coco-id>84548</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4659103</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4242550</subject>
+      <object>4242549</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4703472</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4352882</subject>
+      <object>4352883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4659123</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4352882</subject>
+      <object>4242615</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>marks</name>
+      <h>26</h>
+      <object_id>4242550</object_id>
+      <w>43</w>
+      <y>296</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>panel</name>
+      <h>62</h>
+      <object_id>4242549</object_id>
+      <w>98</w>
+      <y>277</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>cell phone</name>
+      <h>238</h>
+      <object_id>4352882</object_id>
+      <w>236</w>
+      <y>102</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>395</h>
+      <object_id>4352883</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>300</h>
+      <object_id>4242615</object_id>
+      <w>427</w>
+      <y>82</y>
+      <x>48</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of a broken cell phone on the ground.</caption>
+      <caption>This is a broken cell phone on the ground.</caption>
+      <caption>A cell phone broken into multiple pieces in the street.</caption>
+      <caption>A destroyed smart phone laying in the middle of a street.</caption>
+      <caption>A broken cell phone lies in pieces on asphalt.</caption>
+    </captions>
+</image>

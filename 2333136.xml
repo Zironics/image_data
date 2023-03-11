@@ -1,0 +1,155 @@
+<image>
+  <image-id>2333136</image-id>
+  <coco-id>482407</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4833840</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>4681743</subject>
+      <object>4681744</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4680169</relationship_id>
+      <predicate>entering</predicate>
+      <subject>4295947</subject>
+      <object>4295948</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4680170</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4295950</subject>
+      <object>4681744</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4833842</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4681751</subject>
+      <object>4681743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4680353</relationship_id>
+      <predicate>entering</predicate>
+      <subject>4681743</subject>
+      <object>4296452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4833846</relationship_id>
+      <predicate>are entering</predicate>
+      <subject>4681743</subject>
+      <object>4681777</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4833847</relationship_id>
+      <predicate>are entering</predicate>
+      <subject>4681743</subject>
+      <object>4681778</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4833848</relationship_id>
+      <predicate>are entering</predicate>
+      <subject>4681743</subject>
+      <object>4681778</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4833849</relationship_id>
+      <predicate>are entering</predicate>
+      <subject>4681743</subject>
+      <object>4681782</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bear cub</name>
+      <h>46</h>
+      <object_id>4681743</object_id>
+      <w>48</w>
+      <y>215</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>138</h>
+      <object_id>4681744</object_id>
+      <w>378</w>
+      <y>208</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>bear cub</name>
+      <h>46</h>
+      <object_id>4295947</object_id>
+      <w>49</w>
+      <y>213</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>278</h>
+      <object_id>4295948</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>lines</name>
+      <h>50</h>
+      <object_id>4295950</object_id>
+      <w>139</w>
+      <y>282</y>
+      <x>360</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>143</h>
+      <object_id>4681751</object_id>
+      <w>164</w>
+      <y>93</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>284</h>
+      <object_id>4296452</object_id>
+      <w>389</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>some</attribute>
+      </attributes>
+      <name>woods</name>
+      <h>237</h>
+      <object_id>4681777</object_id>
+      <w>352</w>
+      <y>27</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>some</attribute>
+      </attributes>
+      <name>woods</name>
+      <h>255</h>
+      <object_id>4681778</object_id>
+      <w>375</w>
+      <y>17</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>251</h>
+      <object_id>4681782</object_id>
+      <w>349</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>some animals crossing the road in front of a car</caption>
+      <caption>A mother bear leads the way off of the road with her cub.</caption>
+      <caption>small animals that look like baby bears cross the street and go into the bushes </caption>
+      <caption>Some young bears cross a forest highway in the daytime.</caption>
+      <caption>Pair of bears crossing the road as car passes by.</caption>
+    </captions>
+</image>

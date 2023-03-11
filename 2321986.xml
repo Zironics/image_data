@@ -1,0 +1,59 @@
+<image>
+  <image-id>2321986</image-id>
+  <coco-id>336511</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4690916</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>4323578</subject>
+      <object>4323579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690918</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4323582</subject>
+      <object>4323582</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>lying</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>40</h>
+      <object_id>4323578</object_id>
+      <w>95</w>
+      <y>118</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>235</h>
+      <object_id>4323579</object_id>
+      <w>220</w>
+      <y>42</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>cement</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>114</h>
+      <object_id>4323582</object_id>
+      <w>76</w>
+      <y>94</y>
+      <x>13</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of cats sleeping on top of wooden benches.</caption>
+      <caption>Four cats sleeping on four separate park benches</caption>
+      <caption>Cats sleeping curled up on wooden park benches.</caption>
+      <caption>Four benches and there is a cat on each bench.</caption>
+      <caption>Four benches outside on a paved path with a cat sleeping on each bench.</caption>
+    </captions>
+</image>

@@ -1,0 +1,63 @@
+<image>
+  <image-id>2415151</image-id>
+  <coco-id>158754</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>140083</relationship_id>
+      <predicate>has</predicate>
+      <subject>144975</subject>
+      <object>144976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>140082</relationship_id>
+      <predicate>ON</predicate>
+      <subject>144971</subject>
+      <object>144972</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>100</h>
+      <object_id>144975</object_id>
+      <w>156</w>
+      <y>296</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>66</h>
+      <object_id>144976</object_id>
+      <w>40</w>
+      <y>298</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>47</h>
+      <object_id>144971</object_id>
+      <w>181</w>
+      <y>36</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>mountains</name>
+      <h>195</h>
+      <object_id>144972</object_id>
+      <w>498</w>
+      <y>38</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A horse grazes in a field in front of mountains.</caption>
+      <caption>A brown and white horse is grazing on grass.</caption>
+      <caption>A white and brown horse grazing on grass in a field.</caption>
+      <caption>A brown and white horse grazing in the green grass.</caption>
+      <caption>A horse grazing on a countryside near a ranch house.</caption>
+    </captions>
+</image>

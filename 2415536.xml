@@ -1,0 +1,37 @@
+<image>
+  <image-id>2415536</image-id>
+  <coco-id>170999</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3950670</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3417683</subject>
+      <object>3417684</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>phone</name>
+      <h>85</h>
+      <object_id>3417683</object_id>
+      <w>42</w>
+      <y>183</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>272</h>
+      <object_id>3417684</object_id>
+      <w>496</w>
+      <y>56</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A phone is shown propped up on a rock.</caption>
+      <caption>A cell phone propped up a against a rock.</caption>
+      <caption>cell phone leaning against a rock on dirt road</caption>
+      <caption>A cell phone leaning against a rock on the side of a dirt road.</caption>
+      <caption>A smartphone propped up against a rock on a rocky trail.</caption>
+    </captions>
+</image>

@@ -1,0 +1,118 @@
+<image>
+  <image-id>2332513</image-id>
+  <coco-id>382668</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4089359</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3391979</subject>
+      <object>2879152</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089360</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2879151</subject>
+      <object>2879152</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089361</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2997924</subject>
+      <object>2992577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463101</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>3023721</subject>
+      <object>3932129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463102</relationship_id>
+      <predicate>lying with</predicate>
+      <subject>3391979</subject>
+      <object>2992577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463103</relationship_id>
+      <predicate>with raised</predicate>
+      <subject>3391979</subject>
+      <object>3391980</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>265</h>
+      <object_id>3391979</object_id>
+      <w>342</w>
+      <y>32</y>
+      <x>0</x>
+      <name>dog</name>
+    </object>
+    <object>
+      <name>pillow</name>
+      <h>80</h>
+      <object_id>2879152</object_id>
+      <w>310</w>
+      <y>267</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>dogs</name>
+      <h>320</h>
+      <object_id>2879151</object_id>
+      <w>249</w>
+      <y>40</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>85</h>
+      <object_id>2997924</object_id>
+      <w>75</w>
+      <y>39</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>330</h>
+      <object_id>2992577</object_id>
+      <w>247</w>
+      <y>42</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>floral</attribute>
+      </attributes>
+      <name>design</name>
+      <h>34</h>
+      <object_id>3023721</object_id>
+      <w>38</w>
+      <y>50</y>
+      <x>286</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>372</h>
+      <object_id>3932129</object_id>
+      <w>494</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>200</h>
+      <object_id>3391980</object_id>
+      <w>194</w>
+      <y>32</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two adorable chubby dogs sleeping next to each other.</caption>
+      <caption>Two small, fluffy dogs lazing in the sun</caption>
+      <caption>THERE ARE DOGS SITTING DOWN ON THE COUCH </caption>
+      <caption>Two fuzzy puppies sleep on a towel next to a window.</caption>
+      <caption>two brown dogs are sitting on a chair</caption>
+    </captions>
+</image>

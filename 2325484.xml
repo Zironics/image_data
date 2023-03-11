@@ -1,0 +1,125 @@
+<image>
+  <image-id>2325484</image-id>
+  <coco-id>184003</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3719229</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3415958</subject>
+      <object>3073544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3719231</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3335368</subject>
+      <object>3335369</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4017665</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3500889</subject>
+      <object>3335368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4155885</relationship_id>
+      <predicate>stepping on</predicate>
+      <subject>3500889</subject>
+      <object>3335368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483919</relationship_id>
+      <predicate>tied in</predicate>
+      <subject>2813762</subject>
+      <object>2813762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4101687</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2952848</subject>
+      <object>2952847</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>well-worn</attribute>
+      </attributes>
+      <h>71</h>
+      <object_id>3415958</object_id>
+      <w>72</w>
+      <y>149</y>
+      <x>244</x>
+      <name>skateboard wheel</name>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>163</h>
+      <object_id>3073544</object_id>
+      <w>271</w>
+      <y>2</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black skateboard</name>
+      <h>235</h>
+      <object_id>3335368</object_id>
+      <w>375</w>
+      <y>0</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>283</h>
+      <object_id>3335369</object_id>
+      <w>492</w>
+      <y>45</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>153</h>
+      <object_id>3500889</object_id>
+      <w>191</w>
+      <y>50</y>
+      <x>0</x>
+      <name>foot</name>
+    </object>
+    <object>
+      <h>109</h>
+      <object_id>2813762</object_id>
+      <w>108</w>
+      <y>4</y>
+      <x>0</x>
+      <name>bow</name>
+    </object>
+    <object>
+      <name>sole</name>
+      <h>95</h>
+      <object_id>2952848</object_id>
+      <w>183</w>
+      <y>107</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>167</h>
+      <object_id>2952847</object_id>
+      <w>188</w>
+      <y>40</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skateboarder propping their board up with their foot.</caption>
+      <caption>A foot pushes down on the end of a skateboard</caption>
+      <caption>A skateboard is being stopped by a person's shoe used as a brake.</caption>
+      <caption>A persons foot down on one end of a skateboard keeping the other end in the air.</caption>
+      <caption>a person resting their foot on  a skateboard with a worn out wheel</caption>
+    </captions>
+</image>

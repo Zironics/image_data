@@ -1,0 +1,65 @@
+<image>
+  <image-id>2332394</image-id>
+  <coco-id>374454</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4029658</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3108671</subject>
+      <object>3108672</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3753730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3108671</subject>
+      <object>3428532</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998999</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3108671</subject>
+      <object>2924044</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>171</h>
+      <object_id>3108671</object_id>
+      <w>492</w>
+      <y>5</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>117</h>
+      <object_id>3108672</object_id>
+      <w>61</w>
+      <y>0</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>85</h>
+      <object_id>3428532</object_id>
+      <w>37</w>
+      <y>50</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>147</h>
+      <object_id>2924044</object_id>
+      <w>499</w>
+      <y>4</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man who is walking towards a car in the snow.</caption>
+      <caption>A man walking through the snow to his car.</caption>
+      <caption>A man standing behind a parked van on top of snow.</caption>
+      <caption>A man at the back of a van with the back open in between two other vehicles with their backs open in the snow.</caption>
+      <caption>A bunch of cars parked in the snow by the woods.</caption>
+    </captions>
+</image>

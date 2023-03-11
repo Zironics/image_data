@@ -1,0 +1,72 @@
+<image>
+  <image-id>2363100</image-id>
+  <coco-id>26185</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4176874</relationship_id>
+      <predicate>crashing on</predicate>
+      <subject>768311</subject>
+      <object>3747194</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4176875</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3747196</subject>
+      <object>768309</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>sea</attribute>
+      </attributes>
+      <name>waves</name>
+      <h>56</h>
+      <object_id>768311</object_id>
+      <w>60</w>
+      <y>74</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>shore</name>
+      <h>65</h>
+      <object_id>3747194</object_id>
+      <w>315</w>
+      <y>50</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>surfer</name>
+      <h>81</h>
+      <object_id>3747196</object_id>
+      <w>42</w>
+      <y>55</y>
+      <x>59</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>big</attribute>
+        <attribute>pointed</attribute>
+        <attribute>under</attribute>
+        <attribute>white</attribute>
+        <attribute>surf</attribute>
+        <attribute>sharpy</attribute>
+      </attributes>
+      <name>board</name>
+      <h>67</h>
+      <object_id>768309</object_id>
+      <w>111</w>
+      <y>69</y>
+      <x>40</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man with a surfboard walking on the shore near an ocean.</caption>
+      <caption>A surfer carries his board down toward the sea.</caption>
+      <caption>A person carrying a yellow surfboard along a road.</caption>
+      <caption>a person holding a surf board walking down a hill</caption>
+      <caption>A person with a surfboard stands on dunes, overlooking the waves below.</caption>
+    </captions>
+</image>

@@ -1,0 +1,70 @@
+<image>
+  <image-id>2383245</image-id>
+  <coco-id>117222</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1308157</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534138</subject>
+      <object>534142</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308167</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534137</subject>
+      <object>534142</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308168</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534137</subject>
+      <object>534142</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308169</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534137</subject>
+      <object>534142</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>smoking</attribute>
+        <attribute>biking</attribute>
+      </attributes>
+      <name>man</name>
+      <h>130</h>
+      <object_id>534138</object_id>
+      <w>73</w>
+      <y>25</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>93</h>
+      <object_id>534142</object_id>
+      <w>231</w>
+      <y>159</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bananas</name>
+      <h>133</h>
+      <object_id>534137</object_id>
+      <w>166</w>
+      <y>89</y>
+      <x>137</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on bicycle carrying bunches of bananas through street.</caption>
+      <caption>A man on a bicycle transporting many branches of green bananas</caption>
+      <caption>Two men ride a bicycle contraption with a big load of bananas. </caption>
+      <caption>The Asian banana peddlars carry  produce on their bicycles.</caption>
+      <caption>A man riding a bike with bananas on a street.</caption>
+    </captions>
+</image>

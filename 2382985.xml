@@ -1,0 +1,179 @@
+<image>
+  <image-id>2382985</image-id>
+  <coco-id>271977</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1313912</relationship_id>
+      <predicate>IN</predicate>
+      <subject>535888</subject>
+      <object>535889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4293654</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3830712</subject>
+      <object>3830713</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313913</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>535895</subject>
+      <object>535892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313914</relationship_id>
+      <predicate>ON</predicate>
+      <subject>535893</subject>
+      <object>535897</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313915</relationship_id>
+      <predicate>IN</predicate>
+      <subject>535888</subject>
+      <object>535889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313916</relationship_id>
+      <predicate>under</predicate>
+      <subject>535894</subject>
+      <object>535888</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313917</relationship_id>
+      <predicate>are in</predicate>
+      <subject>535888</subject>
+      <object>535889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313918</relationship_id>
+      <predicate>in a</predicate>
+      <subject>535888</subject>
+      <object>535889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313919</relationship_id>
+      <predicate>IN</predicate>
+      <subject>535888</subject>
+      <object>535889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4293655</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3830712</subject>
+      <object>535888</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1313920</relationship_id>
+      <predicate>ON</predicate>
+      <subject>535890</subject>
+      <object>535894</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pizza</name>
+      <h>299</h>
+      <object_id>535888</object_id>
+      <w>355</w>
+      <y>19</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>made of cardboard</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>box</name>
+      <h>323</h>
+      <object_id>535889</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>crust</name>
+      <h>35</h>
+      <object_id>3830712</object_id>
+      <w>32</w>
+      <y>207</y>
+      <x>325</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>254</h>
+      <object_id>3830713</object_id>
+      <w>230</w>
+      <y>54</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>seasoning</name>
+      <h>132</h>
+      <object_id>535895</object_id>
+      <w>230</w>
+      <y>37</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thinly sliced</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>tomato</name>
+      <h>63</h>
+      <object_id>535892</object_id>
+      <w>66</w>
+      <y>80</y>
+      <x>329</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>melted</attribute>
+      </attributes>
+      <h>243</h>
+      <object_id>535893</object_id>
+      <w>217</w>
+      <y>50</y>
+      <x>65</x>
+      <name>cheese</name>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>274</h>
+      <object_id>535897</object_id>
+      <w>245</w>
+      <y>44</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>made out of wax</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>parchment paper</name>
+      <h>261</h>
+      <object_id>535894</object_id>
+      <w>371</w>
+      <y>17</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>splattering</attribute>
+      </attributes>
+      <name>splat of grease</name>
+      <h>86</h>
+      <object_id>535890</object_id>
+      <w>39</w>
+      <y>221</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>TWO PIECES OF PIZZA BOTH DIFFERENT IN A BOX</caption>
+      <caption>Two slices of different kind of pizza in a box.</caption>
+      <caption>Two different slices of pizza in a pizza box.</caption>
+      <caption>Two vegetable pizza slices are inside of a box.</caption>
+      <caption>Two pieces of pizza are sitting in a cardboard tray.</caption>
+    </captions>
+</image>

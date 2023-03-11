@@ -1,0 +1,98 @@
+<image>
+  <image-id>2405236</image-id>
+  <coco-id>13901</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4626509</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4161388</subject>
+      <object>4161389</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626510</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4161392</subject>
+      <object>4161393</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626511</relationship_id>
+      <predicate>running above</predicate>
+      <subject>4161395</subject>
+      <object>4161397</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626512</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4161397</subject>
+      <object>4161398</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>grass patches</name>
+      <h>95</h>
+      <object_id>4161388</object_id>
+      <w>480</w>
+      <y>262</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>125</h>
+      <object_id>4161389</object_id>
+      <w>493</w>
+      <y>249</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>84</h>
+      <object_id>4161392</object_id>
+      <w>290</w>
+      <y>290</y>
+      <x>64</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>109</h>
+      <object_id>4161393</object_id>
+      <w>491</w>
+      <y>265</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>power lines</name>
+      <h>73</h>
+      <object_id>4161395</object_id>
+      <w>271</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>276</h>
+      <object_id>4161397</object_id>
+      <w>404</w>
+      <y>71</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>100</h>
+      <object_id>4161398</object_id>
+      <w>364</w>
+      <y>271</y>
+      <x>105</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a old train that is parked on a old track</caption>
+      <caption>A view of a train on a track, looks to be in a station.</caption>
+      <caption>A train and the caboose are on on track, but not moving.</caption>
+      <caption>The rear of a train that is sitting on a track.</caption>
+      <caption>A very old boxcar on an old train parked in a yard.</caption>
+    </captions>
+</image>

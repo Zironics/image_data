@@ -1,0 +1,156 @@
+<image>
+  <image-id>2349093</image-id>
+  <coco-id>303586</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4416460</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2043158</subject>
+      <object>3601152</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4416461</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3601151</subject>
+      <object>3601152</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4416462</relationship_id>
+      <predicate>beneath a</predicate>
+      <subject>2561422</subject>
+      <object>2561423</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4416463</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2620391</subject>
+      <object>1970164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4416464</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2413384</subject>
+      <object>3904062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3816867</relationship_id>
+      <predicate>covering</predicate>
+      <subject>1970163</subject>
+      <object>1970164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4416465</relationship_id>
+      <predicate>wrapped under a</predicate>
+      <subject>2575058</subject>
+      <object>2575057</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>peppers</name>
+      <h>125</h>
+      <object_id>2043158</object_id>
+      <w>175</w>
+      <y>216</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>hot dog</name>
+      <h>208</h>
+      <object_id>3601152</object_id>
+      <w>290</w>
+      <y>214</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>onions</name>
+      <h>75</h>
+      <object_id>3601151</object_id>
+      <w>60</w>
+      <y>313</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>coaster</name>
+      <h>107</h>
+      <object_id>2561422</object_id>
+      <w>192</w>
+      <y>86</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>142</h>
+      <object_id>2561423</object_id>
+      <w>153</w>
+      <y>0</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>toppings</name>
+      <h>232</h>
+      <object_id>2620391</object_id>
+      <w>310</w>
+      <y>200</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>hot dog</name>
+      <h>299</h>
+      <object_id>1970164</object_id>
+      <w>365</w>
+      <y>192</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clam</attribute>
+      </attributes>
+      <name>chowder</name>
+      <h>71</h>
+      <object_id>2413384</object_id>
+      <w>74</w>
+      <y>335</y>
+      <x>424</x>
+    </object>
+    <object>
+      <name>container</name>
+      <h>51</h>
+      <object_id>3904062</object_id>
+      <w>69</w>
+      <y>385</y>
+      <x>416</x>
+    </object>
+    <object>
+      <name>vegetables</name>
+      <h>197</h>
+      <object_id>1970163</object_id>
+      <w>247</w>
+      <y>213</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>tissue</name>
+      <h>104</h>
+      <object_id>2575058</object_id>
+      <w>148</w>
+      <y>229</y>
+      <x>332</x>
+    </object>
+    <object>
+      <name>hot dog</name>
+      <h>260</h>
+      <object_id>2575057</object_id>
+      <w>310</w>
+      <y>227</y>
+      <x>21</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This is a hotdog with french fries on a table.</caption>
+      <caption>A sandwich with fries and a wine glass in the background.</caption>
+      <caption>a close up of a hot dog and some french fries </caption>
+      <caption>A table of food that includes a hotdog and french fries.</caption>
+      <caption>a hot dog sits next to a basket of fries </caption>
+    </captions>
+</image>

@@ -1,0 +1,107 @@
+<image>
+  <image-id>2340249</image-id>
+  <coco-id>253072</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4743405</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4449534</subject>
+      <object>4449535</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743438</relationship_id>
+      <predicate>has</predicate>
+      <subject>4449431</subject>
+      <object>4449616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743485</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4449727</subject>
+      <object>4449728</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743488</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4449735</subject>
+      <object>4449727</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>white line</name>
+      <h>228</h>
+      <object_id>4449534</object_id>
+      <w>476</w>
+      <y>99</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>320</h>
+      <object_id>4449535</object_id>
+      <w>489</w>
+      <y>0</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>playing tennis</attribute>
+      </attributes>
+      <name>man</name>
+      <h>309</h>
+      <object_id>4449431</object_id>
+      <w>204</w>
+      <y>21</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>36</h>
+      <object_id>4449616</object_id>
+      <w>72</w>
+      <y>134</y>
+      <x>275</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>wrist band</name>
+      <h>21</h>
+      <object_id>4449727</object_id>
+      <w>23</w>
+      <y>140</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>wrist</name>
+      <h>20</h>
+      <object_id>4449728</object_id>
+      <w>20</w>
+      <y>141</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>symbol</name>
+      <h>6</h>
+      <object_id>4449735</object_id>
+      <w>8</w>
+      <y>147</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tennis player holding a tennis racquet on a tennis court.</caption>
+      <caption>A professional tennis player hitting a shot on a clay surface court</caption>
+      <caption>A man hitting a tennis ball on a clay court.</caption>
+      <caption>A man playing tennis hits the tennis ball with his tennis racket.</caption>
+      <caption>A man is hitting a tennis ball with his racquet.</caption>
+    </captions>
+</image>

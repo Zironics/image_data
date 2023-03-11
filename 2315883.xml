@@ -1,0 +1,104 @@
+<image>
+  <image-id>2315883</image-id>
+  <coco-id>36881</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3867440</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3310371</subject>
+      <object>2897054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867441</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3310372</subject>
+      <object>2897054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252873</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>3119747</subject>
+      <object>2897054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252874</relationship_id>
+      <predicate>worn on</predicate>
+      <subject>3791248</subject>
+      <object>3791249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867443</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3033692</subject>
+      <object>2897054</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>10</h>
+      <object_id>3310371</object_id>
+      <w>14</w>
+      <y>134</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>female</attribute>
+      </attributes>
+      <h>363</h>
+      <object_id>2897054</object_id>
+      <w>138</w>
+      <y>107</y>
+      <x>94</x>
+      <name>tennis player</name>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>6</h>
+      <object_id>3310372</object_id>
+      <w>9</w>
+      <y>138</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>13</h>
+      <object_id>3119747</object_id>
+      <w>6</w>
+      <y>132</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>sock</name>
+      <h>6</h>
+      <object_id>3791248</object_id>
+      <w>19</w>
+      <y>414</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>foot</name>
+      <h>31</h>
+      <object_id>3791249</object_id>
+      <w>22</w>
+      <y>416</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>122</h>
+      <object_id>3033692</object_id>
+      <w>35</w>
+      <y>308</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman walks along the line on a tennis court holding a racket.</caption>
+      <caption>a woman is holding a tennis racket on a court</caption>
+      <caption>Tennis player and red outfit holding a racket. </caption>
+      <caption>A woman in a red tennis dress on a blue tennis court. </caption>
+      <caption>A woman in a orange dress with a tennis racket in her hand.</caption>
+    </captions>
+</image>

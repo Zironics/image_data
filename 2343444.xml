@@ -1,0 +1,59 @@
+<image>
+  <image-id>2343444</image-id>
+  <coco-id>495352</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4775167</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4535017</subject>
+      <object>4535018</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4775168</relationship_id>
+      <predicate>has</predicate>
+      <subject>4535020</subject>
+      <object>4535019</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>door</name>
+      <h>16</h>
+      <object_id>4535017</object_id>
+      <w>10</w>
+      <y>162</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>cockpit</name>
+      <h>29</h>
+      <object_id>4535018</object_id>
+      <w>23</w>
+      <y>156</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>cockpit</name>
+      <h>30</h>
+      <object_id>4535020</object_id>
+      <w>27</w>
+      <y>156</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>12</h>
+      <object_id>4535019</object_id>
+      <w>16</w>
+      <y>158</y>
+      <x>141</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white and blue jet airliner flying in a cloudy sky.</caption>
+      <caption>An Allegiant jet in mid flight on a sunny day.</caption>
+      <caption>An airplane flying and has an a on it for the name </caption>
+      <caption>An airplane is flying against the blue sky.</caption>
+      <caption>a blue and white plane flying in the air </caption>
+    </captions>
+</image>

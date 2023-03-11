@@ -1,0 +1,63 @@
+<image>
+  <image-id>2393030</image-id>
+  <coco-id>501600</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1074549</relationship_id>
+      <predicate>has</predicate>
+      <subject>475439</subject>
+      <object>475441</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1074550</relationship_id>
+      <predicate>ON</predicate>
+      <subject>475445</subject>
+      <object>475439</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+        <attribute>burned</attribute>
+        <attribute>burnt</attribute>
+        <attribute>pizza</attribute>
+        <attribute>spicy</attribute>
+        <attribute>big</attribute>
+        <attribute>flat</attribute>
+        <attribute>plate</attribute>
+        <attribute>gourmet</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>246</h>
+      <object_id>475439</object_id>
+      <w>378</w>
+      <y>26</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>chives</name>
+      <h>31</h>
+      <object_id>475441</object_id>
+      <w>40</w>
+      <y>87</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>greens</name>
+      <h>56</h>
+      <object_id>475445</object_id>
+      <w>67</w>
+      <y>39</y>
+      <x>242</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white paper plate with a pizza topped with veggies.</caption>
+      <caption>A pizza sitting on top of a white plate on a table.</caption>
+      <caption>well mate pizza on a white plate on awooden table</caption>
+      <caption>a pizza is sitting on a white plate on a table</caption>
+      <caption>A pita is topped with onoins, carrots, and bacon.</caption>
+    </captions>
+</image>

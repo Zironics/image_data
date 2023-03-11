@@ -1,0 +1,80 @@
+<image>
+  <image-id>2359666</image-id>
+  <coco-id>232673</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4397616</relationship_id>
+      <predicate>has</predicate>
+      <subject>791817</subject>
+      <object>3892516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4397617</relationship_id>
+      <predicate>has</predicate>
+      <subject>3892518</subject>
+      <object>791827</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>larger</attribute>
+        <attribute>young</attribute>
+        <attribute>grazing</attribute>
+        <attribute>baby</attribute>
+        <attribute>graze</attribute>
+        <attribute>adult</attribute>
+        <attribute>trunk</attribute>
+        <attribute>white</attribute>
+        <attribute>tail</attribute>
+        <attribute>standiing</attribute>
+        <attribute>grey</attribute>
+        <attribute>shadow</attribute>
+        <attribute>large</attribute>
+        <attribute>partial</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>120</h>
+      <object_id>791817</object_id>
+      <w>117</w>
+      <y>182</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>162</h>
+      <object_id>3892516</object_id>
+      <w>222</w>
+      <y>143</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>164</h>
+      <object_id>3892518</object_id>
+      <w>222</w>
+      <y>142</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>biggest</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>21</h>
+      <object_id>791827</object_id>
+      <w>32</w>
+      <y>166</y>
+      <x>95</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of elephants walking across a dirt covered field.</caption>
+      <caption>A large elephant and a baby elephant walking by some trees.</caption>
+      <caption>a group of elephants walking in the sand next to some trees</caption>
+      <caption>A mama elephant and her two baby elephants. </caption>
+      <caption>an adult elephant a teen elephant and a baby elephant</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2324677</image-id>
+  <coco-id>276666</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3965972</relationship_id>
+      <predicate>with</predicate>
+      <subject>3586282</subject>
+      <object>2924442</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>giraffe</attribute>
+      </attributes>
+      <h>293</h>
+      <object_id>3586282</object_id>
+      <w>500</w>
+      <y>82</y>
+      <x>0</x>
+      <name>enclosure</name>
+    </object>
+    <object>
+      <name>giraffes</name>
+      <h>224</h>
+      <object_id>2924442</object_id>
+      <w>344</w>
+      <y>97</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Do the Giraffes find people as interesting as people find Giraffes?</caption>
+      <caption>Two giraffes looking for food near a tree</caption>
+      <caption>a couple of giraffes are standing near the street</caption>
+      <caption>This zoo enclosure features two zebras in a grassy environment.</caption>
+      <caption>a couple of girafes that are by a tree</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>2339140</image-id>
+  <coco-id>124394</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4052518</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>2658664</subject>
+      <object>3697838</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458514</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3697841</subject>
+      <object>2667219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458515</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3697841</subject>
+      <object>3106863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4052519</relationship_id>
+      <predicate>WALKING IN</predicate>
+      <subject>3477411</subject>
+      <object>3477412</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>14</h>
+      <object_id>2658664</object_id>
+      <w>16</w>
+      <y>104</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>73</h>
+      <object_id>3697838</object_id>
+      <w>499</w>
+      <y>49</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>11</h>
+      <object_id>3697841</object_id>
+      <w>90</w>
+      <y>128</y>
+      <x>255</x>
+      <name>no dog</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>35</h>
+      <object_id>2667219</object_id>
+      <w>215</w>
+      <y>57</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>52</h>
+      <object_id>3106863</object_id>
+      <w>424</w>
+      <y>54</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>42</h>
+      <object_id>3477411</object_id>
+      <w>45</w>
+      <y>103</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>43</h>
+      <object_id>3477412</object_id>
+      <w>100</w>
+      <y>40</y>
+      <x>150</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old broken skateboard laying on the beach.</caption>
+      <caption>The fender of a car has washed ashore on a beach.</caption>
+      <caption>A skateboard sitting in the sand beside the ocean. </caption>
+      <caption>a broken down skateboard on the sand near the ocean</caption>
+      <caption>A worn skateboard sits on the beach near the water. </caption>
+    </captions>
+</image>

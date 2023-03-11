@@ -1,0 +1,66 @@
+<image>
+  <image-id>2334263</image-id>
+  <coco-id>38226</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4453631</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3926657</subject>
+      <object>3467089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3952899</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2883016</subject>
+      <object>2883017</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>male</attribute>
+      </attributes>
+      <name>head</name>
+      <h>105</h>
+      <object_id>3926657</object_id>
+      <w>73</w>
+      <y>118</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>man</name>
+      <h>160</h>
+      <object_id>3467089</object_id>
+      <w>188</w>
+      <y>136</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>eyebrows</name>
+      <h>16</h>
+      <object_id>2883016</object_id>
+      <w>35</w>
+      <y>202</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>165</h>
+      <object_id>2883017</object_id>
+      <w>99</w>
+      <y>166</y>
+      <x>274</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young girl is holding her nose next to two people. </caption>
+      <caption>a lad touching her nose under a red umbrella</caption>
+      <caption>Three people are sitting outside under tents that are red.</caption>
+      <caption>A group of people standing next to each other.</caption>
+      <caption>some people under red umbrellas and one male is wearing an orange shirt</caption>
+    </captions>
+</image>

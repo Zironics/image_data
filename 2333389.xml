@@ -1,0 +1,68 @@
+<image>
+  <image-id>2333389</image-id>
+  <coco-id>111117</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4022112</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3482443</subject>
+      <object>3482444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022116</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3482443</subject>
+      <object>3482444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022129</relationship_id>
+      <predicate>with</predicate>
+      <subject>3206384</subject>
+      <object>3206385</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dead</attribute>
+      </attributes>
+      <name>branches</name>
+      <h>368</h>
+      <object_id>3482443</object_id>
+      <w>493</w>
+      <y>5</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>364</h>
+      <object_id>3482444</object_id>
+      <w>500</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bushes</name>
+      <h>325</h>
+      <object_id>3206384</object_id>
+      <w>464</w>
+      <y>31</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>58</h>
+      <object_id>3206385</object_id>
+      <w>72</w>
+      <y>109</y>
+      <x>192</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Bird perched on a high branch in a tree</caption>
+      <caption>An animal is sitting in the branch of a tree. </caption>
+      <caption>Bird sits on bare branch of tree in forest.</caption>
+      <caption>a bird relaxing in a nest of branches </caption>
+      <caption>A bird that is sitting in a tree.</caption>
+    </captions>
+</image>

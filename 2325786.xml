@@ -1,0 +1,104 @@
+<image>
+  <image-id>2325786</image-id>
+  <coco-id>91715</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3684792</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2713483</subject>
+      <object>3544566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3684796</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3133898</subject>
+      <object>3544566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482725</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3940815</subject>
+      <object>3327863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482726</relationship_id>
+      <predicate>standing behind</predicate>
+      <subject>2751453</subject>
+      <object>2751454</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>name</name>
+      <h>20</h>
+      <object_id>2713483</object_id>
+      <w>70</w>
+      <y>82</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>331</h>
+      <object_id>3544566</object_id>
+      <w>308</w>
+      <y>32</y>
+      <x>91</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white lights</name>
+      <h>68</h>
+      <object_id>3133898</object_id>
+      <w>252</w>
+      <y>226</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>windshield</attribute>
+      </attributes>
+      <name>wipers</name>
+      <h>70</h>
+      <object_id>3940815</object_id>
+      <w>153</w>
+      <y>89</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>274</h>
+      <object_id>3327863</object_id>
+      <w>380</w>
+      <y>50</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>59</h>
+      <object_id>2751453</object_id>
+      <w>66</w>
+      <y>197</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>trucks</name>
+      <h>322</h>
+      <object_id>2751454</object_id>
+      <w>407</w>
+      <y>31</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Red and white commercial truck parked on open lot.</caption>
+      <caption>A red truck parked in a lot on a sunny day</caption>
+      <caption>The people are loading the big red truck.,</caption>
+      <caption>A old trick moving a house with people around</caption>
+      <caption>a cargo hauling truck sits next to another truck in front of some people</caption>
+    </captions>
+</image>

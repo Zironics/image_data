@@ -1,0 +1,91 @@
+<image>
+  <image-id>2386425</image-id>
+  <coco-id>220390</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4591421</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4074926</subject>
+      <object>4074937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4591422</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4074928</subject>
+      <object>4074929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4591425</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4074935</subject>
+      <object>4074937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4591426</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4074937</subject>
+      <object>4074938</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>evergreen</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>151</h>
+      <object_id>4074926</object_id>
+      <w>116</w>
+      <y>10</y>
+      <x>99</x>
+    </object>
+    <object>
+      <h>200</h>
+      <object_id>4074937</object_id>
+      <w>352</w>
+      <y>123</y>
+      <x>4</x>
+      <name>bus</name>
+    </object>
+    <object>
+      <name>ladder</name>
+      <h>179</h>
+      <object_id>4074928</object_id>
+      <w>60</w>
+      <y>132</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>172</h>
+      <object_id>4074929</object_id>
+      <w>157</w>
+      <y>123</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>side window</name>
+      <h>53</h>
+      <object_id>4074935</object_id>
+      <w>27</w>
+      <y>148</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>175</h>
+      <object_id>4074938</object_id>
+      <w>447</w>
+      <y>235</y>
+      <x>34</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white bus driving down a street next to people.</caption>
+      <caption>An old bus that is parked on the street out side.</caption>
+      <caption>Little taxi like car rides pass the big bus</caption>
+      <caption>A bus with metal steps on the back and blue stripes on the side.</caption>
+      <caption>A passenger bus that is driving down a street.</caption>
+    </captions>
+</image>

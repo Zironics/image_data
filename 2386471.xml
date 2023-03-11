@@ -1,0 +1,41 @@
+<image>
+  <image-id>2386471</image-id>
+  <coco-id>467973</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4590416</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4072535</subject>
+      <object>4072536</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>white</name>
+      <h>68</h>
+      <object_id>4072535</object_id>
+      <w>52</w>
+      <y>380</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>checked</attribute>
+      </attributes>
+      <name>cloth</name>
+      <h>63</h>
+      <object_id>4072536</object_id>
+      <w>27</w>
+      <y>346</y>
+      <x>306</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bottle and a glass on a white table cloth</caption>
+      <caption>A bottle beverage next to a wine glass sitting on a table.</caption>
+      <caption>Bottle of beer and a glass half full of beer.</caption>
+      <caption>A large glass half full beside a bottled adult beverage.</caption>
+      <caption>the glass is filled with a beverage on a table top</caption>
+    </captions>
+</image>

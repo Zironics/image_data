@@ -1,0 +1,82 @@
+<image>
+  <image-id>2368088</image-id>
+  <coco-id>559701</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4352234</relationship_id>
+      <predicate>has</predicate>
+      <subject>2369686</subject>
+      <object>2369687</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4352235</relationship_id>
+      <predicate>against</predicate>
+      <subject>2369686</subject>
+      <object>1912922</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4352236</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2611810</subject>
+      <object>3870907</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>backpack</name>
+      <h>302</h>
+      <object_id>2369686</object_id>
+      <w>216</w>
+      <y>27</y>
+      <x>62</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>turquoise</attribute>
+      </attributes>
+      <name>line</name>
+      <h>188</h>
+      <object_id>2369687</object_id>
+      <w>150</w>
+      <y>98</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black metal</name>
+      <h>139</h>
+      <object_id>1912922</object_id>
+      <w>66</w>
+      <y>17</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>safety</attribute>
+      </attributes>
+      <name>cone</name>
+      <h>45</h>
+      <object_id>2611810</object_id>
+      <w>28</w>
+      <y>111</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>103</h>
+      <object_id>3870907</object_id>
+      <w>288</w>
+      <y>130</y>
+      <x>210</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red bus driving past a piece of luggage.</caption>
+      <caption>A suitcase left on the side of the street.</caption>
+      <caption>A lone backpack sitting on the side of the road. </caption>
+      <caption>A blue and gray backpack sitting on the side of a road</caption>
+      <caption>A suitcase and backpack are on the curb with a bus approaching.</caption>
+    </captions>
+</image>

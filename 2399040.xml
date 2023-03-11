@@ -1,0 +1,74 @@
+<image>
+  <image-id>2399040</image-id>
+  <coco-id>431824</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4724144</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4309635</subject>
+      <object>4402060</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4685153</relationship_id>
+      <predicate>by</predicate>
+      <subject>4309635</subject>
+      <object>4309636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4685154</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4309641</subject>
+      <object>4309635</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>397</h>
+      <object_id>4309635</object_id>
+      <w>101</w>
+      <y>65</y>
+      <x>147</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>baseball glove</name>
+      <h>71</h>
+      <object_id>4402060</object_id>
+      <w>73</w>
+      <y>247</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thick</attribute>
+      </attributes>
+      <name>hedge</name>
+      <h>265</h>
+      <object_id>4309636</object_id>
+      <w>315</w>
+      <y>28</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>socks</name>
+      <h>46</h>
+      <object_id>4309641</object_id>
+      <w>57</w>
+      <y>385</y>
+      <x>177</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small boy is posing with his baseball glove.</caption>
+      <caption>Young male baseball player in full uniform and glove alone posing.</caption>
+      <caption>A young boy stands in his baseball outfit and glove.</caption>
+      <caption>A young boy wearing a baseball uniform poses with a glove.</caption>
+      <caption>a young boy in his baseball uniform posing for a picture </caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>285754</image-id>
+  <coco-id>11838</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4047441</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3695620</subject>
+      <object>1569331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4047442</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1569332</subject>
+      <object>3695621</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>part</name>
+      <h>158</h>
+      <object_id>3695620</object_id>
+      <w>175</w>
+      <y>153</y>
+      <x>569</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>504</h>
+      <object_id>1569331</object_id>
+      <w>835</w>
+      <y>207</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>112</h>
+      <object_id>1569332</object_id>
+      <w>152</w>
+      <y>0</y>
+      <x>452</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>40</h>
+      <object_id>3695621</object_id>
+      <w>189</w>
+      <y>15</y>
+      <x>457</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A silver motorcycle parked on the side of a street.</caption>
+      <caption>A motorcycle parked on the side of a street.</caption>
+      <caption>A Ducati motorcycle is parked on a street with other traffic.</caption>
+      <caption>a silver Ducati parked on the side of a city street</caption>
+      <caption>A motorcycle parked on the side of the road. </caption>
+    </captions>
+</image>

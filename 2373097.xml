@@ -1,0 +1,79 @@
+<image>
+  <image-id>2373097</image-id>
+  <coco-id>262492</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4138514</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1701806</subject>
+      <object>1701807</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138515</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1859286</subject>
+      <object>1859287</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138516</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1859286</subject>
+      <object>1859288</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>44</h>
+      <object_id>1701806</object_id>
+      <w>72</w>
+      <y>87</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>150</h>
+      <object_id>1701807</object_id>
+      <w>500</w>
+      <y>6</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>170</h>
+      <object_id>1859286</object_id>
+      <w>402</w>
+      <y>87</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>28</h>
+      <object_id>1859287</object_id>
+      <w>492</w>
+      <y>232</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>65</h>
+      <object_id>1859288</object_id>
+      <w>497</w>
+      <y>264</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large passenger jet landing on a runway at an airport.</caption>
+      <caption>A blue airplane on the runaway on a clear day. </caption>
+      <caption>A large commercial airplane sitting on the runway.</caption>
+      <caption>An airplane sits on an airport runway in a city.</caption>
+      <caption>A Southwest Airlines airplane taxiing on a runway.</caption>
+    </captions>
+</image>

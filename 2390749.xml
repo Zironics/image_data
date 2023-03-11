@@ -1,0 +1,167 @@
+<image>
+  <image-id>2390749</image-id>
+  <coco-id>178994</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3456381</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1247463</subject>
+      <object>1247465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456382</relationship_id>
+      <predicate>has</predicate>
+      <subject>1247466</subject>
+      <object>1247467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456383</relationship_id>
+      <predicate>near</predicate>
+      <subject>1247466</subject>
+      <object>1247468</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456384</relationship_id>
+      <predicate>under a</predicate>
+      <subject>1247463</subject>
+      <object>1247466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456385</relationship_id>
+      <predicate>under a</predicate>
+      <subject>1247463</subject>
+      <object>1247466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456386</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1247463</subject>
+      <object>1247470</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456387</relationship_id>
+      <predicate>near a</predicate>
+      <subject>1247463</subject>
+      <object>1247466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456388</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1247466</subject>
+      <object>1247471</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456390</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1247463</subject>
+      <object>1247468</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456391</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1247466</subject>
+      <object>1247472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3456392</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1247463</subject>
+      <object>1247470</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>reclined</attribute>
+        <attribute>down</attribute>
+        <attribute>white color</attribute>
+        <attribute>lying</attribute>
+        <attribute>gazing</attribute>
+        <attribute>restijng</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>57</h>
+      <object_id>1247463</object_id>
+      <w>70</w>
+      <y>292</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>32</h>
+      <object_id>1247465</object_id>
+      <w>35</w>
+      <y>315</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>large</attribute>
+        <attribute>thick</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>307</h>
+      <object_id>1247466</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bark</name>
+      <h>11</h>
+      <object_id>1247467</object_id>
+      <w>18</w>
+      <y>98</y>
+      <x>78</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>lit</attribute>
+        <attribute>green</attribute>
+        <attribute>sunny</attribute>
+        <attribute>growing</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>245</h>
+      <object_id>1247468</object_id>
+      <w>498</w>
+      <y>130</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>shade</name>
+      <h>127</h>
+      <object_id>1247470</object_id>
+      <w>499</w>
+      <y>247</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>leaf</name>
+      <h>8</h>
+      <object_id>1247471</object_id>
+      <w>7</w>
+      <y>96</y>
+      <x>410</x>
+    </object>
+    <object>
+      <name>trunk</name>
+      <h>216</h>
+      <object_id>1247472</object_id>
+      <w>170</w>
+      <y>84</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of sheep sitting next to a tree.</caption>
+      <caption>Sheep lie in the shady grass around a tree. </caption>
+      <caption>A group of sheep lying in the shade under a tree.</caption>
+      <caption>Three sheep in a grassy area under a tree.</caption>
+      <caption>Three animals rest in the shade of a large tree.</caption>
+    </captions>
+</image>

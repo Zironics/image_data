@@ -1,0 +1,112 @@
+<image>
+  <image-id>2329089</image-id>
+  <coco-id>183256</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4139776</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3587350</subject>
+      <object>3210114</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139777</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3587350</subject>
+      <object>3110626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4139778</relationship_id>
+      <predicate>near</predicate>
+      <subject>3276558</subject>
+      <object>3254842</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4059837</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3242403</subject>
+      <object>3242402</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3783212</relationship_id>
+      <predicate>resting</predicate>
+      <subject>3587350</subject>
+      <object>3175099</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>271</h>
+      <object_id>3587350</object_id>
+      <w>226</w>
+      <y>59</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>136</h>
+      <object_id>3210114</object_id>
+      <w>111</w>
+      <y>195</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>130</h>
+      <object_id>3110626</object_id>
+      <w>199</w>
+      <y>202</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>121</h>
+      <object_id>3276558</object_id>
+      <w>495</w>
+      <y>210</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>149</h>
+      <object_id>3254842</object_id>
+      <w>145</w>
+      <y>177</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>32</h>
+      <object_id>3242403</object_id>
+      <w>37</w>
+      <y>91</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>225</h>
+      <object_id>3242402</object_id>
+      <w>227</w>
+      <y>81</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>74</h>
+      <object_id>3175099</object_id>
+      <w>90</w>
+      <y>170</y>
+      <x>32</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man sitting on top of a wooden bench.</caption>
+      <caption>A man is sitting on a park bench looking up at the sky.</caption>
+      <caption>a man on a bench with a view of the city</caption>
+      <caption>A man in a red hat sitting on a bench with buildings in the background.</caption>
+      <caption>A man sitting on a bench near the wall with high rises across the river.</caption>
+    </captions>
+</image>

@@ -1,0 +1,188 @@
+<image>
+  <image-id>2371424</image-id>
+  <coco-id>580960</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1510362</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>597747</subject>
+      <object>597748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510363</relationship_id>
+      <predicate>plugged into</predicate>
+      <subject>597751</subject>
+      <object>597752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510364</relationship_id>
+      <predicate>says</predicate>
+      <subject>597749</subject>
+      <object>597753</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510365</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>597749</subject>
+      <object>597750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510366</relationship_id>
+      <predicate>plugged into</predicate>
+      <subject>597751</subject>
+      <object>597750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510367</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>597749</subject>
+      <object>597750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510368</relationship_id>
+      <predicate>running</predicate>
+      <subject>597744</subject>
+      <object>597755</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510369</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>597758</subject>
+      <object>597750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510370</relationship_id>
+      <predicate>plugged into</predicate>
+      <subject>597751</subject>
+      <object>597750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510371</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>597750</subject>
+      <object>597748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1510372</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>597747</subject>
+      <object>597750</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>pen</name>
+      <h>50</h>
+      <object_id>597747</object_id>
+      <w>26</w>
+      <y>237</y>
+      <x>152</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>desk</name>
+      <h>322</h>
+      <object_id>597748</object_id>
+      <w>355</w>
+      <y>178</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>usb</attribute>
+      </attributes>
+      <name>cord</name>
+      <h>61</h>
+      <object_id>597751</object_id>
+      <w>52</w>
+      <y>420</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>usb drive</name>
+      <h>24</h>
+      <object_id>597752</object_id>
+      <w>25</w>
+      <y>434</y>
+      <x>50</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>keyboard</name>
+      <h>84</h>
+      <object_id>597749</object_id>
+      <w>319</w>
+      <y>288</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>dell</name>
+      <h>13</h>
+      <object_id>597753</object_id>
+      <w>27</w>
+      <y>294</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>dell</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>292</h>
+      <object_id>597750</object_id>
+      <w>341</w>
+      <y>187</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>computer</attribute>
+        <attribute>black</attribute>
+        <attribute>turned on</attribute>
+        <attribute>square</attribute>
+        <attribute>dell</attribute>
+      </attributes>
+      <name>monitor</name>
+      <h>233</h>
+      <object_id>597744</object_id>
+      <w>215</w>
+      <y>1</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>81</h>
+      <object_id>597755</object_id>
+      <w>17</w>
+      <y>388</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>disc</name>
+      <h>38</h>
+      <object_id>597758</object_id>
+      <w>58</w>
+      <y>226</y>
+      <x>59</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A computer is shown with a keyboard and a mouse.</caption>
+      <caption>A white desk holding a computer, keyboard, mouse and monitor.</caption>
+      <caption>Monitor, mouse and keyboard sitting on top of computer tower</caption>
+      <caption>A single desktop computer sits on a desk.</caption>
+      <caption>An older black desktop computer running Windows operating system. </caption>
+    </captions>
+</image>

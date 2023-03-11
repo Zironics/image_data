@@ -1,0 +1,162 @@
+<image>
+  <image-id>2378177</image-id>
+  <coco-id>330554</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3988003</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3671686</subject>
+      <object>2599076</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988005</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3671689</subject>
+      <object>3671688</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988007</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2697203</subject>
+      <object>2697204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988010</relationship_id>
+      <predicate>half of</predicate>
+      <subject>2385295</subject>
+      <object>3671692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988011</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>1891271</subject>
+      <object>1891272</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988013</relationship_id>
+      <predicate>with</predicate>
+      <subject>2016579</subject>
+      <object>3671695</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>substance</name>
+      <h>116</h>
+      <object_id>3671686</object_id>
+      <w>366</w>
+      <y>257</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>countertop</name>
+      <h>124</h>
+      <object_id>2599076</object_id>
+      <w>149</w>
+      <y>248</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>pitcher</name>
+      <h>182</h>
+      <object_id>3671689</object_id>
+      <w>104</w>
+      <y>0</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>blender base</name>
+      <h>147</h>
+      <object_id>3671688</object_id>
+      <w>152</w>
+      <y>157</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light blue</attribute>
+      </attributes>
+      <name>blue tile</name>
+      <h>168</h>
+      <object_id>2697203</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>splash</name>
+      <h>62</h>
+      <object_id>2697204</object_id>
+      <w>70</w>
+      <y>81</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>blender</name>
+      <h>176</h>
+      <object_id>2385295</object_id>
+      <w>121</w>
+      <y>2</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>carrot juice</name>
+      <h>66</h>
+      <object_id>3671692</object_id>
+      <w>79</w>
+      <y>86</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>power cord</name>
+      <h>117</h>
+      <object_id>1891271</object_id>
+      <w>165</w>
+      <y>130</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>outlet</name>
+      <h>43</h>
+      <object_id>1891272</object_id>
+      <w>65</w>
+      <y>105</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>174</h>
+      <object_id>2016579</object_id>
+      <w>119</w>
+      <y>198</y>
+      <x>359</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>liquid</name>
+      <h>120</h>
+      <object_id>3671695</object_id>
+      <w>359</w>
+      <y>252</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Blender with portions of its contents spilled around it. </caption>
+      <caption>A blender on the counter with liquid in it and spilled on the counter. </caption>
+      <caption>Blender on a messy counter in a kitchen filled with food.</caption>
+      <caption>A blender with liquid sprayed onto the counter top.</caption>
+      <caption>A blender on the c9unter that has spilled everywhere.</caption>
+    </captions>
+</image>

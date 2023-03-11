@@ -1,0 +1,76 @@
+<image>
+  <image-id>2406207</image-id>
+  <coco-id>236539</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4620744</relationship_id>
+      <predicate>covering</predicate>
+      <subject>4146767</subject>
+      <object>4146766</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4620745</relationship_id>
+      <predicate>covering</predicate>
+      <subject>4146767</subject>
+      <object>4146766</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4620746</relationship_id>
+      <predicate>covering</predicate>
+      <subject>4146768</subject>
+      <object>4140818</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>89</h>
+      <object_id>4146767</object_id>
+      <w>93</w>
+      <y>193</y>
+      <x>152</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>grazing</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>90</h>
+      <object_id>4146766</object_id>
+      <w>91</w>
+      <y>194</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>65</h>
+      <object_id>4146768</object_id>
+      <w>80</w>
+      <y>180</y>
+      <x>232</x>
+    </object>
+    <object>
+      <h>70</h>
+      <object_id>4140818</object_id>
+      <w>89</w>
+      <y>179</y>
+      <x>232</x>
+      <name>brown/black pony</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two horses graze on a partially-melted snowy field. </caption>
+      <caption>Two horses are eating on the side of a hill.</caption>
+      <caption>Two horses graze in a patchy field with some snow.</caption>
+      <caption>Two horses grazing in a field with scattered snow</caption>
+      <caption>Two horses are in the field eating grass.
+</caption>
+    </captions>
+</image>

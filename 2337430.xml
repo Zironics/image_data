@@ -1,0 +1,74 @@
+<image>
+  <image-id>2337430</image-id>
+  <coco-id>578197</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4078690</relationship_id>
+      <predicate>holding on to a</predicate>
+      <subject>2943297</subject>
+      <object>3707939</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078691</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3707942</subject>
+      <object>2943297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078692</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2943297</subject>
+      <object>3707939</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078696</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3707942</subject>
+      <object>2023060</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>a surfer</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>305</h>
+      <object_id>2943297</object_id>
+      <w>159</w>
+      <y>26</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>286</h>
+      <object_id>3707939</object_id>
+      <w>484</w>
+      <y>45</y>
+      <x>11</x>
+    </object>
+    <object>
+      <h>64</h>
+      <object_id>3707942</object_id>
+      <w>60</w>
+      <y>26</y>
+      <x>206</x>
+      <name>head</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>312</h>
+      <object_id>2023060</object_id>
+      <w>200</w>
+      <y>0</y>
+      <x>176</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beautiful young woman in a red bikini holding a surboard.</caption>
+      <caption>A girl in a bikini walks her surf board into the water. </caption>
+      <caption>A female surfboarded is holding her surfboard going into the water.</caption>
+      <caption>A woman in a bikini with a surfboard in her hand</caption>
+      <caption>A WOMAN IN BIKINI HOLDING A SURFING BOARD IN HER HANDS.</caption>
+    </captions>
+</image>

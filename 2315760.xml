@@ -1,0 +1,103 @@
+<image>
+  <image-id>2315760</image-id>
+  <coco-id>397383</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4543031</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3054739</subject>
+      <object>3197362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4543032</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3054739</subject>
+      <object>2959178</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4543033</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>3054739</subject>
+      <object>2980573</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4543034</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3383195</subject>
+      <object>2959178</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3938620</relationship_id>
+      <predicate>hold</predicate>
+      <subject>3054739</subject>
+      <object>3117861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4543035</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2959178</subject>
+      <object>2959178</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>81</h>
+      <object_id>3054739</object_id>
+      <w>35</w>
+      <y>127</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>176</h>
+      <object_id>3197362</object_id>
+      <w>500</w>
+      <y>155</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wet</attribute>
+      </attributes>
+      <h>150</h>
+      <object_id>2959178</object_id>
+      <w>499</w>
+      <y>182</y>
+      <x>0</x>
+      <name>sand</name>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>48</h>
+      <object_id>2980573</object_id>
+      <w>128</w>
+      <y>158</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>child standing</name>
+      <h>67</h>
+      <object_id>3383195</object_id>
+      <w>52</w>
+      <y>128</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>75</h>
+      <object_id>3117861</object_id>
+      <w>142</w>
+      <y>146</y>
+      <x>208</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man has his surfboard in his hand on the beach</caption>
+      <caption>A surfboard is carrying his surfboard out to the water.</caption>
+      <caption>Man holding a large snow board down the beach side.</caption>
+      <caption>A man walking on top of a beach holding a surfboard.</caption>
+      <caption>a person holding a surfboard on the beach</caption>
+    </captions>
+</image>

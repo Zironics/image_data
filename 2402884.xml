@@ -1,0 +1,97 @@
+<image>
+  <image-id>2402884</image-id>
+  <coco-id>337844</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3267351</relationship_id>
+      <predicate>near</predicate>
+      <subject>1130428</subject>
+      <object>1130425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267352</relationship_id>
+      <predicate>has</predicate>
+      <subject>1130425</subject>
+      <object>1130431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267353</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>1130426</subject>
+      <object>1130425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3267354</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1130432</subject>
+      <object>1130426</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in background</attribute>
+        <attribute>at the park</attribute>
+      </attributes>
+      <name>picnic table</name>
+      <h>33</h>
+      <object_id>1130428</object_id>
+      <w>64</w>
+      <y>162</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>long</attribute>
+        <attribute>large</attribute>
+        <attribute>brown</attribute>
+        <attribute>bigger</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>163</h>
+      <object_id>1130425</object_id>
+      <w>424</w>
+      <y>59</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>16</h>
+      <object_id>1130431</object_id>
+      <w>359</w>
+      <y>208</y>
+      <x>78</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>in the distance</attribute>
+        <attribute>leafy</attribute>
+        <attribute>green</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>158</h>
+      <object_id>1130426</object_id>
+      <w>268</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>185</h>
+      <object_id>1130432</object_id>
+      <w>498</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small Lego bench in front of a wooden bench.</caption>
+      <caption>A tiny Lego model of a bench photographed in front of an actual bench </caption>
+      <caption>A small lego style bench in front of a scale garden bench.</caption>
+      <caption>A mini bench made from blocks in front of a bench</caption>
+      <caption>A small, toy bench sits in front of a real bench.</caption>
+    </captions>
+</image>

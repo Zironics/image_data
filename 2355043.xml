@@ -1,0 +1,206 @@
+<image>
+  <image-id>2355043</image-id>
+  <coco-id>523754</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2351988</relationship_id>
+      <predicate>on a</predicate>
+      <subject>833328</subject>
+      <object>833321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351989</relationship_id>
+      <predicate>in a</predicate>
+      <subject>833324</subject>
+      <object>833325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351990</relationship_id>
+      <predicate>are on</predicate>
+      <subject>833315</subject>
+      <object>833321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351991</relationship_id>
+      <predicate>reading a</predicate>
+      <subject>833313</subject>
+      <object>833327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351992</relationship_id>
+      <predicate>on top of a</predicate>
+      <subject>833328</subject>
+      <object>833321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351993</relationship_id>
+      <predicate>are on a</predicate>
+      <subject>833315</subject>
+      <object>833321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351994</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>833315</subject>
+      <object>833334</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351995</relationship_id>
+      <predicate>on a</predicate>
+      <subject>833322</subject>
+      <object>833331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351996</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>833315</subject>
+      <object>833324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351997</relationship_id>
+      <predicate>ON</predicate>
+      <subject>833332</subject>
+      <object>833333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351998</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>833315</subject>
+      <object>833334</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2351999</relationship_id>
+      <predicate>are in</predicate>
+      <subject>833337</subject>
+      <object>833324</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>15</h>
+      <object_id>833328</object_id>
+      <w>10</w>
+      <y>131</y>
+      <x>423</x>
+      <name>glass</name>
+    </object>
+    <object>
+      <name>ledge</name>
+      <h>38</h>
+      <object_id>833321</object_id>
+      <w>301</w>
+      <y>124</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>206</h>
+      <object_id>833324</object_id>
+      <w>497</w>
+      <y>126</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>274</h>
+      <object_id>833325</object_id>
+      <w>497</w>
+      <y>59</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <h>91</h>
+      <object_id>833315</object_id>
+      <w>229</w>
+      <y>36</y>
+      <x>71</x>
+      <name>surfboard</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>reading</attribute>
+      </attributes>
+      <name>man</name>
+      <h>140</h>
+      <object_id>833313</object_id>
+      <w>190</w>
+      <y>153</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>book</name>
+      <h>61</h>
+      <object_id>833327</object_id>
+      <w>51</w>
+      <y>182</y>
+      <x>278</x>
+    </object>
+    <object>
+      <h>103</h>
+      <object_id>833334</object_id>
+      <w>232</w>
+      <y>32</y>
+      <x>75</x>
+      <name>cluster</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>huge</attribute>
+      </attributes>
+      <h>117</h>
+      <object_id>833322</object_id>
+      <w>105</w>
+      <y>114</y>
+      <x>0</x>
+      <name>branch</name>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>89</h>
+      <object_id>833331</object_id>
+      <w>89</w>
+      <y>201</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>76</h>
+      <object_id>833332</object_id>
+      <w>435</w>
+      <y>23</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>concrete</name>
+      <h>61</h>
+      <object_id>833333</object_id>
+      <w>488</w>
+      <y>67</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>prints</name>
+      <h>187</h>
+      <object_id>833337</object_id>
+      <w>256</w>
+      <y>133</y>
+      <x>107</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting on a chair in the sand reading a book.</caption>
+      <caption>A person sitting in a lounge chair and reading a book on a beach.</caption>
+      <caption>A guy is sitting in a chair, reading a book at the beach.</caption>
+      <caption>Man reading a book by the ocean on a day with clear blue sky.</caption>
+      <caption>A man sitting in a chair reading in front of the ocean. </caption>
+    </captions>
+</image>

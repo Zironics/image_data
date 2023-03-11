@@ -1,0 +1,40 @@
+<image>
+  <image-id>2399181</image-id>
+  <coco-id>210057</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4684479</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>4307749</subject>
+      <object>4307750</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>container</name>
+      <h>20</h>
+      <object_id>4307749</object_id>
+      <w>10</w>
+      <y>181</y>
+      <x>315</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>190</h>
+      <object_id>4307750</object_id>
+      <w>212</w>
+      <y>24</y>
+      <x>281</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a train passing slowly on a track by a quiet street</caption>
+      <caption>A train going through the middle of a town </caption>
+      <caption>A train passing through a railroad crossing  near buildings.</caption>
+      <caption>The train is about to cross the tracks.</caption>
+      <caption>A train with a yellow front in station getting ready to depart.</caption>
+    </captions>
+</image>

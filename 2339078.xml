@@ -1,0 +1,54 @@
+<image>
+  <image-id>2339078</image-id>
+  <coco-id>54909</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4686200</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>4312251</subject>
+      <object>4312253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4686201</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>4312252</subject>
+      <object>4312253</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>133</h>
+      <object_id>4312251</object_id>
+      <w>80</w>
+      <y>173</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>walkway</name>
+      <h>149</h>
+      <object_id>4312253</object_id>
+      <w>320</w>
+      <y>183</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>147</h>
+      <object_id>4312252</object_id>
+      <w>69</w>
+      <y>161</y>
+      <x>330</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people walk on a path carrying umbrellas.</caption>
+      <caption>ladies on the path in the forest with umbrellas</caption>
+      <caption>Two people are walking down a walk path with umbrellas over their heads.</caption>
+      <caption>A path that cuts through an area of lush vegetation has two walkers on it carrying large umbrellas. </caption>
+      <caption>two people with umbrellas walking down a path surrounded by trees</caption>
+    </captions>
+</image>

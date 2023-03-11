@@ -1,0 +1,51 @@
+<image>
+  <image-id>285962</image-id>
+  <coco-id>14726</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4050288</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570792</subject>
+      <object>3796057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261878</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570794</subject>
+      <object>3796057</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windshield</name>
+      <h>141</h>
+      <object_id>1570792</object_id>
+      <w>179</w>
+      <y>211</y>
+      <x>533</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>547</h>
+      <object_id>3796057</object_id>
+      <w>552</w>
+      <y>111</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>flag</name>
+      <h>105</h>
+      <object_id>1570794</object_id>
+      <w>30</w>
+      <y>110</y>
+      <x>241</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>passengers are waiting to get on the city bus</caption>
+      <caption>A large red and yellow bus is parked by some pedestrians.</caption>
+      <caption>a bus sits parked as people walk by </caption>
+      <caption>People are walking near a yellow and red bus.</caption>
+      <caption>A yellow and red bus with people walking around.</caption>
+    </captions>
+</image>

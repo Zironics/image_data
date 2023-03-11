@@ -1,0 +1,249 @@
+<image>
+  <image-id>2389929</image-id>
+  <coco-id>224118</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3468136</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255880</subject>
+      <object>1255881</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468137</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255884</subject>
+      <object>1255885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468138</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255886</subject>
+      <object>1255887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468139</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1255892</subject>
+      <object>1255886</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468140</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1255891</subject>
+      <object>1255884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468141</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1255892</subject>
+      <object>1255894</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468142</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255886</subject>
+      <object>1255892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468143</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1255892</subject>
+      <object>1255881</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468144</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1255891</subject>
+      <object>1255881</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468145</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255895</subject>
+      <object>1255882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468146</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255883</subject>
+      <object>1255882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468147</relationship_id>
+      <predicate>are seated on</predicate>
+      <subject>1255880</subject>
+      <object>1255881</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3468148</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255896</subject>
+      <object>1255879</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>resting</attribute>
+        <attribute>resting on bench</attribute>
+      </attributes>
+      <name>people</name>
+      <h>66</h>
+      <object_id>1255880</object_id>
+      <w>92</w>
+      <y>240</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>46</h>
+      <object_id>1255881</object_id>
+      <w>181</w>
+      <y>271</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for bicycling</attribute>
+        <attribute>blue colored</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>9</h>
+      <object_id>1255884</object_id>
+      <w>20</w>
+      <y>240</y>
+      <x>295</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>12</h>
+      <object_id>1255885</object_id>
+      <w>16</w>
+      <y>245</y>
+      <x>296</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for bicycling</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>10</h>
+      <object_id>1255886</object_id>
+      <w>20</w>
+      <y>240</y>
+      <x>241</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>12</h>
+      <object_id>1255887</object_id>
+      <w>17</w>
+      <y>249</y>
+      <x>243</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>63</h>
+      <object_id>1255892</object_id>
+      <w>34</w>
+      <y>240</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>man</name>
+      <h>67</h>
+      <object_id>1255891</object_id>
+      <w>41</w>
+      <y>239</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>top</name>
+      <h>12</h>
+      <object_id>1255894</object_id>
+      <w>30</w>
+      <y>261</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pine trees</attribute>
+        <attribute>wooded</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>forest</name>
+      <h>119</h>
+      <object_id>1255895</object_id>
+      <w>496</w>
+      <y>46</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green vegetation</attribute>
+        <attribute>beautiful scenery</attribute>
+        <attribute>in distance</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>165</h>
+      <object_id>1255882</object_id>
+      <w>498</w>
+      <y>47</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>in distance</attribute>
+      </attributes>
+      <name>bridge</name>
+      <h>14</h>
+      <object_id>1255883</object_id>
+      <w>118</w>
+      <y>157</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>handle bar</name>
+      <h>21</h>
+      <object_id>1255896</object_id>
+      <w>18</w>
+      <y>262</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>standing</attribute>
+        <attribute>mountain bike</attribute>
+        <attribute>blue colored</attribute>
+      </attributes>
+      <name>bike</name>
+      <h>53</h>
+      <object_id>1255879</object_id>
+      <w>61</w>
+      <y>265</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two bicyclists sitting on a bench with a forest background.</caption>
+      <caption>A couple of mountain bikers sitting on a bench in front of a forest.</caption>
+      <caption>a man and woman sitting on a bench</caption>
+      <caption>A couple is sitting on a bench overlooking a mountainside.</caption>
+      <caption>A couple of people sitting on a park bench next to some bicycles.</caption>
+    </captions>
+</image>

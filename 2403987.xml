@@ -1,0 +1,65 @@
+<image>
+  <image-id>2403987</image-id>
+  <coco-id>139831</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4284001</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3815415</subject>
+      <object>3815416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4284000</relationship_id>
+      <predicate>IN</predicate>
+      <subject>379097</subject>
+      <object>3815416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4283999</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3815413</subject>
+      <object>3815416</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree</name>
+      <h>177</h>
+      <object_id>3815415</object_id>
+      <w>80</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>110</h>
+      <object_id>3815416</object_id>
+      <w>498</w>
+      <y>114</y>
+      <x>1</x>
+    </object>
+    <object>
+      <h>153</h>
+      <object_id>379097</object_id>
+      <w>182</w>
+      <y>0</y>
+      <x>106</x>
+      <name>this is a tree</name>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>124</h>
+      <object_id>3815413</object_id>
+      <w>160</w>
+      <y>0</y>
+      <x>339</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skateboarder is going downhill in full padding. </caption>
+      <caption>a person on a skateboard leaning and touching the ground while riding downhill</caption>
+      <caption>A man rides his skateboard down a hill</caption>
+      <caption>A skateboarder is crouch down on his skate board.</caption>
+      <caption>a skate boarder rides downhill, low to the ground</caption>
+    </captions>
+</image>

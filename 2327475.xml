@@ -1,0 +1,65 @@
+<image>
+  <image-id>2327475</image-id>
+  <coco-id>450620</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3633365</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3306518</subject>
+      <object>3521657</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3633366</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3306519</subject>
+      <object>3521657</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3633367</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3306520</subject>
+      <object>3521657</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sailor</name>
+      <h>33</h>
+      <object_id>3306518</object_id>
+      <w>17</w>
+      <y>221</y>
+      <x>411</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>153</h>
+      <object_id>3521657</object_id>
+      <w>497</w>
+      <y>202</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sailor</name>
+      <h>13</h>
+      <object_id>3306519</object_id>
+      <w>11</w>
+      <y>212</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>sailor</name>
+      <h>43</h>
+      <object_id>3306520</object_id>
+      <w>22</w>
+      <y>218</y>
+      <x>90</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>It takes a great deal of expertise to handle the sails.</caption>
+      <caption>A group of people on surfboards with sails in the water</caption>
+      <caption>a couple of people are windsurfing at the beach</caption>
+      <caption>A picture of three people wind surfing in the ocean.</caption>
+      <caption>The people were all out on the water with sails on their surfboards.</caption>
+    </captions>
+</image>

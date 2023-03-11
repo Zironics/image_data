@@ -1,0 +1,62 @@
+<image>
+  <image-id>2330711</image-id>
+  <coco-id>360818</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4632241</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4175648</subject>
+      <object>4175649</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4804638</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4609647</subject>
+      <object>4609646</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>grass</name>
+      <h>126</h>
+      <object_id>4175648</object_id>
+      <w>123</w>
+      <y>138</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>313</h>
+      <object_id>4175649</object_id>
+      <w>484</w>
+      <y>11</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>127</h>
+      <object_id>4609647</object_id>
+      <w>158</w>
+      <y>90</y>
+      <x>261</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>291</h>
+      <object_id>4609646</object_id>
+      <w>300</w>
+      <y>36</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boy is laying on a bench in a park.</caption>
+      <caption>The young boy is looking intently into the camera.</caption>
+      <caption>a boy sitting on a bench at the park</caption>
+      <caption>A little boy is lying on a bench in a park.</caption>
+      <caption>A young boy laying on top of a bench next to a tree.</caption>
+    </captions>
+</image>

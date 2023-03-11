@@ -1,0 +1,89 @@
+<image>
+  <image-id>2407993</image-id>
+  <coco-id>273804</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3224606</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1094946</subject>
+      <object>1094947</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224607</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1094946</subject>
+      <object>1094947</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224608</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1094946</subject>
+      <object>1094947</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224612</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1094946</subject>
+      <object>1094947</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224649</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1094946</subject>
+      <object>1094947</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224653</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1094946</subject>
+      <object>1094947</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3224654</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1094948</subject>
+      <object>1094949</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>41</h>
+      <object_id>1094946</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>41</h>
+      <object_id>1094947</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>kitten</name>
+      <h>41</h>
+      <object_id>1094948</object_id>
+      <w>44</w>
+      <y>9</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>string</name>
+      <h>41</h>
+      <object_id>1094949</object_id>
+      <w>44</w>
+      <y>13</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train is moving along a track surrounded by palm trees.</caption>
+      <caption>A train traveling over a bamboo bridge through a jungle.</caption>
+      <caption>A train speeding by lots of trees and bushes.</caption>
+      <caption>A high-speed train zooms through a tropical tree scene. </caption>
+      <caption>A train going through a forest on a wooden platform. </caption>
+    </captions>
+</image>

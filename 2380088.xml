@@ -1,0 +1,98 @@
+<image>
+  <image-id>2380088</image-id>
+  <coco-id>374396</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4671745</relationship_id>
+      <predicate>are</predicate>
+      <subject>4274360</subject>
+      <object>4274357</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4671747</relationship_id>
+      <predicate>are sitting on a</predicate>
+      <subject>4274360</subject>
+      <object>4274361</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4671748</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4274362</subject>
+      <object>4274363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4671750</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4274366</subject>
+      <object>4274367</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>gloves</name>
+      <h>292</h>
+      <object_id>4274360</object_id>
+      <w>425</w>
+      <y>62</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>silver</name>
+      <h>60</h>
+      <object_id>4274357</object_id>
+      <w>34</w>
+      <y>212</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>130</h>
+      <object_id>4274361</object_id>
+      <w>492</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>silver balls</name>
+      <h>121</h>
+      <object_id>4274362</object_id>
+      <w>98</w>
+      <y>25</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>85</h>
+      <object_id>4274363</object_id>
+      <w>483</w>
+      <y>5</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black lines</name>
+      <h>47</h>
+      <object_id>4274366</object_id>
+      <w>40</w>
+      <y>86</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>70</h>
+      <object_id>4274367</object_id>
+      <w>70</w>
+      <y>75</y>
+      <x>237</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two globes and two balls on top of a table.</caption>
+      <caption>A pair of gloves and two balls on a wooden surface.</caption>
+      <caption>Two silver gloves are on a table with silver balls.</caption>
+      <caption>Well used white leather gloves and leather sports balls</caption>
+      <caption>A pair of silver gloves with two silver balls on a wood surface.</caption>
+    </captions>
+</image>

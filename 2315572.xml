@@ -1,0 +1,40 @@
+<image>
+  <image-id>2315572</image-id>
+  <coco-id>200374</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4253221</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3791378</subject>
+      <object>3362923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bacon</name>
+      <h>15</h>
+      <object_id>3791378</object_id>
+      <w>49</w>
+      <y>219</y>
+      <x>321</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> of pasta</attribute>
+      </attributes>
+      <name>salad</name>
+      <h>225</h>
+      <object_id>3362923</object_id>
+      <w>290</w>
+      <y>57</y>
+      <x>117</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dark grey plate with a noodle dish and broccoli </caption>
+      <caption>Broccoli and pasta salad with cheese on a plate. </caption>
+      <caption>A plate of food with broccoli and different kinds of pasta. </caption>
+      <caption>A plate has pasta topped with cheese and a side of broccoli.</caption>
+      <caption>A plate of pasta with cheese on top is shown next to broccoli.</caption>
+    </captions>
+</image>

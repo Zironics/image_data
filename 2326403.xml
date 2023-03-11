@@ -1,0 +1,120 @@
+<image>
+  <image-id>2326403</image-id>
+  <coco-id>562741</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068948</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3324069</subject>
+      <object>2856659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4479430</relationship_id>
+      <predicate>PARKED ON THE</predicate>
+      <subject>2856658</subject>
+      <object>2856659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4479431</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3939675</subject>
+      <object>2970236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4479432</relationship_id>
+      <predicate>PARKED BY</predicate>
+      <subject>2856658</subject>
+      <object>3324069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4479433</relationship_id>
+      <predicate>PARKED BY</predicate>
+      <subject>3324069</subject>
+      <object>2856658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4479434</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2959117</subject>
+      <object>2959118</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>24</h>
+      <object_id>3324069</object_id>
+      <w>25</w>
+      <y>184</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>125</h>
+      <object_id>2856659</object_id>
+      <w>487</w>
+      <y>204</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>WHITE</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>19</h>
+      <object_id>2856658</object_id>
+      <w>20</w>
+      <y>190</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>patch</name>
+      <h>48</h>
+      <object_id>3939675</object_id>
+      <w>36</w>
+      <y>247</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>BROWN</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>132</h>
+      <object_id>2970236</object_id>
+      <w>496</w>
+      <y>199</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>light pole</name>
+      <h>159</h>
+      <object_id>2959117</object_id>
+      <w>17</w>
+      <y>60</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>32</h>
+      <object_id>2959118</object_id>
+      <w>25</w>
+      <y>181</y>
+      <x>302</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train is stopped in its tracks next to a building and cars.</caption>
+      <caption>A city street with grass growing in the cracks</caption>
+      <caption>a train on a track near cars on a street </caption>
+      <caption>A run down street with grass growing in the middle it.</caption>
+      <caption>A couple of trains sitting on top of train tracks.</caption>
+    </captions>
+</image>

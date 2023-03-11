@@ -1,0 +1,109 @@
+<image>
+  <image-id>2391466</image-id>
+  <coco-id>240107</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3448211</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1240582</subject>
+      <object>1240576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3448212</relationship_id>
+      <predicate>has</predicate>
+      <subject>1240577</subject>
+      <object>1240583</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3448213</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1240576</subject>
+      <object>1240580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3448214</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1240577</subject>
+      <object>1240586</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>existing</attribute>
+        <attribute>present</attribute>
+      </attributes>
+      <name>man</name>
+      <h>216</h>
+      <object_id>1240582</object_id>
+      <w>61</w>
+      <y>42</y>
+      <x>318</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>broken</attribute>
+        <attribute>present</attribute>
+        <attribute>chunky</attribute>
+      </attributes>
+      <name>rock</name>
+      <h>77</h>
+      <object_id>1240576</object_id>
+      <w>150</w>
+      <y>201</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>designed</attribute>
+        <attribute>existing</attribute>
+        <attribute>backed</attribute>
+        <attribute>tan</attribute>
+        <attribute>present</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>board</name>
+      <h>160</h>
+      <object_id>1240577</object_id>
+      <w>167</w>
+      <y>63</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>writing</name>
+      <h>33</h>
+      <object_id>1240583</object_id>
+      <w>26</w>
+      <y>167</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>bright</attribute>
+      </attributes>
+      <name>water</name>
+      <h>84</h>
+      <object_id>1240580</object_id>
+      <w>323</w>
+      <y>115</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>18</h>
+      <object_id>1240586</object_id>
+      <w>20</w>
+      <y>119</y>
+      <x>381</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a rock holding a surfboard.</caption>
+      <caption>A surfer is standing on a rock pile as he stares off to the water.</caption>
+      <caption>The man is ready to go surfing with his board</caption>
+      <caption>A man in blue shorts holding a wooden surfboard.</caption>
+      <caption>A man on a rocky beach holding a surfboard.</caption>
+    </captions>
+</image>

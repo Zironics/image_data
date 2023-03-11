@@ -1,0 +1,57 @@
+<image>
+  <image-id>2394213</image-id>
+  <coco-id>534903</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1045455</relationship_id>
+      <predicate>skis on</predicate>
+      <subject>466136</subject>
+      <object>466134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1045456</relationship_id>
+      <predicate>wears</predicate>
+      <subject>466136</subject>
+      <object>466137</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bent</attribute>
+      </attributes>
+      <h>72</h>
+      <object_id>466136</object_id>
+      <w>66</w>
+      <y>151</y>
+      <x>220</x>
+      <name>skier</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>101</h>
+      <object_id>466134</object_id>
+      <w>104</w>
+      <y>79</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>29</h>
+      <object_id>466137</object_id>
+      <w>18</w>
+      <y>139</y>
+      <x>268</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A peson on a snowboard moving through snowy field.</caption>
+      <caption>A man riding a snowboard down a snow covered slope.</caption>
+      <caption>A person traveling down a hill walking in snow shoes.</caption>
+      <caption>A skier is skiing quickly down a mountain.</caption>
+      <caption>The man is snowboarding or walking in the dark.</caption>
+    </captions>
+</image>

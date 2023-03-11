@@ -1,0 +1,46 @@
+<image>
+  <image-id>2322502</image-id>
+  <coco-id>114843</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3951907</relationship_id>
+      <predicate>riding</predicate>
+      <subject>2834346</subject>
+      <object>2850025</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4536173</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>2850025</subject>
+      <object>2834346</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>girl</name>
+      <h>260</h>
+      <object_id>2834346</object_id>
+      <w>114</w>
+      <y>2</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>deep brown</attribute>
+      </attributes>
+      <h>291</h>
+      <object_id>2850025</object_id>
+      <w>349</w>
+      <y>77</y>
+      <x>44</x>
+      <name>brown horse</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman riding on the back of a brown horse.</caption>
+      <caption>A woman rides atop a trotting horse. </caption>
+      <caption>A woman is riding a brown horse along a track.</caption>
+      <caption>A woman wearing a helmet is riding a horse.</caption>
+      <caption>Woman riding on the back of a large brown horse. </caption>
+    </captions>
+</image>

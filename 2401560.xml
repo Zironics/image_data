@@ -1,0 +1,109 @@
+<image>
+  <image-id>2401560</image-id>
+  <coco-id>14677</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3289879</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1146584</subject>
+      <object>1146585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3289885</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1146586</subject>
+      <object>1146587</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3289921</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1146588</subject>
+      <object>1146589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3289925</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1146588</subject>
+      <object>1146589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3289926</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1146590</subject>
+      <object>1146591</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1146584</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1146585</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1146586</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1146587</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>fox</name>
+      <h>42</h>
+      <object_id>1146588</object_id>
+      <w>53</w>
+      <y>99</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>hen</name>
+      <h>43</h>
+      <object_id>1146589</object_id>
+      <w>54</w>
+      <y>105</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kitten</name>
+      <h>42</h>
+      <object_id>1146590</object_id>
+      <w>53</w>
+      <y>139</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>string</name>
+      <h>43</h>
+      <object_id>1146591</object_id>
+      <w>54</w>
+      <y>144</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of three people standing on top of a snow covered slope.</caption>
+      <caption>Three men in ski gear climbing a slope next to trees.</caption>
+      <caption>3 Skiers move on a slope in front of a forest.</caption>
+      <caption>Three skiers skiing on a hill with two going down the hill and one moving up the hill.</caption>
+      <caption>Three people on skis are in the snow next to some trees.</caption>
+    </captions>
+</image>

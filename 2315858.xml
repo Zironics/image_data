@@ -1,0 +1,71 @@
+<image>
+  <image-id>2315858</image-id>
+  <coco-id>574140</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3769969</relationship_id>
+      <predicate>with</predicate>
+      <subject>3139162</subject>
+      <object>3581847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3769970</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2868027</subject>
+      <object>2868028</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>122</h>
+      <object_id>3139162</object_id>
+      <w>100</w>
+      <y>375</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>burgundy</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>37</h>
+      <object_id>3581847</object_id>
+      <w>77</w>
+      <y>426</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>doing a magic trick</attribute>
+      </attributes>
+      <name>man</name>
+      <h>362</h>
+      <object_id>2868027</object_id>
+      <w>238</w>
+      <y>136</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>multi-colored</attribute>
+      </attributes>
+      <name>scarf</name>
+      <h>130</h>
+      <object_id>2868028</object_id>
+      <w>94</w>
+      <y>192</y>
+      <x>51</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Man in suite standing at front of a banquet hall.</caption>
+      <caption>A man holding a piece of cloth laughing </caption>
+      <caption>A man holding a tie at the front of a room filled with tables.</caption>
+      <caption>A man holds something up while laughing at party.</caption>
+      <caption>A man standing in a room holding something in his hand.</caption>
+    </captions>
+</image>

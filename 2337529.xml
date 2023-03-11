@@ -1,0 +1,101 @@
+<image>
+  <image-id>2337529</image-id>
+  <coco-id>495553</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4802613</relationship_id>
+      <predicate>with</predicate>
+      <subject>4605027</subject>
+      <object>4605028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4802614</relationship_id>
+      <predicate>with</predicate>
+      <subject>4605029</subject>
+      <object>4605030</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4802615</relationship_id>
+      <predicate>with</predicate>
+      <subject>4605032</subject>
+      <object>4605031</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>wine glass</name>
+      <h>213</h>
+      <object_id>4605027</object_id>
+      <w>148</w>
+      <y>0</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>liquid</name>
+      <h>107</h>
+      <object_id>4605028</object_id>
+      <w>145</w>
+      <y>38</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>crusty</attribute>
+        <attribute>half</attribute>
+      </attributes>
+      <name>bread</name>
+      <h>254</h>
+      <object_id>4605029</object_id>
+      <w>158</w>
+      <y>231</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>seeds</name>
+      <h>70</h>
+      <object_id>4605030</object_id>
+      <w>77</w>
+      <y>268</y>
+      <x>270</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>half</attribute>
+        <attribute>crusty</attribute>
+      </attributes>
+      <name>bread</name>
+      <h>250</h>
+      <object_id>4605032</object_id>
+      <w>130</w>
+      <y>242</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>seeds</name>
+      <h>95</h>
+      <object_id>4605031</object_id>
+      <w>27</w>
+      <y>349</y>
+      <x>40</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sandwich sitting on top of a plate on a table.</caption>
+      <caption>A sandwich with meat, lettuce and cheese next to a glass of wine. </caption>
+      <caption>A close up of a very tasty looking sandwich and some wine.</caption>
+      <caption>A sandwich view up very close, with wine behind it.</caption>
+      <caption>A deli sandwich sits on a plate by a glass of wine.</caption>
+    </captions>
+</image>

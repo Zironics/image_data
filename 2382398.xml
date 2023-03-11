@@ -1,0 +1,84 @@
+<image>
+  <image-id>2382398</image-id>
+  <coco-id>39502</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4613305</relationship_id>
+      <predicate>IN THE</predicate>
+      <subject>4127863</subject>
+      <object>4127864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678987</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4292542</subject>
+      <object>4292543</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4781568</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4552094</subject>
+      <object>4552095</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chair</name>
+      <h>125</h>
+      <object_id>4127863</object_id>
+      <w>96</w>
+      <y>160</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>sun</name>
+      <h>144</h>
+      <object_id>4127864</object_id>
+      <w>84</w>
+      <y>177</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>30</h>
+      <object_id>4292542</object_id>
+      <w>57</w>
+      <y>79</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>109</h>
+      <object_id>4292543</object_id>
+      <w>87</w>
+      <y>0</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>grill</name>
+      <h>15</h>
+      <object_id>4552094</object_id>
+      <w>17</w>
+      <y>94</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>yard</name>
+      <h>94</h>
+      <object_id>4552095</object_id>
+      <w>152</w>
+      <y>95</y>
+      <x>31</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Large metallic appliances sitting next to each other in an outdoor kitchen.</caption>
+      <caption>A line of appliances located in a barn with a hay floor</caption>
+      <caption>Metallic kitchen appliances sitting in an outdoor storage area. </caption>
+      <caption>Commercial refrigerator and old stove in a barn</caption>
+      <caption>An outdoor kitchen with a furnace and ice box.</caption>
+    </captions>
+</image>

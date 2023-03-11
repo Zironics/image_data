@@ -1,0 +1,76 @@
+<image>
+  <image-id>2386711</image-id>
+  <coco-id>258893</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4584926</relationship_id>
+      <predicate>wears</predicate>
+      <subject>4059582</subject>
+      <object>4059583</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4713563</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4376844</subject>
+      <object>4376845</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4584962</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4059673</subject>
+      <object>4376844</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>76</h>
+      <object_id>4059582</object_id>
+      <w>54</w>
+      <y>130</y>
+      <x>302</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>25</h>
+      <object_id>4059583</object_id>
+      <w>25</w>
+      <y>128</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>92</h>
+      <object_id>4376844</object_id>
+      <w>271</w>
+      <y>150</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>22</h>
+      <object_id>4376845</object_id>
+      <w>260</w>
+      <y>226</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>95</h>
+      <object_id>4059673</object_id>
+      <w>221</w>
+      <y>132</y>
+      <x>172</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Four people and a pig in a speedboat on a lake.</caption>
+      <caption>A group of people sitting in a white boat floating on water.</caption>
+      <caption>Four people in a motor boat on a body of water.</caption>
+      <caption>People with a pig riding a speedboat in a lake.</caption>
+      <caption>The people are riding the boat in the water.</caption>
+    </captions>
+</image>

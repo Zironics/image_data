@@ -1,0 +1,104 @@
+<image>
+  <image-id>2327396</image-id>
+  <coco-id>46339</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3634841</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3179081</subject>
+      <object>3522479</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473911</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2765246</subject>
+      <object>2765247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473912</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3937651</subject>
+      <object>3179081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473913</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2756387</subject>
+      <object>3937651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4473914</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3179081</subject>
+      <object>2956860</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>68</h>
+      <object_id>3179081</object_id>
+      <w>29</w>
+      <y>231</y>
+      <x>115</x>
+      <name>person</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>dress</name>
+      <h>38</h>
+      <object_id>3522479</object_id>
+      <w>25</w>
+      <y>230</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>8</h>
+      <object_id>2765246</object_id>
+      <w>12</w>
+      <y>132</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>186</h>
+      <object_id>2765247</object_id>
+      <w>371</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>shoulder</name>
+      <h>11</h>
+      <object_id>3937651</object_id>
+      <w>15</w>
+      <y>231</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>purse</name>
+      <h>26</h>
+      <object_id>2756387</object_id>
+      <w>11</w>
+      <y>234</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>blue jeans</name>
+      <h>21</h>
+      <object_id>2956860</object_id>
+      <w>10</w>
+      <y>266</y>
+      <x>136</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A mannequin in a suit in a department store.</caption>
+      <caption>A manikin in a suit on display has no pants</caption>
+      <caption>A mannequin that is wearing a suit and tie.</caption>
+      <caption>A close shot of a model wearing a suit jacket and tie. </caption>
+      <caption>A number of mannequins in a clothing store </caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2333128</image-id>
+  <coco-id>209478</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3731802</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3456242</subject>
+      <object>3430205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4455979</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3012765</subject>
+      <object>3928002</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>White</attribute>
+      </attributes>
+      <name>wii remote</name>
+      <h>136</h>
+      <object_id>3456242</object_id>
+      <w>166</w>
+      <y>88</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>217</h>
+      <object_id>3430205</object_id>
+      <w>265</w>
+      <y>112</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>finger nail</name>
+      <h>69</h>
+      <object_id>3012765</object_id>
+      <w>67</w>
+      <y>130</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>219</h>
+      <object_id>3928002</object_id>
+      <w>270</w>
+      <y>111</y>
+      <x>74</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person is holding a video game console controller</caption>
+      <caption>A hand holding a wii remote in it.</caption>
+      <caption>A hand holding a video game controller with their left hand.</caption>
+      <caption>A person is holding a Wii controller in their left hand.</caption>
+      <caption>A hand is holding up an electronic gadget.</caption>
+    </captions>
+</image>

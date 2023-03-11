@@ -1,0 +1,83 @@
+<image>
+  <image-id>2402238</image-id>
+  <coco-id>23630</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>790069</relationship_id>
+      <predicate>IN</predicate>
+      <subject>391515</subject>
+      <object>391516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3279056</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1138734</subject>
+      <object>1138735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3279064</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1138734</subject>
+      <object>1138735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3279076</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1138734</subject>
+      <object>1138735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>790102</relationship_id>
+      <predicate>IN</predicate>
+      <subject>391515</subject>
+      <object>391516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3279080</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1138734</subject>
+      <object>1138735</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree</name>
+      <h>127</h>
+      <object_id>391515</object_id>
+      <w>77</w>
+      <y>22</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>distance</name>
+      <h>157</h>
+      <object_id>391516</object_id>
+      <w>476</w>
+      <y>3</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>38</h>
+      <object_id>1138734</object_id>
+      <w>40</w>
+      <y>22</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>38</h>
+      <object_id>1138735</object_id>
+      <w>41</w>
+      <y>26</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>zebras are walking in a pack on the grass</caption>
+      <caption>Zebras walking around in a green field during the day</caption>
+      <caption>a field full zebras on some green grass</caption>
+      <caption>Five zebra graze in a grassy field with trees and shrubs.</caption>
+      <caption>A group of zebras grazing on short grass. </caption>
+    </captions>
+</image>

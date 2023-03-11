@@ -1,0 +1,96 @@
+<image>
+  <image-id>2327065</image-id>
+  <coco-id>187283</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4474948</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2936279</subject>
+      <object>2936280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4474949</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2940266</subject>
+      <object>2936280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4474950</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3032586</subject>
+      <object>2936280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3748018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2936279</subject>
+      <object>2936280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3654492</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2936279</subject>
+      <object>2936280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3654493</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3516889</subject>
+      <object>2936280</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>282</h>
+      <object_id>2936279</object_id>
+      <w>387</w>
+      <y>6</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+        <attribute>melamine</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>318</h>
+      <object_id>2936280</object_id>
+      <w>499</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>tomato</name>
+      <h>63</h>
+      <object_id>2940266</object_id>
+      <w>82</w>
+      <y>64</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>green design</name>
+      <h>285</h>
+      <object_id>3032586</object_id>
+      <w>497</w>
+      <y>9</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>vegetables</name>
+      <h>270</h>
+      <object_id>3516889</object_id>
+      <w>383</w>
+      <y>15</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dish of vegetables mixed together in a bowl.</caption>
+      <caption>A bowl filled with vegetables sits on the table.</caption>
+      <caption>A salad bowl of seasoned vegetables with chickpeas</caption>
+      <caption>A bowl of vegetables including broccoli and tomatoes.</caption>
+      <caption>A bowl of fresh vegetables on a marble table.</caption>
+    </captions>
+</image>

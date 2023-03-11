@@ -1,0 +1,85 @@
+<image>
+  <image-id>2349206</image-id>
+  <coco-id>64024</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3815455</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>2109080</subject>
+      <object>2109081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4416027</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2350500</subject>
+      <object>2350501</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3815457</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2177377</subject>
+      <object>2437944</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>132</h>
+      <object_id>2109080</object_id>
+      <w>109</w>
+      <y>307</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>197</h>
+      <object_id>2109081</object_id>
+      <w>162</w>
+      <y>244</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>267</h>
+      <object_id>2350500</object_id>
+      <w>217</w>
+      <y>11</y>
+      <x>225</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>347</h>
+      <object_id>2350501</object_id>
+      <w>425</w>
+      <y>18</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>lamp</name>
+      <h>118</h>
+      <object_id>2177377</object_id>
+      <w>102</w>
+      <y>312</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>153</h>
+      <object_id>2437944</object_id>
+      <w>480</w>
+      <y>345</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brick building with a sign and letters on the building that say The Talbot.</caption>
+      <caption>a photo of a bar called the talbot</caption>
+      <caption>A hanging business sign with a dog on it</caption>
+      <caption>A picture of a building and a sign of the business.</caption>
+      <caption>A brick building with a shop called the Talbot.</caption>
+    </captions>
+</image>

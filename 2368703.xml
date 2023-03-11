@@ -1,0 +1,48 @@
+<image>
+  <image-id>2368703</image-id>
+  <coco-id>163927</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1585268</relationship_id>
+      <predicate>IN</predicate>
+      <subject>616600</subject>
+      <object>616596</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>grazing</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>23</h>
+      <object_id>616600</object_id>
+      <w>19</w>
+      <y>265</y>
+      <x>381</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>green</attribute>
+        <attribute>grassy</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>field</name>
+      <h>49</h>
+      <object_id>616596</object_id>
+      <w>58</w>
+      <y>239</y>
+      <x>48</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Many animals are standing in the grass among the trees and a bright blue sky.</caption>
+      <caption>A flock of sheep is grazing on the grass.</caption>
+      <caption>A herd of sheep grazing in an open pasture.</caption>
+      <caption>A flock of sheep in a green pasture on a clear day.</caption>
+      <caption>A herd of animals walking across a lush green field.</caption>
+    </captions>
+</image>

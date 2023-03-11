@@ -1,0 +1,83 @@
+<image>
+  <image-id>2339170</image-id>
+  <coco-id>96461</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4052102</relationship_id>
+      <predicate>with</predicate>
+      <subject>2983032</subject>
+      <object>2983033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4052103</relationship_id>
+      <predicate>with</predicate>
+      <subject>2983032</subject>
+      <object>2983034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4052104</relationship_id>
+      <predicate>with</predicate>
+      <subject>3043144</subject>
+      <object>3043145</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+      </attributes>
+      <name>bathroom</name>
+      <h>458</h>
+      <object_id>2983032</object_id>
+      <w>332</w>
+      <y>41</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>toliet</name>
+      <h>156</h>
+      <object_id>2983033</object_id>
+      <w>90</w>
+      <y>315</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>95</h>
+      <object_id>2983034</object_id>
+      <w>87</w>
+      <y>223</y>
+      <x>108</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>361</h>
+      <object_id>3043144</object_id>
+      <w>321</w>
+      <y>60</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ruined</attribute>
+        <attribute>tree</attribute>
+      </attributes>
+      <name>design</name>
+      <h>271</h>
+      <object_id>3043145</object_id>
+      <w>288</w>
+      <y>101</y>
+      <x>39</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom that appears to be very dirty, with a broken toilet and miscellaneous painting on the wall.</caption>
+      <caption>The decrepit bathroom includes a sink and a bathroom. </caption>
+      <caption>A white sink mounted to the side of a white wall.</caption>
+      <caption>a white sink in a dirty looking bathroom</caption>
+      <caption>A bathroom in disrepair and covered in graffiti.</caption>
+    </captions>
+</image>

@@ -1,0 +1,76 @@
+<image>
+  <image-id>2328932</image-id>
+  <coco-id>525510</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4142552</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2862545</subject>
+      <object>2862546</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770727</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2862545</subject>
+      <object>3391509</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4142556</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3028891</subject>
+      <object>3028892</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wheel</name>
+      <h>93</h>
+      <object_id>2862545</object_id>
+      <w>153</w>
+      <y>195</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>37</h>
+      <object_id>2862546</object_id>
+      <w>32</w>
+      <y>248</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>car</name>
+      <h>87</h>
+      <object_id>3391509</object_id>
+      <w>146</w>
+      <y>197</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>license plate</name>
+      <h>12</h>
+      <object_id>3028891</object_id>
+      <w>26</w>
+      <y>239</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>75</h>
+      <object_id>3028892</object_id>
+      <w>85</w>
+      <y>188</y>
+      <x>173</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a number of cars stopped at a traffic light</caption>
+      <caption>Cars stop as they approach a red light at an intersection.</caption>
+      <caption>Some cars waiting at a red light on the road</caption>
+      <caption>City street with various vehicles and several traffic lights, mountains in the background</caption>
+      <caption>A crowded city street filled with traffic beneath a mountain.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2338483</image-id>
+  <coco-id>576931</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4798267</relationship_id>
+      <predicate>in</predicate>
+      <subject>4594359</subject>
+      <object>4594360</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798268</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4594363</subject>
+      <object>4594364</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cloud</name>
+      <h>34</h>
+      <object_id>4594359</object_id>
+      <w>46</w>
+      <y>140</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>205</h>
+      <object_id>4594360</object_id>
+      <w>496</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>140</h>
+      <object_id>4594363</object_id>
+      <w>63</w>
+      <y>337</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>162</h>
+      <object_id>4594364</object_id>
+      <w>70</w>
+      <y>327</y>
+      <x>185</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of young people standing next to each other in ski equipment.</caption>
+      <caption>Six down hill skiers posing together and smiling</caption>
+      <caption>A group of people are standing in the snow on skis.</caption>
+      <caption>A group of people on skis posing for a photo.</caption>
+      <caption>A group of skiers posing with their skis.</caption>
+    </captions>
+</image>

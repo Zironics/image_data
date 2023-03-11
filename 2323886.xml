@@ -1,0 +1,62 @@
+<image>
+  <image-id>2323886</image-id>
+  <coco-id>444086</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4070145</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3116995</subject>
+      <object>3116994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3728081</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3471838</subject>
+      <object>3471839</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>210</h>
+      <object_id>3116995</object_id>
+      <w>498</w>
+      <y>121</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>182</h>
+      <object_id>3116994</object_id>
+      <w>497</w>
+      <y>148</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>105</h>
+      <object_id>3471838</object_id>
+      <w>117</w>
+      <y>85</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>22</h>
+      <object_id>3471839</object_id>
+      <w>24</w>
+      <y>86</y>
+      <x>153</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person riding a snowboard down the side of a snow covered mountain.</caption>
+      <caption>A snowboarder making a turn on a steep hill.</caption>
+      <caption>someone is ski boarding down a snowy slope</caption>
+      <caption>a person snowboarding down a hill all by themselves </caption>
+      <caption>View of a snowboarder riding down a mountain covered with snow.</caption>
+    </captions>
+</image>

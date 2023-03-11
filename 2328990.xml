@@ -1,0 +1,89 @@
+<image>
+  <image-id>2328990</image-id>
+  <coco-id>100083</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4141566</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2769946</subject>
+      <object>3053345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141567</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3293870</subject>
+      <object>3053345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141569</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3080408</subject>
+      <object>3053345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141570</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3293870</subject>
+      <object>3053345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141571</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3293870</subject>
+      <object>3053345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141572</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3293870</subject>
+      <object>3053345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141573</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3293870</subject>
+      <object>3053345</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>french fry</name>
+      <h>26</h>
+      <object_id>2769946</object_id>
+      <w>107</w>
+      <y>40</y>
+      <x>339</x>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>200</h>
+      <object_id>3053345</object_id>
+      <w>249</w>
+      <y>0</y>
+      <x>241</x>
+    </object>
+    <object>
+      <h>60</h>
+      <object_id>3293870</object_id>
+      <w>72</w>
+      <y>122</y>
+      <x>327</x>
+      <name>french fry</name>
+    </object>
+    <object>
+      <name>french fry</name>
+      <h>91</h>
+      <object_id>3080408</object_id>
+      <w>110</w>
+      <y>96</y>
+      <x>371</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Fast food burger and fries sitting on the wrappers.</caption>
+      <caption>A sandwich and french fries are on a picnic table.</caption>
+      <caption>A chicken sandwich and fries on a table.</caption>
+      <caption>A loaded fried chicken sandwich with a side of fries.</caption>
+      <caption>A fried chicken sandwich with a small bag of french fries.</caption>
+    </captions>
+</image>

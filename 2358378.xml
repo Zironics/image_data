@@ -1,0 +1,252 @@
+<image>
+  <image-id>2358378</image-id>
+  <coco-id>137178</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2251549</relationship_id>
+      <predicate>printed on</predicate>
+      <subject>803408</subject>
+      <object>803409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251550</relationship_id>
+      <predicate>holding</predicate>
+      <subject>803410</subject>
+      <object>803411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251555</relationship_id>
+      <predicate>visible on</predicate>
+      <subject>803408</subject>
+      <object>803409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251556</relationship_id>
+      <predicate>has</predicate>
+      <subject>803410</subject>
+      <object>803412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251558</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>803413</subject>
+      <object>803412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251557</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>803410</subject>
+      <object>803413</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251559</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>803408</subject>
+      <object>803409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251560</relationship_id>
+      <predicate>printed on</predicate>
+      <subject>803408</subject>
+      <object>803409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251561</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>803410</subject>
+      <object>803412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251562</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>803410</subject>
+      <object>803417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251563</relationship_id>
+      <predicate>behind</predicate>
+      <subject>803415</subject>
+      <object>803410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251564</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>803410</subject>
+      <object>803414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251565</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>803418</subject>
+      <object>803410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251566</relationship_id>
+      <predicate>on surface of</predicate>
+      <subject>803419</subject>
+      <object>803417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251567</relationship_id>
+      <predicate>visisble on</predicate>
+      <subject>803408</subject>
+      <object>803409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251568</relationship_id>
+      <predicate>behind</predicate>
+      <subject>803410</subject>
+      <object>803418</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2251569</relationship_id>
+      <predicate>next to</predicate>
+      <subject>803416</subject>
+      <object>803415</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>18</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>number</name>
+      <h>47</h>
+      <object_id>803408</object_id>
+      <w>42</w>
+      <y>164</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>jersey</name>
+      <h>103</h>
+      <object_id>803409</object_id>
+      <w>119</w>
+      <y>144</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ready</attribute>
+        <attribute>looking at pitcher</attribute>
+        <attribute>at bat</attribute>
+        <attribute>playing baseball</attribute>
+        <attribute>ready to hit ball</attribute>
+      </attributes>
+      <name>player</name>
+      <h>242</h>
+      <object_id>803410</object_id>
+      <w>156</w>
+      <y>90</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>103</h>
+      <object_id>803411</object_id>
+      <w>31</w>
+      <y>44</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>88</h>
+      <object_id>803412</object_id>
+      <w>143</w>
+      <y>244</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>belt</name>
+      <h>11</h>
+      <object_id>803413</object_id>
+      <w>57</w>
+      <y>239</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>baseball field</name>
+      <h>330</h>
+      <object_id>803417</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>catcher's mitt</name>
+      <h>41</h>
+      <object_id>803415</object_id>
+      <w>49</w>
+      <y>268</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>40</h>
+      <object_id>803414</object_id>
+      <w>68</w>
+      <y>89</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>329</h>
+      <object_id>803418</object_id>
+      <w>498</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>35</h>
+      <object_id>803419</object_id>
+      <w>500</w>
+      <y>223</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>catcher's arm</attribute>
+      </attributes>
+      <name>arm</name>
+      <h>24</h>
+      <object_id>803416</object_id>
+      <w>42</w>
+      <y>291</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player standing next to home base with a bat.</caption>
+      <caption>The baseball player is getting ready to hit the ball.</caption>
+      <caption>A baseball player standing ready at home plate.</caption>
+      <caption>A baseball player is up to bat at a game.</caption>
+      <caption>A baseball player is holding a bat and getting ready to swing.</caption>
+    </captions>
+</image>

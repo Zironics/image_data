@@ -1,0 +1,115 @@
+<image>
+  <image-id>2377587</image-id>
+  <coco-id>231222</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4299471</relationship_id>
+      <predicate>eats</predicate>
+      <subject>2688382</subject>
+      <object>3838008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3999597</relationship_id>
+      <predicate>below</predicate>
+      <subject>2633307</subject>
+      <object>2688382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3999598</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1860661</subject>
+      <object>2688382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4299472</relationship_id>
+      <predicate>grazing on</predicate>
+      <subject>2688382</subject>
+      <object>3838008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4299473</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>1943255</subject>
+      <object>3838009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4299474</relationship_id>
+      <predicate>sticking out of</predicate>
+      <subject>2093189</subject>
+      <object>3838010</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>242</h>
+      <object_id>2688382</object_id>
+      <w>234</w>
+      <y>87</y>
+      <x>101</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>103</h>
+      <object_id>3838008</object_id>
+      <w>499</w>
+      <y>268</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>49</h>
+      <object_id>2633307</object_id>
+      <w>190</w>
+      <y>292</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>belly</name>
+      <h>33</h>
+      <object_id>1860661</object_id>
+      <w>85</w>
+      <y>177</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>78</h>
+      <object_id>1943255</object_id>
+      <w>215</w>
+      <y>0</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>enclosure</name>
+      <h>71</h>
+      <object_id>3838009</object_id>
+      <w>427</w>
+      <y>18</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>208</h>
+      <object_id>2093189</object_id>
+      <w>20</w>
+      <y>123</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>322</h>
+      <object_id>3838010</object_id>
+      <w>497</w>
+      <y>49</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing by some rocks in a field.</caption>
+      <caption>A zebra grazes in it's spacious zoo-like enclosure</caption>
+      <caption>A zebra grazes near the fence of it's enclosure.</caption>
+      <caption>A zebra standing along in a field next to a fence.</caption>
+      <caption>A zebra stands by a fence as it eats some bright green grass</caption>
+    </captions>
+</image>

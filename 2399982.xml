@@ -1,0 +1,186 @@
+<image>
+  <image-id>2399982</image-id>
+  <coco-id>189547</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3316442</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1164163</subject>
+      <object>1164164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316443</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1164164</subject>
+      <object>1164165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316445</relationship_id>
+      <predicate>with</predicate>
+      <subject>1164163</subject>
+      <object>1164161</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286134</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>3818736</subject>
+      <object>3818737</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4286133</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>1164163</subject>
+      <object>3818737</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316447</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1164160</subject>
+      <object>1164163</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316448</relationship_id>
+      <predicate>cut in</predicate>
+      <subject>1164163</subject>
+      <object>1164166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316449</relationship_id>
+      <predicate>filling in</predicate>
+      <subject>1164161</subject>
+      <object>1164166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316450</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1164163</subject>
+      <object>1164166</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316451</relationship_id>
+      <predicate>stuffed with</predicate>
+      <subject>1164163</subject>
+      <object>1164161</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316452</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1164161</subject>
+      <object>1164163</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316453</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1164163</subject>
+      <object>1164164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316454</relationship_id>
+      <predicate>stuffed with</predicate>
+      <subject>1164163</subject>
+      <object>1164161</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3316456</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1164163</subject>
+      <object>1164164</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>halved</attribute>
+        <attribute>fried</attribute>
+        <attribute>cut</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>chicken</name>
+      <h>213</h>
+      <object_id>1164163</object_id>
+      <w>483</w>
+      <y>8</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>shiny</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>177</h>
+      <object_id>1164164</object_id>
+      <w>474</w>
+      <y>197</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>273</h>
+      <object_id>1164165</object_id>
+      <w>492</w>
+      <y>90</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>white</attribute>
+        <attribute>melted</attribute>
+      </attributes>
+      <name>cheese</name>
+      <h>68</h>
+      <object_id>1164161</object_id>
+      <w>294</w>
+      <y>103</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>chicken half</name>
+      <h>170</h>
+      <object_id>3818736</object_id>
+      <w>210</w>
+      <y>1</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>240</h>
+      <object_id>3818737</object_id>
+      <w>482</w>
+      <y>131</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>crispy</attribute>
+      </attributes>
+      <name>crumb</name>
+      <h>61</h>
+      <object_id>1164160</object_id>
+      <w>259</w>
+      <y>26</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>half</name>
+      <h>207</h>
+      <object_id>1164166</object_id>
+      <w>290</w>
+      <y>23</y>
+      <x>21</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cut in half chicken sandwich sitting on a plate.</caption>
+      <caption>A closeup view of food on a plate </caption>
+      <caption>a sandwich cut into pieces on a plate</caption>
+      <caption>two chicken patties filled with cheese in the center</caption>
+      <caption>A thick white meat sandwich is cut in half.</caption>
+    </captions>
+</image>

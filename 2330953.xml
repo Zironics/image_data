@@ -1,0 +1,41 @@
+<image>
+  <image-id>2330953</image-id>
+  <coco-id>250048</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4759412</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4491089</subject>
+      <object>4491088</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>stripes</name>
+      <h>20</h>
+      <object_id>4491089</object_id>
+      <w>54</w>
+      <y>173</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>31</h>
+      <object_id>4491088</object_id>
+      <w>70</w>
+      <y>164</y>
+      <x>102</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Group of zebras walking single file through a field</caption>
+      <caption>A herd of zebra standing on top of a green field.</caption>
+      <caption>Many zebras standing in a grassy field together.</caption>
+      <caption>A few animals that are on a grassy field.</caption>
+      <caption>A group of zebra's walking through a field.</caption>
+    </captions>
+</image>

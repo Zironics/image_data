@@ -1,0 +1,51 @@
+<image>
+  <image-id>2331953</image-id>
+  <coco-id>1562</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4714640</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4379409</subject>
+      <object>4379410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4714641</relationship_id>
+      <predicate>by</predicate>
+      <subject>4379410</subject>
+      <object>4379411</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>roof</name>
+      <h>37</h>
+      <object_id>4379409</object_id>
+      <w>80</w>
+      <y>124</y>
+      <x>412</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>68</h>
+      <object_id>4379410</object_id>
+      <w>86</w>
+      <y>128</y>
+      <x>409</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>59</h>
+      <object_id>4379411</object_id>
+      <w>409</w>
+      <y>255</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wagon rides on a track in an old town</caption>
+      <caption>this is a old photo of a railroad with a large building behind it</caption>
+      <caption>An old fashioned picture of a train yard.</caption>
+      <caption>A very large building and a cart on a road.</caption>
+      <caption>Vintage photograph of train yard and large building.</caption>
+    </captions>
+</image>

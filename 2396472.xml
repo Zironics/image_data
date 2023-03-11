@@ -1,0 +1,136 @@
+<image>
+  <image-id>2396472</image-id>
+  <coco-id>317365</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3369562</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1197642</subject>
+      <object>1197643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3369563</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1197646</subject>
+      <object>1197643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3369564</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1197647</subject>
+      <object>1197648</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3369565</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1197653</subject>
+      <object>1197652</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3369566</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1197652</subject>
+      <object>1197644</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>black</attribute>
+        <attribute>on the right side</attribute>
+      </attributes>
+      <name>camera</name>
+      <h>49</h>
+      <object_id>1197642</object_id>
+      <w>84</w>
+      <y>179</y>
+      <x>410</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>stuffed elephant</name>
+      <h>123</h>
+      <object_id>1197643</object_id>
+      <w>87</w>
+      <y>120</y>
+      <x>409</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>7</h>
+      <object_id>1197646</object_id>
+      <w>6</w>
+      <y>148</y>
+      <x>442</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>pen</name>
+      <h>71</h>
+      <object_id>1197647</object_id>
+      <w>15</w>
+      <y>246</y>
+      <x>316</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>notebook</name>
+      <h>98</h>
+      <object_id>1197648</object_id>
+      <w>67</w>
+      <y>234</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>pom pom</name>
+      <h>29</h>
+      <object_id>1197653</object_id>
+      <w>39</w>
+      <y>141</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>wool</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>winter hat</name>
+      <h>135</h>
+      <object_id>1197652</object_id>
+      <w>119</w>
+      <y>142</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>happy</attribute>
+        <attribute>for baby</attribute>
+      </attributes>
+      <name>smiley face toy</name>
+      <h>53</h>
+      <object_id>1197644</object_id>
+      <w>58</w>
+      <y>105</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tale topped with a large pile of clutter.</caption>
+      <caption>A wallet and a plastic banana on the ground.</caption>
+      <caption>Various toys and items on carpet that includes wallets and a camera.</caption>
+      <caption>The contents of a diaper bag spread out and separated.</caption>
+      <caption>A notebook, wallet, camera, hat, child's toys, sip cup and numerous other items.</caption>
+    </captions>
+</image>

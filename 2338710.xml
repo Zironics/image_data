@@ -1,0 +1,168 @@
+<image>
+  <image-id>2338710</image-id>
+  <coco-id>292225</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459379</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3929852</subject>
+      <object>3929850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459380</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3929852</subject>
+      <object>3929853</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459381</relationship_id>
+      <predicate>adjacent to</predicate>
+      <subject>953324</subject>
+      <object>3929854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459382</relationship_id>
+      <predicate>supporting</predicate>
+      <subject>953327</subject>
+      <object>3929855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459383</relationship_id>
+      <predicate>ON</predicate>
+      <subject>953328</subject>
+      <object>3929856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459384</relationship_id>
+      <predicate>next to</predicate>
+      <subject>953329</subject>
+      <object>3929857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459385</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3929858</subject>
+      <object>3929859</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>45</h>
+      <object_id>3929852</object_id>
+      <w>31</w>
+      <y>131</y>
+      <x>66</x>
+      <name>girl</name>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>12</h>
+      <object_id>3929850</object_id>
+      <w>18</w>
+      <y>143</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>11</h>
+      <object_id>3929853</object_id>
+      <w>17</w>
+      <y>144</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>grass adjacent</name>
+      <h>46</h>
+      <object_id>953324</object_id>
+      <w>61</w>
+      <y>193</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>33</h>
+      <object_id>3929854</object_id>
+      <w>306</w>
+      <y>155</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>metal beam</name>
+      <h>100</h>
+      <object_id>953327</object_id>
+      <w>34</w>
+      <y>75</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>155</h>
+      <object_id>3929855</object_id>
+      <w>294</w>
+      <y>26</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white t-shirt</name>
+      <h>17</h>
+      <object_id>953328</object_id>
+      <w>23</w>
+      <y>137</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>51</h>
+      <object_id>3929856</object_id>
+      <w>33</w>
+      <y>129</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>tree next to</name>
+      <h>138</h>
+      <object_id>953329</object_id>
+      <w>90</w>
+      <y>43</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>23</h>
+      <object_id>3929857</object_id>
+      <w>288</w>
+      <y>161</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>5</h>
+      <object_id>3929858</object_id>
+      <w>13</w>
+      <y>132</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>47</h>
+      <object_id>3929859</object_id>
+      <w>39</w>
+      <y>126</y>
+      <x>64</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>People are playing tennis behind a long fence.</caption>
+      <caption>People on a tennis court are playing tennis. </caption>
+      <caption>Two girls are playing tennis on a tennis court.</caption>
+      <caption>Two women play singles tennis outdoor surrounded by trees.</caption>
+      <caption>Two people are playing tennis in an outside court.</caption>
+    </captions>
+</image>

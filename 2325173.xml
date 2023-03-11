@@ -1,0 +1,81 @@
+<image>
+  <image-id>2325173</image-id>
+  <coco-id>33650</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4485555</relationship_id>
+      <predicate>piece of glass in</predicate>
+      <subject>3941998</subject>
+      <object>3941999</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4485556</relationship_id>
+      <predicate>piece of glass in</predicate>
+      <subject>3942000</subject>
+      <object>2867035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4485557</relationship_id>
+      <predicate>piece of glass in</predicate>
+      <subject>3942001</subject>
+      <object>3942002</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>circular</name>
+      <h>51</h>
+      <object_id>3941998</object_id>
+      <w>38</w>
+      <y>52</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>59</h>
+      <object_id>3941999</object_id>
+      <w>50</w>
+      <y>101</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>circular</name>
+      <h>44</h>
+      <object_id>3942000</object_id>
+      <w>41</w>
+      <y>49</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>83</h>
+      <object_id>2867035</object_id>
+      <w>56</w>
+      <y>0</y>
+      <x>0</x>
+      <name>glass</name>
+    </object>
+    <object>
+      <name>circular</name>
+      <h>51</h>
+      <object_id>3942001</object_id>
+      <w>57</w>
+      <y>52</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>37</h>
+      <object_id>3942002</object_id>
+      <w>57</w>
+      <y>100</y>
+      <x>18</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bedroom area with a draped bed and a desk.</caption>
+      <caption>A double bed with a canopy next to a window.</caption>
+      <caption>A bed with a canopy made of netting, tied back with ribbons.</caption>
+      <caption>A fancy bed with curtains in an orange room.</caption>
+      <caption>A bed is shown with a canopy over it.</caption>
+    </captions>
+</image>

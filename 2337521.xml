@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337521</image-id>
+  <coco-id>45550</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4077294</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2087719</subject>
+      <object>2087720</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077295</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2815852</subject>
+      <object>2815847</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bread</name>
+      <h>131</h>
+      <object_id>2087719</object_id>
+      <w>175</w>
+      <y>239</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>80</h>
+      <object_id>2087720</object_id>
+      <w>332</w>
+      <y>294</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>92</h>
+      <object_id>2815852</object_id>
+      <w>77</w>
+      <y>59</y>
+      <x>405</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>216</h>
+      <object_id>2815847</object_id>
+      <w>65</w>
+      <y>28</y>
+      <x>408</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a close up of a person holding up a plate of food</caption>
+      <caption>A man with beard holding up a plate of food.</caption>
+      <caption>Bearded man shows off his grilled cheese sandwiches.</caption>
+      <caption>A man taking a selfie eating something fried</caption>
+      <caption>A person in a restaurant holding a plate of food.</caption>
+    </captions>
+</image>

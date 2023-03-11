@@ -1,0 +1,105 @@
+<image>
+  <image-id>2319171</image-id>
+  <coco-id>343984</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3860623</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3621044</subject>
+      <object>3221244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840692</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3621044</subject>
+      <object>2809696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860626</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3621044</subject>
+      <object>3621043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860627</relationship_id>
+      <predicate>STANDS UNDERNEATH</predicate>
+      <subject>2764308</subject>
+      <object>3621044</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860628</relationship_id>
+      <predicate>IS BEHIND</predicate>
+      <subject>3395992</subject>
+      <object>2764308</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>248</h>
+      <object_id>3621044</object_id>
+      <w>142</w>
+      <y>73</y>
+      <x>199</x>
+      <name>human</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>GREY</attribute>
+      </attributes>
+      <name>sweat shirt</name>
+      <h>85</h>
+      <object_id>3221244</object_id>
+      <w>76</w>
+      <y>104</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>jeans</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>60</h>
+      <object_id>2809696</object_id>
+      <w>126</w>
+      <y>173</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>BLACK</attribute>
+      </attributes>
+      <name>shoes</name>
+      <h>30</h>
+      <object_id>3621043</object_id>
+      <w>41</w>
+      <y>297</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>180</h>
+      <object_id>2764308</object_id>
+      <w>362</w>
+      <y>151</y>
+      <x>107</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>BROWN</attribute>
+      </attributes>
+      <name>brown horse</name>
+      <h>105</h>
+      <object_id>3395992</object_id>
+      <w>159</w>
+      <y>131</y>
+      <x>210</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man rides a brown and white spotted horse near the ocean.</caption>
+      <caption>A man is riding a horse by a river.</caption>
+      <caption>A couple on horses out by a water way.</caption>
+      <caption>Man in shorts riding a brown and white horse over sand.</caption>
+      <caption>A man crosses the desert on horse back. </caption>
+    </captions>
+</image>

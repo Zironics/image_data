@@ -1,0 +1,59 @@
+<image>
+  <image-id>1159592</image-id>
+  <coco-id>212679</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4069843</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1595439</subject>
+      <object>1595438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4069844</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3704269</subject>
+      <object>1595443</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>design</name>
+      <h>87</h>
+      <object_id>1595439</object_id>
+      <w>115</w>
+      <y>522</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>339</h>
+      <object_id>1595438</object_id>
+      <w>367</w>
+      <y>330</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>236</h>
+      <object_id>3704269</object_id>
+      <w>251</w>
+      <y>405</y>
+      <x>542</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>235</h>
+      <object_id>1595443</object_id>
+      <w>206</w>
+      <y>410</y>
+      <x>600</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dining room table set for a meal</caption>
+      <caption>a dining table with plates, cups, cookies and drinking glasses</caption>
+      <caption>A table with place settings for 7 people.</caption>
+      <caption>A table with plates and napkins set up</caption>
+      <caption>The table is set with several bowls and plates.</caption>
+    </captions>
+</image>

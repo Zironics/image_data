@@ -1,0 +1,83 @@
+<image>
+  <image-id>2385686</image-id>
+  <coco-id>531967</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4656395</relationship_id>
+      <predicate>above</predicate>
+      <subject>4236024</subject>
+      <object>4236026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4656396</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4236027</subject>
+      <object>4236026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4656398</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4236030</subject>
+      <object>4236031</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>picture</attribute>
+      </attributes>
+      <name>decoration</name>
+      <h>50</h>
+      <object_id>4236024</object_id>
+      <w>71</w>
+      <y>150</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>150</h>
+      <object_id>4236026</object_id>
+      <w>190</w>
+      <y>218</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pot</name>
+      <h>50</h>
+      <object_id>4236027</object_id>
+      <w>63</w>
+      <y>259</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>toaster</attribute>
+      </attributes>
+      <name>oven</name>
+      <h>74</h>
+      <object_id>4236030</object_id>
+      <w>84</w>
+      <y>240</y>
+      <x>400</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>123</h>
+      <object_id>4236031</object_id>
+      <w>320</w>
+      <y>244</y>
+      <x>159</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beautiful woman sitting on top of a kitchen counter.</caption>
+      <caption>a lady putting up a poster in her kitchen</caption>
+      <caption>A young woman hangs up a poster in a kitchen.</caption>
+      <caption>A woman sitting on a kitchen counter putting something on the wall</caption>
+      <caption>A woman sitting on a kitchen counter hanging something.</caption>
+    </captions>
+</image>

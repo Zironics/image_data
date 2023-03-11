@@ -1,0 +1,80 @@
+<image>
+  <image-id>2386227</image-id>
+  <coco-id>17379</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1803745</relationship_id>
+      <predicate>ON</predicate>
+      <subject>683098</subject>
+      <object>683102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1803746</relationship_id>
+      <predicate>IN</predicate>
+      <subject>683105</subject>
+      <object>683096</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1803747</relationship_id>
+      <predicate>ON</predicate>
+      <subject>683098</subject>
+      <object>683102</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>drying</attribute>
+      </attributes>
+      <h>56</h>
+      <object_id>683098</object_id>
+      <w>59</w>
+      <y>290</y>
+      <x>219</x>
+      <name>machine</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflection</attribute>
+        <attribute>tile</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>96</h>
+      <object_id>683102</object_id>
+      <w>125</w>
+      <y>88</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mirror</attribute>
+      </attributes>
+      <h>87</h>
+      <object_id>683105</object_id>
+      <w>124</w>
+      <y>166</y>
+      <x>117</x>
+      <name>television</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>big</attribute>
+        <attribute>reflected</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>296</h>
+      <object_id>683096</object_id>
+      <w>346</w>
+      <y>93</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a flat screen TV embedded in a restroom mirror.</caption>
+      <caption>a tv in a bathroom mirror next to sinks</caption>
+      <caption>A football game on TV reflects in a bathroom mirror.</caption>
+      <caption>A flat screen TV adorns a bathroom mirror.</caption>
+      <caption>A photo of a video game in the middle of a large mirror in a bathroom. </caption>
+    </captions>
+</image>

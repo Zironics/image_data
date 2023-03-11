@@ -1,0 +1,90 @@
+<image>
+  <image-id>498063</image-id>
+  <coco-id>318533</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3951210</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1573708</subject>
+      <object>3657325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951212</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1573710</subject>
+      <object>3657327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951213</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1573711</subject>
+      <object>3657328</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>GREEN</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>65</h>
+      <object_id>1573708</object_id>
+      <w>70</w>
+      <y>237</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>296</h>
+      <object_id>3657325</object_id>
+      <w>182</w>
+      <y>158</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>GREEN</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>48</h>
+      <object_id>1573710</object_id>
+      <w>54</w>
+      <y>338</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>197</h>
+      <object_id>3657327</object_id>
+      <w>176</w>
+      <y>251</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>GREEN</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>61</h>
+      <object_id>1573711</object_id>
+      <w>61</w>
+      <y>269</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>195</h>
+      <object_id>3657328</object_id>
+      <w>81</w>
+      <y>331</y>
+      <x>253</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light on the side of a road between two streets.</caption>
+      <caption>Stoplight posts at an intersection of a vacant street.</caption>
+      <caption>The empty intersection of two roads with multiple traffic lights</caption>
+      <caption>A street shows several street lights and an empty intersection.</caption>
+      <caption>An empty street intersection on a foggy day.</caption>
+    </captions>
+</image>

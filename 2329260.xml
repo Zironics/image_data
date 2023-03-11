@@ -1,0 +1,95 @@
+<image>
+  <image-id>2329260</image-id>
+  <coco-id>413628</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4136895</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3728765</subject>
+      <object>3236595</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4136896</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2724877</subject>
+      <object>2724878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4136897</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3368476</subject>
+      <object>3359735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4136898</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3359734</subject>
+      <object>3359735</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>beverage</name>
+      <h>30</h>
+      <object_id>3728765</object_id>
+      <w>110</w>
+      <y>1</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>29</h>
+      <object_id>3236595</object_id>
+      <w>104</w>
+      <y>0</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>chocolate</name>
+      <h>93</h>
+      <object_id>2724877</object_id>
+      <w>100</w>
+      <y>5</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>233</h>
+      <object_id>2724878</object_id>
+      <w>308</w>
+      <y>1</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>85</h>
+      <object_id>3368476</object_id>
+      <w>166</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>278</h>
+      <object_id>3359735</object_id>
+      <w>496</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>271</h>
+      <object_id>3359734</object_id>
+      <w>440</w>
+      <y>8</y>
+      <x>38</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A slice of cake on a plate with whipped cream and a fork on it.</caption>
+      <caption>this is a piece of cake on a white plate</caption>
+      <caption>Large chocolate cake with a moose sitting on top or a plate. </caption>
+      <caption>a close up of a plate of food with cake </caption>
+      <caption>A plate with a slice of dessert with whipped cream.</caption>
+    </captions>
+</image>

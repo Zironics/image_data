@@ -1,0 +1,76 @@
+<image>
+  <image-id>2345692</image-id>
+  <coco-id>4375</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3864418</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3439003</subject>
+      <object>3622730</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3864419</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3439004</subject>
+      <object>3622730</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4429001</relationship_id>
+      <predicate>wearing an</predicate>
+      <subject>2495180</subject>
+      <object>3911693</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skier</name>
+      <h>25</h>
+      <object_id>3439003</object_id>
+      <w>17</w>
+      <y>188</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>170</h>
+      <object_id>3622730</object_id>
+      <w>463</w>
+      <y>154</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>skier</name>
+      <h>31</h>
+      <object_id>3439004</object_id>
+      <w>22</w>
+      <y>188</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>skier</name>
+      <h>60</h>
+      <object_id>2495180</object_id>
+      <w>47</w>
+      <y>179</y>
+      <x>319</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>10</h>
+      <object_id>3911693</object_id>
+      <w>19</w>
+      <y>200</y>
+      <x>338</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of skiers gathers on the top of the slopes.</caption>
+      <caption>A photo of dozens of people on skis and snowboards and a mountain resort.</caption>
+      <caption>many skiers are coming down a hill and a lodge</caption>
+      <caption>Several people skiing in front of ski lodge.</caption>
+      <caption>Several people on skis in the snow outside of a lodge.</caption>
+    </captions>
+</image>

@@ -1,0 +1,80 @@
+<image>
+  <image-id>2321444</image-id>
+  <coco-id>296730</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3792918</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3259175</subject>
+      <object>3259176</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539440</relationship_id>
+      <predicate>at</predicate>
+      <subject>2856641</subject>
+      <object>2856642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3673177</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3176222</subject>
+      <object>2856642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>black hands</name>
+      <h>14</h>
+      <object_id>3259175</object_id>
+      <w>11</w>
+      <y>152</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clock face</name>
+      <h>23</h>
+      <object_id>3259176</object_id>
+      <w>22</w>
+      <y>151</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>doorway</name>
+      <h>36</h>
+      <object_id>2856641</object_id>
+      <w>26</w>
+      <y>407</y>
+      <x>106</x>
+    </object>
+    <object>
+      <name>church</name>
+      <h>439</h>
+      <object_id>2856642</object_id>
+      <w>275</w>
+      <y>18</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>steeple</name>
+      <h>13</h>
+      <object_id>3176222</object_id>
+      <w>7</w>
+      <y>18</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brick building with a clock tower at the corner of a street.</caption>
+      <caption>A clock tower as part of a traditional building during the day.</caption>
+      <caption>A tall church has clocks and trees on a street corner.</caption>
+      <caption>A church with a clock tower on an intersection corner.</caption>
+      <caption>The church has a tall tower where a clock is displayed. </caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>2334196</image-id>
+  <coco-id>109061</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3957576</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2998653</subject>
+      <object>2998654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3957577</relationship_id>
+      <predicate>with</predicate>
+      <subject>2998653</subject>
+      <object>2998655</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>173</h>
+      <object_id>2998653</object_id>
+      <w>87</w>
+      <y>175</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>277</h>
+      <object_id>2998654</object_id>
+      <w>371</w>
+      <y>217</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>frisbee</name>
+      <h>33</h>
+      <object_id>2998655</object_id>
+      <w>31</w>
+      <y>266</y>
+      <x>210</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man with a frisbee poses with a large city in the background.</caption>
+      <caption>A man stands in a park holding a frisbee</caption>
+      <caption>A guy standing in a small field with a big city behind him.</caption>
+      <caption>A man standing in a field holding a frisbee</caption>
+      <caption>The man stands holding a Frisbee across the water from a large city.</caption>
+    </captions>
+</image>

@@ -1,0 +1,118 @@
+<image>
+  <image-id>2415697</image-id>
+  <coco-id>260453</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3679432</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2743201</subject>
+      <object>2743202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875933</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3627329</subject>
+      <object>2743202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875934</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2823347</subject>
+      <object>3627330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253792</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3791622</subject>
+      <object>3627330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875936</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3627329</subject>
+      <object>3627330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875937</relationship_id>
+      <predicate>with</predicate>
+      <subject>2830806</subject>
+      <object>2830807</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sauce</name>
+      <h>135</h>
+      <object_id>2743201</object_id>
+      <w>98</w>
+      <y>96</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>297</h>
+      <object_id>2743202</object_id>
+      <w>455</w>
+      <y>8</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>syrup</name>
+      <h>107</h>
+      <object_id>3627329</object_id>
+      <w>461</w>
+      <y>222</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>blackberry</name>
+      <h>21</h>
+      <object_id>2823347</object_id>
+      <w>27</w>
+      <y>117</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>desert</name>
+      <h>212</h>
+      <object_id>3627330</object_id>
+      <w>276</w>
+      <y>8</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>sugar topping</name>
+      <h>149</h>
+      <object_id>3791622</object_id>
+      <w>199</w>
+      <y>13</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>blueberry cobbler</name>
+      <h>210</h>
+      <object_id>2830806</object_id>
+      <w>272</w>
+      <y>5</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>spoon</name>
+      <h>55</h>
+      <object_id>2830807</object_id>
+      <w>285</w>
+      <y>82</y>
+      <x>211</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A food entree is served on a plate with a spoon.</caption>
+      <caption>A spoon is digging into a dessert covered with syrup.</caption>
+      <caption>The is a spoon stuck in the food on the plate.</caption>
+      <caption>A plate with some kind of desert on it .</caption>
+      <caption>A partially eaten blueberry cobbler with a spoon sitting in it.</caption>
+    </captions>
+</image>

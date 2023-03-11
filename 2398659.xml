@@ -1,0 +1,76 @@
+<image>
+  <image-id>2398659</image-id>
+  <coco-id>162592</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3335625</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1177540</subject>
+      <object>1177541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3335626</relationship_id>
+      <predicate>has</predicate>
+      <subject>1177542</subject>
+      <object>1177543</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>riding</attribute>
+        <attribute>snowboarding</attribute>
+        <attribute>black</attribute>
+        <attribute>heading</attribute>
+        <attribute>headed</attribute>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>124</h>
+      <object_id>1177540</object_id>
+      <w>110</w>
+      <y>238</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>tracked</attribute>
+        <attribute>surface</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>396</h>
+      <object_id>1177541</object_id>
+      <w>332</w>
+      <y>101</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>section</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>80</h>
+      <object_id>1177542</object_id>
+      <w>209</w>
+      <y>181</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>12</h>
+      <object_id>1177543</object_id>
+      <w>26</w>
+      <y>228</y>
+      <x>280</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person is snowboarding down a long hill.</caption>
+      <caption>A snowboarder sliding down a mountain in the snow.</caption>
+      <caption>a man skiing down a hill with a snowboard</caption>
+      <caption>A man snowboarding down a steep white mountain.</caption>
+      <caption>a man that is on a big long snowy path</caption>
+    </captions>
+</image>

@@ -1,0 +1,95 @@
+<image>
+  <image-id>2374902</image-id>
+  <coco-id>528996</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4049865</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1922594</subject>
+      <object>2149802</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049866</relationship_id>
+      <predicate>by</predicate>
+      <subject>2437523</subject>
+      <object>2618387</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049867</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2404353</subject>
+      <object>2404354</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4305579</relationship_id>
+      <predicate>running towards</predicate>
+      <subject>2437523</subject>
+      <object>3843203</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>72</h>
+      <object_id>1922594</object_id>
+      <w>39</w>
+      <y>192</y>
+      <x>288</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>home plate</name>
+      <h>9</h>
+      <object_id>2149802</object_id>
+      <w>22</w>
+      <y>252</y>
+      <x>260</x>
+    </object>
+    <object>
+      <h>73</h>
+      <object_id>2437523</object_id>
+      <w>43</w>
+      <y>167</y>
+      <x>215</x>
+      <name>baseball player</name>
+    </object>
+    <object>
+      <name>base</name>
+      <h>12</h>
+      <object_id>2618387</object_id>
+      <w>25</w>
+      <y>250</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>green grass</name>
+      <h>124</h>
+      <object_id>2404353</object_id>
+      <w>160</w>
+      <y>143</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>baseball field</name>
+      <h>160</h>
+      <object_id>2404354</object_id>
+      <w>342</w>
+      <y>71</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>base</name>
+      <h>18</h>
+      <object_id>3843203</object_id>
+      <w>29</w>
+      <y>249</y>
+      <x>257</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man running down a base line of a baseball field.</caption>
+      <caption>A group of people standing on a baseball field.</caption>
+      <caption>A baseball player runs while still holding the bat.</caption>
+      <caption>Five players are seen playing in the ground.</caption>
+      <caption>A baseball player is running towards first base.</caption>
+    </captions>
+</image>

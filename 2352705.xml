@@ -1,0 +1,191 @@
+<image>
+  <image-id>2352705</image-id>
+  <coco-id>277665</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3770825</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2218676</subject>
+      <object>2218676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4236965</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3782410</subject>
+      <object>3331063</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770828</relationship_id>
+      <predicate>served on</predicate>
+      <subject>1711760</subject>
+      <object>2435261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770829</relationship_id>
+      <predicate>served on</predicate>
+      <subject>1711760</subject>
+      <object>2435261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770830</relationship_id>
+      <predicate>served on</predicate>
+      <subject>2218676</subject>
+      <object>2218676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770831</relationship_id>
+      <predicate>served on</predicate>
+      <subject>2218676</subject>
+      <object>2218676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770832</relationship_id>
+      <predicate>served on</predicate>
+      <subject>1711760</subject>
+      <object>3582146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770833</relationship_id>
+      <predicate>served on</predicate>
+      <subject>1711760</subject>
+      <object>1680476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770834</relationship_id>
+      <predicate>served on</predicate>
+      <subject>2143524</subject>
+      <object>2218676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770835</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1711760</subject>
+      <object>2157632</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770836</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1711760</subject>
+      <object>3038483</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770837</relationship_id>
+      <predicate>has</predicate>
+      <subject>1711760</subject>
+      <object>1711759</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>270</h>
+      <object_id>2218676</object_id>
+      <w>498</w>
+      <y>62</y>
+      <x>0</x>
+      <name>plate</name>
+    </object>
+    <object>
+      <name>seasoning</name>
+      <h>164</h>
+      <object_id>3782410</object_id>
+      <w>407</w>
+      <y>114</y>
+      <x>47</x>
+    </object>
+    <object>
+      <name>meat</name>
+      <h>328</h>
+      <object_id>3331063</object_id>
+      <w>494</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>branched</attribute>
+      </attributes>
+      <h>111</h>
+      <object_id>1711760</object_id>
+      <w>276</w>
+      <y>3</y>
+      <x>0</x>
+      <name>broccoli</name>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>69</h>
+      <object_id>2435261</object_id>
+      <w>85</w>
+      <y>262</y>
+      <x>413</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>257</h>
+      <object_id>3582146</object_id>
+      <w>482</w>
+      <y>73</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>54</h>
+      <object_id>1680476</object_id>
+      <w>290</w>
+      <y>277</y>
+      <x>13</x>
+    </object>
+    <object>
+      <h>333</h>
+      <object_id>2143524</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>0</x>
+      <name>food</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grilled</attribute>
+      </attributes>
+      <name>chicken</name>
+      <h>173</h>
+      <object_id>2157632</object_id>
+      <w>267</w>
+      <y>5</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grilled</attribute>
+        <attribute>juicy</attribute>
+      </attributes>
+      <name>chicken</name>
+      <h>240</h>
+      <object_id>3038483</object_id>
+      <w>465</w>
+      <y>91</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow part</name>
+      <h>104</h>
+      <object_id>1711759</object_id>
+      <w>141</w>
+      <y>4</y>
+      <x>72</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate topped with meat, broccoli and a suace.</caption>
+      <caption>Pieces of chicken on a plate next to broccoli.</caption>
+      <caption>A plate of food with some meat and broccoli on it.</caption>
+      <caption>some type of cooked meat and some broccoli</caption>
+      <caption>Different kinds of food sitting on a plate.</caption>
+    </captions>
+</image>

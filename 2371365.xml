@@ -1,0 +1,61 @@
+<image>
+  <image-id>2371365</image-id>
+  <coco-id>437996</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1512712</relationship_id>
+      <predicate>holding</predicate>
+      <subject>598143</subject>
+      <object>598144</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1512713</relationship_id>
+      <predicate>holding</predicate>
+      <subject>598143</subject>
+      <object>598144</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1512714</relationship_id>
+      <predicate>holding</predicate>
+      <subject>598143</subject>
+      <object>598144</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1512715</relationship_id>
+      <predicate>holding</predicate>
+      <subject>598143</subject>
+      <object>598144</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>player</name>
+      <h>85</h>
+      <object_id>598143</object_id>
+      <w>75</w>
+      <y>136</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>33</h>
+      <object_id>598144</object_id>
+      <w>79</w>
+      <y>133</y>
+      <x>240</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player swinging a bat over home plate.</caption>
+      <caption>a baseball player fouls off a pitch </caption>
+      <caption>A man swinging a baseball bat at a ball.</caption>
+      <caption>A baseball player holding a bat behind his back standing on home plate.</caption>
+      <caption>A man swinging a bat at a baseball game.</caption>
+    </captions>
+</image>

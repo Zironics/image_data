@@ -1,0 +1,59 @@
+<image>
+  <image-id>2350397</image-id>
+  <coco-id>232670</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4115448</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1864060</subject>
+      <object>3720777</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799581</relationship_id>
+      <predicate>reflected</predicate>
+      <subject>3593961</subject>
+      <object>2399558</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chairs</name>
+      <h>121</h>
+      <object_id>1864060</object_id>
+      <w>115</w>
+      <y>197</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>dining table</name>
+      <h>129</h>
+      <object_id>3720777</object_id>
+      <w>183</w>
+      <y>202</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>103</h>
+      <object_id>3593961</object_id>
+      <w>460</w>
+      <y>57</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>50</h>
+      <object_id>2399558</object_id>
+      <w>72</w>
+      <y>65</y>
+      <x>300</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>only one person standing at the counter of an empty restaurant </caption>
+      <caption>A person standing at a counter in a room.</caption>
+      <caption>A person stands at a bar in a restaurant.</caption>
+      <caption>The restaurant is empty during this time of day. </caption>
+      <caption>A woman standing at a counter in an empty restaurant</caption>
+    </captions>
+</image>

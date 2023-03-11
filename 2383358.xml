@@ -1,0 +1,92 @@
+<image>
+  <image-id>2383358</image-id>
+  <coco-id>80013</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3571969</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1321562</subject>
+      <object>1321563</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308760</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1321562</subject>
+      <object>3848337</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3571970</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1321575</subject>
+      <object>1321562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3571971</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1321576</subject>
+      <object>1321562</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>fire fighter</name>
+      <h>129</h>
+      <object_id>1321562</object_id>
+      <w>72</w>
+      <y>125</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>96</h>
+      <object_id>1321563</object_id>
+      <w>115</w>
+      <y>231</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>125</h>
+      <object_id>3848337</object_id>
+      <w>496</w>
+      <y>202</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>22</h>
+      <object_id>1321575</object_id>
+      <w>32</w>
+      <y>115</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>uniform</name>
+      <h>124</h>
+      <object_id>1321576</object_id>
+      <w>67</w>
+      <y>145</y>
+      <x>131</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of fire fighters working on a fire hydrant.</caption>
+      <caption>Five fire fighters standing by a fire hydrant.</caption>
+      <caption>a group of firefighters standing around a fire hydrant </caption>
+      <caption>The five men wearing hats are standing by the fire hydrant </caption>
+      <caption>Firemen gathered around a fire hydrant on a city street.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2384591</image-id>
+  <coco-id>385141</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4584692</relationship_id>
+      <predicate>stuck in</predicate>
+      <subject>4058998</subject>
+      <object>4058999</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>taxi</name>
+      <h>82</h>
+      <object_id>4058998</object_id>
+      <w>91</w>
+      <y>244</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>traffic</name>
+      <h>243</h>
+      <object_id>4058999</object_id>
+      <w>247</w>
+      <y>121</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman is walking in the rain with an umbrella. </caption>
+      <caption>Picture of backed up traffic with a woman and an umbrella in the rain</caption>
+      <caption>A woman walking down the road, with an umbrella in the rain.</caption>
+      <caption>A person walking down the sidewalk under an umbrella.</caption>
+      <caption>A woman with an umbrella walks down a city street</caption>
+    </captions>
+</image>

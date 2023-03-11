@@ -1,0 +1,101 @@
+<image>
+  <image-id>2322390</image-id>
+  <coco-id>473955</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4536566</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>3297035</subject>
+      <object>3285445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4536567</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>3285445</subject>
+      <object>3285446</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3650576</relationship_id>
+      <predicate>beside</predicate>
+      <subject>3297035</subject>
+      <object>2705862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3650577</relationship_id>
+      <predicate>attached</predicate>
+      <subject>3297034</subject>
+      <object>3297035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3650578</relationship_id>
+      <predicate>near</predicate>
+      <subject>3297035</subject>
+      <object>2705862</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lying</attribute>
+        <attribute>is cute</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>317</h>
+      <object_id>3297035</object_id>
+      <w>445</w>
+      <y>57</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>mat</name>
+      <h>51</h>
+      <object_id>3285445</object_id>
+      <w>229</w>
+      <y>322</y>
+      <x>267</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>mat</name>
+      <h>47</h>
+      <object_id>3285446</object_id>
+      <w>71</w>
+      <y>221</y>
+      <x>425</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>is brown</attribute>
+      </attributes>
+      <h>85</h>
+      <object_id>2705862</object_id>
+      <w>233</w>
+      <y>0</y>
+      <x>200</x>
+      <name>flowerpot</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>is white</attribute>
+      </attributes>
+      <name>paw</name>
+      <h>47</h>
+      <object_id>3297034</object_id>
+      <w>65</w>
+      <y>326</y>
+      <x>138</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tiger cat laying on to of a table next to a potted plant.</caption>
+      <caption>a cat laying on a table near a plant</caption>
+      <caption>Brown and white cat laying on the group next to a flower pot. </caption>
+      <caption>A cat curled up next to a flower pot</caption>
+      <caption>A cat is laying on its side on a box</caption>
+    </captions>
+</image>

@@ -1,0 +1,134 @@
+<image>
+  <image-id>2341704</image-id>
+  <coco-id>426541</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3940621</relationship_id>
+      <predicate>along</predicate>
+      <subject>2158676</subject>
+      <object>3653475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3940622</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2699841</subject>
+      <object>2699842</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3940623</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2350279</subject>
+      <object>2350277</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3940624</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2683154</subject>
+      <object>2683155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3940631</relationship_id>
+      <predicate>has a</predicate>
+      <subject>2012319</subject>
+      <object>2012321</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>64</h>
+      <object_id>2158676</object_id>
+      <w>323</w>
+      <y>81</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>86</h>
+      <object_id>3653475</object_id>
+      <w>493</w>
+      <y>92</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>52</h>
+      <object_id>2699841</object_id>
+      <w>157</w>
+      <y>51</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>15</h>
+      <object_id>2699842</object_id>
+      <w>499</w>
+      <y>89</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>30</h>
+      <object_id>2350279</object_id>
+      <w>32</w>
+      <y>49</y>
+      <x>408</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>49</h>
+      <object_id>2350277</object_id>
+      <w>142</w>
+      <y>55</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>8</h>
+      <object_id>2683154</object_id>
+      <w>80</w>
+      <y>79</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>52</h>
+      <object_id>2683155</object_id>
+      <w>149</w>
+      <y>49</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>58</h>
+      <object_id>2012319</object_id>
+      <w>148</w>
+      <y>48</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>30</h>
+      <object_id>2012321</object_id>
+      <w>40</w>
+      <y>52</y>
+      <x>164</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two jet liners sitting on top of an airport runway.</caption>
+      <caption>A couple of white and green airplanes on a road.</caption>
+      <caption>Two identical planes on a runway near woods.</caption>
+      <caption>Two white planes with green tails parked on tarmac.</caption>
+      <caption>Two airplanes on a landing strip at an airport.</caption>
+    </captions>
+</image>

@@ -1,0 +1,91 @@
+<image>
+  <image-id>2325829</image-id>
+  <coco-id>570618</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2942983</relationship_id>
+      <predicate>ON</predicate>
+      <subject>984795</subject>
+      <object>984791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2942984</relationship_id>
+      <predicate>ON</predicate>
+      <subject>984794</subject>
+      <object>984791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482414</relationship_id>
+      <predicate>near</predicate>
+      <subject>3940690</subject>
+      <object>984791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482415</relationship_id>
+      <predicate>near</predicate>
+      <subject>984797</subject>
+      <object>984791</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>letter</name>
+      <h>60</h>
+      <object_id>984795</object_id>
+      <w>159</w>
+      <y>70</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>writing</attribute>
+        <attribute>track</attribute>
+        <attribute>blue</attribute>
+        <attribute>car</attribute>
+      </attributes>
+      <name>train</name>
+      <h>98</h>
+      <object_id>984791</object_id>
+      <w>442</w>
+      <y>37</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>number</name>
+      <h>21</h>
+      <object_id>984794</object_id>
+      <w>49</w>
+      <y>92</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>rust patch</name>
+      <h>16</h>
+      <object_id>3940690</object_id>
+      <w>36</w>
+      <y>58</y>
+      <x>356</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>telephone</attribute>
+      </attributes>
+      <h>80</h>
+      <object_id>984797</object_id>
+      <w>5</w>
+      <y>16</y>
+      <x>433</x>
+      <name>pole</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train going down the train track in town. </caption>
+      <caption>a blue and yellow train engine sitting on the tracks </caption>
+      <caption>The first car of a train reads "Santa Fe" on the side.</caption>
+      <caption>A yellow and blue Santa Fe train sitting on a track.</caption>
+      <caption>A blue and yellow railroad train traveling down the tracks</caption>
+    </captions>
+</image>

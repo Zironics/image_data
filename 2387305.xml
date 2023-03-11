@@ -1,0 +1,178 @@
+<image>
+  <image-id>2387305</image-id>
+  <coco-id>535753</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3503441</relationship_id>
+      <predicate>has</predicate>
+      <subject>1277285</subject>
+      <object>1277286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503442</relationship_id>
+      <predicate>by</predicate>
+      <subject>1277285</subject>
+      <object>1277284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503443</relationship_id>
+      <predicate>near</predicate>
+      <subject>1277285</subject>
+      <object>1277284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503444</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>1277288</subject>
+      <object>1277296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503445</relationship_id>
+      <predicate>hang over</predicate>
+      <subject>1277288</subject>
+      <object>1277284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503446</relationship_id>
+      <predicate>by</predicate>
+      <subject>1277297</subject>
+      <object>1277284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503447</relationship_id>
+      <predicate>are beyond</predicate>
+      <subject>1277287</subject>
+      <object>1277284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503448</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1277297</subject>
+      <object>1277284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3503449</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1277293</subject>
+      <object>1277281</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in snow</attribute>
+      </attributes>
+      <name>electronic sign</name>
+      <h>24</h>
+      <object_id>1277285</object_id>
+      <w>60</w>
+      <y>223</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lit</attribute>
+      </attributes>
+      <name>yellow letters</name>
+      <h>18</h>
+      <object_id>1277286</object_id>
+      <w>26</w>
+      <y>227</y>
+      <x>350</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snow tracked</attribute>
+        <attribute>covered in snow</attribute>
+        <attribute>here</attribute>
+        <attribute>ahead</attribute>
+        <attribute>unplowed</attribute>
+        <attribute>snow covered</attribute>
+      </attributes>
+      <name>road</name>
+      <h>90</h>
+      <object_id>1277284</object_id>
+      <w>366</w>
+      <y>242</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+        <attribute>here</attribute>
+        <attribute>stretched</attribute>
+      </attributes>
+      <name>wires</name>
+      <h>109</h>
+      <object_id>1277288</object_id>
+      <w>498</w>
+      <y>38</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>present</attribute>
+      </attributes>
+      <name>traffic signals</name>
+      <h>60</h>
+      <object_id>1277296</object_id>
+      <w>290</w>
+      <y>45</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>speed limit sign</name>
+      <h>13</h>
+      <object_id>1277297</object_id>
+      <w>9</w>
+      <y>233</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snowy</attribute>
+        <attribute>ahead</attribute>
+        <attribute>overcast</attribute>
+      </attributes>
+      <name>hills</name>
+      <h>58</h>
+      <object_id>1277287</object_id>
+      <w>498</w>
+      <y>167</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>posted</attribute>
+      </attributes>
+      <name>left turn signal</name>
+      <h>26</h>
+      <object_id>1277293</object_id>
+      <w>28</w>
+      <y>58</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+        <attribute>black</attribute>
+        <attribute>at intersection</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>traffic signal</name>
+      <h>56</h>
+      <object_id>1277281</object_id>
+      <w>26</w>
+      <y>46</y>
+      <x>112</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light suspended over a snow covered road.</caption>
+      <caption>Three stop lights are hanging above a snow covered road.</caption>
+      <caption>A trio of red traffic lights on a snowy road.</caption>
+      <caption>An icy highway with no travelers on it and three traffic lights hanging above the lanes.</caption>
+      <caption>Three red lights hanging over a cold and icy road.  </caption>
+    </captions>
+</image>

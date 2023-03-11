@@ -1,0 +1,85 @@
+<image>
+  <image-id>2326902</image-id>
+  <coco-id>552723</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4475811</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3159199</subject>
+      <object>3159200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475812</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2721131</subject>
+      <object>3159200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475813</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3159199</subject>
+      <object>3159200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475814</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2712502</subject>
+      <object>3938359</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>120</h>
+      <object_id>3159199</object_id>
+      <w>317</w>
+      <y>79</y>
+      <x>102</x>
+      <name>pizza</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>245</h>
+      <object_id>3159200</object_id>
+      <w>499</w>
+      <y>87</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>82</h>
+      <object_id>2721131</object_id>
+      <w>84</w>
+      <y>110</y>
+      <x>0</x>
+      <name>white plate</name>
+    </object>
+    <object>
+      <h>129</h>
+      <object_id>2712502</object_id>
+      <w>320</w>
+      <y>0</y>
+      <x>180</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <name>kitchen</name>
+      <h>325</h>
+      <object_id>3938359</object_id>
+      <w>480</w>
+      <y>1</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two personal pizzas and some plates set on a table. </caption>
+      <caption>Two pizzas are sitting on a table at a restaurant.</caption>
+      <caption>Plates of pizza pie sitting on a table.</caption>
+      <caption>Two pizzas on top of pizza pans sitting on a table.</caption>
+      <caption>Two personal pan pizzas at a table in black and white.</caption>
+    </captions>
+</image>

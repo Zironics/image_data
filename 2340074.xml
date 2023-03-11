@@ -1,0 +1,59 @@
+<image>
+  <image-id>2340074</image-id>
+  <coco-id>356384</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4836538</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4688670</subject>
+      <object>4688671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4836539</relationship_id>
+      <predicate>in</predicate>
+      <subject>4688672</subject>
+      <object>4688673</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>209</h>
+      <object_id>4688670</object_id>
+      <w>180</w>
+      <y>45</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>71</h>
+      <object_id>4688671</object_id>
+      <w>499</w>
+      <y>239</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>172</h>
+      <object_id>4688672</object_id>
+      <w>320</w>
+      <y>143</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>265</h>
+      <object_id>4688673</object_id>
+      <w>497</w>
+      <y>66</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lot of people in the water on surf boards.</caption>
+      <caption>This is someone learning to surf with the help of an instructor.</caption>
+      <caption>Male and female surfers wearing wetsuits in the ocean.</caption>
+      <caption>many surfers and two girls in red shirts are learning how to surf</caption>
+      <caption>A couple of people riding paddle boards in the water.</caption>
+    </captions>
+</image>

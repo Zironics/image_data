@@ -1,0 +1,65 @@
+<image>
+  <image-id>1159599</image-id>
+  <coco-id>489415</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4069901</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3704304</subject>
+      <object>3704301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4069902</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1595460</subject>
+      <object>3704302</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>award</attribute>
+      </attributes>
+      <h>140</h>
+      <object_id>3704304</object_id>
+      <w>61</w>
+      <y>231</y>
+      <x>365</x>
+      <name>cup</name>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>32</h>
+      <object_id>3704301</object_id>
+      <w>368</w>
+      <y>375</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>trophy</name>
+      <h>172</h>
+      <object_id>1595460</object_id>
+      <w>180</w>
+      <y>278</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>39</h>
+      <object_id>3704302</object_id>
+      <w>362</w>
+      <y>371</y>
+      <x>76</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pile of luggage sitting outside of a store window.</caption>
+      <caption>Ship is displayed as a constructed toy in antique shop.</caption>
+      <caption>Luggage is piled high in a shop window.</caption>
+      <caption>There is a stack of suitcases in front of the window display.</caption>
+      <caption>Piles of antique luggage sit in an antique store window.</caption>
+    </captions>
+</image>

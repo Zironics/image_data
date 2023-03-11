@@ -1,0 +1,87 @@
+<image>
+  <image-id>2339009</image-id>
+  <coco-id>98820</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4054334</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2397558</subject>
+      <object>2805953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458771</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2624540</subject>
+      <object>3929536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4458772</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2805952</subject>
+      <object>3929537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4054335</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2805952</subject>
+      <object>2805953</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>knees</name>
+      <h>42</h>
+      <object_id>2397558</object_id>
+      <w>65</w>
+      <y>397</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>345</h>
+      <object_id>2805953</object_id>
+      <w>145</w>
+      <y>152</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>26</h>
+      <object_id>2624540</object_id>
+      <w>18</w>
+      <y>230</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>349</h>
+      <object_id>3929536</object_id>
+      <w>128</w>
+      <y>149</y>
+      <x>97</x>
+    </object>
+    <object>
+      <h>31</h>
+      <object_id>2805952</object_id>
+      <w>16</w>
+      <y>154</y>
+      <x>167</x>
+      <name>hand</name>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>61</h>
+      <object_id>3929537</object_id>
+      <w>13</w>
+      <y>119</y>
+      <x>169</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lady stretching her arm up to hit a tennis ball with a racket</caption>
+      <caption>A lady dressed in black serving a tennis ball on a tennis court.</caption>
+      <caption>A woman reaches to hit a tennis ball. </caption>
+      <caption>A person that is playing in a tennis game.</caption>
+      <caption>Young lady hitting a tennis ball, on a tennis  court.</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2329866</image-id>
+  <coco-id>327881</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2907282</relationship_id>
+      <predicate>ON</predicate>
+      <subject>973841</subject>
+      <object>973837</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2907283</relationship_id>
+      <predicate>by</predicate>
+      <subject>973840</subject>
+      <object>973841</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>log</name>
+      <h>46</h>
+      <object_id>973841</object_id>
+      <w>77</w>
+      <y>255</y>
+      <x>410</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>19</h>
+      <object_id>973837</object_id>
+      <w>31</w>
+      <y>221</y>
+      <x>33</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>53</h>
+      <object_id>973840</object_id>
+      <w>36</w>
+      <y>169</y>
+      <x>454</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of zebra standing in a dirt field.</caption>
+      <caption>The rear view of two zebras standing in an enclosed area.</caption>
+      <caption>Two zebra's standing with their back side towards you.</caption>
+      <caption>A couple of zebra walking down a dirt road.</caption>
+      <caption>there are two zebras that are walking together in the dirt</caption>
+    </captions>
+</image>

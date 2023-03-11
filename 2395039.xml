@@ -1,0 +1,91 @@
+<image>
+  <image-id>2395039</image-id>
+  <coco-id>184402</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3791045</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2917468</subject>
+      <object>2824284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3791046</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2191316</subject>
+      <object>2191317</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3791047</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2099545</subject>
+      <object>3823601</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <h>107</h>
+      <object_id>2917468</object_id>
+      <w>110</w>
+      <y>31</y>
+      <x>126</x>
+      <name>wheels</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>upside down</attribute>
+      </attributes>
+      <h>203</h>
+      <object_id>2824284</object_id>
+      <w>447</w>
+      <y>117</y>
+      <x>52</x>
+      <name>board</name>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>132</h>
+      <object_id>2191316</object_id>
+      <w>145</w>
+      <y>193</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>279</h>
+      <object_id>2191317</object_id>
+      <w>460</w>
+      <y>50</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>168</h>
+      <object_id>2099545</object_id>
+      <w>252</w>
+      <y>132</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>upside-down</attribute>
+      </attributes>
+      <name>skateboard</name>
+      <h>298</h>
+      <object_id>3823601</object_id>
+      <w>445</w>
+      <y>29</y>
+      <x>53</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skateboard with two different color and sized wheels.</caption>
+      <caption>A skateboard which is missing at least one wheel.</caption>
+      <caption>A skateboard has two different colored wheels and a design.</caption>
+      <caption>A long board skateboard with two different colored wheels</caption>
+      <caption>A skateboard and it's wheels being parked in one area.</caption>
+    </captions>
+</image>

@@ -1,0 +1,79 @@
+<image>
+  <image-id>2382787</image-id>
+  <coco-id>127699</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4778662</relationship_id>
+      <predicate>with</predicate>
+      <subject>4544460</subject>
+      <object>4544461</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4778663</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4544486</subject>
+      <object>4544487</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4778664</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4544486</subject>
+      <object>4544490</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>racket</name>
+      <h>44</h>
+      <object_id>4544460</object_id>
+      <w>28</w>
+      <y>204</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>both</attribute>
+      </attributes>
+      <name>hands</name>
+      <h>12</h>
+      <object_id>4544461</object_id>
+      <w>29</w>
+      <y>225</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>279</h>
+      <object_id>4544486</object_id>
+      <w>104</w>
+      <y>94</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>150</h>
+      <object_id>4544487</object_id>
+      <w>87</w>
+      <y>219</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>43</h>
+      <object_id>4544490</object_id>
+      <w>42</w>
+      <y>109</y>
+      <x>338</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some people play a tennis game outside. </caption>
+      <caption>Boys standing on court preparing to play tennis.</caption>
+      <caption>Two men line up on the court in preparation of a tennis game. </caption>
+      <caption>A couple of men standing on top of a tennis court.</caption>
+      <caption>There are people playing tennis on the court</caption>
+    </captions>
+</image>

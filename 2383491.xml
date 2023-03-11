@@ -1,0 +1,243 @@
+<image>
+  <image-id>2383491</image-id>
+  <coco-id>28246</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3569861</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>1320020</subject>
+      <object>1320021</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569862</relationship_id>
+      <predicate>waiting for</predicate>
+      <subject>1320022</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569863</relationship_id>
+      <predicate>getting off</predicate>
+      <subject>1320023</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569864</relationship_id>
+      <predicate>driving</predicate>
+      <subject>1320024</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569865</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1320026</subject>
+      <object>1320027</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569866</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1320028</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569867</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1320030</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569868</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1320031</subject>
+      <object>1320032</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569869</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1320033</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569870</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1320036</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569871</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1320026</subject>
+      <object>1320022</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569872</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1320027</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569873</relationship_id>
+      <predicate>for</predicate>
+      <subject>1320021</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569874</relationship_id>
+      <predicate>for a</predicate>
+      <subject>1320021</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569875</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1320020</subject>
+      <object>1320021</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569876</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1320020</subject>
+      <object>1320021</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569877</relationship_id>
+      <predicate>waiting for</predicate>
+      <subject>1320023</subject>
+      <object>1320020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3569878</relationship_id>
+      <predicate>waiting on</predicate>
+      <subject>1320022</subject>
+      <object>1320020</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>electrical</attribute>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+        <attribute>on tracks</attribute>
+        <attribute>on the tracks</attribute>
+      </attributes>
+      <name>train</name>
+      <h>193</h>
+      <object_id>1320020</object_id>
+      <w>369</w>
+      <y>186</y>
+      <x>130</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>98</h>
+      <object_id>1320021</object_id>
+      <w>495</w>
+      <y>318</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>group</name>
+      <h>113</h>
+      <object_id>1320022</object_id>
+      <w>133</w>
+      <y>271</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>people</name>
+      <h>52</h>
+      <object_id>1320023</object_id>
+      <w>50</w>
+      <y>270</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>operating train</attribute>
+      </attributes>
+      <name>person</name>
+      <h>46</h>
+      <object_id>1320024</object_id>
+      <w>24</w>
+      <y>242</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>statue</name>
+      <h>113</h>
+      <object_id>1320026</object_id>
+      <w>38</w>
+      <y>157</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>215</h>
+      <object_id>1320027</object_id>
+      <w>175</w>
+      <y>74</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>hotel</name>
+      <h>163</h>
+      <object_id>1320028</object_id>
+      <w>267</w>
+      <y>89</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>65</h>
+      <object_id>1320030</object_id>
+      <w>115</w>
+      <y>350</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>111</h>
+      <object_id>1320031</object_id>
+      <w>34</w>
+      <y>275</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>coat</name>
+      <h>58</h>
+      <object_id>1320032</object_id>
+      <w>39</w>
+      <y>288</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>number 11</name>
+      <h>22</h>
+      <object_id>1320033</object_id>
+      <w>17</w>
+      <y>199</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>58</h>
+      <object_id>1320036</object_id>
+      <w>212</w>
+      <y>232</y>
+      <x>288</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Blue tram in a city with people boarding</caption>
+      <caption>A group of people wait for a rail cart.</caption>
+      <caption>Small train line with a large group of people waiting.</caption>
+      <caption>People boarding a line of blue street cars.</caption>
+      <caption>A blue train at a station with people on the tracks</caption>
+    </captions>
+</image>

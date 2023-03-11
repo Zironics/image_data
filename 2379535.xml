@@ -1,0 +1,62 @@
+<image>
+  <image-id>2379535</image-id>
+  <coco-id>508805</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4690875</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4323453</subject>
+      <object>4323454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797309</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591820</subject>
+      <object>4591821</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>223</h>
+      <object_id>4323453</object_id>
+      <w>477</w>
+      <y>10</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>tarmac</name>
+      <h>109</h>
+      <object_id>4323454</object_id>
+      <w>480</w>
+      <y>223</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>baggage truck</name>
+      <h>14</h>
+      <object_id>4591820</object_id>
+      <w>72</w>
+      <y>184</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>carts</name>
+      <h>10</h>
+      <object_id>4591821</object_id>
+      <w>52</w>
+      <y>184</y>
+      <x>373</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plane is parked on a concrete landing pad.</caption>
+      <caption>A airplane that is sitting on a runway.</caption>
+      <caption>An airplane parked on the runway at the airport. </caption>
+      <caption>an airplane resting at a stand still on the runway</caption>
+      <caption>a small airplane sitting on the runway </caption>
+    </captions>
+</image>

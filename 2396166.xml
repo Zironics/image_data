@@ -1,0 +1,88 @@
+<image>
+  <image-id>2396166</image-id>
+  <coco-id>226069</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3374359</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1199994</subject>
+      <object>1199993</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3374360</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1199994</subject>
+      <object>1199993</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3374361</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1199994</subject>
+      <object>1199993</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3374362</relationship_id>
+      <predicate>has</predicate>
+      <subject>1199986</subject>
+      <object>1199989</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>symbol</name>
+      <h>14</h>
+      <object_id>1199994</object_id>
+      <w>17</w>
+      <y>182</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+        <attribute>digital</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>background</name>
+      <h>141</h>
+      <object_id>1199993</object_id>
+      <w>129</w>
+      <y>76</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>small</attribute>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>cellphone</name>
+      <h>255</h>
+      <object_id>1199986</object_id>
+      <w>124</w>
+      <y>41</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>nokia</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>maker name</name>
+      <h>10</h>
+      <object_id>1199989</object_id>
+      <w>33</w>
+      <y>56</y>
+      <x>124</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pink cellphone and white palm pilot on a table.</caption>
+      <caption>A pink phone is sitting next to a white phone on a table.</caption>
+      <caption>An old style phone next to a newer phone.</caption>
+      <caption>Two types of devices sitting next to each other on a woook table</caption>
+      <caption>An older Nokia sits next to another newer phone on a table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2319736</image-id>
+  <coco-id>435242</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4492967</relationship_id>
+      <predicate>from</predicate>
+      <subject>3370885</subject>
+      <object>3370886</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046563</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2977447</subject>
+      <object>2977448</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>page</name>
+      <h>494</h>
+      <object_id>3370885</object_id>
+      <w>327</w>
+      <y>3</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>printed</attribute>
+      </attributes>
+      <name>book</name>
+      <h>493</h>
+      <object_id>3370886</object_id>
+      <w>335</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>drawing</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>75</h>
+      <object_id>2977447</object_id>
+      <w>50</w>
+      <y>175</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>134</h>
+      <object_id>2977448</object_id>
+      <w>135</w>
+      <y>171</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A page from a book is shown with an illustration of a bird on it.</caption>
+      <caption>A picture of a warbler in notes about birds.</caption>
+      <caption>A page of a book with words and a picture of a flower.</caption>
+      <caption>A single page in a book with a picture of a bird sitting on a tree limb.</caption>
+      <caption>A page from a book showing a bird on a twig.</caption>
+    </captions>
+</image>

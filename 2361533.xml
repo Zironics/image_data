@@ -1,0 +1,91 @@
+<image>
+  <image-id>2361533</image-id>
+  <coco-id>538828</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4189432</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1980382</subject>
+      <object>1980383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4189433</relationship_id>
+      <predicate>has</predicate>
+      <subject>2564568</subject>
+      <object>2564569</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3656822</relationship_id>
+      <predicate>has</predicate>
+      <subject>3531620</subject>
+      <object>2649670</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letters</name>
+      <h>29</h>
+      <object_id>1980382</object_id>
+      <w>57</w>
+      <y>219</y>
+      <x>309</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>65</h>
+      <object_id>1980383</object_id>
+      <w>113</w>
+      <y>199</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>label</name>
+      <h>69</h>
+      <object_id>2564568</object_id>
+      <w>102</w>
+      <y>226</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>box</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>12</h>
+      <object_id>2564569</object_id>
+      <w>18</w>
+      <y>251</y>
+      <x>335</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>330</h>
+      <object_id>3531620</object_id>
+      <w>258</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>branches</name>
+      <h>115</h>
+      <object_id>2649670</object_id>
+      <w>173</w>
+      <y>10</y>
+      <x>78</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light sitting next to a tree near a sign.</caption>
+      <caption>Two different images. One with a street light and street sign and the other with a few different street signs. </caption>
+      <caption>A traffic light and several street signs in an intersection.</caption>
+      <caption>Looking up at a traffic light next to some street signs. </caption>
+      <caption>A green light and foreign road signs are seen in a picture.</caption>
+    </captions>
+</image>

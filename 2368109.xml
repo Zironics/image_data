@@ -1,0 +1,126 @@
+<image>
+  <image-id>2368109</image-id>
+  <coco-id>57749</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4352099</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2495342</subject>
+      <object>2266816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4352100</relationship_id>
+      <predicate>with</predicate>
+      <subject>2375801</subject>
+      <object>2205325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4352101</relationship_id>
+      <predicate>with</predicate>
+      <subject>2478353</subject>
+      <object>2478356</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4352102</relationship_id>
+      <predicate>covered</predicate>
+      <subject>3870841</subject>
+      <object>1739395</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>face</name>
+      <h>122</h>
+      <object_id>2495342</object_id>
+      <w>102</w>
+      <y>196</y>
+      <x>278</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>366</h>
+      <object_id>2266816</object_id>
+      <w>232</w>
+      <y>22</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>Brown</attribute>
+      </attributes>
+      <h>393</h>
+      <object_id>2375801</object_id>
+      <w>223</w>
+      <y>16</y>
+      <x>102</x>
+      <name>cow</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink </attribute>
+      </attributes>
+      <name>noses</name>
+      <h>34</h>
+      <object_id>2205325</object_id>
+      <w>270</w>
+      <y>291</y>
+      <x>110</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>ear</name>
+      <h>47</h>
+      <object_id>2478353</object_id>
+      <w>55</w>
+      <y>155</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>spot</name>
+      <h>23</h>
+      <object_id>2478356</object_id>
+      <w>17</w>
+      <y>159</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>221</h>
+      <object_id>3870841</object_id>
+      <w>476</w>
+      <y>256</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>287</h>
+      <object_id>1739395</object_id>
+      <w>495</w>
+      <y>210</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two brown and white cows near each other in a field. </caption>
+      <caption>Two white and brown cows are running near each other.</caption>
+      <caption>Two cows butting each other in a field.</caption>
+      <caption>Two cows brush against each other in a grassy field. </caption>
+      <caption>Two grown brown and white cows leaning against each other</caption>
+    </captions>
+</image>

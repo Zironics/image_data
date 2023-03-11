@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337751</image-id>
+  <coco-id>463347</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4073526</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3705829</subject>
+      <object>2345450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4073527</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2115002</subject>
+      <object>2115003</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>19</h>
+      <object_id>3705829</object_id>
+      <w>26</w>
+      <y>182</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>134</h>
+      <object_id>2345450</object_id>
+      <w>40</w>
+      <y>204</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>debris</name>
+      <h>199</h>
+      <object_id>2115002</object_id>
+      <w>63</w>
+      <y>299</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>205</h>
+      <object_id>2115003</object_id>
+      <w>113</w>
+      <y>291</y>
+      <x>215</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A trash can covered in an umbrella between two roads.</caption>
+      <caption>A umbrella left on side of the street.</caption>
+      <caption>An umbrella has flown to the trash can in the wind. </caption>
+      <caption>A black umbrella sits open in a barrel along a roadside.</caption>
+      <caption>A useful umbrella by the roadside has lost it's owner.</caption>
+    </captions>
+</image>

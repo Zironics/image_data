@@ -1,0 +1,87 @@
+<image>
+  <image-id>2392684</image-id>
+  <coco-id>358527</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4590807</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4073468</subject>
+      <object>4073469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590808</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>4073488</subject>
+      <object>4073471</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590810</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4073474</subject>
+      <object>4073475</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>leaves</name>
+      <h>49</h>
+      <object_id>4073468</object_id>
+      <w>156</w>
+      <y>324</y>
+      <x>293</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>98</h>
+      <object_id>4073469</object_id>
+      <w>494</w>
+      <y>274</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing on dirt</attribute>
+      </attributes>
+      <h>169</h>
+      <object_id>4073488</object_id>
+      <w>198</w>
+      <y>129</y>
+      <x>169</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>89</h>
+      <object_id>4073471</object_id>
+      <w>494</w>
+      <y>284</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>81</h>
+      <object_id>4073474</object_id>
+      <w>494</w>
+      <y>7</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>247</h>
+      <object_id>4073475</object_id>
+      <w>490</w>
+      <y>51</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing next to a stone wall.</caption>
+      <caption>A picture of a zebra standing in the zoo.</caption>
+      <caption>Solitary zebra standing still in small zoo enclosure.</caption>
+      <caption>A zebra is standing by a brown adobe fence.</caption>
+      <caption>A lone zebra standing in a fenced in area.</caption>
+    </captions>
+</image>

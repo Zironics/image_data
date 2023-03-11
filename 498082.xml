@@ -1,0 +1,104 @@
+<image>
+  <image-id>498082</image-id>
+  <coco-id>536795</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262070</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3384770</subject>
+      <object>2870496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262071</relationship_id>
+      <predicate>has</predicate>
+      <subject>3384770</subject>
+      <object>3384769</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262072</relationship_id>
+      <predicate>along</predicate>
+      <subject>2870496</subject>
+      <object>2870496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262073</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3173335</subject>
+      <object>3173336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053642</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1573783</subject>
+      <object>1573784</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>booth</name>
+      <h>692</h>
+      <object_id>3384770</object_id>
+      <w>212</w>
+      <y>303</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>388</h>
+      <object_id>2870496</object_id>
+      <w>765</w>
+      <y>633</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>113</h>
+      <object_id>3384769</object_id>
+      <w>64</w>
+      <y>814</y>
+      <x>359</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>44</h>
+      <object_id>3173335</object_id>
+      <w>53</w>
+      <y>465</y>
+      <x>707</x>
+    </object>
+    <object>
+      <name>post</name>
+      <h>160</h>
+      <object_id>3173336</object_id>
+      <w>35</w>
+      <y>380</y>
+      <x>728</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>407</h>
+      <object_id>1573783</object_id>
+      <w>717</w>
+      <y>140</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>556</h>
+      <object_id>1573784</object_id>
+      <w>737</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Parking meter with a solar panel on top of it.</caption>
+      <caption>A machine that is on a sidewalk near cars.</caption>
+      <caption>A solar powered parking meter on a street.</caption>
+      <caption>A solar powered parking meter in a downtown location.</caption>
+      <caption>A parking meter with a solar panel on top of it.</caption>
+    </captions>
+</image>

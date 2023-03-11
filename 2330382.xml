@@ -1,0 +1,108 @@
+<image>
+  <image-id>2330382</image-id>
+  <coco-id>210806</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4116949</relationship_id>
+      <predicate>pulled down</predicate>
+      <subject>3390251</subject>
+      <object>3216016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4116950</relationship_id>
+      <predicate>growing next to</predicate>
+      <subject>3116803</subject>
+      <object>3721271</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4116951</relationship_id>
+      <predicate>over</predicate>
+      <subject>3351111</subject>
+      <object>3721271</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467053</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>3131553</subject>
+      <object>3390251</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4116952</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3390252</subject>
+      <object>3390251</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>131</h>
+      <object_id>3390251</object_id>
+      <w>491</w>
+      <y>67</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>153</h>
+      <object_id>3216016</object_id>
+      <w>497</w>
+      <y>178</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>60</h>
+      <object_id>3116803</object_id>
+      <w>487</w>
+      <y>43</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>airport</name>
+      <h>236</h>
+      <object_id>3721271</object_id>
+      <w>496</w>
+      <y>93</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>87</h>
+      <object_id>3351111</object_id>
+      <w>170</w>
+      <y>0</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>landing gear</name>
+      <h>14</h>
+      <object_id>3131553</object_id>
+      <w>17</w>
+      <y>183</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>20</h>
+      <object_id>3390252</object_id>
+      <w>254</w>
+      <y>160</y>
+      <x>150</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large jetliner sitting on top of an airport runway.</caption>
+      <caption>An airplane on the tarmac on a cloudy day. </caption>
+      <caption>Large airliner with no markings parked on tarmac. </caption>
+      <caption>A large airplane is parked beside baggage carts on a runway.</caption>
+      <caption>A white Boeing 747 aircraft on an airport tarmac.</caption>
+    </captions>
+</image>

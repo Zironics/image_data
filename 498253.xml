@@ -1,0 +1,81 @@
+<image>
+  <image-id>498253</image-id>
+  <coco-id>396611</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4055161</relationship_id>
+      <predicate>between</predicate>
+      <subject>1574753</subject>
+      <object>3698873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055162</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1574754</subject>
+      <object>3698874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055163</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1574755</subject>
+      <object>3698875</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>escalator</name>
+      <h>588</h>
+      <object_id>1574753</object_id>
+      <w>343</w>
+      <y>170</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>stairs</name>
+      <h>379</h>
+      <object_id>3698873</object_id>
+      <w>428</w>
+      <y>261</y>
+      <x>593</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>38</h>
+      <object_id>1574754</object_id>
+      <w>280</w>
+      <y>49</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>102</h>
+      <object_id>3698874</object_id>
+      <w>733</w>
+      <y>2</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>270</h>
+      <object_id>1574755</object_id>
+      <w>134</w>
+      <y>260</y>
+      <x>446</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>98</h>
+      <object_id>3698875</object_id>
+      <w>52</w>
+      <y>367</y>
+      <x>442</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Men with luggage are coming down an escalator.</caption>
+      <caption>People stand on an escalator as they hold luggage.</caption>
+      <caption>Men are coming down the escalator with luggage. </caption>
+      <caption>a couple of people ride down electronic stairs </caption>
+      <caption>A couple of people with bags standing on a escalator.</caption>
+    </captions>
+</image>

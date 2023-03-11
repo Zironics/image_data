@@ -1,0 +1,181 @@
+<image>
+  <image-id>2316657</image-id>
+  <coco-id>468542</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3927884</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3648464</subject>
+      <object>3362090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4518639</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2950633</subject>
+      <object>3047544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4518640</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3232728</subject>
+      <object>3047545</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4148504</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3047541</subject>
+      <object>2923604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4148505</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>2856318</subject>
+      <object>2923604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4148506</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3047543</subject>
+      <object>2923604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4148507</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3047544</subject>
+      <object>2923604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4148508</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3047545</subject>
+      <object>2923604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4148582</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>2856318</subject>
+      <object>3511975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4518641</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3047541</subject>
+      <object>2923604</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>head</name>
+      <h>31</h>
+      <object_id>3648464</object_id>
+      <w>30</w>
+      <y>169</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>82</h>
+      <object_id>3362090</object_id>
+      <w>308</w>
+      <y>155</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+        <attribute>short </attribute>
+      </attributes>
+      <name>legs</name>
+      <h>24</h>
+      <object_id>2950633</object_id>
+      <w>38</w>
+      <y>201</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>55</h>
+      <object_id>3047544</object_id>
+      <w>100</w>
+      <y>170</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>back end</name>
+      <h>67</h>
+      <object_id>3232728</object_id>
+      <w>25</w>
+      <y>159</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+        <attribute>light brown</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>68</h>
+      <object_id>3047545</object_id>
+      <w>80</w>
+      <y>158</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>79</h>
+      <object_id>3047541</object_id>
+      <w>162</w>
+      <y>158</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <h>215</h>
+      <object_id>2923604</object_id>
+      <w>497</w>
+      <y>158</y>
+      <x>1</x>
+      <name>field</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>52</h>
+      <object_id>2856318</object_id>
+      <w>80</w>
+      <y>157</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>40</h>
+      <object_id>3047543</object_id>
+      <w>37</w>
+      <y>175</y>
+      <x>461</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>209</h>
+      <object_id>3511975</object_id>
+      <w>496</w>
+      <y>164</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Herd of cattle being herded by a man on a horse.</caption>
+      <caption>a number of cows in a field near many trees</caption>
+      <caption>Several cows walk in a field with a man on a horse in the background.</caption>
+      <caption>A cowboy is on a horse in a pasture herding cattle. </caption>
+      <caption>A group of cows that are standing in the grass.</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2327155</image-id>
+  <coco-id>462244</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4740500</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4442382</subject>
+      <object>4442383</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>18</h>
+      <object_id>4442382</object_id>
+      <w>29</w>
+      <y>168</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>239</h>
+      <object_id>4442383</object_id>
+      <w>216</w>
+      <y>139</y>
+      <x>69</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train rides alongside another train on the tracks.</caption>
+      <caption>A train sitting on the railroad tracks. </caption>
+      <caption>Two trains driving on adjoining tracks at the same time.</caption>
+      <caption>a train coming down a track next to a fence</caption>
+      <caption>Two trains passing each other in an open field. </caption>
+    </captions>
+</image>

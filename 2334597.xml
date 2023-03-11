@@ -1,0 +1,106 @@
+<image>
+  <image-id>2334597</image-id>
+  <coco-id>552657</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3998473</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2699996</subject>
+      <object>2142611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998474</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2249174</subject>
+      <object>2142611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998475</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2164564</subject>
+      <object>2142611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998476</relationship_id>
+      <predicate>eating</predicate>
+      <subject>2142611</subject>
+      <object>3239985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3726477</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3239985</subject>
+      <object>3239986</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>36</h>
+      <object_id>2699996</object_id>
+      <w>47</w>
+      <y>45</y>
+      <x>352</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>363</h>
+      <object_id>2142611</object_id>
+      <w>493</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>92</h>
+      <object_id>2249174</object_id>
+      <w>98</w>
+      <y>87</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>tongue</name>
+      <h>51</h>
+      <object_id>2164564</object_id>
+      <w>72</w>
+      <y>265</y>
+      <x>244</x>
+    </object>
+    <object>
+      <h>83</h>
+      <object_id>3239985</object_id>
+      <w>198</w>
+      <y>205</y>
+      <x>125</x>
+      <name>pizza crust</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>170</h>
+      <object_id>3239986</object_id>
+      <w>182</w>
+      <y>204</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person is giving a piece of crust to a dog.</caption>
+      <caption>a person feeds their dog a piece of pizza </caption>
+      <caption>Someone is feeding their dog a piece of pizza.</caption>
+      <caption>A dog with its mouth open about to ear pizza crust .</caption>
+      <caption>A white dog A white dog laying on top of a the floor eating pizza.</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2415447</image-id>
+  <coco-id>552052</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3874142</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3205138</subject>
+      <object>3205139</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3874162</relationship_id>
+      <predicate>with</predicate>
+      <subject>2945787</subject>
+      <object>3626574</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>183</h>
+      <object_id>3205138</object_id>
+      <w>68</w>
+      <y>40</y>
+      <x>169</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>tank top</name>
+      <h>45</h>
+      <object_id>3205139</object_id>
+      <w>57</w>
+      <y>76</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>blue outfit</name>
+      <h>135</h>
+      <object_id>2945787</object_id>
+      <w>87</w>
+      <y>115</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>straps</name>
+      <h>45</h>
+      <object_id>3626574</object_id>
+      <w>70</w>
+      <y>119</y>
+      <x>235</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two women playing tennis one wearing black the other blue</caption>
+      <caption>two women holding tennis rackets and playing tennis on a tennis court.</caption>
+      <caption>A woman mid-swing in a tennis match with another match in the background. </caption>
+      <caption>Two women are playing tennis on different courts.</caption>
+      <caption>Two women in the middle of a game of tennis.</caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>2328365</image-id>
+  <coco-id>131825</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470724</relationship_id>
+      <predicate>with</predicate>
+      <subject>3498197</subject>
+      <object>2937321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4470725</relationship_id>
+      <predicate>on left</predicate>
+      <subject>2937321</subject>
+      <object>2937322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4152682</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3160368</subject>
+      <object>3160370</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4152683</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3498197</subject>
+      <object>3498198</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>soldier</name>
+      <h>256</h>
+      <object_id>3498197</object_id>
+      <w>209</w>
+      <y>75</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>packet</name>
+      <h>55</h>
+      <object_id>2937321</object_id>
+      <w>40</w>
+      <y>189</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>86</h>
+      <object_id>2937322</object_id>
+      <w>147</w>
+      <y>163</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>blue wire</name>
+      <h>32</h>
+      <object_id>3160368</object_id>
+      <w>145</w>
+      <y>171</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>machines</name>
+      <h>92</h>
+      <object_id>3160370</object_id>
+      <w>68</w>
+      <y>122</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>camouflage clothes</name>
+      <h>188</h>
+      <object_id>3498198</object_id>
+      <w>173</w>
+      <y>143</y>
+      <x>243</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A soldier sitting at a desk using a laptop computer.</caption>
+      <caption>A man on a laptop in a small room.</caption>
+      <caption>a person in a military uniform sitting at a desk in a tent.</caption>
+      <caption>A military man in a hut using the computer keyboard.</caption>
+      <caption>Military man sitting down at table using a laptop</caption>
+    </captions>
+</image>

@@ -1,0 +1,78 @@
+<image>
+  <image-id>2387019</image-id>
+  <coco-id>203191</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3508190</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1280141</subject>
+      <object>1280140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3508191</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1280154</subject>
+      <object>1280155</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>arrow</name>
+      <h>14</h>
+      <object_id>1280141</object_id>
+      <w>21</w>
+      <y>176</y>
+      <x>410</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+        <attribute>a street sign</attribute>
+        <attribute>pointing</attribute>
+        <attribute>traditional chinese</attribute>
+        <attribute>giving direction</attribute>
+        <attribute>chinese</attribute>
+        <attribute>asian</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>154</h>
+      <object_id>1280140</object_id>
+      <w>419</w>
+      <y>82</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+      </attributes>
+      <name>lights</name>
+      <h>35</h>
+      <object_id>1280154</object_id>
+      <w>385</w>
+      <y>239</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>structure</name>
+      <h>164</h>
+      <object_id>1280155</object_id>
+      <w>418</w>
+      <y>210</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A road sign with Chinese characters and English words.</caption>
+      <caption>Sign in oriental language directing someplace in the dark</caption>
+      <caption>A close shot of a street sign with a building in the background.</caption>
+      <caption>A green street sign that read Anping Jie.</caption>
+      <caption>A green and white traffic sign at night. </caption>
+    </captions>
+</image>

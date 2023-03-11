@@ -1,0 +1,47 @@
+<image>
+  <image-id>2334235</image-id>
+  <coco-id>518530</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4824122</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>4656993</subject>
+      <object>4656994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824123</relationship_id>
+      <predicate>standing on side of</predicate>
+      <subject>4656993</subject>
+      <object>4656994</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stop sign</name>
+      <h>97</h>
+      <object_id>4656993</object_id>
+      <w>34</w>
+      <y>133</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+        <attribute>unpaved</attribute>
+      </attributes>
+      <name>road</name>
+      <h>207</h>
+      <object_id>4656994</object_id>
+      <w>483</w>
+      <y>164</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Stop sign placed in the middle of a single roads curve.</caption>
+      <caption>A stop sign set on the inner curve of a curving dirt road.</caption>
+      <caption>An empty dirt road with a single stop sign.</caption>
+      <caption>A stop sign in the middle of nowhere commands respect.</caption>
+      <caption>some brown dirt and a red and white stop sign</caption>
+    </captions>
+</image>

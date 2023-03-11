@@ -1,0 +1,103 @@
+<image>
+  <image-id>2367463</image-id>
+  <coco-id>492758</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4359133</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3873895</subject>
+      <object>3873896</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4359134</relationship_id>
+      <predicate>thrown over</predicate>
+      <subject>1946615</subject>
+      <object>3873897</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4359135</relationship_id>
+      <predicate>to left of</predicate>
+      <subject>2190198</subject>
+      <object>3873898</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4359136</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1898398</subject>
+      <object>1898403</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flowers</name>
+      <h>45</h>
+      <object_id>3873895</object_id>
+      <w>38</w>
+      <y>118</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>windowsill</name>
+      <h>15</h>
+      <object_id>3873896</object_id>
+      <w>88</w>
+      <y>154</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>blanket</name>
+      <h>53</h>
+      <object_id>1946615</object_id>
+      <w>116</w>
+      <y>278</y>
+      <x>361</x>
+    </object>
+    <object>
+      <name>sofa back</name>
+      <h>37</h>
+      <object_id>3873897</object_id>
+      <w>191</w>
+      <y>281</y>
+      <x>292</x>
+    </object>
+    <object>
+      <name>lamp</name>
+      <h>81</h>
+      <object_id>2190198</object_id>
+      <w>45</w>
+      <y>84</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>69</h>
+      <object_id>3873898</object_id>
+      <w>49</w>
+      <y>144</y>
+      <x>353</x>
+    </object>
+    <object>
+      <name>tile</name>
+      <h>17</h>
+      <object_id>1898398</object_id>
+      <w>38</w>
+      <y>269</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>128</h>
+      <object_id>1898403</object_id>
+      <w>478</w>
+      <y>201</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>An older person sitting in a living room chair near a walker.</caption>
+      <caption>Living room arrangement with lights and windows and chairs</caption>
+      <caption>A person sits in a chair in a living room next to some windows.</caption>
+      <caption>A living room with windows, chairs, table, lamps, and a person sitting in a chair with a walker beside it.</caption>
+      <caption>a living room that has a couple of chairs in it</caption>
+    </captions>
+</image>

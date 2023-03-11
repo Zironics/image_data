@@ -1,0 +1,124 @@
+<image>
+  <image-id>2327817</image-id>
+  <coco-id>211737</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4472319</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2937150</subject>
+      <object>3936983</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3627100</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>2977199</subject>
+      <object>3518953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3627101</relationship_id>
+      <predicate>preparing to throw</predicate>
+      <subject>3190766</subject>
+      <object>2937150</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3627102</relationship_id>
+      <predicate>staring at</predicate>
+      <subject>3190765</subject>
+      <object>3190766</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3627103</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3190766</subject>
+      <object>3417160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3627112</relationship_id>
+      <predicate>play</predicate>
+      <subject>3190765</subject>
+      <object>3244018</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>64</h>
+      <object_id>2937150</object_id>
+      <w>87</w>
+      <y>230</y>
+      <x>50</x>
+      <name>frisbee</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>38</h>
+      <object_id>3936983</object_id>
+      <w>59</w>
+      <y>256</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>02</name>
+      <h>80</h>
+      <object_id>2977199</object_id>
+      <w>69</w>
+      <y>185</y>
+      <x>394</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>180</h>
+      <object_id>3518953</object_id>
+      <w>161</w>
+      <y>130</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>197</h>
+      <object_id>3190766</object_id>
+      <w>252</w>
+      <y>114</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>264</h>
+      <object_id>3190765</object_id>
+      <w>174</w>
+      <y>47</y>
+      <x>287</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>67</h>
+      <object_id>3417160</object_id>
+      <w>92</w>
+      <y>105</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>frisbee</name>
+      <h>80</h>
+      <object_id>3244018</object_id>
+      <w>120</w>
+      <y>222</y>
+      <x>30</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man watching a woman about to throw a frisbee.</caption>
+      <caption>A man standing next to a woman preparing to throw a Frisbee.</caption>
+      <caption>A woman and a man are outdoors playing with a Frisbee. </caption>
+      <caption>A woman getting ready to throw a Frisbee around a man.</caption>
+      <caption>Two women play frisbee in the middle of the park. </caption>
+    </captions>
+</image>

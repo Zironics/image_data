@@ -1,0 +1,143 @@
+<image>
+  <image-id>2330950</image-id>
+  <coco-id>154880</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4107811</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3040044</subject>
+      <object>3040048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107812</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3040045</subject>
+      <object>3040048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107813</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3040046</subject>
+      <object>3040048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107814</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3040047</subject>
+      <object>3040048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107815</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3278258</subject>
+      <object>3278259</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107816</relationship_id>
+      <predicate>stuck in</predicate>
+      <subject>3040044</subject>
+      <object>3040048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107817</relationship_id>
+      <predicate>stuck in</predicate>
+      <subject>3040045</subject>
+      <object>3040048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107818</relationship_id>
+      <predicate>stuck in</predicate>
+      <subject>3040046</subject>
+      <object>3040048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107819</relationship_id>
+      <predicate>stuck in</predicate>
+      <subject>3040047</subject>
+      <object>3040048</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>115</h>
+      <object_id>3040044</object_id>
+      <w>265</w>
+      <y>0</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>67</h>
+      <object_id>3040048</object_id>
+      <w>499</w>
+      <y>285</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>50</h>
+      <object_id>3040045</object_id>
+      <w>151</w>
+      <y>119</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>25</h>
+      <object_id>3040046</object_id>
+      <w>97</w>
+      <y>183</y>
+      <x>295</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>35</h>
+      <object_id>3040047</object_id>
+      <w>85</w>
+      <y>154</y>
+      <x>414</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+      </attributes>
+      <name>cloud cover</name>
+      <h>257</h>
+      <object_id>3278258</object_id>
+      <w>495</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>260</h>
+      <object_id>3278259</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Yellow umbrellas are scattered around the beach along with one chair.</caption>
+      <caption>Yellow umbrella stands sitting on a beach with one chair.</caption>
+      <caption>Many umbrellas shade the beach from the sun.</caption>
+      <caption>A beach with several yellow umbrellas by a chair.</caption>
+      <caption>Cabana and umbrellas on beach next to a resort</caption>
+    </captions>
+</image>

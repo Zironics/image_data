@@ -1,0 +1,98 @@
+<image>
+  <image-id>2325924</image-id>
+  <coco-id>111930</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4482045</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3162192</subject>
+      <object>3162193</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3802882</relationship_id>
+      <predicate>on side</predicate>
+      <subject>3435073</subject>
+      <object>3435075</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3802883</relationship_id>
+      <predicate>on side</predicate>
+      <subject>3435074</subject>
+      <object>3435075</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482046</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3009014</subject>
+      <object>3009017</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ramp</name>
+      <h>70</h>
+      <object_id>3162192</object_id>
+      <w>244</w>
+      <y>428</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>400</h>
+      <object_id>3162193</object_id>
+      <w>331</w>
+      <y>99</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>banner</name>
+      <h>55</h>
+      <object_id>3435073</object_id>
+      <w>25</w>
+      <y>372</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>ramp</name>
+      <h>127</h>
+      <object_id>3435075</object_id>
+      <w>146</w>
+      <y>300</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>banner</name>
+      <h>73</h>
+      <object_id>3435074</object_id>
+      <w>17</w>
+      <y>352</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>behind</attribute>
+      </attributes>
+      <name>green tree</name>
+      <h>31</h>
+      <object_id>3009014</object_id>
+      <w>36</w>
+      <y>69</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>mountains</name>
+      <h>93</h>
+      <object_id>3009017</object_id>
+      <w>324</w>
+      <y>53</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A ski slope with people skiing and snowboarding about it.</caption>
+      <caption>A man skiing a jump, while in the background there is snow melting off the slopes. </caption>
+      <caption>A snowy mountain is full of skiers going up and down the slopes. </caption>
+      <caption>The ski slope has many ramps and rails in the snow.</caption>
+      <caption>Looking down at a ski jump on a well-manicured snowy slope</caption>
+    </captions>
+</image>

@@ -1,0 +1,57 @@
+<image>
+  <image-id>1159847</image-id>
+  <coco-id>256607</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4072596</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1598168</subject>
+      <object>3705400</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4072597</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1598168</subject>
+      <object>3705401</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>55</h>
+      <object_id>1598168</object_id>
+      <w>27</w>
+      <y>484</y>
+      <x>313</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>13</h>
+      <object_id>3705400</object_id>
+      <w>13</w>
+      <y>515</y>
+      <x>318</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>vest</name>
+      <h>11</h>
+      <object_id>3705401</object_id>
+      <w>26</w>
+      <y>498</y>
+      <x>312</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bus that is sitting near a building.</caption>
+      <caption>A bus and car are parked in front of a building. </caption>
+      <caption>A red bus travels down a one way city street</caption>
+      <caption>A transit bus moves through a narrow street. </caption>
+      <caption>A large red bus driving down the street.</caption>
+    </captions>
+</image>

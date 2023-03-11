@@ -1,0 +1,97 @@
+<image>
+  <image-id>2372753</image-id>
+  <coco-id>4546</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1993186</relationship_id>
+      <predicate>IN</predicate>
+      <subject>735554</subject>
+      <object>735555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1993187</relationship_id>
+      <predicate>IN</predicate>
+      <subject>735556</subject>
+      <object>735555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1993188</relationship_id>
+      <predicate>IN</predicate>
+      <subject>735557</subject>
+      <object>735555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1993189</relationship_id>
+      <predicate>IN</predicate>
+      <subject>735558</subject>
+      <object>735555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1993190</relationship_id>
+      <predicate>IN</predicate>
+      <subject>735559</subject>
+      <object>735555</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plane</name>
+      <h>27</h>
+      <object_id>735554</object_id>
+      <w>35</w>
+      <y>99</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cloudy</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>35</h>
+      <object_id>735555</object_id>
+      <w>35</w>
+      <y>54</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>29</h>
+      <object_id>735556</object_id>
+      <w>37</w>
+      <y>132</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>19</h>
+      <object_id>735557</object_id>
+      <w>29</w>
+      <y>169</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>30</h>
+      <object_id>735558</object_id>
+      <w>30</w>
+      <y>138</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>37</h>
+      <object_id>735559</object_id>
+      <w>26</w>
+      <y>165</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Planes in formation against a dark sky in mountainous region.</caption>
+      <caption>A group of planes is flying in the sky over the mountains.</caption>
+      <caption>A group of planes flying over the mountains.</caption>
+      <caption>A bunch of planes all flying in different directions. </caption>
+      <caption>there are several airplanes flying together almost forming a circle</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2322072</image-id>
+  <coco-id>213242</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3743940</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2743911</subject>
+      <object>2743912</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4155480</relationship_id>
+      <predicate>along</predicate>
+      <subject>3325601</subject>
+      <object>3735966</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>70</h>
+      <object_id>2743911</object_id>
+      <w>135</w>
+      <y>2</y>
+      <x>360</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>23</h>
+      <object_id>2743912</object_id>
+      <w>43</w>
+      <y>5</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>93</h>
+      <object_id>3325601</object_id>
+      <w>496</w>
+      <y>9</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>34</h>
+      <object_id>3735966</object_id>
+      <w>189</w>
+      <y>122</y>
+      <x>50</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption> A locomotive train engine is pulling cars along a railroad track.</caption>
+      <caption>A train with passenger cars on train tracks.</caption>
+      <caption>A train with an older locomotive drives through the country.</caption>
+      <caption>a train sitting on a track next to a bunch of trees</caption>
+      <caption>Steam train engine on the tracks in a field.</caption>
+    </captions>
+</image>

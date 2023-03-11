@@ -1,0 +1,95 @@
+<image>
+  <image-id>2332767</image-id>
+  <coco-id>284342</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3691114</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3107886</subject>
+      <object>3107887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3691162</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2736723</subject>
+      <object>3547455</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3691181</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2736723</subject>
+      <object>2736724</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3996425</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3125982</subject>
+      <object>3125983</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>37</h>
+      <object_id>3107886</object_id>
+      <w>18</w>
+      <y>172</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>120</h>
+      <object_id>3107887</object_id>
+      <w>252</w>
+      <y>131</y>
+      <x>131</x>
+    </object>
+    <object>
+      <h>37</h>
+      <object_id>2736723</object_id>
+      <w>79</w>
+      <y>143</y>
+      <x>286</x>
+      <name>window</name>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>145</h>
+      <object_id>3547455</object_id>
+      <w>240</w>
+      <y>127</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>116</h>
+      <object_id>2736724</object_id>
+      <w>232</w>
+      <y>132</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>50</h>
+      <object_id>3125982</object_id>
+      <w>32</w>
+      <y>148</y>
+      <x>437</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>208</h>
+      <object_id>3125983</object_id>
+      <w>180</w>
+      <y>30</y>
+      <x>317</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue and silver train stopping at a train station.</caption>
+      <caption>A tram car sitting at a mountain station.</caption>
+      <caption>A small train sits at a station in front of a hill.</caption>
+      <caption>A train is traveling down the track near a building.</caption>
+      <caption>A passenger train stopped at a small train station n the mountains.</caption>
+    </captions>
+</image>

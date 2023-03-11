@@ -1,0 +1,144 @@
+<image>
+  <image-id>1592675</image-id>
+  <coco-id>58572</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4743383</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4449475</subject>
+      <object>4449476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743384</relationship_id>
+      <predicate>with</predicate>
+      <subject>4449480</subject>
+      <object>4449478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743385</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4449479</subject>
+      <object>4449480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743386</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4449483</subject>
+      <object>4449476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743387</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4449485</subject>
+      <object>4449486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4743388</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4449488</subject>
+      <object>4449476</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long slice </attribute>
+      </attributes>
+      <name>bread</name>
+      <h>137</h>
+      <object_id>4449475</object_id>
+      <w>582</w>
+      <y>467</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>579</h>
+      <object_id>4449476</object_id>
+      <w>979</w>
+      <y>27</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paper </attribute>
+      </attributes>
+      <h>151</h>
+      <object_id>4449480</object_id>
+      <w>211</w>
+      <y>176</y>
+      <x>243</x>
+      <name>container</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red  </attribute>
+      </attributes>
+      <name>stripes</name>
+      <h>26</h>
+      <object_id>4449478</object_id>
+      <w>26</w>
+      <y>296</y>
+      <x>326</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>onion </attribute>
+      </attributes>
+      <name>rings</name>
+      <h>152</h>
+      <object_id>4449479</object_id>
+      <w>199</w>
+      <y>173</y>
+      <x>250</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear drinking</attribute>
+      </attributes>
+      <name>glass</name>
+      <h>145</h>
+      <object_id>4449483</object_id>
+      <w>42</w>
+      <y>290</y>
+      <x>939</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>158</h>
+      <object_id>4449485</object_id>
+      <w>230</w>
+      <y>215</y>
+      <x>745</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>plate</name>
+      <h>111</h>
+      <object_id>4449486</object_id>
+      <w>212</w>
+      <y>296</y>
+      <x>747</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>plate</name>
+      <h>232</h>
+      <object_id>4449488</object_id>
+      <w>320</w>
+      <y>221</y>
+      <x>401</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bunch of food and blue plates on a table</caption>
+      <caption>A person holding a blue plastic knife at a table of various foods.</caption>
+      <caption>A large table features various types of foods on it.</caption>
+      <caption>A dining table filled with food of a variety of types.</caption>
+      <caption>An array of food including bread and a chicken sandwich lies on a white table.</caption>
+    </captions>
+</image>

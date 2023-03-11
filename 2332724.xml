@@ -1,0 +1,150 @@
+<image>
+  <image-id>2332724</image-id>
+  <coco-id>315871</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4086340</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3486683</subject>
+      <object>3427876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086341</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3407272</subject>
+      <object>3710889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086342</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>3427875</subject>
+      <object>3427876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462755</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2854587</subject>
+      <object>2854589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462756</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2854588</subject>
+      <object>2854589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462757</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2854590</subject>
+      <object>2854589</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462758</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2854591</subject>
+      <object>2854589</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>horse</name>
+      <h>142</h>
+      <object_id>3486683</object_id>
+      <w>150</w>
+      <y>206</y>
+      <x>180</x>
+    </object>
+    <object>
+      <h>200</h>
+      <object_id>3427876</object_id>
+      <w>500</w>
+      <y>197</y>
+      <x>0</x>
+      <name>field</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>mane</name>
+      <h>71</h>
+      <object_id>3407272</object_id>
+      <w>39</w>
+      <y>206</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>204</h>
+      <object_id>3710889</object_id>
+      <w>241</w>
+      <y>188</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>17</h>
+      <object_id>3427875</object_id>
+      <w>102</w>
+      <y>181</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>front leg</name>
+      <h>87</h>
+      <object_id>2854587</object_id>
+      <w>30</w>
+      <y>309</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>203</h>
+      <object_id>2854589</object_id>
+      <w>83</w>
+      <y>189</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>front leg</name>
+      <h>75</h>
+      <object_id>2854588</object_id>
+      <w>31</w>
+      <y>316</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>horse's</attribute>
+      </attributes>
+      <name>hoof</name>
+      <h>23</h>
+      <object_id>2854590</object_id>
+      <w>20</w>
+      <y>374</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>horse's</attribute>
+      </attributes>
+      <name>hoof</name>
+      <h>12</h>
+      <object_id>2854591</object_id>
+      <w>16</w>
+      <y>369</y>
+      <x>108</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two baby horses standing in front of a windmill.</caption>
+      <caption>Two horses in a field near a barbed-wire fence.</caption>
+      <caption>Brown and black horses have a windmill behind them.</caption>
+      <caption>Two horses grazing in the fields next to a barbwire gate</caption>
+      <caption>Two horses in front of a wind mill standing next to a fence.</caption>
+    </captions>
+</image>

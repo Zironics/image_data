@@ -1,0 +1,76 @@
+<image>
+  <image-id>2374443</image-id>
+  <coco-id>516404</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4777768</relationship_id>
+      <predicate>with</predicate>
+      <subject>4541970</subject>
+      <object>4541971</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777769</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4541971</subject>
+      <object>4541972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4668847</relationship_id>
+      <predicate>part of a</predicate>
+      <subject>4266942</subject>
+      <object>4266943</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>black dog</name>
+      <h>139</h>
+      <object_id>4541970</object_id>
+      <w>150</w>
+      <y>62</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>65</h>
+      <object_id>4541971</object_id>
+      <w>53</w>
+      <y>79</y>
+      <x>398</x>
+    </object>
+    <object>
+      <name>pillow</name>
+      <h>139</h>
+      <object_id>4541972</object_id>
+      <w>96</w>
+      <y>36</y>
+      <x>389</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>41</h>
+      <object_id>4266942</object_id>
+      <w>49</w>
+      <y>295</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>sheet</name>
+      <h>225</h>
+      <object_id>4266943</object_id>
+      <w>275</w>
+      <y>139</y>
+      <x>47</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black dog sleeping on top of a bed.</caption>
+      <caption>Unmade bed with khaki and white sheets on it. </caption>
+      <caption>A large dog curls up on the pillow on a bunk bed.</caption>
+      <caption>A black dog on a bed with crumpled up bedding.</caption>
+      <caption>A dog is laying on a messed up bed.</caption>
+    </captions>
+</image>

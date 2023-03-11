@@ -1,0 +1,90 @@
+<image>
+  <image-id>2366868</image-id>
+  <coco-id>236078</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4365229</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2558262</subject>
+      <object>2151512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4365230</relationship_id>
+      <predicate>covered</predicate>
+      <subject>2658324</subject>
+      <object>2658325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4365231</relationship_id>
+      <predicate>throw</predicate>
+      <subject>2292446</subject>
+      <object>2683924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4365232</relationship_id>
+      <predicate>throwing</predicate>
+      <subject>2558262</subject>
+      <object>2683924</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>357</h>
+      <object_id>2558262</object_id>
+      <w>191</w>
+      <y>91</y>
+      <x>79</x>
+      <name>baseball player</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>33</h>
+      <object_id>2151512</object_id>
+      <w>40</w>
+      <y>111</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>260</h>
+      <object_id>2658324</object_id>
+      <w>375</w>
+      <y>232</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>base</name>
+      <h>21</h>
+      <object_id>2658325</object_id>
+      <w>117</w>
+      <y>293</y>
+      <x>139</x>
+    </object>
+    <object>
+      <h>19</h>
+      <object_id>2292446</object_id>
+      <w>34</w>
+      <y>218</y>
+      <x>170</x>
+      <name>59</name>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>25</h>
+      <object_id>2683924</object_id>
+      <w>17</w>
+      <y>90</y>
+      <x>148</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Dodgers pitcher pitching the ball at home base.</caption>
+      <caption>A pitcher for the Dodgers throwing a pitch on the mound.</caption>
+      <caption>Dodger's pitcher on the pitching mound getting ready to release the ball.</caption>
+      <caption>Professional baseball player about to throw the ball</caption>
+      <caption>Picture of a pitcher throwing a ball and a baseball game.</caption>
+    </captions>
+</image>

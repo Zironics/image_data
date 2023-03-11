@@ -1,0 +1,137 @@
+<image>
+  <image-id>2413929</image-id>
+  <coco-id>41687</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>157144</relationship_id>
+      <predicate>black a color</predicate>
+      <subject>163327</subject>
+      <object>163328</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157147</relationship_id>
+      <predicate>man has cap</predicate>
+      <subject>163329</subject>
+      <object>163327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157157</relationship_id>
+      <predicate>fence for snow</predicate>
+      <subject>163338</subject>
+      <object>163339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157158</relationship_id>
+      <predicate>wood on house</predicate>
+      <subject>163340</subject>
+      <object>163341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157159</relationship_id>
+      <predicate>wood on house</predicate>
+      <subject>163341</subject>
+      <object>163345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157160</relationship_id>
+      <predicate>person wearing pants</predicate>
+      <subject>163342</subject>
+      <object>163343</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cap is black</name>
+      <h>12</h>
+      <object_id>163327</object_id>
+      <w>14</w>
+      <y>66</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>cap is colored</name>
+      <h>12</h>
+      <object_id>163328</object_id>
+      <w>12</w>
+      <y>71</y>
+      <x>264</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>man is young</name>
+      <h>110</h>
+      <object_id>163329</object_id>
+      <w>48</w>
+      <y>64</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>fence has a pole</name>
+      <h>91</h>
+      <object_id>163338</object_id>
+      <w>102</w>
+      <y>53</y>
+      <x>396</x>
+    </object>
+    <object>
+      <name>pole is in snow</name>
+      <h>91</h>
+      <object_id>163339</object_id>
+      <w>13</w>
+      <y>54</y>
+      <x>393</x>
+    </object>
+    <object>
+      <name>wood is brown</name>
+      <h>45</h>
+      <object_id>163340</object_id>
+      <w>89</w>
+      <y>1</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>brown is on house</name>
+      <h>43</h>
+      <object_id>163341</object_id>
+      <w>156</w>
+      <y>50</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>brown is on house</name>
+      <h>35</h>
+      <object_id>163345</object_id>
+      <w>24</w>
+      <y>102</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>pants are grey</name>
+      <h>49</h>
+      <object_id>163342</object_id>
+      <w>29</w>
+      <y>119</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>person wearing grey</name>
+      <h>107</h>
+      <object_id>163343</object_id>
+      <w>69</w>
+      <y>69</y>
+      <x>232</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a skier and a snowboarder in front of a large house</caption>
+      <caption>A person skiing and a person snowboarding on slope.</caption>
+      <caption>A person on skis a d one one a snowboard, facing the opposite way.</caption>
+      <caption>A man and a woman on skis in the snow.</caption>
+      <caption>Two skiers are on their skis on the snow.</caption>
+    </captions>
+</image>

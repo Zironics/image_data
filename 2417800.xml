@@ -1,0 +1,110 @@
+<image>
+  <image-id>2417800</image-id>
+  <coco-id>318220</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4244352</relationship_id>
+      <predicate>landed on</predicate>
+      <subject>3445934</subject>
+      <object>3786567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244353</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2740709</subject>
+      <object>2740710</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244354</relationship_id>
+      <predicate>has</predicate>
+      <subject>3445934</subject>
+      <object>3235501</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244355</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2740709</subject>
+      <object>3472250</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244356</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3560226</subject>
+      <object>3472250</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244357</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2740709</subject>
+      <object>3472250</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chopper</name>
+      <h>298</h>
+      <object_id>3445934</object_id>
+      <w>476</w>
+      <y>12</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>strip</name>
+      <h>47</h>
+      <object_id>3786567</object_id>
+      <w>499</w>
+      <y>281</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>more visible</attribute>
+      </attributes>
+      <name>man</name>
+      <h>133</h>
+      <object_id>2740709</object_id>
+      <w>130</w>
+      <y>42</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>sunglasses</name>
+      <h>15</h>
+      <object_id>2740710</object_id>
+      <w>22</w>
+      <y>72</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>chrome</name>
+      <h>193</h>
+      <object_id>3235501</object_id>
+      <w>496</w>
+      <y>59</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>228</h>
+      <object_id>3472250</object_id>
+      <w>415</w>
+      <y>43</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>34</h>
+      <object_id>3560226</object_id>
+      <w>22</w>
+      <y>77</y>
+      <x>257</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A metallic silver plane parked on a runway</caption>
+      <caption>A silver plane has a reflection in it.</caption>
+      <caption>Large silver airplane parked outside an airport with a pilot in it. </caption>
+      <caption>A World War Bomber plane with a man in the cockpit.</caption>
+      <caption>A silver plane has a painting of an American flag on the side</caption>
+    </captions>
+</image>

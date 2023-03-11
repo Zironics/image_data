@@ -1,0 +1,99 @@
+<image>
+  <image-id>2333811</image-id>
+  <coco-id>12302</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3991123</relationship_id>
+      <predicate>has</predicate>
+      <subject>2991897</subject>
+      <object>3672867</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4014470</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3279569</subject>
+      <object>3002939</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991128</relationship_id>
+      <predicate>has</predicate>
+      <subject>2991897</subject>
+      <object>3388653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4014471</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>3000843</subject>
+      <object>3000844</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>57</h>
+      <object_id>2991897</object_id>
+      <w>132</w>
+      <y>252</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>lettering</name>
+      <h>52</h>
+      <object_id>3672867</object_id>
+      <w>50</w>
+      <y>263</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>39</h>
+      <object_id>3279569</object_id>
+      <w>109</w>
+      <y>209</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>330</h>
+      <object_id>3002939</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>64</h>
+      <object_id>3388653</object_id>
+      <w>27</w>
+      <y>258</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>12</h>
+      <object_id>3000843</object_id>
+      <w>15</w>
+      <y>315</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>lamp</name>
+      <h>23</h>
+      <object_id>3000844</object_id>
+      <w>17</w>
+      <y>262</y>
+      <x>110</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a plane flying in the sky over palm trees and a billboard</caption>
+      <caption>an airplane flies low on a city with billboard and palm trees </caption>
+      <caption>A plane flies through clear skies over palm trees</caption>
+      <caption>An airplane flying over palm trees beneath a blue sky.</caption>
+      <caption>A plane in the sky along with palm trees and billboards.</caption>
+    </captions>
+</image>

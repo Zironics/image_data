@@ -1,0 +1,65 @@
+<image>
+  <image-id>2397531</image-id>
+  <coco-id>137778</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4611559</relationship_id>
+      <predicate>above</predicate>
+      <subject>4123321</subject>
+      <object>4123322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4611733</relationship_id>
+      <predicate>driving down</predicate>
+      <subject>4123777</subject>
+      <object>4123778</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one way</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>28</h>
+      <object_id>4123321</object_id>
+      <w>21</w>
+      <y>47</y>
+      <x>312</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>111</h>
+      <object_id>4123322</object_id>
+      <w>435</w>
+      <y>220</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>car</name>
+      <h>55</h>
+      <object_id>4123777</object_id>
+      <w>53</w>
+      <y>210</y>
+      <x>332</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>113</h>
+      <object_id>4123778</object_id>
+      <w>484</w>
+      <y>218</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A street scene of an intersection with people and cars.</caption>
+      <caption>A red traffic light hanging over a street with little traffic.</caption>
+      <caption>Some red lights hanging at a quiet intersection</caption>
+      <caption>some people crossing the street as the light changes</caption>
+      <caption>A stoplight that is on the road in the daytime.</caption>
+    </captions>
+</image>

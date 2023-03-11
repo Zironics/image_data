@@ -1,0 +1,75 @@
+<image>
+  <image-id>2383048</image-id>
+  <coco-id>455448</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1312504</relationship_id>
+      <predicate>ON</predicate>
+      <subject>535386</subject>
+      <object>535385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312505</relationship_id>
+      <predicate>IN</predicate>
+      <subject>535383</subject>
+      <object>535395</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bare</attribute>
+      </attributes>
+      <name>nail</name>
+      <h>38</h>
+      <object_id>535386</object_id>
+      <w>33</w>
+      <y>414</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pinky</attribute>
+        <attribute>bare</attribute>
+      </attributes>
+      <name>finger</name>
+      <h>88</h>
+      <object_id>535385</object_id>
+      <w>126</w>
+      <y>402</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chocolate</attribute>
+        <attribute>white</attribute>
+        <attribute>iced</attribute>
+      </attributes>
+      <name>cupcake</name>
+      <h>281</h>
+      <object_id>535383</object_id>
+      <w>347</w>
+      <y>75</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>wrinkled</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>358</h>
+      <object_id>535395</object_id>
+      <w>261</w>
+      <y>141</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A cupcake being decorated with frosted and non pareils.</caption>
+      <caption>A person holding a cup cake with chocolate icing and sprinkles.</caption>
+      <caption>close up of a person holding a cupcake with sprinkles</caption>
+      <caption>a hand holding a cupcake with brown frosting and colorful balls on it</caption>
+      <caption>Holding a chocolate cupcake with colored sprinkles still in the paper cup.</caption>
+    </captions>
+</image>

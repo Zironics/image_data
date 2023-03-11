@@ -1,0 +1,88 @@
+<image>
+  <image-id>2393619</image-id>
+  <coco-id>130011</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4289881</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1218342</subject>
+      <object>3824592</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289882</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1218342</subject>
+      <object>3824591</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3410388</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1218348</subject>
+      <object>1218349</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>feminine</attribute>
+        <attribute>yellow</attribute>
+        <attribute>worn</attribute>
+        <attribute>rubber</attribute>
+        <attribute>shiny</attribute>
+        <attribute>sunny</attribute>
+        <attribute>protective</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>96</h>
+      <object_id>1218342</object_id>
+      <w>181</w>
+      <y>183</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>51</h>
+      <object_id>3824592</object_id>
+      <w>57</w>
+      <y>180</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>36</h>
+      <object_id>3824591</object_id>
+      <w>50</w>
+      <y>240</y>
+      <x>325</x>
+    </object>
+    <object>
+      <name>cleaning product</name>
+      <h>60</h>
+      <object_id>1218348</object_id>
+      <w>36</w>
+      <y>194</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>37</h>
+      <object_id>1218349</object_id>
+      <w>29</w>
+      <y>198</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman is cleaning with rubber gloves on.</caption>
+      <caption>A woman wearing gloves spraying cleaner on a counter.</caption>
+      <caption>A woman with gloves that is standing near a counter.</caption>
+      <caption>A woman in glasses is cleaning a counter top.</caption>
+      <caption>a lady that's cleaning a wooden counter top.</caption>
+    </captions>
+</image>

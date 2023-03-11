@@ -1,0 +1,84 @@
+<image>
+  <image-id>2383680</image-id>
+  <coco-id>117454</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4103242</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3270579</subject>
+      <object>3716438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308471</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1670982</subject>
+      <object>1670983</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4103243</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2893140</subject>
+      <object>2803538</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zipper</name>
+      <h>61</h>
+      <object_id>3270579</object_id>
+      <w>34</w>
+      <y>235</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>pocket</name>
+      <h>170</h>
+      <object_id>3716438</object_id>
+      <w>282</w>
+      <y>119</y>
+      <x>64</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>upper</attribute>
+      </attributes>
+      <name>pocket</name>
+      <h>203</h>
+      <object_id>1670982</object_id>
+      <w>293</w>
+      <y>113</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>420</h>
+      <object_id>1670983</object_id>
+      <w>333</w>
+      <y>61</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>zipper</name>
+      <h>34</h>
+      <object_id>2893140</object_id>
+      <w>19</w>
+      <y>324</y>
+      <x>355</x>
+    </object>
+    <object>
+      <h>422</h>
+      <object_id>2803538</object_id>
+      <w>325</w>
+      <y>63</y>
+      <x>41</x>
+      <name>bag</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A greay and black piece of luggage sits on a white floor.</caption>
+      <caption>a black and silver case with zippers </caption>
+      <caption>A large plastic container sitting in a living room.</caption>
+      <caption>an image of the back end of a childs car seat</caption>
+      <caption>a black and gray suitcase sitting on a tiled floor</caption>
+    </captions>
+</image>

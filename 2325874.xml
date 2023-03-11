@@ -1,0 +1,59 @@
+<image>
+  <image-id>2325874</image-id>
+  <coco-id>233426</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4482186</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3020519</subject>
+      <object>3020518</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3927444</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3648200</subject>
+      <object>3161144</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flower reflection</name>
+      <h>18</h>
+      <object_id>3020519</object_id>
+      <w>23</w>
+      <y>55</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>250</h>
+      <object_id>3020518</object_id>
+      <w>142</w>
+      <y>75</y>
+      <x>356</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>168</h>
+      <object_id>3648200</object_id>
+      <w>278</w>
+      <y>77</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>222</h>
+      <object_id>3161144</object_id>
+      <w>382</w>
+      <y>95</y>
+      <x>45</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A photo of some flowers in a ceramic vase.</caption>
+      <caption>A picture of a vase of flowers on a shelf. </caption>
+      <caption>The small vase on the table is holding colorful flowers. </caption>
+      <caption>A brown vase full of colorful flowers in front of a mirror.</caption>
+      <caption>A wooden vase with flowers in front of a mirror.</caption>
+    </captions>
+</image>

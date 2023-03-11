@@ -1,0 +1,86 @@
+<image>
+  <image-id>2332628</image-id>
+  <coco-id>253712</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3910328</relationship_id>
+      <predicate>hanging off</predicate>
+      <subject>3000180</subject>
+      <object>3000181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997488</relationship_id>
+      <predicate>above</predicate>
+      <subject>3288214</subject>
+      <object>3000180</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3910348</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3641054</subject>
+      <object>3274123</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3977498</relationship_id>
+      <predicate>hanging off</predicate>
+      <subject>3000180</subject>
+      <object>3000181</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>284</h>
+      <object_id>3000180</object_id>
+      <w>235</w>
+      <y>204</y>
+      <x>22</x>
+      <name>sign</name>
+    </object>
+    <object>
+      <h>499</h>
+      <object_id>3000181</object_id>
+      <w>78</w>
+      <y>0</y>
+      <x>258</x>
+      <name>grey pole</name>
+    </object>
+    <object>
+      <name>teddy bear</name>
+      <h>189</h>
+      <object_id>3288214</object_id>
+      <w>176</w>
+      <y>25</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>holder</name>
+      <h>89</h>
+      <object_id>3641054</object_id>
+      <w>75</w>
+      <y>146</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>no parking</attribute>
+        <attribute>sign</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>90</h>
+      <object_id>3274123</object_id>
+      <w>78</w>
+      <y>143</y>
+      <x>106</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A no parking sign that is very confusing with a teddy bear sitting on top.</caption>
+      <caption>Street sign saying Tow Zone with a teddy bear hanging from the pole.</caption>
+      <caption>A teddy bear is attached high on a street sign.</caption>
+      <caption>A teddy bear is put up next to a street sign.</caption>
+      <caption>A teddy bear connected to a parking sign on the street</caption>
+    </captions>
+</image>

@@ -1,0 +1,203 @@
+<image>
+  <image-id>2385847</image-id>
+  <coco-id>474600</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3528936</relationship_id>
+      <predicate>against</predicate>
+      <subject>1292361</subject>
+      <object>1292362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528937</relationship_id>
+      <predicate>has</predicate>
+      <subject>1292364</subject>
+      <object>1292370</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528938</relationship_id>
+      <predicate>has</predicate>
+      <subject>1292364</subject>
+      <object>1292370</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528939</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1292370</subject>
+      <object>1292364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528940</relationship_id>
+      <predicate>has</predicate>
+      <subject>1292365</subject>
+      <object>1292371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528941</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>1292372</subject>
+      <object>1292369</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528942</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>1292363</subject>
+      <object>1292374</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528943</relationship_id>
+      <predicate>has</predicate>
+      <subject>1292364</subject>
+      <object>1292375</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3528944</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1292364</subject>
+      <object>1292373</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>60</h>
+      <object_id>1292361</object_id>
+      <w>148</w>
+      <y>6</y>
+      <x>195</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>bright blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>261</h>
+      <object_id>1292362</object_id>
+      <w>373</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>green in color</attribute>
+        <attribute>green colored</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>134</h>
+      <object_id>1292364</object_id>
+      <w>168</w>
+      <y>232</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green colored</attribute>
+        <attribute>green in color</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>129</h>
+      <object_id>1292370</object_id>
+      <w>164</w>
+      <y>228</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>green in color</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>64</h>
+      <object_id>1292365</object_id>
+      <w>116</w>
+      <y>222</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>a green color</attribute>
+        <attribute>green color</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>66</h>
+      <object_id>1292371</object_id>
+      <w>121</w>
+      <y>220</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>16</h>
+      <object_id>1292372</object_id>
+      <w>23</w>
+      <y>473</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>green in color</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>138</h>
+      <object_id>1292369</object_id>
+      <w>364</w>
+      <y>356</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>spotted</attribute>
+        <attribute>tan</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>273</h>
+      <object_id>1292363</object_id>
+      <w>177</w>
+      <y>149</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>shade</name>
+      <h>65</h>
+      <object_id>1292374</object_id>
+      <w>366</w>
+      <y>394</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>13</h>
+      <object_id>1292375</object_id>
+      <w>35</w>
+      <y>284</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chain link</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>36</h>
+      <object_id>1292373</object_id>
+      <w>370</w>
+      <y>325</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Large giraffe standing in the shade underneath a tree in a field. </caption>
+      <caption>A huge giraffe walking along the grass and rocks.</caption>
+      <caption>A giraffe standing in the shade of a near by tree.</caption>
+      <caption>a giraffe standing in the shade in a grassy field</caption>
+      <caption>A giraffe is standing in a field of grass.</caption>
+    </captions>
+</image>

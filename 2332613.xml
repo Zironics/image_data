@@ -1,0 +1,59 @@
+<image>
+  <image-id>2332613</image-id>
+  <coco-id>518981</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260635</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3795426</subject>
+      <object>3339206</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260636</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3426191</subject>
+      <object>3795427</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>letter</name>
+      <h>91</h>
+      <object_id>3795426</object_id>
+      <w>38</w>
+      <y>53</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>135</h>
+      <object_id>3339206</object_id>
+      <w>259</w>
+      <y>42</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>letter</name>
+      <h>23</h>
+      <object_id>3426191</object_id>
+      <w>18</w>
+      <y>51</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>267</h>
+      <object_id>3795427</object_id>
+      <w>268</w>
+      <y>16</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tennis player awaits the ball while on a clay surface.</caption>
+      <caption>A tennis player is prepared to return a serve.</caption>
+      <caption>A tennis player holds his racket at the ready</caption>
+      <caption>a tennis player waiting for a serve on a tennis court</caption>
+      <caption>A man playing tennis is preparing to hit the ball.</caption>
+    </captions>
+</image>

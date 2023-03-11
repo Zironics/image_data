@@ -1,0 +1,112 @@
+<image>
+  <image-id>2382542</image-id>
+  <coco-id>47161</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4610511</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4120639</subject>
+      <object>4120638</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4610525</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4120694</subject>
+      <object>4120695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4610526</relationship_id>
+      <predicate>near</predicate>
+      <subject>4120696</subject>
+      <object>4120697</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4610527</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4120698</subject>
+      <object>4120699</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tail</name>
+      <h>28</h>
+      <object_id>4120639</object_id>
+      <w>20</w>
+      <y>150</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>94</h>
+      <object_id>4120638</object_id>
+      <w>150</w>
+      <y>145</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>20</h>
+      <object_id>4120694</object_id>
+      <w>79</w>
+      <y>303</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>80</h>
+      <object_id>4120695</object_id>
+      <w>464</w>
+      <y>290</y>
+      <x>15</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>bank</name>
+      <h>15</h>
+      <object_id>4120696</object_id>
+      <w>165</w>
+      <y>291</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>41</h>
+      <object_id>4120697</object_id>
+      <w>400</w>
+      <y>286</y>
+      <x>15</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>is walking</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>90</h>
+      <object_id>4120698</object_id>
+      <w>150</w>
+      <y>140</y>
+      <x>258</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>is walking</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>83</h>
+      <object_id>4120699</object_id>
+      <w>124</w>
+      <y>143</y>
+      <x>85</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of zebras standing in an enclosure by a large rock and in front of a rock wall.</caption>
+      <caption>Two zebras traveling near a couple of trees.</caption>
+      <caption>There are two zebras walking behind each other</caption>
+      <caption>Two zebras in a zoo following each other</caption>
+      <caption>Two zebras are walking toward a door in a zoo enclosure.</caption>
+    </captions>
+</image>

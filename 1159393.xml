@@ -1,0 +1,51 @@
+<image>
+  <image-id>1159393</image-id>
+  <coco-id>207180</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4621177</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4147914</subject>
+      <object>4097119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600608</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4097118</subject>
+      <object>4097119</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>74</h>
+      <object_id>4147914</object_id>
+      <w>50</w>
+      <y>135</y>
+      <x>530</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>711</h>
+      <object_id>4097119</object_id>
+      <w>988</w>
+      <y>5</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>50</h>
+      <object_id>4097118</object_id>
+      <w>67</w>
+      <y>255</y>
+      <x>475</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people walking around a train station.</caption>
+      <caption>an ornate bus station with a grand clock in it</caption>
+      <caption>A large long hallway with many doors to the sides and a large window at the end with a clock.</caption>
+      <caption>A terminal with benches and several people walking around</caption>
+      <caption>A very large building with the sun shining through the windows.</caption>
+    </captions>
+</image>

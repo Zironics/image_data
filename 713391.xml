@@ -1,0 +1,92 @@
+<image>
+  <image-id>713391</image-id>
+  <coco-id>277134</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4787497</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>4567492</subject>
+      <object>4567493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787498</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>4567504</subject>
+      <object>4567493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787499</relationship_id>
+      <predicate>on</predicate>
+      <subject>4567496</subject>
+      <object>4567504</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787500</relationship_id>
+      <predicate>on</predicate>
+      <subject>4567498</subject>
+      <object>4567504</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>framed</attribute>
+      </attributes>
+      <name>framed picture</name>
+      <h>523</h>
+      <object_id>4567492</object_id>
+      <w>178</w>
+      <y>1</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>249</h>
+      <object_id>4567493</object_id>
+      <w>141</w>
+      <y>10</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fancy</attribute>
+      </attributes>
+      <h>325</h>
+      <object_id>4567504</object_id>
+      <w>309</w>
+      <y>227</y>
+      <x>367</x>
+      <name>balcony</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flower</attribute>
+      </attributes>
+      <name>flower vase</name>
+      <h>100</h>
+      <object_id>4567496</object_id>
+      <w>98</w>
+      <y>136</y>
+      <x>396</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eagle</attribute>
+      </attributes>
+      <name>eagle statue</name>
+      <h>70</h>
+      <object_id>4567498</object_id>
+      <w>91</w>
+      <y>159</y>
+      <x>538</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A balcony of a building decorated ornately with flowers on it.</caption>
+      <caption>A balcony with a painting on the side of it.</caption>
+      <caption>A vase with flowers, a clock and paintings inside of a building.</caption>
+      <caption>A balcony in a hallway displays flowers next to a small clock.</caption>
+      <caption>Wall with paintings, clock and an ornate painted shelf with decorations.</caption>
+    </captions>
+</image>

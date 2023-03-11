@@ -1,0 +1,91 @@
+<image>
+  <image-id>2335528</image-id>
+  <coco-id>344314</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3980364</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3668558</subject>
+      <object>3668566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451024</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2738584</subject>
+      <object>3925106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451025</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2738584</subject>
+      <object>3925106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3980365</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2738584</subject>
+      <object>3668566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3980366</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2738584</subject>
+      <object>3668566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3980381</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3668566</subject>
+      <object>2084753</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>249</h>
+      <object_id>3668558</object_id>
+      <w>480</w>
+      <y>70</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>287</h>
+      <object_id>3668566</object_id>
+      <w>386</w>
+      <y>48</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>zebras</name>
+      <h>305</h>
+      <object_id>2738584</object_id>
+      <w>147</w>
+      <y>10</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>zoo</name>
+      <h>356</h>
+      <object_id>3925106</object_id>
+      <w>494</w>
+      <y>4</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>33</h>
+      <object_id>2084753</object_id>
+      <w>135</w>
+      <y>291</y>
+      <x>225</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small herd of zebra standing next to each other.</caption>
+      <caption>Two zebra are standing behind a sign that warns visitors not to feed animals.</caption>
+      <caption>Two zebras standing behind a sign in the grass.</caption>
+      <caption>The two zebras are standing behind the warning sign.</caption>
+      <caption>A pair of zebras behind a sign that warns not to feed them.</caption>
+    </captions>
+</image>

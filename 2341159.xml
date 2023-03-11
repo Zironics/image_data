@@ -1,0 +1,90 @@
+<image>
+  <image-id>2341159</image-id>
+  <coco-id>298981</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4700194</relationship_id>
+      <predicate>with white</predicate>
+      <subject>4345463</subject>
+      <object>4345464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4700199</relationship_id>
+      <predicate>in dirt</predicate>
+      <subject>4345473</subject>
+      <object>4345474</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4700203</relationship_id>
+      <predicate>in small</predicate>
+      <subject>4345481</subject>
+      <object>4345482</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>nail</name>
+      <h>57</h>
+      <object_id>4345463</object_id>
+      <w>67</w>
+      <y>314</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>base</name>
+      <h>14</h>
+      <object_id>4345464</object_id>
+      <w>14</w>
+      <y>334</y>
+      <x>221</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>81</h>
+      <object_id>4345473</object_id>
+      <w>222</w>
+      <y>116</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>brown</name>
+      <h>18</h>
+      <object_id>4345474</object_id>
+      <w>52</w>
+      <y>165</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>sauce</name>
+      <h>28</h>
+      <object_id>4345481</object_id>
+      <w>126</w>
+      <y>262</y>
+      <x>112</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>86</h>
+      <object_id>4345482</object_id>
+      <w>186</w>
+      <y>222</y>
+      <x>99</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cow standing on top of a sandy beach near water.</caption>
+      <caption>A person is holding a small cup, with a cow in the background</caption>
+      <caption>Fruit cup in foreground of picture with cattle just behind it.</caption>
+      <caption>A person holding a small plastic cup in front of a cow in a sandy area.</caption>
+      <caption>A person's hand holding a cup with sauce in front of a brahma bull.</caption>
+    </captions>
+</image>

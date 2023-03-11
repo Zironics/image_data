@@ -1,0 +1,65 @@
+<image>
+  <image-id>2320752</image-id>
+  <coco-id>198661</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3812095</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2825111</subject>
+      <object>2825112</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3900064</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3319202</subject>
+      <object>3618433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3854395</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3319202</subject>
+      <object>3618433</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>60</name>
+      <h>10</h>
+      <object_id>2825111</object_id>
+      <w>18</w>
+      <y>137</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>106</h>
+      <object_id>2825112</object_id>
+      <w>118</w>
+      <y>134</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>151</h>
+      <object_id>3319202</object_id>
+      <w>121</w>
+      <y>107</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>490</h>
+      <object_id>3618433</object_id>
+      <w>373</w>
+      <y>8</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a clock attached to a the side of a building</caption>
+      <caption>A large clock mounted to the face of a red brick building.</caption>
+      <caption>Looking up at a building at its clock tower.</caption>
+      <caption>An ornate clock attached to the side of a large brick building. </caption>
+      <caption>An ornamented clock tower beneath bricked arches.  </caption>
+    </captions>
+</image>

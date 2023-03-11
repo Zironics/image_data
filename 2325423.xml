@@ -1,0 +1,79 @@
+<image>
+  <image-id>2325423</image-id>
+  <coco-id>409491</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3725092</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3075306</subject>
+      <object>3374577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4484173</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2794886</subject>
+      <object>2794891</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3725130</relationship_id>
+      <predicate>flying</predicate>
+      <subject>3374577</subject>
+      <object>3562771</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>72</h>
+      <object_id>3075306</object_id>
+      <w>51</w>
+      <y>202</y>
+      <x>128</x>
+    </object>
+    <object>
+      <h>156</h>
+      <object_id>3374577</object_id>
+      <w>79</w>
+      <y>120</y>
+      <x>129</x>
+      <name>guys</name>
+    </object>
+    <object>
+      <name>man</name>
+      <h>67</h>
+      <object_id>2794886</object_id>
+      <w>20</w>
+      <y>172</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>22</h>
+      <object_id>2794891</object_id>
+      <w>19</w>
+      <y>186</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>107</h>
+      <object_id>3562771</object_id>
+      <w>132</w>
+      <y>74</y>
+      <x>310</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and a woman standing in a field flying kites.</caption>
+      <caption>A person flying a kite on a lawn in the city. </caption>
+      <caption>People are flying their kites in the park.</caption>
+      <caption>Lots of people are flying kites in a park.</caption>
+      <caption>People in a park and a man trying to fly his kite.</caption>
+    </captions>
+</image>

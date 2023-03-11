@@ -1,0 +1,148 @@
+<image>
+  <image-id>2336543</image-id>
+  <coco-id>103737</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4448940</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3359803</subject>
+      <object>3359804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448941</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2586364</subject>
+      <object>3021511</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3966729</relationship_id>
+      <predicate>with</predicate>
+      <subject>3021511</subject>
+      <object>3021512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3966730</relationship_id>
+      <predicate>sniffing</predicate>
+      <subject>3021511</subject>
+      <object>2785046</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3966731</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2763240</subject>
+      <object>2763241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448942</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3923946</subject>
+      <object>3266427</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stains</name>
+      <h>76</h>
+      <object_id>3359803</object_id>
+      <w>35</w>
+      <y>297</y>
+      <x>460</x>
+    </object>
+    <object>
+      <name>carpet</name>
+      <h>207</h>
+      <object_id>3359804</object_id>
+      <w>99</w>
+      <y>5</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Dark brown</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>173</h>
+      <object_id>2586364</object_id>
+      <w>105</w>
+      <y>70</y>
+      <x>304</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Dark brown</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>412</h>
+      <object_id>3021511</object_id>
+      <w>391</w>
+      <y>0</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>nose</name>
+      <h>105</h>
+      <object_id>3021512</object_id>
+      <w>115</w>
+      <y>174</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>159</h>
+      <object_id>2785046</object_id>
+      <w>135</w>
+      <y>160</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>cord</name>
+      <h>72</h>
+      <object_id>2763240</object_id>
+      <w>39</w>
+      <y>129</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>432</h>
+      <object_id>2763241</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>toe</name>
+      <h>56</h>
+      <object_id>3923946</object_id>
+      <w>70</w>
+      <y>161</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+        <attribute>Converse </attribute>
+      </attributes>
+      <h>179</h>
+      <object_id>3266427</object_id>
+      <w>122</w>
+      <y>167</y>
+      <x>53</x>
+      <name>black sneaker</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog sniffing someones foot that has a shoe on it. </caption>
+      <caption>a man that has a dog chewing on his leg</caption>
+      <caption>a brown dog is sniffing a black converse shoe</caption>
+      <caption>A large brown dog sniffing a persons shoe and pant leg.</caption>
+      <caption>A large dog touching the shoe of someone with his nose</caption>
+    </captions>
+</image>

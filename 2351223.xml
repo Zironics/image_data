@@ -1,0 +1,68 @@
+<image>
+  <image-id>2351223</image-id>
+  <coco-id>473118</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4406090</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1737446</subject>
+      <object>2554121</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406091</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1737446</subject>
+      <object>1895959</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406092</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1737446</subject>
+      <object>1737447</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>326</h>
+      <object_id>1737446</object_id>
+      <w>139</w>
+      <y>62</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>headphones</name>
+      <h>28</h>
+      <object_id>2554121</object_id>
+      <w>21</w>
+      <y>134</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>185</h>
+      <object_id>1895959</object_id>
+      <w>152</w>
+      <y>72</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>sneakers</name>
+      <h>90</h>
+      <object_id>1737447</object_id>
+      <w>89</w>
+      <y>300</y>
+      <x>91</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a skateboarder in a blue jacket is doing a trick</caption>
+      <caption>A person kicking up on their skateboard at the top of a ramp.</caption>
+      <caption>A skateboarder is turning his board at the top of a ramp</caption>
+      <caption>A young man balances himself as he tilts his skateboard up at the edge of an obstacle.</caption>
+      <caption>A picture of a person doing a skateboarding trick.</caption>
+    </captions>
+</image>

@@ -1,0 +1,107 @@
+<image>
+  <image-id>2357861</image-id>
+  <coco-id>42968</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2268625</relationship_id>
+      <predicate>near</predicate>
+      <subject>807997</subject>
+      <object>807996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2268626</relationship_id>
+      <predicate>IN</predicate>
+      <subject>807997</subject>
+      <object>808000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2268627</relationship_id>
+      <predicate>by</predicate>
+      <subject>807996</subject>
+      <object>807998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2268628</relationship_id>
+      <predicate>IN</predicate>
+      <subject>807997</subject>
+      <object>808000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2268629</relationship_id>
+      <predicate>IN</predicate>
+      <subject>807997</subject>
+      <object>808000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2268630</relationship_id>
+      <predicate>near</predicate>
+      <subject>807997</subject>
+      <object>807996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2268631</relationship_id>
+      <predicate>near</predicate>
+      <subject>807997</subject>
+      <object>807996</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+        <attribute>pretty</attribute>
+        <attribute>pink</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>51</h>
+      <object_id>807997</object_id>
+      <w>73</w>
+      <y>288</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>whte</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>52</h>
+      <object_id>807996</object_id>
+      <w>139</w>
+      <y>251</y>
+      <x>307</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>60</h>
+      <object_id>808000</object_id>
+      <w>130</w>
+      <y>313</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>far away</attribute>
+        <attribute>far</attribute>
+      </attributes>
+      <name>mountains</name>
+      <h>36</h>
+      <object_id>807998</object_id>
+      <w>56</w>
+      <y>214</y>
+      <x>138</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plane is somewhat distant away from the green grass. </caption>
+      <caption>a small air plane sitting behind a fence</caption>
+      <caption>A small air craft is parked next to a fence.</caption>
+      <caption>A white and red plane on runway with mountains in background.</caption>
+      <caption>There is a commuter plane on the ground </caption>
+    </captions>
+</image>

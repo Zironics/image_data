@@ -1,0 +1,70 @@
+<image>
+  <image-id>2360027</image-id>
+  <coco-id>240225</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2197951</relationship_id>
+      <predicate>ON</predicate>
+      <subject>790036</subject>
+      <object>790037</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2197952</relationship_id>
+      <predicate>ON</predicate>
+      <subject>790028</subject>
+      <object>790030</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>apple</name>
+      <h>25</h>
+      <object_id>790036</object_id>
+      <w>24</w>
+      <y>168</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>34</h>
+      <object_id>790037</object_id>
+      <w>70</w>
+      <y>203</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>soccer</attribute>
+        <attribute>green</attribute>
+        <attribute>base</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>64</h>
+      <object_id>790028</object_id>
+      <w>78</w>
+      <y>177</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>shadow</attribute>
+        <attribute>field</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>35</h>
+      <object_id>790030</object_id>
+      <w>74</w>
+      <y>239</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl raring back at a soccer ball on a field.</caption>
+      <caption>Two children in grassy field playing with soccer balls.</caption>
+      <caption>A couple of young children kicking around a soccer ball.</caption>
+      <caption>A couple of kids standing in a grass field.</caption>
+      <caption>Two children playing with soccer balls in a field.</caption>
+    </captions>
+</image>

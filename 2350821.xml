@@ -1,0 +1,58 @@
+<image>
+  <image-id>2350821</image-id>
+  <coco-id>450110</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2487349</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>865196</subject>
+      <object>865197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2487350</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>865200</subject>
+      <object>865197</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>60</h>
+      <object_id>865196</object_id>
+      <w>116</w>
+      <y>399</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snow</attribute>
+        <attribute>covered</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>309</h>
+      <object_id>865197</object_id>
+      <w>371</w>
+      <y>190</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>15</h>
+      <object_id>865200</object_id>
+      <w>5</w>
+      <y>274</y>
+      <x>217</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of skiers stand at the bottom of a slope.</caption>
+      <caption>A crowded ski area on top of a mountain. </caption>
+      <caption>a number of people riding skis on a snowy surface</caption>
+      <caption>A GROUP OF PEOPLE IN THE SNOW SKIING IN THE SNOW</caption>
+      <caption>a bunch of skiers are standing in the snow</caption>
+    </captions>
+</image>

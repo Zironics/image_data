@@ -1,0 +1,73 @@
+<image>
+  <image-id>2338184</image-id>
+  <coco-id>403096</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4077488</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2938402</subject>
+      <object>2599392</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460503</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2744920</subject>
+      <object>2744921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460504</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2599391</subject>
+      <object>2599392</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>75</h>
+      <object_id>2938402</object_id>
+      <w>100</w>
+      <y>298</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>374</h>
+      <object_id>2599392</object_id>
+      <w>158</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>toy</name>
+      <h>26</h>
+      <object_id>2744920</object_id>
+      <w>18</w>
+      <y>269</y>
+      <x>412</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>77</h>
+      <object_id>2744921</object_id>
+      <w>113</w>
+      <y>291</y>
+      <x>370</x>
+    </object>
+    <object>
+      <name>spring</name>
+      <h>26</h>
+      <object_id>2599391</object_id>
+      <w>94</w>
+      <y>127</y>
+      <x>81</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of yellow bananas hanging by a door</caption>
+      <caption>Plantains on a stalk sitting on a porch on a sunny day.</caption>
+      <caption>The bananas in the bushel are very large.</caption>
+      <caption>A bunch of ripe bananas hanging outside a home.</caption>
+      <caption>A bunch of ripe banana hanging from a white shelf.</caption>
+    </captions>
+</image>

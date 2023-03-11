@@ -1,0 +1,60 @@
+<image>
+  <image-id>2338571</image-id>
+  <coco-id>490986</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4584423</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4058380</subject>
+      <object>4058378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4584424</relationship_id>
+      <predicate>with</predicate>
+      <subject>4058380</subject>
+      <object>4058378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797851</relationship_id>
+      <predicate>on</predicate>
+      <subject>4593252</subject>
+      <object>4058378</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>baby</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>204</h>
+      <object_id>4058380</object_id>
+      <w>190</w>
+      <y>179</y>
+      <x>198</x>
+    </object>
+    <object>
+      <h>396</h>
+      <object_id>4058378</object_id>
+      <w>343</w>
+      <y>1</y>
+      <x>0</x>
+      <name>adult</name>
+    </object>
+    <object>
+      <name>tusk</name>
+      <h>47</h>
+      <object_id>4593252</object_id>
+      <w>75</w>
+      <y>98</y>
+      <x>255</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A mother and baby elephant eating foliage off a bush.</caption>
+      <caption>Two elephants, one large and one small, standing by some greenish trees.</caption>
+      <caption>An adult and baby elephant forage for food in a leafy bush.</caption>
+      <caption>An elephant is grazing with its offspring in nature.</caption>
+      <caption>A mother and baby elephant eating branches from a bush</caption>
+    </captions>
+</image>

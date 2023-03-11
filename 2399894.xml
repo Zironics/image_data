@@ -1,0 +1,106 @@
+<image>
+  <image-id>2399894</image-id>
+  <coco-id>261189</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1731639</relationship_id>
+      <predicate>holding</predicate>
+      <subject>661280</subject>
+      <object>661286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1731640</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>661280</subject>
+      <object>661285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1731641</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>661280</subject>
+      <object>661287</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1731642</relationship_id>
+      <predicate>ON</predicate>
+      <subject>661289</subject>
+      <object>661290</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>holding</attribute>
+        <attribute>blonde</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>310</h>
+      <object_id>661280</object_id>
+      <w>211</w>
+      <y>130</y>
+      <x>94</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>96</h>
+      <object_id>661286</object_id>
+      <w>71</w>
+      <y>189</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>85</h>
+      <object_id>661285</object_id>
+      <w>145</w>
+      <y>175</y>
+      <x>132</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>skirt</name>
+      <h>44</h>
+      <object_id>661287</object_id>
+      <w>102</w>
+      <y>254</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>digital clock</name>
+      <h>139</h>
+      <object_id>661289</object_id>
+      <w>250</w>
+      <y>5</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>340</h>
+      <object_id>661290</object_id>
+      <w>333</w>
+      <y>3</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman on a tennis court ready for her opponent to send her the ball.</caption>
+      <caption>A woman in blue shirt and grey skirt playing tennis.</caption>
+      <caption>a tennis player on a court holding a racket</caption>
+      <caption>The woman is playing tennis on the tennis court. </caption>
+      <caption>A woman is in position with her tennis racquet.</caption>
+    </captions>
+</image>

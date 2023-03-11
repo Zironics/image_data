@@ -1,0 +1,133 @@
+<image>
+  <image-id>2324931</image-id>
+  <coco-id>184659</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3762909</relationship_id>
+      <predicate>touching</predicate>
+      <subject>3196343</subject>
+      <object>3112029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4486784</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3428340</subject>
+      <object>3428341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4486785</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3428341</subject>
+      <object>3112029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4486786</relationship_id>
+      <predicate>written in</predicate>
+      <subject>3942427</subject>
+      <object>3019020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3762910</relationship_id>
+      <predicate>grabbing</predicate>
+      <subject>3045935</subject>
+      <object>3045936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4486787</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3112029</subject>
+      <object>2874834</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hands</name>
+      <h>90</h>
+      <object_id>3196343</object_id>
+      <w>91</w>
+      <y>45</y>
+      <x>364</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>birthday</attribute>
+        <attribute> large</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>287</h>
+      <object_id>3112029</object_id>
+      <w>397</w>
+      <y>70</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>frosting border</name>
+      <h>50</h>
+      <object_id>3428340</object_id>
+      <w>74</w>
+      <y>247</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>120</h>
+      <object_id>3428341</object_id>
+      <w>315</w>
+      <y>212</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>happy birthday</name>
+      <h>105</h>
+      <object_id>3942427</object_id>
+      <w>235</w>
+      <y>138</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>frosting</name>
+      <h>131</h>
+      <object_id>3019020</object_id>
+      <w>221</w>
+      <y>134</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>182</h>
+      <object_id>3045935</object_id>
+      <w>140</w>
+      <y>15</y>
+      <x>356</x>
+    </object>
+    <object>
+      <name>cake topper</name>
+      <h>66</h>
+      <object_id>3045936</object_id>
+      <w>78</w>
+      <y>91</y>
+      <x>341</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cake</attribute>
+      </attributes>
+      <name>box</name>
+      <h>362</h>
+      <object_id>2874834</object_id>
+      <w>466</w>
+      <y>11</y>
+      <x>31</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The cake has two motorcycles on the icing. </caption>
+      <caption>A birthday cake with two motorcycles on a frosting road</caption>
+      <caption>The birthday cake has a road with motorcylces in the design.</caption>
+      <caption>Hands putting motorcycle models onto a birthday cake.</caption>
+      <caption>Yellow green and white cake with ornaments sitting in a box. </caption>
+    </captions>
+</image>

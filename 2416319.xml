@@ -1,0 +1,90 @@
+<image>
+  <image-id>2416319</image-id>
+  <coco-id>191994</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3880052</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2754882</subject>
+      <object>2754883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099604</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3426358</subject>
+      <object>3426361</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099605</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3426359</subject>
+      <object>3426361</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099606</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3426360</subject>
+      <object>3426361</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>rice</name>
+      <h>65</h>
+      <object_id>2754882</object_id>
+      <w>81</w>
+      <y>67</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>beans</name>
+      <h>76</h>
+      <object_id>2754883</object_id>
+      <w>133</w>
+      <y>82</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>onion</name>
+      <h>30</h>
+      <object_id>3426358</object_id>
+      <w>45</w>
+      <y>211</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>bread</name>
+      <h>155</h>
+      <object_id>3426361</object_id>
+      <w>207</w>
+      <y>216</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>onion</name>
+      <h>49</h>
+      <object_id>3426359</object_id>
+      <w>30</w>
+      <y>187</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>pepper</name>
+      <h>36</h>
+      <object_id>3426360</object_id>
+      <w>41</w>
+      <y>220</y>
+      <x>321</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tray topped with a cut in half sandwich and a bowl of chili.</caption>
+      <caption>A sandwich is on a tray with water and chili.</caption>
+      <caption>A sandwich sitting on a plate next to a water cup.</caption>
+      <caption>A sandwich and chilli layed out on a table</caption>
+      <caption>a tray of food on a table at a restaurant</caption>
+    </captions>
+</image>

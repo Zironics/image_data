@@ -1,0 +1,132 @@
+<image>
+  <image-id>1592855</image-id>
+  <coco-id>527379</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3773957</relationship_id>
+      <predicate>parked along</predicate>
+      <subject>1613667</subject>
+      <object>1613664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3773959</relationship_id>
+      <predicate>parked along</predicate>
+      <subject>1613666</subject>
+      <object>1613664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3773958</relationship_id>
+      <predicate>parked along</predicate>
+      <subject>1613665</subject>
+      <object>1613664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3773960</relationship_id>
+      <predicate>parked along</predicate>
+      <subject>1613663</subject>
+      <object>1613664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3773961</relationship_id>
+      <predicate>parked along</predicate>
+      <subject>1613662</subject>
+      <object>1613664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3773962</relationship_id>
+      <predicate>parked along</predicate>
+      <subject>1613661</subject>
+      <object>1613664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3847933</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1613668</subject>
+      <object>1613669</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>33</h>
+      <object_id>1613667</object_id>
+      <w>40</w>
+      <y>516</y>
+      <x>928</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>236</h>
+      <object_id>1613664</object_id>
+      <w>1019</w>
+      <y>529</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>43</h>
+      <object_id>1613666</object_id>
+      <w>67</w>
+      <y>522</y>
+      <x>793</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>38</h>
+      <object_id>1613665</object_id>
+      <w>46</w>
+      <y>523</y>
+      <x>847</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>36</h>
+      <object_id>1613663</object_id>
+      <w>48</w>
+      <y>519</y>
+      <x>879</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>29</h>
+      <object_id>1613662</object_id>
+      <w>33</w>
+      <y>516</y>
+      <x>955</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>21</h>
+      <object_id>1613661</object_id>
+      <w>27</w>
+      <y>515</y>
+      <x>995</x>
+    </object>
+    <object>
+      <name>statue</name>
+      <h>58</h>
+      <object_id>1613668</object_id>
+      <w>48</w>
+      <y>472</y>
+      <x>326</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>base</name>
+      <h>21</h>
+      <object_id>1613669</object_id>
+      <w>52</w>
+      <y>528</y>
+      <x>322</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green stop light that is hanging above the street.</caption>
+      <caption>A traffic light hanging over a street under a blue sky.</caption>
+      <caption>A stop light is hanging over an intersection in a small town. </caption>
+      <caption>A very typical looking quiet street corner with some wires above.</caption>
+      <caption>There is a green street light hanging over this empty intersection.</caption>
+    </captions>
+</image>

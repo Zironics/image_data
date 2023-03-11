@@ -1,0 +1,96 @@
+<image>
+  <image-id>2321121</image-id>
+  <coco-id>196688</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3932218</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3454688</subject>
+      <object>2796937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3932222</relationship_id>
+      <predicate>HAS on</predicate>
+      <subject>3454688</subject>
+      <object>3157666</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3932227</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3650182</subject>
+      <object>3430457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3817622</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3454688</subject>
+      <object>3601494</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>261</h>
+      <object_id>3454688</object_id>
+      <w>143</w>
+      <y>100</y>
+      <x>173</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoes</name>
+      <h>27</h>
+      <object_id>2796937</object_id>
+      <w>138</w>
+      <y>334</y>
+      <x>183</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>  BLACK</attribute>
+      </attributes>
+      <name>black belt</name>
+      <h>13</h>
+      <object_id>3157666</object_id>
+      <w>56</w>
+      <y>210</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> WHITE</attribute>
+      </attributes>
+      <name>line</name>
+      <h>17</h>
+      <object_id>3650182</object_id>
+      <w>170</w>
+      <y>336</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>52</h>
+      <object_id>3430457</object_id>
+      <w>490</w>
+      <y>152</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>bat</name>
+      <h>93</h>
+      <object_id>3601494</object_id>
+      <w>28</w>
+      <y>25</y>
+      <x>193</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A batter at bat during a baseball game.</caption>
+      <caption>A baseball player gets ready to swing his bat.</caption>
+      <caption>A man holding a baseball bat on a field.</caption>
+      <caption>A man holding a bat during a baseball game.</caption>
+      <caption>A baseball player holding a bat while standing next to a home plate.</caption>
+    </captions>
+</image>

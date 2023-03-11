@@ -1,0 +1,165 @@
+<image>
+  <image-id>2413106</image-id>
+  <coco-id>319487</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>173577</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>180060</subject>
+      <object>180061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173578</relationship_id>
+      <predicate>seated in front of</predicate>
+      <subject>180060</subject>
+      <object>180062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173579</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>180060</subject>
+      <object>180061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173580</relationship_id>
+      <predicate>covers</predicate>
+      <subject>180064</subject>
+      <object>180068</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173581</relationship_id>
+      <predicate>sitting next to</predicate>
+      <subject>180060</subject>
+      <object>180062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173582</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>180060</subject>
+      <object>180065</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173583</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>180060</subject>
+      <object>180066</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173584</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>180060</subject>
+      <object>180061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173585</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>180060</subject>
+      <object>180064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173586</relationship_id>
+      <predicate>next to</predicate>
+      <subject>180060</subject>
+      <object>180062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173587</relationship_id>
+      <predicate>behind</predicate>
+      <subject>180076</subject>
+      <object>180060</object>
+    </relationship>
+    <relationship>
+      <relationship_id>173588</relationship_id>
+      <predicate>covering</predicate>
+      <subject>180064</subject>
+      <object>180068</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bike rider</name>
+      <h>371</h>
+      <object_id>180060</object_id>
+      <w>465</w>
+      <y>3</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>pavement</name>
+      <h>159</h>
+      <object_id>180061</object_id>
+      <w>499</w>
+      <y>214</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>321</h>
+      <object_id>180062</object_id>
+      <w>258</w>
+      <y>0</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>142</h>
+      <object_id>180064</object_id>
+      <w>122</w>
+      <y>0</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>96</h>
+      <object_id>180068</object_id>
+      <w>97</w>
+      <y>24</y>
+      <x>95</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>boots</name>
+      <h>135</h>
+      <object_id>180065</object_id>
+      <w>191</w>
+      <y>239</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>boots</name>
+      <h>141</h>
+      <object_id>180066</object_id>
+      <w>192</w>
+      <y>232</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>108</h>
+      <object_id>180076</object_id>
+      <w>36</w>
+      <y>66</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person sits on the road near their motorcycle.</caption>
+      <caption>motorcycle rider in black and red riding gear sitting next to bike</caption>
+      <caption>A person is in protective motorcycle gear sitting on the ground.</caption>
+      <caption>A man in full gear for riding motocross </caption>
+      <caption>A person with a helmet, boots and jacket on sitting in the street next to a motorcycle. </caption>
+    </captions>
+</image>

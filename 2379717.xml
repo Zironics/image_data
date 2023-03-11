@@ -1,0 +1,138 @@
+<image>
+  <image-id>2379717</image-id>
+  <coco-id>338153</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1355261</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>550816</subject>
+      <object>550819</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1355262</relationship_id>
+      <predicate>behind</predicate>
+      <subject>550820</subject>
+      <object>550821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1355263</relationship_id>
+      <predicate>has</predicate>
+      <subject>550817</subject>
+      <object>550824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1355264</relationship_id>
+      <predicate>has</predicate>
+      <subject>550817</subject>
+      <object>550824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1355265</relationship_id>
+      <predicate>has</predicate>
+      <subject>550814</subject>
+      <object>550827</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1355266</relationship_id>
+      <predicate>mounted to</predicate>
+      <subject>550816</subject>
+      <object>550819</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>electric</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>traffic signal</name>
+      <h>169</h>
+      <object_id>550816</object_id>
+      <w>86</w>
+      <y>146</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>383</h>
+      <object_id>550819</object_id>
+      <w>29</w>
+      <y>117</y>
+      <x>192</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in background</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>123</h>
+      <object_id>550820</object_id>
+      <w>66</w>
+      <y>325</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>54</h>
+      <object_id>550821</object_id>
+      <w>272</w>
+      <y>445</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>195</h>
+      <object_id>550817</object_id>
+      <w>85</w>
+      <y>305</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>19</h>
+      <object_id>550824</object_id>
+      <w>11</w>
+      <y>319</y>
+      <x>318</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>no right turn sign</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>28</h>
+      <object_id>550814</object_id>
+      <w>23</w>
+      <y>360</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>arrow</name>
+      <h>16</h>
+      <object_id>550827</object_id>
+      <w>13</w>
+      <y>365</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic signal showing that it is safe for horses to cross.</caption>
+      <caption>a black traffic light some buildings and trees</caption>
+      <caption>A traffic light above street with trees around it.</caption>
+      <caption>The traffic lights are pointed in two different directions.</caption>
+      <caption>A stop sign with a horse signal is shown.</caption>
+    </captions>
+</image>

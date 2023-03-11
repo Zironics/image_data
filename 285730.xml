@@ -1,0 +1,79 @@
+<image>
+  <image-id>285730</image-id>
+  <coco-id>560422</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4259770</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1569098</subject>
+      <object>3794955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4259771</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1569099</subject>
+      <object>3794956</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3946475</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1569103</subject>
+      <object>1569103</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>54</h>
+      <object_id>1569098</object_id>
+      <w>138</w>
+      <y>397</y>
+      <x>430</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>76</h>
+      <object_id>3794955</object_id>
+      <w>154</w>
+      <y>389</y>
+      <x>439</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blonde</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>134</h>
+      <object_id>1569099</object_id>
+      <w>152</w>
+      <y>250</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>430</h>
+      <object_id>3794956</object_id>
+      <w>277</w>
+      <y>243</y>
+      <x>245</x>
+    </object>
+    <object>
+      <h>96</h>
+      <object_id>1569103</object_id>
+      <w>224</w>
+      <y>248</y>
+      <x>800</x>
+      <name>table</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A family eating a meal is smiling at the camera.</caption>
+      <caption>A man and woman with children eating at a table</caption>
+      <caption>There is a man, woman, girl and boy smiling at a dinner table.</caption>
+      <caption>Two children, a man and a woman sit together at an outdoor table.</caption>
+      <caption>A woman sitting at a table next to children and a man.</caption>
+    </captions>
+</image>

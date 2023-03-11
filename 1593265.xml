@@ -1,0 +1,76 @@
+<image>
+  <image-id>1593265</image-id>
+  <coco-id>52281</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4092101</relationship_id>
+      <predicate>On head</predicate>
+      <subject>1882961</subject>
+      <object>1882962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092102</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1784915</subject>
+      <object>1784915</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092103</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2941525</subject>
+      <object>2941526</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown hair</name>
+      <h>102</h>
+      <object_id>1882961</object_id>
+      <w>182</w>
+      <y>70</y>
+      <x>417</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>374</h>
+      <object_id>1882962</object_id>
+      <w>582</w>
+      <y>67</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>74</h>
+      <object_id>1784915</object_id>
+      <w>65</w>
+      <y>278</y>
+      <x>728</x>
+    </object>
+    <object>
+      <name>stripe</name>
+      <h>52</h>
+      <object_id>2941525</object_id>
+      <w>128</w>
+      <y>293</y>
+      <x>428</x>
+    </object>
+    <object>
+      <name>wetsuit</name>
+      <h>288</h>
+      <object_id>2941526</object_id>
+      <w>475</w>
+      <y>116</y>
+      <x>276</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young surfer rides the side of a wave. </caption>
+      <caption>Person surfing through the middle of a big wave.</caption>
+      <caption>a person riding a surf board on a wave</caption>
+      <caption>A surfer maneuvers his surf board through a large wave.</caption>
+      <caption>A surfer on their board riding a wave </caption>
+    </captions>
+</image>

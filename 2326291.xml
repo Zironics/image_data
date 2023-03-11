@@ -1,0 +1,81 @@
+<image>
+  <image-id>2326291</image-id>
+  <coco-id>382801</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4480202</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3299868</subject>
+      <object>3299866</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4480203</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3117143</subject>
+      <object>3117144</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4480204</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3359991</subject>
+      <object>3359993</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>arm</name>
+      <h>20</h>
+      <object_id>3299868</object_id>
+      <w>29</w>
+      <y>102</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>99</h>
+      <object_id>3299866</object_id>
+      <w>82</w>
+      <y>86</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>feet</name>
+      <h>10</h>
+      <object_id>3117143</object_id>
+      <w>22</w>
+      <y>172</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>92</h>
+      <object_id>3117144</object_id>
+      <w>82</w>
+      <y>88</y>
+      <x>250</x>
+    </object>
+    <object>
+      <name>foot</name>
+      <h>14</h>
+      <object_id>3359991</object_id>
+      <w>17</w>
+      <y>173</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>97</h>
+      <object_id>3359993</object_id>
+      <w>72</w>
+      <y>84</y>
+      <x>251</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a snowboard down the side of a snow covered ski slope.</caption>
+      <caption>A snowboarder making his way down the mountain</caption>
+      <caption>Snowboarder turning his board to the side going down a snow trail. </caption>
+      <caption>One man is snowboarding while another person is skiing in the background. </caption>
+      <caption>a person snowboarding down a hill with trees on the side of it </caption>
+    </captions>
+</image>

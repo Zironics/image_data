@@ -1,0 +1,105 @@
+<image>
+  <image-id>2397362</image-id>
+  <coco-id>343823</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4590602</relationship_id>
+      <predicate>eating</predicate>
+      <subject>4141362</subject>
+      <object>4072962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590601</relationship_id>
+      <predicate>eating</predicate>
+      <subject>4072958</subject>
+      <object>4072962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590600</relationship_id>
+      <predicate>eating</predicate>
+      <subject>4072959</subject>
+      <object>4072962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590599</relationship_id>
+      <predicate>eating</predicate>
+      <subject>4072958</subject>
+      <object>4072962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590598</relationship_id>
+      <predicate>eating</predicate>
+      <subject>4072957</subject>
+      <object>4072962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4618668</relationship_id>
+      <predicate>away from</predicate>
+      <subject>4141362</subject>
+      <object>4141363</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <h>28</h>
+      <object_id>4141362</object_id>
+      <w>48</w>
+      <y>93</y>
+      <x>340</x>
+      <name>sheep</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>121</h>
+      <object_id>4072962</object_id>
+      <w>495</w>
+      <y>68</y>
+      <x>1</x>
+    </object>
+    <object>
+      <h>25</h>
+      <object_id>4072958</object_id>
+      <w>32</w>
+      <y>104</y>
+      <x>201</x>
+      <name>sheep</name>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>17</h>
+      <object_id>4072959</object_id>
+      <w>27</w>
+      <y>121</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>35</h>
+      <object_id>4072957</object_id>
+      <w>31</w>
+      <y>113</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>35</h>
+      <object_id>4141363</object_id>
+      <w>54</w>
+      <y>104</y>
+      <x>179</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>THERE ARE SHEEPS THAT ARE WALKING IN THE GRASS</caption>
+      <caption>Five sheep stand in a field near a hill.</caption>
+      <caption>a few sheep are walking around a large field</caption>
+      <caption>A herd of sheep in a grass field.</caption>
+      <caption>a group of sheep herding in a field beside a hill</caption>
+    </captions>
+</image>

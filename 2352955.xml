@@ -1,0 +1,121 @@
+<image>
+  <image-id>2352955</image-id>
+  <coco-id>199469</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3767837</relationship_id>
+      <predicate>has</predicate>
+      <subject>2276208</subject>
+      <object>2276209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3767838</relationship_id>
+      <predicate>has on</predicate>
+      <subject>2276208</subject>
+      <object>2697879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3767839</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2276208</subject>
+      <object>3580976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3767841</relationship_id>
+      <predicate>with</predicate>
+      <subject>2276208</subject>
+      <object>2125774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3767842</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2276208</subject>
+      <object>2125775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3767843</relationship_id>
+      <predicate>pinned to</predicate>
+      <subject>2562979</subject>
+      <object>2562980</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>254</h>
+      <object_id>2276208</object_id>
+      <w>270</w>
+      <y>71</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>wrinkles</name>
+      <h>147</h>
+      <object_id>2276209</object_id>
+      <w>101</w>
+      <y>118</y>
+      <x>192</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>115</h>
+      <object_id>2697879</object_id>
+      <w>118</w>
+      <y>215</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>photo</name>
+      <h>326</h>
+      <object_id>3580976</object_id>
+      <w>499</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>67</h>
+      <object_id>2125774</object_id>
+      <w>50</w>
+      <y>92</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>suit</name>
+      <h>56</h>
+      <object_id>2125775</object_id>
+      <w>69</w>
+      <y>263</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>flower</name>
+      <h>7</h>
+      <object_id>2562979</object_id>
+      <w>45</w>
+      <y>324</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>suit</name>
+      <h>93</h>
+      <object_id>2562980</object_id>
+      <w>402</w>
+      <y>238</y>
+      <x>85</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An older man wearing a jacket and a neck tie.</caption>
+      <caption>Head shot of an older gentleman with white hair.</caption>
+      <caption>a close up of a person wearing a suit and tie </caption>
+      <caption>An older gentlemen is wearing a black suit with a white shirt and tie and a red flower in his lapel.</caption>
+      <caption>an old man with many wrinkles and white hair, dressed in a suit</caption>
+    </captions>
+</image>

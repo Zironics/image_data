@@ -1,0 +1,95 @@
+<image>
+  <image-id>2339721</image-id>
+  <coco-id>207005</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4793387</relationship_id>
+      <predicate>on</predicate>
+      <subject>4581940</subject>
+      <object>4581941</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793388</relationship_id>
+      <predicate>on</predicate>
+      <subject>4581943</subject>
+      <object>4581944</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4793389</relationship_id>
+      <predicate>under</predicate>
+      <subject>4581946</subject>
+      <object>4581947</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>head</name>
+      <h>10</h>
+      <object_id>4581940</object_id>
+      <w>25</w>
+      <y>34</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>43</h>
+      <object_id>4581941</object_id>
+      <w>70</w>
+      <y>23</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>tail</attribute>
+      </attributes>
+      <name>feathers</name>
+      <h>13</h>
+      <object_id>4581943</object_id>
+      <w>53</w>
+      <y>49</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>larger</attribute>
+        <attribute>winged</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>62</h>
+      <object_id>4581944</object_id>
+      <w>180</w>
+      <y>9</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>64</h>
+      <object_id>4581946</object_id>
+      <w>46</w>
+      <y>14</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>larger</attribute>
+      </attributes>
+      <name>wing</name>
+      <h>37</h>
+      <object_id>4581947</object_id>
+      <w>56</w>
+      <y>9</y>
+      <x>66</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Wide shot of two white birds flying over water.</caption>
+      <caption>A small shot of two white birds flying over water.</caption>
+      <caption>two white  seagulls flying above a body of water. </caption>
+      <caption>two white birds flying over the sea water</caption>
+      <caption>Two seagulls flying together over algae covered water.</caption>
+    </captions>
+</image>

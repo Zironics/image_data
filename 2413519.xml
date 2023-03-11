@@ -1,0 +1,105 @@
+<image>
+  <image-id>2413519</image-id>
+  <coco-id>420221</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>165567</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172018</subject>
+      <object>172020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165568</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172019</subject>
+      <object>172020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165569</relationship_id>
+      <predicate>underneath</predicate>
+      <subject>172021</subject>
+      <object>172018</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165570</relationship_id>
+      <predicate>underneath</predicate>
+      <subject>172021</subject>
+      <object>172019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165571</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172018</subject>
+      <object>172020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165572</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172019</subject>
+      <object>172020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>165573</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172018</subject>
+      <object>172020</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+        <attribute>large</attribute>
+        <attribute>triangle shape</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>123</h>
+      <object_id>172018</object_id>
+      <w>249</w>
+      <y>376</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metallic</attribute>
+      </attributes>
+      <name>tray</name>
+      <h>171</h>
+      <object_id>172020</object_id>
+      <w>499</w>
+      <y>327</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+        <attribute>large</attribute>
+        <attribute>triangle shape</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>108</h>
+      <object_id>172019</object_id>
+      <w>259</w>
+      <y>309</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>greasy</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>158</h>
+      <object_id>172021</object_id>
+      <w>471</w>
+      <y>335</y>
+      <x>29</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza sitting on top of a pan in a kitchen.</caption>
+      <caption>Two pieces of pizza on a pizza pan.</caption>
+      <caption>Two slices of pizza sitting on a pan as a man works on some dough in the background.</caption>
+      <caption>Two pieces of pizza sit in a display case.</caption>
+      <caption>A pan containing several slices of pizza with a man in the background.</caption>
+    </captions>
+</image>

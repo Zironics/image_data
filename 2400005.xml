@@ -1,0 +1,107 @@
+<image>
+  <image-id>2400005</image-id>
+  <coco-id>166338</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4618616</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>4141259</subject>
+      <object>4141245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4618618</relationship_id>
+      <predicate>with</predicate>
+      <subject>4141245</subject>
+      <object>4141244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4618623</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4141255</subject>
+      <object>4141256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4618625</relationship_id>
+      <predicate>bathing in</predicate>
+      <subject>4141259</subject>
+      <object>4141245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4618626</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4141261</subject>
+      <object>4141262</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <h>91</h>
+      <object_id>4141259</object_id>
+      <w>91</w>
+      <y>115</y>
+      <x>175</x>
+      <name>elephant</name>
+    </object>
+    <object>
+      <h>95</h>
+      <object_id>4141245</object_id>
+      <w>487</w>
+      <y>109</y>
+      <x>0</x>
+      <name>river</name>
+    </object>
+    <object>
+      <name>elephants</name>
+      <h>178</h>
+      <object_id>4141244</object_id>
+      <w>463</w>
+      <y>24</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>trunk</name>
+      <h>46</h>
+      <object_id>4141255</object_id>
+      <w>39</w>
+      <y>130</y>
+      <x>412</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>elephant</attribute>
+      </attributes>
+      <name>face</name>
+      <h>39</h>
+      <object_id>4141256</object_id>
+      <w>39</w>
+      <y>90</y>
+      <x>431</x>
+    </object>
+    <object>
+      <name>edge</name>
+      <h>10</h>
+      <object_id>4141261</object_id>
+      <w>171</w>
+      <y>182</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>82</h>
+      <object_id>4141262</object_id>
+      <w>394</w>
+      <y>113</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of elephants relax around the water hole. </caption>
+      <caption>A herd of elephants bathe in a watering hole.</caption>
+      <caption>A herd of elephants walking across a river.</caption>
+      <caption>Baby elephant at watering hole with adults in natural setting.</caption>
+      <caption>A large group of elephants standing near some water.</caption>
+    </captions>
+</image>

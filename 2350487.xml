@@ -1,0 +1,160 @@
+<image>
+  <image-id>2350487</image-id>
+  <coco-id>485502</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4410346</relationship_id>
+      <predicate>has</predicate>
+      <subject>3900529</subject>
+      <object>3900524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410347</relationship_id>
+      <predicate>ON</predicate>
+      <subject>867640</subject>
+      <object>3900531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410348</relationship_id>
+      <predicate>gripping</predicate>
+      <subject>867641</subject>
+      <object>3900526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410349</relationship_id>
+      <predicate>gripping</predicate>
+      <subject>867641</subject>
+      <object>3900527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410350</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3900529</subject>
+      <object>867642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410351</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3900529</subject>
+      <object>867643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410352</relationship_id>
+      <predicate>IN</predicate>
+      <subject>867644</subject>
+      <object>3900531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4410353</relationship_id>
+      <predicate>IN</predicate>
+      <subject>867645</subject>
+      <object>3900531</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>141</h>
+      <object_id>3900529</object_id>
+      <w>65</w>
+      <y>150</y>
+      <x>197</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>43</h>
+      <object_id>3900524</object_id>
+      <w>150</w>
+      <y>261</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>67</h>
+      <object_id>867640</object_id>
+      <w>98</w>
+      <y>287</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>266</h>
+      <object_id>3900531</object_id>
+      <w>500</w>
+      <y>104</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>hands gripping</name>
+      <h>30</h>
+      <object_id>867641</object_id>
+      <w>25</w>
+      <y>181</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>ski pole</name>
+      <h>79</h>
+      <object_id>3900526</object_id>
+      <w>15</w>
+      <y>201</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>ski pole</name>
+      <h>77</h>
+      <object_id>3900527</object_id>
+      <w>13</w>
+      <y>204</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue jacket</name>
+      <h>65</h>
+      <object_id>867642</object_id>
+      <w>81</w>
+      <y>170</y>
+      <x>197</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black pants</name>
+      <h>67</h>
+      <object_id>867643</object_id>
+      <w>56</w>
+      <y>216</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>ski tracks</name>
+      <h>115</h>
+      <object_id>867644</object_id>
+      <w>96</w>
+      <y>256</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black rocks</name>
+      <h>91</h>
+      <object_id>867645</object_id>
+      <w>125</w>
+      <y>219</y>
+      <x>271</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person standing on the side of a snowy mountain with his skis.</caption>
+      <caption>Man standing on skies while looking at a mountain scape.</caption>
+      <caption>A man hiking up a snowy mountain side on skis.</caption>
+      <caption>A skier is walking up the side of a snow covered mountain.</caption>
+      <caption>A skiers on a snowy slope on a sunny day.</caption>
+    </captions>
+</image>

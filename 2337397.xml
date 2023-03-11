@@ -1,0 +1,95 @@
+<image>
+  <image-id>2337397</image-id>
+  <coco-id>136881</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3972981</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2987044</subject>
+      <object>2987045</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3972982</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2987044</subject>
+      <object>2676593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3972983</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3665636</subject>
+      <object>3665637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3972984</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3665638</subject>
+      <object>3665639</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dent</name>
+      <h>25</h>
+      <object_id>2987044</object_id>
+      <w>35</w>
+      <y>109</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>137</h>
+      <object_id>2987045</object_id>
+      <w>140</w>
+      <y>104</y>
+      <x>108</x>
+    </object>
+    <object>
+      <h>132</h>
+      <object_id>2676593</object_id>
+      <w>136</w>
+      <y>109</y>
+      <x>109</x>
+      <name>fruit</name>
+    </object>
+    <object>
+      <name>dent</name>
+      <h>86</h>
+      <object_id>3665636</object_id>
+      <w>58</w>
+      <y>56</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>120</h>
+      <object_id>3665637</object_id>
+      <w>121</w>
+      <y>56</y>
+      <x>225</x>
+    </object>
+    <object>
+      <name>dent</name>
+      <h>49</h>
+      <object_id>3665638</object_id>
+      <w>33</w>
+      <y>176</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>154</h>
+      <object_id>3665639</object_id>
+      <w>150</w>
+      <y>157</y>
+      <x>242</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>three oranges near one another on a table </caption>
+      <caption>Three oranges that are sitting on a bed.</caption>
+      <caption>Three oranges sitting on a light blue cloth.</caption>
+      <caption>a couple of oranges are on a bed</caption>
+      <caption>three oranges places next to each other on a table </caption>
+    </captions>
+</image>

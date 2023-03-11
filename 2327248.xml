@@ -1,0 +1,37 @@
+<image>
+  <image-id>2327248</image-id>
+  <coco-id>497599</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3855560</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>3154647</subject>
+      <object>3154648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>499</h>
+      <object_id>3154647</object_id>
+      <w>259</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>95</h>
+      <object_id>3154648</object_id>
+      <w>243</w>
+      <y>403</y>
+      <x>88</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man in a tee looking at a computer</caption>
+      <caption>a man standing by a table looking at a laptop</caption>
+      <caption>A young man stands over a lap top computer screen.</caption>
+      <caption>A man with a beard and mustache thoughtfully stares into a computer screen at some sort of a meeting. </caption>
+      <caption>A man looking down at an open laptop.</caption>
+    </captions>
+</image>

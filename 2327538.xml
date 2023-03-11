@@ -1,0 +1,43 @@
+<image>
+  <image-id>2327538</image-id>
+  <coco-id>105762</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3632302</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2935394</subject>
+      <object>3032778</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>269</h>
+      <object_id>2935394</object_id>
+      <w>350</w>
+      <y>3</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>table</name>
+      <h>278</h>
+      <object_id>3032778</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plat full of different vegetables sitting beside a knife. </caption>
+      <caption>This veggie plate consists of carrots, celery, bell peppers, split peas, broccoli, and dip. </caption>
+      <caption>A white and blue plate sitting on top of a red table.</caption>
+      <caption>A plate with celery, carrots, peppers, broccoli and dip. </caption>
+      <caption>A plate with carrots, broccoli, pickles and peppers.</caption>
+    </captions>
+</image>

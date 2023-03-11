@@ -1,0 +1,84 @@
+<image>
+  <image-id>2414997</image-id>
+  <coco-id>471413</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>143009</relationship_id>
+      <predicate>ON</predicate>
+      <subject>148015</subject>
+      <object>148016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143010</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>148015</subject>
+      <object>148016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143011</relationship_id>
+      <predicate>ON</predicate>
+      <subject>148015</subject>
+      <object>148016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143012</relationship_id>
+      <predicate>ON</predicate>
+      <subject>148016</subject>
+      <object>148020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143013</relationship_id>
+      <predicate>ON</predicate>
+      <subject>148015</subject>
+      <object>148016</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+        <attribute>vegetable</attribute>
+        <attribute>chees</attribute>
+        <attribute>with spinach</attribute>
+        <attribute>baked</attribute>
+        <attribute>fresh</attribute>
+        <attribute>cheesy</attribute>
+        <attribute>greasy</attribute>
+        <attribute>well done</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>185</h>
+      <object_id>148015</object_id>
+      <w>435</w>
+      <y>38</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>dish</name>
+      <h>219</h>
+      <object_id>148016</object_id>
+      <w>468</w>
+      <y>34</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>257</h>
+      <object_id>148020</object_id>
+      <w>481</w>
+      <y>0</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza sitting on to of a white plate on a table.</caption>
+      <caption>A large pizza sits on a large white plate.</caption>
+      <caption>Small pizza with vegetable toppings on a white plate in a restaurant.</caption>
+      <caption>A plate of pizza is ready on the table. </caption>
+      <caption>A sliced pizza in a plate on a table.</caption>
+    </captions>
+</image>

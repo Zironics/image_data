@@ -1,0 +1,43 @@
+<image>
+  <image-id>2328319</image-id>
+  <coco-id>72256</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4125993</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2783873</subject>
+      <object>2783874</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>26</h>
+      <object_id>2783873</object_id>
+      <w>145</w>
+      <y>87</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>185</h>
+      <object_id>2783874</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in black wetsuit riding a wave with sun in background.</caption>
+      <caption>A surfer is in the ocean riding a large wave.</caption>
+      <caption>A surfer rides a large wave while the sun touches the horizon.</caption>
+      <caption>A surfer hits the wave with the sunset in the background.</caption>
+      <caption>Surfer on top of a wave with the sun setting behind them. </caption>
+    </captions>
+</image>

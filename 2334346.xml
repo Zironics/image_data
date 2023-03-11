@@ -1,0 +1,66 @@
+<image>
+  <image-id>2334346</image-id>
+  <coco-id>506199</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3945879</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3374448</subject>
+      <object>3374449</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4003772</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3678349</subject>
+      <object>3406643</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sheet</name>
+      <h>129</h>
+      <object_id>3374448</object_id>
+      <w>129</w>
+      <y>25</y>
+      <x>370</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>175</h>
+      <object_id>3374449</object_id>
+      <w>156</w>
+      <y>32</y>
+      <x>343</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tag</name>
+      <h>29</h>
+      <object_id>3678349</object_id>
+      <w>24</w>
+      <y>291</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>suitcase</name>
+      <h>267</h>
+      <object_id>3406643</object_id>
+      <w>142</w>
+      <y>55</y>
+      <x>99</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden area with an open black suitcase next to a bed.</caption>
+      <caption>An empty suitcase lying open on the floor</caption>
+      <caption>A brown suitcase is open on the floor.</caption>
+      <caption>An empty suitcase is beside two other suitcases and a cot.</caption>
+      <caption>An opened suitcase is empty on the wood floor.</caption>
+    </captions>
+</image>

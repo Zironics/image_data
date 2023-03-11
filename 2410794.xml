@@ -1,0 +1,83 @@
+<image>
+  <image-id>2410794</image-id>
+  <coco-id>102307</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3212897</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1085334</subject>
+      <object>1085335</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212898</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1085334</subject>
+      <object>1085335</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212899</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1085334</subject>
+      <object>1085335</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212903</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1085334</subject>
+      <object>1085335</object>
+    </relationship>
+    <relationship>
+      <relationship_id>649809</relationship_id>
+      <predicate>OF</predicate>
+      <subject>362272</subject>
+      <object>362273</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212940</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1085334</subject>
+      <object>1085335</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>46</h>
+      <object_id>1085334</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>46</h>
+      <object_id>1085335</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>tail lights</name>
+      <h>71</h>
+      <object_id>362272</object_id>
+      <w>137</w>
+      <y>228</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>156</h>
+      <object_id>362273</object_id>
+      <w>166</w>
+      <y>175</y>
+      <x>167</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A car windshield that has a large number of raindrops on it.</caption>
+      <caption>a truck that is going down the road with rain</caption>
+      <caption>The tail lights of a loaded pick-up truck, as seen through a rain covered windshield.</caption>
+      <caption>The view through a rain-covered windshield  of the back of a pickup truck</caption>
+      <caption>A car window covered in water facing a truck.</caption>
+    </captions>
+</image>

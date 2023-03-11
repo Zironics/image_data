@@ -1,0 +1,156 @@
+<image>
+  <image-id>2397300</image-id>
+  <coco-id>227125</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3356775</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191017</subject>
+      <object>1191018</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356776</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1191021</subject>
+      <object>1191017</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356777</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191017</subject>
+      <object>1191018</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356778</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191017</subject>
+      <object>1191024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356779</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191022</subject>
+      <object>1191026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356780</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191017</subject>
+      <object>1191029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356781</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191017</subject>
+      <object>1191018</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356782</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191022</subject>
+      <object>1191020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3356783</relationship_id>
+      <predicate>has</predicate>
+      <subject>1191017</subject>
+      <object>1191024</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>dark green</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>484</h>
+      <object_id>1191017</object_id>
+      <w>251</w>
+      <y>3</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>illuminated</attribute>
+        <attribute>red</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>person caricature</name>
+      <h>94</h>
+      <object_id>1191018</object_id>
+      <w>45</w>
+      <y>56</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black lettered</attribute>
+        <attribute>printed in black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>60</h>
+      <object_id>1191021</object_id>
+      <w>71</w>
+      <y>181</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>orange reflection</name>
+      <h>77</h>
+      <object_id>1191024</object_id>
+      <w>37</w>
+      <y>23</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>building</name>
+      <h>499</h>
+      <object_id>1191022</object_id>
+      <w>374</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>screw holes</name>
+      <h>28</h>
+      <object_id>1191026</object_id>
+      <w>15</w>
+      <y>125</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>electrical wires</name>
+      <h>27</h>
+      <object_id>1191029</object_id>
+      <w>36</w>
+      <y>7</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>warning</attribute>
+        <attribute>printed</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>53</h>
+      <object_id>1191020</object_id>
+      <w>57</w>
+      <y>296</y>
+      <x>281</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Close up of a traffic light with three lights, the top illuminated red with a person image, the second down not illuminated, and the bottom on hanging down.</caption>
+      <caption>there are three different lights that show if u can walk</caption>
+      <caption>A traffic light with it's green light busted.</caption>
+      <caption>A traffic signal has a pedestrian walk symbol alight.   </caption>
+      <caption>A stoplight on a pole near a large building </caption>
+    </captions>
+</image>

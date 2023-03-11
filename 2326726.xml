@@ -1,0 +1,76 @@
+<image>
+  <image-id>2326726</image-id>
+  <coco-id>108536</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476829</relationship_id>
+      <predicate>near</predicate>
+      <subject>3070481</subject>
+      <object>3070480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476830</relationship_id>
+      <predicate>against</predicate>
+      <subject>3395135</subject>
+      <object>3395136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476831</relationship_id>
+      <predicate>against</predicate>
+      <subject>3395135</subject>
+      <object>3395137</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>street lights</name>
+      <h>34</h>
+      <object_id>3070481</object_id>
+      <w>41</w>
+      <y>276</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>cars</name>
+      <h>27</h>
+      <object_id>3070480</object_id>
+      <w>23</w>
+      <y>314</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>dark sky</name>
+      <h>109</h>
+      <object_id>3395135</object_id>
+      <w>107</w>
+      <y>57</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>poles</name>
+      <h>70</h>
+      <object_id>3395136</object_id>
+      <w>35</w>
+      <y>246</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>signs</name>
+      <h>110</h>
+      <object_id>3395137</object_id>
+      <w>55</w>
+      <y>135</y>
+      <x>208</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This is a stop light that is on a busy street. </caption>
+      <caption>A red stop light that is above two signs.</caption>
+      <caption>A stoplight at an intersection with several signs on the pole.</caption>
+      <caption>A traffic light is on at night on the corner of a street.</caption>
+      <caption>A traffic light that has some confusing traffic signs on it.</caption>
+    </captions>
+</image>

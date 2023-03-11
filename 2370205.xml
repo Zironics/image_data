@@ -1,0 +1,177 @@
+<image>
+  <image-id>2370205</image-id>
+  <coco-id>102478</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2020153</relationship_id>
+      <predicate>holding</predicate>
+      <subject>742434</subject>
+      <object>742435</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020154</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>742434</subject>
+      <object>742436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020155</relationship_id>
+      <predicate>ON</predicate>
+      <subject>742438</subject>
+      <object>742431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020156</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>742440</subject>
+      <object>742441</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020157</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>742442</subject>
+      <object>742443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020158</relationship_id>
+      <predicate>behind</predicate>
+      <subject>742442</subject>
+      <object>742440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020159</relationship_id>
+      <predicate>holding</predicate>
+      <subject>742434</subject>
+      <object>742435</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020160</relationship_id>
+      <predicate>behind</predicate>
+      <subject>742442</subject>
+      <object>742440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020161</relationship_id>
+      <predicate>holding</predicate>
+      <subject>742434</subject>
+      <object>742435</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2020162</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>742438</subject>
+      <object>742434</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>waiting to swing</attribute>
+        <attribute>preparing to swing</attribute>
+      </attributes>
+      <name>player</name>
+      <h>74</h>
+      <object_id>742434</object_id>
+      <w>36</w>
+      <y>208</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>22</h>
+      <object_id>742435</object_id>
+      <w>34</w>
+      <y>208</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>jersey</name>
+      <h>25</h>
+      <object_id>742436</object_id>
+      <w>23</w>
+      <y>218</y>
+      <x>160</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flat</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>home plate</name>
+      <h>13</h>
+      <object_id>742438</object_id>
+      <w>22</w>
+      <y>246</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>field</name>
+      <h>292</h>
+      <object_id>742431</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>preparing to catch</attribute>
+        <attribute>wearing red</attribute>
+        <attribute>wearing gray</attribute>
+      </attributes>
+      <name>catcher</name>
+      <h>55</h>
+      <object_id>742440</object_id>
+      <w>27</w>
+      <y>224</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>14</h>
+      <object_id>742441</object_id>
+      <w>10</w>
+      <y>222</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing grey</attribute>
+        <attribute>wearing light blue</attribute>
+      </attributes>
+      <name>umpire</name>
+      <h>47</h>
+      <object_id>742442</object_id>
+      <w>45</w>
+      <y>246</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>mask</name>
+      <h>10</h>
+      <object_id>742443</object_id>
+      <w>14</w>
+      <y>245</y>
+      <x>86</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of baseball players with a bat and ball at the pitch</caption>
+      <caption>There is a baseball player with a baseball bar at the gane</caption>
+      <caption>A pitcher throws a pitch during a baseball game.</caption>
+      <caption>Three people are on a baseball field in uniform.</caption>
+      <caption>An overhead shot of a a pitcher throwing a baseball.</caption>
+    </captions>
+</image>

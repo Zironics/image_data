@@ -1,0 +1,69 @@
+<image>
+  <image-id>2388558</image-id>
+  <coco-id>578130</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3489637</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3829312</subject>
+      <object>1268066</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3489638</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1268075</subject>
+      <object>1268066</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4292768</relationship_id>
+      <predicate>face</predicate>
+      <subject>1268068</subject>
+      <object>3829312</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>20</h>
+      <object_id>3829312</object_id>
+      <w>29</w>
+      <y>131</y>
+      <x>169</x>
+      <name>tv</name>
+    </object>
+    <object>
+      <name>room</name>
+      <h>293</h>
+      <object_id>1268066</object_id>
+      <w>398</w>
+      <y>9</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>161</h>
+      <object_id>1268075</object_id>
+      <w>35</w>
+      <y>96</y>
+      <x>462</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>beige</attribute>
+      </attributes>
+      <name>couch</name>
+      <h>89</h>
+      <object_id>1268068</object_id>
+      <w>131</w>
+      <y>162</y>
+      <x>263</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A room cluttered with old furniture and old rugs.</caption>
+      <caption>A bunch of different couches and chairs that are on a carpet.</caption>
+      <caption>An open living room has a wicker rocking chair.</caption>
+      <caption>this is a living room with furniture and rugs</caption>
+      <caption>Living room full of different vintage furniture and television</caption>
+    </captions>
+</image>

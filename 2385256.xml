@@ -1,0 +1,82 @@
+<image>
+  <image-id>2385256</image-id>
+  <coco-id>171221</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4672040</relationship_id>
+      <predicate>and</predicate>
+      <subject>4275123</subject>
+      <object>4275125</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4672041</relationship_id>
+      <predicate>and</predicate>
+      <subject>4275124</subject>
+      <object>4275125</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4672044</relationship_id>
+      <predicate>has</predicate>
+      <subject>4275123</subject>
+      <object>4275133</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4672045</relationship_id>
+      <predicate>has</predicate>
+      <subject>4275123</subject>
+      <object>4275135</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffe</name>
+      <h>330</h>
+      <object_id>4275123</object_id>
+      <w>285</w>
+      <y>32</y>
+      <x>130</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>108</h>
+      <object_id>4275125</object_id>
+      <w>122</w>
+      <y>3</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>76</h>
+      <object_id>4275124</object_id>
+      <w>83</w>
+      <y>58</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>horns</name>
+      <h>152</h>
+      <object_id>4275133</object_id>
+      <w>217</w>
+      <y>32</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>spots</name>
+      <h>68</h>
+      <object_id>4275135</object_id>
+      <w>58</w>
+      <y>170</y>
+      <x>255</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A close up picture of the side view of a giraffes head.</caption>
+      <caption>A close up of the back of a giraffe head.</caption>
+      <caption>This is the head of a giraffe standing in a fenced in area.</caption>
+      <caption>two giraffes and an elephant fenced into captivity</caption>
+      <caption>A closeup of a giraffe's head at a zoo.</caption>
+    </captions>
+</image>

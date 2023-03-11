@@ -1,0 +1,81 @@
+<image>
+  <image-id>2324043</image-id>
+  <coco-id>279990</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2952497</relationship_id>
+      <predicate>ON</predicate>
+      <subject>988595</subject>
+      <object>988592</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2952498</relationship_id>
+      <predicate>ON</predicate>
+      <subject>988596</subject>
+      <object>988594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2952499</relationship_id>
+      <predicate>has</predicate>
+      <subject>988594</subject>
+      <object>988597</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>indentation</name>
+      <h>38</h>
+      <object_id>988595</object_id>
+      <w>138</w>
+      <y>12</y>
+      <x>170</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>cloth</name>
+      <h>67</h>
+      <object_id>988592</object_id>
+      <w>167</w>
+      <y>19</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>sugar</name>
+      <h>48</h>
+      <object_id>988596</object_id>
+      <w>33</w>
+      <y>84</y>
+      <x>464</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>rectangual</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>47</h>
+      <object_id>988594</object_id>
+      <w>81</w>
+      <y>2</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>yellow</name>
+      <h>21</h>
+      <object_id>988597</object_id>
+      <w>38</w>
+      <y>182</y>
+      <x>252</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A display of nature-related objects are sitting in the middle of the table.</caption>
+      <caption>Some leaves and other items arranged in a white ceramic dish. </caption>
+      <caption>The white tray has a leaf, a rock, and sand in it.</caption>
+      <caption>There are five items in varying shapes in the dish.</caption>
+      <caption>there is a long white plate with food in it</caption>
+    </captions>
+</image>

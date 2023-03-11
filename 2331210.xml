@@ -1,0 +1,40 @@
+<image>
+  <image-id>2331210</image-id>
+  <coco-id>575496</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4007555</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3328835</subject>
+      <object>3328836</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>342</h>
+      <object_id>3328835</object_id>
+      <w>447</w>
+      <y>25</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>323</h>
+      <object_id>3328836</object_id>
+      <w>390</w>
+      <y>25</y>
+      <x>66</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A teddy bear with a patch lies on the grass.</caption>
+      <caption>Stuffed teddy bear outdoors in green grass and weeds.</caption>
+      <caption>A teddy bear is laying down in the grass.</caption>
+      <caption>A stuffed teddy bear laying in the grass.</caption>
+      <caption>A stuffed teddy bear lying on a grass patch</caption>
+    </captions>
+</image>

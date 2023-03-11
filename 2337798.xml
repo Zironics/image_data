@@ -1,0 +1,62 @@
+<image>
+  <image-id>2337798</image-id>
+  <coco-id>137265</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4072652</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>2714959</subject>
+      <object>2714960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4072656</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3389719</subject>
+      <object>3389720</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>25</h>
+      <object_id>2714959</object_id>
+      <w>30</w>
+      <y>66</y>
+      <x>410</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>230</h>
+      <object_id>2714960</object_id>
+      <w>384</w>
+      <y>0</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blurry</attribute>
+      </attributes>
+      <name>words</name>
+      <h>77</h>
+      <object_id>3389719</object_id>
+      <w>300</w>
+      <y>290</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>book</name>
+      <h>190</h>
+      <object_id>3389720</object_id>
+      <w>432</w>
+      <y>183</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A view of someone in the sky parachuting to the ground.</caption>
+      <caption>close up of a paper with type on it and a blue sky</caption>
+      <caption>there is a kite that is being flown high in the sky</caption>
+      <caption>A bird is just barely visible in the sky around a red umbrella. </caption>
+      <caption>A man is floating with a parachute high in the sky</caption>
+    </captions>
+</image>

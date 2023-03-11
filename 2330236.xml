@@ -1,0 +1,106 @@
+<image>
+  <image-id>2330236</image-id>
+  <coco-id>388031</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3991143</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3223767</subject>
+      <object>3223766</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4014472</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>3402012</subject>
+      <object>3402013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4014473</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3112326</subject>
+      <object>3112325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4014474</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3129239</subject>
+      <object>3129238</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>collar</name>
+      <h>73</h>
+      <object_id>3223767</object_id>
+      <w>137</w>
+      <y>62</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>236</h>
+      <object_id>3223766</object_id>
+      <w>287</w>
+      <y>30</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>pink nose</name>
+      <h>12</h>
+      <object_id>3402012</object_id>
+      <w>8</w>
+      <y>69</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>190</h>
+      <object_id>3402013</object_id>
+      <w>155</w>
+      <y>5</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>25</h>
+      <object_id>3112326</object_id>
+      <w>31</w>
+      <y>6</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>237</h>
+      <object_id>3112325</object_id>
+      <w>147</w>
+      <y>6</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>right eye</name>
+      <h>12</h>
+      <object_id>3129239</object_id>
+      <w>20</w>
+      <y>49</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>248</h>
+      <object_id>3129238</object_id>
+      <w>168</w>
+      <y>5</y>
+      <x>163</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A grey and black cat on wooden floor next to bottles of beer.</caption>
+      <caption>A cat sitting next to a window with a large number of bottles.</caption>
+      <caption>a cat sits in front of some bottled beverages </caption>
+      <caption>The cat is sitting next to the window along with a bunch of bottles.</caption>
+      <caption>A can sitting on the floor next to a lot of beer bottles.</caption>
+    </captions>
+</image>

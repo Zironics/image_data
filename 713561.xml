@@ -1,0 +1,112 @@
+<image>
+  <image-id>713561</image-id>
+  <coco-id>111546</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262801</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3796644</subject>
+      <object>1585869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262802</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>1585872</subject>
+      <object>3796645</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262803</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>1585875</subject>
+      <object>3796646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262804</relationship_id>
+      <predicate>on bottom of</predicate>
+      <subject>1585876</subject>
+      <object>1585877</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>scaffolding</name>
+      <h>283</h>
+      <object_id>3796644</object_id>
+      <w>90</w>
+      <y>124</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>305</h>
+      <object_id>1585869</object_id>
+      <w>120</w>
+      <y>120</y>
+      <x>69</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>circles</attribute>
+      </attributes>
+      <name>windows</name>
+      <h>87</h>
+      <object_id>1585872</object_id>
+      <w>93</w>
+      <y>206</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>396</h>
+      <object_id>3796645</object_id>
+      <w>321</w>
+      <y>8</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>car</name>
+      <h>57</h>
+      <object_id>1585875</object_id>
+      <w>201</w>
+      <y>411</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>23</h>
+      <object_id>3796646</object_id>
+      <w>83</w>
+      <y>454</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Largest</attribute>
+      </attributes>
+      <name>archway</name>
+      <h>107</h>
+      <object_id>1585876</object_id>
+      <w>93</w>
+      <y>323</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>438</h>
+      <object_id>1585877</object_id>
+      <w>417</w>
+      <y>3</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light on a street with some people.</caption>
+      <caption>there is a very large white building in the middle of this street</caption>
+      <caption>An intersection in front of Notre Dame in Paris.</caption>
+      <caption>catheridal in a large city before services are to begin.</caption>
+      <caption>a traffic light some people trees cars and buildings</caption>
+    </captions>
+</image>

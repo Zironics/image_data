@@ -1,0 +1,107 @@
+<image>
+  <image-id>2326722</image-id>
+  <coco-id>448663</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476842</relationship_id>
+      <predicate>and a</predicate>
+      <subject>3483800</subject>
+      <object>3162404</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120543</relationship_id>
+      <predicate>in h</predicate>
+      <subject>3386813</subject>
+      <object>3386814</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3981568</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3483800</subject>
+      <object>3473245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476843</relationship_id>
+      <predicate>has a</predicate>
+      <subject>3483800</subject>
+      <object>3483801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4007159</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3483800</subject>
+      <object>3679695</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>284</h>
+      <object_id>3483800</object_id>
+      <w>180</w>
+      <y>46</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light skinned</attribute>
+      </attributes>
+      <h>295</h>
+      <object_id>3162404</object_id>
+      <w>144</w>
+      <y>37</y>
+      <x>352</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>23</h>
+      <object_id>3386813</object_id>
+      <w>22</w>
+      <y>101</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>left hand</name>
+      <h>49</h>
+      <object_id>3386814</object_id>
+      <w>40</w>
+      <y>85</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>ring</name>
+      <h>20</h>
+      <object_id>3473245</object_id>
+      <w>22</w>
+      <y>83</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>beard</name>
+      <h>33</h>
+      <object_id>3483801</object_id>
+      <w>55</w>
+      <y>106</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>35</h>
+      <object_id>3679695</object_id>
+      <w>115</w>
+      <y>295</y>
+      <x>23</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old man talking on a cell phone standing next to an old woman.</caption>
+      <caption>An elderly man talking on a cell phone while an older lady looks on.</caption>
+      <caption>An older man and women standing in front of some parked cars while the man holds a cell phone to his ear.</caption>
+      <caption>A man is talking on his cellular phone near parked cars, as a lady looks on. </caption>
+      <caption>Two people that are talking on the phone together.</caption>
+    </captions>
+</image>

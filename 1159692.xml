@@ -1,0 +1,59 @@
+<image>
+  <image-id>1159692</image-id>
+  <coco-id>355304</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4629563</relationship_id>
+      <predicate>eating a</predicate>
+      <subject>4168807</subject>
+      <object>4168808</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4629564</relationship_id>
+      <predicate>are on top of</predicate>
+      <subject>4168809</subject>
+      <object>4168810</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boy</name>
+      <h>468</h>
+      <object_id>4168807</object_id>
+      <w>362</w>
+      <y>27</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>37</h>
+      <object_id>4168808</object_id>
+      <w>64</w>
+      <y>264</y>
+      <x>329</x>
+    </object>
+    <object>
+      <name>sprinkles</name>
+      <h>30</h>
+      <object_id>4168809</object_id>
+      <w>39</w>
+      <y>257</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>55</h>
+      <object_id>4168810</object_id>
+      <w>69</w>
+      <y>258</y>
+      <x>330</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy eating a doughnut with sprinkles at a table.</caption>
+      <caption>Young boy eating a big donut in a restaurant.</caption>
+      <caption>A boy eating a sprinkled donut in a classroom.</caption>
+      <caption>A boy in blue shirt eating a donut covered in sprinkles.</caption>
+      <caption>a kid in a classroom eating a donut</caption>
+    </captions>
+</image>

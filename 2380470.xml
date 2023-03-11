@@ -1,0 +1,245 @@
+<image>
+  <image-id>2380470</image-id>
+  <coco-id>501638</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3603098</relationship_id>
+      <predicate>next to a</predicate>
+      <subject>1346250</subject>
+      <object>1346251</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603099</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1346251</subject>
+      <object>1346252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603100</relationship_id>
+      <predicate>next to a</predicate>
+      <subject>1346250</subject>
+      <object>1346251</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603101</relationship_id>
+      <predicate>has on</predicate>
+      <subject>1346248</subject>
+      <object>1346254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603102</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1346249</subject>
+      <object>1346255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603103</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1346255</subject>
+      <object>1346249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603104</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1346249</subject>
+      <object>1346256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603105</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1346250</subject>
+      <object>1346252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603106</relationship_id>
+      <predicate>has</predicate>
+      <subject>1346249</subject>
+      <object>1346257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603107</relationship_id>
+      <predicate>has</predicate>
+      <subject>1346249</subject>
+      <object>1346258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603108</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1346250</subject>
+      <object>1346260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603109</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1346250</subject>
+      <object>1346261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603110</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1346248</subject>
+      <object>1346254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603111</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1346249</subject>
+      <object>1346258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603112</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1346248</subject>
+      <object>1346263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3603113</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1346264</subject>
+      <object>1346264</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chair</name>
+      <h>135</h>
+      <object_id>1346250</object_id>
+      <w>117</w>
+      <y>2</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>6</h>
+      <object_id>1346251</object_id>
+      <w>144</w>
+      <y>2</y>
+      <x>340</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>134</h>
+      <object_id>1346252</object_id>
+      <w>18</w>
+      <y>1</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sharing</attribute>
+        <attribute>holding</attribute>
+        <attribute>biting</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>man</name>
+      <h>293</h>
+      <object_id>1346248</object_id>
+      <w>220</w>
+      <y>81</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>shorts</name>
+      <h>92</h>
+      <object_id>1346254</object_id>
+      <w>129</w>
+      <y>281</y>
+      <x>343</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>biting</attribute>
+        <attribute>sharing</attribute>
+        <attribute>eating</attribute>
+        <attribute>inside</attribute>
+        <attribute>black colro</attribute>
+        <attribute>black</attribute>
+        <attribute>white colo</attribute>
+        <attribute>white</attribute>
+        <attribute>black colo</attribute>
+        <attribute>white color</attribute>
+        <attribute>black color</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>171</h>
+      <object_id>1346249</object_id>
+      <w>391</w>
+      <y>202</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>83</h>
+      <object_id>1346255</object_id>
+      <w>53</w>
+      <y>291</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>17</h>
+      <object_id>1346256</object_id>
+      <w>11</w>
+      <y>248</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>fur</name>
+      <h>48</h>
+      <object_id>1346257</object_id>
+      <w>64</w>
+      <y>305</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>white fur</name>
+      <h>37</h>
+      <object_id>1346258</object_id>
+      <w>27</w>
+      <y>301</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>122</h>
+      <object_id>1346260</object_id>
+      <w>117</w>
+      <y>2</y>
+      <x>382</x>
+    </object>
+    <object>
+      <name>coaster</name>
+      <h>12</h>
+      <object_id>1346261</object_id>
+      <w>15</w>
+      <y>79</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>25</h>
+      <object_id>1346263</object_id>
+      <w>41</w>
+      <y>214</y>
+      <x>433</x>
+    </object>
+    <object>
+      <h>64</h>
+      <object_id>1346264</object_id>
+      <w>82</w>
+      <y>197</y>
+      <x>377</x>
+      <name>bun</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an image of boy and a dog sharing a hot dog</caption>
+      <caption>A young man sharing a hot dog with a dog</caption>
+      <caption>A man eating a hot dog with his pet dog</caption>
+      <caption>A man and a dog sharing a hotdog at the same time.</caption>
+      <caption>A man sharing a hot dog with a black and white dog.</caption>
+    </captions>
+</image>

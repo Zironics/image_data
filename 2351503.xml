@@ -1,0 +1,95 @@
+<image>
+  <image-id>2351503</image-id>
+  <coco-id>477409</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2465032</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860379</subject>
+      <object>860372</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2465033</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860374</subject>
+      <object>860372</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2465034</relationship_id>
+      <predicate>by</predicate>
+      <subject>860375</subject>
+      <object>860372</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2465035</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860379</subject>
+      <object>860372</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2465036</relationship_id>
+      <predicate>IN</predicate>
+      <subject>860379</subject>
+      <object>860381</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <h>82</h>
+      <object_id>860379</object_id>
+      <w>32</w>
+      <y>259</y>
+      <x>304</x>
+      <name>guy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>by</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>80</h>
+      <object_id>860372</object_id>
+      <w>288</w>
+      <y>295</y>
+      <x>182</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>tent</name>
+      <h>61</h>
+      <object_id>860374</object_id>
+      <w>62</w>
+      <y>260</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>36</h>
+      <object_id>860375</object_id>
+      <w>53</w>
+      <y>275</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>42</h>
+      <object_id>860381</object_id>
+      <w>86</w>
+      <y>332</y>
+      <x>280</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a beach tossing a blue frisbee.</caption>
+      <caption>A man standing on a beach watching a frisbee fly through the air.</caption>
+      <caption>A man standing in an open field playing with a green Frisbee. </caption>
+      <caption>A man is flying a kite on a beach.</caption>
+      <caption>A man is on the beach with a kite.</caption>
+    </captions>
+</image>

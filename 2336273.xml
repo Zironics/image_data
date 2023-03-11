@@ -1,0 +1,79 @@
+<image>
+  <image-id>2336273</image-id>
+  <coco-id>484761</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3976991</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2558491</subject>
+      <object>2623763</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3976993</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2930756</subject>
+      <object>3667134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3806455</relationship_id>
+      <predicate>are in</predicate>
+      <subject>2623763</subject>
+      <object>3596724</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tire</name>
+      <h>16</h>
+      <object_id>2558491</object_id>
+      <w>23</w>
+      <y>187</y>
+      <x>195</x>
+    </object>
+    <object>
+      <h>34</h>
+      <object_id>2623763</object_id>
+      <w>76</w>
+      <y>164</y>
+      <x>193</x>
+      <name>airplanes</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tire</name>
+      <h>17</h>
+      <object_id>2930756</object_id>
+      <w>41</w>
+      <y>154</y>
+      <x>361</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>62</h>
+      <object_id>3667134</object_id>
+      <w>110</w>
+      <y>123</y>
+      <x>351</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>96</h>
+      <object_id>3596724</object_id>
+      <w>236</w>
+      <y>30</y>
+      <x>142</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of four old style mono planes traveling through the sky.</caption>
+      <caption>four planes are flying over some trees on a sunny day</caption>
+      <caption>A flying exercise containing four air planed which are flying low.</caption>
+      <caption>Four plans fly in the sky together. </caption>
+      <caption>Four small airplanes fly low in the sky. </caption>
+    </captions>
+</image>

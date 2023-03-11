@@ -1,0 +1,84 @@
+<image>
+  <image-id>2332732</image-id>
+  <coco-id>175775</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3996686</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3045590</subject>
+      <object>3675424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3699761</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3423902</subject>
+      <object>3423903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3905599</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2999713</subject>
+      <object>2999714</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>knife</name>
+      <h>148</h>
+      <object_id>3045590</object_id>
+      <w>361</w>
+      <y>53</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>vest</name>
+      <h>309</h>
+      <object_id>3675424</object_id>
+      <w>480</w>
+      <y>12</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>137</h>
+      <object_id>3423902</object_id>
+      <w>247</w>
+      <y>34</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>188</h>
+      <object_id>3423903</object_id>
+      <w>392</w>
+      <y>41</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>snap</name>
+      <h>24</h>
+      <object_id>2999713</object_id>
+      <w>31</w>
+      <y>44</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>pocket</name>
+      <h>311</h>
+      <object_id>2999714</object_id>
+      <w>434</w>
+      <y>18</y>
+      <x>38</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The knife is on top of the jacket to be photographed. </caption>
+      <caption>An open pocket knife sitting on top of a pocket.</caption>
+      <caption>A knife laying on top of a jacket.</caption>
+      <caption>An open pocket knife laying on an article of clothing.</caption>
+      <caption>A small knife sites outside a jacket pocket</caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>1159446</image-id>
+  <coco-id>401229</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4591617</relationship_id>
+      <predicate>driving under</predicate>
+      <subject>4075363</subject>
+      <object>4075364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575168</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4036231</subject>
+      <object>4036231</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>car</name>
+      <h>63</h>
+      <object_id>4075363</object_id>
+      <w>89</w>
+      <y>679</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>bridge</name>
+      <h>262</h>
+      <object_id>4075364</object_id>
+      <w>984</w>
+      <y>230</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>85</h>
+      <object_id>4036231</object_id>
+      <w>91</w>
+      <y>678</y>
+      <x>648</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an overhead train station above a city street in chinatown </caption>
+      <caption>A city full of cars on a street and some people.</caption>
+      <caption>An overpass above a busy city street with road signs on it.</caption>
+      <caption>Pedestrian and car traffic on a street corner in a Canadian city</caption>
+      <caption>The street signs are clearly visible for all to see.</caption>
+    </captions>
+</image>

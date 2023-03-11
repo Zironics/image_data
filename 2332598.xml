@@ -1,0 +1,145 @@
+<image>
+  <image-id>2332598</image-id>
+  <coco-id>510232</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4088108</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3167936</subject>
+      <object>3167937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4088109</relationship_id>
+      <predicate>has</predicate>
+      <subject>3166927</subject>
+      <object>3932055</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4088110</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3166927</subject>
+      <object>3079521</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4088111</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3166927</subject>
+      <object>3069787</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4088112</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3166927</subject>
+      <object>2939183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463002</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3932054</subject>
+      <object>3172524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463003</relationship_id>
+      <predicate>has</predicate>
+      <subject>3166927</subject>
+      <object>3932055</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wrist</name>
+      <h>71</h>
+      <object_id>3167936</object_id>
+      <w>29</w>
+      <y>219</y>
+      <x>179</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gold </attribute>
+      </attributes>
+      <name>bracelet</name>
+      <h>62</h>
+      <object_id>3167937</object_id>
+      <w>62</w>
+      <y>228</y>
+      <x>168</x>
+    </object>
+    <object>
+      <h>481</h>
+      <object_id>3166927</object_id>
+      <w>318</w>
+      <y>20</y>
+      <x>0</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>pulled back</attribute>
+      </attributes>
+      <h>143</h>
+      <object_id>3932055</object_id>
+      <w>203</w>
+      <y>8</y>
+      <x>88</x>
+      <name>black hair</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>tie</name>
+      <h>246</h>
+      <object_id>3079521</object_id>
+      <w>134</w>
+      <y>141</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>golden </attribute>
+      </attributes>
+      <name>bracelet</name>
+      <h>34</h>
+      <object_id>3069787</object_id>
+      <w>47</w>
+      <y>253</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>golden </attribute>
+      </attributes>
+      <name>earring</name>
+      <h>21</h>
+      <object_id>2939183</object_id>
+      <w>13</w>
+      <y>87</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>88</h>
+      <object_id>3932054</object_id>
+      <w>41</w>
+      <y>0</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>36</h>
+      <object_id>3172524</object_id>
+      <w>56</w>
+      <y>78</y>
+      <x>265</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A women who is putting on a tie.</caption>
+      <caption>A woman in a red dress wearing sun glasses.</caption>
+      <caption>A woman is tying a tie around her neck.</caption>
+      <caption>Woman laughing with glee towards camera tryin on tie.</caption>
+      <caption>a woman in a red shirt is laughing</caption>
+    </captions>
+</image>

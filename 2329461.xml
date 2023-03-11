@@ -1,0 +1,117 @@
+<image>
+  <image-id>2329461</image-id>
+  <coco-id>204219</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4133284</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3371568</subject>
+      <object>3289094</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799564</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3727406</subject>
+      <object>2759254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4020766</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3289095</subject>
+      <object>3289094</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3741146</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3307680</subject>
+      <object>3094749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4020769</relationship_id>
+      <predicate>eating</predicate>
+      <subject>3307680</subject>
+      <object>3727406</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4133304</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3727406</subject>
+      <object>2759254</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>button</name>
+      <h>8</h>
+      <object_id>3371568</object_id>
+      <w>12</w>
+      <y>362</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>long sleeved</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>274</h>
+      <object_id>3289094</object_id>
+      <w>284</w>
+      <y>141</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>31</h>
+      <object_id>3727406</object_id>
+      <w>48</w>
+      <y>269</y>
+      <x>144</x>
+      <name>dessert</name>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>31</h>
+      <object_id>2759254</object_id>
+      <w>124</w>
+      <y>282</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>wrinkles</name>
+      <h>66</h>
+      <object_id>3289095</object_id>
+      <w>94</w>
+      <y>340</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>419</h>
+      <object_id>3307680</object_id>
+      <w>284</w>
+      <y>17</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>306</h>
+      <object_id>3094749</object_id>
+      <w>283</w>
+      <y>139</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very well dressed man with a plate of cake.</caption>
+      <caption>A man holds a small plate and eats with silverware.</caption>
+      <caption>A man in a tie eating a piece of cake.</caption>
+      <caption>a man sitting at a table eating a piece of cake </caption>
+      <caption>A man getting dessert of a plate with a spoon. </caption>
+    </captions>
+</image>

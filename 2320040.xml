@@ -1,0 +1,65 @@
+<image>
+  <image-id>2320040</image-id>
+  <coco-id>347099</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2974492</relationship_id>
+      <predicate>ON</predicate>
+      <subject>996581</subject>
+      <object>996582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2974493</relationship_id>
+      <predicate>ON</predicate>
+      <subject>996582</subject>
+      <object>996583</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>duck</name>
+      <h>93</h>
+      <object_id>996581</object_id>
+      <w>190</w>
+      <y>197</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>triangular</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>colorful</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>344</h>
+      <object_id>996582</object_id>
+      <w>388</w>
+      <y>1</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>post</name>
+      <h>39</h>
+      <object_id>996583</object_id>
+      <w>92</w>
+      <y>332</y>
+      <x>211</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a sign showing birds are not allowed in the area</caption>
+      <caption>A warning sign indicating a crossing for ducks.  </caption>
+      <caption>A triangle duck crossing sign with red border.</caption>
+      <caption>A sign with a duck on it hanging outside</caption>
+      <caption>Close up of a duck sign, triangular white with red border and black duck, on a pole with sidewalk, grass and building behind.</caption>
+    </captions>
+</image>

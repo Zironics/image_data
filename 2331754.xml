@@ -1,0 +1,37 @@
+<image>
+  <image-id>2331754</image-id>
+  <coco-id>36447</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4464246</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2716204</subject>
+      <object>2716205</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cake</name>
+      <h>186</h>
+      <object_id>2716204</object_id>
+      <w>132</w>
+      <y>123</y>
+      <x>363</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>40</h>
+      <object_id>2716205</object_id>
+      <w>169</w>
+      <y>267</y>
+      <x>330</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are many kids at a party where there is cake.</caption>
+      <caption>A group of children waiting for a piece of birthday cake.</caption>
+      <caption>Two boys wearing birthday crowns sit at a table, looking at a chocolate cake.</caption>
+      <caption>Many small children sit around a large cake.</caption>
+      <caption>A group of children gathered by a table near a cake</caption>
+    </captions>
+</image>

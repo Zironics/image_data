@@ -1,0 +1,88 @@
+<image>
+  <image-id>2386089</image-id>
+  <coco-id>119108</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4627577</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4163975</subject>
+      <object>4163974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4627578</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4048315</subject>
+      <object>4163974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4627579</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4048315</subject>
+      <object>4163974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4627580</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4163978</subject>
+      <object>4163974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4627581</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4163979</subject>
+      <object>4163974</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>horse</name>
+      <h>34</h>
+      <object_id>4163975</object_id>
+      <w>50</w>
+      <y>99</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>pin</name>
+      <h>235</h>
+      <object_id>4163974</object_id>
+      <w>495</w>
+      <y>95</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing in pen</attribute>
+      </attributes>
+      <h>62</h>
+      <object_id>4048315</object_id>
+      <w>32</w>
+      <y>86</y>
+      <x>148</x>
+      <name>brown horse</name>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>57</h>
+      <object_id>4163978</object_id>
+      <w>29</w>
+      <y>84</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>160</h>
+      <object_id>4163979</object_id>
+      <w>234</w>
+      <y>103</y>
+      <x>202</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A horse standing on top of a dirt field.</caption>
+      <caption>A horse is in the middle of a field lifting his legs out while a bunch of other horses is eating grass.</caption>
+      <caption>Some horses standing in a open gated field. </caption>
+      <caption>Horses in large corral at outdoor area grazing and walking.</caption>
+      <caption>A horse with it's back leg off the ground and more horses in the background.</caption>
+    </captions>
+</image>

@@ -1,0 +1,112 @@
+<image>
+  <image-id>1159681</image-id>
+  <coco-id>156302</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4829066</relationship_id>
+      <predicate>on</predicate>
+      <subject>4669839</subject>
+      <object>4669840</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4603928</relationship_id>
+      <predicate>affixed to</predicate>
+      <subject>4105089</subject>
+      <object>4105090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4603934</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4105101</subject>
+      <object>4105102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4735815</relationship_id>
+      <predicate>and</predicate>
+      <subject>4430329</subject>
+      <object>4430330</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>bananas</name>
+      <h>161</h>
+      <object_id>4669839</object_id>
+      <w>258</w>
+      <y>458</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>display</name>
+      <h>245</h>
+      <object_id>4669840</object_id>
+      <w>670</w>
+      <y>398</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>109</h>
+      <object_id>4105089</object_id>
+      <w>93</w>
+      <y>258</y>
+      <x>373</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>262</h>
+      <object_id>4105090</object_id>
+      <w>53</w>
+      <y>147</y>
+      <x>390</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>245</h>
+      <object_id>4105101</object_id>
+      <w>124</w>
+      <y>256</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>115</h>
+      <object_id>4105102</object_id>
+      <w>104</w>
+      <y>308</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>139</h>
+      <object_id>4430329</object_id>
+      <w>193</w>
+      <y>472</y>
+      <x>339</x>
+    </object>
+    <object>
+      <name>veggie</name>
+      <h>240</h>
+      <object_id>4430330</object_id>
+      <w>417</w>
+      <y>359</y>
+      <x>556</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are abundance of fruits and vegetables being displayed.</caption>
+      <caption>Fresh fruits and vegetables displayed in a market.</caption>
+      <caption>An assortment of fruits and vegetables for sale  at a market.</caption>
+      <caption>A colorful display of fruits and vegetables are shown in a farmer's market type setting.</caption>
+      <caption>Produce is displayed in a supermarket while people shop.</caption>
+    </captions>
+</image>

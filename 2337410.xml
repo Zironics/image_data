@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337410</image-id>
+  <coco-id>531929</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4462070</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3338573</subject>
+      <object>3931400</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462071</relationship_id>
+      <predicate>has</predicate>
+      <subject>3169577</subject>
+      <object>3169576</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shoe</name>
+      <h>46</h>
+      <object_id>3338573</object_id>
+      <w>19</w>
+      <y>274</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>foot</name>
+      <h>45</h>
+      <object_id>3931400</object_id>
+      <w>33</w>
+      <y>275</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>303</h>
+      <object_id>3169577</object_id>
+      <w>110</w>
+      <y>27</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>left knee</name>
+      <h>27</h>
+      <object_id>3169576</object_id>
+      <w>12</w>
+      <y>218</y>
+      <x>235</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of young men play a doubles game of tennis.</caption>
+      <caption>A couple of men standing on a tennis court holding racquets.</caption>
+      <caption>Two men that are playing a game of tennis. </caption>
+      <caption>Two people playing doubles in tennis with one getting ready to hit the ball.</caption>
+      <caption>A pair of tennis players getting ready to hit a tennis ball.</caption>
+    </captions>
+</image>

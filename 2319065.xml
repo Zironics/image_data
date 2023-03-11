@@ -1,0 +1,44 @@
+<image>
+  <image-id>2319065</image-id>
+  <coco-id>465266</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2999817</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1004945</subject>
+      <object>1004948</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>15</h>
+      <object_id>1004945</object_id>
+      <w>45</w>
+      <y>159</y>
+      <x>84</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>post</name>
+      <h>159</h>
+      <object_id>1004948</object_id>
+      <w>28</w>
+      <y>186</y>
+      <x>95</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red stop sign on top of a red traffic sign.</caption>
+      <caption>Signs and wooden poles stand in front of houses and lawns. </caption>
+      <caption>A red three way stop sign near a bus stop.</caption>
+      <caption>A stop sign warns that this is a three-way stop.</caption>
+      <caption>A stop sign with another sign under it, positioned on a street, next to a us stop.</caption>
+    </captions>
+</image>

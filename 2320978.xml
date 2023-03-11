@@ -1,0 +1,65 @@
+<image>
+  <image-id>2320978</image-id>
+  <coco-id>530630</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4540728</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2950946</subject>
+      <object>2950945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3775856</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3418674</subject>
+      <object>3418675</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>sauce</name>
+      <h>134</h>
+      <object_id>2950946</object_id>
+      <w>183</w>
+      <y>75</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>192</h>
+      <object_id>2950945</object_id>
+      <w>239</w>
+      <y>57</y>
+      <x>246</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>cheese</name>
+      <h>57</h>
+      <object_id>3418674</object_id>
+      <w>116</w>
+      <y>237</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>croissant</name>
+      <h>170</h>
+      <object_id>3418675</object_id>
+      <w>180</w>
+      <y>130</y>
+      <x>75</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sandwich on a plate with a bowl of soup with a pickle next to it.</caption>
+      <caption>A plate of food has a croissant sandwich and soup</caption>
+      <caption>A sandwich on croissants, soup and a pickle.</caption>
+      <caption>A sandwich and a pickle with a bowl of food on a plate. </caption>
+      <caption>A bowl of soup, a pickle, and a sandwich are on a plate. </caption>
+    </captions>
+</image>

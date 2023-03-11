@@ -1,0 +1,99 @@
+<image>
+  <image-id>2369004</image-id>
+  <coco-id>146163</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4341261</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1816252</subject>
+      <object>3865764</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4341264</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>3865769</subject>
+      <object>1692024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4341265</relationship_id>
+      <predicate>interested in</predicate>
+      <subject>3865769</subject>
+      <object>3865768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4341266</relationship_id>
+      <predicate>watching a</predicate>
+      <subject>1667893</subject>
+      <object>3865769</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4341267</relationship_id>
+      <predicate>watching</predicate>
+      <subject>1667893</subject>
+      <object>1816252</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>girl</name>
+      <h>314</h>
+      <object_id>1816252</object_id>
+      <w>118</w>
+      <y>17</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>130</h>
+      <object_id>3865764</object_id>
+      <w>460</w>
+      <y>198</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>long haired</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>146</h>
+      <object_id>3865769</object_id>
+      <w>120</w>
+      <y>150</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>frisbee</name>
+      <h>21</h>
+      <object_id>1692024</object_id>
+      <w>39</w>
+      <y>132</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>frisbee</name>
+      <h>21</h>
+      <object_id>3865768</object_id>
+      <w>41</w>
+      <y>133</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>spectators</name>
+      <h>72</h>
+      <object_id>1667893</object_id>
+      <w>213</w>
+      <y>2</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person in a field with a large dog.</caption>
+      <caption>A girl and a dog in a frisbee competition.</caption>
+      <caption>A brown and white dog sits on grass as a woman in front of him holds a red Frisbee.</caption>
+      <caption>a person with a frisbee near a dog behind a fence</caption>
+      <caption>A person holds a frisbee in front of a dog. </caption>
+    </captions>
+</image>

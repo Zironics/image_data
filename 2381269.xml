@@ -1,0 +1,64 @@
+<image>
+  <image-id>2381269</image-id>
+  <coco-id>149381</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3592280</relationship_id>
+      <predicate>covering</predicate>
+      <subject>1337939</subject>
+      <object>1337936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3592281</relationship_id>
+      <predicate>located under a</predicate>
+      <subject>1337936</subject>
+      <object>1337938</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>leaf</name>
+      <h>9</h>
+      <object_id>1337939</object_id>
+      <w>15</w>
+      <y>142</y>
+      <x>426</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>part of a flower</attribute>
+        <attribute>by a brown branch</attribute>
+        <attribute>next to green leaf</attribute>
+        <attribute>by the tip of a leaf</attribute>
+        <attribute>in fruit orchard</attribute>
+        <attribute>on a tree</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>20</h>
+      <object_id>1337936</object_id>
+      <w>22</w>
+      <y>137</y>
+      <x>434</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>12</h>
+      <object_id>1337938</object_id>
+      <w>27</w>
+      <y>49</y>
+      <x>369</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of fully loaded orange trees has a walkway between them.</caption>
+      <caption>A path goes between trees filled with oranges.</caption>
+      <caption>A pathway within a large orange grove </caption>
+      <caption>Several citrus bushy trees near a dirt and brick lined pathway.</caption>
+      <caption>An orange orchard with a path cutting between the trees.</caption>
+    </captions>
+</image>

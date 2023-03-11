@@ -1,0 +1,68 @@
+<image>
+  <image-id>1160247</image-id>
+  <coco-id>42481</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4076955</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1603328</subject>
+      <object>1603322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076956</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1603328</subject>
+      <object>1603325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076963</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1603328</subject>
+      <object>1603329</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <h>169</h>
+      <object_id>1603328</object_id>
+      <w>444</w>
+      <y>0</y>
+      <x>187</x>
+      <name>wall</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>228</h>
+      <object_id>1603322</object_id>
+      <w>766</w>
+      <y>0</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>235</h>
+      <object_id>1603325</object_id>
+      <w>825</w>
+      <y>0</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>209</h>
+      <object_id>1603329</object_id>
+      <w>813</w>
+      <y>0</y>
+      <x>209</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people on a sidewalk behind a barrier fence.</caption>
+      <caption>A large group of people behind a metal rack.</caption>
+      <caption>A group of people behind a barricade waiting for a sports team.</caption>
+      <caption>A crowd of sports fans in winter clothes huddled behind a barrier. </caption>
+      <caption>A crowd of sports fans are standing behind a barricade.</caption>
+    </captions>
+</image>

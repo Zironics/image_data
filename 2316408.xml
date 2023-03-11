@@ -1,0 +1,239 @@
+<image>
+  <image-id>2316408</image-id>
+  <coco-id>154597</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4521548</relationship_id>
+      <predicate>at</predicate>
+      <subject>3955515</subject>
+      <object>1054048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521549</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3955516</subject>
+      <object>1054048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521550</relationship_id>
+      <predicate>under</predicate>
+      <subject>3955517</subject>
+      <object>1054048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521551</relationship_id>
+      <predicate>above</predicate>
+      <subject>1054052</subject>
+      <object>1054048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521552</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1054050</subject>
+      <object>3955519</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521553</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1054052</subject>
+      <object>3955521</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521554</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1054058</subject>
+      <object>1054048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521555</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3955524</subject>
+      <object>1054048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521556</relationship_id>
+      <predicate>on</predicate>
+      <subject>3955525</subject>
+      <object>1054048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521557</relationship_id>
+      <predicate>to hold</predicate>
+      <subject>3955526</subject>
+      <object>1054057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521558</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1054050</subject>
+      <object>3955528</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4521559</relationship_id>
+      <predicate>in</predicate>
+      <subject>3955529</subject>
+      <object>3955515</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>booth</name>
+      <h>167</h>
+      <object_id>3955515</object_id>
+      <w>265</w>
+      <y>154</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+        <attribute> set</attribute>
+        <attribute> for six</attribute>
+      </attributes>
+      <name>table</name>
+      <h>132</h>
+      <object_id>1054048</object_id>
+      <w>133</w>
+      <y>181</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>silverware</name>
+      <h>10</h>
+      <object_id>3955516</object_id>
+      <w>35</w>
+      <y>214</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>carpet</name>
+      <h>38</h>
+      <object_id>3955517</object_id>
+      <w>301</w>
+      <y>293</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>47</h>
+      <object_id>1054052</object_id>
+      <w>32</w>
+      <y>46</y>
+      <x>226</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute> decoration</attribute>
+      </attributes>
+      <name>fish</name>
+      <h>28</h>
+      <object_id>1054050</object_id>
+      <w>87</w>
+      <y>129</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>149</h>
+      <object_id>3955519</object_id>
+      <w>178</w>
+      <y>4</y>
+      <x>134</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>156</h>
+      <object_id>3955521</object_id>
+      <w>163</w>
+      <y>0</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute> white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>10</h>
+      <object_id>1054058</object_id>
+      <w>22</w>
+      <y>212</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>utensils</name>
+      <h>9</h>
+      <object_id>3955524</object_id>
+      <w>23</w>
+      <y>219</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> brown</attribute>
+      </attributes>
+      <name>placemat</name>
+      <h>23</h>
+      <object_id>3955525</object_id>
+      <w>30</w>
+      <y>206</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> folding</attribute>
+      </attributes>
+      <name>stands</name>
+      <h>38</h>
+      <object_id>3955526</object_id>
+      <w>18</w>
+      <y>222</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute> tray's</attribute>
+        <attribute> of food</attribute>
+      </attributes>
+      <name>tray holder</name>
+      <h>116</h>
+      <object_id>1054057</object_id>
+      <w>92</w>
+      <y>216</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>54</h>
+      <object_id>3955528</object_id>
+      <w>130</w>
+      <y>182</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> exotic</attribute>
+        <attribute> brown </attribute>
+        <attribute>of print</attribute>
+      </attributes>
+      <name>wallpaper</name>
+      <h>156</h>
+      <object_id>3955529</object_id>
+      <w>254</w>
+      <y>4</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dining room has a booth with green seats.</caption>
+      <caption>A elaborately decorated booth with green seating and a wooden table. </caption>
+      <caption>a wooden table with long chairs at a restaurant </caption>
+      <caption>A restaurant booth colored yellow near cut wood.</caption>
+      <caption>A booth in a restaurant with a wooden decoration on the wall behind it.,</caption>
+    </captions>
+</image>

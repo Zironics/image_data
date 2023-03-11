@@ -1,0 +1,76 @@
+<image>
+  <image-id>2340907</image-id>
+  <coco-id>370270</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4671136</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>4272732</subject>
+      <object>4272733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4671137</relationship_id>
+      <predicate>has</predicate>
+      <subject>4272732</subject>
+      <object>4272734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4671145</relationship_id>
+      <predicate>looking through</predicate>
+      <subject>4272761</subject>
+      <object>4272762</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>345</h>
+      <object_id>4272732</object_id>
+      <w>159</w>
+      <y>152</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paper</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>49</h>
+      <object_id>4272733</object_id>
+      <w>49</w>
+      <y>349</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>stick</name>
+      <h>77</h>
+      <object_id>4272734</object_id>
+      <w>111</w>
+      <y>273</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>190</h>
+      <object_id>4272761</object_id>
+      <w>66</w>
+      <y>123</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>camera</name>
+      <h>43</h>
+      <object_id>4272762</object_id>
+      <w>26</w>
+      <y>132</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a person hitting a ball with a stick in a office.</caption>
+      <caption>some Asian women are playing baseball in a store</caption>
+      <caption>A woman with a stick hitting something red and blurry in the air indoors.</caption>
+      <caption>A young woman is swinging at an object indoors.</caption>
+      <caption>A women is playing stick ball between counters.</caption>
+    </captions>
+</image>

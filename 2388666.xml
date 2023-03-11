@@ -1,0 +1,76 @@
+<image>
+  <image-id>2388666</image-id>
+  <coco-id>189033</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1765996</relationship_id>
+      <predicate>has a</predicate>
+      <subject>671737</subject>
+      <object>671734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1765997</relationship_id>
+      <predicate>on a</predicate>
+      <subject>671732</subject>
+      <object>671733</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>table</name>
+      <h>251</h>
+      <object_id>671737</object_id>
+      <w>497</w>
+      <y>157</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>108</h>
+      <object_id>671734</object_id>
+      <w>89</w>
+      <y>159</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chocolate</attribute>
+        <attribute>homemade</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>158</h>
+      <object_id>671732</object_id>
+      <w>267</w>
+      <y>42</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>black</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>149</h>
+      <object_id>671733</object_id>
+      <w>270</w>
+      <y>247</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The first piece of the chocolate layer cake is sliced and on the plate.</caption>
+      <caption>A sliced cake on a cake plate with the missing slice beside it.</caption>
+      <caption>A slice has been placed beside a large chocolate cake.</caption>
+      <caption>A chocolate cake has a single piece cut out. </caption>
+      <caption>A slice of chocolate cake is on the plate.</caption>
+    </captions>
+</image>

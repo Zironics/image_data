@@ -1,0 +1,75 @@
+<image>
+  <image-id>2402620</image-id>
+  <coco-id>388611</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3272029</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1133774</subject>
+      <object>1133775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272030</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1133774</subject>
+      <object>1133775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272031</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1133774</subject>
+      <object>1133775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>774306</relationship_id>
+      <predicate>using</predicate>
+      <subject>1133774</subject>
+      <object>388065</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272035</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1133774</subject>
+      <object>1133775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3272072</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1133774</subject>
+      <object>1133775</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>43</h>
+      <object_id>1133774</object_id>
+      <w>46</w>
+      <y>25</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1133775</object_id>
+      <w>47</w>
+      <y>30</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>arms</name>
+      <h>36</h>
+      <object_id>388065</object_id>
+      <w>70</w>
+      <y>105</y>
+      <x>167</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man rides a surf board in the water.</caption>
+      <caption>A man is surfing on a wave in the ocean.</caption>
+      <caption>A man in a wetsuit riding the surf of a wave. </caption>
+      <caption>Surfer in wet suit, at the peak of a breaking wave.</caption>
+      <caption>A picture of man wearing a wet suite surfing on a wave. </caption>
+    </captions>
+</image>

@@ -1,0 +1,66 @@
+<image>
+  <image-id>2325723</image-id>
+  <coco-id>455198</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4482897</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2808674</subject>
+      <object>2812638</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3691831</relationship_id>
+      <predicate>under</predicate>
+      <subject>2988455</subject>
+      <object>2988456</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>120</h>
+      <object_id>2808674</object_id>
+      <w>159</w>
+      <y>66</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>foreground</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>car</name>
+      <h>213</h>
+      <object_id>2812638</object_id>
+      <w>499</w>
+      <y>161</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>fur</name>
+      <h>47</h>
+      <object_id>2988455</object_id>
+      <w>45</w>
+      <y>125</y>
+      <x>260</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cat's mouth</name>
+      <h>119</h>
+      <object_id>2988456</object_id>
+      <w>157</w>
+      <y>74</y>
+      <x>163</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black cat calming sits on top of the car. </caption>
+      <caption>A cat sits on top of a light blue car</caption>
+      <caption>A cat sitting on the roof of a car.</caption>
+      <caption>A black and white cat on the roof of a car</caption>
+      <caption>A black and white cat sitting on the roof of a car.</caption>
+    </captions>
+</image>

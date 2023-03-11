@@ -1,0 +1,94 @@
+<image>
+  <image-id>2363781</image-id>
+  <coco-id>474289</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2082444</relationship_id>
+      <predicate>has</predicate>
+      <subject>762293</subject>
+      <object>762294</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2082445</relationship_id>
+      <predicate>ON</predicate>
+      <subject>762296</subject>
+      <object>762297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2082446</relationship_id>
+      <predicate>has</predicate>
+      <subject>762293</subject>
+      <object>762299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2082447</relationship_id>
+      <predicate>has</predicate>
+      <subject>762293</subject>
+      <object>762294</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2082448</relationship_id>
+      <predicate>ON</predicate>
+      <subject>762293</subject>
+      <object>762297</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>wearing</attribute>
+        <attribute>holding</attribute>
+        <attribute>swinging</attribute>
+      </attributes>
+      <name>man</name>
+      <h>224</h>
+      <object_id>762293</object_id>
+      <w>226</w>
+      <y>94</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>69</h>
+      <object_id>762294</object_id>
+      <w>64</w>
+      <y>102</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>64</h>
+      <object_id>762296</object_id>
+      <w>50</w>
+      <y>67</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>court</name>
+      <h>121</h>
+      <object_id>762297</object_id>
+      <w>268</w>
+      <y>14</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>32</h>
+      <object_id>762299</object_id>
+      <w>43</w>
+      <y>126</y>
+      <x>256</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tennis player has his racket pointed downward to hit an extreme shot.</caption>
+      <caption>A tennis player has just hit a ball in a tennis match.</caption>
+      <caption>A man that swung at a tennis ball. </caption>
+      <caption>a guy on a tennis court hitting a ball with a racket</caption>
+      <caption>A tennis player swings his racket on a serve.</caption>
+    </captions>
+</image>

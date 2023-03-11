@@ -1,0 +1,84 @@
+<image>
+  <image-id>2320123</image-id>
+  <coco-id>484564</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3858332</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3620112</subject>
+      <object>3494693</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102618</relationship_id>
+      <predicate>has</predicate>
+      <subject>3716242</subject>
+      <object>3184320</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251982</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3210208</subject>
+      <object>3790830</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skateboarder</name>
+      <h>258</h>
+      <object_id>3620112</object_id>
+      <w>288</w>
+      <y>16</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>57</h>
+      <object_id>3494693</object_id>
+      <w>85</w>
+      <y>18</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>265</h>
+      <object_id>3716242</object_id>
+      <w>255</w>
+      <y>11</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>51</h>
+      <object_id>3184320</object_id>
+      <w>98</w>
+      <y>229</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>43</h>
+      <object_id>3210208</object_id>
+      <w>45</w>
+      <y>65</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>219</h>
+      <object_id>3790830</object_id>
+      <w>258</w>
+      <y>50</y>
+      <x>55</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a skateboard down the middle of a street.</caption>
+      <caption>A boy is riding on a skate board.</caption>
+      <caption>A boy riding a skateboard down a hill.</caption>
+      <caption>A boy is kneeling and riding on a longboard</caption>
+      <caption>Boy wearing a helmet riding a skateboard down a street.</caption>
+    </captions>
+</image>

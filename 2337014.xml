@@ -1,0 +1,107 @@
+<image>
+  <image-id>2337014</image-id>
+  <coco-id>303407</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3960676</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2736081</subject>
+      <object>3005752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3960677</relationship_id>
+      <predicate>skis on</predicate>
+      <subject>2496781</subject>
+      <object>2245742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447851</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>3005751</subject>
+      <object>3923185</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3960678</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2496781</subject>
+      <object>2496781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3960679</relationship_id>
+      <predicate>enjoys</predicate>
+      <subject>3005751</subject>
+      <object>3173629</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3960680</relationship_id>
+      <predicate>stands on</predicate>
+      <subject>3005751</subject>
+      <object>3005752</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>track</name>
+      <h>146</h>
+      <object_id>2736081</object_id>
+      <w>285</w>
+      <y>112</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>164</h>
+      <object_id>3005752</object_id>
+      <w>492</w>
+      <y>112</y>
+      <x>5</x>
+    </object>
+    <object>
+      <h>61</h>
+      <object_id>2496781</object_id>
+      <w>38</w>
+      <y>131</y>
+      <x>317</x>
+      <name>clothing</name>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>60</h>
+      <object_id>2245742</object_id>
+      <w>162</w>
+      <y>183</y>
+      <x>58</x>
+    </object>
+    <object>
+      <h>89</h>
+      <object_id>3005751</object_id>
+      <w>38</w>
+      <y>112</y>
+      <x>317</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>backpack</name>
+      <h>38</h>
+      <object_id>3923185</object_id>
+      <w>40</w>
+      <y>114</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>34</h>
+      <object_id>3173629</object_id>
+      <w>77</w>
+      <y>221</y>
+      <x>368</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The person is making tracks in the snow with his skis.</caption>
+      <caption>A person cross country skis through the snow.</caption>
+      <caption>a person on skis travels through the snow </caption>
+      <caption>A backcountry skier is traversing a snow field.</caption>
+      <caption>A person skiing across an open, snowy field</caption>
+    </captions>
+</image>

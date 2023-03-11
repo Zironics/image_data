@@ -1,0 +1,93 @@
+<image>
+  <image-id>1159407</image-id>
+  <coco-id>174934</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4067890</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1592855</subject>
+      <object>1592856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067891</relationship_id>
+      <predicate>has</predicate>
+      <subject>1592858</subject>
+      <object>1592857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067892</relationship_id>
+      <predicate>across</predicate>
+      <subject>1592859</subject>
+      <object>1592860</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>179</h>
+      <object_id>1592855</object_id>
+      <w>1012</w>
+      <y>6</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>179</h>
+      <object_id>1592856</object_id>
+      <w>1012</w>
+      <y>6</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>99</h>
+      <object_id>1592858</object_id>
+      <w>118</w>
+      <y>261</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>face</name>
+      <h>74</h>
+      <object_id>1592857</object_id>
+      <w>93</w>
+      <y>272</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>bridge</name>
+      <h>73</h>
+      <object_id>1592859</object_id>
+      <w>610</w>
+      <y>310</y>
+      <x>375</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>calm</attribute>
+      </attributes>
+      <name>river</name>
+      <h>332</h>
+      <object_id>1592860</object_id>
+      <w>648</w>
+      <y>262</y>
+      <x>375</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A view of a city with a bridge crossing over water and a clock tower. </caption>
+      <caption>A clock tower is in front of a river</caption>
+      <caption>An overview of a city that has a bridge, buildings, and a clock tower.</caption>
+      <caption>a nice and tall building and a city clock on it</caption>
+      <caption>A very tall clock tower sitting alongside of a river.</caption>
+    </captions>
+</image>

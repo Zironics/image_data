@@ -1,0 +1,85 @@
+<image>
+  <image-id>2379640</image-id>
+  <coco-id>297257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4795879</relationship_id>
+      <predicate>on</predicate>
+      <subject>4588127</subject>
+      <object>4588128</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4686747</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4313624</subject>
+      <object>4313625</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4795888</relationship_id>
+      <predicate>on</predicate>
+      <subject>4588155</subject>
+      <object>4588156</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rug</name>
+      <h>65</h>
+      <object_id>4588127</object_id>
+      <w>89</w>
+      <y>263</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>118</h>
+      <object_id>4588128</object_id>
+      <w>222</w>
+      <y>213</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>rug</name>
+      <h>70</h>
+      <object_id>4313624</object_id>
+      <w>94</w>
+      <y>261</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>111</h>
+      <object_id>4313625</object_id>
+      <w>348</w>
+      <y>219</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>cushions</name>
+      <h>56</h>
+      <object_id>4588155</object_id>
+      <w>66</w>
+      <y>242</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>153</h>
+      <object_id>4588156</object_id>
+      <w>204</w>
+      <y>176</y>
+      <x>277</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Blue couch in a long white living room in front of a TV.</caption>
+      <caption>A cozy den with lots of places to sit.</caption>
+      <caption>A long, skinny living room with a pot belly stove</caption>
+      <caption>A couch and a television in a room.</caption>
+      <caption>a living room with a tv and a couch </caption>
+    </captions>
+</image>

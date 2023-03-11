@@ -1,0 +1,51 @@
+<image>
+  <image-id>2334685</image-id>
+  <coco-id>76257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4096346</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3183259</subject>
+      <object>2367181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3984769</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3670424</subject>
+      <object>2367181</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wheel</name>
+      <h>109</h>
+      <object_id>3183259</object_id>
+      <w>70</w>
+      <y>171</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>199</h>
+      <object_id>2367181</object_id>
+      <w>198</w>
+      <y>72</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>26</h>
+      <object_id>3670424</object_id>
+      <w>32</w>
+      <y>109</y>
+      <x>235</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man on a motorcycle driving down a track </caption>
+      <caption>A motor cyclist leans while racing down a track.</caption>
+      <caption>A person in gear riding a motorcycle around a track</caption>
+      <caption>A man racing a motorcycle on top of a race track.</caption>
+      <caption>Motorcycle racer is up on his back wheel. </caption>
+    </captions>
+</image>

@@ -1,0 +1,80 @@
+<image>
+  <image-id>2358136</image-id>
+  <coco-id>3845</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2259468</relationship_id>
+      <predicate>ON</predicate>
+      <subject>805747</subject>
+      <object>805754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2259469</relationship_id>
+      <predicate>ON</predicate>
+      <subject>805747</subject>
+      <object>805754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2259470</relationship_id>
+      <predicate>ON</predicate>
+      <subject>805748</subject>
+      <object>805754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2259471</relationship_id>
+      <predicate>ON</predicate>
+      <subject>805748</subject>
+      <object>805754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2259472</relationship_id>
+      <predicate>ON</predicate>
+      <subject>805747</subject>
+      <object>805754</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>rice</name>
+      <h>56</h>
+      <object_id>805747</object_id>
+      <w>97</w>
+      <y>86</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colored</attribute>
+        <attribute>orange</attribute>
+        <attribute>full</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>74</h>
+      <object_id>805754</object_id>
+      <w>71</w>
+      <y>96</y>
+      <x>418</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>carrots</name>
+      <h>41</h>
+      <object_id>805748</object_id>
+      <w>29</w>
+      <y>85</y>
+      <x>172</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a chicken meal with carrots broccoli and rice</caption>
+      <caption>A dinner plate that has white steamed rice with stir fry vegetables and chicken.</caption>
+      <caption>A plate of vegetables, chicken, and white rice.</caption>
+      <caption>The food is prepared on the dish on the table. </caption>
+      <caption>A plate of food and a drink on a table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,88 @@
+<image>
+  <image-id>2347138</image-id>
+  <coco-id>425620</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4424838</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3908719</subject>
+      <object>3908712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424839</relationship_id>
+      <predicate>IN</predicate>
+      <subject>893116</subject>
+      <object>3908714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424840</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3908719</subject>
+      <object>3908714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424841</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>3908719</subject>
+      <object>3908717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424842</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3908719</subject>
+      <object>3908717</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>157</h>
+      <object_id>3908719</object_id>
+      <w>109</w>
+      <y>12</y>
+      <x>133</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>doll</name>
+      <h>51</h>
+      <object_id>3908712</object_id>
+      <w>84</w>
+      <y>90</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <h>120</h>
+      <object_id>893116</object_id>
+      <w>241</w>
+      <y>374</y>
+      <x>148</x>
+      <name>toddler</name>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>360</h>
+      <object_id>3908714</object_id>
+      <w>495</w>
+      <y>139</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>doll</name>
+      <h>60</h>
+      <object_id>3908717</object_id>
+      <w>68</w>
+      <y>82</y>
+      <x>155</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two children in a bunk bed with white blankets </caption>
+      <caption>Two little kids enjoy the bunk bed, one on top and one on the bottom.</caption>
+      <caption>Two young children smiling in their bunk beds.</caption>
+      <caption>a young child sits on top of a bunk bed </caption>
+      <caption>Two kids are in their individual bunk beds. </caption>
+    </captions>
+</image>

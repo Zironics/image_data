@@ -1,0 +1,110 @@
+<image>
+  <image-id>2332174</image-id>
+  <coco-id>190007</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4094058</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3424341</subject>
+      <object>3424342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094059</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3424341</subject>
+      <object>2959773</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463746</relationship_id>
+      <predicate>with</predicate>
+      <subject>3424341</subject>
+      <object>3400937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094060</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2891907</subject>
+      <object>2891906</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094061</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3424341</subject>
+      <object>2973625</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>77</h>
+      <object_id>3424341</object_id>
+      <w>65</w>
+      <y>116</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>50</h>
+      <object_id>3424342</object_id>
+      <w>47</w>
+      <y>130</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>26</h>
+      <object_id>2959773</object_id>
+      <w>55</w>
+      <y>186</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> short brown </attribute>
+      </attributes>
+      <name>brown hair</name>
+      <h>17</h>
+      <object_id>3400937</object_id>
+      <w>25</w>
+      <y>118</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>foam</name>
+      <h>22</h>
+      <object_id>2891907</object_id>
+      <w>134</w>
+      <y>18</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>295</h>
+      <object_id>2891906</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>30</h>
+      <object_id>2973625</object_id>
+      <w>77</w>
+      <y>187</y>
+      <x>196</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>this is man riding a wave on a board</caption>
+      <caption>A man in a black suit surfing a large wave</caption>
+      <caption>Man on surfboard riding large breaking wave at ocean.</caption>
+      <caption>a man on surf board riding a wave over his head</caption>
+      <caption>A man that is on a surfboard in the water.</caption>
+    </captions>
+</image>

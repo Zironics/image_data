@@ -1,0 +1,59 @@
+<image>
+  <image-id>2327192</image-id>
+  <coco-id>23641</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3638654</relationship_id>
+      <predicate>has</predicate>
+      <subject>3493940</subject>
+      <object>3524245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638655</relationship_id>
+      <predicate>has</predicate>
+      <subject>2840182</subject>
+      <object>3524246</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>floor</name>
+      <h>54</h>
+      <object_id>3493940</object_id>
+      <w>27</w>
+      <y>182</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>34</h>
+      <object_id>3524245</object_id>
+      <w>17</w>
+      <y>415</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>363</h>
+      <object_id>2840182</object_id>
+      <w>320</w>
+      <y>130</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>27</h>
+      <object_id>3524246</object_id>
+      <w>21</w>
+      <y>393</y>
+      <x>285</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The fancy vase is displayed on the table. </caption>
+      <caption>A close up of a black and gold vase on a table.</caption>
+      <caption>A large metal vase on a white table.</caption>
+      <caption>A large metallic vase sitting on top of a white table.</caption>
+      <caption>A decorated vase with animals and swirls on it</caption>
+    </captions>
+</image>

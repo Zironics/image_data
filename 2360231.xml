@@ -1,0 +1,157 @@
+<image>
+  <image-id>2360231</image-id>
+  <coco-id>330660</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4397054</relationship_id>
+      <predicate>with</predicate>
+      <subject>788948</subject>
+      <object>3762256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4204917</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3762256</subject>
+      <object>788945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4204918</relationship_id>
+      <predicate>ON</predicate>
+      <subject>788947</subject>
+      <object>3762257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4204919</relationship_id>
+      <predicate>ON</predicate>
+      <subject>788948</subject>
+      <object>3762261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4204920</relationship_id>
+      <predicate>ON</predicate>
+      <subject>788948</subject>
+      <object>3762261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4204921</relationship_id>
+      <predicate>ON</predicate>
+      <subject>788954</subject>
+      <object>3762260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4204922</relationship_id>
+      <predicate>ON</predicate>
+      <subject>788952</subject>
+      <object>3762261</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>105</h>
+      <object_id>788948</object_id>
+      <w>396</w>
+      <y>126</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <h>104</h>
+      <object_id>3762256</object_id>
+      <w>70</w>
+      <y>136</y>
+      <x>83</x>
+      <name>appliances</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>with appliances</attribute>
+        <attribute>with a cloth</attribute>
+        <attribute>has appliances</attribute>
+        <attribute>appliances</attribute>
+      </attributes>
+      <name>table</name>
+      <h>193</h>
+      <object_id>788945</object_id>
+      <w>341</w>
+      <y>127</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>next to chair</attribute>
+      </attributes>
+      <name>cloth</name>
+      <h>175</h>
+      <object_id>788947</object_id>
+      <w>309</w>
+      <y>134</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>231</h>
+      <object_id>3762257</object_id>
+      <w>344</w>
+      <y>121</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>250</h>
+      <object_id>3762261</object_id>
+      <w>373</w>
+      <y>119</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>an appliance</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>espresso machine</name>
+      <h>139</h>
+      <object_id>788954</object_id>
+      <w>123</w>
+      <y>44</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>272</h>
+      <object_id>3762260</object_id>
+      <w>375</w>
+      <y>96</y>
+      <x>79</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>an appliance</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>next to chair</attribute>
+      </attributes>
+      <name>waffle maker</name>
+      <h>81</h>
+      <object_id>788952</object_id>
+      <w>109</w>
+      <y>118</y>
+      <x>292</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A number of kitchen appliances on a small table.</caption>
+      <caption>a bunch of stuff is laying out on a table</caption>
+      <caption>The are different kinds of small appliances on the table.</caption>
+      <caption>A group of items that are sitting on a table.</caption>
+      <caption>A group of kitchen appliances is on a table.</caption>
+    </captions>
+</image>

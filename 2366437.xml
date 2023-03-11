@@ -1,0 +1,62 @@
+<image>
+  <image-id>2366437</image-id>
+  <coco-id>308384</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4371067</relationship_id>
+      <predicate>filled with</predicate>
+      <subject>1726539</subject>
+      <object>1726540</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4371068</relationship_id>
+      <predicate>adhering vase to</predicate>
+      <subject>2654979</subject>
+      <object>3879127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vase</name>
+      <h>98</h>
+      <object_id>1726539</object_id>
+      <w>62</w>
+      <y>225</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>flowers</name>
+      <h>205</h>
+      <object_id>1726540</object_id>
+      <w>253</w>
+      <y>72</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>tape</name>
+      <h>52</h>
+      <object_id>2654979</object_id>
+      <w>69</w>
+      <y>290</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>maroon</attribute>
+      </attributes>
+      <name>tablecloth</name>
+      <h>251</h>
+      <object_id>3879127</object_id>
+      <w>242</w>
+      <y>247</y>
+      <x>84</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A vase filled with flowers on top of a purple table.</caption>
+      <caption>A vase of flowers duct taped on a table </caption>
+      <caption>A vase with roses in it sitting on a purple covered stand.</caption>
+      <caption>A bunch of flowers that are in a vase on a table.</caption>
+      <caption>A bunch of different flowers in a vase sitting on a table</caption>
+    </captions>
+</image>

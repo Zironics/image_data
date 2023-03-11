@@ -1,0 +1,43 @@
+<image>
+  <image-id>2399481</image-id>
+  <coco-id>442861</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4682774</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4303021</subject>
+      <object>4303012</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682775</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>4303021</subject>
+      <object>4303012</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>174</h>
+      <object_id>4303021</object_id>
+      <w>114</w>
+      <y>76</y>
+      <x>339</x>
+    </object>
+    <object>
+      <h>41</h>
+      <object_id>4303012</object_id>
+      <w>56</w>
+      <y>82</y>
+      <x>386</x>
+      <name>racket</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of men holding tennis racquets on a tennis court.</caption>
+      <caption>Two men playing tennis at a somewhat large facility. </caption>
+      <caption>Two men playing doubles tennis on a grass court.</caption>
+      <caption>A couple of tennis players during a couples game about to deliver a hit.</caption>
+      <caption>A male tennis players on the court with rackets.</caption>
+    </captions>
+</image>

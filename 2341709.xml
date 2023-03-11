@@ -1,0 +1,215 @@
+<image>
+  <image-id>2341709</image-id>
+  <coco-id>579341</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2776566</relationship_id>
+      <predicate>near</predicate>
+      <subject>940416</subject>
+      <object>940417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776567</relationship_id>
+      <predicate>near or</predicate>
+      <subject>940416</subject>
+      <object>940417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776568</relationship_id>
+      <predicate>has</predicate>
+      <subject>940420</subject>
+      <object>940421</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776569</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>940416</subject>
+      <object>940422</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776571</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>940416</subject>
+      <object>940422</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776579</relationship_id>
+      <predicate>are on surface of</predicate>
+      <subject>940421</subject>
+      <object>940420</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776580</relationship_id>
+      <predicate>OF</predicate>
+      <subject>940423</subject>
+      <object>940417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776581</relationship_id>
+      <predicate>coming out of</predicate>
+      <subject>940418</subject>
+      <object>940417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776582</relationship_id>
+      <predicate>are on</predicate>
+      <subject>940421</subject>
+      <object>940416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776583</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>940426</subject>
+      <object>940416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776584</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>940420</subject>
+      <object>940416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776585</relationship_id>
+      <predicate>has</predicate>
+      <subject>940416</subject>
+      <object>940427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776586</relationship_id>
+      <predicate>has</predicate>
+      <subject>940416</subject>
+      <object>940420</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776587</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>940416</subject>
+      <object>940422</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776588</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>940426</subject>
+      <object>940416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776589</relationship_id>
+      <predicate>close to</predicate>
+      <subject>940416</subject>
+      <object>940417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2776590</relationship_id>
+      <predicate>coming from</predicate>
+      <subject>940418</subject>
+      <object>940417</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>upside down</attribute>
+        <attribute>performing stunt</attribute>
+        <attribute>piloted</attribute>
+      </attributes>
+      <name>jet</name>
+      <h>77</h>
+      <object_id>940416</object_id>
+      <w>93</w>
+      <y>97</y>
+      <x>236</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>performing stunt</attribute>
+        <attribute>flying</attribute>
+        <attribute>performing</attribute>
+      </attributes>
+      <name>jet</name>
+      <h>61</h>
+      <object_id>940417</object_id>
+      <w>106</w>
+      <y>128</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>36</h>
+      <object_id>940420</object_id>
+      <w>29</w>
+      <y>90</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>stripes</name>
+      <h>13</h>
+      <object_id>940421</object_id>
+      <w>12</w>
+      <y>97</y>
+      <x>278</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light blue</attribute>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>301</h>
+      <object_id>940422</object_id>
+      <w>497</w>
+      <y>5</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>12</h>
+      <object_id>940423</object_id>
+      <w>13</w>
+      <y>136</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>smoke</name>
+      <h>66</h>
+      <object_id>940418</object_id>
+      <w>221</w>
+      <y>170</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>dome</name>
+      <h>9</h>
+      <object_id>940426</object_id>
+      <w>17</w>
+      <y>140</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>right wing</name>
+      <h>28</h>
+      <object_id>940427</object_id>
+      <w>41</w>
+      <y>150</y>
+      <x>238</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two planes are very close together in the blue sky.</caption>
+      <caption>Two jets fly close to each other in the air.</caption>
+      <caption>Two jets cross very close to each other</caption>
+      <caption>Two stunt jets pass very close to each other in midair.</caption>
+      <caption>Two airplanes speeding past each other in an airshow.</caption>
+    </captions>
+</image>

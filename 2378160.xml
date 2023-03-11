@@ -1,0 +1,151 @@
+<image>
+  <image-id>2378160</image-id>
+  <coco-id>574702</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3988253</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2005340</subject>
+      <object>2005341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988254</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>1909501</subject>
+      <object>1909502</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988256</relationship_id>
+      <predicate>with</predicate>
+      <subject>1680423</subject>
+      <object>1680424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988259</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1740479</subject>
+      <object>1740480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988260</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1962101</subject>
+      <object>1962100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988261</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1680423</subject>
+      <object>2701516</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>131</h>
+      <object_id>2005340</object_id>
+      <w>93</w>
+      <y>262</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>flower pattern</name>
+      <h>20</h>
+      <object_id>2005341</object_id>
+      <w>20</w>
+      <y>295</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>38</h>
+      <object_id>1909501</object_id>
+      <w>24</w>
+      <y>297</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>ledge</name>
+      <h>15</h>
+      <object_id>1909502</object_id>
+      <w>21</w>
+      <y>324</y>
+      <x>308</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>32</h>
+      <object_id>1680423</object_id>
+      <w>34</w>
+      <y>222</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>balck visor</name>
+      <h>18</h>
+      <object_id>1680424</object_id>
+      <w>14</w>
+      <y>229</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>27</h>
+      <object_id>1740479</object_id>
+      <w>19</w>
+      <y>187</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>13</h>
+      <object_id>1740480</object_id>
+      <w>17</w>
+      <y>200</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>113</h>
+      <object_id>1962101</object_id>
+      <w>38</w>
+      <y>182</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>39</h>
+      <object_id>1962100</object_id>
+      <w>33</w>
+      <y>195</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>110</h>
+      <object_id>2701516</object_id>
+      <w>68</w>
+      <y>222</y>
+      <x>202</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Several motor scooters are jammed into a small market street.</caption>
+      <caption>a bunch of motorcycles are parked on a street</caption>
+      <caption>A narrow city street is filled with people and motorbikes.</caption>
+      <caption>A row of motorcycles parked next to a building.</caption>
+      <caption>Bird cages hanging over a cobblestone alley full of people and motorcycles.</caption>
+    </captions>
+</image>

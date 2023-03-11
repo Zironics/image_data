@@ -1,0 +1,97 @@
+<image>
+  <image-id>2363139</image-id>
+  <coco-id>72023</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2098377</relationship_id>
+      <predicate>ON</predicate>
+      <subject>767881</subject>
+      <object>767882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2098378</relationship_id>
+      <predicate>ON</predicate>
+      <subject>767880</subject>
+      <object>767882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2098379</relationship_id>
+      <predicate>ON</predicate>
+      <subject>767881</subject>
+      <object>767882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2098380</relationship_id>
+      <predicate>behind</predicate>
+      <subject>767883</subject>
+      <object>767880</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2098381</relationship_id>
+      <predicate>ON</predicate>
+      <subject>767881</subject>
+      <object>767882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2098382</relationship_id>
+      <predicate>ON</predicate>
+      <subject>767881</subject>
+      <object>767882</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rocks</name>
+      <h>22</h>
+      <object_id>767881</object_id>
+      <w>50</w>
+      <y>307</y>
+      <x>320</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>23</h>
+      <object_id>767882</object_id>
+      <w>31</w>
+      <y>300</y>
+      <x>192</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>standng</attribute>
+        <attribute>brown</attribute>
+        <attribute>tall</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>208</h>
+      <object_id>767880</object_id>
+      <w>181</w>
+      <y>69</y>
+      <x>183</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>101</h>
+      <object_id>767883</object_id>
+      <w>86</w>
+      <y>25</y>
+      <x>382</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe standing on top of a lush green field.</caption>
+      <caption>a zebra standing next to a some trees as people take photos of it </caption>
+      <caption>The giraffe is standing alone outside by the people.</caption>
+      <caption>A big giraffe at the zoo, being watched by people.</caption>
+      <caption>a giraffe standing on a grassy  area next to some trees</caption>
+    </captions>
+</image>

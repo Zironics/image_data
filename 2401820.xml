@@ -1,0 +1,77 @@
+<image>
+  <image-id>2401820</image-id>
+  <coco-id>429585</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>807669</relationship_id>
+      <predicate>OF</predicate>
+      <subject>395634</subject>
+      <object>395635</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3285684</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1143731</subject>
+      <object>1143732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3285692</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1143731</subject>
+      <object>1143732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3285704</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1143731</subject>
+      <object>1143732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3285708</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1143731</subject>
+      <object>1143732</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lid</name>
+      <h>20</h>
+      <object_id>395634</object_id>
+      <w>23</w>
+      <y>229</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>fire hydrant</name>
+      <h>69</h>
+      <object_id>395635</object_id>
+      <w>30</w>
+      <y>225</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>41</h>
+      <object_id>1143731</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>41</h>
+      <object_id>1143732</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An photo of a lake, fire hydrant, and sign.</caption>
+      <caption>Park with lake in foreground on pleasant appearing day.</caption>
+      <caption>a fire hydrant and a sign by a lake</caption>
+      <caption>A large body of water sitting next to a  park.</caption>
+      <caption>A fire hydrant sitting next to a fire lane sign and a lake.</caption>
+    </captions>
+</image>

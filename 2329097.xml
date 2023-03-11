@@ -1,0 +1,126 @@
+<image>
+  <image-id>2329097</image-id>
+  <coco-id>381577</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4021118</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2833574</subject>
+      <object>3795826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261291</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3795825</subject>
+      <object>3795826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261290</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2833574</subject>
+      <object>3795826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021121</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2830510</subject>
+      <object>2830511</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021122</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2830510</subject>
+      <object>2830512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021128</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2917459</subject>
+      <object>3175550</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>227</h>
+      <object_id>2833574</object_id>
+      <w>144</w>
+      <y>104</y>
+      <x>196</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>twin</attribute>
+        <attribute>framed</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>bed</name>
+      <h>163</h>
+      <object_id>3795826</object_id>
+      <w>493</w>
+      <y>167</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>214</h>
+      <object_id>3795825</object_id>
+      <w>135</w>
+      <y>116</y>
+      <x>298</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>92</h>
+      <object_id>2830510</object_id>
+      <w>144</w>
+      <y>228</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>64</h>
+      <object_id>2830511</object_id>
+      <w>95</w>
+      <y>266</y>
+      <x>403</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>166</h>
+      <object_id>2830512</object_id>
+      <w>235</w>
+      <y>164</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>25</h>
+      <object_id>2917459</object_id>
+      <w>28</w>
+      <y>154</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <h>277</h>
+      <object_id>3175550</object_id>
+      <w>435</w>
+      <y>1</y>
+      <x>64</x>
+      <name>pink walls</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man and a young woman sitting on a bed.</caption>
+      <caption>A boy and girl sitting on a bed looking thoughtful.</caption>
+      <caption>A boy and a girl contemplating something while sitting on a bed.</caption>
+      <caption>A boy and girl sitting together in a bed with their hands on their chins.</caption>
+      <caption>A couple of people sitting on a bed.</caption>
+    </captions>
+</image>

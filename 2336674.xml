@@ -1,0 +1,84 @@
+<image>
+  <image-id>2336674</image-id>
+  <coco-id>458953</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3965066</relationship_id>
+      <predicate>watch</predicate>
+      <subject>3662720</subject>
+      <object>3345529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3965067</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3662721</subject>
+      <object>3662722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448679</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2506825</subject>
+      <object>2506826</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crowd</name>
+      <h>45</h>
+      <object_id>3662720</object_id>
+      <w>165</w>
+      <y>237</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>21</h>
+      <object_id>3345529</object_id>
+      <w>60</w>
+      <y>60</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>someone</name>
+      <h>88</h>
+      <object_id>3662721</object_id>
+      <w>118</w>
+      <y>409</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>87</h>
+      <object_id>3662722</object_id>
+      <w>122</w>
+      <y>411</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>64</h>
+      <object_id>2506825</object_id>
+      <w>30</w>
+      <y>208</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>257</h>
+      <object_id>2506826</object_id>
+      <w>373</w>
+      <y>241</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A hillside has many kites in the air over it and is near a lake.</caption>
+      <caption>Man people fly kites on a grassy hill. </caption>
+      <caption>A large open field with may people flying and looking at kites.</caption>
+      <caption>A crowd of people flying kites at a festival.</caption>
+      <caption>People fly kites near the water on a hill. </caption>
+    </captions>
+</image>

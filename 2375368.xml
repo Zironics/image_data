@@ -1,0 +1,142 @@
+<image>
+  <image-id>2375368</image-id>
+  <coco-id>58483</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1456285</relationship_id>
+      <predicate>are in front of</predicate>
+      <subject>582650</subject>
+      <object>582646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1456286</relationship_id>
+      <predicate>are in front of</predicate>
+      <subject>582651</subject>
+      <object>582646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1456287</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>582652</subject>
+      <object>582646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1456288</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>582655</subject>
+      <object>582646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1456289</relationship_id>
+      <predicate>are below</predicate>
+      <subject>582650</subject>
+      <object>582646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1456290</relationship_id>
+      <predicate>are below</predicate>
+      <subject>582647</subject>
+      <object>582655</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1456291</relationship_id>
+      <predicate>above</predicate>
+      <subject>582654</subject>
+      <object>582646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1456292</relationship_id>
+      <predicate>are below</predicate>
+      <subject>582655</subject>
+      <object>582654</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>78</h>
+      <object_id>582650</object_id>
+      <w>61</w>
+      <y>421</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>big</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>179</h>
+      <object_id>582646</object_id>
+      <w>198</w>
+      <y>134</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>rocks</name>
+      <h>133</h>
+      <object_id>582651</object_id>
+      <w>69</w>
+      <y>266</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>65</h>
+      <object_id>582652</object_id>
+      <w>91</w>
+      <y>321</y>
+      <x>160</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>birds</name>
+      <h>47</h>
+      <object_id>582655</object_id>
+      <w>51</w>
+      <y>94</y>
+      <x>146</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>pointy</attribute>
+      </attributes>
+      <name>tusks</name>
+      <h>43</h>
+      <object_id>582647</object_id>
+      <w>32</w>
+      <y>234</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>129</h>
+      <object_id>582654</object_id>
+      <w>318</w>
+      <y>0</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An elephant with tusks standing in a rock strewn grassy area with two birds perched on top of it.</caption>
+      <caption>An elephant is standing with two birds on top of his head</caption>
+      <caption>Two white birds are on an elephant's back.</caption>
+      <caption>an adult elephant walking next to several large rocks. </caption>
+      <caption>An elephant walks amongst the rocks and grass.</caption>
+    </captions>
+</image>

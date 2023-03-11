@@ -1,0 +1,105 @@
+<image>
+  <image-id>2329303</image-id>
+  <coco-id>327532</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4469146</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3312440</subject>
+      <object>3935354</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4038046</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2842075</subject>
+      <object>2842076</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4469147</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3487828</subject>
+      <object>3035327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4038052</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3487828</subject>
+      <object>3487829</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crowd</name>
+      <h>105</h>
+      <object_id>3312440</object_id>
+      <w>220</w>
+      <y>24</y>
+      <x>68</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>filled</attribute>
+      </attributes>
+      <name>area</name>
+      <h>119</h>
+      <object_id>3935354</object_id>
+      <w>463</w>
+      <y>10</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>17</h>
+      <object_id>2842075</object_id>
+      <w>22</w>
+      <y>182</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>10</h>
+      <object_id>2842076</object_id>
+      <w>13</w>
+      <y>197</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ready</attribute>
+        <attribute>playing</attribute>
+      </attributes>
+      <h>81</h>
+      <object_id>3487828</object_id>
+      <w>44</w>
+      <y>116</y>
+      <x>415</x>
+      <name>person</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white shirt</name>
+      <h>32</h>
+      <object_id>3035327</object_id>
+      <w>28</w>
+      <y>121</y>
+      <x>425</x>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>18</h>
+      <object_id>3487829</object_id>
+      <w>23</w>
+      <y>113</y>
+      <x>451</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men playing tennis in front of a large crowd of people.</caption>
+      <caption>Two persons playing double tennis while and audience watches.</caption>
+      <caption>The tennis player is jumping up to hit the ball</caption>
+      <caption>Two young men play a game of tennis in front of a large audience.</caption>
+      <caption>Two people playing a tennis match at night.</caption>
+    </captions>
+</image>

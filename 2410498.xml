@@ -1,0 +1,87 @@
+<image>
+  <image-id>2410498</image-id>
+  <coco-id>488060</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>215382</relationship_id>
+      <predicate>stain</predicate>
+      <subject>216031</subject>
+      <object>216032</object>
+    </relationship>
+    <relationship>
+      <relationship_id>215383</relationship_id>
+      <predicate>closet</predicate>
+      <subject>216034</subject>
+      <object>216035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>215384</relationship_id>
+      <predicate>cleaner</predicate>
+      <subject>216024</subject>
+      <object>216037</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dirty</attribute>
+      </attributes>
+      <name>water</name>
+      <h>98</h>
+      <object_id>216031</object_id>
+      <w>399</w>
+      <y>334</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>visible</name>
+      <h>137</h>
+      <object_id>216032</object_id>
+      <w>391</w>
+      <y>296</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>utility</name>
+      <h>491</h>
+      <object_id>216034</object_id>
+      <w>412</w>
+      <y>4</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>visible</name>
+      <h>493</h>
+      <object_id>216035</object_id>
+      <w>415</w>
+      <y>5</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>176</h>
+      <object_id>216024</object_id>
+      <w>163</w>
+      <y>281</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>visible</name>
+      <h>109</h>
+      <object_id>216037</object_id>
+      <w>62</w>
+      <y>101</y>
+      <x>355</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toilet built into th eground with buckets next to it</caption>
+      <caption>some ghetto ass toilets that are nothing more than buckets</caption>
+      <caption>Several buckets lined next to each other under spigots. </caption>
+      <caption>Two buckets sit next to a light blue toilet.</caption>
+      <caption>Three buckets in a room with tile walls.</caption>
+    </captions>
+</image>

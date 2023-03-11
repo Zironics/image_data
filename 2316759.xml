@@ -1,0 +1,76 @@
+<image>
+  <image-id>2316759</image-id>
+  <coco-id>562830</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3158313</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1051940</subject>
+      <object>1051947</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3158314</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1051944</subject>
+      <object>1051945</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>66</h>
+      <object_id>1051940</object_id>
+      <w>68</w>
+      <y>293</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>79</h>
+      <object_id>1051947</object_id>
+      <w>38</w>
+      <y>345</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflection</attribute>
+        <attribute>taking selfie</attribute>
+        <attribute>holding camera</attribute>
+        <attribute>wearing dress</attribute>
+        <attribute>reflected</attribute>
+        <attribute>wearing skirt</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>152</h>
+      <object_id>1051944</object_id>
+      <w>69</w>
+      <y>165</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>dress</name>
+      <h>42</h>
+      <object_id>1051945</object_id>
+      <w>72</w>
+      <y>274</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Picture of mirror with sink in bathroom with flowers</caption>
+      <caption>A wicker-framed bathroom mirror above a wash bowl reflects a woman taking a photograph</caption>
+      <caption>A person takes a selfie in the mirror of a fancy bathroom.</caption>
+      <caption>ladys reflection in mirror of a bathroom, appearing to take a selfie</caption>
+      <caption>The woman is taking a picture in the mirror. </caption>
+    </captions>
+</image>

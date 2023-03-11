@@ -1,0 +1,69 @@
+<image>
+  <image-id>2334126</image-id>
+  <coco-id>242618</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4008102</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3680040</subject>
+      <object>3347472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4008103</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3680040</subject>
+      <object>3347472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4008104</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3680040</subject>
+      <object>3347472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4008105</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3680041</subject>
+      <object>3347472</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>59</h>
+      <object_id>3680040</object_id>
+      <w>295</w>
+      <y>383</y>
+      <x>39</x>
+      <name>line</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>371</h>
+      <object_id>3347472</object_id>
+      <w>330</w>
+      <y>127</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>16</h>
+      <object_id>3680041</object_id>
+      <w>54</w>
+      <y>234</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tennis player preparing to swing at the ball.</caption>
+      <caption>A man on a court swinging a tennis racket.</caption>
+      <caption>A man holding a tennis racket on a tennis field.</caption>
+      <caption>A tennis player dressed all in white plays on grass.</caption>
+      <caption>A male tennis player in action on the court.</caption>
+    </captions>
+</image>

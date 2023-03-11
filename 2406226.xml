@@ -1,0 +1,103 @@
+<image>
+  <image-id>2406226</image-id>
+  <coco-id>98123</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3639695</relationship_id>
+      <predicate>have</predicate>
+      <subject>3812047</subject>
+      <object>3524684</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280646</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3812046</subject>
+      <object>3812048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639697</relationship_id>
+      <predicate>advertising</predicate>
+      <subject>3034717</subject>
+      <object>3034718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639698</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2516938</subject>
+      <object>2516939</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>234</h>
+      <object_id>3812047</object_id>
+      <w>160</w>
+      <y>129</y>
+      <x>122</x>
+      <name>hot dog</name>
+    </object>
+    <object>
+      <name>ketchup</name>
+      <h>225</h>
+      <object_id>3524684</object_id>
+      <w>214</w>
+      <y>126</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>210</h>
+      <object_id>3812046</object_id>
+      <w>290</w>
+      <y>163</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>hot dog</name>
+      <h>177</h>
+      <object_id>3812048</object_id>
+      <w>177</w>
+      <y>152</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>147</h>
+      <object_id>3034717</object_id>
+      <w>318</w>
+      <y>2</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>hot dogs</name>
+      <h>230</h>
+      <object_id>3034718</object_id>
+      <w>156</w>
+      <y>129</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>cups</name>
+      <h>46</h>
+      <object_id>2516938</object_id>
+      <w>47</w>
+      <y>110</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>138</h>
+      <object_id>2516939</object_id>
+      <w>47</w>
+      <y>21</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A hand holding two hot dogs inside of buns.</caption>
+      <caption>Someone holding two foot long hot dogs while standing outside in the snow</caption>
+      <caption>A person is holding two hot dogs in buns.</caption>
+      <caption>a person is holding  two hot dogs and a red trash can</caption>
+      <caption>Two large hot dogs with a white condiment spread on them.</caption>
+    </captions>
+</image>

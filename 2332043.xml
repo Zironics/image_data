@@ -1,0 +1,40 @@
+<image>
+  <image-id>2332043</image-id>
+  <coco-id>42828</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4095833</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3411200</subject>
+      <object>3411205</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green grapes</name>
+      <h>110</h>
+      <object_id>3411200</object_id>
+      <w>84</w>
+      <y>228</y>
+      <x>369</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>404</h>
+      <object_id>3411205</object_id>
+      <w>500</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>THERE ARE FRUITS THAT ARE INA BOWL </caption>
+      <caption>A fresh fruit plate with grapes and oranges.</caption>
+      <caption>apples oranges and grapes on a tan plate</caption>
+      <caption>A brown plate with an arrangement of fruit</caption>
+      <caption>Oranges, grapes, and an apple are on a plate.</caption>
+    </captions>
+</image>

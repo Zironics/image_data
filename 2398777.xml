@@ -1,0 +1,202 @@
+<image>
+  <image-id>2398777</image-id>
+  <coco-id>334883</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3333528</relationship_id>
+      <predicate>about to enter</predicate>
+      <subject>1176041</subject>
+      <object>1176042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333529</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1176042</subject>
+      <object>1176043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333530</relationship_id>
+      <predicate>has</predicate>
+      <subject>1176041</subject>
+      <object>1176044</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333531</relationship_id>
+      <predicate>has</predicate>
+      <subject>1176044</subject>
+      <object>1176045</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333532</relationship_id>
+      <predicate>has</predicate>
+      <subject>1176043</subject>
+      <object>1176042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333533</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1176043</subject>
+      <object>1176042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333534</relationship_id>
+      <predicate>cut into side of</predicate>
+      <subject>1176042</subject>
+      <object>1176043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333535</relationship_id>
+      <predicate>at base of</predicate>
+      <subject>1176040</subject>
+      <object>1176043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333536</relationship_id>
+      <predicate>has</predicate>
+      <subject>1176041</subject>
+      <object>1176044</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333537</relationship_id>
+      <predicate>at entrance to</predicate>
+      <subject>1176043</subject>
+      <object>1176042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333538</relationship_id>
+      <predicate>has</predicate>
+      <subject>1176040</subject>
+      <object>1176049</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333539</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1176042</subject>
+      <object>1176043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333540</relationship_id>
+      <predicate>going through</predicate>
+      <subject>1176041</subject>
+      <object>1176042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333541</relationship_id>
+      <predicate>near</predicate>
+      <subject>1176040</subject>
+      <object>1176043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333542</relationship_id>
+      <predicate>are near</predicate>
+      <subject>1176047</subject>
+      <object>1176040</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3333543</relationship_id>
+      <predicate>are near</predicate>
+      <subject>1176050</subject>
+      <object>1176040</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red white</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>train</name>
+      <h>33</h>
+      <object_id>1176041</object_id>
+      <w>206</w>
+      <y>210</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>tunnel</name>
+      <h>32</h>
+      <object_id>1176042</object_id>
+      <w>33</w>
+      <y>207</y>
+      <x>203</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>183</h>
+      <object_id>1176043</object_id>
+      <w>407</w>
+      <y>105</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>third car</name>
+      <h>19</h>
+      <object_id>1176044</object_id>
+      <w>44</w>
+      <y>211</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>6</h>
+      <object_id>1176045</object_id>
+      <w>7</w>
+      <y>220</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>deep blue</attribute>
+        <attribute>deep</attribute>
+        <attribute>calm</attribute>
+        <attribute>rippled</attribute>
+        <attribute>small</attribute>
+        <attribute>water</attribute>
+      </attributes>
+      <name>sea</name>
+      <h>72</h>
+      <object_id>1176040</object_id>
+      <w>497</w>
+      <y>260</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>waves</name>
+      <h>10</h>
+      <object_id>1176049</object_id>
+      <w>68</w>
+      <y>283</y>
+      <x>294</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>high</attribute>
+      </attributes>
+      <name>rock formations</name>
+      <h>91</h>
+      <object_id>1176047</object_id>
+      <w>57</w>
+      <y>183</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>18</h>
+      <object_id>1176050</object_id>
+      <w>21</w>
+      <y>239</y>
+      <x>424</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train is rounding a corner into a tunnel</caption>
+      <caption>There is a train that is about to go into a tunnel</caption>
+      <caption>Train entering a tunnel as it runs along side a body of water</caption>
+      <caption>A train is traveling though a very beautiful mountain area. </caption>
+      <caption>A train is approaching a tunnel in the side of a mountain.</caption>
+    </captions>
+</image>

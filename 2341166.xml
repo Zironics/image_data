@@ -1,0 +1,148 @@
+<image>
+  <image-id>2341166</image-id>
+  <coco-id>365386</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4623895</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4154719</subject>
+      <object>4154686</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623900</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4154703</subject>
+      <object>4154704</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623904</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4154711</subject>
+      <object>4154712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623905</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4154713</subject>
+      <object>4154714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623907</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>4154717</subject>
+      <object>4154719</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623909</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4154719</subject>
+      <object>4154721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623908</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4154720</subject>
+      <object>4154719</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>158</h>
+      <object_id>4154719</object_id>
+      <w>374</w>
+      <y>96</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>260</h>
+      <object_id>4154686</object_id>
+      <w>431</w>
+      <y>4</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>20</h>
+      <object_id>4154703</object_id>
+      <w>64</w>
+      <y>169</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>train front</name>
+      <h>70</h>
+      <object_id>4154704</object_id>
+      <w>79</w>
+      <y>152</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>20</h>
+      <object_id>4154711</object_id>
+      <w>12</w>
+      <y>190</y>
+      <x>366</x>
+    </object>
+    <object>
+      <name>train front</name>
+      <h>71</h>
+      <object_id>4154712</object_id>
+      <w>68</w>
+      <y>156</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>12</h>
+      <object_id>4154713</object_id>
+      <w>10</w>
+      <y>198</y>
+      <x>399</x>
+    </object>
+    <object>
+      <name>train front</name>
+      <h>68</h>
+      <object_id>4154714</object_id>
+      <w>71</w>
+      <y>160</y>
+      <x>353</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>32</h>
+      <object_id>4154717</object_id>
+      <w>17</w>
+      <y>170</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>240</h>
+      <object_id>4154721</object_id>
+      <w>498</w>
+      <y>91</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>train car</name>
+      <h>84</h>
+      <object_id>4154720</object_id>
+      <w>92</w>
+      <y>116</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train with several cars is on a train track. </caption>
+      <caption>a train is going through the train tacks</caption>
+      <caption> A train travels through a rural area of a town</caption>
+      <caption>A large train is traveling down the tracks. </caption>
+      <caption>A train going down a long track next to the woods.</caption>
+    </captions>
+</image>

@@ -1,0 +1,90 @@
+<image>
+  <image-id>2332325</image-id>
+  <coco-id>195648</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3999506</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2892161</subject>
+      <object>2892162</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3922796</relationship_id>
+      <predicate>deeper in</predicate>
+      <subject>2944067</subject>
+      <object>3646179</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3881504</relationship_id>
+      <predicate>with</predicate>
+      <subject>3049003</subject>
+      <object>3049004</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>leaves</name>
+      <h>151</h>
+      <object_id>2892161</object_id>
+      <w>146</w>
+      <y>263</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>307</h>
+      <object_id>2892162</object_id>
+      <w>147</w>
+      <y>183</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>464</h>
+      <object_id>2944067</object_id>
+      <w>282</w>
+      <y>20</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>385</h>
+      <object_id>3646179</object_id>
+      <w>344</w>
+      <y>86</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small </attribute>
+      </attributes>
+      <name>plant</name>
+      <h>47</h>
+      <object_id>3049003</object_id>
+      <w>27</w>
+      <y>422</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>15</h>
+      <object_id>3049004</object_id>
+      <w>15</w>
+      <y>423</y>
+      <x>226</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A park bench surrounded by a green forest of trees.</caption>
+      <caption>A bench sitting under a group of trees on a trail.</caption>
+      <caption>A tree lined walkway with a garden bench.</caption>
+      <caption>a narrow path with a bench covered with tree branches </caption>
+      <caption>A single bench in the middle of a park.</caption>
+    </captions>
+</image>

@@ -1,0 +1,97 @@
+<image>
+  <image-id>2358962</image-id>
+  <coco-id>313948</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2232261</relationship_id>
+      <predicate>ON</predicate>
+      <subject>797302</subject>
+      <object>797293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2232262</relationship_id>
+      <predicate>ON</predicate>
+      <subject>797305</subject>
+      <object>797293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2232263</relationship_id>
+      <predicate>around</predicate>
+      <subject>797306</subject>
+      <object>797300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2232264</relationship_id>
+      <predicate>ON</predicate>
+      <subject>797293</subject>
+      <object>797307</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stripes</name>
+      <h>17</h>
+      <object_id>797302</object_id>
+      <w>39</w>
+      <y>322</y>
+      <x>206</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>part</attribute>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>carpet</name>
+      <h>10</h>
+      <object_id>797293</object_id>
+      <w>48</w>
+      <y>325</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>paper</name>
+      <h>51</h>
+      <object_id>797305</object_id>
+      <w>69</w>
+      <y>273</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>gate</name>
+      <h>81</h>
+      <object_id>797306</object_id>
+      <w>59</w>
+      <y>107</y>
+      <x>377</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>display</attribute>
+        <attribute>here</attribute>
+        <attribute>silver</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>242</h>
+      <object_id>797300</object_id>
+      <w>249</w>
+      <y>77</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>11</h>
+      <object_id>797307</object_id>
+      <w>22</w>
+      <y>353</y>
+      <x>294</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motorcycle is on display at a convention.</caption>
+      <caption>a motorcycle in a display with people standing near by</caption>
+      <caption>A motorcycle sits behind curtain barriers on a rug.</caption>
+      <caption>A custom made motorcycle in a showroom under a disco ball. </caption>
+      <caption>A motorcycle on display near people standing around and talking.</caption>
+    </captions>
+</image>

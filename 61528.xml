@@ -1,0 +1,79 @@
+<image>
+  <image-id>61528</image-id>
+  <coco-id>92109</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3187545</relationship_id>
+      <predicate>nex to</predicate>
+      <subject>1059951</subject>
+      <object>1059950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3187546</relationship_id>
+      <predicate>close to</predicate>
+      <subject>1059950</subject>
+      <object>1059951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3187547</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1059950</subject>
+      <object>1059951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3187548</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1059950</subject>
+      <object>1059951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3187549</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1059951</subject>
+      <object>1059950</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wide</attribute>
+        <attribute>tall</attribute>
+        <attribute>blurred</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>664</h>
+      <object_id>1059951</object_id>
+      <w>977</w>
+      <y>14</y>
+      <x>24</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>spotted</attribute>
+        <attribute>bored</attribute>
+        <attribute>small</attribute>
+        <attribute>scared</attribute>
+        <attribute>tall</attribute>
+        <attribute>sad</attribute>
+        <attribute>long</attribute>
+        <attribute>brown</attribute>
+        <attribute>big</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>578</h>
+      <object_id>1059950</object_id>
+      <w>746</w>
+      <y>99</y>
+      <x>245</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe's head is pictured in this clear, colorful photo.</caption>
+      <caption>A giraffe is standing tall in the middle of several bright green trees</caption>
+      <caption>The face of a giraffe looking to the side.</caption>
+      <caption>the close up head shot of a giraffe</caption>
+      <caption>this is a giraffe chewing on some leaves</caption>
+    </captions>
+</image>

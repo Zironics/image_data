@@ -1,0 +1,65 @@
+<image>
+  <image-id>498115</image-id>
+  <coco-id>222842</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4053901</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3513368</subject>
+      <object>3513369</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053902</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2559537</subject>
+      <object>2559538</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>flexi</attribute>
+      </attributes>
+      <name>straw</name>
+      <h>425</h>
+      <object_id>3513368</object_id>
+      <w>324</w>
+      <y>1</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>drink</name>
+      <h>314</h>
+      <object_id>3513369</object_id>
+      <w>206</w>
+      <y>137</y>
+      <x>379</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>floating</attribute>
+      </attributes>
+      <name>lemon slice</name>
+      <h>59</h>
+      <object_id>2559537</object_id>
+      <w>87</w>
+      <y>107</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>drink</name>
+      <h>291</h>
+      <object_id>2559538</object_id>
+      <w>166</w>
+      <y>11</y>
+      <x>184</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Partially consumed slices of cake at a restaurant table.</caption>
+      <caption>A wooden table topped with plates of food and cake.</caption>
+      <caption>A half eaten cake on a plate next to drinks on the table.</caption>
+      <caption>two plates with slices of cake on them</caption>
+      <caption>A table with two drinks and two desserts</caption>
+    </captions>
+</image>

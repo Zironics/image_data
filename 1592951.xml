@@ -1,0 +1,43 @@
+<image>
+  <image-id>1592951</image-id>
+  <coco-id>166067</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4088775</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2544274</subject>
+      <object>2791605</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>235</h>
+      <object_id>2544274</object_id>
+      <w>637</w>
+      <y>307</y>
+      <x>233</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <h>588</h>
+      <object_id>2791605</object_id>
+      <w>968</w>
+      <y>58</y>
+      <x>0</x>
+      <name>ship</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large boat with lots of vehicles sitting on top of it.</caption>
+      <caption>The large boat has a delivery truck with many trucks on it's bed.</caption>
+      <caption>A barge carrying trucks of various colors on a murky river.</caption>
+      <caption>a boat carrying a load of cars on the water. </caption>
+      <caption>A semi truck loaded with smaller vehicles travels on a ferry.</caption>
+    </captions>
+</image>

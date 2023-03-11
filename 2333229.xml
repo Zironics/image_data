@@ -1,0 +1,76 @@
+<image>
+  <image-id>2333229</image-id>
+  <coco-id>566893</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4056155</relationship_id>
+      <predicate>between</predicate>
+      <subject>3139324</subject>
+      <object>3139325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056182</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3072457</subject>
+      <object>3699254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4056183</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3699254</subject>
+      <object>3072458</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>gravel</name>
+      <h>33</h>
+      <object_id>3139324</object_id>
+      <w>22</w>
+      <y>206</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>64</h>
+      <object_id>3139325</object_id>
+      <w>94</w>
+      <y>226</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>windshield wipers</name>
+      <h>58</h>
+      <object_id>3072457</object_id>
+      <w>125</w>
+      <y>27</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>51</h>
+      <object_id>3699254</object_id>
+      <w>102</w>
+      <y>30</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>71</h>
+      <object_id>3072458</object_id>
+      <w>75</w>
+      <y>74</y>
+      <x>229</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow and silver train progressing through a track.</caption>
+      <caption>A train on the train tracks with several tracks to the side of the train and a fence on the other side.</caption>
+      <caption>a train sits parked next to some electrical stand </caption>
+      <caption>A train traveling down tracks next to a crossing guard.</caption>
+      <caption>A passenger train that is traveling down the tracks.</caption>
+    </captions>
+</image>

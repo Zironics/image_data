@@ -1,0 +1,108 @@
+<image>
+  <image-id>2413885</image-id>
+  <coco-id>430122</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>157938</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>164216</subject>
+      <object>164221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157939</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>164217</subject>
+      <object>164221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157940</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>164218</subject>
+      <object>164221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157941</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>164219</subject>
+      <object>164221</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157942</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>164220</subject>
+      <object>164221</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>driving</attribute>
+      </attributes>
+      <name>car</name>
+      <h>28</h>
+      <object_id>164216</object_id>
+      <w>37</w>
+      <y>188</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>265</h>
+      <object_id>164221</object_id>
+      <w>342</w>
+      <y>70</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>driving</attribute>
+      </attributes>
+      <name>car</name>
+      <h>26</h>
+      <object_id>164217</object_id>
+      <w>32</w>
+      <y>172</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>driving</attribute>
+      </attributes>
+      <name>car</name>
+      <h>32</h>
+      <object_id>164218</object_id>
+      <w>32</w>
+      <y>173</y>
+      <x>296</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>driving</attribute>
+      </attributes>
+      <name>car</name>
+      <h>26</h>
+      <object_id>164219</object_id>
+      <w>30</w>
+      <y>155</y>
+      <x>325</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>driving</attribute>
+      </attributes>
+      <name>car</name>
+      <h>20</h>
+      <object_id>164220</object_id>
+      <w>25</w>
+      <y>143</y>
+      <x>321</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Several cars are seen going down a city street.</caption>
+      <caption>A group of drivers proceed through a street as the lights turn green</caption>
+      <caption>a couple of cars are waiting in traffic</caption>
+      <caption>Cars are driving down the road next to each other.</caption>
+      <caption>A busy one way street in a city with stoplights and buildings.</caption>
+    </captions>
+</image>

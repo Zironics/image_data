@@ -1,0 +1,85 @@
+<image>
+  <image-id>1592026</image-id>
+  <coco-id>561121</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4079257</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3708166</subject>
+      <object>3708165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4079259</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1605926</subject>
+      <object>3708168</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4079260</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1605927</subject>
+      <object>1605923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boat</name>
+      <h>55</h>
+      <object_id>3708166</object_id>
+      <w>97</w>
+      <y>105</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>145</h>
+      <object_id>3708165</object_id>
+      <w>184</w>
+      <y>162</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>seat</name>
+      <h>33</h>
+      <object_id>1605926</object_id>
+      <w>42</w>
+      <y>248</y>
+      <x>356</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>143</h>
+      <object_id>3708168</object_id>
+      <w>310</w>
+      <y>259</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>103</h>
+      <object_id>1605927</object_id>
+      <w>116</w>
+      <y>277</y>
+      <x>170</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>228</h>
+      <object_id>1605923</object_id>
+      <w>333</w>
+      <y>196</y>
+      <x>171</x>
+      <name>bicycle</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Photograph of an outdoors zone that looks unbelievable. 
+</caption>
+      <caption>A small house boat with a bicycle on the deck.</caption>
+      <caption>a bike on a boat on a body of water </caption>
+      <caption>A bicycle stands parked in front of a houseboat. </caption>
+      <caption>A bicycle with flower pots on a house boat.</caption>
+    </captions>
+</image>

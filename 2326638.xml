@@ -1,0 +1,95 @@
+<image>
+  <image-id>2326638</image-id>
+  <coco-id>469937</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4477455</relationship_id>
+      <predicate>lining</predicate>
+      <subject>3185328</subject>
+      <object>3938966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630750</relationship_id>
+      <predicate>has</predicate>
+      <subject>3442988</subject>
+      <object>3442987</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4477456</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3938967</subject>
+      <object>3465102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4477457</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3252696</subject>
+      <object>3442988</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shrubs</name>
+      <h>59</h>
+      <object_id>3185328</object_id>
+      <w>245</w>
+      <y>208</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>33</h>
+      <object_id>3938966</object_id>
+      <w>472</w>
+      <y>231</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>182</h>
+      <object_id>3442988</object_id>
+      <w>457</w>
+      <y>97</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>left wing</name>
+      <h>47</h>
+      <object_id>3442987</object_id>
+      <w>135</w>
+      <y>183</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>66</h>
+      <object_id>3938967</object_id>
+      <w>467</w>
+      <y>240</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>138</h>
+      <object_id>3465102</object_id>
+      <w>449</w>
+      <y>113</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>90</h>
+      <object_id>3252696</object_id>
+      <w>109</w>
+      <y>102</y>
+      <x>366</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large jetliner sitting on top of a runway.</caption>
+      <caption>An airplane is about to take off from the runway</caption>
+      <caption>An airplane is taxiing on an airport runway.</caption>
+      <caption>a big jumbo jet getting ready to take off </caption>
+      <caption>A blue and white jet airliner landing on runway next to grassy area.</caption>
+    </captions>
+</image>

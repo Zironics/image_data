@@ -1,0 +1,107 @@
+<image>
+  <image-id>2340035</image-id>
+  <coco-id>578411</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4035960</relationship_id>
+      <predicate>around</predicate>
+      <subject>2109501</subject>
+      <object>2109506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035961</relationship_id>
+      <predicate>around</predicate>
+      <subject>2109502</subject>
+      <object>2109506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035962</relationship_id>
+      <predicate>around</predicate>
+      <subject>2109503</subject>
+      <object>2109506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035963</relationship_id>
+      <predicate>around</predicate>
+      <subject>2109504</subject>
+      <object>2109506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035964</relationship_id>
+      <predicate>around</predicate>
+      <subject>3928369</subject>
+      <object>2109506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4456656</relationship_id>
+      <predicate>around</predicate>
+      <subject>3928369</subject>
+      <object>2397923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>15</h>
+      <object_id>2109501</object_id>
+      <w>5</w>
+      <y>277</y>
+      <x>350</x>
+    </object>
+    <object>
+      <name>clock tower</name>
+      <h>199</h>
+      <object_id>2109506</object_id>
+      <w>65</w>
+      <y>120</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>20</h>
+      <object_id>2109502</object_id>
+      <w>8</w>
+      <y>308</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>19</h>
+      <object_id>2109503</object_id>
+      <w>6</w>
+      <y>283</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>20</h>
+      <object_id>2109504</object_id>
+      <w>7</w>
+      <y>322</y>
+      <x>331</x>
+    </object>
+    <object>
+      <h>15</h>
+      <object_id>3928369</object_id>
+      <w>6</w>
+      <y>269</y>
+      <x>249</x>
+      <name>light</name>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>212</h>
+      <object_id>2397923</object_id>
+      <w>73</w>
+      <y>117</y>
+      <x>254</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The clock tower sits in the middle of the pavilion.</caption>
+      <caption>A water fountain with a clock tower in the center next to a beach front. </caption>
+      <caption>A clock tower is near the beach. </caption>
+      <caption>A large clock tower sitting next to a sandy beach.</caption>
+      <caption>A tower sits in a plaza in front of the beach. </caption>
+    </captions>
+</image>

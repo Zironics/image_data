@@ -1,0 +1,111 @@
+<image>
+  <image-id>2409936</image-id>
+  <coco-id>318701</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4275727</relationship_id>
+      <predicate>thrown over back of a</predicate>
+      <subject>229966</subject>
+      <object>3807061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4275728</relationship_id>
+      <predicate>IN</predicate>
+      <subject>229973</subject>
+      <object>3807067</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4275729</relationship_id>
+      <predicate>ON</predicate>
+      <subject>229964</subject>
+      <object>3807068</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4275730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>229965</subject>
+      <object>3807069</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clothing</name>
+      <h>63</h>
+      <object_id>229966</object_id>
+      <w>50</w>
+      <y>147</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>188</h>
+      <object_id>3807061</object_id>
+      <w>140</w>
+      <y>181</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>171</h>
+      <object_id>229973</object_id>
+      <w>161</w>
+      <y>9</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>358</h>
+      <object_id>3807067</object_id>
+      <w>465</w>
+      <y>5</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>pair</attribute>
+      </attributes>
+      <name>brown flip-flop</name>
+      <h>25</h>
+      <object_id>229964</object_id>
+      <w>19</w>
+      <y>274</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>128</h>
+      <object_id>3807068</object_id>
+      <w>357</w>
+      <y>240</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plastic bag</name>
+      <h>41</h>
+      <object_id>229965</object_id>
+      <w>45</w>
+      <y>254</y>
+      <x>371</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>139</h>
+      <object_id>3807069</object_id>
+      <w>328</w>
+      <y>230</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A messing living room with an old fashioned TV in the corner.</caption>
+      <caption>The small room has clothes strewn about everywhere.</caption>
+      <caption>A see through image of a person in a messy room.</caption>
+      <caption>A living area with a man's image superimposed into the picture.</caption>
+      <caption>a living room with a table a chair a tv</caption>
+    </captions>
+</image>

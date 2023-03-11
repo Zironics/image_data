@@ -1,0 +1,40 @@
+<image>
+  <image-id>2349649</image-id>
+  <coco-id>122458</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4413978</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1930060</subject>
+      <object>1930061</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black fur</name>
+      <h>240</h>
+      <object_id>1930060</object_id>
+      <w>271</w>
+      <y>124</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>160</h>
+      <object_id>1930061</object_id>
+      <w>181</w>
+      <y>123</y>
+      <x>120</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The cat's gaze is focused on something above his head.</caption>
+      <caption>A cat in the grass looking up towards the sky.</caption>
+      <caption>Black and white cat looks up as it rest in the grass</caption>
+      <caption>A cat is laying in the grass and looking upward.</caption>
+      <caption>A black and white cat has long white whiskers.</caption>
+    </captions>
+</image>

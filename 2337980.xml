@@ -1,0 +1,65 @@
+<image>
+  <image-id>2337980</image-id>
+  <coco-id>32471</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4083126</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3284424</subject>
+      <object>3284425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4069823</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2792610</subject>
+      <object>2792611</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>63</h>
+      <object_id>3284424</object_id>
+      <w>32</w>
+      <y>179</y>
+      <x>302</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>34</h>
+      <object_id>3284425</object_id>
+      <w>29</w>
+      <y>183</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>53</h>
+      <object_id>2792610</object_id>
+      <w>25</w>
+      <y>176</y>
+      <x>311</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white shirt</name>
+      <h>20</h>
+      <object_id>2792611</object_id>
+      <w>14</w>
+      <y>179</y>
+      <x>316</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Vehicles parked in front of a large cemetery.</caption>
+      <caption>A parking lot with cars and motorcycles is in front of a cemetery.</caption>
+      <caption>A parking lot with vehicles next to a cemetery.</caption>
+      <caption>A couple looking at a couple of motorcycles in a parking lot. </caption>
+      <caption>A parking lot at a cemetery with cars, motorcycles, and 2 people standing in it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,51 @@
+<image>
+  <image-id>2393937</image-id>
+  <coco-id>20133</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4611253</relationship_id>
+      <predicate>charging on</predicate>
+      <subject>4122560</subject>
+      <object>4122491</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4611265</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4122560</subject>
+      <object>4122545</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>144</h>
+      <object_id>4122560</object_id>
+      <w>103</w>
+      <y>221</y>
+      <x>242</x>
+      <name>cellphone</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>255</h>
+      <object_id>4122491</object_id>
+      <w>472</w>
+      <y>112</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>366</h>
+      <object_id>4122545</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small solar panel array for charging cell phones.</caption>
+      <caption>A cell phone is plugged into a solar charger.</caption>
+      <caption> a table containing three electronics and a banana</caption>
+      <caption>A black table holding a solar powered cellphone and a banana.</caption>
+      <caption>An old couple of cell phones and a banana is on the table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,163 @@
+<image>
+  <image-id>2388485</image-id>
+  <coco-id>289644</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3490383</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1268555</subject>
+      <object>1268556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490384</relationship_id>
+      <predicate>has</predicate>
+      <subject>1268556</subject>
+      <object>1268555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490385</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1268558</subject>
+      <object>1268556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490386</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>1268559</subject>
+      <object>1268556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490387</relationship_id>
+      <predicate>and</predicate>
+      <subject>1268557</subject>
+      <object>1268560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490388</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1268555</subject>
+      <object>1268556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490389</relationship_id>
+      <predicate>cooking in</predicate>
+      <subject>1268555</subject>
+      <object>1268556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490390</relationship_id>
+      <predicate>at bottom of</predicate>
+      <subject>1268564</subject>
+      <object>1268556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490391</relationship_id>
+      <predicate>and</predicate>
+      <subject>1268557</subject>
+      <object>1268563</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>being cooked</attribute>
+        <attribute>many in total</attribute>
+      </attributes>
+      <name>food</name>
+      <h>267</h>
+      <object_id>1268555</object_id>
+      <w>434</w>
+      <y>14</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>a wok</attribute>
+      </attributes>
+      <name>pan</name>
+      <h>302</h>
+      <object_id>1268556</object_id>
+      <w>500</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>black part</name>
+      <h>119</h>
+      <object_id>1268558</object_id>
+      <w>133</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>stove</name>
+      <h>332</h>
+      <object_id>1268559</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beige colored</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>chicken</name>
+      <h>78</h>
+      <object_id>1268557</object_id>
+      <w>97</w>
+      <y>180</y>
+      <x>391</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green in appearance</attribute>
+        <attribute>cooked</attribute>
+        <attribute>being cooked</attribute>
+        <attribute>green</attribute>
+        <attribute>green looking</attribute>
+        <attribute>green colored</attribute>
+        <attribute>being cook</attribute>
+        <attribute>cooking</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>91</h>
+      <object_id>1268560</object_id>
+      <w>132</w>
+      <y>79</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>sauce</name>
+      <h>58</h>
+      <object_id>1268564</object_id>
+      <w>60</w>
+      <y>185</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cooking in the pan</attribute>
+        <attribute>being cooked</attribute>
+        <attribute>cooking</attribute>
+        <attribute>cooked</attribute>
+      </attributes>
+      <name>vegetables</name>
+      <h>155</h>
+      <object_id>1268563</object_id>
+      <w>260</w>
+      <y>124</y>
+      <x>60</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Broccoli and chicken are cooking in a wok. </caption>
+      <caption>A wok filled with broccoli and chicken. </caption>
+      <caption>Chicken and broccoli are in a skillet on a stove burner.</caption>
+      <caption>A pan filled with broccoli and some type of meat.</caption>
+      <caption>A pot with broccoli and chicken is cooking. </caption>
+    </captions>
+</image>

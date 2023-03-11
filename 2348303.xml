@@ -1,0 +1,193 @@
+<image>
+  <image-id>2348303</image-id>
+  <coco-id>468912</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2563347</relationship_id>
+      <predicate>has</predicate>
+      <subject>3905966</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4420231</relationship_id>
+      <predicate>on outside of</predicate>
+      <subject>3905967</subject>
+      <object>3905966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563348</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>3905967</subject>
+      <object>3905966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563349</relationship_id>
+      <predicate>has a</predicate>
+      <subject>3905966</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4420232</relationship_id>
+      <predicate>with outside</predicate>
+      <subject>3905966</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4420233</relationship_id>
+      <predicate>with outside</predicate>
+      <subject>3905966</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563350</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>883297</subject>
+      <object>3905966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563351</relationship_id>
+      <predicate>are on</predicate>
+      <subject>883298</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563352</relationship_id>
+      <predicate>has</predicate>
+      <subject>3905967</subject>
+      <object>883299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563353</relationship_id>
+      <predicate>has</predicate>
+      <subject>3905966</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563354</relationship_id>
+      <predicate>has</predicate>
+      <subject>3905967</subject>
+      <object>883299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563355</relationship_id>
+      <predicate>below</predicate>
+      <subject>883297</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563356</relationship_id>
+      <predicate>below</predicate>
+      <subject>883300</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563357</relationship_id>
+      <predicate>are on</predicate>
+      <subject>883299</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563358</relationship_id>
+      <predicate>are on</predicate>
+      <subject>883299</subject>
+      <object>3905967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563359</relationship_id>
+      <predicate>next to</predicate>
+      <subject>883301</subject>
+      <object>3905966</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>towering</attribute>
+        <attribute>designed</attribute>
+        <attribute>shadowed</attribute>
+      </attributes>
+      <name>building</name>
+      <h>497</h>
+      <object_id>3905966</object_id>
+      <w>370</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>106</h>
+      <object_id>3905967</object_id>
+      <w>95</w>
+      <y>72</y>
+      <x>146</x>
+      <name>clock</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cement</attribute>
+        <attribute>green</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>statue</name>
+      <h>85</h>
+      <object_id>883297</object_id>
+      <w>41</w>
+      <y>219</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hands</name>
+      <h>57</h>
+      <object_id>883298</object_id>
+      <w>27</w>
+      <y>92</y>
+      <x>179</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>numerals</attribute>
+        <attribute>roman</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>95</h>
+      <object_id>883299</object_id>
+      <w>97</w>
+      <y>75</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>lined</attribute>
+      </attributes>
+      <name>window</name>
+      <h>80</h>
+      <object_id>883300</object_id>
+      <w>56</w>
+      <y>417</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>340</h>
+      <object_id>883301</object_id>
+      <w>41</w>
+      <y>1</y>
+      <x>328</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall brown clock tower on a clear day</caption>
+      <caption>A clock tower with a statue in front of it.</caption>
+      <caption>A close up of a stone building's clock tower.</caption>
+      <caption>A clock tower with statures and windows around it.</caption>
+      <caption>A picture of a clock and ornamental sculpture on a building. </caption>
+    </captions>
+</image>

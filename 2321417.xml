@@ -1,0 +1,40 @@
+<image>
+  <image-id>2321417</image-id>
+  <coco-id>429131</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4539535</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3516712</subject>
+      <object>3516711</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>beige</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>98</h>
+      <object_id>3516712</object_id>
+      <w>87</w>
+      <y>153</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>175</h>
+      <object_id>3516711</object_id>
+      <w>174</w>
+      <y>101</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people playing frisbees outside of tents.</caption>
+      <caption>A group of people playing with frisbees in a field with many tents.</caption>
+      <caption>A group of people playing frisbee in grassy area next to tents.</caption>
+      <caption>A group of adults playing frisbee on the grass with tents in the background.</caption>
+      <caption>some tents and people on some grass playing frisbee</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2330767</image-id>
+  <coco-id>147729</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4620279</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4145483</subject>
+      <object>4145484</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>these</attribute>
+      </attributes>
+      <name>people</name>
+      <h>310</h>
+      <object_id>4145483</object_id>
+      <w>485</w>
+      <y>59</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>crowd</name>
+      <h>370</h>
+      <object_id>4145484</object_id>
+      <w>486</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>People gathered taking pictures with a cell phone.</caption>
+      <caption>A man holding up his smart phone to take a picture.</caption>
+      <caption>a man holding his cell phone up in a crowd</caption>
+      <caption>some people sitting and one man looking at his cellphone</caption>
+      <caption>A man in a crowd taking pictures with a cell phone.</caption>
+    </captions>
+</image>

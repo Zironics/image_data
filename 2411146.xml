@@ -1,0 +1,102 @@
+<image>
+  <image-id>2411146</image-id>
+  <coco-id>57739</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3209234</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1082241</subject>
+      <object>1082237</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3209235</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1082244</subject>
+      <object>1082243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3209236</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1082245</subject>
+      <object>1082246</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dull</attribute>
+      </attributes>
+      <name>blade</name>
+      <h>102</h>
+      <object_id>1082241</object_id>
+      <w>74</w>
+      <y>7</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>part of tool set</attribute>
+      </attributes>
+      <name>knife</name>
+      <h>117</h>
+      <object_id>1082237</object_id>
+      <w>206</w>
+      <y>42</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>line</name>
+      <h>80</h>
+      <object_id>1082244</object_id>
+      <w>28</w>
+      <y>138</y>
+      <x>197</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>93</h>
+      <object_id>1082243</object_id>
+      <w>39</w>
+      <y>25</y>
+      <x>448</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflecting</attribute>
+      </attributes>
+      <name>light</name>
+      <h>77</h>
+      <object_id>1082245</object_id>
+      <w>34</w>
+      <y>220</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>crossed</attribute>
+        <attribute>long</attribute>
+        <attribute>angled</attribute>
+      </attributes>
+      <name>tool</name>
+      <h>282</h>
+      <object_id>1082246</object_id>
+      <w>490</w>
+      <y>22</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Strange metallic contraption with a maroon handle on it.</caption>
+      <caption>A piece of sculpture that looks like a big bird.</caption>
+      <caption>A cluster of pairs of scissors standing next to each other.</caption>
+      <caption>Some kind of metal work put on display.</caption>
+      <caption>A pair of scissor hands similar to that of the movie Edward Scissor Hands.</caption>
+    </captions>
+</image>

@@ -1,0 +1,143 @@
+<image>
+  <image-id>2367765</image-id>
+  <coco-id>100547</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2047700</relationship_id>
+      <predicate>OF</predicate>
+      <subject>750260</subject>
+      <object>750261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2047701</relationship_id>
+      <predicate>are in</predicate>
+      <subject>750258</subject>
+      <object>750263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2047702</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>750258</subject>
+      <object>750261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2047703</relationship_id>
+      <predicate>are inside of a</predicate>
+      <subject>750262</subject>
+      <object>750261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2047704</relationship_id>
+      <predicate>ON</predicate>
+      <subject>750264</subject>
+      <object>750261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2047705</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>750258</subject>
+      <object>750265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2047706</relationship_id>
+      <predicate>ON</predicate>
+      <subject>750264</subject>
+      <object>750261</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>inside</name>
+      <h>220</h>
+      <object_id>750260</object_id>
+      <w>299</w>
+      <y>5</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paper</attribute>
+        <attribute>white</attribute>
+        <attribute>white castle</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>234</h>
+      <object_id>750261</object_id>
+      <w>318</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>boxed</attribute>
+        <attribute>small</attribute>
+        <attribute>contained</attribute>
+        <attribute>separate</attribute>
+        <attribute>cooked</attribute>
+        <attribute>tabled</attribute>
+        <attribute>logoed</attribute>
+        <attribute>packaged</attribute>
+        <attribute>slders</attribute>
+        <attribute>sandwiched</attribute>
+        <attribute>uneaten</attribute>
+        <attribute>whote</attribute>
+      </attributes>
+      <name>burgers</name>
+      <h>129</h>
+      <object_id>750258</object_id>
+      <w>208</w>
+      <y>76</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>buns</name>
+      <h>90</h>
+      <object_id>750263</object_id>
+      <w>110</w>
+      <y>97</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>white</attribute>
+        <attribute>colored</attribute>
+        <attribute>cardboard</attribute>
+      </attributes>
+      <name>boxes</name>
+      <h>146</h>
+      <object_id>750262</object_id>
+      <w>203</w>
+      <y>66</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white castle</attribute>
+        <attribute>type</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>62</h>
+      <object_id>750264</object_id>
+      <w>28</w>
+      <y>108</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>bun</name>
+      <h>96</h>
+      <object_id>750265</object_id>
+      <w>118</w>
+      <y>96</y>
+      <x>130</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three white castle hamburgers sitting in a white castle food bag.</caption>
+      <caption>Two White Castle Cheeseburgers still in their cartons</caption>
+      <caption>Several White Castle hamburgers sitting in a bag.</caption>
+      <caption>Two hamburgers and an unknown package are inside a bag.</caption>
+      <caption>Two cheese burgers placed in a box inside a white bag.</caption>
+    </captions>
+</image>

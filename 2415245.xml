@@ -1,0 +1,102 @@
+<image>
+  <image-id>2415245</image-id>
+  <coco-id>21353</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>138604</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>143293</subject>
+      <object>143294</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138605</relationship_id>
+      <predicate>ON</predicate>
+      <subject>143296</subject>
+      <object>143297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138606</relationship_id>
+      <predicate>with</predicate>
+      <subject>143294</subject>
+      <object>143293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>138607</relationship_id>
+      <predicate>ON</predicate>
+      <subject>143295</subject>
+      <object>143302</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>remote</name>
+      <h>15</h>
+      <object_id>143293</object_id>
+      <w>36</w>
+      <y>231</y>
+      <x>314</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>coffee table</attribute>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>119</h>
+      <object_id>143294</object_id>
+      <w>139</w>
+      <y>211</y>
+      <x>250</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>electric socket</name>
+      <h>20</h>
+      <object_id>143296</object_id>
+      <w>16</w>
+      <y>180</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>226</h>
+      <object_id>143297</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>turned on</attribute>
+      </attributes>
+      <name>television</name>
+      <h>79</h>
+      <object_id>143295</object_id>
+      <w>56</w>
+      <y>131</y>
+      <x>443</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>stand</name>
+      <h>115</h>
+      <object_id>143302</object_id>
+      <w>71</w>
+      <y>183</y>
+      <x>428</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A living room filled with furniture and two windows.</caption>
+      <caption>The TV is on in the loving room but no one is watching it</caption>
+      <caption>A living room with two red chairs on front of a television set.</caption>
+      <caption>A television plays in an empty living room.</caption>
+      <caption>A red sofa facing a tube television set.</caption>
+    </captions>
+</image>

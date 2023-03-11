@@ -1,0 +1,76 @@
+<image>
+  <image-id>2331633</image-id>
+  <coco-id>29096</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260836</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3678716</subject>
+      <object>3678719</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260837</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3306946</subject>
+      <object>3678719</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260838</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3287691</subject>
+      <object>3287692</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tire</name>
+      <h>100</h>
+      <object_id>3678716</object_id>
+      <w>72</w>
+      <y>210</y>
+      <x>284</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>vehicle.</name>
+      <h>264</h>
+      <object_id>3678719</object_id>
+      <w>323</w>
+      <y>40</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>40</h>
+      <object_id>3306946</object_id>
+      <w>17</w>
+      <y>108</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>47</h>
+      <object_id>3287691</object_id>
+      <w>32</w>
+      <y>102</y>
+      <x>383</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>265</h>
+      <object_id>3287692</object_id>
+      <w>323</w>
+      <y>41</y>
+      <x>126</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men walk away from a sport utility vehicle in the desert.</caption>
+      <caption>a white and black car with surfboards on top and two people</caption>
+      <caption>An old car in an area filled with snow</caption>
+      <caption>A car and two men walking in the desert.</caption>
+      <caption>Two people walking away from a van parked in the desert.</caption>
+    </captions>
+</image>

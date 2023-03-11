@@ -1,0 +1,101 @@
+<image>
+  <image-id>2334538</image-id>
+  <coco-id>77159</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3750311</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3331818</subject>
+      <object>3331820</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4453159</relationship_id>
+      <predicate>beyond a</predicate>
+      <subject>2548939</subject>
+      <object>3926401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3750317</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2049015</subject>
+      <object>3325411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4453161</relationship_id>
+      <predicate>going down</predicate>
+      <subject>2049015</subject>
+      <object>2049016</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>117</h>
+      <object_id>3331818</object_id>
+      <w>182</w>
+      <y>344</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>229</h>
+      <object_id>3331820</object_id>
+      <w>98</w>
+      <y>264</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pine</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>244</h>
+      <object_id>2548939</object_id>
+      <w>157</w>
+      <y>142</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>steep slope</name>
+      <h>234</h>
+      <object_id>3926401</object_id>
+      <w>347</w>
+      <y>261</y>
+      <x>2</x>
+    </object>
+    <object>
+      <h>125</h>
+      <object_id>2049015</object_id>
+      <w>36</w>
+      <y>304</y>
+      <x>155</x>
+      <name>skier</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>14</h>
+      <object_id>3325411</object_id>
+      <w>13</w>
+      <y>307</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>129</h>
+      <object_id>2049016</object_id>
+      <w>148</w>
+      <y>252</y>
+      <x>217</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lone skier on a sunny, but snowy, mountain</caption>
+      <caption>A person skis down a snow covered hill. </caption>
+      <caption>A man riding a snowboard down a snow covered slope.</caption>
+      <caption>A skier on a steep snowy hill with evergreen trees.</caption>
+      <caption>A lone skier is on a mountain side near large pine trees that have snow on the branches.</caption>
+    </captions>
+</image>

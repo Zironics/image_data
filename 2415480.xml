@@ -1,0 +1,90 @@
+<image>
+  <image-id>2415480</image-id>
+  <coco-id>14283</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4253649</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3195760</subject>
+      <object>3195759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3735683</relationship_id>
+      <predicate>Attached to</predicate>
+      <subject>3350293</subject>
+      <object>3567197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3915060</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3268954</subject>
+      <object>3268955</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>103</h>
+      <object_id>3195760</object_id>
+      <w>141</w>
+      <y>194</y>
+      <x>171</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>uniform</name>
+      <h>276</h>
+      <object_id>3195759</object_id>
+      <w>146</w>
+      <y>85</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>strap</name>
+      <h>55</h>
+      <object_id>3350293</object_id>
+      <w>67</w>
+      <y>109</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>protector</name>
+      <h>58</h>
+      <object_id>3567197</object_id>
+      <w>54</w>
+      <y>99</y>
+      <x>399</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>lines</name>
+      <h>47</h>
+      <object_id>3268954</object_id>
+      <w>112</w>
+      <y>307</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>143</h>
+      <object_id>3268955</object_id>
+      <w>497</w>
+      <y>230</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two baseball players are playing on a field</caption>
+      <caption>Two baseball players are walking on the mound of a field.</caption>
+      <caption>Two baseball players in the middle of a game.</caption>
+      <caption>A baseball catcher and batter in motion near home-plate. </caption>
+      <caption>a couple of baseball players next to home plate</caption>
+    </captions>
+</image>

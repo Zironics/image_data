@@ -1,0 +1,87 @@
+<image>
+  <image-id>2415728</image-id>
+  <coco-id>155003</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4253831</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3791642</subject>
+      <object>3791644</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253829</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3791641</subject>
+      <object>3791643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253830</relationship_id>
+      <predicate>has</predicate>
+      <subject>2875540</subject>
+      <object>3791641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253832</relationship_id>
+      <predicate>has</predicate>
+      <subject>2875541</subject>
+      <object>3791642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>120</h>
+      <object_id>3791642</object_id>
+      <w>87</w>
+      <y>1</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>slots</name>
+      <h>94</h>
+      <object_id>3791644</object_id>
+      <w>272</w>
+      <y>7</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>160</h>
+      <object_id>3791641</object_id>
+      <w>172</w>
+      <y>1</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>slots</name>
+      <h>200</h>
+      <object_id>3791643</object_id>
+      <w>193</w>
+      <y>107</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>299</h>
+      <object_id>2875540</object_id>
+      <w>202</w>
+      <y>18</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>302</h>
+      <object_id>2875541</object_id>
+      <w>190</w>
+      <y>5</y>
+      <x>54</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two giraffes sitting in a room with a red fence.</caption>
+      <caption>The two giraffes are caged for the night.  </caption>
+      <caption>two giraffes behind a fence looking at the camera </caption>
+      <caption>an image of giraffes that are in a barn</caption>
+      <caption>A look at two giraffes standing behind a red metal fence. </caption>
+    </captions>
+</image>

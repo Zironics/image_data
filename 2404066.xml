@@ -1,0 +1,80 @@
+<image>
+  <image-id>2404066</image-id>
+  <coco-id>47256</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3253587</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1119080</subject>
+      <object>1119081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>735586</relationship_id>
+      <predicate>IN</predicate>
+      <subject>378750</subject>
+      <object>378751</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253595</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1119080</subject>
+      <object>1119081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253607</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1119080</subject>
+      <object>1119081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253611</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1119080</subject>
+      <object>1119081</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>62</h>
+      <object_id>1119080</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>62</h>
+      <object_id>1119081</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>276</h>
+      <object_id>378750</object_id>
+      <w>363</w>
+      <y>98</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dim lit</attribute>
+      </attributes>
+      <name>restaurant</name>
+      <h>495</h>
+      <object_id>378751</object_id>
+      <w>370</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are people at a table with drinks.</caption>
+      <caption>Man and woman sitting next to each other at a dinner table. </caption>
+      <caption>A woman sitting at a table with a man.</caption>
+      <caption>A man and a woman sitting at a table at a restaurant. </caption>
+      <caption>Some friends are out having a good time.</caption>
+    </captions>
+</image>

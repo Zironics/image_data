@@ -1,0 +1,71 @@
+<image>
+  <image-id>2366836</image-id>
+  <coco-id>369082</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4365567</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3876878</subject>
+      <object>2066917</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4365566</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3876877</subject>
+      <object>2066917</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4365568</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3876877</subject>
+      <object>3876879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4365569</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3876878</subject>
+      <object>3876879</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>appliances</name>
+      <h>61</h>
+      <object_id>3876878</object_id>
+      <w>45</w>
+      <y>173</y>
+      <x>439</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>41</h>
+      <object_id>2066917</object_id>
+      <w>105</w>
+      <y>217</y>
+      <x>374</x>
+    </object>
+    <object>
+      <name>appliances</name>
+      <h>72</h>
+      <object_id>3876877</object_id>
+      <w>33</w>
+      <y>164</y>
+      <x>415</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>42</h>
+      <object_id>3876879</object_id>
+      <w>124</w>
+      <y>214</y>
+      <x>366</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kitchen with a stove, oven, cabinets and blender.</caption>
+      <caption>A kitchen that has wooden cabinets and a kettle on the stove.</caption>
+      <caption>There is limited counter space in this kitchen.</caption>
+      <caption>A kitchen with kitchen decor and kitchen items.</caption>
+      <caption>A kitchen with a standard stove top and wooden cabinets</caption>
+    </captions>
+</image>

@@ -1,0 +1,82 @@
+<image>
+  <image-id>2393626</image-id>
+  <coco-id>574001</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1060368</relationship_id>
+      <predicate>has</predicate>
+      <subject>471125</subject>
+      <object>471113</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1060369</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>471113</subject>
+      <object>471119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1060370</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>471113</subject>
+      <object>471119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1060371</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>471123</subject>
+      <object>471124</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>image</name>
+      <h>333</h>
+      <object_id>471125</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>274</h>
+      <object_id>471113</object_id>
+      <w>428</w>
+      <y>1</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>331</h>
+      <object_id>471119</object_id>
+      <w>499</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>146</h>
+      <object_id>471123</object_id>
+      <w>89</w>
+      <y>130</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>toilet bowl</name>
+      <h>68</h>
+      <object_id>471124</object_id>
+      <w>22</w>
+      <y>265</y>
+      <x>258</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tub sitting in a bathroom next to a  toilet.</caption>
+      <caption>a bath room with a small bath tub</caption>
+      <caption>A full view of a place with a glass frame. </caption>
+      <caption>An empty bathtub with lift in a bathroom.</caption>
+      <caption>A shower that has a large tub space.</caption>
+    </captions>
+</image>

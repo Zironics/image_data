@@ -1,0 +1,276 @@
+<image>
+  <image-id>2352668</image-id>
+  <coco-id>57149</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3771246</relationship_id>
+      <predicate>above</predicate>
+      <subject>1842221</subject>
+      <object>3582302</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3771247</relationship_id>
+      <predicate>waiting for</predicate>
+      <subject>3582303</subject>
+      <object>2086401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3771248</relationship_id>
+      <predicate>waiting for</predicate>
+      <subject>3582304</subject>
+      <object>2086401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3771249</relationship_id>
+      <predicate>going across</predicate>
+      <subject>2091758</subject>
+      <object>3582305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3771250</relationship_id>
+      <predicate>on each side of</predicate>
+      <subject>2226666</subject>
+      <object>3582306</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3771251</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1872935</subject>
+      <object>2375712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3771252</relationship_id>
+      <predicate>on or side of</predicate>
+      <subject>3582307</subject>
+      <object>2483350</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237241</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3782558</subject>
+      <object>2582568</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237242</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3582304</subject>
+      <object>1731015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237243</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1695123</subject>
+      <object>2375712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237244</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1954018</subject>
+      <object>1954019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237245</relationship_id>
+      <predicate>on black</predicate>
+      <subject>2212116</subject>
+      <object>2365583</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>41</h>
+      <object_id>1842221</object_id>
+      <w>78</w>
+      <y>96</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>train crossing</name>
+      <h>113</h>
+      <object_id>3582302</object_id>
+      <w>385</w>
+      <y>143</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>two cars</name>
+      <h>122</h>
+      <object_id>3582303</object_id>
+      <w>197</w>
+      <y>199</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>83</h>
+      <object_id>2086401</object_id>
+      <w>305</w>
+      <y>154</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>school bus</name>
+      <h>31</h>
+      <object_id>3582304</object_id>
+      <w>101</w>
+      <y>175</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>84</h>
+      <object_id>2091758</object_id>
+      <w>407</w>
+      <y>157</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>97</h>
+      <object_id>3582305</object_id>
+      <w>449</w>
+      <y>224</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>telephone poles</name>
+      <h>117</h>
+      <object_id>2226666</object_id>
+      <w>185</w>
+      <y>8</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>98</h>
+      <object_id>3582306</object_id>
+      <w>393</w>
+      <y>233</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>pine tree</name>
+      <h>247</h>
+      <object_id>1872935</object_id>
+      <w>86</w>
+      <y>11</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tarmacked</attribute>
+      </attributes>
+      <name>road</name>
+      <h>93</h>
+      <object_id>2375712</object_id>
+      <w>495</w>
+      <y>238</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>buildings</name>
+      <h>72</h>
+      <object_id>3582307</object_id>
+      <w>434</w>
+      <y>110</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rail</attribute>
+      </attributes>
+      <name>crossing</name>
+      <h>41</h>
+      <object_id>2483350</object_id>
+      <w>137</w>
+      <y>102</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red and white</attribute>
+      </attributes>
+      <name>barrier</name>
+      <h>11</h>
+      <object_id>3782558</object_id>
+      <w>58</w>
+      <y>212</y>
+      <x>331</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>89</h>
+      <object_id>2582568</object_id>
+      <w>393</w>
+      <y>158</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>barrier</name>
+      <h>17</h>
+      <object_id>1731015</object_id>
+      <w>70</w>
+      <y>207</y>
+      <x>331</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>23</h>
+      <object_id>1695123</object_id>
+      <w>26</w>
+      <y>140</y>
+      <x>403</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>40</h>
+      <object_id>1954018</object_id>
+      <w>17</w>
+      <y>167</y>
+      <x>443</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>building</name>
+      <h>91</h>
+      <object_id>1954019</object_id>
+      <w>80</w>
+      <y>145</y>
+      <x>419</x>
+    </object>
+    <object>
+      <name>white sign</name>
+      <h>17</h>
+      <object_id>2212116</object_id>
+      <w>9</w>
+      <y>184</y>
+      <x>464</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>electric</attribute>
+      </attributes>
+      <h>209</h>
+      <object_id>2365583</object_id>
+      <w>17</w>
+      <y>49</y>
+      <x>461</x>
+      <name>pole</name>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A school bus and a silver car waiting at a railroad crossing for a train to go past.</caption>
+      <caption>Cars and a bus stopped for a train at a crossing.</caption>
+      <caption>A train traveling across a road in front of a school bus.</caption>
+      <caption>Automobiles stopped at an intersection because of a passing train. </caption>
+      <caption>A silver car is stopped in front of train tracks as a train crosses.</caption>
+    </captions>
+</image>

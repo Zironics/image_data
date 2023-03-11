@@ -1,0 +1,68 @@
+<image>
+  <image-id>2354502</image-id>
+  <coco-id>287545</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3743573</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2700168</subject>
+      <object>3570601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4228329</relationship_id>
+      <predicate>has</predicate>
+      <subject>1681079</subject>
+      <object>2569448</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>32</h>
+      <object_id>2700168</object_id>
+      <w>113</w>
+      <y>342</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>zoo</name>
+      <h>365</h>
+      <object_id>3570601</object_id>
+      <w>494</w>
+      <y>1</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>girrafe</name>
+      <h>196</h>
+      <object_id>1681079</object_id>
+      <w>272</w>
+      <y>84</y>
+      <x>47</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stading</attribute>
+      </attributes>
+      <h>80</h>
+      <object_id>2569448</object_id>
+      <w>61</w>
+      <y>191</y>
+      <x>181</x>
+      <name>baby giraffe</name>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A couple of giraffe standing in a building.</caption>
+      <caption>Two giraffes look over a railing blockade. </caption>
+      <caption>A couple of giraffe standing next to each other.</caption>
+      <caption>Two giraffes have a big log in their enclosure.</caption>
+      <caption>A large and small giraffe are looking at something while standing next to a log.</caption>
+    </captions>
+</image>

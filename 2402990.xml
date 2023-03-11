@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402990</image-id>
+  <coco-id>506707</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3265633</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1129084</subject>
+      <object>1129085</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3265639</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1129086</subject>
+      <object>1129087</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3265675</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1129086</subject>
+      <object>1129087</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3265679</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1129086</subject>
+      <object>1129087</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3265680</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1129086</subject>
+      <object>1129087</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1129084</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1129085</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1129086</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1129087</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A baseball player runs into home plate during a game.</caption>
+      <caption>A man is running the bases in a baseball game. </caption>
+      <caption>A group of players playing a baseball game.</caption>
+      <caption>A man is runing to home base in a baseball game.</caption>
+      <caption>A man in a white shirt and gray pants walks toward a grassy area as kids in baseball uniforms and an umpire are near him.</caption>
+    </captions>
+</image>

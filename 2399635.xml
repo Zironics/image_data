@@ -1,0 +1,40 @@
+<image>
+  <image-id>2399635</image-id>
+  <coco-id>12280</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4682158</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4301185</subject>
+      <object>4301186</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>104</h>
+      <object_id>4301185</object_id>
+      <w>46</w>
+      <y>187</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>17</h>
+      <object_id>4301186</object_id>
+      <w>22</w>
+      <y>184</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>An airport with a woman carrying a piece of luggage.</caption>
+      <caption>THERE IS A MAN WALKING IN THE AIRPORT</caption>
+      <caption>A woman in a coat and cat is towing luggage through an airport.</caption>
+      <caption>A lone woman walks across the terminal with her bags.</caption>
+      <caption>an airport lobby with a woman hauling baggage</caption>
+    </captions>
+</image>

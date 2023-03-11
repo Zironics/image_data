@@ -1,0 +1,78 @@
+<image>
+  <image-id>2414970</image-id>
+  <coco-id>538411</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>143481</relationship_id>
+      <predicate>IN</predicate>
+      <subject>148518</subject>
+      <object>148516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143482</relationship_id>
+      <predicate>IN</predicate>
+      <subject>148508</subject>
+      <object>148516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143483</relationship_id>
+      <predicate>IN</predicate>
+      <subject>148511</subject>
+      <object>148516</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>tangerine</name>
+      <h>35</h>
+      <object_id>148518</object_id>
+      <w>48</w>
+      <y>105</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>over flowing</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>57</h>
+      <object_id>148516</object_id>
+      <w>124</w>
+      <y>117</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>lemon</name>
+      <h>65</h>
+      <object_id>148508</object_id>
+      <w>75</w>
+      <y>73</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>lime</name>
+      <h>58</h>
+      <object_id>148511</object_id>
+      <w>38</w>
+      <y>78</y>
+      <x>201</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Apples, lemons and a banana next to an orange on top of a black table.</caption>
+      <caption>Several kinds of fruit on a table and in a bowl.</caption>
+      <caption>a bowl of fruit with pears, lemons and limes spilling over</caption>
+      <caption>Bananas, lemons, and pears, on a black table.</caption>
+      <caption>Some bananas, pears, lemons and other fruit are sitting together.</caption>
+    </captions>
+</image>

@@ -1,0 +1,94 @@
+<image>
+  <image-id>2399029</image-id>
+  <coco-id>388615</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3329044</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1173068</subject>
+      <object>1173067</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329045</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1173068</subject>
+      <object>1173081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329046</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1173060</subject>
+      <object>1173068</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3329047</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1173064</subject>
+      <object>1173068</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>biting</attribute>
+        <attribute>here</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>man</name>
+      <h>322</h>
+      <object_id>1173068</object_id>
+      <w>362</w>
+      <y>6</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>hot dog</name>
+      <h>83</h>
+      <object_id>1173067</object_id>
+      <w>85</w>
+      <y>156</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>eyeglasses</name>
+      <h>75</h>
+      <object_id>1173081</object_id>
+      <w>218</w>
+      <y>54</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>215</h>
+      <object_id>1173060</object_id>
+      <w>306</w>
+      <y>118</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>69</h>
+      <object_id>1173064</object_id>
+      <w>36</w>
+      <y>77</y>
+      <x>146</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man eats a hot dog on the outside.</caption>
+      <caption>a close up of a person eating a sandwich</caption>
+      <caption>A person sitting down biting into a sandwich.</caption>
+      <caption>A man taking a big bite of a hot dog.</caption>
+      <caption>A man is taking a big bite out of a hot dog.</caption>
+    </captions>
+</image>

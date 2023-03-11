@@ -1,0 +1,91 @@
+<image>
+  <image-id>2383851</image-id>
+  <coco-id>361030</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3563924</relationship_id>
+      <predicate>has</predicate>
+      <subject>1316237</subject>
+      <object>1316238</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563925</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1316239</subject>
+      <object>1316240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563926</relationship_id>
+      <predicate>has</predicate>
+      <subject>1316237</subject>
+      <object>1316238</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+        <attribute>smiling</attribute>
+        <attribute>happy</attribute>
+        <attribute>looking</attribute>
+        <attribute>yellow</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>252</h>
+      <object_id>1316237</object_id>
+      <w>94</w>
+      <y>29</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>red</attribute>
+        <attribute>teal</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>board</name>
+      <h>169</h>
+      <object_id>1316238</object_id>
+      <w>110</w>
+      <y>112</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>massive</attribute>
+        <attribute>huge</attribute>
+        <attribute>white</attribute>
+        <attribute>gray</attribute>
+        <attribute>grey</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>273</h>
+      <object_id>1316239</object_id>
+      <w>488</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>close</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>78</h>
+      <object_id>1316240</object_id>
+      <w>495</w>
+      <y>255</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing with a snowboard in the snow.</caption>
+      <caption>A man standing on top of a snow covered slope with a snowboard.</caption>
+      <caption>A person in a blue winter coat and yellow snow pants leaning on a pink snowboard. </caption>
+      <caption>a person sitting at the top of a hill waiting to snowboard down</caption>
+      <caption>A person stands on a flat snowy surface leaning against an upright snowboard.</caption>
+    </captions>
+</image>

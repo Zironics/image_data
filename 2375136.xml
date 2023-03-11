@@ -1,0 +1,94 @@
+<image>
+  <image-id>2375136</image-id>
+  <coco-id>471351</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1939005</relationship_id>
+      <predicate>flying</predicate>
+      <subject>723525</subject>
+      <object>723526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1939006</relationship_id>
+      <predicate>IN</predicate>
+      <subject>723526</subject>
+      <object>723527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1939007</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>723525</subject>
+      <object>723528</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1939008</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>723525</subject>
+      <object>723529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1939009</relationship_id>
+      <predicate>IN</predicate>
+      <subject>723526</subject>
+      <object>723527</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>303</h>
+      <object_id>723525</object_id>
+      <w>187</w>
+      <y>52</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>48</h>
+      <object_id>723526</object_id>
+      <w>29</w>
+      <y>43</y>
+      <x>387</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>10</h>
+      <object_id>723527</object_id>
+      <w>22</w>
+      <y>48</y>
+      <x>311</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>130</h>
+      <object_id>723528</object_id>
+      <w>123</w>
+      <y>119</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>88</h>
+      <object_id>723529</object_id>
+      <w>115</w>
+      <y>270</y>
+      <x>71</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman flying a kite in a park. </caption>
+      <caption>Lady in open field flying a kite while others look on.</caption>
+      <caption>Woman flying a kite while others watch the kites.</caption>
+      <caption>a girl flies a kite near some other people</caption>
+      <caption>A woman standing in a field flying a kite.</caption>
+    </captions>
+</image>

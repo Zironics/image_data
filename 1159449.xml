@@ -1,0 +1,71 @@
+<image>
+  <image-id>1159449</image-id>
+  <coco-id>402615</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068320</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3703518</subject>
+      <object>1593603</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068321</relationship_id>
+      <predicate>serving</predicate>
+      <subject>3703519</subject>
+      <object>1593604</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letters</name>
+      <h>91</h>
+      <object_id>3703518</object_id>
+      <w>176</w>
+      <y>371</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>orange court</name>
+      <h>257</h>
+      <object_id>1593603</object_id>
+      <w>396</w>
+      <y>320</y>
+      <x>362</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>player</name>
+      <h>59</h>
+      <object_id>3703519</object_id>
+      <w>59</w>
+      <y>239</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>26</h>
+      <object_id>1593604</object_id>
+      <w>19</w>
+      <y>228</y>
+      <x>313</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A woman holding a tennis racquet on a tennis court.</caption>
+      <caption>A tennis match takes place on an orange court with full stands.</caption>
+      <caption>Tennis game on clay court, player waiting to respond from severing player.</caption>
+      <caption>A wide view of two women playing tennis on an orange tennis court.</caption>
+      <caption>A crowd of people watching an indoor tennis match.</caption>
+    </captions>
+</image>

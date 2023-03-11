@@ -1,0 +1,98 @@
+<image>
+  <image-id>2358800</image-id>
+  <coco-id>269541</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3679744</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1752569</subject>
+      <object>2320634</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679745</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3767783</subject>
+      <object>2103432</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679746</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1752569</subject>
+      <object>1752570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679747</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2604703</subject>
+      <object>2604705</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>182</h>
+      <object_id>1752569</object_id>
+      <w>86</w>
+      <y>147</y>
+      <x>2</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>hat</name>
+      <h>36</h>
+      <object_id>2320634</object_id>
+      <w>60</w>
+      <y>154</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>202</h>
+      <object_id>3767783</object_id>
+      <w>274</w>
+      <y>48</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>fruit stand</name>
+      <h>160</h>
+      <object_id>2103432</object_id>
+      <w>445</w>
+      <y>169</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>55</h>
+      <object_id>1752570</object_id>
+      <w>49</w>
+      <y>274</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>22</h>
+      <object_id>2604703</object_id>
+      <w>23</w>
+      <y>159</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>21</h>
+      <object_id>2604705</object_id>
+      <w>20</w>
+      <y>165</y>
+      <x>162</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People in a market shop for or sell bananas.</caption>
+      <caption>There are many people outside at a banana stand.</caption>
+      <caption>A woman sits under an umbrella in the sun while selling bananas. </caption>
+      <caption>A street vendor in front of a dental clinic selling bananas.</caption>
+      <caption>A woman under a sun umbrella selling bananas</caption>
+    </captions>
+</image>

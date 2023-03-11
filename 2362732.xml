@@ -1,0 +1,220 @@
+<image>
+  <image-id>2362732</image-id>
+  <coco-id>163866</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2109538</relationship_id>
+      <predicate>pulling a</predicate>
+      <subject>771735</subject>
+      <object>771715</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109539</relationship_id>
+      <predicate>ON</predicate>
+      <subject>771715</subject>
+      <object>771716</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109540</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>771735</subject>
+      <object>771721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109541</relationship_id>
+      <predicate>has a</predicate>
+      <subject>771735</subject>
+      <object>771728</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109542</relationship_id>
+      <predicate>has two</predicate>
+      <subject>771731</subject>
+      <object>771732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109543</relationship_id>
+      <predicate>has</predicate>
+      <subject>771733</subject>
+      <object>771734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109544</relationship_id>
+      <predicate>walking down</predicate>
+      <subject>771735</subject>
+      <object>771721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109545</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>771735</subject>
+      <object>771736</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109546</relationship_id>
+      <predicate>have</predicate>
+      <subject>771738</subject>
+      <object>771739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109547</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>771735</subject>
+      <object>771721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109548</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>771735</subject>
+      <object>771731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109549</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>771735</subject>
+      <object>771728</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109550</relationship_id>
+      <predicate>are on</predicate>
+      <subject>771735</subject>
+      <object>771721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109551</relationship_id>
+      <predicate>walking down</predicate>
+      <subject>771735</subject>
+      <object>771721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2109552</relationship_id>
+      <predicate>walking down</predicate>
+      <subject>771735</subject>
+      <object>771721</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>281</h>
+      <object_id>771735</object_id>
+      <w>118</w>
+      <y>64</y>
+      <x>292</x>
+      <name>people</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>suitcase</name>
+      <h>116</h>
+      <object_id>771715</object_id>
+      <w>80</w>
+      <y>267</y>
+      <x>372</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>7</h>
+      <object_id>771716</object_id>
+      <w>64</w>
+      <y>372</y>
+      <x>381</x>
+      <name>rollie wheels</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>block tiled</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>46</h>
+      <object_id>771721</object_id>
+      <w>31</w>
+      <y>146</y>
+      <x>413</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>39</h>
+      <object_id>771728</object_id>
+      <w>39</w>
+      <y>62</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>95</h>
+      <object_id>771731</object_id>
+      <w>70</w>
+      <y>110</y>
+      <x>292</x>
+      <name>back pack</name>
+    </object>
+    <object>
+      <name>straps</name>
+      <h>19</h>
+      <object_id>771732</object_id>
+      <w>50</w>
+      <y>114</y>
+      <x>322</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grated</attribute>
+      </attributes>
+      <name>window</name>
+      <h>109</h>
+      <object_id>771733</object_id>
+      <w>92</w>
+      <y>12</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>rust</name>
+      <h>26</h>
+      <object_id>771734</object_id>
+      <w>16</w>
+      <y>20</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>luggage</name>
+      <h>11</h>
+      <object_id>771736</object_id>
+      <w>27</w>
+      <y>281</y>
+      <x>383</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>narrow</attribute>
+      </attributes>
+      <name>streets</name>
+      <h>30</h>
+      <object_id>771738</object_id>
+      <w>36</w>
+      <y>117</y>
+      <x>427</x>
+    </object>
+    <object>
+      <name>paint</name>
+      <h>18</h>
+      <object_id>771739</object_id>
+      <w>24</w>
+      <y>128</y>
+      <x>427</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman is pulling a red suitcase down the side walk.</caption>
+      <caption>The red backpack matches the red rolling suitcase.</caption>
+      <caption>a lady wearing a red backpack and pulling a red suitcase </caption>
+      <caption>A woman that is standing with a suitcase.</caption>
+      <caption>Woman carrying suitcase down desolate street in the shad.</caption>
+    </captions>
+</image>

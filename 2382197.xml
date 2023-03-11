@@ -1,0 +1,62 @@
+<image>
+  <image-id>2382197</image-id>
+  <coco-id>136811</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4555068</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4176657</subject>
+      <object>3987984</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4632709</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4176652</subject>
+      <object>4176653</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>284</h>
+      <object_id>4176657</object_id>
+      <w>95</w>
+      <y>38</y>
+      <x>335</x>
+    </object>
+    <object>
+      <name>suspenders</name>
+      <h>75</h>
+      <object_id>3987984</object_id>
+      <w>15</w>
+      <y>69</y>
+      <x>368</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lit up</attribute>
+      </attributes>
+      <name>heart</name>
+      <h>262</h>
+      <object_id>4176652</object_id>
+      <w>300</w>
+      <y>37</y>
+      <x>106</x>
+    </object>
+    <object>
+      <name>stage</name>
+      <h>90</h>
+      <object_id>4176653</object_id>
+      <w>482</w>
+      <y>282</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing on a stage under a heart.</caption>
+      <caption>A man and two women standing on a stage with red curtains in background.</caption>
+      <caption>some people on a stage a chair and a red heart and lights</caption>
+      <caption>Actors on stage performing live show for audience.</caption>
+      <caption>this is costumed actors acting in a play</caption>
+    </captions>
+</image>

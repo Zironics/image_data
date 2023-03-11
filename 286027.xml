@@ -1,0 +1,85 @@
+<image>
+  <image-id>286027</image-id>
+  <coco-id>153803</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4728620</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4412733</subject>
+      <object>4412723</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4728621</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4412733</subject>
+      <object>4412734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4728622</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4412733</subject>
+      <object>4412735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4728623</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4412733</subject>
+      <object>4412738</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dressed up</attribute>
+      </attributes>
+      <name>man</name>
+      <h>556</h>
+      <object_id>4412733</object_id>
+      <w>433</w>
+      <y>195</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>suit</name>
+      <h>363</h>
+      <object_id>4412723</object_id>
+      <w>415</w>
+      <y>305</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>shoes</name>
+      <h>55</h>
+      <object_id>4412734</object_id>
+      <w>128</w>
+      <y>685</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>shoes</name>
+      <h>80</h>
+      <object_id>4412735</object_id>
+      <w>134</w>
+      <y>685</y>
+      <x>362</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoes</name>
+      <h>94</h>
+      <object_id>4412738</object_id>
+      <w>134</w>
+      <y>670</y>
+      <x>364</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man sitting at a table with some laptops on it</caption>
+      <caption>A man sitting behind a table with speakers and computers</caption>
+      <caption>A man is checking computer and audio equipment in a room.</caption>
+      <caption>A man dressed up sitting at a table filled with audio equipment.</caption>
+      <caption>A man sitting by some sound board equipment and a laptop.</caption>
+    </captions>
+</image>

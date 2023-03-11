@@ -1,0 +1,95 @@
+<image>
+  <image-id>2386394</image-id>
+  <coco-id>474499</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1248792</relationship_id>
+      <predicate>has</predicate>
+      <subject>518603</subject>
+      <object>518604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1248793</relationship_id>
+      <predicate>are on</predicate>
+      <subject>518605</subject>
+      <object>518606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1248794</relationship_id>
+      <predicate>have</predicate>
+      <subject>518601</subject>
+      <object>518609</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1248795</relationship_id>
+      <predicate>are above</predicate>
+      <subject>518601</subject>
+      <object>518606</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shelf</name>
+      <h>5</h>
+      <object_id>518603</object_id>
+      <w>129</w>
+      <y>168</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>spices</name>
+      <h>21</h>
+      <object_id>518604</object_id>
+      <w>137</w>
+      <y>148</y>
+      <x>201</x>
+    </object>
+    <object>
+      <name>bottles</name>
+      <h>39</h>
+      <object_id>518605</object_id>
+      <w>22</w>
+      <y>172</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>counter</name>
+      <h>106</h>
+      <object_id>518606</object_id>
+      <w>496</w>
+      <y>215</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>white</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>cupboards</name>
+      <h>106</h>
+      <object_id>518601</object_id>
+      <w>211</w>
+      <y>47</y>
+      <x>201</x>
+    </object>
+    <object>
+      <name>containers</name>
+      <h>39</h>
+      <object_id>518609</object_id>
+      <w>65</w>
+      <y>25</y>
+      <x>235</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Towels hanging on an oven in a kitchen</caption>
+      <caption>A kitchen has a washing machine in it.</caption>
+      <caption>a kitchen is shown with a dish washer in it </caption>
+      <caption>A picture of a very clean kitchen in a house.</caption>
+      <caption>Various home products line the granite counter top</caption>
+    </captions>
+</image>

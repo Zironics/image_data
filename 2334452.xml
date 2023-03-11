@@ -1,0 +1,111 @@
+<image>
+  <image-id>2334452</image-id>
+  <coco-id>59351</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4001431</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2765924</subject>
+      <object>2765925</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3933774</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2765924</subject>
+      <object>3489619</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001432</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2765924</subject>
+      <object>3406135</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001433</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2765924</subject>
+      <object>2851847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001434</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2765924</subject>
+      <object>3406135</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3933780</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2765924</subject>
+      <object>3013247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3933782</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2765924</subject>
+      <object>3489619</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001436</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2765924</subject>
+      <object>3406135</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>100</h>
+      <object_id>2765924</object_id>
+      <w>35</w>
+      <y>117</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>shoes</name>
+      <h>12</h>
+      <object_id>2765925</object_id>
+      <w>17</w>
+      <y>204</y>
+      <x>257</x>
+    </object>
+    <object>
+      <h>24</h>
+      <object_id>3489619</object_id>
+      <w>8</w>
+      <y>193</y>
+      <x>267</x>
+      <name>black boots</name>
+    </object>
+    <object>
+      <h>24</h>
+      <object_id>3406135</object_id>
+      <w>21</w>
+      <y>169</y>
+      <x>259</x>
+      <name>blue jeans</name>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>52</h>
+      <object_id>2851847</object_id>
+      <w>27</w>
+      <y>168</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>50</h>
+      <object_id>3013247</object_id>
+      <w>21</w>
+      <y>168</y>
+      <x>256</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman walking down a dirt walkway next to a cow.</caption>
+      <caption>A woman is walking on a path with two horses.</caption>
+      <caption>A woman leading a horse down a dirt road</caption>
+      <caption>A person walking on a dirt path with a horse beside them, and the horse is carrying a pack on it's back.</caption>
+      <caption>A woman walking a horse down a trail.</caption>
+    </captions>
+</image>

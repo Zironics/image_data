@@ -1,0 +1,135 @@
+<image>
+  <image-id>2398336</image-id>
+  <coco-id>354753</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3340653</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1180719</subject>
+      <object>1180720</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3340654</relationship_id>
+      <predicate>reflecting on</predicate>
+      <subject>1180723</subject>
+      <object>1180718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3340655</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1180725</subject>
+      <object>1180726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3340656</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1180726</subject>
+      <object>1180730</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3340657</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1180718</subject>
+      <object>1180731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3340658</relationship_id>
+      <predicate>from insisde</predicate>
+      <subject>1180734</subject>
+      <object>1180731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3340659</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1180723</subject>
+      <object>1180718</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stop light</name>
+      <h>13</h>
+      <object_id>1180719</object_id>
+      <w>10</w>
+      <y>111</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>row</name>
+      <h>24</h>
+      <object_id>1180720</object_id>
+      <w>166</w>
+      <y>100</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>57</h>
+      <object_id>1180723</object_id>
+      <w>35</w>
+      <y>300</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>hood</name>
+      <h>77</h>
+      <object_id>1180718</object_id>
+      <w>434</w>
+      <y>297</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>headlights</name>
+      <h>10</h>
+      <object_id>1180725</object_id>
+      <w>29</w>
+      <y>169</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>27</h>
+      <object_id>1180726</object_id>
+      <w>29</w>
+      <y>160</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>dark</name>
+      <h>68</h>
+      <object_id>1180730</object_id>
+      <w>62</w>
+      <y>80</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>72</h>
+      <object_id>1180731</object_id>
+      <w>496</w>
+      <y>301</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>372</h>
+      <object_id>1180734</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A street with traffic lights and cars at night.</caption>
+      <caption>Oncoming traffic shining their lights at a traffic stop. </caption>
+      <caption>An intersection with red light at night time.  </caption>
+      <caption>There are blurry traffic lights on the road.</caption>
+      <caption>Street at night with red stoplights and street lights with head on traffic</caption>
+    </captions>
+</image>

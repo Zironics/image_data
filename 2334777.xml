@@ -1,0 +1,51 @@
+<image>
+  <image-id>2334777</image-id>
+  <coco-id>296564</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260230</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3329160</subject>
+      <object>3329162</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260229</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3329160</subject>
+      <object>3329161</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>294</h>
+      <object_id>3329160</object_id>
+      <w>334</w>
+      <y>66</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>44</h>
+      <object_id>3329162</object_id>
+      <w>87</w>
+      <y>316</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>42</h>
+      <object_id>3329161</object_id>
+      <w>59</w>
+      <y>239</y>
+      <x>307</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A single skater boarder travels along a deserted walkway.</caption>
+      <caption>A person skating on a skateboard down a sidewalk.</caption>
+      <caption>A skateboarder is gliding along a paved walkway.</caption>
+      <caption>A person skateboarding in a blurry photograph on cement near a planter.</caption>
+      <caption>Someone in a blue shirt and calf-high pants is riding a skateboard.</caption>
+    </captions>
+</image>

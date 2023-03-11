@@ -1,0 +1,140 @@
+<image>
+  <image-id>2387041</image-id>
+  <coco-id>74312</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4575502</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4037073</subject>
+      <object>4037079</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4713961</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4037079</subject>
+      <object>4377810</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575503</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4037077</subject>
+      <object>4037080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575504</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4037078</subject>
+      <object>4037080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575505</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4037079</subject>
+      <object>4037080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575536</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>4037079</subject>
+      <object>4037173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575537</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>4037078</subject>
+      <object>4037173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575538</relationship_id>
+      <predicate>standing in a</predicate>
+      <subject>4037077</subject>
+      <object>4037173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575539</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4037079</subject>
+      <object>4037173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575540</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4037078</subject>
+      <object>4037173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4575541</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4037077</subject>
+      <object>4037173</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mane</name>
+      <h>51</h>
+      <object_id>4037073</object_id>
+      <w>73</w>
+      <y>95</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>three</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>171</h>
+      <object_id>4037079</object_id>
+      <w>248</w>
+      <y>90</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>68</h>
+      <object_id>4377810</object_id>
+      <w>24</w>
+      <y>160</y>
+      <x>459</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>105</h>
+      <object_id>4037077</object_id>
+      <w>158</w>
+      <y>138</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>266</h>
+      <object_id>4037080</object_id>
+      <w>495</w>
+      <y>65</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>128</h>
+      <object_id>4037078</object_id>
+      <w>165</w>
+      <y>114</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>wildlife park</name>
+      <h>305</h>
+      <object_id>4037173</object_id>
+      <w>491</w>
+      <y>14</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three zebras standing together in an open grassy field.</caption>
+      <caption>Three zebra standing next to each other on a lush green field.</caption>
+      <caption>three zebras are eating some plants in a field</caption>
+      <caption>Three zebra graze from grasses on the savannah</caption>
+      <caption>Three zebras are standing in a tall grassy field.</caption>
+    </captions>
+</image>

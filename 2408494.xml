@@ -1,0 +1,71 @@
+<image>
+  <image-id>2408494</image-id>
+  <coco-id>135845</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>296559</relationship_id>
+      <predicate>IN</predicate>
+      <subject>260641</subject>
+      <object>260638</object>
+    </relationship>
+    <relationship>
+      <relationship_id>296560</relationship_id>
+      <predicate>near</predicate>
+      <subject>260641</subject>
+      <object>260637</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>puffy</attribute>
+        <attribute>thick</attribute>
+        <attribute>dark</attribute>
+        <attribute>mottled</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>95</h>
+      <object_id>260641</object_id>
+      <w>343</w>
+      <y>314</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>overcast</attribute>
+        <attribute>light</attribute>
+        <attribute>dark blue</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>410</h>
+      <object_id>260638</object_id>
+      <w>349</w>
+      <y>2</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>at horizon</attribute>
+        <attribute>in background</attribute>
+        <attribute>in distance</attribute>
+        <attribute>misty</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>mountains</name>
+      <h>85</h>
+      <object_id>260637</object_id>
+      <w>365</w>
+      <y>414</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A glider going through a sky at dusk.</caption>
+      <caption>A bunch of kites flying high up in the sky.</caption>
+      <caption>Kites are flying in the air on a partly cloudy day.</caption>
+      <caption>A couple of kites flying in the sky above mountains.</caption>
+      <caption>A mountain view of the sky with three kites in sight</caption>
+    </captions>
+</image>

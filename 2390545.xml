@@ -1,0 +1,120 @@
+<image>
+  <image-id>2390545</image-id>
+  <coco-id>546695</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1156547</relationship_id>
+      <predicate>around</predicate>
+      <subject>496322</subject>
+      <object>496319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156548</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>496326</subject>
+      <object>496327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156549</relationship_id>
+      <predicate>behind</predicate>
+      <subject>496321</subject>
+      <object>496316</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156550</relationship_id>
+      <predicate>ON</predicate>
+      <subject>496320</subject>
+      <object>496328</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>decorative pattern</name>
+      <h>52</h>
+      <object_id>496322</object_id>
+      <w>57</w>
+      <y>234</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate's edge</name>
+      <h>152</h>
+      <object_id>496319</object_id>
+      <w>499</w>
+      <y>223</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>rough edge</name>
+      <h>59</h>
+      <object_id>496326</object_id>
+      <w>365</w>
+      <y>39</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>delicious</attribute>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>277</h>
+      <object_id>496327</object_id>
+      <w>464</w>
+      <y>37</y>
+      <x>33</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>chocolate</attribute>
+      </attributes>
+      <name>cake crumb</name>
+      <h>31</h>
+      <object_id>496321</object_id>
+      <w>74</w>
+      <y>283</y>
+      <x>327</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>66</h>
+      <object_id>496316</object_id>
+      <w>496</w>
+      <y>236</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>watermark</name>
+      <h>28</h>
+      <object_id>496320</object_id>
+      <w>111</w>
+      <y>279</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>374</h>
+      <object_id>496328</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A slice of chocolate raspberry cake on top of a white plate.</caption>
+      <caption>A piece of cake with pink and black frosting on a plate.</caption>
+      <caption>A slice of cake with black and pink icing.</caption>
+      <caption>A worn and tattered pink and black bag.</caption>
+      <caption>a well baked cake with cream on it on a plate and a fork</caption>
+    </captions>
+</image>

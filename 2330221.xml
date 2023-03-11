@@ -1,0 +1,41 @@
+<image>
+  <image-id>2330221</image-id>
+  <coco-id>483569</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4261031</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>2868068</subject>
+      <object>3346633</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bus</name>
+      <h>90</h>
+      <object_id>2868068</object_id>
+      <w>75</w>
+      <y>153</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>paved</attribute>
+      </attributes>
+      <h>127</h>
+      <object_id>3346633</object_id>
+      <w>499</w>
+      <y>205</y>
+      <x>0</x>
+      <name>road</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red bus passing between people on bicycles and motorcycles.</caption>
+      <caption>A bus passes by a bicycle rider and a motorcyclist.</caption>
+      <caption>A tree lined street with red bus and vehicles and pedestrians. </caption>
+      <caption>A red bus is leaving and some people in the background. </caption>
+      <caption>A red bus travels down a street while people bike in said street.</caption>
+    </captions>
+</image>

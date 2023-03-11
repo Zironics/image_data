@@ -1,0 +1,123 @@
+<image>
+  <image-id>2342578</image-id>
+  <coco-id>458189</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2747624</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>932676</subject>
+      <object>932675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747625</relationship_id>
+      <predicate>below</predicate>
+      <subject>932679</subject>
+      <object>932675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747626</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>932676</subject>
+      <object>932675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747627</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>932675</subject>
+      <object>932677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747628</relationship_id>
+      <predicate>near</predicate>
+      <subject>932679</subject>
+      <object>932675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747629</relationship_id>
+      <predicate>are on front of</predicate>
+      <subject>932684</subject>
+      <object>932681</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2747630</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>932683</subject>
+      <object>932675</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stop</name>
+      <h>53</h>
+      <object_id>932676</object_id>
+      <w>97</w>
+      <y>146</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>115</h>
+      <object_id>932675</object_id>
+      <w>131</w>
+      <y>111</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>63</h>
+      <object_id>932679</object_id>
+      <w>145</w>
+      <y>435</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>post</name>
+      <h>68</h>
+      <object_id>932677</object_id>
+      <w>24</w>
+      <y>371</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>letters</name>
+      <h>100</h>
+      <object_id>932684</object_id>
+      <w>88</w>
+      <y>233</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>132</h>
+      <object_id>932681</object_id>
+      <w>118</w>
+      <y>230</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>nail</name>
+      <h>14</h>
+      <object_id>932683</object_id>
+      <w>10</w>
+      <y>206</y>
+      <x>114</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a stop sign along with other signs here </caption>
+      <caption>A stop sign that has been placed over another sign.</caption>
+      <caption>There is no image on this page to describe.</caption>
+      <caption>The stop sign has another sign posted below it.</caption>
+      <caption>A stop sign with signs written in Russian below it. </caption>
+    </captions>
+</image>

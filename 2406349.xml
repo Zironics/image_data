@@ -1,0 +1,252 @@
+<image>
+  <image-id>2406349</image-id>
+  <coco-id>557855</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4280471</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3224904</subject>
+      <object>2108646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280472</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>2835468</subject>
+      <object>2835469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280473</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>3224904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280474</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>3224904</subject>
+      <object>3811914</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280475</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>3224904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280476</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>3224904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280477</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3224904</subject>
+      <object>3811915</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280478</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3224904</subject>
+      <object>2535299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280479</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>3224904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280480</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>3224904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280481</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3224904</subject>
+      <object>3302913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280483</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3224904</subject>
+      <object>2535299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280482</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>3224904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280484</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>2665319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280485</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>3811919</subject>
+      <object>2524159</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280486</relationship_id>
+      <predicate>growing from</predicate>
+      <subject>2272685</subject>
+      <object>2272686</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4280487</relationship_id>
+      <predicate>growing from</predicate>
+      <subject>3811921</subject>
+      <object>3811920</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>44</h>
+      <object_id>3224904</object_id>
+      <w>81</w>
+      <y>95</y>
+      <x>160</x>
+      <name>baseball glove</name>
+    </object>
+    <object>
+      <name>baseball</name>
+      <h>57</h>
+      <object_id>2108646</object_id>
+      <w>65</w>
+      <y>104</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>95</h>
+      <object_id>2835468</object_id>
+      <w>95</w>
+      <y>177</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>177</h>
+      <object_id>2835469</object_id>
+      <w>497</w>
+      <y>102</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>60</h>
+      <object_id>3811919</object_id>
+      <w>60</w>
+      <y>106</y>
+      <x>228</x>
+      <name>ball</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>95</h>
+      <object_id>3811914</object_id>
+      <w>368</w>
+      <y>183</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dead</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>100</h>
+      <object_id>3811915</object_id>
+      <w>330</w>
+      <y>178</y>
+      <x>110</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>210</h>
+      <object_id>2535299</object_id>
+      <w>494</w>
+      <y>65</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dead</attribute>
+      </attributes>
+      <name>dead grass</name>
+      <h>111</h>
+      <object_id>3302913</object_id>
+      <w>472</w>
+      <y>167</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>glove</name>
+      <h>92</h>
+      <object_id>2665319</object_id>
+      <w>189</w>
+      <y>95</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>glove</name>
+      <h>106</h>
+      <object_id>2524159</object_id>
+      <w>192</w>
+      <y>86</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>foliage</name>
+      <h>29</h>
+      <object_id>2272685</object_id>
+      <w>24</w>
+      <y>15</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>51</h>
+      <object_id>2272686</object_id>
+      <w>64</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>branches</name>
+      <h>9</h>
+      <object_id>3811921</object_id>
+      <w>18</w>
+      <y>29</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>55</h>
+      <object_id>3811920</object_id>
+      <w>46</w>
+      <y>0</y>
+      <x>174</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball glove and ball in a grassy field.</caption>
+      <caption>A baseball mitt with a ball sits in a yard full of brown grass.</caption>
+      <caption>The baseball equipment was left in the grass. </caption>
+      <caption>A baseball in a glove on the floor of a park.</caption>
+      <caption>A baseball and a glove laying in a field of brown grass.</caption>
+    </captions>
+</image>

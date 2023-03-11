@@ -1,0 +1,143 @@
+<image>
+  <image-id>2324066</image-id>
+  <coco-id>42122</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4527803</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2706363</subject>
+      <object>3377136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527804</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>2706363</subject>
+      <object>3180570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527805</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>2706363</subject>
+      <object>3213227</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527806</relationship_id>
+      <predicate>with</predicate>
+      <subject>2706363</subject>
+      <object>2798832</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527807</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2706363</subject>
+      <object>2706364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527808</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2706363</subject>
+      <object>2993946</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527809</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3153777</subject>
+      <object>3153778</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>211</h>
+      <object_id>2706363</object_id>
+      <w>195</w>
+      <y>108</y>
+      <x>192</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>38</h>
+      <object_id>3377136</object_id>
+      <w>30</w>
+      <y>266</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>bat</name>
+      <h>47</h>
+      <object_id>3180570</object_id>
+      <w>134</w>
+      <y>174</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>27</h>
+      <object_id>3213227</object_id>
+      <w>26</w>
+      <y>302</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <name>bat</name>
+      <h>18</h>
+      <object_id>2798832</object_id>
+      <w>142</w>
+      <y>187</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+        <attribute>striped </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>90</h>
+      <object_id>2706364</object_id>
+      <w>80</w>
+      <y>155</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray </attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>65</h>
+      <object_id>2993946</object_id>
+      <w>95</w>
+      <y>217</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Wood</attribute>
+      </attributes>
+      <name>post</name>
+      <h>95</h>
+      <object_id>3153777</object_id>
+      <w>14</w>
+      <y>60</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>202</h>
+      <object_id>3153778</object_id>
+      <w>499</w>
+      <y>137</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy swinging a bat at a ball.</caption>
+      <caption>A little boy tries to hit a baseball and misses.</caption>
+      <caption>a young boy in the grass swinging a baseball bat</caption>
+      <caption>A young boy swinging at a ball with a baseball bat in the grass.</caption>
+      <caption>A young boy swings a baseball bat but misses the ball.</caption>
+    </captions>
+</image>

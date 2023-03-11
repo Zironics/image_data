@@ -1,0 +1,72 @@
+<image>
+  <image-id>1592976</image-id>
+  <coco-id>266366</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265221</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1614758</subject>
+      <object>1614757</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265222</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1614764</subject>
+      <object>1614763</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265223</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1614758</subject>
+      <object>1614758</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>toilet paper</attribute>
+      </attributes>
+      <h>78</h>
+      <object_id>1614758</object_id>
+      <w>61</w>
+      <y>461</y>
+      <x>307</x>
+      <name>roll</name>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>482</h>
+      <object_id>1614757</object_id>
+      <w>361</w>
+      <y>66</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>180</h>
+      <object_id>1614764</object_id>
+      <w>269</w>
+      <y>387</y>
+      <x>600</x>
+      <name>sink</name>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>569</h>
+      <object_id>1614763</object_id>
+      <w>639</w>
+      <y>5</y>
+      <x>236</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The bathroom with a toilet has an interesting sink.</caption>
+      <caption>A demonstration of a well maintained hotel bathroom</caption>
+      <caption>A clean, mediocre motel bathroom with a nice sink.</caption>
+      <caption>A modern hotel bathroom with accessories set out.</caption>
+      <caption>A bathroom with a toilet, sink, mirror and shower stall.</caption>
+    </captions>
+</image>

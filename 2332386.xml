@@ -1,0 +1,95 @@
+<image>
+  <image-id>2332386</image-id>
+  <coco-id>356147</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4463309</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3932270</subject>
+      <object>2824740</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463308</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3932269</subject>
+      <object>2824741</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3845159</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2901214</subject>
+      <object>2901216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3845160</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2901215</subject>
+      <object>2901216</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>55</h>
+      <object_id>3932270</object_id>
+      <w>23</w>
+      <y>133</y>
+      <x>379</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>64</h>
+      <object_id>2824740</object_id>
+      <w>51</w>
+      <y>182</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>43</h>
+      <object_id>3932269</object_id>
+      <w>22</w>
+      <y>171</y>
+      <x>316</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>53</h>
+      <object_id>2824741</object_id>
+      <w>40</w>
+      <y>204</y>
+      <x>306</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>67</h>
+      <object_id>2901214</object_id>
+      <w>50</w>
+      <y>187</y>
+      <x>374</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>152</h>
+      <object_id>2901216</object_id>
+      <w>412</w>
+      <y>180</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>51</h>
+      <object_id>2901215</object_id>
+      <w>36</w>
+      <y>207</y>
+      <x>308</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of elephants transporting people through a river.</caption>
+      <caption>A pair of men each standing on the backs of two elephants, all making their way down a wide, placid river.</caption>
+      <caption>two men standing on some elephants in the water</caption>
+      <caption>Two men are standing on elephants in a river.</caption>
+      <caption>Two men stand atop elephants who are walking in a river.</caption>
+    </captions>
+</image>

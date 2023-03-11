@@ -1,0 +1,63 @@
+<image>
+  <image-id>1593223</image-id>
+  <coco-id>431012</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4091576</relationship_id>
+      <predicate>says</predicate>
+      <subject>3712690</subject>
+      <object>2632898</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091577</relationship_id>
+      <predicate>wears</predicate>
+      <subject>1616477</subject>
+      <object>3712691</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>212</h>
+      <object_id>3712690</object_id>
+      <w>1009</w>
+      <y>149</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>hertz</name>
+      <h>146</h>
+      <object_id>2632898</object_id>
+      <w>340</w>
+      <y>171</y>
+      <x>365</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>68</h>
+      <object_id>1616477</object_id>
+      <w>55</w>
+      <y>84</y>
+      <x>411</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>44</h>
+      <object_id>3712691</object_id>
+      <w>42</w>
+      <y>97</y>
+      <x>417</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two motorcycles racing down a race track in front of a hertz rental advertisement.</caption>
+      <caption>Two bikers riding around a race track behind one another</caption>
+      <caption>Two people on motorcycles on a race track.</caption>
+      <caption>Two riders racing on a track in a motorcycle race</caption>
+      <caption>The race is close; the motorcycle rider in the rear has almost caught up to the lead bike.</caption>
+    </captions>
+</image>

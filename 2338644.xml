@@ -1,0 +1,104 @@
+<image>
+  <image-id>2338644</image-id>
+  <coco-id>359565</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4691481</relationship_id>
+      <predicate>inside</predicate>
+      <subject>4324881</subject>
+      <object>4324840</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691501</relationship_id>
+      <predicate>has</predicate>
+      <subject>4324881</subject>
+      <object>4324880</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691504</relationship_id>
+      <predicate>has</predicate>
+      <subject>4324887</subject>
+      <object>4324888</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797649</relationship_id>
+      <predicate>with</predicate>
+      <subject>4592736</subject>
+      <object>4592718</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>161</h>
+      <object_id>4324881</object_id>
+      <w>246</w>
+      <y>28</y>
+      <x>35</x>
+      <name>flower</name>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>308</h>
+      <object_id>4324840</object_id>
+      <w>196</w>
+      <y>189</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light colored</attribute>
+      </attributes>
+      <name>petal</name>
+      <h>17</h>
+      <object_id>4324880</object_id>
+      <w>14</w>
+      <y>29</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>141</h>
+      <object_id>4324887</object_id>
+      <w>63</w>
+      <y>167</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>16</h>
+      <object_id>4324888</object_id>
+      <w>64</w>
+      <y>167</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>book</name>
+      <h>118</h>
+      <object_id>4592736</object_id>
+      <w>75</w>
+      <y>380</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>328</h>
+      <object_id>4592718</object_id>
+      <w>172</w>
+      <y>160</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A jar filled with yellow flowers sitting on a table.</caption>
+      <caption>Small flowers are placed in a clear empty bottle.</caption>
+      <caption>Large clear glass vase with gold flowers on top.</caption>
+      <caption>A glass vase that is clear and has a small bunch of flowers in it, set on a table</caption>
+      <caption>A glass bottle used as a vase with flowers on a table.</caption>
+    </captions>
+</image>

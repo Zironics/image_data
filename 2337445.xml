@@ -1,0 +1,81 @@
+<image>
+  <image-id>2337445</image-id>
+  <coco-id>193112</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4078438</relationship_id>
+      <predicate>has</predicate>
+      <subject>3707841</subject>
+      <object>2366190</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078439</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3707842</subject>
+      <object>2607437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078441</relationship_id>
+      <predicate>has</predicate>
+      <subject>2388948</subject>
+      <object>2388947</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boy</name>
+      <h>270</h>
+      <object_id>3707841</object_id>
+      <w>97</w>
+      <y>38</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>24</h>
+      <object_id>2366190</object_id>
+      <w>53</w>
+      <y>293</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>brick</name>
+      <h>97</h>
+      <object_id>3707842</object_id>
+      <w>76</w>
+      <y>213</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>325</h>
+      <object_id>2607437</object_id>
+      <w>248</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>205</h>
+      <object_id>2388948</object_id>
+      <w>137</w>
+      <y>36</y>
+      <x>288</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>28</h>
+      <object_id>2388947</object_id>
+      <w>22</w>
+      <y>137</y>
+      <x>300</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a skateboard next to a yellow building.</caption>
+      <caption>A skateboarder balances on his skateboard, then balances on the board at the edge of a low wall.</caption>
+      <caption>A man performing skateboard tricks on the street.</caption>
+      <caption>A person is on a skateboard performing tricks off a wall.</caption>
+      <caption>A man riding on a skateboard down a side walk.</caption>
+    </captions>
+</image>

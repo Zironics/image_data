@@ -1,0 +1,91 @@
+<image>
+  <image-id>2331460</image-id>
+  <coco-id>290812</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4823966</relationship_id>
+      <predicate>of</predicate>
+      <subject>4656651</subject>
+      <object>4656652</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823967</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4656656</subject>
+      <object>4656657</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823968</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4656658</subject>
+      <object>4656659</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>back</name>
+      <h>65</h>
+      <object_id>4656651</object_id>
+      <w>80</w>
+      <y>129</y>
+      <x>222</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>train</name>
+      <h>112</h>
+      <object_id>4656652</object_id>
+      <w>130</w>
+      <y>103</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>230</h>
+      <object_id>4656656</object_id>
+      <w>92</w>
+      <y>124</y>
+      <x>389</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>jean</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>130</h>
+      <object_id>4656657</object_id>
+      <w>58</w>
+      <y>219</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>73</h>
+      <object_id>4656658</object_id>
+      <w>30</w>
+      <y>159</y>
+      <x>367</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short sleeve</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>37</h>
+      <object_id>4656659</object_id>
+      <w>24</w>
+      <y>169</y>
+      <x>370</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>three people are waiting for the next train</caption>
+      <caption>A train coming down into a station, with people waiting.</caption>
+      <caption>A train engine carrying carts into a station.</caption>
+      <caption>A train station with a train departing with passengers.</caption>
+      <caption>The train is coming into the railroad station.</caption>
+    </captions>
+</image>

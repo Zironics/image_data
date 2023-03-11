@@ -1,0 +1,109 @@
+<image>
+  <image-id>2350729</image-id>
+  <coco-id>136587</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4408990</relationship_id>
+      <predicate>OF</predicate>
+      <subject>865873</subject>
+      <object>3899749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409016</relationship_id>
+      <predicate>ON</predicate>
+      <subject>865885</subject>
+      <object>3899750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409017</relationship_id>
+      <predicate>ON</predicate>
+      <subject>865876</subject>
+      <object>3899751</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409018</relationship_id>
+      <predicate>outside</predicate>
+      <subject>3899750</subject>
+      <object>3899752</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>legs</name>
+      <h>180</h>
+      <object_id>865873</object_id>
+      <w>238</w>
+      <y>279</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>401</h>
+      <object_id>3899749</object_id>
+      <w>370</w>
+      <y>33</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+        <attribute>light</attribute>
+        <attribute>tufts</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>51</h>
+      <object_id>865885</object_id>
+      <w>56</w>
+      <y>12</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the picture</attribute>
+        <attribute>fierce </attribute>
+        <attribute>big </attribute>
+        <attribute>female</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>447</h>
+      <object_id>3899750</object_id>
+      <w>415</w>
+      <y>20</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the picture</attribute>
+      </attributes>
+      <name>shadow</name>
+      <h>175</h>
+      <object_id>865876</object_id>
+      <w>312</w>
+      <y>306</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>476</h>
+      <object_id>3899751</object_id>
+      <w>488</w>
+      <y>7</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>476</h>
+      <object_id>3899752</object_id>
+      <w>374</w>
+      <y>9</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A big brown bear behind a fence and some barbed wire.</caption>
+      <caption>there is a brown bear that is walking by a fence</caption>
+      <caption>a large bear is walking by a fence</caption>
+      <caption>An angry grizzly bear approaches a barbed fence.</caption>
+      <caption>A bear that is standing in the grass.</caption>
+    </captions>
+</image>

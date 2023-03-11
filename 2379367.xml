@@ -1,0 +1,45 @@
+<image>
+  <image-id>2379367</image-id>
+  <coco-id>510913</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3615500</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1358271</subject>
+      <object>1358279</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>up</attribute>
+        <attribute>standing</attribute>
+        <attribute>here</attribute>
+        <attribute>flying</attribute>
+        <attribute>perched</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>30</h>
+      <object_id>1358271</object_id>
+      <w>34</w>
+      <y>220</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>flight</name>
+      <h>115</h>
+      <object_id>1358279</object_id>
+      <w>117</w>
+      <y>15</y>
+      <x>36</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large boat floating on top of a body of water</caption>
+      <caption>a big boat that is in the ocean</caption>
+      <caption>A boat that is floating in the water.</caption>
+      <caption>A boat that is sitting in the water.</caption>
+      <caption>a large boat is out in the water</caption>
+    </captions>
+</image>

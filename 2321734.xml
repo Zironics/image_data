@@ -1,0 +1,90 @@
+<image>
+  <image-id>2321734</image-id>
+  <coco-id>473774</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3770754</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3082142</subject>
+      <object>2737646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538799</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2797871</subject>
+      <object>2797872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3930812</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2746252</subject>
+      <object>2746253</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>sandwich</name>
+      <h>242</h>
+      <object_id>3082142</object_id>
+      <w>227</w>
+      <y>32</y>
+      <x>203</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>289</h>
+      <object_id>2737646</object_id>
+      <w>497</w>
+      <y>67</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>piece</attribute>
+      </attributes>
+      <name>chicken</name>
+      <h>52</h>
+      <object_id>2797871</object_id>
+      <w>254</w>
+      <y>173</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>235</h>
+      <object_id>2797872</object_id>
+      <w>290</w>
+      <y>30</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>bun</name>
+      <h>85</h>
+      <object_id>2746252</object_id>
+      <w>216</w>
+      <y>187</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>239</h>
+      <object_id>2746253</object_id>
+      <w>234</w>
+      <y>29</y>
+      <x>185</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate with cross cut french fries and a large chicken sandwich.</caption>
+      <caption>A big burger is served with a side of waffle fries.</caption>
+      <caption>A huge chicken sandwich waffle fries are ready to be eaten. </caption>
+      <caption>A chicken sandwich and fries on a plate.</caption>
+      <caption>A white plate topped with a burger and criss cut fries.</caption>
+    </captions>
+</image>

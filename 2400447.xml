@@ -1,0 +1,104 @@
+<image>
+  <image-id>2400447</image-id>
+  <coco-id>83331</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1730158</relationship_id>
+      <predicate>has</predicate>
+      <subject>660681</subject>
+      <object>660682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1730159</relationship_id>
+      <predicate>on a</predicate>
+      <subject>660681</subject>
+      <object>660683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1730160</relationship_id>
+      <predicate>has a</predicate>
+      <subject>660681</subject>
+      <object>660685</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1730161</relationship_id>
+      <predicate>has an</predicate>
+      <subject>660688</subject>
+      <object>660689</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dirty</attribute>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+        <attribute>red</attribute>
+        <attribute>light</attribute>
+        <attribute>dusty</attribute>
+        <attribute>orange</attribute>
+        <attribute>decaying</attribute>
+        <attribute>broke</attribute>
+        <attribute>old</attribute>
+        <attribute>hanging</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>stoplight</name>
+      <h>439</h>
+      <object_id>660681</object_id>
+      <w>153</w>
+      <y>35</y>
+      <x>125</x>
+    </object>
+    <object>
+      <name>segments</name>
+      <h>12</h>
+      <object_id>660682</object_id>
+      <w>124</w>
+      <y>190</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>hanger</name>
+      <h>36</h>
+      <object_id>660683</object_id>
+      <w>15</w>
+      <y>3</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>light</name>
+      <h>95</h>
+      <object_id>660685</object_id>
+      <w>105</w>
+      <y>85</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>guard</name>
+      <h>122</h>
+      <object_id>660688</object_id>
+      <w>133</w>
+      <y>54</y>
+      <x>125</x>
+    </object>
+    <object>
+      <name>edge</name>
+      <h>108</h>
+      <object_id>660689</object_id>
+      <w>128</w>
+      <y>56</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a street light that is covered in dirt and rust</caption>
+      <caption>a stop light with some dirt on it </caption>
+      <caption>a close up of a traffic light </caption>
+      <caption>An old, dusty stoplight that no longer works. </caption>
+      <caption>A yellow traffic light with a set of three different colors.</caption>
+    </captions>
+</image>

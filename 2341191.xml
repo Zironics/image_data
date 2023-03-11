@@ -1,0 +1,90 @@
+<image>
+  <image-id>2341191</image-id>
+  <coco-id>217923</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4094423</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2469758</subject>
+      <object>2469757</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094425</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3713557</subject>
+      <object>3713558</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094426</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2951700</subject>
+      <object>2951701</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>ON</attribute>
+      </attributes>
+      <name>key</name>
+      <h>50</h>
+      <object_id>2469758</object_id>
+      <w>63</w>
+      <y>174</y>
+      <x>393</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>277</h>
+      <object_id>2469757</object_id>
+      <w>337</w>
+      <y>78</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>key</name>
+      <h>66</h>
+      <object_id>3713557</object_id>
+      <w>73</w>
+      <y>250</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>174</h>
+      <object_id>3713558</object_id>
+      <w>122</w>
+      <y>164</y>
+      <x>375</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>49</h>
+      <object_id>2951700</object_id>
+      <w>77</w>
+      <y>38</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>372</h>
+      <object_id>2951701</object_id>
+      <w>389</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A close up of a cats profile is shown.</caption>
+      <caption>A cat that is standing next to a laptop.</caption>
+      <caption>Close up of a cat giving a glance up from the computer.</caption>
+      <caption>A close up image of a cat and a keyboard.</caption>
+      <caption>a cat that is sitting over a keyboard</caption>
+    </captions>
+</image>

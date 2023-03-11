@@ -1,0 +1,82 @@
+<image>
+  <image-id>2381586</image-id>
+  <coco-id>567135</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4633321</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4177923</subject>
+      <object>4177924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4583368</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4055994</subject>
+      <object>4055973</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4583374</relationship_id>
+      <predicate>has</predicate>
+      <subject>4055994</subject>
+      <object>4055995</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>ring</name>
+      <h>14</h>
+      <object_id>4177923</object_id>
+      <w>16</w>
+      <y>215</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>finger</name>
+      <h>40</h>
+      <object_id>4177924</object_id>
+      <w>24</w>
+      <y>193</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>268</h>
+      <object_id>4055994</object_id>
+      <w>218</w>
+      <y>5</y>
+      <x>279</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>nail polish</name>
+      <h>40</h>
+      <object_id>4055973</object_id>
+      <w>66</w>
+      <y>138</y>
+      <x>433</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>fingernail</name>
+      <h>10</h>
+      <object_id>4055995</object_id>
+      <w>8</w>
+      <y>140</y>
+      <x>433</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A commencement ceremony at an Asian university being broadcast by several students.</caption>
+      <caption>A group of people taking pictures with their smartphones.</caption>
+      <caption>An audience of people are taking pictures on their cell phones.</caption>
+      <caption>People taking nice photos at a white wedding</caption>
+      <caption>a group of people taking video with their cell phones </caption>
+    </captions>
+</image>

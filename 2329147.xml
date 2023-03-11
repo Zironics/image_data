@@ -1,0 +1,87 @@
+<image>
+  <image-id>2329147</image-id>
+  <coco-id>67515</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4032511</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3072342</subject>
+      <object>3072341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4020902</relationship_id>
+      <predicate>coming from</predicate>
+      <subject>2911759</subject>
+      <object>2911760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4081547</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3238069</subject>
+      <object>3238070</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>157</h>
+      <object_id>3072342</object_id>
+      <w>90</w>
+      <y>165</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>81</h>
+      <object_id>3072341</object_id>
+      <w>80</w>
+      <y>238</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>smoke</name>
+      <h>60</h>
+      <object_id>2911759</object_id>
+      <w>129</w>
+      <y>205</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>156</h>
+      <object_id>2911760</object_id>
+      <w>444</w>
+      <y>216</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>45</h>
+      <object_id>3238069</object_id>
+      <w>20</w>
+      <y>184</y>
+      <x>362</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>22</h>
+      <object_id>3238070</object_id>
+      <w>20</w>
+      <y>197</y>
+      <x>363</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This ride is a train taking families around a track</caption>
+      <caption>A man is driving a small train with children.</caption>
+      <caption>A number of passengers aboard a miniature train.</caption>
+      <caption>A tiny train pulls adults and children on a short ride.</caption>
+      <caption>The miniature train is filled with adults with their children.</caption>
+    </captions>
+</image>

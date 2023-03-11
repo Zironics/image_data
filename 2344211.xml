@@ -1,0 +1,216 @@
+<image>
+  <image-id>2344211</image-id>
+  <coco-id>135872</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3890735</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>2656729</subject>
+      <object>3632943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890736</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>3632944</subject>
+      <object>2559497</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890737</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>3632945</subject>
+      <object>2559497</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890739</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3632946</subject>
+      <object>3632949</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890740</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3632947</subject>
+      <object>3632949</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890741</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3632948</subject>
+      <object>3632949</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890742</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>2154639</subject>
+      <object>2154638</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890745</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2094069</subject>
+      <object>3632950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890748</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>2272026</subject>
+      <object>2568097</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3890750</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>2656729</subject>
+      <object>3632953</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <h>142</h>
+      <object_id>2656729</object_id>
+      <w>51</w>
+      <y>0</y>
+      <x>420</x>
+      <name>jacket</name>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>239</h>
+      <object_id>3632943</object_id>
+      <w>110</w>
+      <y>1</y>
+      <x>374</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>36</h>
+      <object_id>3632944</object_id>
+      <w>69</w>
+      <y>168</y>
+      <x>310</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>185</h>
+      <object_id>2559497</object_id>
+      <w>122</w>
+      <y>112</y>
+      <x>299</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>20</h>
+      <object_id>3632945</object_id>
+      <w>30</w>
+      <y>135</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>mouse</name>
+      <h>9</h>
+      <object_id>3632946</object_id>
+      <w>18</w>
+      <y>130</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>92</h>
+      <object_id>3632949</object_id>
+      <w>71</w>
+      <y>30</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>mouse</name>
+      <h>8</h>
+      <object_id>3632947</object_id>
+      <w>14</w>
+      <y>129</y>
+      <x>320</x>
+    </object>
+    <object>
+      <name>mouse</name>
+      <h>10</h>
+      <object_id>3632948</object_id>
+      <w>18</w>
+      <y>121</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>scissors</name>
+      <h>10</h>
+      <object_id>2154639</object_id>
+      <w>19</w>
+      <y>101</y>
+      <x>299</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>jar</name>
+      <h>17</h>
+      <object_id>2154638</object_id>
+      <w>13</w>
+      <y>108</y>
+      <x>297</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Star Wars</attribute>
+      </attributes>
+      <h>74</h>
+      <object_id>2094069</object_id>
+      <w>122</w>
+      <y>223</y>
+      <x>0</x>
+      <name>jet</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>103</h>
+      <object_id>3632950</object_id>
+      <w>144</w>
+      <y>228</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>computer tower</name>
+      <h>70</h>
+      <object_id>2272026</object_id>
+      <w>77</w>
+      <y>55</y>
+      <x>289</x>
+    </object>
+    <object>
+      <h>90</h>
+      <object_id>2568097</object_id>
+      <w>69</w>
+      <y>32</y>
+      <x>209</x>
+      <name>computer monitor</name>
+    </object>
+    <object>
+      <name>hook</name>
+      <h>5</h>
+      <object_id>3632953</object_id>
+      <w>10</w>
+      <y>0</y>
+      <x>453</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A desk with both a laptop computer and a desktop computer.</caption>
+      <caption>A desk containing a desktop and laptop computers.</caption>
+      <caption>A home office desk with a desktop computer, large flat screen monitor, and laptop computer on it.</caption>
+      <caption>a desk with a computer  a laptop and monitor</caption>
+      <caption>a desk with a laptop and a desktop computer </caption>
+    </captions>
+</image>

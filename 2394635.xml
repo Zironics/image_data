@@ -1,0 +1,115 @@
+<image>
+  <image-id>2394635</image-id>
+  <coco-id>535306</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4761158</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4495772</subject>
+      <object>4495773</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726542</relationship_id>
+      <predicate>grey right</predicate>
+      <subject>4407742</subject>
+      <object>4407743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726544</relationship_id>
+      <predicate>to grind</predicate>
+      <subject>4407745</subject>
+      <object>4407746</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726545</relationship_id>
+      <predicate>clear blue</predicate>
+      <subject>4407747</subject>
+      <object>4407748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726546</relationship_id>
+      <predicate>clear blue</predicate>
+      <subject>4407747</subject>
+      <object>4407748</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>50</h>
+      <object_id>4495772</object_id>
+      <w>47</w>
+      <y>237</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>ramp</name>
+      <h>165</h>
+      <object_id>4495773</object_id>
+      <w>482</w>
+      <y>161</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>the</name>
+      <h>63</h>
+      <object_id>4407742</object_id>
+      <w>75</w>
+      <y>155</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>37</h>
+      <object_id>4407743</object_id>
+      <w>40</w>
+      <y>188</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>rails</name>
+      <h>121</h>
+      <object_id>4407745</object_id>
+      <w>224</w>
+      <y>208</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>on</name>
+      <h>48</h>
+      <object_id>4407746</object_id>
+      <w>37</w>
+      <y>285</y>
+      <x>369</x>
+    </object>
+    <object>
+      <name>the</name>
+      <h>156</h>
+      <object_id>4407747</object_id>
+      <w>282</w>
+      <y>58</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear and blue</attribute>
+      </attributes>
+      <name>skies</name>
+      <h>26</h>
+      <object_id>4407748</object_id>
+      <w>22</w>
+      <y>100</y>
+      <x>58</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man is doing skateboard tricks on a ramp</caption>
+      <caption>A man riding a skateboard up the side of a ramp.</caption>
+      <caption>A skateboarder balances on the top of a ramp.</caption>
+      <caption>A person with a skate board going getting ready to go down a ramp.</caption>
+      <caption>A boy stands at the top of a jump with his skateboard.</caption>
+    </captions>
+</image>

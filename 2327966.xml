@@ -1,0 +1,107 @@
+<image>
+  <image-id>2327966</image-id>
+  <coco-id>382515</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3624497</relationship_id>
+      <predicate>across</predicate>
+      <subject>3414455</subject>
+      <object>3414460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3624498</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2946351</subject>
+      <object>3019820</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703650</relationship_id>
+      <predicate>marking</predicate>
+      <subject>3190879</subject>
+      <object>3019820</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3624499</relationship_id>
+      <predicate>along</predicate>
+      <subject>2952368</subject>
+      <object>2952366</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train car</name>
+      <h>294</h>
+      <object_id>3414455</object_id>
+      <w>149</w>
+      <y>21</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>107</h>
+      <object_id>3414460</object_id>
+      <w>496</w>
+      <y>266</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>line</name>
+      <h>85</h>
+      <object_id>2946351</object_id>
+      <w>107</w>
+      <y>283</y>
+      <x>245</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <h>96</h>
+      <object_id>3019820</object_id>
+      <w>498</w>
+      <y>278</y>
+      <x>0</x>
+      <name>road</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>94</h>
+      <object_id>3190879</object_id>
+      <w>102</w>
+      <y>280</y>
+      <x>394</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>weeds</name>
+      <h>55</h>
+      <object_id>2952368</object_id>
+      <w>27</w>
+      <y>265</y>
+      <x>471</x>
+    </object>
+    <object>
+      <name>roadside</name>
+      <h>90</h>
+      <object_id>2952366</object_id>
+      <w>90</w>
+      <y>267</y>
+      <x>408</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Train cars crossing a road near a field.</caption>
+      <caption>box cars of train crossing road intersection </caption>
+      <caption>Train cars on a track curving across a road.</caption>
+      <caption>A long train traveling down tracks with rusted cars.</caption>
+      <caption>A train that is riding on the rails near a street.</caption>
+    </captions>
+</image>

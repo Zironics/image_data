@@ -1,0 +1,65 @@
+<image>
+  <image-id>2330542</image-id>
+  <coco-id>281085</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3913627</relationship_id>
+      <predicate>grazing</predicate>
+      <subject>2909405</subject>
+      <object>2909410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3913628</relationship_id>
+      <predicate>with</predicate>
+      <subject>2764313</subject>
+      <object>3642437</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sheep</name>
+      <h>32</h>
+      <object_id>2909405</object_id>
+      <w>41</w>
+      <y>285</y>
+      <x>197</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>side</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>158</h>
+      <object_id>2909410</object_id>
+      <w>240</w>
+      <y>67</y>
+      <x>46</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>162</h>
+      <object_id>2764313</object_id>
+      <w>251</w>
+      <y>51</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>87</h>
+      <object_id>3642437</object_id>
+      <w>183</w>
+      <y>4</y>
+      <x>120</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Sheep grazing on a hill near a rocky orchard.</caption>
+      <caption>A flock of sheeps is grazing on a grassy hillside.</caption>
+      <caption>Group of sheep grazing in meadow near hill and trees. </caption>
+      <caption>A flock of sheep grazing at the base of a small hill</caption>
+      <caption>a field full of animals that are walking around a field</caption>
+    </captions>
+</image>

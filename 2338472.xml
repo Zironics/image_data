@@ -1,0 +1,60 @@
+<image>
+  <image-id>2338472</image-id>
+  <coco-id>456350</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4062225</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2889328</subject>
+      <object>2889329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4062226</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2020940</subject>
+      <object>3701498</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lights</name>
+      <h>120</h>
+      <object_id>2889328</object_id>
+      <w>317</w>
+      <y>374</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>306</h>
+      <object_id>2889329</object_id>
+      <w>178</w>
+      <y>97</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>84</h>
+      <object_id>2020940</object_id>
+      <w>75</w>
+      <y>413</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>87</h>
+      <object_id>3701498</object_id>
+      <w>92</w>
+      <y>410</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large building with Christmas decorations and a clock at the top</caption>
+      <caption>An upward view of a large building with a clock. </caption>
+      <caption>Decorations on a large cathedral style clock tower.
+</caption>
+      <caption>A clock tower has a Christmas display in front of it.</caption>
+      <caption>A clock tower in front of a night sky</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2416880</image-id>
+  <coco-id>44814</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3957013</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>3424189</subject>
+      <object>2869860</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>135</h>
+      <object_id>3424189</object_id>
+      <w>121</w>
+      <y>145</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>200</h>
+      <object_id>2869860</object_id>
+      <w>484</w>
+      <y>147</y>
+      <x>0</x>
+      <name>boat</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog sitting in a boat that is traveling in the water. </caption>
+      <caption>A watchdog is sitting in a canoe and going away. </caption>
+      <caption>A large dog is sitting in the small boat on the water.</caption>
+      <caption>Dog sitting a boat, riding through the river</caption>
+      <caption>The dog is inside the small boat on the water.</caption>
+    </captions>
+</image>

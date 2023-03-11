@@ -1,0 +1,75 @@
+<image>
+  <image-id>2399842</image-id>
+  <coco-id>362257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>880340</relationship_id>
+      <predicate>have</predicate>
+      <subject>413349</subject>
+      <object>413354</object>
+    </relationship>
+    <relationship>
+      <relationship_id>880343</relationship_id>
+      <predicate>have</predicate>
+      <subject>413349</subject>
+      <object>413354</object>
+    </relationship>
+    <relationship>
+      <relationship_id>880350</relationship_id>
+      <predicate>IN</predicate>
+      <subject>413350</subject>
+      <object>413348</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>tiles</name>
+      <h>67</h>
+      <object_id>413349</object_id>
+      <w>124</w>
+      <y>140</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>circles</name>
+      <h>30</h>
+      <object_id>413354</object_id>
+      <w>22</w>
+      <y>157</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shaped</attribute>
+        <attribute>above</attribute>
+      </attributes>
+      <name>window</name>
+      <h>96</h>
+      <object_id>413350</object_id>
+      <w>76</w>
+      <y>101</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiled</attribute>
+      </attributes>
+      <name>room</name>
+      <h>83</h>
+      <object_id>413348</object_id>
+      <w>171</w>
+      <y>208</y>
+      <x>85</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom with a small window and a odd toilet.</caption>
+      <caption>A brick and mortar room and bench with a single window.</caption>
+      <caption>A non-Western bathroom with a drop type toilet</caption>
+      <caption>A ROOM WITH A WINDOW IN IT </caption>
+      <caption>A simple concrete room with tile walls and stone platform.</caption>
+    </captions>
+</image>

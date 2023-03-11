@@ -1,0 +1,96 @@
+<image>
+  <image-id>1591950</image-id>
+  <coco-id>298527</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4078804</relationship_id>
+      <predicate>holding onto</predicate>
+      <subject>1605446</subject>
+      <object>1605449</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264455</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3797619</subject>
+      <object>3797621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264454</relationship_id>
+      <predicate>sitting next to</predicate>
+      <subject>3797619</subject>
+      <object>1605452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264456</relationship_id>
+      <predicate>riding</predicate>
+      <subject>1605452</subject>
+      <object>3797621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264457</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>1605452</subject>
+      <object>3797622</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>asian</attribute>
+      </attributes>
+      <h>281</h>
+      <object_id>1605446</object_id>
+      <w>228</w>
+      <y>65</y>
+      <x>153</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>222</h>
+      <object_id>1605449</object_id>
+      <w>18</w>
+      <y>69</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>205</h>
+      <object_id>3797619</object_id>
+      <w>132</w>
+      <y>282</y>
+      <x>260</x>
+    </object>
+    <object>
+      <name>subway</name>
+      <h>606</h>
+      <object_id>3797621</object_id>
+      <w>590</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <h>245</h>
+      <object_id>1605452</object_id>
+      <w>232</w>
+      <y>240</y>
+      <x>380</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>142</h>
+      <object_id>3797622</object_id>
+      <w>38</w>
+      <y>344</y>
+      <x>526</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A subway train filled with passengers sitting in seats.</caption>
+      <caption>A lot of people that are in a trolley.</caption>
+      <caption>A woman with her hand to her face on the train</caption>
+      <caption>People minding their business as others are looking towards the camera.</caption>
+      <caption>A subway with a woman talking on a ohone</caption>
+    </captions>
+</image>

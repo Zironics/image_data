@@ -1,0 +1,37 @@
+<image>
+  <image-id>2381308</image-id>
+  <coco-id>82821</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3591893</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1337621</subject>
+      <object>1337622</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>road</name>
+      <h>15</h>
+      <object_id>1337621</object_id>
+      <w>104</w>
+      <y>95</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>128</h>
+      <object_id>1337622</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Paddle boats parked at the edge of a river or lake </caption>
+      <caption>A variety of paddle boats on the water near a park. </caption>
+      <caption>Paddleboats are lined up and ready for tourists this morning</caption>
+      <caption>A group of boats sitting next to a dock near a boat house.</caption>
+      <caption>Group of paddle boats tied up alongside a pear on the water. </caption>
+    </captions>
+</image>

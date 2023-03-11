@@ -1,0 +1,103 @@
+<image>
+  <image-id>2395976</image-id>
+  <coco-id>495790</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3377800</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1201656</subject>
+      <object>1201651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3377801</relationship_id>
+      <predicate>are attached to</predicate>
+      <subject>1201657</subject>
+      <object>1201658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3377802</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1201652</subject>
+      <object>1201651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3377803</relationship_id>
+      <predicate>are on outside of</predicate>
+      <subject>1201657</subject>
+      <object>1201662</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>full</attribute>
+      </attributes>
+      <name>basket</name>
+      <h>46</h>
+      <object_id>1201656</object_id>
+      <w>60</w>
+      <y>143</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>tan</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>185</h>
+      <object_id>1201651</object_id>
+      <w>311</w>
+      <y>115</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>72</h>
+      <object_id>1201657</object_id>
+      <w>335</w>
+      <y>38</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>259</h>
+      <object_id>1201658</object_id>
+      <w>336</w>
+      <y>40</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>on</attribute>
+      </attributes>
+      <name>lights</name>
+      <h>33</h>
+      <object_id>1201652</object_id>
+      <w>311</w>
+      <y>36</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>building</name>
+      <h>323</h>
+      <object_id>1201662</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some giraffes are standing on the ground in a zoo. </caption>
+      <caption>Two giraffes walk in the dirt in an enclosure.</caption>
+      <caption>two giraffes walking on a dirt ground near a building</caption>
+      <caption>Two giraffe who are standing in an enclosure. </caption>
+      <caption>Two giraffes are in an enclosure by a wall.</caption>
+    </captions>
+</image>

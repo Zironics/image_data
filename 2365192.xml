@@ -1,0 +1,84 @@
+<image>
+  <image-id>2365192</image-id>
+  <coco-id>562356</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4385903</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1749155</subject>
+      <object>2434352</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4385904</relationship_id>
+      <predicate>near</predicate>
+      <subject>2165215</subject>
+      <object>2165216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4103115</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3479845</subject>
+      <object>3479846</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>headlights</name>
+      <h>20</h>
+      <object_id>1749155</object_id>
+      <w>42</w>
+      <y>172</y>
+      <x>51</x>
+    </object>
+    <object>
+      <h>161</h>
+      <object_id>2434352</object_id>
+      <w>133</w>
+      <y>139</y>
+      <x>37</x>
+      <name>bike</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green slope</name>
+      <h>75</h>
+      <object_id>2165215</object_id>
+      <w>221</w>
+      <y>110</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>97</h>
+      <object_id>2165216</object_id>
+      <w>240</w>
+      <y>150</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>89</h>
+      <object_id>3479845</object_id>
+      <w>44</w>
+      <y>109</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>motorbike</name>
+      <h>65</h>
+      <object_id>3479846</object_id>
+      <w>43</w>
+      <y>142</y>
+      <x>195</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motor cycle procession down a wet street.</caption>
+      <caption>A large group of motorcycle riders driving down a street together in a long line.</caption>
+      <caption>Group of motorcycle riders in black riding on the street together. </caption>
+      <caption>A group of motorcyclists traveling together on a cloudy day.</caption>
+      <caption>Long line of motorcycle riders passing cars parked on the road.</caption>
+    </captions>
+</image>

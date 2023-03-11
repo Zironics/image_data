@@ -1,0 +1,105 @@
+<image>
+  <image-id>2339928</image-id>
+  <coco-id>495100</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4116481</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3721139</subject>
+      <object>3721138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4037800</relationship_id>
+      <predicate>has</predicate>
+      <subject>2937039</subject>
+      <object>2071920</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4037801</relationship_id>
+      <predicate>has</predicate>
+      <subject>2937039</subject>
+      <object>2937041</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4456809</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2937040</subject>
+      <object>3026685</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>55</h>
+      <object_id>3721139</object_id>
+      <w>45</w>
+      <y>194</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>147</h>
+      <object_id>3721138</object_id>
+      <w>63</w>
+      <y>137</y>
+      <x>214</x>
+    </object>
+    <object>
+      <h>133</h>
+      <object_id>2937039</object_id>
+      <w>63</w>
+      <y>144</y>
+      <x>209</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>belt</name>
+      <h>25</h>
+      <object_id>2071920</object_id>
+      <w>72</w>
+      <y>193</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>socks</name>
+      <h>30</h>
+      <object_id>2937041</object_id>
+      <w>25</w>
+      <y>240</y>
+      <x>229</x>
+    </object>
+    <object>
+      <h>112</h>
+      <object_id>2937040</object_id>
+      <w>35</w>
+      <y>9</y>
+      <x>194</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>281</h>
+      <object_id>3026685</object_id>
+      <w>498</w>
+      <y>51</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player throws a baseball on a field
+</caption>
+      <caption>A baseball player tosses a ball while a cop looks on in the background. </caption>
+      <caption>a man is throwing a baseball from the outfield</caption>
+      <caption>A baseball player pitching a baseball on a field.</caption>
+      <caption>A baseball player throwing a baseball on a baseball diamond.</caption>
+    </captions>
+</image>

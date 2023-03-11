@@ -1,0 +1,63 @@
+<image>
+  <image-id>2387199</image-id>
+  <coco-id>396415</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1231863</relationship_id>
+      <predicate>has</predicate>
+      <subject>514641</subject>
+      <object>514643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1231864</relationship_id>
+      <predicate>has</predicate>
+      <subject>514644</subject>
+      <object>514645</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>for gas station</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>71</h>
+      <object_id>514641</object_id>
+      <w>65</w>
+      <y>44</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>word</name>
+      <h>19</h>
+      <object_id>514643</object_id>
+      <w>55</w>
+      <y>92</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>72</h>
+      <object_id>514644</object_id>
+      <w>58</w>
+      <y>137</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>gas prices</name>
+      <h>66</h>
+      <object_id>514645</object_id>
+      <w>29</w>
+      <y>139</y>
+      <x>247</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A truck route sign is mounted to a pole.</caption>
+      <caption>A street sign indicated a truck route through town.</caption>
+      <caption>two street signs on a pole near a street </caption>
+      <caption>a truck route sign on the sidewalk next to a gas station</caption>
+      <caption>A sign in front of a gas station reads "truck route"</caption>
+    </captions>
+</image>

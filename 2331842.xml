@@ -1,0 +1,54 @@
+<image>
+  <image-id>2331842</image-id>
+  <coco-id>529689</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4003046</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2977259</subject>
+      <object>2718241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805693</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2977259</subject>
+      <object>3596450</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>4</h>
+      <object_id>2977259</object_id>
+      <w>3</w>
+      <y>92</y>
+      <x>9</x>
+      <name>leaf</name>
+    </object>
+    <object>
+      <name>plant</name>
+      <h>40</h>
+      <object_id>2718241</object_id>
+      <w>18</w>
+      <y>48</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>plant</name>
+      <h>66</h>
+      <object_id>3596450</object_id>
+      <w>21</w>
+      <y>51</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some train cars on a rusty train track. </caption>
+      <caption>A long train traveling past other tracks near a forest.</caption>
+      <caption>Multi-colored train box cars sitting on railroad tracks.</caption>
+      <caption>a couple of train tracks that has a train on one</caption>
+      <caption>A train car sits on an empty railroad depot.</caption>
+    </captions>
+</image>

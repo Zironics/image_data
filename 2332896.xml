@@ -1,0 +1,59 @@
+<image>
+  <image-id>2332896</image-id>
+  <coco-id>216371</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4083834</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3383053</subject>
+      <object>3108877</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083835</relationship_id>
+      <predicate>of a polar</predicate>
+      <subject>3108873</subject>
+      <object>3108877</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>furry</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>110</h>
+      <object_id>3383053</object_id>
+      <w>51</w>
+      <y>165</y>
+      <x>192</x>
+    </object>
+    <object>
+      <h>213</h>
+      <object_id>3108877</object_id>
+      <w>138</w>
+      <y>52</y>
+      <x>193</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>furry</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>85</h>
+      <object_id>3108873</object_id>
+      <w>42</w>
+      <y>169</y>
+      <x>287</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two polar bears in an enclosure are near some water.</caption>
+      <caption>Two white polar bears standing next to a pond by a rock covered hill.</caption>
+      <caption>two polar bears playing near a body of water</caption>
+      <caption>Two polar bears frolicking by a body of water.</caption>
+      <caption>two white polar bears standing by water, one biting the other's ear</caption>
+    </captions>
+</image>

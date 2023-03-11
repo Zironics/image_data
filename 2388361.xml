@@ -1,0 +1,74 @@
+<image>
+  <image-id>2388361</image-id>
+  <coco-id>509899</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4768531</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4516921</subject>
+      <object>4516923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4768532</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4516924</subject>
+      <object>4516923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4768533</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4516925</subject>
+      <object>4516923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>license plate</name>
+      <h>18</h>
+      <object_id>4516921</object_id>
+      <w>25</w>
+      <y>183</y>
+      <x>79</x>
+    </object>
+    <object>
+      <h>107</h>
+      <object_id>4516923</object_id>
+      <w>148</w>
+      <y>108</y>
+      <x>38</x>
+      <name>school bus</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>12</h>
+      <object_id>4516924</object_id>
+      <w>16</w>
+      <y>114</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>12</h>
+      <object_id>4516925</object_id>
+      <w>14</w>
+      <y>114</y>
+      <x>112</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A parking lot filled with yellow school buses parked side by side.</caption>
+      <caption>A parking lot that is full of school buses.</caption>
+      <caption>a bus yard full of big school buses</caption>
+      <caption>Rows of school buses are parked in a lot. </caption>
+      <caption>A fleet of school buses are parked in an unpaved lot.</caption>
+    </captions>
+</image>

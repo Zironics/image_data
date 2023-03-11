@@ -1,0 +1,88 @@
+<image>
+  <image-id>2323757</image-id>
+  <coco-id>367511</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3640659</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2827574</subject>
+      <object>2955994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640660</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2827574</subject>
+      <object>3524896</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640661</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2827574</subject>
+      <object>3169683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640662</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3169685</subject>
+      <object>3169683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3640663</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2827574</subject>
+      <object>3169683</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+      </attributes>
+      <h>228</h>
+      <object_id>2827574</object_id>
+      <w>433</w>
+      <y>77</y>
+      <x>52</x>
+      <name>train</name>
+    </object>
+    <object>
+      <name>track</name>
+      <h>27</h>
+      <object_id>2955994</object_id>
+      <w>192</w>
+      <y>304</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>130</h>
+      <object_id>3524896</object_id>
+      <w>437</w>
+      <y>200</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>37</h>
+      <object_id>3169683</object_id>
+      <w>222</w>
+      <y>294</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>215</h>
+      <object_id>3169685</object_id>
+      <w>125</w>
+      <y>66</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green train pulling into a train station.</caption>
+      <caption>an image of a couple of trains on the tracks imobile</caption>
+      <caption>A green train engine next to a yellow train car.</caption>
+      <caption>An old, colorful train has been parked on the tracks.</caption>
+      <caption>A green train parked on tracks next to a yellow train.</caption>
+    </captions>
+</image>

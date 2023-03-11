@@ -1,0 +1,124 @@
+<image>
+  <image-id>2320995</image-id>
+  <coco-id>92014</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4540688</relationship_id>
+      <predicate>along</predicate>
+      <subject>3010338</subject>
+      <object>3010343</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540689</relationship_id>
+      <predicate>along</predicate>
+      <subject>3010339</subject>
+      <object>3010343</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540690</relationship_id>
+      <predicate>along</predicate>
+      <subject>3010340</subject>
+      <object>3010343</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540691</relationship_id>
+      <predicate>along</predicate>
+      <subject>3010341</subject>
+      <object>3010343</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540692</relationship_id>
+      <predicate>along</predicate>
+      <subject>3010342</subject>
+      <object>3010343</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3989131</relationship_id>
+      <predicate>with</predicate>
+      <subject>3212332</subject>
+      <object>3672103</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black tiles</name>
+      <h>5</h>
+      <object_id>3010338</object_id>
+      <w>4</w>
+      <y>310</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>75</h>
+      <object_id>3010343</object_id>
+      <w>497</w>
+      <y>256</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>black tiles</name>
+      <h>5</h>
+      <object_id>3010339</object_id>
+      <w>6</w>
+      <y>316</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>black tiles</name>
+      <h>5</h>
+      <object_id>3010340</object_id>
+      <w>5</w>
+      <y>305</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>black tiles</name>
+      <h>4</h>
+      <object_id>3010341</object_id>
+      <w>7</w>
+      <y>286</y>
+      <x>423</x>
+    </object>
+    <object>
+      <name>black tiles</name>
+      <h>5</h>
+      <object_id>3010342</object_id>
+      <w>6</w>
+      <y>271</y>
+      <x>452</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>58</h>
+      <object_id>3212332</object_id>
+      <w>424</w>
+      <y>274</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>3</h>
+      <object_id>3672103</object_id>
+      <w>3</w>
+      <y>320</y>
+      <x>243</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Floor length urinals in a tiled public restroom.</caption>
+      <caption>Five urinals sitting side by side in a bathroom.</caption>
+      <caption>The bathroom wall is lined with five standing urinals.</caption>
+      <caption>A row of five urinals in a bathroom</caption>
+      <caption>A mens bathroom filled with toilets for men. </caption>
+    </captions>
+</image>

@@ -1,0 +1,60 @@
+<image>
+  <image-id>286089</image-id>
+  <coco-id>213687</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4051971</relationship_id>
+      <predicate>over a</predicate>
+      <subject>3697576</subject>
+      <object>1571879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4051972</relationship_id>
+      <predicate>over a</predicate>
+      <subject>1571878</subject>
+      <object>3697576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4051973</relationship_id>
+      <predicate>to</predicate>
+      <subject>1571879</subject>
+      <object>1571879</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>18</h>
+      <object_id>3697576</object_id>
+      <w>35</w>
+      <y>419</y>
+      <x>476</x>
+      <name>kfc sign</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>65</h>
+      <object_id>1571879</object_id>
+      <w>54</w>
+      <y>417</y>
+      <x>466</x>
+      <name>doorway</name>
+    </object>
+    <object>
+      <name>window</name>
+      <h>54</h>
+      <object_id>1571878</object_id>
+      <w>48</w>
+      <y>348</y>
+      <x>462</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Motorcycles driving down a wide city street nearing a white building.</caption>
+      <caption>A large building with many windows and people riding scooters nearby</caption>
+      <caption>People are riding scooters down the middle of the road.</caption>
+      <caption>People are riding electric scooters in front of a large building.</caption>
+      <caption>Many motorcycles riding in front of a KFC.</caption>
+    </captions>
+</image>

@@ -1,0 +1,112 @@
+<image>
+  <image-id>2338712</image-id>
+  <coco-id>538513</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4797259</relationship_id>
+      <predicate>spilled on</predicate>
+      <subject>4591687</subject>
+      <object>4591686</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797260</relationship_id>
+      <predicate>spilled on</predicate>
+      <subject>4591688</subject>
+      <object>4591686</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797261</relationship_id>
+      <predicate>spilled on</predicate>
+      <subject>4591689</subject>
+      <object>4591686</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797262</relationship_id>
+      <predicate>spilled on</predicate>
+      <subject>4591690</subject>
+      <object>4591686</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797263</relationship_id>
+      <predicate>spilled on</predicate>
+      <subject>4591691</subject>
+      <object>4591686</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>spice</name>
+      <h>4</h>
+      <object_id>4591687</object_id>
+      <w>5</w>
+      <y>207</y>
+      <x>252</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>paper</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>208</h>
+      <object_id>4591686</object_id>
+      <w>273</w>
+      <y>139</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>spice</name>
+      <h>4</h>
+      <object_id>4591688</object_id>
+      <w>6</w>
+      <y>236</y>
+      <x>253</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>spice</name>
+      <h>6</h>
+      <object_id>4591689</object_id>
+      <w>6</w>
+      <y>245</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>spice</name>
+      <h>6</h>
+      <object_id>4591690</object_id>
+      <w>9</w>
+      <y>253</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>spice</name>
+      <h>5</h>
+      <object_id>4591691</object_id>
+      <w>6</w>
+      <y>239</y>
+      <x>239</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A slice of pizza on a paper plate.</caption>
+      <caption>A slice of pizza being served on a plate.</caption>
+      <caption>A slice of pizza sits on the paper plate</caption>
+      <caption>The metal table has a slice of pizza on a plate. </caption>
+      <caption>A slice of pizza is sitting on the top of a paper plate.</caption>
+    </captions>
+</image>

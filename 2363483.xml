@@ -1,0 +1,270 @@
+<image>
+  <image-id>2363483</image-id>
+  <coco-id>249906</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2090480</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>764727</subject>
+      <object>764728</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090481</relationship_id>
+      <predicate>has</predicate>
+      <subject>764739</subject>
+      <object>764731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090482</relationship_id>
+      <predicate>in between</predicate>
+      <subject>764732</subject>
+      <object>764733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090483</relationship_id>
+      <predicate>ON</predicate>
+      <subject>764735</subject>
+      <object>764726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090484</relationship_id>
+      <predicate>along side of</predicate>
+      <subject>764736</subject>
+      <object>764733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090485</relationship_id>
+      <predicate>along side of</predicate>
+      <subject>764739</subject>
+      <object>764726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090486</relationship_id>
+      <predicate>ON</predicate>
+      <subject>764726</subject>
+      <object>764733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090487</relationship_id>
+      <predicate>next to</predicate>
+      <subject>764739</subject>
+      <object>764733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090488</relationship_id>
+      <predicate>walking next to</predicate>
+      <subject>764727</subject>
+      <object>764726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090489</relationship_id>
+      <predicate>next to</predicate>
+      <subject>764731</subject>
+      <object>764726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090490</relationship_id>
+      <predicate>next to</predicate>
+      <subject>764740</subject>
+      <object>764726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090491</relationship_id>
+      <predicate>ON</predicate>
+      <subject>764734</subject>
+      <object>764726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090492</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>764742</subject>
+      <object>764726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090493</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>764726</subject>
+      <object>764733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090494</relationship_id>
+      <predicate>ON</predicate>
+      <subject>764733</subject>
+      <object>764743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090495</relationship_id>
+      <predicate>has</predicate>
+      <subject>764726</subject>
+      <object>764735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090496</relationship_id>
+      <predicate>has</predicate>
+      <subject>764726</subject>
+      <object>764744</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2090497</relationship_id>
+      <predicate>has</predicate>
+      <subject>764726</subject>
+      <object>764745</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>wearing red</attribute>
+      </attributes>
+      <name>lady</name>
+      <h>26</h>
+      <object_id>764727</object_id>
+      <w>19</w>
+      <y>154</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>dress</name>
+      <h>16</h>
+      <object_id>764728</object_id>
+      <w>12</w>
+      <y>162</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cement</attribute>
+      </attributes>
+      <h>165</h>
+      <object_id>764739</object_id>
+      <w>220</w>
+      <y>169</y>
+      <x>5</x>
+      <name>sidewalk</name>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>233</h>
+      <object_id>764731</object_id>
+      <w>40</w>
+      <y>0</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>gravel</name>
+      <h>36</h>
+      <object_id>764732</object_id>
+      <w>36</w>
+      <y>282</y>
+      <x>357</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>93</h>
+      <object_id>764733</object_id>
+      <w>250</w>
+      <y>239</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>head lights</name>
+      <h>26</h>
+      <object_id>764735</object_id>
+      <w>131</w>
+      <y>208</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>leaving station</attribute>
+        <attribute>carrying passengers</attribute>
+        <attribute>in the city</attribute>
+        <attribute>bringing people home</attribute>
+        <attribute>operated by the city</attribute>
+        <attribute>running late</attribute>
+        <attribute>right on time</attribute>
+        <attribute>on the tracks</attribute>
+        <attribute>bringing people</attribute>
+        <attribute>stopped</attribute>
+        <attribute>blue</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>train</name>
+      <h>196</h>
+      <object_id>764726</object_id>
+      <w>197</w>
+      <y>96</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>159</h>
+      <object_id>764736</object_id>
+      <w>201</w>
+      <y>1</y>
+      <x>295</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>square</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>67</h>
+      <object_id>764740</object_id>
+      <w>21</w>
+      <y>139</y>
+      <x>428</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>378 234</attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>11</h>
+      <object_id>764734</object_id>
+      <w>34</w>
+      <y>197</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>66</h>
+      <object_id>764742</object_id>
+      <w>126</w>
+      <y>127</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>141</h>
+      <object_id>764743</object_id>
+      <w>306</w>
+      <y>190</y>
+      <x>193</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>54</h>
+      <object_id>764744</object_id>
+      <w>34</w>
+      <y>129</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>side windows</name>
+      <h>49</h>
+      <object_id>764745</object_id>
+      <w>45</w>
+      <y>143</y>
+      <x>173</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An electric commuter train at a well maintained station</caption>
+      <caption>A train is seen at a station in a foreign country.</caption>
+      <caption>A train traveling down tracks next to a fence.</caption>
+      <caption>A yellow tram is coming up the tracks</caption>
+      <caption>A commuter train drives along tracks between hills of green trees.</caption>
+    </captions>
+</image>

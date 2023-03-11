@@ -1,0 +1,87 @@
+<image>
+  <image-id>2345313</image-id>
+  <coco-id>85665</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2664803</relationship_id>
+      <predicate>IN</predicate>
+      <subject>909173</subject>
+      <object>909174</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2664804</relationship_id>
+      <predicate>IN</predicate>
+      <subject>909173</subject>
+      <object>909174</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2664805</relationship_id>
+      <predicate>OF</predicate>
+      <subject>909175</subject>
+      <object>909173</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2664806</relationship_id>
+      <predicate>ON</predicate>
+      <subject>909176</subject>
+      <object>909173</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>fish</attribute>
+        <attribute>abstract</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>287</h>
+      <object_id>909173</object_id>
+      <w>166</w>
+      <y>185</y>
+      <x>182</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>493</h>
+      <object_id>909174</object_id>
+      <w>388</w>
+      <y>6</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>ribbon</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>136</h>
+      <object_id>909175</object_id>
+      <w>72</w>
+      <y>342</y>
+      <x>272</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>fin</name>
+      <h>31</h>
+      <object_id>909176</object_id>
+      <w>36</w>
+      <y>207</y>
+      <x>244</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A decorated kite with tail flies in a gray sky. </caption>
+      <caption>A painting of a blue fish flying through the canvas</caption>
+      <caption>A blue kite is flying in the sky</caption>
+      <caption>A brightly colored kite shaped like a fish flies in a clear sky,</caption>
+      <caption>A blue colorful kite flying through the gray sky.</caption>
+    </captions>
+</image>

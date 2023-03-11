@@ -1,0 +1,79 @@
+<image>
+  <image-id>2394405</image-id>
+  <coco-id>563730</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4729487</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4414897</subject>
+      <object>4414901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4729488</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4414890</subject>
+      <object>4414901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4729489</relationship_id>
+      <predicate>under</predicate>
+      <subject>4414901</subject>
+      <object>4414890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4729490</relationship_id>
+      <predicate>under</predicate>
+      <subject>4414901</subject>
+      <object>4414890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4729491</relationship_id>
+      <predicate>under</predicate>
+      <subject>4414901</subject>
+      <object>4414890</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>260</h>
+      <object_id>4414897</object_id>
+      <w>256</w>
+      <y>30</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>444</h>
+      <object_id>4414901</object_id>
+      <w>491</w>
+      <y>41</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>115</h>
+      <object_id>4414890</object_id>
+      <w>495</w>
+      <y>296</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An orange lying next to a green utensil.</caption>
+      <caption>a table with a orange and a fork on it</caption>
+      <caption>A small fork and spoon sitting next to an orange.</caption>
+      <caption>An orange sitting next to a plastic fork.</caption>
+      <caption>An orange is placed in front of a backpacking utensil.</caption>
+    </captions>
+</image>

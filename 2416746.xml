@@ -1,0 +1,316 @@
+<image>
+  <image-id>2416746</image-id>
+  <coco-id>432896</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3179923</relationship_id>
+      <predicate>standing behind</predicate>
+      <subject>1057126</subject>
+      <object>1057127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179924</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1057128</subject>
+      <object>1057129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179925</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1057127</subject>
+      <object>1057126</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179926</relationship_id>
+      <predicate>standing near</predicate>
+      <subject>1057126</subject>
+      <object>1057128</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179927</relationship_id>
+      <predicate>standing behind</predicate>
+      <subject>1057126</subject>
+      <object>1057129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179928</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1057130</subject>
+      <object>1057131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179929</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1057132</subject>
+      <object>1057133</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179930</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>1057135</subject>
+      <object>1057136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179931</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>1057127</subject>
+      <object>1057137</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179932</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1057128</subject>
+      <object>1057129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179933</relationship_id>
+      <predicate>standing behind</predicate>
+      <subject>1057126</subject>
+      <object>1057129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179934</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1057139</subject>
+      <object>1057136</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179935</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1057140</subject>
+      <object>1057131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179936</relationship_id>
+      <predicate>has</predicate>
+      <subject>1057136</subject>
+      <object>1057141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179937</relationship_id>
+      <predicate>laying next to</predicate>
+      <subject>1057140</subject>
+      <object>1057142</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179938</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1057140</subject>
+      <object>1057131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179939</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1057142</subject>
+      <object>1057131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179940</relationship_id>
+      <predicate>laying next to</predicate>
+      <subject>1057130</subject>
+      <object>1057137</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179941</relationship_id>
+      <predicate>over</predicate>
+      <subject>1057138</subject>
+      <object>1057128</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179942</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1057144</subject>
+      <object>1057131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179943</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>1057127</subject>
+      <object>1057140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3179944</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1057144</subject>
+      <object>1057131</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>29</h>
+      <object_id>1057126</object_id>
+      <w>13</w>
+      <y>84</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>113</h>
+      <object_id>1057127</object_id>
+      <w>81</w>
+      <y>107</y>
+      <x>291</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reading</attribute>
+      </attributes>
+      <name>lifeguard</name>
+      <h>33</h>
+      <object_id>1057128</object_id>
+      <w>21</w>
+      <y>55</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>lifeguard chair</name>
+      <h>88</h>
+      <object_id>1057129</object_id>
+      <w>46</w>
+      <y>41</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light brown</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>89</h>
+      <object_id>1057130</object_id>
+      <w>104</w>
+      <y>144</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>sandy</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>163</h>
+      <object_id>1057131</object_id>
+      <w>500</w>
+      <y>101</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>flag</name>
+      <h>29</h>
+      <object_id>1057132</object_id>
+      <w>12</w>
+      <y>31</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>114</h>
+      <object_id>1057133</object_id>
+      <w>12</w>
+      <y>30</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>13</h>
+      <object_id>1057135</object_id>
+      <w>8</w>
+      <y>104</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ocean</attribute>
+        <attribute>turquoise</attribute>
+      </attributes>
+      <name>water</name>
+      <h>62</h>
+      <object_id>1057136</object_id>
+      <w>499</w>
+      <y>86</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>90</h>
+      <object_id>1057137</object_id>
+      <w>109</w>
+      <y>130</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>23</h>
+      <object_id>1057139</object_id>
+      <w>167</w>
+      <y>47</y>
+      <x>331</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark brown</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>82</h>
+      <object_id>1057140</object_id>
+      <w>85</w>
+      <y>138</y>
+      <x>338</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>20</h>
+      <object_id>1057141</object_id>
+      <w>184</w>
+      <y>106</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>70</h>
+      <object_id>1057142</object_id>
+      <w>83</w>
+      <y>152</y>
+      <x>416</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>19</h>
+      <object_id>1057138</object_id>
+      <w>46</w>
+      <y>40</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>57</h>
+      <object_id>1057144</object_id>
+      <w>68</w>
+      <y>148</y>
+      <x>188</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>That is a picture of an outside area.
+</caption>
+      <caption>A beach scene with several cows laying in the sand.</caption>
+      <caption>A herd of cattle standing on top of a sandy beach.</caption>
+      <caption>Herd of cattle laying on a beach that has people on it</caption>
+      <caption>Cattle relax on the beach as a lifeguard watches the surf.</caption>
+    </captions>
+</image>

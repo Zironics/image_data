@@ -1,0 +1,37 @@
+<image>
+  <image-id>2328591</image-id>
+  <coco-id>376608</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470374</relationship_id>
+      <predicate>has</predicate>
+      <subject>3100074</subject>
+      <object>3100075</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>466</h>
+      <object_id>3100074</object_id>
+      <w>284</w>
+      <y>32</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>151</h>
+      <object_id>3100075</object_id>
+      <w>73</w>
+      <y>29</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown dog laying down in a room next to a desk.</caption>
+      <caption>A golden dog is looking off into space.</caption>
+      <caption>A yellow dog is posing for a picture in front of the camera. </caption>
+      <caption>a brown dog with brown eyes against a white background</caption>
+      <caption>A dog looking intently while sitting next to a person.</caption>
+    </captions>
+</image>

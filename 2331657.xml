@@ -1,0 +1,95 @@
+<image>
+  <image-id>2331657</image-id>
+  <coco-id>67974</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4823500</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4655474</subject>
+      <object>4655475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823501</relationship_id>
+      <predicate>of</predicate>
+      <subject>4655477</subject>
+      <object>4655475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823502</relationship_id>
+      <predicate>of</predicate>
+      <subject>4655479</subject>
+      <object>4655478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4752388</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4472051</subject>
+      <object>4472052</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>27</h>
+      <object_id>4655474</object_id>
+      <w>34</w>
+      <y>240</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>197</h>
+      <object_id>4655475</object_id>
+      <w>216</w>
+      <y>71</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>77</h>
+      <object_id>4655477</object_id>
+      <w>56</w>
+      <y>70</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>15</h>
+      <object_id>4655479</object_id>
+      <w>30</w>
+      <y>121</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>185</h>
+      <object_id>4655478</object_id>
+      <w>220</w>
+      <y>76</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>straw</name>
+      <h>17</h>
+      <object_id>4472051</object_id>
+      <w>18</w>
+      <y>194</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>33</h>
+      <object_id>4472052</object_id>
+      <w>24</w>
+      <y>206</y>
+      <x>299</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting at a red bench near the ocean.</caption>
+      <caption>A man with a dinner tray at a red table, is smiling for the camera. </caption>
+      <caption>Man sitting at a picnic table near the beach with his lunch.</caption>
+      <caption>A man eating a meal at a picnic table by the seaside.</caption>
+      <caption>A man with his lunch smiles with the sea in the background.</caption>
+    </captions>
+</image>

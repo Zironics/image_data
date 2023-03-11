@@ -1,0 +1,86 @@
+<image>
+  <image-id>2415698</image-id>
+  <coco-id>520482</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3679433</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2827498</subject>
+      <object>2827500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679434</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2827499</subject>
+      <object>2827500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679435</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3069023</subject>
+      <object>2827498</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679436</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2923818</subject>
+      <object>2827498</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>440</h>
+      <object_id>2827498</object_id>
+      <w>233</w>
+      <y>58</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>cage</name>
+      <h>496</h>
+      <object_id>2827500</object_id>
+      <w>321</w>
+      <y>1</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>357</h>
+      <object_id>2827499</object_id>
+      <w>144</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>head</name>
+      <h>76</h>
+      <object_id>3069023</object_id>
+      <w>75</w>
+      <y>93</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>beak</name>
+      <h>27</h>
+      <object_id>2923818</object_id>
+      <w>34</w>
+      <y>125</y>
+      <x>233</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two birds who are looking out of the cage they are in.</caption>
+      <caption>Two birds in an enclosed area outside during the day.</caption>
+      <caption>An outdoor cage with tall, thin colorful birds.</caption>
+      <caption>Some long necked birds with feathers in a cage.</caption>
+      <caption>two large birds strutting inside of a fence</caption>
+    </captions>
+</image>

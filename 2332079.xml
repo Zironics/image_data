@@ -1,0 +1,100 @@
+<image>
+  <image-id>2332079</image-id>
+  <coco-id>284843</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3932486</relationship_id>
+      <predicate>by</predicate>
+      <subject>3504761</subject>
+      <object>2974943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001245</relationship_id>
+      <predicate>by</predicate>
+      <subject>3504761</subject>
+      <object>3329577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3932488</relationship_id>
+      <predicate>by</predicate>
+      <subject>3504761</subject>
+      <object>2975794</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4061320</relationship_id>
+      <predicate>near</predicate>
+      <subject>3504761</subject>
+      <object>2974943</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001248</relationship_id>
+      <predicate>by</predicate>
+      <subject>3504761</subject>
+      <object>3677294</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>189</h>
+      <object_id>3504761</object_id>
+      <w>246</w>
+      <y>311</y>
+      <x>41</x>
+      <name>grass</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black cat</name>
+      <h>115</h>
+      <object_id>2974943</object_id>
+      <w>67</w>
+      <y>350</y>
+      <x>250</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>109</h>
+      <object_id>3329577</object_id>
+      <w>66</w>
+      <y>351</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>102</h>
+      <object_id>2975794</object_id>
+      <w>57</w>
+      <y>361</y>
+      <x>264</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>119</h>
+      <object_id>3677294</object_id>
+      <w>79</w>
+      <y>357</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sheep that is looking at a cat.</caption>
+      <caption>A grazing sheep and domestic cat stare at each other.</caption>
+      <caption>An animal walking on the grass near a stone path.</caption>
+      <caption>A lamb is walking alone towards a cat in a cemetary.</caption>
+      <caption>A sheep is watching a little kitten hiding.</caption>
+    </captions>
+</image>

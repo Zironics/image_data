@@ -1,0 +1,65 @@
+<image>
+  <image-id>2340203</image-id>
+  <coco-id>242213</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4759955</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4492573</subject>
+      <object>4492574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4836195</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4687773</subject>
+      <object>4687774</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>248</h>
+      <object_id>4492573</object_id>
+      <w>88</w>
+      <y>169</y>
+      <x>286</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>piece</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>50</h>
+      <object_id>4492574</object_id>
+      <w>42</w>
+      <y>216</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>445</h>
+      <object_id>4687773</object_id>
+      <w>343</w>
+      <y>40</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white and blue </attribute>
+      </attributes>
+      <name>baseball uniform</name>
+      <h>362</h>
+      <object_id>4687774</object_id>
+      <w>293</w>
+      <y>76</y>
+      <x>54</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A youth baseball pitcher winding up a fastball</caption>
+      <caption>The baseball player has his glove and ball and is ready to throw. </caption>
+      <caption>A baseball player with his arms outstretched with a ball in one hand.</caption>
+      <caption>A baseball player is starting to throw a baseball.</caption>
+      <caption>A boy wearing a blue and white uniform playing baseball</caption>
+    </captions>
+</image>

@@ -1,0 +1,115 @@
+<image>
+  <image-id>2340064</image-id>
+  <coco-id>430319</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4104753</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2957825</subject>
+      <object>2957824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035435</relationship_id>
+      <predicate>on</predicate>
+      <subject>3247300</subject>
+      <object>2317441</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4104800</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>3096228</subject>
+      <object>3096229</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035441</relationship_id>
+      <predicate>with</predicate>
+      <subject>2317441</subject>
+      <object>2317442</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4035442</relationship_id>
+      <predicate>with</predicate>
+      <subject>2317441</subject>
+      <object>2317443</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>360</h>
+      <object_id>2957825</object_id>
+      <w>292</w>
+      <y>3</y>
+      <x>207</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>262</h>
+      <object_id>2957824</object_id>
+      <w>287</w>
+      <y>63</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>52</h>
+      <object_id>3247300</object_id>
+      <w>55</w>
+      <y>4</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>275</h>
+      <object_id>2317441</object_id>
+      <w>199</w>
+      <y>10</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>225</h>
+      <object_id>3096228</object_id>
+      <w>281</w>
+      <y>82</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>person's lap</name>
+      <h>103</h>
+      <object_id>3096229</object_id>
+      <w>267</w>
+      <y>270</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>202</h>
+      <object_id>2317442</object_id>
+      <w>180</w>
+      <y>47</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>toilet paper</name>
+      <h>50</h>
+      <object_id>2317443</object_id>
+      <w>54</w>
+      <y>5</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The cat is on the mans lap even when he is trying to use his laptop.</caption>
+      <caption>A person sits holding a cat near a laptop. </caption>
+      <caption>A black and white picture of someone holding a black cat</caption>
+      <caption>a cat on a persons lap near a laptop</caption>
+      <caption>A woman with a cat in her lap sitting in front of a laptop.</caption>
+    </captions>
+</image>

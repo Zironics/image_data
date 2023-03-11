@@ -1,0 +1,76 @@
+<image>
+  <image-id>2393477</image-id>
+  <coco-id>241667</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1064191</relationship_id>
+      <predicate>has</predicate>
+      <subject>472204</subject>
+      <object>472205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1064192</relationship_id>
+      <predicate>has</predicate>
+      <subject>472204</subject>
+      <object>472206</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1064193</relationship_id>
+      <predicate>has</predicate>
+      <subject>472204</subject>
+      <object>472207</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+        <attribute>gold</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>124</h>
+      <object_id>472204</object_id>
+      <w>118</w>
+      <y>185</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>floral</attribute>
+      </attributes>
+      <name>design</name>
+      <h>107</h>
+      <object_id>472205</object_id>
+      <w>117</w>
+      <y>392</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thin</attribute>
+      </attributes>
+      <name>hands</name>
+      <h>37</h>
+      <object_id>472206</object_id>
+      <w>43</w>
+      <y>223</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>spiral</name>
+      <h>106</h>
+      <object_id>472207</object_id>
+      <w>44</w>
+      <y>197</y>
+      <x>51</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a clock near a wall</caption>
+      <caption>A grandfather clock decorated with engravings of flowers.</caption>
+      <caption>a clock against a wall showing the time to be 3</caption>
+      <caption>a rich looking clock up against a nicely paneled wall</caption>
+      <caption>A close up of the face of a grandfather clock. </caption>
+    </captions>
+</image>

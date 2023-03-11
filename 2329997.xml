@@ -1,0 +1,91 @@
+<image>
+  <image-id>2329997</image-id>
+  <coco-id>93600</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4795215</relationship_id>
+      <predicate>on</predicate>
+      <subject>4586566</subject>
+      <object>4586567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4795221</relationship_id>
+      <predicate>watching</predicate>
+      <subject>4586580</subject>
+      <object>4586581</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828587</relationship_id>
+      <predicate>on</predicate>
+      <subject>4668469</subject>
+      <object>4586580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828588</relationship_id>
+      <predicate>on</predicate>
+      <subject>4668469</subject>
+      <object>4586580</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828589</relationship_id>
+      <predicate>on</predicate>
+      <subject>4668469</subject>
+      <object>4586580</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>103</h>
+      <object_id>4586566</object_id>
+      <w>52</w>
+      <y>206</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>209</h>
+      <object_id>4586567</object_id>
+      <w>107</w>
+      <y>228</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>426</h>
+      <object_id>4586580</object_id>
+      <w>298</w>
+      <y>70</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>television</name>
+      <h>85</h>
+      <object_id>4586581</object_id>
+      <w>174</w>
+      <y>9</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>42</h>
+      <object_id>4668469</object_id>
+      <w>167</w>
+      <y>284</y>
+      <x>97</x>
+      <name>collar</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog sitting on a couch watching TV.</caption>
+      <caption>A dog sitting up looking towards a tv.</caption>
+      <caption>A dog is watching television in a darkened room.</caption>
+      <caption>A dog is seated in the living room watching tv </caption>
+      <caption>A dog sitting in a living room watching tv.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2417035</image-id>
+  <coco-id>540577</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255201</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3395367</subject>
+      <object>3395368</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>30</h>
+      <object_id>3395367</object_id>
+      <w>34</w>
+      <y>87</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>229</h>
+      <object_id>3395368</object_id>
+      <w>71</w>
+      <y>85</y>
+      <x>142</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man riding a skateboard down a street.</caption>
+      <caption>A young kid wearing a helmet while skateboarding. </caption>
+      <caption>A boy skateboarding in the street on a sunny day.</caption>
+      <caption>A young skateboarder rides down the street alone.</caption>
+      <caption>A person wearing a helmet riding a skateboard</caption>
+    </captions>
+</image>

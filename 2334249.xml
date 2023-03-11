@@ -1,0 +1,102 @@
+<image>
+  <image-id>2334249</image-id>
+  <coco-id>438514</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3953890</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3420524</subject>
+      <object>3420525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4005577</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3111856</subject>
+      <object>3111857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4155688</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3210485</subject>
+      <object>3210486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4155689</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3210485</subject>
+      <object>3210487</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>lights</name>
+      <h>250</h>
+      <object_id>3420524</object_id>
+      <w>90</w>
+      <y>81</y>
+      <x>372</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>273</h>
+      <object_id>3420525</object_id>
+      <w>250</w>
+      <y>50</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>lights</name>
+      <h>42</h>
+      <object_id>3111856</object_id>
+      <w>107</w>
+      <y>226</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>273</h>
+      <object_id>3111857</object_id>
+      <w>241</w>
+      <y>54</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>silver antenna</name>
+      <h>223</h>
+      <object_id>3210485</object_id>
+      <w>118</w>
+      <y>79</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>yellow pole</name>
+      <h>266</h>
+      <object_id>3210486</object_id>
+      <w>118</w>
+      <y>53</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>street light</name>
+      <h>169</h>
+      <object_id>3210487</object_id>
+      <w>130</w>
+      <y>108</y>
+      <x>102</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Bright lights on a skyscraper and a traffic light in the foreground.</caption>
+      <caption>A traffic light in front of a large sign</caption>
+      <caption>A wonderful night view of some tall buildings. </caption>
+      <caption>A stop light is shown with buildings in the background.</caption>
+      <caption>Upward view of a building in Hong Kong lit up at night.</caption>
+    </captions>
+</image>

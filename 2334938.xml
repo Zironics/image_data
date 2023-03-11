@@ -1,0 +1,60 @@
+<image>
+  <image-id>2334938</image-id>
+  <coco-id>338078</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4452287</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3240169</subject>
+      <object>3240170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4452288</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3240169</subject>
+      <object>3925963</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white clouds</name>
+      <h>116</h>
+      <object_id>3240169</object_id>
+      <w>276</w>
+      <y>0</y>
+      <x>221</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue sky</name>
+      <h>83</h>
+      <object_id>3240170</object_id>
+      <w>140</w>
+      <y>0</y>
+      <x>358</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>134</h>
+      <object_id>3925963</object_id>
+      <w>274</w>
+      <y>0</y>
+      <x>214</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow vehicle is slowly approaching the camera on the road. </caption>
+      <caption>a truck makes its way down a curvy road </caption>
+      <caption>A road with a car at the end of the road surrounded by trees. </caption>
+      <caption>A road surround with trees on both sides.</caption>
+      <caption>A truck driving down a single road lined with woods.</caption>
+    </captions>
+</image>

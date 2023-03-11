@@ -1,0 +1,82 @@
+<image>
+  <image-id>2331730</image-id>
+  <coco-id>278418</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4099236</relationship_id>
+      <predicate>beside</predicate>
+      <subject>3369743</subject>
+      <object>3715129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099237</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3077470</subject>
+      <object>3077472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099238</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3077471</subject>
+      <object>3077472</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>car</name>
+      <h>82</h>
+      <object_id>3369743</object_id>
+      <w>128</w>
+      <y>120</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>323</h>
+      <object_id>3715129</object_id>
+      <w>317</w>
+      <y>170</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>52</h>
+      <object_id>3077470</object_id>
+      <w>127</w>
+      <y>353</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>141</h>
+      <object_id>3077472</object_id>
+      <w>64</w>
+      <y>187</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>47</h>
+      <object_id>3077471</object_id>
+      <w>137</w>
+      <y>413</y>
+      <x>79</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three young boys playing with a soccer ball</caption>
+      <caption>A couple of boys playing soccer against each other.</caption>
+      <caption>The boys are playing Soccer in the neighborhood park.</caption>
+      <caption>Boys are playing on a field with a soccer ball.  </caption>
+      <caption>The boys are intensely playing their soccer game.</caption>
+    </captions>
+</image>

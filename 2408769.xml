@@ -1,0 +1,109 @@
+<image>
+  <image-id>2408769</image-id>
+  <coco-id>439366</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1698675</relationship_id>
+      <predicate>has a</predicate>
+      <subject>649540</subject>
+      <object>649541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1698676</relationship_id>
+      <predicate>has</predicate>
+      <subject>649538</subject>
+      <object>649540</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1698677</relationship_id>
+      <predicate>has a</predicate>
+      <subject>649540</subject>
+      <object>649543</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1698678</relationship_id>
+      <predicate>in a</predicate>
+      <subject>649544</subject>
+      <object>649538</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>ruffled</attribute>
+        <attribute>purple</attribute>
+        <attribute>long</attribute>
+        <attribute>yellow</attribute>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+        <attribute>mulicolored</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>341</h>
+      <object_id>649540</object_id>
+      <w>370</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>41</h>
+      <object_id>649541</object_id>
+      <w>30</w>
+      <y>246</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>colored</attribute>
+        <attribute>white</attribute>
+        <attribute>small</attribute>
+        <attribute>curved</attribute>
+        <attribute>sitting</attribute>
+        <attribute>painted</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>163</h>
+      <object_id>649538</object_id>
+      <w>116</w>
+      <y>307</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>petal</name>
+      <h>120</h>
+      <object_id>649543</object_id>
+      <w>90</w>
+      <y>3</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>colorful</attribute>
+        <attribute>close</attribute>
+        <attribute>facing</attribute>
+      </attributes>
+      <name>orchid</name>
+      <h>151</h>
+      <object_id>649544</object_id>
+      <w>151</w>
+      <y>191</y>
+      <x>89</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two large star fish shaped flowers on a pink back ground.</caption>
+      <caption>Light purple flower in small white and blue vase.</caption>
+      <caption>Two large, pink flowers are in an antique-looking vase.</caption>
+      <caption>A pinj and white flower in a small, blue and white vase.</caption>
+      <caption>Pink flowers sitting in a blue and white vase with a pink background</caption>
+    </captions>
+</image>

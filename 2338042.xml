@@ -1,0 +1,40 @@
+<image>
+  <image-id>2338042</image-id>
+  <coco-id>366383</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4460775</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3703699</subject>
+      <object>2386573</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>headlight</name>
+      <h>29</h>
+      <object_id>3703699</object_id>
+      <w>163</w>
+      <y>174</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>commuter</attribute>
+      </attributes>
+      <name>train</name>
+      <h>248</h>
+      <object_id>2386573</object_id>
+      <w>376</w>
+      <y>44</y>
+      <x>58</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A passenger train stopped at a train station.</caption>
+      <caption>A railroad train pulling up to the train platform</caption>
+      <caption>A train waits at a crowded depot full of passengers.</caption>
+      <caption>a  yellow train parked at a railway platform.</caption>
+      <caption>A yellow and gray train is in the loading zone.</caption>
+    </captions>
+</image>

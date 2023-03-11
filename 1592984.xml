@@ -1,0 +1,87 @@
+<image>
+  <image-id>1592984</image-id>
+  <coco-id>267224</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4714570</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4379259</subject>
+      <object>4379260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4546602</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3967997</subject>
+      <object>3967998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4685689</relationship_id>
+      <predicate>beside</predicate>
+      <subject>4311008</subject>
+      <object>4311009</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pole</name>
+      <h>182</h>
+      <object_id>4379259</object_id>
+      <w>33</w>
+      <y>253</y>
+      <x>736</x>
+    </object>
+    <object>
+      <name>traffic lights</name>
+      <h>85</h>
+      <object_id>4379260</object_id>
+      <w>53</w>
+      <y>178</y>
+      <x>738</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ford</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>87</h>
+      <object_id>3967997</object_id>
+      <w>271</w>
+      <y>444</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>vehicle</attribute>
+      </attributes>
+      <name>back</name>
+      <h>269</h>
+      <object_id>3967998</object_id>
+      <w>309</w>
+      <y>279</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>greenery</name>
+      <h>182</h>
+      <object_id>4311008</object_id>
+      <w>242</w>
+      <y>331</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>55</h>
+      <object_id>4311009</object_id>
+      <w>238</w>
+      <y>500</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Blue pickup truck traveling on a city street.</caption>
+      <caption>A blue truck with a white top driving on the road.</caption>
+      <caption>A blue ford pickup truck traveling down the street.</caption>
+      <caption>The blue pick up truck with the white camper is driving down the street. </caption>
+      <caption>A blue truck that is sitting in the street.</caption>
+    </captions>
+</image>

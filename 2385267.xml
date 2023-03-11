@@ -1,0 +1,59 @@
+<image>
+  <image-id>2385267</image-id>
+  <coco-id>340642</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4083195</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3709700</subject>
+      <object>3514317</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083196</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2350243</subject>
+      <object>3709701</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>frosting</name>
+      <h>310</h>
+      <object_id>3709700</object_id>
+      <w>456</w>
+      <y>70</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>228</h>
+      <object_id>3514317</object_id>
+      <w>330</w>
+      <y>83</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>walnut</name>
+      <h>162</h>
+      <object_id>2350243</object_id>
+      <w>190</w>
+      <y>135</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>frosting</name>
+      <h>282</h>
+      <object_id>3709701</object_id>
+      <w>460</w>
+      <y>78</y>
+      <x>38</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a brown cake with white icing and some walnut toppings</caption>
+      <caption>Icing with nuts on top of a cake . </caption>
+      <caption>Corner of a layer cake with frosting and walnuts.</caption>
+      <caption>A frosted large cake on a table surface.</caption>
+      <caption>Walnut icing on a baked cake - maybe carrot cake</caption>
+    </captions>
+</image>

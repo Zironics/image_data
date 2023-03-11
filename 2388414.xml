@@ -1,0 +1,125 @@
+<image>
+  <image-id>2388414</image-id>
+  <coco-id>358770</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3490982</relationship_id>
+      <predicate>near</predicate>
+      <subject>1269006</subject>
+      <object>3829385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490983</relationship_id>
+      <predicate>near</predicate>
+      <subject>1269008</subject>
+      <object>1269009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490984</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1269010</subject>
+      <object>1269008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490985</relationship_id>
+      <predicate>near</predicate>
+      <subject>1269010</subject>
+      <object>1269008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490986</relationship_id>
+      <predicate>near</predicate>
+      <subject>1269008</subject>
+      <object>1269010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490987</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1269009</subject>
+      <object>3829385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490988</relationship_id>
+      <predicate>near</predicate>
+      <subject>3829385</subject>
+      <object>1269009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3490989</relationship_id>
+      <predicate>near</predicate>
+      <subject>1269009</subject>
+      <object>3829385</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tiny</attribute>
+        <attribute>young</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>226</h>
+      <object_id>1269006</object_id>
+      <w>164</w>
+      <y>21</y>
+      <x>110</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> green </attribute>
+        <attribute> paper</attribute>
+      </attributes>
+      <h>61</h>
+      <object_id>3829385</object_id>
+      <w>140</w>
+      <y>248</y>
+      <x>192</x>
+      <name>plate</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>222</h>
+      <object_id>1269008</object_id>
+      <w>166</w>
+      <y>0</y>
+      <x>309</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>40</h>
+      <object_id>1269009</object_id>
+      <w>120</w>
+      <y>268</y>
+      <x>141</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>plastic</attribute>
+        <attribute>standing</attribute>
+        <attribute>A piece</attribute>
+        <attribute>water bottle</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>69</h>
+      <object_id>1269010</object_id>
+      <w>34</w>
+      <y>44</y>
+      <x>352</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl licks her fingers while looking at a piece of cake.</caption>
+      <caption>A girl in face paint licks her thumb and eats birthday cake.</caption>
+      <caption>The young girl is eating cake and licking her fingers.</caption>
+      <caption>a little girl is eating cake off of a green plate</caption>
+      <caption>A little girl sitting at a table eating cake.</caption>
+    </captions>
+</image>

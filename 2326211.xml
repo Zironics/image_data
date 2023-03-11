@@ -1,0 +1,37 @@
+<image>
+  <image-id>2326211</image-id>
+  <coco-id>527631</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4480726</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2704554</subject>
+      <object>2704555</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>onion</name>
+      <h>136</h>
+      <object_id>2704554</object_id>
+      <w>155</w>
+      <y>142</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>312</h>
+      <object_id>2704555</object_id>
+      <w>356</w>
+      <y>22</y>
+      <x>96</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cut in half sandwich and fries on a plate.</caption>
+      <caption>A beef sandwich is cut in half next to fries.</caption>
+      <caption>A toasted sandwich and fries on a plate.</caption>
+      <caption>There is a sandwich cut in half on a plate</caption>
+      <caption>A sandwich cut in half and an order of fries.</caption>
+    </captions>
+</image>

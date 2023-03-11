@@ -1,0 +1,76 @@
+<image>
+  <image-id>2369889</image-id>
+  <coco-id>212927</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4330802</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2278641</subject>
+      <object>2678483</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4330803</relationship_id>
+      <predicate>using a</predicate>
+      <subject>2278641</subject>
+      <object>2278642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4330804</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3861078</subject>
+      <object>1995978</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>117</h>
+      <object_id>2278641</object_id>
+      <w>154</w>
+      <y>53</y>
+      <x>119</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>173</h>
+      <object_id>2678483</object_id>
+      <w>425</w>
+      <y>137</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>87</h>
+      <object_id>2278642</object_id>
+      <w>137</w>
+      <y>92</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>frills</name>
+      <h>178</h>
+      <object_id>3861078</object_id>
+      <w>431</w>
+      <y>130</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>127</h>
+      <object_id>1995978</object_id>
+      <w>397</w>
+      <y>136</y>
+      <x>102</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Woman sitting on top of a bed while using a laptop computer.</caption>
+      <caption>a girl laying in bed with her laptop</caption>
+      <caption>A girl sits on her bed using a laptop. </caption>
+      <caption>a person sitting in a bed with a laptop</caption>
+      <caption>Woman in a bed with a laptop on her lap next to a window.</caption>
+    </captions>
+</image>

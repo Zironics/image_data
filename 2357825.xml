@@ -1,0 +1,88 @@
+<image>
+  <image-id>2357825</image-id>
+  <coco-id>530933</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3698040</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2298794</subject>
+      <object>2368131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3698042</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2325600</subject>
+      <object>2325601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3698043</relationship_id>
+      <predicate>on bathroom</predicate>
+      <subject>2181056</subject>
+      <object>2181057</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <h>29</h>
+      <object_id>2298794</object_id>
+      <w>22</w>
+      <y>343</y>
+      <x>244</x>
+      <name>door handle</name>
+    </object>
+    <object>
+      <name>door</name>
+      <h>216</h>
+      <object_id>2368131</object_id>
+      <w>52</w>
+      <y>282</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>shower handle</name>
+      <h>42</h>
+      <object_id>2325600</object_id>
+      <w>38</w>
+      <y>171</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>492</h>
+      <object_id>2325601</object_id>
+      <w>266</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>square</attribute>
+      </attributes>
+      <name>tiles</name>
+      <h>116</h>
+      <object_id>2181056</object_id>
+      <w>221</w>
+      <y>383</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>121</h>
+      <object_id>2181057</object_id>
+      <w>252</w>
+      <y>378</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white and beige bathroom has a wooden toilet seat.</caption>
+      <caption>A bathroom showing the tub and toilet </caption>
+      <caption>A bathroom with a bathtub and a toilet.</caption>
+      <caption>a beth room with a toilet and a bath tub</caption>
+      <caption>A picture of a small bathroom from the doorway.</caption>
+    </captions>
+</image>

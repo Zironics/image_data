@@ -1,0 +1,65 @@
+<image>
+  <image-id>2415874</image-id>
+  <coco-id>164698</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4253969</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2890454</subject>
+      <object>2890455</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3877105</relationship_id>
+      <predicate>has</predicate>
+      <subject>3246351</subject>
+      <object>3627766</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>gold buckle</name>
+      <h>32</h>
+      <object_id>2890454</object_id>
+      <w>45</w>
+      <y>48</y>
+      <x>359</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>the</attribute>
+      </attributes>
+      <name>cheek</name>
+      <h>55</h>
+      <object_id>2890455</object_id>
+      <w>70</w>
+      <y>75</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>247</h>
+      <object_id>3246351</object_id>
+      <w>344</w>
+      <y>20</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>20</h>
+      <object_id>3627766</object_id>
+      <w>26</w>
+      <y>62</y>
+      <x>388</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman holds a brown horse as others watch</caption>
+      <caption>A woman interacts with a horse in a stable</caption>
+      <caption>a large horse with a women petting it</caption>
+      <caption>A woman holding the reins to a horse </caption>
+      <caption>The horse is in the stables getting care. </caption>
+    </captions>
+</image>

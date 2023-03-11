@@ -1,0 +1,74 @@
+<image>
+  <image-id>2369676</image-id>
+  <coco-id>445853</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2023702</relationship_id>
+      <predicate>above</predicate>
+      <subject>743137</subject>
+      <object>743129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2023703</relationship_id>
+      <predicate>ON</predicate>
+      <subject>743143</subject>
+      <object>743131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2023704</relationship_id>
+      <predicate>ON</predicate>
+      <subject>743143</subject>
+      <object>743131</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>leaves</name>
+      <h>18</h>
+      <object_id>743137</object_id>
+      <w>172</w>
+      <y>0</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mounted</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tv</name>
+      <h>73</h>
+      <object_id>743129</object_id>
+      <w>115</w>
+      <y>53</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>52</h>
+      <object_id>743143</object_id>
+      <w>70</w>
+      <y>285</y>
+      <x>183</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>light colored</attribute>
+        <attribute>ceramic</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>36</h>
+      <object_id>743131</object_id>
+      <w>109</w>
+      <y>307</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A television and a person with food on a bed.</caption>
+      <caption>A person's feet rest near a tray of food on the bed.</caption>
+      <caption>A person laying on a bed with a tray of food.</caption>
+      <caption>The person is laying down watching television while eating. </caption>
+      <caption>A large screen television hangs on a wall in a room with a bed with a striped blanket and two stripped socked feet are on the bed.</caption>
+    </captions>
+</image>

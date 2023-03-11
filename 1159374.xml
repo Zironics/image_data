@@ -1,0 +1,98 @@
+<image>
+  <image-id>1159374</image-id>
+  <coco-id>480939</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4067458</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1592269</subject>
+      <object>3703193</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067459</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1592271</subject>
+      <object>3703194</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067460</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1592273</subject>
+      <object>3703195</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067461</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1592273</subject>
+      <object>3703196</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>509</h>
+      <object_id>1592269</object_id>
+      <w>276</w>
+      <y>59</y>
+      <x>562</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>523</h>
+      <object_id>3703193</object_id>
+      <w>692</w>
+      <y>94</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>71</h>
+      <object_id>1592271</object_id>
+      <w>35</w>
+      <y>518</y>
+      <x>577</x>
+    </object>
+    <object>
+      <name>backpack</name>
+      <h>314</h>
+      <object_id>3703194</object_id>
+      <w>413</w>
+      <y>354</y>
+      <x>498</x>
+    </object>
+    <object>
+      <h>137</h>
+      <object_id>1592273</object_id>
+      <w>523</w>
+      <y>249</y>
+      <x>22</x>
+      <name>girl</name>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>413</h>
+      <object_id>3703195</object_id>
+      <w>703</w>
+      <y>120</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>156</h>
+      <object_id>3703196</object_id>
+      <w>284</w>
+      <y>233</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Woman sleeping on a bench as a man sits near with his backpack.</caption>
+      <caption>A woman sleeping on a park bench next to a man talking on a cell phone.</caption>
+      <caption>Man sitting on bench with smart phone and pack, while woman sleeps on bench.</caption>
+      <caption>A woman laying on a bench with a man sitting on the other side</caption>
+      <caption>A woman is resting on a bench while a concerned looking man holds a cell phone. </caption>
+    </captions>
+</image>

@@ -1,0 +1,98 @@
+<image>
+  <image-id>2382775</image-id>
+  <coco-id>310902</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4778800</relationship_id>
+      <predicate>passing over a</predicate>
+      <subject>4544830</subject>
+      <object>4544831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4778801</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4544833</subject>
+      <object>4544830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4778802</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4544834</subject>
+      <object>4544830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4778803</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4544838</subject>
+      <object>4544837</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>161</h>
+      <object_id>4544830</object_id>
+      <w>496</w>
+      <y>85</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tunnel</name>
+      <h>332</h>
+      <object_id>4544831</object_id>
+      <w>492</w>
+      <y>165</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>door</name>
+      <h>67</h>
+      <object_id>4544833</object_id>
+      <w>45</w>
+      <y>149</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>door</name>
+      <h>69</h>
+      <object_id>4544834</object_id>
+      <w>54</w>
+      <y>153</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>112</h>
+      <object_id>4544838</object_id>
+      <w>496</w>
+      <y>122</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>train</name>
+      <h>132</h>
+      <object_id>4544837</object_id>
+      <w>496</w>
+      <y>96</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train travels over a tunnel with lights in it.</caption>
+      <caption>A passenger train traveling on an arched overpass.</caption>
+      <caption>A red monorail going over a bridge. </caption>
+      <caption>A train is passing over a tunnel during the day.
+.</caption>
+      <caption>The train is traveling over the curved bridge.</caption>
+    </captions>
+</image>

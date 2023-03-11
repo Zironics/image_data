@@ -1,0 +1,117 @@
+<image>
+  <image-id>2416326</image-id>
+  <coco-id>572178</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4254338</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3791859</subject>
+      <object>2988185</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3880164</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3259513</subject>
+      <object>2826007</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3880165</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3259511</subject>
+      <object>3259514</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3880166</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3259512</subject>
+      <object>3259514</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3880167</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3020278</subject>
+      <object>3020277</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>24</h>
+      <object_id>3791859</object_id>
+      <w>53</w>
+      <y>143</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>108</h>
+      <object_id>2988185</object_id>
+      <w>197</w>
+      <y>117</y>
+      <x>188</x>
+    </object>
+    <object>
+      <h>86</h>
+      <object_id>3259513</object_id>
+      <w>30</w>
+      <y>181</y>
+      <x>133</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>114</h>
+      <object_id>2826007</object_id>
+      <w>263</w>
+      <y>217</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>146</h>
+      <object_id>3259511</object_id>
+      <w>32</w>
+      <y>178</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>96</h>
+      <object_id>3259514</object_id>
+      <w>157</w>
+      <y>224</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>130</h>
+      <object_id>3259512</object_id>
+      <w>31</w>
+      <y>174</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>20</h>
+      <object_id>3020278</object_id>
+      <w>20</w>
+      <y>123</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>166</h>
+      <object_id>3020277</object_id>
+      <w>141</w>
+      <y>106</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A passenger train that is pulling into the station.</caption>
+      <caption>A train engine carrying carts into a station.</caption>
+      <caption>there is a red train that is coming up the tracks</caption>
+      <caption>a red and black train some people and tracks</caption>
+      <caption>People watching a train arrive at a train station.</caption>
+    </captions>
+</image>

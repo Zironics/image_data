@@ -1,0 +1,93 @@
+<image>
+  <image-id>2354462</image-id>
+  <coco-id>16653</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3749815</relationship_id>
+      <predicate>moving</predicate>
+      <subject>1683182</subject>
+      <object>3573048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4228508</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3777215</subject>
+      <object>2115946</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4228507</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2115946</subject>
+      <object>1683182</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3749817</relationship_id>
+      <predicate>from</predicate>
+      <subject>1732184</subject>
+      <object>1732185</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>old</attribute>
+        <attribute>side</attribute>
+        <attribute>black</attribute>
+        <attribute>part</attribute>
+      </attributes>
+      <name>train</name>
+      <h>125</h>
+      <object_id>1683182</object_id>
+      <w>434</w>
+      <y>131</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>62</h>
+      <object_id>3573048</object_id>
+      <w>173</w>
+      <y>218</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>70</h>
+      <object_id>3777215</object_id>
+      <w>84</w>
+      <y>190</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>67</h>
+      <object_id>2115946</object_id>
+      <w>79</w>
+      <y>190</y>
+      <x>419</x>
+    </object>
+    <object>
+      <name>smoke</name>
+      <h>15</h>
+      <object_id>1732184</object_id>
+      <w>135</w>
+      <y>131</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>chimney</name>
+      <h>17</h>
+      <object_id>1732185</object_id>
+      <w>18</w>
+      <y>133</y>
+      <x>366</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a dark photo of a train that is coming up the tracks</caption>
+      <caption>A painting of a black steam engine going down a railroad with orange rail cars. </caption>
+      <caption>A black, steaming locomotive is on the tracks under a dark, cloudy sky.</caption>
+      <caption>a classic painting of a train as clouds blanket the sun</caption>
+      <caption>a train on a train track with a cloudy sky background</caption>
+    </captions>
+</image>

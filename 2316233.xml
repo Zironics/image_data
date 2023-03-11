@@ -1,0 +1,99 @@
+<image>
+  <image-id>2316233</image-id>
+  <coco-id>442268</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3864113</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3495145</subject>
+      <object>3458575</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799717</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3199900</subject>
+      <object>2905149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252420</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3495145</subject>
+      <object>3458575</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3854482</relationship_id>
+      <predicate>covering</predicate>
+      <subject>3398029</subject>
+      <object>3398030</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>child</name>
+      <h>446</h>
+      <object_id>3495145</object_id>
+      <w>240</w>
+      <y>44</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>426</h>
+      <object_id>3458575</object_id>
+      <w>373</w>
+      <y>71</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>61</h>
+      <object_id>3199900</object_id>
+      <w>34</w>
+      <y>33</y>
+      <x>307</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>curved</attribute>
+      </attributes>
+      <h>136</h>
+      <object_id>2905149</object_id>
+      <w>106</w>
+      <y>69</y>
+      <x>267</x>
+      <name>path</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>98</h>
+      <object_id>3398029</object_id>
+      <w>65</w>
+      <y>390</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>foot</name>
+      <h>66</h>
+      <object_id>3398030</object_id>
+      <w>53</w>
+      <y>387</y>
+      <x>214</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baby sits on a bench with his arms extended in preparation of clapping.</caption>
+      <caption>A baby is sitting on a wooden bench.</caption>
+      <caption>The baby boy is sitting on a wooden bench.</caption>
+      <caption>a small child sitting on a wooden bench on a sidewalk</caption>
+      <caption>a young boy has his arms outstretched while sitting on a bench.</caption>
+    </captions>
+</image>

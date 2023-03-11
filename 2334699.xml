@@ -1,0 +1,57 @@
+<image>
+  <image-id>2334699</image-id>
+  <coco-id>519676</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3671793</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2469934</subject>
+      <object>2469932</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3671794</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2469934</subject>
+      <object>2469933</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>75</h>
+      <object_id>2469934</object_id>
+      <w>81</w>
+      <y>212</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>51</h>
+      <object_id>2469932</object_id>
+      <w>80</w>
+      <y>80</y>
+      <x>388</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>unoccupied</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>211</h>
+      <object_id>2469933</object_id>
+      <w>363</w>
+      <y>76</y>
+      <x>48</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A motorcycle parked in a parking lot next to a building.</caption>
+      <caption>A white motorcycle with three wheels next to other motorcycles.</caption>
+      <caption>There is a fine motorbike with fur covering on the seat in the parking lot.</caption>
+      <caption>a motorcycle parked in a lot near a building</caption>
+      <caption>A motorcycle is shown sitting in a parking lot.</caption>
+    </captions>
+</image>

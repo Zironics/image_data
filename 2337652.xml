@@ -1,0 +1,143 @@
+<image>
+  <image-id>2337652</image-id>
+  <coco-id>85933</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4075296</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>2631040</subject>
+      <object>2547581</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075297</relationship_id>
+      <predicate>sitting near</predicate>
+      <subject>2640254</subject>
+      <object>3706509</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075298</relationship_id>
+      <predicate>thrown across</predicate>
+      <subject>3022202</subject>
+      <object>2972167</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075299</relationship_id>
+      <predicate>thrown across</predicate>
+      <subject>3101888</subject>
+      <object>3101889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4461640</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2972166</subject>
+      <object>2972167</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3802488</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2631040</subject>
+      <object>2972167</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>359</h>
+      <object_id>2631040</object_id>
+      <w>436</w>
+      <y>35</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>302</h>
+      <object_id>2547581</object_id>
+      <w>499</w>
+      <y>95</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>huge</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white pillow</name>
+      <h>95</h>
+      <object_id>2640254</object_id>
+      <w>92</w>
+      <y>45</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>87</h>
+      <object_id>3706509</object_id>
+      <w>214</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cover</name>
+      <h>266</h>
+      <object_id>3022202</object_id>
+      <w>44</w>
+      <y>132</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>197</h>
+      <object_id>2972167</object_id>
+      <w>497</w>
+      <y>201</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+        <attribute>white</attribute>
+        <attribute>decorative</attribute>
+      </attributes>
+      <name>cover</name>
+      <h>192</h>
+      <object_id>3101888</object_id>
+      <w>497</w>
+      <y>204</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bedding</name>
+      <h>196</h>
+      <object_id>3101889</object_id>
+      <w>487</w>
+      <y>200</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>72</h>
+      <object_id>2972166</object_id>
+      <w>73</w>
+      <y>95</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and black cat laying on bed with pillows.</caption>
+      <caption>A cat laying in a bed in a room.</caption>
+      <caption>there is a cat that is laying down in a bed</caption>
+      <caption>The large cat is laying down on the bed. </caption>
+      <caption>A cat is lying down on a bed and relaxing.</caption>
+    </captions>
+</image>

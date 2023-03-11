@@ -1,0 +1,59 @@
+<image>
+  <image-id>2322904</image-id>
+  <coco-id>120088</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4534183</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3053558</subject>
+      <object>3960096</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534184</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3461287</subject>
+      <object>3461288</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ear</name>
+      <h>84</h>
+      <object_id>3053558</object_id>
+      <w>110</w>
+      <y>50</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>220</h>
+      <object_id>3960096</object_id>
+      <w>295</w>
+      <y>24</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>elephants</name>
+      <h>344</h>
+      <object_id>3461287</object_id>
+      <w>484</w>
+      <y>18</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>enclosure</name>
+      <h>92</h>
+      <object_id>3461288</object_id>
+      <w>13</w>
+      <y>66</y>
+      <x>326</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two adult elephants accompany two smaller juvenile elephants.</caption>
+      <caption>Some very cute big and small elephants by some trees.</caption>
+      <caption>Both mother and baby elephants enjoy some alone time.</caption>
+      <caption>Small herd of elephants surrounded by a few trees.</caption>
+      <caption>Elephants and their babies in a zoo enclosure </caption>
+    </captions>
+</image>

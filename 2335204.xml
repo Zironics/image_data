@@ -1,0 +1,103 @@
+<image>
+  <image-id>2335204</image-id>
+  <coco-id>311883</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4451701</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2934007</subject>
+      <object>3925597</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451702</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3925598</subject>
+      <object>2410210</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451703</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2101911</subject>
+      <object>3925599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451704</relationship_id>
+      <predicate>are on</predicate>
+      <subject>2865009</subject>
+      <object>3925600</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>96</h>
+      <object_id>2934007</object_id>
+      <w>458</w>
+      <y>81</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>50</h>
+      <object_id>3925597</object_id>
+      <w>498</w>
+      <y>139</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>19</h>
+      <object_id>3925598</object_id>
+      <w>18</w>
+      <y>104</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>train.</name>
+      <h>138</h>
+      <object_id>2410210</object_id>
+      <w>379</w>
+      <y>52</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>signal</name>
+      <h>85</h>
+      <object_id>2101911</object_id>
+      <w>51</w>
+      <y>91</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>60</h>
+      <object_id>3925599</object_id>
+      <w>497</w>
+      <y>143</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>52</h>
+      <object_id>2865009</object_id>
+      <w>495</w>
+      <y>170</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>53</h>
+      <object_id>3925600</object_id>
+      <w>469</w>
+      <y>171</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A train moving along a track during the day.</caption>
+      <caption>A train passes by a road on a railroad track</caption>
+      <caption>Yellow train engine hauling freight cars past a level crossing. </caption>
+      <caption>A large long train on a steel track.</caption>
+      <caption>A yellow train engine pulling train cars over road.</caption>
+    </captions>
+</image>

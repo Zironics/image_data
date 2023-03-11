@@ -1,0 +1,88 @@
+<image>
+  <image-id>2379612</image-id>
+  <coco-id>544481</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1897783</relationship_id>
+      <predicate>IN</predicate>
+      <subject>711791</subject>
+      <object>711792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1897784</relationship_id>
+      <predicate>IN</predicate>
+      <subject>711791</subject>
+      <object>711792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1897785</relationship_id>
+      <predicate>IN</predicate>
+      <subject>711791</subject>
+      <object>711792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1897786</relationship_id>
+      <predicate>IN</predicate>
+      <subject>711791</subject>
+      <object>711792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1897787</relationship_id>
+      <predicate>eating</predicate>
+      <subject>711791</subject>
+      <object>711795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1897788</relationship_id>
+      <predicate>IN</predicate>
+      <subject>711791</subject>
+      <object>711795</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>brown</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>91</h>
+      <object_id>711791</object_id>
+      <w>304</w>
+      <y>161</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>forest</name>
+      <h>39</h>
+      <object_id>711792</object_id>
+      <w>91</w>
+      <y>51</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>78</h>
+      <object_id>711795</object_id>
+      <w>124</w>
+      <y>270</y>
+      <x>330</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall giraffe eating leafy greens in a jungle.</caption>
+      <caption>A standing giraffe in tall brush eating leaves.</caption>
+      <caption>Giraffe leaning very far over to sample leaves.</caption>
+      <caption>A giraffe bending over in tall grass by some trees.</caption>
+      <caption>A close up of a giraffe eating from the top of a tree.</caption>
+    </captions>
+</image>

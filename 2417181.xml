@@ -1,0 +1,54 @@
+<image>
+  <image-id>2417181</image-id>
+  <coco-id>274759</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255413</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3792330</subject>
+      <object>3350970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3973528</relationship_id>
+      <predicate>using</predicate>
+      <subject>3792330</subject>
+      <object>3153389</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>206</h>
+      <object_id>3792330</object_id>
+      <w>250</w>
+      <y>45</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>necklace</name>
+      <h>109</h>
+      <object_id>3350970</object_id>
+      <w>22</w>
+      <y>44</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange </attribute>
+      </attributes>
+      <name>marker</name>
+      <h>37</h>
+      <object_id>3153389</object_id>
+      <w>52</w>
+      <y>135</y>
+      <x>224</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman sits on a bench writing on some paper.</caption>
+      <caption>Woman sitting on a park bench writing with orange marker. </caption>
+      <caption>A beautiful woman sitting down writing with an orange marker.</caption>
+      <caption>A black haired girl is writing with an orange marker</caption>
+      <caption>A woman writing while sitting on a bench.</caption>
+    </captions>
+</image>

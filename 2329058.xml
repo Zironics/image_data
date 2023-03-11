@@ -1,0 +1,37 @@
+<image>
+  <image-id>2329058</image-id>
+  <coco-id>435124</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4140331</relationship_id>
+      <predicate>has</predicate>
+      <subject>2709537</subject>
+      <object>2709539</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sky</name>
+      <h>134</h>
+      <object_id>2709537</object_id>
+      <w>412</w>
+      <y>14</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>37</h>
+      <object_id>2709539</object_id>
+      <w>46</w>
+      <y>81</y>
+      <x>266</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bicycle is parked by a bench overlooking the ocean.</caption>
+      <caption>There is a bicycle leaning against a bench on a pier.</caption>
+      <caption>A scenic view of a water front with windmills that stand out on the horizon.</caption>
+      <caption>A boardwalk with a bench and bike overlook the ocean.</caption>
+      <caption>Windmills on the ocean and a sign and bench on the beach.</caption>
+    </captions>
+</image>

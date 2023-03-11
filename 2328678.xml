@@ -1,0 +1,119 @@
+<image>
+  <image-id>2328678</image-id>
+  <coco-id>351146</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4023615</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2920558</subject>
+      <object>2920559</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261450</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3291944</subject>
+      <object>3267606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023616</relationship_id>
+      <predicate>by</predicate>
+      <subject>3291944</subject>
+      <object>3051326</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023617</relationship_id>
+      <predicate>by</predicate>
+      <subject>3291944</subject>
+      <object>3291948</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023618</relationship_id>
+      <predicate>by</predicate>
+      <subject>3291944</subject>
+      <object>3291948</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023619</relationship_id>
+      <predicate>by</predicate>
+      <subject>3291946</subject>
+      <object>3291948</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023620</relationship_id>
+      <predicate>by</predicate>
+      <subject>3291946</subject>
+      <object>3291948</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023621</relationship_id>
+      <predicate>by</predicate>
+      <subject>3291944</subject>
+      <object>3291948</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sandwich</name>
+      <h>300</h>
+      <object_id>2920558</object_id>
+      <w>278</w>
+      <y>0</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>497</h>
+      <object_id>2920559</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>178</h>
+      <object_id>3291944</object_id>
+      <w>133</w>
+      <y>323</y>
+      <x>315</x>
+      <name>fried potato</name>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>271</h>
+      <object_id>3267606</object_id>
+      <w>272</w>
+      <y>14</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>268</h>
+      <object_id>3051326</object_id>
+      <w>234</w>
+      <y>57</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>365</h>
+      <object_id>3291948</object_id>
+      <w>280</w>
+      <y>3</y>
+      <x>219</x>
+    </object>
+    <object>
+      <h>85</h>
+      <object_id>3291946</object_id>
+      <w>171</w>
+      <y>343</y>
+      <x>0</x>
+      <name>fried potato</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Anyone would like a chance to eat this burger and special fries.</caption>
+      <caption>A plate with a sandwich and fried potatoes.</caption>
+      <caption>A plate contains a sandwich with a side of potatoes.</caption>
+      <caption>A plate of potatoes sitting next to a sandwich.</caption>
+      <caption>a little bit of food is on a plate</caption>
+    </captions>
+</image>

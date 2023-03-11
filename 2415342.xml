@@ -1,0 +1,130 @@
+<image>
+  <image-id>2415342</image-id>
+  <coco-id>16704</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3873249</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3072336</subject>
+      <object>2796817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3873250</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3072337</subject>
+      <object>2796817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3873251</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3072338</subject>
+      <object>2796817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3873252</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3072339</subject>
+      <object>2796817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3873253</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3072340</subject>
+      <object>2796817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3908363</relationship_id>
+      <predicate>has</predicate>
+      <subject>2796817</subject>
+      <object>2955786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3908364</relationship_id>
+      <predicate>has</predicate>
+      <subject>2796817</subject>
+      <object>2889203</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree</name>
+      <h>162</h>
+      <object_id>3072336</object_id>
+      <w>127</w>
+      <y>52</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brownish gray</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>240</h>
+      <object_id>2796817</object_id>
+      <w>297</w>
+      <y>42</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>238</h>
+      <object_id>3072337</object_id>
+      <w>97</w>
+      <y>1</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>245</h>
+      <object_id>3072338</object_id>
+      <w>152</w>
+      <y>0</y>
+      <x>260</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>240</h>
+      <object_id>3072339</object_id>
+      <w>92</w>
+      <y>0</y>
+      <x>405</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>219</h>
+      <object_id>3072340</object_id>
+      <w>26</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>   black</attribute>
+      </attributes>
+      <name>black eye</name>
+      <h>12</h>
+      <object_id>2955786</object_id>
+      <w>11</w>
+      <y>91</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> large</attribute>
+      </attributes>
+      <name>ears</name>
+      <h>81</h>
+      <object_id>2889203</object_id>
+      <w>81</w>
+      <y>42</y>
+      <x>260</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large gray elephant standing on a lush green field.</caption>
+      <caption>An elephant is standing in a grassy field in front of trees.</caption>
+      <caption>An elephant is standing in a field of grass.</caption>
+      <caption>Large, tusked elephant in dry grass under trees</caption>
+      <caption>An elephant standing in a field, in front of trees.</caption>
+    </captions>
+</image>

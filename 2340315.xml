@@ -1,0 +1,40 @@
+<image>
+  <image-id>2340315</image-id>
+  <coco-id>488277</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4586978</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4064477</subject>
+      <object>4064476</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ripples</name>
+      <h>300</h>
+      <object_id>4064477</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>300</h>
+      <object_id>4064476</object_id>
+      <w>496</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The bird is flying above another bird that is swimming in the water. </caption>
+      <caption>One bird that is on the water and another that is flying over the water. </caption>
+      <caption>A duck is swimming near a seagull flying.</caption>
+      <caption>A bird and duck are together on the water.</caption>
+      <caption>A duck and a white bird in the water </caption>
+    </captions>
+</image>

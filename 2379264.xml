@@ -1,0 +1,147 @@
+<image>
+  <image-id>2379264</image-id>
+  <coco-id>258119</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3616300</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1359104</subject>
+      <object>1359105</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616301</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1359102</subject>
+      <object>1359106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616302</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1359107</subject>
+      <object>1359106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616303</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1359108</subject>
+      <object>1359105</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616304</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1359105</subject>
+      <object>1359106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616305</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1359104</subject>
+      <object>1359105</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616306</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1359114</subject>
+      <object>1359105</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616307</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>1359107</subject>
+      <object>1359106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3616308</relationship_id>
+      <predicate>has</predicate>
+      <subject>1359105</subject>
+      <object>1359108</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>78</h>
+      <object_id>1359104</object_id>
+      <w>76</w>
+      <y>72</y>
+      <x>180</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>black</attribute>
+        <attribute>red</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>fire hydrant</name>
+      <h>246</h>
+      <object_id>1359105</object_id>
+      <w>149</w>
+      <y>69</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dry</attribute>
+        <attribute>fall</attribute>
+        <attribute>from tree</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>494</h>
+      <object_id>1359102</object_id>
+      <w>374</w>
+      <y>6</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>490</h>
+      <object_id>1359106</object_id>
+      <w>369</w>
+      <y>6</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>twig</name>
+      <h>37</h>
+      <object_id>1359107</object_id>
+      <w>177</w>
+      <y>187</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>37</h>
+      <object_id>1359108</object_id>
+      <w>42</w>
+      <y>157</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cleared</attribute>
+      </attributes>
+      <name>path</name>
+      <h>218</h>
+      <object_id>1359114</object_id>
+      <w>374</w>
+      <y>82</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red fire hydrant with a baby's hat is sitting in the middle of the ground.</caption>
+      <caption>There is a white hat sitting on top of the fire hydrant.</caption>
+      <caption>An orange and green fire hydrant with a cap sitting on it.</caption>
+      <caption>a fire hydrant with a cap on the top of it </caption>
+      <caption>A fire hydrant with an infant sized hat on top, outside in dirt, sparse grass, ivy and leaves.</caption>
+    </captions>
+</image>

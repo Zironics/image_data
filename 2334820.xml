@@ -1,0 +1,58 @@
+<image>
+  <image-id>2334820</image-id>
+  <coco-id>452412</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3134181</relationship_id>
+      <predicate>has</predicate>
+      <subject>1045564</subject>
+      <object>1045565</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3134182</relationship_id>
+      <predicate>has</predicate>
+      <subject>1045564</subject>
+      <object>1045567</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>young</attribute>
+        <attribute>black</attribute>
+        <attribute>standing</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>217</h>
+      <object_id>1045564</object_id>
+      <w>297</w>
+      <y>97</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>36</h>
+      <object_id>1045565</object_id>
+      <w>33</w>
+      <y>233</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>27</h>
+      <object_id>1045567</object_id>
+      <w>17</w>
+      <y>129</y>
+      <x>180</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of zebra standing on a dry grass field.</caption>
+      <caption>a number of zebra in a large field with a tree in the background</caption>
+      <caption>A small herd of zebras on the plains.</caption>
+      <caption>a group of zebras standing around in an open field </caption>
+      <caption>Zebras are frolicking in a field with trees and shrubs.</caption>
+    </captions>
+</image>

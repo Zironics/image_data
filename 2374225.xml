@@ -1,0 +1,94 @@
+<image>
+  <image-id>2374225</image-id>
+  <coco-id>443129</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1467378</relationship_id>
+      <predicate>has</predicate>
+      <subject>587264</subject>
+      <object>587261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1467379</relationship_id>
+      <predicate>next to</predicate>
+      <subject>587263</subject>
+      <object>587261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1467380</relationship_id>
+      <predicate>IN</predicate>
+      <subject>587271</subject>
+      <object>587262</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>behind</attribute>
+        <attribute>wood</attribute>
+        <attribute>grey</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>103</h>
+      <object_id>587264</object_id>
+      <w>242</w>
+      <y>10</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>leaning</attribute>
+        <attribute>stuffed</attribute>
+        <attribute>sitting</attribute>
+        <attribute>shining</attribute>
+      </attributes>
+      <name>animal</name>
+      <h>175</h>
+      <object_id>587261</object_id>
+      <w>194</w>
+      <y>35</y>
+      <x>91</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ggreen</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>plant</name>
+      <h>138</h>
+      <object_id>587263</object_id>
+      <w>117</w>
+      <y>18</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>hole</name>
+      <h>161</h>
+      <object_id>587271</object_id>
+      <w>58</w>
+      <y>18</y>
+      <x>303</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stacks</attribute>
+      </attributes>
+      <name>wood</name>
+      <h>110</h>
+      <object_id>587262</object_id>
+      <w>408</w>
+      <y>171</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue teddy bear sitting on top of a wooden plank.</caption>
+      <caption>A doll lies propped up against a wooden post.</caption>
+      <caption>A blue stuffed animal leans against a wooden post.</caption>
+      <caption>a blue stuffed teddy bear sitting on a piece of wood</caption>
+      <caption>A very cute and brightly colored stuffed animal.</caption>
+    </captions>
+</image>

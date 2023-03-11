@@ -1,0 +1,79 @@
+<image>
+  <image-id>498147</image-id>
+  <coco-id>447524</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4054244</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1574136</subject>
+      <object>1574137</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4054247</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1574138</subject>
+      <object>1574141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4054250</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1574140</subject>
+      <object>1574141</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>245</h>
+      <object_id>1574136</object_id>
+      <w>811</w>
+      <y>253</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>207</h>
+      <object_id>1574137</object_id>
+      <w>841</w>
+      <y>469</y>
+      <x>174</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>White </attribute>
+      </attributes>
+      <name>letters</name>
+      <h>27</h>
+      <object_id>1574138</object_id>
+      <w>51</w>
+      <y>345</y>
+      <x>516</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>305</h>
+      <object_id>1574141</object_id>
+      <w>883</w>
+      <y>256</y>
+      <x>131</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>White </attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>17</h>
+      <object_id>1574140</object_id>
+      <w>32</w>
+      <y>453</y>
+      <x>352</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red moden trolly train is on the tracks.</caption>
+      <caption>A red train traveling down rail road racks past another train.</caption>
+      <caption>A red streamlined train riding on a  track.</caption>
+      <caption>A red and grey train traveling along railroad tracks.</caption>
+      <caption>a red train riding along a center train track</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>1592022</image-id>
+  <coco-id>470770</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3836977</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1605902</subject>
+      <object>3610250</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>375</h>
+      <object_id>1605902</object_id>
+      <w>131</w>
+      <y>195</y>
+      <x>298</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>117</h>
+      <object_id>3610250</object_id>
+      <w>135</w>
+      <y>234</y>
+      <x>322</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two women walking through a parking lot carrying luggage</caption>
+      <caption>Two women with lots of luggage walk through a parking lot. </caption>
+      <caption>two women with their suitcases cars and trees</caption>
+      <caption>A couple of woman with suitcases on the road.</caption>
+      <caption>Two women carrying their luggage through a parking lot.</caption>
+    </captions>
+</image>

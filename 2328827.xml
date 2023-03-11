@@ -1,0 +1,71 @@
+<image>
+  <image-id>2328827</image-id>
+  <coco-id>528201</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4022830</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3047232</subject>
+      <object>3245950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022831</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3245949</subject>
+      <object>3245950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022832</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3047232</subject>
+      <object>3047233</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>178</h>
+      <object_id>3047232</object_id>
+      <w>92</w>
+      <y>119</y>
+      <x>175</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tennis</attribute>
+      </attributes>
+      <name>court</name>
+      <h>198</h>
+      <object_id>3245950</object_id>
+      <w>485</w>
+      <y>169</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>58</h>
+      <object_id>3245949</object_id>
+      <w>20</w>
+      <y>95</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>66</h>
+      <object_id>3047233</object_id>
+      <w>45</w>
+      <y>142</y>
+      <x>214</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People that are walking on a tennis court with racquets in their hands.</caption>
+      <caption>Some people with rackets on a tennis court.</caption>
+      <caption>man walking on a green tennis court with carrying a racket</caption>
+      <caption>Two guys passing each other on a tennis court holding rackets. </caption>
+      <caption>A couple of men standing on top of a tennis court holding racquet.</caption>
+    </captions>
+</image>

@@ -1,0 +1,44 @@
+<image>
+  <image-id>2391227</image-id>
+  <coco-id>505288</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4739357</relationship_id>
+      <predicate>of</predicate>
+      <subject>4439315</subject>
+      <object>4439302</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>face</name>
+      <h>40</h>
+      <object_id>4439315</object_id>
+      <w>40</w>
+      <y>68</y>
+      <x>64</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>321</h>
+      <object_id>4439302</object_id>
+      <w>249</w>
+      <y>46</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two giraffes that are standing in the dirt.</caption>
+      <caption>Two giraffes grazing in a bush with green plants</caption>
+      <caption>a couple of giraffes are outside in the forest</caption>
+      <caption>Two giraffes stand in front of some trees and greenery.</caption>
+      <caption>Two baby giraffes are near the chain-linked fence.</caption>
+    </captions>
+</image>

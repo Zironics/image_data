@@ -1,0 +1,62 @@
+<image>
+  <image-id>2332679</image-id>
+  <coco-id>352739</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3907916</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3280995</subject>
+      <object>3280996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997108</relationship_id>
+      <predicate>with</predicate>
+      <subject>2857764</subject>
+      <object>2857765</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>41</h>
+      <object_id>3280995</object_id>
+      <w>96</w>
+      <y>104</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>204</h>
+      <object_id>3280996</object_id>
+      <w>303</w>
+      <y>6</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray </attribute>
+      </attributes>
+      <name>television</name>
+      <h>94</h>
+      <object_id>2857764</object_id>
+      <w>97</w>
+      <y>164</y>
+      <x>306</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>69</h>
+      <object_id>2857765</object_id>
+      <w>63</w>
+      <y>173</y>
+      <x>311</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A messy room with couch and television and a railroad crossing sign in the background.</caption>
+      <caption>A messy unfinished living room area with a sofa and tv, with DVDs and books scattered about.</caption>
+      <caption>A living room with tv and many tapes </caption>
+      <caption>A loft of a building with a sofa, a tv, some books and dvd, and a dart board</caption>
+      <caption>The room has a couch, tv, and several other decorations.</caption>
+    </captions>
+</image>

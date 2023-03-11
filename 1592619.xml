@@ -1,0 +1,81 @@
+<image>
+  <image-id>1592619</image-id>
+  <coco-id>250417</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4085595</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1670720</subject>
+      <object>1670721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264896</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1610963</subject>
+      <object>3710576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264897</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1610972</subject>
+      <object>3710578</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>speedometer</name>
+      <h>114</h>
+      <object_id>1670720</object_id>
+      <w>235</w>
+      <y>652</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>416</h>
+      <object_id>1670721</object_id>
+      <w>1002</w>
+      <y>350</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>32</h>
+      <object_id>1610963</object_id>
+      <w>76</w>
+      <y>467</y>
+      <x>589</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>98</h>
+      <object_id>3710576</object_id>
+      <w>539</w>
+      <y>467</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>36</h>
+      <object_id>1610972</object_id>
+      <w>29</w>
+      <y>382</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>165</h>
+      <object_id>3710578</object_id>
+      <w>48</w>
+      <y>342</y>
+      <x>135</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>View of a city intersection from inside a car.</caption>
+      <caption>a streets intersection some cars and a yellow bus and street lights</caption>
+      <caption>A car is driving down a street camera through windshield</caption>
+      <caption>A driver's view shows a red car driving through an intersection in a city. </caption>
+      <caption>Beyond a car dashboard is a city street with a traffic light and a red car.</caption>
+    </captions>
+</image>

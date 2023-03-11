@@ -1,0 +1,81 @@
+<image>
+  <image-id>2349298</image-id>
+  <coco-id>250238</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2528602</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>875869</subject>
+      <object>875861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2528603</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>875860</subject>
+      <object>875861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2528604</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>875869</subject>
+      <object>875861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2528605</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>875860</subject>
+      <object>875861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2528606</relationship_id>
+      <predicate>holding</predicate>
+      <subject>875861</subject>
+      <object>875860</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>138</h>
+      <object_id>875869</object_id>
+      <w>91</w>
+      <y>143</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light yellow</attribute>
+        <attribute>yellow</attribute>
+        <attribute>porcelain</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>190</h>
+      <object_id>875861</object_id>
+      <w>222</w>
+      <y>309</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>155</h>
+      <object_id>875860</object_id>
+      <w>147</w>
+      <y>197</y>
+      <x>155</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Vase of an assortment flowers in front of a wall.</caption>
+      <caption>a yrllow vase with pretty white and pink flowers </caption>
+      <caption>A vase with flowers on the floor in the room</caption>
+      <caption>Several pink and white flowers inside of a yellow vase.</caption>
+      <caption>Several flowers are inside a yellow vase indoors.</caption>
+    </captions>
+</image>

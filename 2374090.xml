@@ -1,0 +1,193 @@
+<image>
+  <image-id>2374090</image-id>
+  <coco-id>318778</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4120542</relationship_id>
+      <predicate>hanging over</predicate>
+      <subject>2295668</subject>
+      <object>1832962</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120544</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2623222</subject>
+      <object>2623223</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120545</relationship_id>
+      <predicate>standing around</predicate>
+      <subject>2248116</subject>
+      <object>2248117</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120546</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2423837</subject>
+      <object>2028236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120547</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2082006</subject>
+      <object>2082009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120548</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2332457</subject>
+      <object>2332458</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120549</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2028239</subject>
+      <object>1951841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4120550</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>2295668</subject>
+      <object>1685646</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <h>143</h>
+      <object_id>2295668</object_id>
+      <w>477</w>
+      <y>58</y>
+      <x>12</x>
+      <name>airplane</name>
+    </object>
+    <object>
+      <name>people</name>
+      <h>49</h>
+      <object_id>1832962</object_id>
+      <w>27</w>
+      <y>187</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>tags</name>
+      <h>62</h>
+      <object_id>2623222</object_id>
+      <w>84</w>
+      <y>322</y>
+      <x>377</x>
+    </object>
+    <object>
+      <name>tables</name>
+      <h>143</h>
+      <object_id>2623223</object_id>
+      <w>160</w>
+      <y>275</y>
+      <x>292</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>middle aged</attribute>
+      </attributes>
+      <name>man</name>
+      <h>102</h>
+      <object_id>2248116</object_id>
+      <w>42</w>
+      <y>214</y>
+      <x>393</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>157</h>
+      <object_id>2248117</object_id>
+      <w>294</w>
+      <y>258</y>
+      <x>113</x>
+    </object>
+    <object>
+      <h>69</h>
+      <object_id>2423837</object_id>
+      <w>28</w>
+      <y>216</y>
+      <x>374</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>jean jacket</name>
+      <h>35</h>
+      <object_id>2028236</object_id>
+      <w>30</w>
+      <y>226</y>
+      <x>372</x>
+    </object>
+    <object>
+      <name>airplane models</name>
+      <h>24</h>
+      <object_id>2082006</object_id>
+      <w>62</w>
+      <y>269</y>
+      <x>314</x>
+    </object>
+    <object>
+      <name>tables</name>
+      <h>202</h>
+      <object_id>2082009</object_id>
+      <w>317</w>
+      <y>293</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>50</h>
+      <object_id>2332457</object_id>
+      <w>32</w>
+      <y>284</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>striped jacket</name>
+      <h>36</h>
+      <object_id>2332458</object_id>
+      <w>34</w>
+      <y>295</y>
+      <x>160</x>
+    </object>
+    <object>
+      <h>104</h>
+      <object_id>2028239</object_id>
+      <w>35</w>
+      <y>313</y>
+      <x>197</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>baseball hat</name>
+      <h>18</h>
+      <object_id>1951841</object_id>
+      <w>20</w>
+      <y>310</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>57</h>
+      <object_id>1685646</object_id>
+      <w>230</w>
+      <y>11</y>
+      <x>62</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing around tables next to a jet.</caption>
+      <caption>People and tables at a show in a display hanger, underneath a large plane.</caption>
+      <caption>These people are gathered in an airplane hangar</caption>
+      <caption>A bunch of tables in a hanger with an airplane overhead</caption>
+      <caption>People at an airshow near an airplane. </caption>
+    </captions>
+</image>

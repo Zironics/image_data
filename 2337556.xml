@@ -1,0 +1,163 @@
+<image>
+  <image-id>2337556</image-id>
+  <coco-id>501122</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4076902</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3485802</subject>
+      <object>3707157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076901</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3707156</subject>
+      <object>3485802</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076903</relationship_id>
+      <predicate>shirt worn</predicate>
+      <subject>3157392</subject>
+      <object>3385879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076904</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>2083824</subject>
+      <object>3157392</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076905</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>2461262</subject>
+      <object>3157392</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076906</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>2546568</subject>
+      <object>2546569</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076907</relationship_id>
+      <predicate>around</predicate>
+      <subject>2057909</subject>
+      <object>2057908</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>board</name>
+      <h>102</h>
+      <object_id>3485802</object_id>
+      <w>247</w>
+      <y>220</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>36</h>
+      <object_id>3707157</object_id>
+      <w>43</w>
+      <y>277</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>vise </attribute>
+      </attributes>
+      <name>grips</name>
+      <h>33</h>
+      <object_id>3707156</object_id>
+      <w>78</w>
+      <y>287</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>behind</attribute>
+      </attributes>
+      <name>man</name>
+      <h>317</h>
+      <object_id>3157392</object_id>
+      <w>181</w>
+      <y>14</y>
+      <x>164</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>197</h>
+      <object_id>3385879</object_id>
+      <w>121</w>
+      <y>69</y>
+      <x>221</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cargo</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>100</h>
+      <object_id>2083824</object_id>
+      <w>164</w>
+      <y>227</y>
+      <x>220</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dust </attribute>
+      </attributes>
+      <name>dust mask</name>
+      <h>51</h>
+      <object_id>2461262</object_id>
+      <w>73</w>
+      <y>63</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>gloves</name>
+      <h>60</h>
+      <object_id>2546568</object_id>
+      <w>75</w>
+      <y>207</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>303</h>
+      <object_id>2546569</object_id>
+      <w>229</w>
+      <y>13</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>143</h>
+      <object_id>2057909</object_id>
+      <w>110</w>
+      <y>0</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>fencing</name>
+      <h>155</h>
+      <object_id>2057908</object_id>
+      <w>452</w>
+      <y>52</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing over an ironing board wearing a gas mask.</caption>
+      <caption>A man wearing a mask holding a sander.</caption>
+      <caption>a male in a black shirt is sanding a board</caption>
+      <caption>A man wearing a protective mask is sanding wood.</caption>
+      <caption>A man wearing a mask is doing some woodworking.</caption>
+    </captions>
+</image>

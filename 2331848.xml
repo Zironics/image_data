@@ -1,0 +1,106 @@
+<image>
+  <image-id>2331848</image-id>
+  <coco-id>341058</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4098057</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2958287</subject>
+      <object>2958288</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4098058</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3155623</subject>
+      <object>3155624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4098059</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2793070</subject>
+      <object>2793071</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4098060</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3218438</subject>
+      <object>3218439</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pepper</name>
+      <h>12</h>
+      <object_id>2958287</object_id>
+      <w>7</w>
+      <y>418</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>shaker</name>
+      <h>17</h>
+      <object_id>2958288</object_id>
+      <w>7</w>
+      <y>412</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>salt</name>
+      <h>6</h>
+      <object_id>3155623</object_id>
+      <w>4</w>
+      <y>419</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>shaker</name>
+      <h>16</h>
+      <object_id>3155624</object_id>
+      <w>9</w>
+      <y>412</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>napkins</name>
+      <h>16</h>
+      <object_id>2793070</object_id>
+      <w>27</w>
+      <y>413</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>85</h>
+      <object_id>2793071</object_id>
+      <w>136</w>
+      <y>411</y>
+      <x>126</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>restaurant</attribute>
+      </attributes>
+      <name>restaurant sign</name>
+      <h>98</h>
+      <object_id>3218438</object_id>
+      <w>93</w>
+      <y>84</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>post</name>
+      <h>158</h>
+      <object_id>3218439</object_id>
+      <w>8</w>
+      <y>247</y>
+      <x>189</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>This is an empty table at a restaurant with ships in the background.</caption>
+      <caption>This table is covered by a blue Sam Adams umbrella</caption>
+      <caption>Advertising sign above a patio umbrella on sunny day.</caption>
+      <caption>A lamp post stands next to an umbrella and table.</caption>
+      <caption>An umbrella is opened over an outdoor table.</caption>
+    </captions>
+</image>

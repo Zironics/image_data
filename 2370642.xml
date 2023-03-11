@@ -1,0 +1,41 @@
+<image>
+  <image-id>2370642</image-id>
+  <coco-id>299343</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4322658</relationship_id>
+      <predicate>driving behind</predicate>
+      <subject>2446884</subject>
+      <object>2471180</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>147</h>
+      <object_id>2446884</object_id>
+      <w>161</w>
+      <y>156</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>59</h>
+      <object_id>2471180</object_id>
+      <w>45</w>
+      <y>200</y>
+      <x>45</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of tour buses travel along a tree-lined road.</caption>
+      <caption>Modern commuter buses driving along a rural road</caption>
+      <caption>A picture of a bus on the street.</caption>
+      <caption>A red and white bus drives down a tree lined street.</caption>
+      <caption>a red and white bus traveling down a tree lined road</caption>
+    </captions>
+</image>

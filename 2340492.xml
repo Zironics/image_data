@@ -1,0 +1,81 @@
+<image>
+  <image-id>2340492</image-id>
+  <coco-id>214892</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3957691</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2601558</subject>
+      <object>2601560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097226</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3714541</subject>
+      <object>3154503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097227</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3243906</subject>
+      <object>3243907</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>18</h>
+      <object_id>2601558</object_id>
+      <w>35</w>
+      <y>133</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>skateboarder</name>
+      <h>222</h>
+      <object_id>2601560</object_id>
+      <w>150</w>
+      <y>13</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>hood</name>
+      <h>121</h>
+      <object_id>3714541</object_id>
+      <w>98</w>
+      <y>44</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>237</h>
+      <object_id>3154503</object_id>
+      <w>163</w>
+      <y>12</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>214</h>
+      <object_id>3243906</object_id>
+      <w>150</w>
+      <y>18</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>jeans</name>
+      <h>122</h>
+      <object_id>3243907</object_id>
+      <w>107</w>
+      <y>84</y>
+      <x>163</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man flying through the air while riding a skateboard.</caption>
+      <caption>Man with skateboard doing a trick in the air.</caption>
+      <caption>A guy in mid air jumping his skateboard at the top of a ramp.</caption>
+      <caption>A man gripping the edge of his skateboard jumps the edge of a pool.</caption>
+      <caption>A young man performing a trick on a skateboard.</caption>
+    </captions>
+</image>

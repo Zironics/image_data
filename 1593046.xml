@@ -1,0 +1,95 @@
+<image>
+  <image-id>1593046</image-id>
+  <coco-id>6253</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4089724</relationship_id>
+      <predicate>standing</predicate>
+      <subject>1918096</subject>
+      <object>3711953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089725</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2273469</subject>
+      <object>3711954</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089726</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2273469</subject>
+      <object>3711955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089727</relationship_id>
+      <predicate>standing</predicate>
+      <subject>3177910</subject>
+      <object>3711956</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>153</h>
+      <object_id>1918096</object_id>
+      <w>125</w>
+      <y>193</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>up</name>
+      <h>186</h>
+      <object_id>3711953</object_id>
+      <w>100</w>
+      <y>522</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>494</h>
+      <object_id>2273469</object_id>
+      <w>261</w>
+      <y>154</y>
+      <x>566</x>
+    </object>
+    <object>
+      <name>up</name>
+      <h>150</h>
+      <object_id>3711954</object_id>
+      <w>98</w>
+      <y>574</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>up</name>
+      <h>152</h>
+      <object_id>3711955</object_id>
+      <w>52</w>
+      <y>576</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>299</h>
+      <object_id>3177910</object_id>
+      <w>150</w>
+      <y>144</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>up</name>
+      <h>106</h>
+      <object_id>3711956</object_id>
+      <w>111</w>
+      <y>498</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people in an airport holding their luggage.</caption>
+      <caption>A group of people standing together holding luggage.</caption>
+      <caption>Four people, one with eyeglasses, with five suitcases </caption>
+      <caption>A group of people stand together, luggage in hand.</caption>
+      <caption>Travelers wait in line with their luggage an airport.</caption>
+    </captions>
+</image>

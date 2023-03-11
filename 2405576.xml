@@ -1,0 +1,170 @@
+<image>
+  <image-id>2405576</image-id>
+  <coco-id>203748</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1710817</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654141</subject>
+      <object>654149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710818</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654142</subject>
+      <object>654149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710819</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654141</subject>
+      <object>654149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710820</relationship_id>
+      <predicate>has a</predicate>
+      <subject>654149</subject>
+      <object>654141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710825</relationship_id>
+      <predicate>has a</predicate>
+      <subject>654149</subject>
+      <object>654145</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710826</relationship_id>
+      <predicate>has a</predicate>
+      <subject>654149</subject>
+      <object>654143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710827</relationship_id>
+      <predicate>has</predicate>
+      <subject>654149</subject>
+      <object>654146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710828</relationship_id>
+      <predicate>OF</predicate>
+      <subject>654145</subject>
+      <object>654149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710829</relationship_id>
+      <predicate>OF</predicate>
+      <subject>654144</subject>
+      <object>654149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710830</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654148</subject>
+      <object>654141</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710831</relationship_id>
+      <predicate>ON</predicate>
+      <subject>654141</subject>
+      <object>654149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1710835</relationship_id>
+      <predicate>has a</predicate>
+      <subject>654141</subject>
+      <object>654148</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>red</attribute>
+        <attribute>cloth</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>198</h>
+      <object_id>654141</object_id>
+      <w>292</w>
+      <y>213</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>teddy bear</attribute>
+        <attribute>tan</attribute>
+        <attribute>sitting</attribute>
+        <attribute>dressed</attribute>
+        <attribute>small</attribute>
+        <attribute>doll</attribute>
+      </attributes>
+      <name>teddy bear</name>
+      <h>436</h>
+      <object_id>654149</object_id>
+      <w>320</w>
+      <y>47</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>no eyes</name>
+      <h>86</h>
+      <object_id>654142</object_id>
+      <w>116</w>
+      <y>133</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>186</h>
+      <object_id>654145</object_id>
+      <w>105</w>
+      <y>289</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown nose</name>
+      <h>28</h>
+      <object_id>654143</object_id>
+      <w>34</w>
+      <y>257</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>ears</name>
+      <h>103</h>
+      <object_id>654146</object_id>
+      <w>98</w>
+      <y>45</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>damaged</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>243</h>
+      <object_id>654144</object_id>
+      <w>182</w>
+      <y>56</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>drawing</name>
+      <h>57</h>
+      <object_id>654148</object_id>
+      <w>52</w>
+      <y>326</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A torn teddy bear with a shirt inside a dark room.</caption>
+      <caption>A stuffed bear in a shirt sits on a bed</caption>
+      <caption>A white teddy bear wearing a T shirt.</caption>
+      <caption>Stuffed teddy bear wearing shirt displayed in dimly lit photo.</caption>
+      <caption>a teddy bear that is sitting up on the ground</caption>
+    </captions>
+</image>

@@ -1,0 +1,71 @@
+<image>
+  <image-id>2367294</image-id>
+  <coco-id>58766</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2052654</relationship_id>
+      <predicate>IN</predicate>
+      <subject>752120</subject>
+      <object>752127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052655</relationship_id>
+      <predicate>on h</predicate>
+      <subject>752123</subject>
+      <object>752131</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>bike</name>
+      <h>104</h>
+      <object_id>752120</object_id>
+      <w>194</w>
+      <y>204</y>
+      <x>81</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>129</h>
+      <object_id>752127</object_id>
+      <w>497</w>
+      <y>204</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>13</h>
+      <object_id>752123</object_id>
+      <w>19</w>
+      <y>199</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>shoulder</name>
+      <h>24</h>
+      <object_id>752131</object_id>
+      <w>51</w>
+      <y>183</y>
+      <x>15</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of bicycle that are standing in the sand.</caption>
+      <caption>Black and red bicycles are lined up in front of a train.</caption>
+      <caption>A group of red and black bicycles in front of a blue and white train. </caption>
+      <caption>A white and blue train parked next to a bunch of bikes.</caption>
+      <caption>a group of red bikes on a sidewalk</caption>
+    </captions>
+</image>

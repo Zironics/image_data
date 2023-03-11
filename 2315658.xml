@@ -1,0 +1,59 @@
+<image>
+  <image-id>2315658</image-id>
+  <coco-id>506149</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4253132</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3161517</subject>
+      <object>3161518</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3869368</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2752383</subject>
+      <object>3624650</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>22</h>
+      <object_id>3161517</object_id>
+      <w>10</w>
+      <y>265</y>
+      <x>329</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>175</h>
+      <object_id>3161518</object_id>
+      <w>377</w>
+      <y>172</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>10</h>
+      <object_id>2752383</object_id>
+      <w>8</w>
+      <y>260</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>190</h>
+      <object_id>3624650</object_id>
+      <w>404</w>
+      <y>173</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an air plane on an air port run way</caption>
+      <caption>Airplanes are parked at an airport with one being attached to a walkway.</caption>
+      <caption>The plan is sitting on the runway of the airport. </caption>
+      <caption>A white jet airliner docked at an airport.</caption>
+      <caption>A plane being serviced at a busy airport.</caption>
+    </captions>
+</image>

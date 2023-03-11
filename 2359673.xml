@@ -1,0 +1,46 @@
+<image>
+  <image-id>2359673</image-id>
+  <coco-id>220189</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2209665</relationship_id>
+      <predicate>under</predicate>
+      <subject>791804</subject>
+      <object>791800</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>90</h>
+      <object_id>791804</object_id>
+      <w>90</w>
+      <y>357</y>
+      <x>129</x>
+      <name>robe</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>marble</attribute>
+        <attribute>bathroom</attribute>
+        <attribute>area</attribute>
+        <attribute>pattern</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>84</h>
+      <object_id>791800</object_id>
+      <w>127</w>
+      <y>253</y>
+      <x>65</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A marble bathroom vanity under a large round mirror.</caption>
+      <caption>A bathroom vanity made of marble with a small round mirror above.</caption>
+      <caption>A marble bathroom sink with a convex mirror over it.</caption>
+      <caption>A bathroom with a marble sink and counter</caption>
+      <caption>A sink and wash area in a marble-finished bathroom.</caption>
+    </captions>
+</image>

@@ -1,0 +1,204 @@
+<image>
+  <image-id>2388200</image-id>
+  <coco-id>100516</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4769773</relationship_id>
+      <predicate>with</predicate>
+      <subject>4520237</subject>
+      <object>4520238</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769774</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4520237</subject>
+      <object>4520239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769775</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>4520270</subject>
+      <object>4520247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769776</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>4520241</subject>
+      <object>4520247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769777</relationship_id>
+      <predicate>drawn on</predicate>
+      <subject>4520243</subject>
+      <object>4520244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769778</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4520245</subject>
+      <object>4520244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769779</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4520247</subject>
+      <object>4520281</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769780</relationship_id>
+      <predicate>watching</predicate>
+      <subject>4520247</subject>
+      <object>4520275</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769781</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4520247</subject>
+      <object>4520260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769782</relationship_id>
+      <predicate>throwing</predicate>
+      <subject>4520247</subject>
+      <object>4520275</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769783</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>4520247</subject>
+      <object>4520275</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>63</h>
+      <object_id>4520237</object_id>
+      <w>65</w>
+      <y>1</y>
+      <x>266</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>khaki</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>42</h>
+      <object_id>4520238</object_id>
+      <w>56</w>
+      <y>8</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>sidelines</name>
+      <h>109</h>
+      <object_id>4520239</object_id>
+      <w>354</w>
+      <y>0</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white tennis </attribute>
+        <attribute>red </attribute>
+        <attribute>black detail</attribute>
+      </attributes>
+      <h>16</h>
+      <object_id>4520270</object_id>
+      <w>25</w>
+      <y>258</y>
+      <x>240</x>
+      <name>shoes</name>
+    </object>
+    <object>
+      <h>132</h>
+      <object_id>4520247</object_id>
+      <w>92</w>
+      <y>142</y>
+      <x>213</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>socks</name>
+      <h>26</h>
+      <object_id>4520241</object_id>
+      <w>32</w>
+      <y>236</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>lines</name>
+      <h>127</h>
+      <object_id>4520243</object_id>
+      <w>419</w>
+      <y>204</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>330</h>
+      <object_id>4520244</object_id>
+      <w>491</w>
+      <y>0</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>surface</name>
+      <h>330</h>
+      <object_id>4520245</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white tennis</attribute>
+        <attribute>red </attribute>
+      </attributes>
+      <h>46</h>
+      <object_id>4520281</object_id>
+      <w>23</w>
+      <y>154</y>
+      <x>298</x>
+      <name>racket</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tennis </attribute>
+      </attributes>
+      <h>6</h>
+      <object_id>4520275</object_id>
+      <w>9</w>
+      <y>48</y>
+      <x>243</x>
+      <name>ball</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>t-shirt</name>
+      <h>48</h>
+      <object_id>4520260</object_id>
+      <w>58</w>
+      <y>160</y>
+      <x>230</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man with a tennis racquet that is standing on a tennis court.</caption>
+      <caption>A man holding a tennis racket about to hit a ball. </caption>
+      <caption>A tennis player getting ready to serve a tennis ball.</caption>
+      <caption>A man playing tennis prepares to hit a tennis ball. </caption>
+      <caption>A man standing on top of a tennis court holding a racquet.</caption>
+    </captions>
+</image>

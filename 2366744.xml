@@ -1,0 +1,102 @@
+<image>
+  <image-id>2366744</image-id>
+  <coco-id>160889</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1620469</relationship_id>
+      <predicate>ON</predicate>
+      <subject>626296</subject>
+      <object>626297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1620470</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>626298</subject>
+      <object>626296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1620471</relationship_id>
+      <predicate>ON</predicate>
+      <subject>626296</subject>
+      <object>626297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1620472</relationship_id>
+      <predicate>ON</predicate>
+      <subject>626296</subject>
+      <object>626297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1620473</relationship_id>
+      <predicate>ON</predicate>
+      <subject>626296</subject>
+      <object>626297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1620474</relationship_id>
+      <predicate>holding</predicate>
+      <subject>626297</subject>
+      <object>626296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1620475</relationship_id>
+      <predicate>ON</predicate>
+      <subject>626296</subject>
+      <object>626297</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>spotted</attribute>
+        <attribute>ripe</attribute>
+        <attribute>sitting</attribute>
+        <attribute>together</attribute>
+        <attribute>yellow</attribute>
+        <attribute>bright</attribute>
+      </attributes>
+      <name>bananas</name>
+      <h>164</h>
+      <object_id>626296</object_id>
+      <w>258</w>
+      <y>60</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>stained</attribute>
+        <attribute>wooden</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>table</name>
+      <h>37</h>
+      <object_id>626297</object_id>
+      <w>252</w>
+      <y>225</y>
+      <x>59</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>blue</attribute>
+        <attribute>silver</attribute>
+        <attribute>thin</attribute>
+      </attributes>
+      <name>bars</name>
+      <h>47</h>
+      <object_id>626298</object_id>
+      <w>29</w>
+      <y>135</y>
+      <x>372</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Bunches of bananas sitting on a wooden table beyond a metal gate.</caption>
+      <caption>A large bunch of green bananas sitting on a table.</caption>
+      <caption>a pile of bananas that are piled up on the table.</caption>
+      <caption>Clusters of small bananas on a table behind bars.</caption>
+      <caption>A group of bananas sits on a table trough a set of bars. </caption>
+    </captions>
+</image>

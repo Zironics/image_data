@@ -1,0 +1,65 @@
+<image>
+  <image-id>2392592</image-id>
+  <coco-id>381641</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1088839</relationship_id>
+      <predicate>sky cloudy</predicate>
+      <subject>478884</subject>
+      <object>478885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4290655</relationship_id>
+      <predicate>ON</predicate>
+      <subject>478858</subject>
+      <object>3825703</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sky</name>
+      <h>62</h>
+      <object_id>478884</object_id>
+      <w>200</w>
+      <y>60</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>58</h>
+      <object_id>478885</object_id>
+      <w>494</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>looking</attribute>
+        <attribute>walking</attribute>
+        <attribute>grazing</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>78</h>
+      <object_id>478858</object_id>
+      <w>114</w>
+      <y>173</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>215</h>
+      <object_id>3825703</object_id>
+      <w>493</w>
+      <y>114</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a herd of sheep sitting on a grassy hill</caption>
+      <caption>so many white sheep in the field grazing</caption>
+      <caption>A flock of sheep standing on top of a lush green field.</caption>
+      <caption>A flock of sheep on a grassy hillside.</caption>
+      <caption>there are many sheep that are on this mountain</caption>
+    </captions>
+</image>

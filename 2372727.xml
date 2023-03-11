@@ -1,0 +1,88 @@
+<image>
+  <image-id>2372727</image-id>
+  <coco-id>164104</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4313792</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1684776</subject>
+      <object>1684775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4313793</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2681852</subject>
+      <object>2681851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4145123</relationship_id>
+      <predicate>protects</predicate>
+      <subject>2466914</subject>
+      <object>3731825</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>feet</name>
+      <h>11</h>
+      <object_id>1684776</object_id>
+      <w>31</w>
+      <y>200</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>ostrich</name>
+      <h>85</h>
+      <object_id>1684775</object_id>
+      <w>78</w>
+      <y>130</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>39</h>
+      <object_id>2681852</object_id>
+      <w>37</w>
+      <y>157</y>
+      <x>108</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>looking forward</attribute>
+      </attributes>
+      <name>ostrich</name>
+      <h>77</h>
+      <object_id>2681851</object_id>
+      <w>70</w>
+      <y>134</y>
+      <x>88</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>metal fence</name>
+      <h>75</h>
+      <object_id>2466914</object_id>
+      <w>106</w>
+      <y>132</y>
+      <x>333</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>194</h>
+      <object_id>3731825</object_id>
+      <w>105</w>
+      <y>5</y>
+      <x>333</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An ostrich and zebra fenced in with each other. </caption>
+      <caption>a zebra stands next to an ostrich and tree </caption>
+      <caption>A zebra and large bird are standing together near a fence.</caption>
+      <caption>An ostrich in a zoo a long with three zebras. </caption>
+      <caption>An ostrich standing in a zoo pin near some zebras.</caption>
+    </captions>
+</image>

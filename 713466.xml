@@ -1,0 +1,55 @@
+<image>
+  <image-id>713466</image-id>
+  <coco-id>295270</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3812535</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1584132</subject>
+      <object>1584134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3812536</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1584134</subject>
+      <object>3599363</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>statue</name>
+      <h>209</h>
+      <object_id>1584132</object_id>
+      <w>98</w>
+      <y>64</y>
+      <x>43</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stone</attribute>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>building</name>
+      <h>339</h>
+      <object_id>1584134</object_id>
+      <w>252</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>yard</name>
+      <h>226</h>
+      <object_id>3599363</object_id>
+      <w>650</w>
+      <y>302</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white and brown bench sitting on a sidewalk.</caption>
+      <caption>A two toned bench sitting in front of grass and bushes. </caption>
+      <caption>A bench that is placed by some bushes.</caption>
+      <caption>there is a white and gray bench on the rocky road</caption>
+      <caption>The bench next to the building has wooden planks and a metal frame. </caption>
+    </captions>
+</image>

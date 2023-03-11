@@ -1,0 +1,73 @@
+<image>
+  <image-id>1591900</image-id>
+  <coco-id>232807</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4078343</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1604973</subject>
+      <object>1604974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078344</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1604973</subject>
+      <object>1604976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078346</relationship_id>
+      <predicate>walking to</predicate>
+      <subject>1604984</subject>
+      <object>1604985</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>72</h>
+      <object_id>1604973</object_id>
+      <w>40</w>
+      <y>120</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>130</h>
+      <object_id>1604974</object_id>
+      <w>119</w>
+      <y>62</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>141</h>
+      <object_id>1604976</object_id>
+      <w>139</w>
+      <y>46</y>
+      <x>47</x>
+    </object>
+    <object>
+      <name>bus driver</name>
+      <h>85</h>
+      <object_id>1604984</object_id>
+      <w>44</w>
+      <y>175</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>97</h>
+      <object_id>1604985</object_id>
+      <w>149</w>
+      <y>138</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green double decker bus pulling into a parking lot.</caption>
+      <caption>a big green bus that is parked next to a building</caption>
+      <caption>A green double-decker bus passing a construction site.</caption>
+      <caption>A double decker bus drives down the street.</caption>
+      <caption>A green double deck tour bus riding through a small street.</caption>
+    </captions>
+</image>

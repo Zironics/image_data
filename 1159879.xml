@@ -1,0 +1,68 @@
+<image>
+  <image-id>1159879</image-id>
+  <coco-id>312472</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4263890</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1598655</subject>
+      <object>3797278</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4072939</relationship_id>
+      <predicate>climbing down</predicate>
+      <subject>1598654</subject>
+      <object>3705535</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4072940</relationship_id>
+      <predicate>riding down</predicate>
+      <subject>1598655</subject>
+      <object>3705535</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>99</h>
+      <object_id>1598655</object_id>
+      <w>55</w>
+      <y>199</y>
+      <x>203</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>22</h>
+      <object_id>3797278</object_id>
+      <w>40</w>
+      <y>290</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>foliage</name>
+      <h>245</h>
+      <object_id>1598654</object_id>
+      <w>441</w>
+      <y>182</y>
+      <x>577</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>545</h>
+      <object_id>3705535</object_id>
+      <w>973</w>
+      <y>136</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man skateboards down a very steep hill.</caption>
+      <caption>A man on a skateboard riding down a large hill.</caption>
+      <caption>A person travels down a hilly street on a skate board.</caption>
+      <caption>A man riding a skateboard down the side of a road.</caption>
+      <caption>A boy skateboards down a street on a hill.</caption>
+    </captions>
+</image>

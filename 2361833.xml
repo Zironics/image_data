@@ -1,0 +1,80 @@
+<image>
+  <image-id>2361833</image-id>
+  <coco-id>42476</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2138101</relationship_id>
+      <predicate>ON</predicate>
+      <subject>779057</subject>
+      <object>779056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138102</relationship_id>
+      <predicate>ON</predicate>
+      <subject>779057</subject>
+      <object>779056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138103</relationship_id>
+      <predicate>ON</predicate>
+      <subject>779057</subject>
+      <object>779056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138104</relationship_id>
+      <predicate>ON</predicate>
+      <subject>779057</subject>
+      <object>779056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138105</relationship_id>
+      <predicate>ON</predicate>
+      <subject>779057</subject>
+      <object>779056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138106</relationship_id>
+      <predicate>IN</predicate>
+      <subject>779057</subject>
+      <object>779056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138107</relationship_id>
+      <predicate>IN</predicate>
+      <subject>779057</subject>
+      <object>779056</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>63</h>
+      <object_id>779057</object_id>
+      <w>89</w>
+      <y>190</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>104</h>
+      <object_id>779056</object_id>
+      <w>123</w>
+      <y>190</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cow grazing on a steep hill in a mountain range.</caption>
+      <caption>A large cow standing on a grassy hill.</caption>
+      <caption>A white cow is eating grass on a field on a hill.</caption>
+      <caption>A white horse grazing on a lush green hillside.</caption>
+      <caption>A cow is grazing on a steep mountain slope.</caption>
+    </captions>
+</image>

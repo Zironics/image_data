@@ -1,0 +1,82 @@
+<image>
+  <image-id>2335246</image-id>
+  <coco-id>299417</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4451644</relationship_id>
+      <predicate>has</predicate>
+      <subject>2448877</subject>
+      <object>3925559</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3985638</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2501626</subject>
+      <object>3925560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4451645</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3475083</subject>
+      <object>3925560</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>computer</name>
+      <h>81</h>
+      <object_id>2448877</object_id>
+      <w>70</w>
+      <y>57</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>monitor</name>
+      <h>127</h>
+      <object_id>3925559</object_id>
+      <w>77</w>
+      <y>2</y>
+      <x>352</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>spacebar</name>
+      <h>51</h>
+      <object_id>2501626</object_id>
+      <w>165</w>
+      <y>421</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>keyboard</name>
+      <h>152</h>
+      <object_id>3925560</object_id>
+      <w>421</w>
+      <y>343</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>escape</attribute>
+      </attributes>
+      <name>key</name>
+      <h>28</h>
+      <object_id>3475083</object_id>
+      <w>33</w>
+      <y>336</y>
+      <x>134</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A desktop keyboard sitting on top of a desk.</caption>
+      <caption>A white computer keyboard is sitting on a desk.</caption>
+      <caption>An Apple thin keyboard with computer in tow</caption>
+      <caption>An Apple computer keyboard sits on a table in front of a screen.</caption>
+      <caption>A computer keyboard sits upon a wooden desk.</caption>
+    </captions>
+</image>

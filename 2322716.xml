@@ -1,0 +1,69 @@
+<image>
+  <image-id>2322716</image-id>
+  <coco-id>556751</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3648137</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2739778</subject>
+      <object>3457905</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4535233</relationship_id>
+      <predicate>on little girl</predicate>
+      <subject>3212410</subject>
+      <object>3212409</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoes</name>
+      <h>88</h>
+      <object_id>2739778</object_id>
+      <w>87</w>
+      <y>394</y>
+      <x>129</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+        <attribute>little</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>407</h>
+      <object_id>3457905</object_id>
+      <w>175</w>
+      <y>71</y>
+      <x>92</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoes</name>
+      <h>123</h>
+      <object_id>3212410</object_id>
+      <w>102</w>
+      <y>373</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>388</h>
+      <object_id>3212409</object_id>
+      <w>281</w>
+      <y>50</y>
+      <x>36</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beautiful little blond girl using a smart phone.</caption>
+      <caption>A young girl in a  dress holding something</caption>
+      <caption>A young girl in a dress plays with an iPhone.</caption>
+      <caption>A young girl is playing with an object while standing up.</caption>
+      <caption>Girl in red and white dress holding a mobile device.</caption>
+    </captions>
+</image>

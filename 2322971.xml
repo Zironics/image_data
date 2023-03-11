@@ -1,0 +1,81 @@
+<image>
+  <image-id>2322971</image-id>
+  <coco-id>237344</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4533838</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3959944</subject>
+      <object>3433774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3742454</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2833994</subject>
+      <object>2833995</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4533839</relationship_id>
+      <predicate>has</predicate>
+      <subject>3424291</subject>
+      <object>3424290</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>395</h>
+      <object_id>3959944</object_id>
+      <w>250</w>
+      <y>103</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>205</h>
+      <object_id>3433774</object_id>
+      <w>250</w>
+      <y>279</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>67</h>
+      <object_id>2833994</object_id>
+      <w>73</w>
+      <y>148</y>
+      <x>376</x>
+    </object>
+    <object>
+      <name>baby</name>
+      <h>244</h>
+      <object_id>2833995</object_id>
+      <w>130</w>
+      <y>147</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>232</h>
+      <object_id>3424291</object_id>
+      <w>225</w>
+      <y>262</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>pocket</name>
+      <h>76</h>
+      <object_id>3424290</object_id>
+      <w>45</w>
+      <y>360</y>
+      <x>276</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people standing next to each other on a street.</caption>
+      <caption>A man holding a cell phone in front of his face.</caption>
+      <caption>a person in a crowd of people holding up a cell phone</caption>
+      <caption>A guy taking a picute with a cell phone in a crowd of people.</caption>
+      <caption>A group of people are gathering and looking at cell phones.</caption>
+    </captions>
+</image>

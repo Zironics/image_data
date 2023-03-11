@@ -1,0 +1,88 @@
+<image>
+  <image-id>2355526</image-id>
+  <coco-id>533464</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4224420</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2371027</subject>
+      <object>1724683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3737168</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1790009</subject>
+      <object>1790010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3737174</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2682123</subject>
+      <object>2682124</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>clay</attribute>
+      </attributes>
+      <h>199</h>
+      <object_id>2371027</object_id>
+      <w>196</w>
+      <y>148</y>
+      <x>75</x>
+      <name>plant pot</name>
+    </object>
+    <object>
+      <name>pot</name>
+      <h>34</h>
+      <object_id>1724683</object_id>
+      <w>68</w>
+      <y>317</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+      </attributes>
+      <name>empty bench</name>
+      <h>40</h>
+      <object_id>1790009</object_id>
+      <w>86</w>
+      <y>298</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>331</h>
+      <object_id>1790010</object_id>
+      <w>497</w>
+      <y>44</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>48</h>
+      <object_id>2682123</object_id>
+      <w>122</w>
+      <y>240</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>170</h>
+      <object_id>2682124</object_id>
+      <w>322</w>
+      <y>186</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>allot of plants surrounded by concrete with a building that has a clock in the background. </caption>
+      <caption>There is a clock tower on the building.</caption>
+      <caption>A large building with a clock is seen through a fence.</caption>
+      <caption>A wooden gate in front of shrubs and trees with a tall clock tower in the background. </caption>
+      <caption>A very tall clock tower towering over a city.</caption>
+    </captions>
+</image>

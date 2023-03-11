@@ -1,0 +1,107 @@
+<image>
+  <image-id>2321332</image-id>
+  <coco-id>271941</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4539724</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3497811</subject>
+      <object>3497813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539725</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3497812</subject>
+      <object>3497813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539726</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2704119</subject>
+      <object>3327761</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539727</relationship_id>
+      <predicate>sitting in front of</predicate>
+      <subject>3962161</subject>
+      <object>2704119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539728</relationship_id>
+      <predicate>sitting in front of</predicate>
+      <subject>3962162</subject>
+      <object>2704119</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>12</h>
+      <object_id>3497811</object_id>
+      <w>15</w>
+      <y>224</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>65</h>
+      <object_id>3497813</object_id>
+      <w>102</w>
+      <y>214</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>13</h>
+      <object_id>3497812</object_id>
+      <w>18</w>
+      <y>215</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>sculpture</name>
+      <h>297</h>
+      <object_id>2704119</object_id>
+      <w>375</w>
+      <y>0</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>223</h>
+      <object_id>3327761</object_id>
+      <w>155</w>
+      <y>0</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>141</h>
+      <object_id>3962161</object_id>
+      <w>72</w>
+      <y>182</y>
+      <x>366</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>153</h>
+      <object_id>3962162</object_id>
+      <w>72</w>
+      <y>170</y>
+      <x>310</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man does a trick on his skate board while others look on. </caption>
+      <caption>A person doing tricks on a skateboard while a group of people sit nearby.</caption>
+      <caption>A man flying through the air while riding a skateboard.</caption>
+      <caption>Airborne skateboarder in front of a monument with onlookers.</caption>
+      <caption>A boy riding a skate board down steps in front of a school with other kids sitting around.</caption>
+    </captions>
+</image>

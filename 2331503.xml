@@ -1,0 +1,59 @@
+<image>
+  <image-id>2331503</image-id>
+  <coco-id>196699</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4823888</relationship_id>
+      <predicate>on</predicate>
+      <subject>4656456</subject>
+      <object>4656452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823889</relationship_id>
+      <predicate>on</predicate>
+      <subject>4656458</subject>
+      <object>4656452</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>pepper</name>
+      <h>107</h>
+      <object_id>4656456</object_id>
+      <w>109</w>
+      <y>130</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>rectangular</attribute>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>chopping board</name>
+      <h>190</h>
+      <object_id>4656452</object_id>
+      <w>294</w>
+      <y>92</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>214</h>
+      <object_id>4656458</object_id>
+      <w>38</w>
+      <y>101</y>
+      <x>275</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bell pepper sitting on top of a blue cutting board.</caption>
+      <caption>A green pepper being cut up on a cutting board with a knife. </caption>
+      <caption>A pepper sits on a cutting board next to a knife.</caption>
+      <caption>A small knife next to a sliced and chopped pepper. </caption>
+      <caption>A pepper sits half cut on a cutting board.</caption>
+    </captions>
+</image>

@@ -1,0 +1,57 @@
+<image>
+  <image-id>2323476</image-id>
+  <coco-id>309302</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3641032</relationship_id>
+      <predicate>has</predicate>
+      <subject>2714866</subject>
+      <object>3350046</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3641033</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2714865</subject>
+      <object>2714866</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>horse</name>
+      <h>182</h>
+      <object_id>2714866</object_id>
+      <w>156</w>
+      <y>73</y>
+      <x>306</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>face</name>
+      <h>55</h>
+      <object_id>3350046</object_id>
+      <w>30</w>
+      <y>97</y>
+      <x>430</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>snout</name>
+      <h>18</h>
+      <object_id>2714865</object_id>
+      <w>18</w>
+      <y>139</y>
+      <x>444</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of horses walking down the street</caption>
+      <caption>A group of horses are running on the street.</caption>
+      <caption>A group of horses walking down a street next to brick buildings.</caption>
+      <caption>Horses travel down a narrow city street with a car following.</caption>
+      <caption>a bunch of horses are walking down the road</caption>
+    </captions>
+</image>

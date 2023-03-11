@@ -1,0 +1,170 @@
+<image>
+  <image-id>2408709</image-id>
+  <coco-id>187462</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>286860</relationship_id>
+      <predicate>standing</predicate>
+      <subject>256457</subject>
+      <object>256482</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286861</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>256468</subject>
+      <object>256469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286862</relationship_id>
+      <predicate>holding</predicate>
+      <subject>256468</subject>
+      <object>256457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286863</relationship_id>
+      <predicate>looking</predicate>
+      <subject>256468</subject>
+      <object>256457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286864</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>256468</subject>
+      <object>256479</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286865</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>256468</subject>
+      <object>256461</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286866</relationship_id>
+      <predicate>holding</predicate>
+      <subject>256468</subject>
+      <object>256457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286867</relationship_id>
+      <predicate>holding</predicate>
+      <subject>256468</subject>
+      <object>256457</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286868</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>256468</subject>
+      <object>256469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286869</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>256468</subject>
+      <object>256461</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286870</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>256468</subject>
+      <object>256469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>286871</relationship_id>
+      <predicate>holding</predicate>
+      <subject>256468</subject>
+      <object>256457</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>huge</attribute>
+        <attribute>brown</attribute>
+        <attribute>large</attribute>
+        <attribute>beautiful</attribute>
+        <attribute>attractive</attribute>
+        <attribute>nice</attribute>
+        <attribute>interesting</attribute>
+        <attribute>really pretty</attribute>
+        <attribute>with talons</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>193</h>
+      <object_id>256457</object_id>
+      <w>150</w>
+      <y>94</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>huge</attribute>
+        <attribute>leather</attribute>
+        <attribute>on woman's hand</attribute>
+      </attributes>
+      <h>115</h>
+      <object_id>256482</object_id>
+      <w>259</w>
+      <y>238</y>
+      <x>184</x>
+      <name>glove</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>with bird</attribute>
+        <attribute>pleased</attribute>
+        <attribute>with dark hair</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>299</h>
+      <object_id>256468</object_id>
+      <w>224</w>
+      <y>53</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>141</h>
+      <object_id>256469</object_id>
+      <w>218</w>
+      <y>212</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>in woman's ear</attribute>
+        <attribute>small loop</attribute>
+      </attributes>
+      <h>19</h>
+      <object_id>256479</object_id>
+      <w>17</w>
+      <y>154</y>
+      <x>110</x>
+      <name>earring</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on neck</attribute>
+        <attribute>on woman's neck</attribute>
+        <attribute>silver</attribute>
+        <attribute>pretty</attribute>
+      </attributes>
+      <name>necklace</name>
+      <h>21</h>
+      <object_id>256461</object_id>
+      <w>39</w>
+      <y>249</y>
+      <x>133</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Woman with protective glove on holds bird with long talons.</caption>
+      <caption>Woman with shades on her head holds up a falcon</caption>
+      <caption>A woman handling a beautiful tethered hawk in her hand.</caption>
+      <caption>A women holding a bird of prey with a hawking glove.</caption>
+      <caption>a person with a glove holding a bird</caption>
+    </captions>
+</image>

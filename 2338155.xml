@@ -1,0 +1,106 @@
+<image>
+  <image-id>2338155</image-id>
+  <coco-id>246218</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4066869</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3702987</subject>
+      <object>3104299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4066870</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2458573</subject>
+      <object>2458574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460536</relationship_id>
+      <predicate>have</predicate>
+      <subject>2285459</subject>
+      <object>3930593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4066873</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3410675</subject>
+      <object>3410676</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>tomatoes</name>
+      <h>53</h>
+      <object_id>3702987</object_id>
+      <w>239</w>
+      <y>169</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>217</h>
+      <object_id>3104299</object_id>
+      <w>337</w>
+      <y>35</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>270</h>
+      <object_id>2458573</object_id>
+      <w>285</w>
+      <y>10</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>71</h>
+      <object_id>2458574</object_id>
+      <w>84</w>
+      <y>257</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>french fries</name>
+      <h>77</h>
+      <object_id>2285459</object_id>
+      <w>159</w>
+      <y>207</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>salt</name>
+      <h>80</h>
+      <object_id>3930593</object_id>
+      <w>169</w>
+      <y>194</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>lettuce</name>
+      <h>53</h>
+      <object_id>3410675</object_id>
+      <w>145</w>
+      <y>205</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>252</h>
+      <object_id>3410676</object_id>
+      <w>301</w>
+      <y>22</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A meal with a tall sandwich, small salad, fries and small glass dish with ketchup.</caption>
+      <caption>some food is laying out on a white plate</caption>
+      <caption>A steak burger sits next to french fries with a side salad. </caption>
+      <caption>The large half of a sandwich is next to cole slaw and french fries. </caption>
+      <caption>A large sandwich with fries and a small salad.</caption>
+    </captions>
+</image>

@@ -1,0 +1,114 @@
+<image>
+  <image-id>2367021</image-id>
+  <coco-id>505666</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4363298</relationship_id>
+      <predicate>with</predicate>
+      <subject>2265042</subject>
+      <object>1761127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4363299</relationship_id>
+      <predicate>on</predicate>
+      <subject>2134744</subject>
+      <object>2134745</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4363300</relationship_id>
+      <predicate>traveling</predicate>
+      <subject>1756836</subject>
+      <object>2193917</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4363301</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>3875814</subject>
+      <object>1774477</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+        <attribute>for fire</attribute>
+      </attributes>
+      <name>hydrant</name>
+      <h>256</h>
+      <object_id>2265042</object_id>
+      <w>122</w>
+      <y>113</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>chain</name>
+      <h>58</h>
+      <object_id>1761127</object_id>
+      <w>46</w>
+      <y>174</y>
+      <x>308</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> large</attribute>
+        <attribute> green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>127</h>
+      <object_id>2134744</object_id>
+      <w>70</w>
+      <y>57</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>195</h>
+      <object_id>2134745</object_id>
+      <w>429</w>
+      <y>171</y>
+      <x>50</x>
+    </object>
+    <object>
+      <h>26</h>
+      <object_id>1756836</object_id>
+      <w>37</w>
+      <y>200</y>
+      <x>172</x>
+      <name>car</name>
+    </object>
+    <object>
+      <h>157</h>
+      <object_id>2193917</object_id>
+      <w>497</w>
+      <y>215</y>
+      <x>1</x>
+      <name>hill</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>chain</name>
+      <h>56</h>
+      <object_id>3875814</object_id>
+      <w>49</w>
+      <y>171</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>cap</name>
+      <h>40</h>
+      <object_id>1774477</object_id>
+      <w>31</w>
+      <y>184</y>
+      <x>282</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a fire hydrant on top of a city hill </caption>
+      <caption>A white fire hydrant sitting on the side of a road.</caption>
+      <caption>A white fire hydrant on the side of a road.</caption>
+      <caption>A fire hydrant located on a down hill sidewalk.</caption>
+      <caption>A fire hydrant painted white on top of a hill on a city street.</caption>
+    </captions>
+</image>

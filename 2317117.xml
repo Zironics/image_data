@@ -1,0 +1,53 @@
+<image>
+  <image-id>2317117</image-id>
+  <coco-id>569353</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3060299</relationship_id>
+      <predicate>near</predicate>
+      <subject>1023472</subject>
+      <object>1023476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3060300</relationship_id>
+      <predicate>with a</predicate>
+      <subject>1023476</subject>
+      <object>1023472</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Metal</attribute>
+        <attribute>Wood</attribute>
+        <attribute>Wet</attribute>
+        <attribute>Black</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>176</h>
+      <object_id>1023472</object_id>
+      <w>104</w>
+      <y>105</y>
+      <x>396</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>square</attribute>
+      </attributes>
+      <name>table</name>
+      <h>66</h>
+      <object_id>1023476</object_id>
+      <w>159</w>
+      <y>36</y>
+      <x>340</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little girl holding a large umbrella over herself.</caption>
+      <caption>A child walking in the rain with an umbrella. </caption>
+      <caption>A little girl hides from the rain under a huge umbrella.</caption>
+      <caption>a small child holding an open umbrella in the rain</caption>
+      <caption>A person walking down a rain covered road under a black umbrella.</caption>
+    </captions>
+</image>

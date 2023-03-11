@@ -1,0 +1,114 @@
+<image>
+  <image-id>2405021</image-id>
+  <coco-id>275868</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4628535</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4166294</subject>
+      <object>4166293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628536</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4166322</subject>
+      <object>4166323</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628537</relationship_id>
+      <predicate>from</predicate>
+      <subject>4166324</subject>
+      <object>4166325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4628538</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4166309</subject>
+      <object>4166332</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>lettering</name>
+      <h>62</h>
+      <object_id>4166294</object_id>
+      <w>207</w>
+      <y>94</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>large</attribute>
+        <attribute>oval</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>93</h>
+      <object_id>4166293</object_id>
+      <w>270</w>
+      <y>76</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>power lines</name>
+      <h>55</h>
+      <object_id>4166322</object_id>
+      <w>481</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>370</h>
+      <object_id>4166323</object_id>
+      <w>28</w>
+      <y>1</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>stoplight</name>
+      <h>97</h>
+      <object_id>4166324</object_id>
+      <w>59</w>
+      <y>121</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>372</h>
+      <object_id>4166325</object_id>
+      <w>44</w>
+      <y>0</y>
+      <x>268</x>
+    </object>
+    <object>
+      <h>29</h>
+      <object_id>4166309</object_id>
+      <w>31</w>
+      <y>134</y>
+      <x>95</x>
+      <name>red/traffic light</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>370</h>
+      <object_id>4166332</object_id>
+      <w>27</w>
+      <y>3</y>
+      <x>281</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light and street sign next to building in rain.</caption>
+      <caption>Large street sign on post next to traffic light and building.</caption>
+      <caption>A street sign and a traffic light in front of a building. </caption>
+      <caption>A traffic light and sign on a pole on a street.</caption>
+      <caption>a street sign on a pole near a traffic light</caption>
+    </captions>
+</image>

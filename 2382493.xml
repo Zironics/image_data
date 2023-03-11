@@ -1,0 +1,65 @@
+<image>
+  <image-id>2382493</image-id>
+  <coco-id>263176</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4781199</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4550950</subject>
+      <object>4550949</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4781200</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4550953</subject>
+      <object>4550952</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flag</name>
+      <h>37</h>
+      <object_id>4550950</object_id>
+      <w>35</w>
+      <y>42</y>
+      <x>307</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>164</h>
+      <object_id>4550949</object_id>
+      <w>304</w>
+      <y>138</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>42</h>
+      <object_id>4550953</object_id>
+      <w>26</w>
+      <y>146</y>
+      <x>449</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>dock</name>
+      <h>116</h>
+      <object_id>4550952</object_id>
+      <w>41</w>
+      <y>181</y>
+      <x>457</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two boats floating in a harbor next to shore.</caption>
+      <caption>a black and yellow boat and a white and gray boat docked and people</caption>
+      <caption>A pier with boats docked on the water.</caption>
+      <caption>Several boats are docked at a harbor. </caption>
+      <caption>A white boat is tied to a dock</caption>
+    </captions>
+</image>

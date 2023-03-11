@@ -1,0 +1,81 @@
+<image>
+  <image-id>1592631</image-id>
+  <coco-id>325992</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4742906</relationship_id>
+      <predicate>desk</predicate>
+      <subject>4448236</subject>
+      <object>4448237</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4742907</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4448261</subject>
+      <object>4448262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677634</relationship_id>
+      <predicate>ON A</predicate>
+      <subject>4289413</subject>
+      <object>4289412</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>laptop</name>
+      <h>549</h>
+      <object_id>4448236</object_id>
+      <w>733</w>
+      <y>85</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>67</h>
+      <object_id>4448237</object_id>
+      <w>452</w>
+      <y>606</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>cell phone</name>
+      <h>130</h>
+      <object_id>4448261</object_id>
+      <w>128</w>
+      <y>314</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>603</h>
+      <object_id>4448262</object_id>
+      <w>727</w>
+      <y>76</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>keys</name>
+      <h>81</h>
+      <object_id>4289413</object_id>
+      <w>465</w>
+      <y>431</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>117</h>
+      <object_id>4289412</object_id>
+      <w>552</w>
+      <y>422</y>
+      <x>340</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A laptop sitting on a cluttered office desk. </caption>
+      <caption>a black laptop sitting on a cluttered desk </caption>
+      <caption>A desk with two computers and several accessories.</caption>
+      <caption>A black laptop with a unique design on the screen.</caption>
+      <caption>A laptop computer on a desk with a large computer monitor.</caption>
+    </captions>
+</image>

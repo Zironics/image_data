@@ -1,0 +1,55 @@
+<image>
+  <image-id>2326429</image-id>
+  <coco-id>115642</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4086242</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3939595</subject>
+      <object>3939594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4087548</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3103980</subject>
+      <object>3939594</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>137</h>
+      <object_id>3939595</object_id>
+      <w>267</w>
+      <y>39</y>
+      <x>110</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>trolly</attribute>
+      </attributes>
+      <h>252</h>
+      <object_id>3939594</object_id>
+      <w>431</w>
+      <y>77</y>
+      <x>42</x>
+      <name>bag</name>
+    </object>
+    <object>
+      <name>zipper</name>
+      <h>36</h>
+      <object_id>3103980</object_id>
+      <w>33</w>
+      <y>184</y>
+      <x>277</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat laying on top of a black luggage.</caption>
+      <caption>A cat that is laying down on a suitcase.</caption>
+      <caption>An orange cat laying on top of a black piece of luggage.</caption>
+      <caption>A cat lays intently on a black suitcase.</caption>
+      <caption>a cat resting on top of a luggage bag resting on a bench seat</caption>
+    </captions>
+</image>

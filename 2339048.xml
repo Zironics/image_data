@@ -1,0 +1,65 @@
+<image>
+  <image-id>2339048</image-id>
+  <coco-id>432226</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4053815</relationship_id>
+      <predicate>by</predicate>
+      <subject>2780647</subject>
+      <object>3929488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3966040</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2728978</subject>
+      <object>2728979</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shower curtain</name>
+      <h>388</h>
+      <object_id>2780647</object_id>
+      <w>147</w>
+      <y>1</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>142</h>
+      <object_id>3929488</object_id>
+      <w>232</w>
+      <y>259</y>
+      <x>77</x>
+      <name>bathtub</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>152</h>
+      <object_id>2728978</object_id>
+      <w>110</w>
+      <y>343</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue themed</attribute>
+      </attributes>
+      <name>bathroom</name>
+      <h>496</h>
+      <object_id>2728979</object_id>
+      <w>331</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom with a toilet tub, shower curtain and a rug in it. </caption>
+      <caption>A small bathroom with sink, toilet, and bathtub.</caption>
+      <caption>A blue bath tub sitting next to a white toilet.</caption>
+      <caption>A narrow bathroom with the shower curtains drawn up.</caption>
+      <caption>A small bathroom with a sink, toilet and tub</caption>
+    </captions>
+</image>

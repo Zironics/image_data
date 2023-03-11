@@ -1,0 +1,113 @@
+<image>
+  <image-id>2414906</image-id>
+  <coco-id>279934</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>144484</relationship_id>
+      <predicate>with</predicate>
+      <subject>149598</subject>
+      <object>149599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>144485</relationship_id>
+      <predicate>IN</predicate>
+      <subject>149604</subject>
+      <object>149601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>144486</relationship_id>
+      <predicate>IN</predicate>
+      <subject>149605</subject>
+      <object>149601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>144487</relationship_id>
+      <predicate>IN</predicate>
+      <subject>149604</subject>
+      <object>149601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>144488</relationship_id>
+      <predicate>with</predicate>
+      <subject>149602</subject>
+      <object>149605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>144489</relationship_id>
+      <predicate>inside</predicate>
+      <subject>149604</subject>
+      <object>149601</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>informational</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>87</h>
+      <object_id>149598</object_id>
+      <w>95</w>
+      <y>204</y>
+      <x>328</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>writing</name>
+      <h>69</h>
+      <object_id>149599</object_id>
+      <w>81</w>
+      <y>209</y>
+      <x>337</x>
+    </object>
+    <object>
+      <name>coal</name>
+      <h>43</h>
+      <object_id>149604</object_id>
+      <w>132</w>
+      <y>177</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>train car</name>
+      <h>60</h>
+      <object_id>149601</object_id>
+      <w>143</w>
+      <y>176</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>coal</name>
+      <h>56</h>
+      <object_id>149605</object_id>
+      <w>104</w>
+      <y>141</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>train car</name>
+      <h>79</h>
+      <object_id>149602</object_id>
+      <w>113</w>
+      <y>136</y>
+      <x>153</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Train carts transporting gravel on a track on a model</caption>
+      <caption>Red and yellow train cars hold gravel on a train track.</caption>
+      <caption>a bunch of box cars full of rocks sits parked on train tracks </caption>
+      <caption>Train cars filled with coal are moving around a corner.</caption>
+      <caption>train cars full of gravel going down a track </caption>
+    </captions>
+</image>

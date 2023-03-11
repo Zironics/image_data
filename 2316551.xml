@@ -1,0 +1,84 @@
+<image>
+  <image-id>2316551</image-id>
+  <coco-id>176470</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3852174</relationship_id>
+      <predicate>with</predicate>
+      <subject>3357901</subject>
+      <object>3357900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252402</relationship_id>
+      <predicate>has</predicate>
+      <subject>3347463</subject>
+      <object>3791004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3863664</relationship_id>
+      <predicate>with</predicate>
+      <subject>3462198</subject>
+      <object>3462200</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>building</name>
+      <h>280</h>
+      <object_id>3357901</object_id>
+      <w>357</w>
+      <y>14</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>39</h>
+      <object_id>3357900</object_id>
+      <w>40</w>
+      <y>53</y>
+      <x>306</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>80</h>
+      <object_id>3347463</object_id>
+      <w>87</w>
+      <y>176</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>23</h>
+      <object_id>3791004</object_id>
+      <w>32</w>
+      <y>200</y>
+      <x>408</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>107</h>
+      <object_id>3462198</object_id>
+      <w>60</w>
+      <y>185</y>
+      <x>400</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>95</h>
+      <object_id>3462200</object_id>
+      <w>62</w>
+      <y>187</y>
+      <x>396</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old stone building with a clock tower stands under a grey sky.</caption>
+      <caption>A stone building with a clock tower on an overcast day</caption>
+      <caption>An old stone church sits on a green with a clock tower.</caption>
+      <caption>A church with clock tower near a graveyard.</caption>
+      <caption>A large ruin in a open area with a big clock.</caption>
+    </captions>
+</image>

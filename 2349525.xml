@@ -1,0 +1,82 @@
+<image>
+  <image-id>2349525</image-id>
+  <coco-id>261605</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3811071</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2452245</subject>
+      <object>2336004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3811072</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2452245</subject>
+      <object>1965492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3811082</relationship_id>
+      <predicate>with</predicate>
+      <subject>2452245</subject>
+      <object>3035595</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3811084</relationship_id>
+      <predicate>with</predicate>
+      <subject>2452245</subject>
+      <object>3472338</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>407</h>
+      <object_id>2452245</object_id>
+      <w>490</w>
+      <y>83</y>
+      <x>10</x>
+      <name>brown noodles</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>container</name>
+      <h>88</h>
+      <object_id>2336004</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>495</h>
+      <object_id>1965492</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>1</x>
+      <name>bowl</name>
+    </object>
+    <object>
+      <name>onions</name>
+      <h>361</h>
+      <object_id>3035595</object_id>
+      <w>462</w>
+      <y>136</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>onions</name>
+      <h>115</h>
+      <object_id>3472338</object_id>
+      <w>139</w>
+      <y>382</y>
+      <x>303</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate with noodles, broccoli and meat with onions.</caption>
+      <caption>a close up of a dish with fried noodles and broccooli</caption>
+      <caption>Stir fried noodles with meat and chopped broccoli.</caption>
+      <caption>Noodles, broccoli, and chicken on a plate. </caption>
+      <caption>The meal is on the dish and ready to be eaten. </caption>
+    </captions>
+</image>

@@ -1,0 +1,135 @@
+<image>
+  <image-id>713221</image-id>
+  <coco-id>270999</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3956186</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1580521</subject>
+      <object>3659250</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956187</relationship_id>
+      <predicate>has</predicate>
+      <subject>3659255</subject>
+      <object>1580522</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956188</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1580524</subject>
+      <object>3659255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956189</relationship_id>
+      <predicate>has</predicate>
+      <subject>3659255</subject>
+      <object>1580525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956190</relationship_id>
+      <predicate>has</predicate>
+      <subject>3659254</subject>
+      <object>1580526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3956191</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3659255</subject>
+      <object>1580527</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>199</h>
+      <object_id>1580521</object_id>
+      <w>358</w>
+      <y>28</y>
+      <x>84</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>475</h>
+      <object_id>3659250</object_id>
+      <w>674</w>
+      <y>3</y>
+      <x>6</x>
+    </object>
+    <object>
+      <h>476</h>
+      <object_id>3659255</object_id>
+      <w>526</w>
+      <y>228</y>
+      <x>73</x>
+      <name>train</name>
+    </object>
+    <object>
+      <name>nnumber 110</name>
+      <h>50</h>
+      <object_id>1580522</object_id>
+      <w>57</w>
+      <y>391</y>
+      <x>324</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>number 110</name>
+      <h>55</h>
+      <object_id>1580524</object_id>
+      <w>69</w>
+      <y>387</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>train light</name>
+      <h>45</h>
+      <object_id>1580525</object_id>
+      <w>65</w>
+      <y>276</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>426</h>
+      <object_id>3659254</object_id>
+      <w>579</w>
+      <y>593</y>
+      <x>99</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow cord</name>
+      <h>391</h>
+      <object_id>1580526</object_id>
+      <w>532</w>
+      <y>613</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>202</h>
+      <object_id>1580527</object_id>
+      <w>471</w>
+      <y>583</y>
+      <x>142</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train traveling down tracks next to a trailer.</caption>
+      <caption>The large train has two flags on the sides of it.</caption>
+      <caption>A renovated steam train on display with other carriages</caption>
+      <caption>a steam engine on a narrow gauge track</caption>
+      <caption>a train that is parked on a train track</caption>
+    </captions>
+</image>

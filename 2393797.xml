@@ -1,0 +1,172 @@
+<image>
+  <image-id>2393797</image-id>
+  <coco-id>502599</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4289795</relationship_id>
+      <predicate>IN</predicate>
+      <subject>667483</subject>
+      <object>667503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289796</relationship_id>
+      <predicate>IN</predicate>
+      <subject>667487</subject>
+      <object>3824461</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289797</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3824462</subject>
+      <object>667484</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289798</relationship_id>
+      <predicate>hanging in a</predicate>
+      <subject>3824464</subject>
+      <object>3824465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289799</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>667485</subject>
+      <object>3824466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289800</relationship_id>
+      <predicate>made of</predicate>
+      <subject>667503</subject>
+      <object>3824469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289801</relationship_id>
+      <predicate>has</predicate>
+      <subject>3824464</subject>
+      <object>667506</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>four planes</name>
+      <h>327</h>
+      <object_id>667483</object_id>
+      <w>469</w>
+      <y>4</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <h>332</h>
+      <object_id>667503</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>3</x>
+      <name>tall structure</name>
+    </object>
+    <object>
+      <name>white rafters</name>
+      <h>68</h>
+      <object_id>667487</object_id>
+      <w>208</w>
+      <y>1</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>61</h>
+      <object_id>3824461</object_id>
+      <w>316</w>
+      <y>5</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>12</h>
+      <object_id>3824462</object_id>
+      <w>18</w>
+      <y>176</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+        <attribute>tow</attribute>
+        <attribute>red</attribute>
+        <attribute>vintage</attribute>
+      </attributes>
+      <name>red plane</name>
+      <h>85</h>
+      <object_id>667484</object_id>
+      <w>310</w>
+      <y>84</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>airplanes</name>
+      <h>318</h>
+      <object_id>3824464</object_id>
+      <w>454</w>
+      <y>7</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>327</h>
+      <object_id>3824465</object_id>
+      <w>494</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>small</attribute>
+        <attribute>bright yellow</attribute>
+        <attribute>vintage</attribute>
+      </attributes>
+      <name>yellow plane</name>
+      <h>90</h>
+      <object_id>667485</object_id>
+      <w>205</w>
+      <y>224</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>90</h>
+      <object_id>3824466</object_id>
+      <w>489</w>
+      <y>13</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>panels</name>
+      <h>310</h>
+      <object_id>3824469</object_id>
+      <w>463</w>
+      <y>21</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>42</h>
+      <object_id>667506</object_id>
+      <w>80</w>
+      <y>112</y>
+      <x>299</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A group of airplanes floating over the ocean.</caption>
+      <caption>Old and new airplane models handing inside a building.</caption>
+      <caption>A group of planes near a large wall of windows.</caption>
+      <caption>Multiple planes hanging on top of a ceiling. </caption>
+      <caption>Multiple aircraft suspended from the ceiling of a museum. </caption>
+    </captions>
+</image>

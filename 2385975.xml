@@ -1,0 +1,43 @@
+<image>
+  <image-id>2385975</image-id>
+  <coco-id>149440</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4633362</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4178051</subject>
+      <object>4178052</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>potted</attribute>
+      </attributes>
+      <name>plant</name>
+      <h>36</h>
+      <object_id>4178051</object_id>
+      <w>42</w>
+      <y>418</y>
+      <x>309</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+      </attributes>
+      <name>post</name>
+      <h>123</h>
+      <object_id>4178052</object_id>
+      <w>40</w>
+      <y>371</y>
+      <x>321</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A ceiling made out of different colored umbrellas.</caption>
+      <caption>a lot of colorful umbrellas hanging from a large piece of fabric </caption>
+      <caption>A street is filled with colorful umbrellas in the air.</caption>
+      <caption>a bunch of umbrellas e in the sky</caption>
+      <caption>Many colorful umbrellas hang over a colorful street.</caption>
+    </captions>
+</image>

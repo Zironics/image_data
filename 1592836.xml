@@ -1,0 +1,63 @@
+<image>
+  <image-id>1592836</image-id>
+  <coco-id>522819</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265124</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3395464</subject>
+      <object>3395465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4111626</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2784622</subject>
+      <object>2784623</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vase</name>
+      <h>294</h>
+      <object_id>3395464</object_id>
+      <w>93</w>
+      <y>393</y>
+      <x>423</x>
+    </object>
+    <object>
+      <name>flowers</name>
+      <h>330</h>
+      <object_id>3395465</object_id>
+      <w>245</w>
+      <y>70</y>
+      <x>334</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>urn</name>
+      <h>408</h>
+      <object_id>2784622</object_id>
+      <w>229</w>
+      <y>25</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>80</h>
+      <object_id>2784623</object_id>
+      <w>93</w>
+      <y>510</y>
+      <x>573</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A vase of roses on a table full of elegant silverware, candles, and urns.</caption>
+      <caption>some flowers are in a vase on a table</caption>
+      <caption>a table with a cloth and silverware vases and silver placed on it</caption>
+      <caption>A fancy table set with fine china and crystal. </caption>
+      <caption>various plates and silverware places on a table  </caption>
+    </captions>
+</image>

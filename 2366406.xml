@@ -1,0 +1,88 @@
+<image>
+  <image-id>2366406</image-id>
+  <coco-id>298949</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4371499</relationship_id>
+      <predicate>by</predicate>
+      <subject>1988170</subject>
+      <object>1795371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4371500</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2002869</subject>
+      <object>1795371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3982713</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2626183</subject>
+      <object>1988170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3982714</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2626184</subject>
+      <object>1988170</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>building</name>
+      <h>140</h>
+      <object_id>1988170</object_id>
+      <w>116</w>
+      <y>161</y>
+      <x>383</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the picture</attribute>
+      </attributes>
+      <h>293</h>
+      <object_id>1795371</object_id>
+      <w>256</w>
+      <y>47</y>
+      <x>158</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <h>32</h>
+      <object_id>2002869</object_id>
+      <w>54</w>
+      <y>128</y>
+      <x>446</x>
+      <name>clouds</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>25</h>
+      <object_id>2626183</object_id>
+      <w>14</w>
+      <y>226</y>
+      <x>423</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>17</h>
+      <object_id>2626184</object_id>
+      <w>23</w>
+      <y>250</y>
+      <x>100</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy is doing a skateboard trick.</caption>
+      <caption>A skateboarder is doing a trick flipping his board.</caption>
+      <caption>A skateboarder flips his board while performing a trick.</caption>
+      <caption>A skateboarder practicing his moves in mid air.</caption>
+      <caption>a man skate boarding doing a trick in the air</caption>
+    </captions>
+</image>

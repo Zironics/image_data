@@ -1,0 +1,65 @@
+<image>
+  <image-id>2330067</image-id>
+  <coco-id>502680</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4122448</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2932999</subject>
+      <object>2933001</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4122449</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3027382</subject>
+      <object>2933001</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4122450</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3027382</subject>
+      <object>3027381</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ear</name>
+      <h>23</h>
+      <object_id>2932999</object_id>
+      <w>17</w>
+      <y>205</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>137</h>
+      <object_id>2933001</object_id>
+      <w>83</w>
+      <y>201</y>
+      <x>193</x>
+    </object>
+    <object>
+      <h>16</h>
+      <object_id>3027382</object_id>
+      <w>12</w>
+      <y>210</y>
+      <x>205</x>
+      <name>ear</name>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>126</h>
+      <object_id>3027381</object_id>
+      <w>66</w>
+      <y>208</y>
+      <x>201</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a white dog sitting on the deck of a boat at the harbor</caption>
+      <caption>A beige, shaggy-coated dog sits on a boat as he looks out over the water. </caption>
+      <caption>A brown dog sitting on the ledge of a boat next to water.</caption>
+      <caption>a dog that is sitting on the ledge of a boat.</caption>
+      <caption>A dog sitting on a boat in the water</caption>
+    </captions>
+</image>

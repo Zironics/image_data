@@ -1,0 +1,103 @@
+<image>
+  <image-id>2406541</image-id>
+  <coco-id>133874</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>689260</relationship_id>
+      <predicate>IN</predicate>
+      <subject>368849</subject>
+      <object>368848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>689261</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>368851</subject>
+      <object>368849</object>
+    </relationship>
+    <relationship>
+      <relationship_id>689262</relationship_id>
+      <predicate>IN</predicate>
+      <subject>368849</subject>
+      <object>368848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>689263</relationship_id>
+      <predicate>IN</predicate>
+      <subject>368855</subject>
+      <object>368848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>689264</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>368851</subject>
+      <object>368849</object>
+    </relationship>
+    <relationship>
+      <relationship_id>689265</relationship_id>
+      <predicate>IN</predicate>
+      <subject>368849</subject>
+      <object>368848</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>black</attribute>
+        <attribute>large</attribute>
+        <attribute>looking at something</attribute>
+        <attribute>brown</attribute>
+        <attribute>wild</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>48</h>
+      <object_id>368849</object_id>
+      <w>106</w>
+      <y>149</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>plants</name>
+      <h>332</h>
+      <object_id>368848</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wide</attribute>
+        <attribute>short</attribute>
+        <attribute>evergreen</attribute>
+        <attribute>young</attribute>
+        <attribute>green</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>166</h>
+      <object_id>368851</object_id>
+      <w>148</w>
+      <y>133</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>47</h>
+      <object_id>368855</object_id>
+      <w>91</w>
+      <y>240</y>
+      <x>65</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large, black bear stands near a small tree in a forest area.</caption>
+      <caption>a bear looking at something in the grass .</caption>
+      <caption>A large bear walking through a lush green field.</caption>
+      <caption>A bear behind a tree in the wilderness.</caption>
+      <caption>A brown bear is alone in a field.</caption>
+    </captions>
+</image>

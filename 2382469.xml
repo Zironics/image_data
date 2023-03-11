@@ -1,0 +1,68 @@
+<image>
+  <image-id>2382469</image-id>
+  <coco-id>107582</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4555774</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3989592</subject>
+      <object>4031827</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4545709</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3965866</subject>
+      <object>4031827</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4555799</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3989592</subject>
+      <object>3989668</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>markings</name>
+      <h>44</h>
+      <object_id>3989592</object_id>
+      <w>70</w>
+      <y>163</y>
+      <x>369</x>
+    </object>
+    <object>
+      <h>117</h>
+      <object_id>4031827</object_id>
+      <w>384</w>
+      <y>143</y>
+      <x>74</x>
+      <name>airplane</name>
+    </object>
+    <object>
+      <name>door</name>
+      <h>38</h>
+      <object_id>3965866</object_id>
+      <w>23</w>
+      <y>179</y>
+      <x>297</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plane </attribute>
+      </attributes>
+      <name>wing</name>
+      <h>65</h>
+      <object_id>3989668</object_id>
+      <w>219</w>
+      <y>165</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plane is on display near the water.</caption>
+      <caption>An old propeller airplane is displayed near the water.</caption>
+      <caption>A large plane that is sitting on a runway surrounded by trees.</caption>
+      <caption>A large airplane sitting on top of an airfield.</caption>
+      <caption>a plane starting to fly away from the runway</caption>
+    </captions>
+</image>

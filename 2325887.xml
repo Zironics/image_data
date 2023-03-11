@@ -1,0 +1,59 @@
+<image>
+  <image-id>2325887</image-id>
+  <coco-id>394115</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3674803</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3223416</subject>
+      <object>3321806</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482131</relationship_id>
+      <predicate>on torso of a</predicate>
+      <subject>3277334</subject>
+      <object>3277333</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>271</h>
+      <object_id>3223416</object_id>
+      <w>456</w>
+      <y>80</y>
+      <x>3</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>285</h>
+      <object_id>3321806</object_id>
+      <w>470</w>
+      <y>77</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>fur</name>
+      <h>48</h>
+      <object_id>3277334</object_id>
+      <w>104</w>
+      <y>140</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>254</h>
+      <object_id>3277333</object_id>
+      <w>454</w>
+      <y>92</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dark brindle colored cat laying inside a small sink.</caption>
+      <caption>A cat lazily relaxing in a bathroom sink.</caption>
+      <caption>A cat laying in the bowl of a bathroom sink.</caption>
+      <caption>A dark colored cat laying in a bathroom sink with it;s head up and eyes open.</caption>
+      <caption>Light and dark cat with blue tag lying in sink.</caption>
+    </captions>
+</image>

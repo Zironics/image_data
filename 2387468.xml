@@ -1,0 +1,59 @@
+<image>
+  <image-id>2387468</image-id>
+  <coco-id>505638</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4774697</relationship_id>
+      <predicate>with</predicate>
+      <subject>4533775</subject>
+      <object>4533776</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4774698</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4533775</subject>
+      <object>4533780</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>ROUND GLASS </attribute>
+      </attributes>
+      <name>window</name>
+      <h>28</h>
+      <object_id>4533775</object_id>
+      <w>36</w>
+      <y>144</y>
+      <x>314</x>
+    </object>
+    <object>
+      <name>cabin</name>
+      <h>162</h>
+      <object_id>4533776</object_id>
+      <w>175</w>
+      <y>106</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>steam engine</attribute>
+        <attribute>round window</attribute>
+      </attributes>
+      <name>train</name>
+      <h>363</h>
+      <object_id>4533780</object_id>
+      <w>411</w>
+      <y>8</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A steam engine train traveling down train tracks.</caption>
+      <caption>an old restored train in an open field</caption>
+      <caption>An old fashioned train engine caked up to a caboose.</caption>
+      <caption>An old fashioned looking red train is on the tracks by a green grassy hill.</caption>
+      <caption>A locomotive in the rear of a train pushing it. </caption>
+    </captions>
+</image>

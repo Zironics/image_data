@@ -1,0 +1,140 @@
+<image>
+  <image-id>2416390</image-id>
+  <coco-id>231768</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4254403</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3316248</subject>
+      <object>3791884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3865705</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3623335</subject>
+      <object>3284801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951011</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3385325</subject>
+      <object>3791884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951012</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3385326</subject>
+      <object>3791884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951013</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3385327</subject>
+      <object>3791884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3951014</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3385328</subject>
+      <object>3791884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3624673</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2761724</subject>
+      <object>2761725</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>145</h>
+      <object_id>3316248</object_id>
+      <w>361</w>
+      <y>200</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>parking lot</name>
+      <h>150</h>
+      <object_id>3791884</object_id>
+      <w>267</w>
+      <y>158</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>clock tower</name>
+      <h>111</h>
+      <object_id>3623335</object_id>
+      <w>51</w>
+      <y>5</y>
+      <x>241</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>197</h>
+      <object_id>3284801</object_id>
+      <w>405</w>
+      <y>2</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>light posts</name>
+      <h>95</h>
+      <object_id>3385325</object_id>
+      <w>20</w>
+      <y>102</y>
+      <x>383</x>
+    </object>
+    <object>
+      <name>light posts</name>
+      <h>61</h>
+      <object_id>3385326</object_id>
+      <w>25</w>
+      <y>134</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>light posts</name>
+      <h>45</h>
+      <object_id>3385327</object_id>
+      <w>15</w>
+      <y>127</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>light posts</name>
+      <h>59</h>
+      <object_id>3385328</object_id>
+      <w>12</w>
+      <y>108</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>23</h>
+      <object_id>2761724</object_id>
+      <w>31</w>
+      <y>194</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>parking</attribute>
+      </attributes>
+      <name>lot</name>
+      <h>131</h>
+      <object_id>2761725</object_id>
+      <w>417</w>
+      <y>201</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>many cars parked in a lot around several stores</caption>
+      <caption>A parking in front of a very large brown clock tower.</caption>
+      <caption>Cars parked outside a building with a clock.</caption>
+      <caption>A clock tower on a building of a business establishment.</caption>
+      <caption>The cars are lined up in a row in the lot.</caption>
+    </captions>
+</image>

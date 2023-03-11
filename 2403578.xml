@@ -1,0 +1,46 @@
+<image>
+  <image-id>2403578</image-id>
+  <coco-id>70334</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1719513</relationship_id>
+      <predicate>ON</predicate>
+      <subject>657060</subject>
+      <object>657061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1719514</relationship_id>
+      <predicate>ON</predicate>
+      <subject>657060</subject>
+      <object>657061</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>108</h>
+      <object_id>657060</object_id>
+      <w>73</w>
+      <y>100</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>116</h>
+      <object_id>657061</object_id>
+      <w>127</w>
+      <y>218</y>
+      <x>215</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three sheep are standing on a rock of a hill. </caption>
+      <caption>Three sheep standing together in a grassy field.</caption>
+      <caption>Many sheep sit on a ledge in a field</caption>
+      <caption>A herd of white sheep standing on a green hillside.</caption>
+      <caption>Three mountain goats on a rock with grass around it.</caption>
+    </captions>
+</image>

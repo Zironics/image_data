@@ -1,0 +1,112 @@
+<image>
+  <image-id>2334666</image-id>
+  <coco-id>125118</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3687348</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2892308</subject>
+      <object>2892309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3687349</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2892308</subject>
+      <object>2892310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3687350</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2892308</subject>
+      <object>2892311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997260</relationship_id>
+      <predicate>Is on</predicate>
+      <subject>2597150</subject>
+      <object>2597151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997261</relationship_id>
+      <predicate>Is on</predicate>
+      <subject>2044121</subject>
+      <object>2044120</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>210</h>
+      <object_id>2892308</object_id>
+      <w>193</w>
+      <y>45</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>147</h>
+      <object_id>2892309</object_id>
+      <w>195</w>
+      <y>157</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>210</h>
+      <object_id>2892310</object_id>
+      <w>147</w>
+      <y>120</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>117</h>
+      <object_id>2892311</object_id>
+      <w>117</w>
+      <y>157</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>books</name>
+      <h>70</h>
+      <object_id>2597150</object_id>
+      <w>88</w>
+      <y>39</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>18</h>
+      <object_id>2597151</object_id>
+      <w>129</w>
+      <y>95</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>earring</name>
+      <h>27</h>
+      <object_id>2044121</object_id>
+      <w>23</w>
+      <y>98</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Seated </attribute>
+      </attributes>
+      <name>woman</name>
+      <h>255</h>
+      <object_id>2044120</object_id>
+      <w>210</w>
+      <y>28</y>
+      <x>118</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A smiling lady by a counter displaying some items.</caption>
+      <caption>Woman sitting behind artful cake display on counter.</caption>
+      <caption>a woman is sitting with some tiny building models</caption>
+      <caption>A woman smiles next to a desk with ginger bread houses shaped like castles.</caption>
+      <caption>A woman sitting next to buildings made with gingerbread.</caption>
+    </captions>
+</image>

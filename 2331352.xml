@@ -1,0 +1,82 @@
+<image>
+  <image-id>2331352</image-id>
+  <coco-id>264296</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260890</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3067803</subject>
+      <object>3067804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3914971</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>3517206</subject>
+      <object>3517207</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4006405</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3517206</subject>
+      <object>3679406</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>252</h>
+      <object_id>3067803</object_id>
+      <w>207</w>
+      <y>80</y>
+      <x>287</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white shirt</name>
+      <h>152</h>
+      <object_id>3067804</object_id>
+      <w>96</w>
+      <y>137</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>127</h>
+      <object_id>3517206</object_id>
+      <w>76</w>
+      <y>45</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>42</h>
+      <object_id>3517207</object_id>
+      <w>37</w>
+      <y>67</y>
+      <x>71</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>20</h>
+      <object_id>3679406</object_id>
+      <w>17</w>
+      <y>89</y>
+      <x>99</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some women indoors on a basketball court playing ultimate frisbee.</caption>
+      <caption>The women are playing an indoor game of Frisbee </caption>
+      <caption>The athletes are playing a game in the gym.</caption>
+      <caption>A bunch of women playing indoor Frisbee in a gym.</caption>
+      <caption>A group of girls playing with a Frisbee in a gymnasium.</caption>
+    </captions>
+</image>

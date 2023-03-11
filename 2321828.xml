@@ -1,0 +1,87 @@
+<image>
+  <image-id>2321828</image-id>
+  <coco-id>81085</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4636478</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>4185758</subject>
+      <object>4185759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4636479</relationship_id>
+      <predicate>under</predicate>
+      <subject>4185763</subject>
+      <object>4185764</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4636480</relationship_id>
+      <predicate>above</predicate>
+      <subject>4185765</subject>
+      <object>4185766</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hole</name>
+      <h>84</h>
+      <object_id>4185758</object_id>
+      <w>104</w>
+      <y>219</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>lid</name>
+      <h>122</h>
+      <object_id>4185759</object_id>
+      <w>94</w>
+      <y>120</y>
+      <x>359</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>cover</name>
+      <h>67</h>
+      <object_id>4185763</object_id>
+      <w>95</w>
+      <y>148</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>bar</name>
+      <h>173</h>
+      <object_id>4185764</object_id>
+      <w>363</w>
+      <y>74</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>cover</name>
+      <h>52</h>
+      <object_id>4185765</object_id>
+      <w>112</w>
+      <y>53</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>bar</name>
+      <h>126</h>
+      <object_id>4185766</object_id>
+      <w>371</w>
+      <y>86</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clean portable toilet is freshly stocked with toilet paper.</caption>
+      <caption>A toilet that is next to a toilet paper roll.</caption>
+      <caption>The toilet seat of the portable toilet is up. </caption>
+      <caption>A commode and toilet paper inside a port-a-potty.</caption>
+      <caption>a toilet and paper disposal sitting inside of a port a potty </caption>
+    </captions>
+</image>

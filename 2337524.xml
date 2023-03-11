@@ -1,0 +1,65 @@
+<image>
+  <image-id>2337524</image-id>
+  <coco-id>365618</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4077265</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2980171</subject>
+      <object>2980172</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077266</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3707337</subject>
+      <object>2382452</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>lines</name>
+      <h>67</h>
+      <object_id>2980171</object_id>
+      <w>201</w>
+      <y>302</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>97</h>
+      <object_id>2980172</object_id>
+      <w>324</w>
+      <y>273</y>
+      <x>142</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>paint</name>
+      <h>26</h>
+      <object_id>3707337</object_id>
+      <w>164</w>
+      <y>291</y>
+      <x>334</x>
+    </object>
+    <object>
+      <name>curb</name>
+      <h>20</h>
+      <object_id>2382452</object_id>
+      <w>161</w>
+      <y>296</y>
+      <x>337</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Roadway intersections in urban area near waterway with bridge.</caption>
+      <caption>A car that is driving on the road.</caption>
+      <caption>A compact car stopped at a suburban intersection.</caption>
+      <caption>A car is stopped at a ramp leading to a highway.</caption>
+      <caption>A single car on a roadway merging with a highway.</caption>
+    </captions>
+</image>

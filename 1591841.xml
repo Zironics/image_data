@@ -1,0 +1,37 @@
+<image>
+  <image-id>1591841</image-id>
+  <coco-id>294238</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4659172</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4242813</subject>
+      <object>4242814</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>apple</name>
+      <h>37</h>
+      <object_id>4242813</object_id>
+      <w>39</w>
+      <y>152</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>42</h>
+      <object_id>4242814</object_id>
+      <w>113</w>
+      <y>180</y>
+      <x>176</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a kitchen table filled with different pizzas and dinner plates</caption>
+      <caption>Three pizzas and plates sitting on a table. </caption>
+      <caption>three pans of pizza on a table with plates</caption>
+      <caption>Three pizzas siting on a table with two plates with pieces not eaten.</caption>
+      <caption>PIZZA SITTING ON PANS  ON A TABLE WITH PLATES AND CHAIRS AROUND </caption>
+    </captions>
+</image>

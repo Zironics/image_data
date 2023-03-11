@@ -1,0 +1,51 @@
+<image>
+  <image-id>2321218</image-id>
+  <coco-id>137150</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4540078</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3279465</subject>
+      <object>3279466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4540079</relationship_id>
+      <predicate>has</predicate>
+      <subject>3279466</subject>
+      <object>3279467</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>237</h>
+      <object_id>3279465</object_id>
+      <w>150</w>
+      <y>94</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>basket</name>
+      <h>58</h>
+      <object_id>3279466</object_id>
+      <w>107</w>
+      <y>94</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>69</h>
+      <object_id>3279467</object_id>
+      <w>93</w>
+      <y>31</y>
+      <x>193</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman with a basket full of banana bushels in it.</caption>
+      <caption>A woman carrying a large basket of unripe bananas across a dirt field.</caption>
+      <caption>A woman that is standing around a group of people with a basket on her head.</caption>
+      <caption>People walk near a woman with a basket of bananas on her head.</caption>
+      <caption>A woman carries a basket of bananas on her head while some men stand around.</caption>
+    </captions>
+</image>

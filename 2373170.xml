@@ -1,0 +1,62 @@
+<image>
+  <image-id>2373170</image-id>
+  <coco-id>574208</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1985629</relationship_id>
+      <predicate>has</predicate>
+      <subject>733991</subject>
+      <object>733992</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1985630</relationship_id>
+      <predicate>has</predicate>
+      <subject>733991</subject>
+      <object>733993</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>201</h>
+      <object_id>733991</object_id>
+      <w>219</w>
+      <y>98</y>
+      <x>179</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>up</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>61</h>
+      <object_id>733992</object_id>
+      <w>50</w>
+      <y>106</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>toy</name>
+      <h>68</h>
+      <object_id>733993</object_id>
+      <w>45</w>
+      <y>217</y>
+      <x>366</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and black dog is holding a red frisbee.</caption>
+      <caption>A dog that is carrying a Frisbee in its mouth.</caption>
+      <caption>A dog with a toy disc in its mouth outdoors on bright green grass.</caption>
+      <caption>A dog walking though the yard holding a frisbee. </caption>
+      <caption>A brown and black dog holding a red frisbee in it's mouth.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2399384</image-id>
+  <coco-id>508412</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4683341</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4304604</subject>
+      <object>4304620</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>edge</name>
+      <h>32</h>
+      <object_id>4304604</object_id>
+      <w>62</w>
+      <y>443</y>
+      <x>310</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flat</attribute>
+      </attributes>
+      <h>230</h>
+      <object_id>4304620</object_id>
+      <w>376</w>
+      <y>267</y>
+      <x>0</x>
+      <name>plate</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate topped with sliced fruit and oranges.</caption>
+      <caption>Sliced oranges and apples are sitting on a plate.</caption>
+      <caption>A plate with wedges of apples and peeled oranges.</caption>
+      <caption>Orange wedges and apple wedges are sitting on aplate.</caption>
+      <caption>Plate containing slices of oranges and apples on each side.</caption>
+    </captions>
+</image>

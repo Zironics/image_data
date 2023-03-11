@@ -1,0 +1,81 @@
+<image>
+  <image-id>2321420</image-id>
+  <coco-id>373613</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4539514</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3000351</subject>
+      <object>3962084</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539515</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3229948</subject>
+      <object>3962085</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539516</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3079448</subject>
+      <object>3079449</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>102</h>
+      <object_id>3000351</object_id>
+      <w>452</w>
+      <y>271</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>120</h>
+      <object_id>3962084</object_id>
+      <w>482</w>
+      <y>250</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>metal</name>
+      <h>272</h>
+      <object_id>3229948</object_id>
+      <w>49</w>
+      <y>49</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>312</h>
+      <object_id>3962085</object_id>
+      <w>59</w>
+      <y>2</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>front leg</name>
+      <h>108</h>
+      <object_id>3079448</object_id>
+      <w>23</w>
+      <y>222</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>302</h>
+      <object_id>3079449</object_id>
+      <w>142</w>
+      <y>37</y>
+      <x>41</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two giraffes reach for the food in the tree.</caption>
+      <caption>A couple of giraffe standing on either side of a tree.</caption>
+      <caption>Two giraffes standing on grass next to a tree.</caption>
+      <caption>Two giraffes grazing in the grass next to a tree.</caption>
+      <caption>Two giraffes standing around outside beside a tree</caption>
+    </captions>
+</image>

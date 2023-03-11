@@ -1,0 +1,54 @@
+<image>
+  <image-id>2341105</image-id>
+  <coco-id>289238</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4626399</relationship_id>
+      <predicate>has</predicate>
+      <subject>4161143</subject>
+      <object>4161081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626426</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4161143</subject>
+      <object>4161144</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>333</h>
+      <object_id>4161143</object_id>
+      <w>438</w>
+      <y>0</y>
+      <x>0</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>30</h>
+      <object_id>4161081</object_id>
+      <w>38</w>
+      <y>96</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>160</h>
+      <object_id>4161144</object_id>
+      <w>432</w>
+      <y>170</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man that is sitting down and wearing a tie.</caption>
+      <caption>A guy is seen sitting in an office with pictures on the wall.</caption>
+      <caption>A man who is wearing a suit and tie.</caption>
+      <caption>A picture of  a man in a dress shirt and tie with "Peter Baynes Exectutive Director, New York state Conference of Mayors" below him.</caption>
+      <caption>Executive Director, New Your State conference mayor in a press meeting.</caption>
+    </captions>
+</image>

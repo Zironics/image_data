@@ -1,0 +1,40 @@
+<image>
+  <image-id>2324036</image-id>
+  <coco-id>318995</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4527953</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3364697</subject>
+      <object>3364700</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green grass</name>
+      <h>111</h>
+      <object_id>3364697</object_id>
+      <w>500</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>baseball field</name>
+      <h>331</h>
+      <object_id>3364700</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pitcher on a baseball field doing an interesting wind up.</caption>
+      <caption>A major league baseball game pitcher about to hurl a pitch</caption>
+      <caption>A baseball pitcher pitching a baseball on a field.</caption>
+      <caption>A pitcher on the mound in the middle of throwing the ball.</caption>
+      <caption>A pitcher on a mound readying a pitch</caption>
+    </captions>
+</image>

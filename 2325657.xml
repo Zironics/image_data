@@ -1,0 +1,51 @@
+<image>
+  <image-id>2325657</image-id>
+  <coco-id>29197</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483082</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3102647</subject>
+      <object>3102648</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483083</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3346683</subject>
+      <object>3102648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wheel</name>
+      <h>14</h>
+      <object_id>3102647</object_id>
+      <w>20</w>
+      <y>113</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>62</h>
+      <object_id>3102648</object_id>
+      <w>45</w>
+      <y>99</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>propeller</name>
+      <h>15</h>
+      <object_id>3346683</object_id>
+      <w>22</w>
+      <y>101</y>
+      <x>282</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane flying through the gray sky with smoke pouring out it's back.</caption>
+      <caption>An airplane flying straight up in the sky.</caption>
+      <caption>An airplane is flying high while doing tricks.</caption>
+      <caption>A dust plane is pulling sharply up into the sky while leaving a trail.</caption>
+      <caption>The prop plane leaves a trail of smoke behind it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,68 @@
+<image>
+  <image-id>2337519</image-id>
+  <coco-id>421321</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4697008</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4338018</subject>
+      <object>4338019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4697088</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4338180</subject>
+      <object>4338181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4697089</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4338180</subject>
+      <object>4338181</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>92</h>
+      <object_id>4338018</object_id>
+      <w>35</w>
+      <y>57</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>220</h>
+      <object_id>4338019</object_id>
+      <w>344</w>
+      <y>39</y>
+      <x>89</x>
+    </object>
+    <object>
+      <h>117</h>
+      <object_id>4338180</object_id>
+      <w>467</w>
+      <y>186</y>
+      <x>26</x>
+      <name>grass</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>160</h>
+      <object_id>4338181</object_id>
+      <w>444</w>
+      <y>154</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two zebras standing by each other while eating some grass </caption>
+      <caption>A group of zebras are standing close together eating. </caption>
+      <caption>Three zebra stand very close to each other while eating hay.</caption>
+      <caption>some zebras standing together on some dirt on a sunny day</caption>
+      <caption>a couple of zebras stand next to each other </caption>
+    </captions>
+</image>

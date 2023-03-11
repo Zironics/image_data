@@ -1,0 +1,68 @@
+<image>
+  <image-id>2415363</image-id>
+  <coco-id>199822</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3976378</relationship_id>
+      <predicate>licking</predicate>
+      <subject>3377424</subject>
+      <object>2715192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3909285</relationship_id>
+      <predicate>has</predicate>
+      <subject>3377424</subject>
+      <object>3317124</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3909286</relationship_id>
+      <predicate>has</predicate>
+      <subject>3377424</subject>
+      <object>3317125</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>cat</name>
+      <h>277</h>
+      <object_id>3377424</object_id>
+      <w>342</w>
+      <y>41</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>38</h>
+      <object_id>2715192</object_id>
+      <w>172</w>
+      <y>160</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>29</h>
+      <object_id>3317124</object_id>
+      <w>23</w>
+      <y>88</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>30</h>
+      <object_id>3317125</object_id>
+      <w>27</w>
+      <y>92</y>
+      <x>75</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat that is standing on a ledge looking at a plate.</caption>
+      <caption>A cat stands on a curb eating from a paper plate.</caption>
+      <caption>A cat eating off a plate located outside.</caption>
+      <caption>A black cat eating food off of a paper plate.</caption>
+      <caption>A black cat eating from a plate on a street curb.</caption>
+    </captions>
+</image>

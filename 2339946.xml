@@ -1,0 +1,98 @@
+<image>
+  <image-id>2339946</image-id>
+  <coco-id>442743</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4114670</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3472230</subject>
+      <object>3472231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3701309</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3491419</subject>
+      <object>2589998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4037488</relationship_id>
+      <predicate>full of</predicate>
+      <subject>3691479</subject>
+      <object>2447758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4037489</relationship_id>
+      <predicate>full of</predicate>
+      <subject>3691479</subject>
+      <object>2447759</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>steak juice</name>
+      <h>47</h>
+      <object_id>3472230</object_id>
+      <w>93</w>
+      <y>284</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>300</h>
+      <object_id>3472231</object_id>
+      <w>489</w>
+      <y>27</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>spices</name>
+      <h>147</h>
+      <object_id>3491419</object_id>
+      <w>91</w>
+      <y>88</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+      </attributes>
+      <h>271</h>
+      <object_id>2589998</object_id>
+      <w>294</w>
+      <y>55</y>
+      <x>12</x>
+      <name>meat</name>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>55</h>
+      <object_id>3691479</object_id>
+      <w>148</w>
+      <y>276</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>meat</name>
+      <h>240</h>
+      <object_id>2447758</object_id>
+      <w>253</w>
+      <y>38</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>vegetables</name>
+      <h>259</h>
+      <object_id>2447759</object_id>
+      <w>220</w>
+      <y>31</y>
+      <x>268</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden table with a white plate holding steak, carrots and broccoli.</caption>
+      <caption>Picture of meat and vegetables on a plate.</caption>
+      <caption>A close shot of roast and veggies on the plate. </caption>
+      <caption>This plate has a piece of steak, broccoli, and carrots.</caption>
+      <caption>This plate contains cooked steak, broccoli, and carrots.</caption>
+    </captions>
+</image>

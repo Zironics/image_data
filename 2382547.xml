@@ -1,0 +1,41 @@
+<image>
+  <image-id>2382547</image-id>
+  <coco-id>5314</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4780812</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4549930</subject>
+      <object>4549931</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>shower</attribute>
+      </attributes>
+      <name>curtain</name>
+      <h>325</h>
+      <object_id>4549930</object_id>
+      <w>60</w>
+      <y>148</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>490</h>
+      <object_id>4549931</object_id>
+      <w>366</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom area with toilet, sink and black curtain.</caption>
+      <caption>A bathroom is seen through an open door.</caption>
+      <caption>A bathroom has a toilet and a brown counter in it.</caption>
+      <caption>a bath room with a toilet a sink and tiled floors</caption>
+      <caption>a white toilet in a bathroom with white walls </caption>
+    </captions>
+</image>

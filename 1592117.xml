@@ -1,0 +1,65 @@
+<image>
+  <image-id>1592117</image-id>
+  <coco-id>322059</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4080288</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1606684</subject>
+      <object>3797706</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080289</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1606683</subject>
+      <object>3797706</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264560</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1606685</subject>
+      <object>3797706</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boat</name>
+      <h>127</h>
+      <object_id>1606684</object_id>
+      <w>276</w>
+      <y>297</y>
+      <x>746</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>296</h>
+      <object_id>3797706</object_id>
+      <w>1003</w>
+      <y>405</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>105</h>
+      <object_id>1606683</object_id>
+      <w>585</w>
+      <y>314</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>48</h>
+      <object_id>1606685</object_id>
+      <w>172</w>
+      <y>358</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A body of water with a large blue boat floating on top of it.</caption>
+      <caption>The people are in small boats beside the large blue cargo vessel. </caption>
+      <caption>A ship is docked on the water near a seaside town.</caption>
+      <caption>A boat can be seen at the edge of the water.</caption>
+      <caption>Large boats floating by the shore in a large body of water, and beside one of the large boats is a tiny raft with people in it.</caption>
+    </captions>
+</image>

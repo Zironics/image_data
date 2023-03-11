@@ -1,0 +1,85 @@
+<image>
+  <image-id>2415820</image-id>
+  <coco-id>285851</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4764575</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>4505090</subject>
+      <object>4505091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764576</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4505090</subject>
+      <object>4505093</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764577</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4505090</subject>
+      <object>4505091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764578</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4505096</subject>
+      <object>4505097</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>187</h>
+      <object_id>4505090</object_id>
+      <w>82</w>
+      <y>134</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>27</h>
+      <object_id>4505091</object_id>
+      <w>94</w>
+      <y>132</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>88</h>
+      <object_id>4505093</object_id>
+      <w>82</w>
+      <y>152</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>172</h>
+      <object_id>4505096</object_id>
+      <w>78</w>
+      <y>318</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>265</h>
+      <object_id>4505097</object_id>
+      <w>306</w>
+      <y>226</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Black and white photograph of a person waking with an umbrella.</caption>
+      <caption>A person walking in the rain under an umbrella.</caption>
+      <caption>A person walks on a street under an umbrella.</caption>
+      <caption>A man walking with an umbrella toward the bus stop.</caption>
+      <caption>A man is holding an umbrella and walking down the street.</caption>
+    </captions>
+</image>

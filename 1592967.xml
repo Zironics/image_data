@@ -1,0 +1,95 @@
+<image>
+  <image-id>1592967</image-id>
+  <coco-id>182362</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265205</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>2310042</subject>
+      <object>2310043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265206</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3798111</subject>
+      <object>1888834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265207</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1888833</subject>
+      <object>1888834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265208</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2735406</subject>
+      <object>2735407</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>guy</name>
+      <h>652</h>
+      <object_id>2310042</object_id>
+      <w>642</w>
+      <y>51</y>
+      <x>125</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>453</h>
+      <object_id>2310043</object_id>
+      <w>500</w>
+      <y>288</y>
+      <x>491</x>
+    </object>
+    <object>
+      <name>soda</name>
+      <h>105</h>
+      <object_id>3798111</object_id>
+      <w>128</w>
+      <y>654</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>343</h>
+      <object_id>1888834</object_id>
+      <w>143</w>
+      <y>421</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>label</name>
+      <h>117</h>
+      <object_id>1888833</object_id>
+      <w>138</w>
+      <y>551</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>skeyboard</name>
+      <h>175</h>
+      <object_id>2735406</object_id>
+      <w>201</w>
+      <y>530</y>
+      <x>595</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>472</h>
+      <object_id>2735407</object_id>
+      <w>557</w>
+      <y>285</y>
+      <x>446</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man is eating food while using the computer.</caption>
+      <caption>A guy sitting in front of his laptop with food and drink.</caption>
+      <caption>A man sitting in front of a laptop computer.</caption>
+      <caption>A young man is sitting at an iMac, with food and a Coke.</caption>
+      <caption>A man is typing on his computer while a sandwich and a bottle of coke is on either side of him.</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2379801</image-id>
+  <coco-id>550157</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1353686</relationship_id>
+      <predicate>laying on a</predicate>
+      <subject>550253</subject>
+      <object>550254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1353687</relationship_id>
+      <predicate>ON</predicate>
+      <subject>550254</subject>
+      <object>550256</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1353688</relationship_id>
+      <predicate>on a</predicate>
+      <subject>550253</subject>
+      <object>550254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1353689</relationship_id>
+      <predicate>ON</predicate>
+      <subject>550259</subject>
+      <object>550256</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>looking at camera</attribute>
+        <attribute>in foreground</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>139</h>
+      <object_id>550253</object_id>
+      <w>160</w>
+      <y>124</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>casting a shadow</attribute>
+      </attributes>
+      <name>book bag</name>
+      <h>237</h>
+      <object_id>550254</object_id>
+      <w>227</w>
+      <y>79</y>
+      <x>163</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hard wood</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>371</h>
+      <object_id>550256</object_id>
+      <w>438</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>apron</name>
+      <h>103</h>
+      <object_id>550259</object_id>
+      <w>259</w>
+      <y>33</y>
+      <x>123</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is lying down on the back pack on the floor</caption>
+      <caption>A cat laying on a back pack in a room.</caption>
+      <caption>A kitten laying on a backpack instead of his bed.</caption>
+      <caption>there is a cat that is laying on top of a luggage</caption>
+      <caption>a cat that is sitting on a chair</caption>
+    </captions>
+</image>

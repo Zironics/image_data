@@ -1,0 +1,85 @@
+<image>
+  <image-id>2320393</image-id>
+  <coco-id>522527</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251943</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2768281</subject>
+      <object>3048524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251944</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2768281</subject>
+      <object>2844459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251945</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2768281</subject>
+      <object>2844459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251946</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2768281</subject>
+      <object>2844459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857468</relationship_id>
+      <predicate>smeared on</predicate>
+      <subject>2739667</subject>
+      <object>2739668</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>175</h>
+      <object_id>2768281</object_id>
+      <w>226</w>
+      <y>4</y>
+      <x>3</x>
+      <name>dirt</name>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>261</h>
+      <object_id>3048524</object_id>
+      <w>427</w>
+      <y>38</y>
+      <x>37</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>330</h>
+      <object_id>2844459</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>paint</name>
+      <h>327</h>
+      <object_id>2739667</object_id>
+      <w>492</w>
+      <y>3</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>327</h>
+      <object_id>2739668</object_id>
+      <w>492</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The overhead view of a land mass taken from high above.</caption>
+      <caption>A picture or sand where something was dropped.</caption>
+      <caption>The paint is peeling off the wall in the room. </caption>
+      <caption>A large puddle of filthy water on top of a dirty ground.</caption>
+      <caption>Dirty water or clay running through something brown. </caption>
+    </captions>
+</image>

@@ -1,0 +1,105 @@
+<image>
+  <image-id>2322394</image-id>
+  <coco-id>178207</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4536564</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3449331</subject>
+      <object>3449332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805393</relationship_id>
+      <predicate>serving</predicate>
+      <subject>3031655</subject>
+      <object>3420171</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001197</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3334681</subject>
+      <object>3677279</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3650568</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3031655</subject>
+      <object>3031654</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>spectators</name>
+      <h>64</h>
+      <object_id>3449331</object_id>
+      <w>172</w>
+      <y>2</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>stands</name>
+      <h>32</h>
+      <object_id>3449332</object_id>
+      <w>78</w>
+      <y>0</y>
+      <x>76</x>
+    </object>
+    <object>
+      <h>197</h>
+      <object_id>3031655</object_id>
+      <w>89</w>
+      <y>116</y>
+      <x>170</x>
+      <name>player</name>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>10</h>
+      <object_id>3420171</object_id>
+      <w>9</w>
+      <y>29</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>railing</attribute>
+      </attributes>
+      <name>bar</name>
+      <h>50</h>
+      <object_id>3334681</object_id>
+      <w>152</w>
+      <y>27</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>spectator</attribute>
+      </attributes>
+      <name>area</name>
+      <h>108</h>
+      <object_id>3677279</object_id>
+      <w>207</w>
+      <y>7</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white headband</name>
+      <h>30</h>
+      <object_id>3031654</object_id>
+      <w>24</w>
+      <y>151</y>
+      <x>183</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man swinging a tennis racket during a tennis match.</caption>
+      <caption>A man in yellow shirt and white shorts playing a game of tennis.</caption>
+      <caption>A man arching his back in order to serve a tennis ball.</caption>
+      <caption>A tennis player getting ready to hit the ball at a tennis court. </caption>
+      <caption>A tennis player is beginning to serve a ball.</caption>
+    </captions>
+</image>

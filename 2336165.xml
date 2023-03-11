@@ -1,0 +1,109 @@
+<image>
+  <image-id>2336165</image-id>
+  <coco-id>138234</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3775421</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3178179</subject>
+      <object>2915630</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3971353</relationship_id>
+      <predicate>of an</predicate>
+      <subject>3178178</subject>
+      <object>3178179</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3971354</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2804954</subject>
+      <object>2804955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4449695</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3116616</subject>
+      <object>3116617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3971356</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3178179</subject>
+      <object>2053339</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>elephant</name>
+      <h>390</h>
+      <object_id>3178179</object_id>
+      <w>249</w>
+      <y>64</y>
+      <x>53</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>55</h>
+      <object_id>2915630</object_id>
+      <w>347</w>
+      <y>441</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>97</h>
+      <object_id>3178178</object_id>
+      <w>52</w>
+      <y>145</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>trunk</name>
+      <h>272</h>
+      <object_id>2804954</object_id>
+      <w>117</w>
+      <y>141</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>414</h>
+      <object_id>2804955</object_id>
+      <w>240</w>
+      <y>52</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>river</name>
+      <h>83</h>
+      <object_id>3116616</object_id>
+      <w>355</w>
+      <y>415</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>forest</name>
+      <h>495</h>
+      <object_id>3116617</object_id>
+      <w>162</w>
+      <y>3</y>
+      <x>335</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>77</h>
+      <object_id>2053339</object_id>
+      <w>318</w>
+      <y>420</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A single large elephant at the edge of a river. </caption>
+      <caption>A black and white picture of an elephant drinking from a pool.</caption>
+      <caption>An elephant playing in the water with his trunk.</caption>
+      <caption>A wet elephant splashing in the water with rocks and trees in the background.</caption>
+      <caption>An elephant sprays water as it stands in a shallow pool. </caption>
+    </captions>
+</image>

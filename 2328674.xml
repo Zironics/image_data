@@ -1,0 +1,51 @@
+<image>
+  <image-id>2328674</image-id>
+  <coco-id>315191</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4023641</relationship_id>
+      <predicate>has</predicate>
+      <subject>2749580</subject>
+      <object>2749581</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023642</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2749581</subject>
+      <object>2749582</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>jet</name>
+      <h>15</h>
+      <object_id>2749580</object_id>
+      <w>32</w>
+      <y>84</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>243</h>
+      <object_id>2749581</object_id>
+      <w>418</w>
+      <y>65</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>306</h>
+      <object_id>2749582</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane doing maneuvers with white smoke pouring out of it's back end.</caption>
+      <caption>An airplane in the sky doing a trick.</caption>
+      <caption>A plane leaves a long contrail in the air.</caption>
+      <caption>An airplane performing sky tricks leaving a trail behind.</caption>
+      <caption>A stream of smoke from a jet in the sky.</caption>
+    </captions>
+</image>

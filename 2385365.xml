@@ -1,0 +1,59 @@
+<image>
+  <image-id>2385365</image-id>
+  <coco-id>532605</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4668753</relationship_id>
+      <predicate>and</predicate>
+      <subject>4266724</subject>
+      <object>4266725</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4668758</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4266734</subject>
+      <object>4266735</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>black</name>
+      <h>10</h>
+      <object_id>4266724</object_id>
+      <w>7</w>
+      <y>222</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>silver helmet</name>
+      <h>21</h>
+      <object_id>4266725</object_id>
+      <w>27</w>
+      <y>207</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>35</h>
+      <object_id>4266734</object_id>
+      <w>113</w>
+      <y>312</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>249</h>
+      <object_id>4266735</object_id>
+      <w>305</w>
+      <y>248</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A guy rides his skateboard down a hill on the road. </caption>
+      <caption>A person skateboarding down a paved road on a sunny day.</caption>
+      <caption>The man is riding his skateboard down the road. </caption>
+      <caption>A skateboarder skating down a steep hill marked with cones.</caption>
+      <caption>A man roller-blading during a sunny day somewhere.</caption>
+    </captions>
+</image>

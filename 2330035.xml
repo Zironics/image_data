@@ -1,0 +1,95 @@
+<image>
+  <image-id>2330035</image-id>
+  <coco-id>259497</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3998303</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2914714</subject>
+      <object>2914715</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4015784</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2837421</subject>
+      <object>3462995</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4015785</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2837421</subject>
+      <object>2837423</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261081</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3496729</subject>
+      <object>3496730</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hair</name>
+      <h>55</h>
+      <object_id>2914714</object_id>
+      <w>90</w>
+      <y>240</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>202</h>
+      <object_id>2914715</object_id>
+      <w>203</w>
+      <y>217</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>290</h>
+      <object_id>2837421</object_id>
+      <w>185</w>
+      <y>9</y>
+      <x>307</x>
+    </object>
+    <object>
+      <h>383</h>
+      <object_id>3462995</object_id>
+      <w>218</w>
+      <y>41</y>
+      <x>40</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>367</h>
+      <object_id>2837423</object_id>
+      <w>203</w>
+      <y>33</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>37</h>
+      <object_id>3496729</object_id>
+      <w>40</w>
+      <y>230</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>380</h>
+      <object_id>3496730</object_id>
+      <w>217</w>
+      <y>37</y>
+      <x>41</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Older woman looking down at the Wii remote</caption>
+      <caption>two woman in a room trying to play a wii</caption>
+      <caption>An older woman standing up in a room with a Wii video game controller in her hands.</caption>
+      <caption>Two women are playing with a video game</caption>
+      <caption>The elderly woman uses a video game remote near her companion.</caption>
+    </captions>
+</image>

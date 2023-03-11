@@ -1,0 +1,72 @@
+<image>
+  <image-id>2394442</image-id>
+  <coco-id>143621</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3798352</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1725618</subject>
+      <object>3593459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3798353</relationship_id>
+      <predicate>with</predicate>
+      <subject>1725618</subject>
+      <object>3186111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4104781</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3186111</subject>
+      <object>3186112</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>352</h>
+      <object_id>1725618</object_id>
+      <w>364</w>
+      <y>36</y>
+      <x>22</x>
+      <name>plate</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>strawberry</attribute>
+      </attributes>
+      <name>cheesecake</name>
+      <h>97</h>
+      <object_id>3593459</object_id>
+      <w>159</w>
+      <y>140</y>
+      <x>134</x>
+    </object>
+    <object>
+      <h>100</h>
+      <object_id>3186111</object_id>
+      <w>163</w>
+      <y>140</y>
+      <x>135</x>
+      <name>dessert</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>343</h>
+      <object_id>3186112</object_id>
+      <w>370</w>
+      <y>46</y>
+      <x>22</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dessert is displayed in a restaurant place setting. </caption>
+      <caption>An elegant and colorful dessert is on a plate surrounded by silverware. </caption>
+      <caption>A prepared dessert of cheesecake and fruit, sitting on a table.</caption>
+      <caption>A dessert on a plate on a table.</caption>
+      <caption>A plate with cheesecake and a strawberry sauce.</caption>
+    </captions>
+</image>

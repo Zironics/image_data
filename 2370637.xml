@@ -1,0 +1,102 @@
+<image>
+  <image-id>2370637</image-id>
+  <coco-id>134430</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4322719</relationship_id>
+      <predicate>in a</predicate>
+      <subject>602624</subject>
+      <object>3857597</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4322720</relationship_id>
+      <predicate>ON</predicate>
+      <subject>602624</subject>
+      <object>3857598</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4322721</relationship_id>
+      <predicate>bathroom shelving</predicate>
+      <subject>3857599</subject>
+      <object>3857600</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4322722</relationship_id>
+      <predicate>in a</predicate>
+      <subject>602622</subject>
+      <object>3857601</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>above</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>69</h>
+      <object_id>602624</object_id>
+      <w>42</w>
+      <y>77</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>286</h>
+      <object_id>3857597</object_id>
+      <w>487</w>
+      <y>89</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>109</h>
+      <object_id>3857598</object_id>
+      <w>252</w>
+      <y>58</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>modular</name>
+      <h>222</h>
+      <object_id>3857599</object_id>
+      <w>48</w>
+      <y>86</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>unit</name>
+      <h>175</h>
+      <object_id>3857600</object_id>
+      <w>55</w>
+      <y>159</y>
+      <x>20</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>30</h>
+      <object_id>602622</object_id>
+      <w>72</w>
+      <y>194</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>152</h>
+      <object_id>3857601</object_id>
+      <w>474</w>
+      <y>124</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom with a shower and a sink.</caption>
+      <caption>A mostly white bathroom is seen and has most likely been recently used.</caption>
+      <caption>A large tiled bathroom with a shelf of towels, small sink, mirror, rug, and shower curtain.</caption>
+      <caption>A bathroom has a sink, shower and bathroom shelves.</caption>
+      <caption>A spacious bathroom has a very small sink and standing shower.</caption>
+    </captions>
+</image>

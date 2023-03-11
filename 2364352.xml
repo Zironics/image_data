@@ -1,0 +1,157 @@
+<image>
+  <image-id>2364352</image-id>
+  <coco-id>133098</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4162450</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1674952</subject>
+      <object>1674953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4162451</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1674951</subject>
+      <object>1674953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4162452</relationship_id>
+      <predicate>walk on</predicate>
+      <subject>1740162</subject>
+      <object>1740165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4162453</relationship_id>
+      <predicate>walk on</predicate>
+      <subject>1740163</subject>
+      <object>1740165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4162454</relationship_id>
+      <predicate>walk on</predicate>
+      <subject>1740164</subject>
+      <object>1740165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4162455</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2145028</subject>
+      <object>2145029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4162456</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2359526</subject>
+      <object>2359527</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sheep</name>
+      <h>33</h>
+      <object_id>1674952</object_id>
+      <w>24</w>
+      <y>212</y>
+      <x>323</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> open</attribute>
+      </attributes>
+      <name>field</name>
+      <h>215</h>
+      <object_id>1674953</object_id>
+      <w>343</w>
+      <y>121</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>62</h>
+      <object_id>1674951</object_id>
+      <w>38</w>
+      <y>234</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>52</h>
+      <object_id>1740162</object_id>
+      <w>32</w>
+      <y>232</y>
+      <x>314</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> unpaved</attribute>
+      </attributes>
+      <name>unpaved road</name>
+      <h>146</h>
+      <object_id>1740165</object_id>
+      <w>417</w>
+      <y>194</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>15</h>
+      <object_id>1740163</object_id>
+      <w>16</w>
+      <y>219</y>
+      <x>328</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>17</h>
+      <object_id>1740164</object_id>
+      <w>10</w>
+      <y>200</y>
+      <x>391</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>77</h>
+      <object_id>2145028</object_id>
+      <w>472</w>
+      <y>110</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> green</attribute>
+      </attributes>
+      <name>field</name>
+      <h>137</h>
+      <object_id>2145029</object_id>
+      <w>462</w>
+      <y>202</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>the front</attribute>
+      </attributes>
+      <name>legs</name>
+      <h>21</h>
+      <object_id>2359526</object_id>
+      <w>29</w>
+      <y>265</y>
+      <x>316</x>
+    </object>
+    <object>
+      <name>lamb</name>
+      <h>83</h>
+      <object_id>2359527</object_id>
+      <w>56</w>
+      <y>197</y>
+      <x>307</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of scattered sheep move down a country path.</caption>
+      <caption>A couple of sheep on top of trail near a pasture.</caption>
+      <caption>A group of sheep grazing in a large open field.</caption>
+      <caption>this is some animals sitting in the dirt</caption>
+      <caption>Some sheep in the middle of a field with some trees in it.</caption>
+    </captions>
+</image>

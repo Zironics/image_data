@@ -1,0 +1,83 @@
+<image>
+  <image-id>1159271</image-id>
+  <coco-id>559873</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4066446</relationship_id>
+      <predicate>docked on</predicate>
+      <subject>1590854</subject>
+      <object>3702853</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263226</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1590863</subject>
+      <object>3702859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263227</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1590866</subject>
+      <object>1590854</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>docked</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>153</h>
+      <object_id>1590854</object_id>
+      <w>356</w>
+      <y>515</y>
+      <x>378</x>
+    </object>
+    <object>
+      <name>shore</name>
+      <h>398</h>
+      <object_id>3702853</object_id>
+      <w>992</w>
+      <y>258</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>spain</attribute>
+      </attributes>
+      <name>flag</name>
+      <h>74</h>
+      <object_id>1590863</object_id>
+      <w>36</w>
+      <y>348</y>
+      <x>499</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>65</h>
+      <object_id>3702859</object_id>
+      <w>465</w>
+      <y>422</y>
+      <x>499</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>dock</name>
+      <h>133</h>
+      <object_id>1590866</object_id>
+      <w>1009</w>
+      <y>535</y>
+      <x>13</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yacht sits beside a yellow building at a dock on a coast. </caption>
+      <caption>a boat docked next to a pier outside of a house.</caption>
+      <caption>A dock with a yacht and water and mountains in the background</caption>
+      <caption>a landscape of a building with a boat docked next to it</caption>
+      <caption>a large building on a dock in the water with a boat in front.</caption>
+    </captions>
+</image>

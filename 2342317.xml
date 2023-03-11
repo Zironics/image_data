@@ -1,0 +1,157 @@
+<image>
+  <image-id>2342317</image-id>
+  <coco-id>527908</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4441977</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3287263</subject>
+      <object>3919424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3928701</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2265714</subject>
+      <object>2888474</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3928702</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3384397</subject>
+      <object>3503847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4441978</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3369460</subject>
+      <object>3369461</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3928708</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2265714</subject>
+      <object>2265715</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4441979</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3403900</subject>
+      <object>3286942</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>framed</attribute>
+      </attributes>
+      <name>window</name>
+      <h>53</h>
+      <object_id>3287263</object_id>
+      <w>45</w>
+      <y>32</y>
+      <x>388</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>330</h>
+      <object_id>3919424</object_id>
+      <w>167</w>
+      <y>0</y>
+      <x>326</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>is on open field</attribute>
+      </attributes>
+      <h>136</h>
+      <object_id>2265714</object_id>
+      <w>340</w>
+      <y>0</y>
+      <x>0</x>
+      <name>grass</name>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>200</h>
+      <object_id>2888474</object_id>
+      <w>415</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>195</h>
+      <object_id>3384397</object_id>
+      <w>107</w>
+      <y>89</y>
+      <x>0</x>
+      <name>fence</name>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>285</h>
+      <object_id>3503847</object_id>
+      <w>411</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>hot tub</name>
+      <h>51</h>
+      <object_id>3369460</object_id>
+      <w>106</w>
+      <y>279</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>control panel</name>
+      <h>45</h>
+      <object_id>3369461</object_id>
+      <w>75</w>
+      <y>277</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>82</h>
+      <object_id>2265715</object_id>
+      <w>242</w>
+      <y>10</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>part</name>
+      <h>64</h>
+      <object_id>3403900</object_id>
+      <w>90</w>
+      <y>160</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>laying down</attribute>
+        <attribute>near the bench</attribute>
+        <attribute>is lying down</attribute>
+        <attribute>is black and white colors</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>137</h>
+      <object_id>3286942</object_id>
+      <w>306</w>
+      <y>102</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large black dog sitting on top of a circular white thing.</caption>
+      <caption>A black and white dog laying on circular chair outside.</caption>
+      <caption>A big black dog laying on a big round white thing.</caption>
+      <caption>A dog is lying down in a fenced area.</caption>
+      <caption>A black dog laying on top of an ottoman.</caption>
+    </captions>
+</image>

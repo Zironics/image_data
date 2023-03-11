@@ -1,0 +1,73 @@
+<image>
+  <image-id>2321915</image-id>
+  <coco-id>491765</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3656164</relationship_id>
+      <predicate>has</predicate>
+      <subject>3111424</subject>
+      <object>3531346</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3927038</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3487776</subject>
+      <object>3487775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3656166</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3111424</subject>
+      <object>3111425</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>78</h>
+      <object_id>3111424</object_id>
+      <w>75</w>
+      <y>57</y>
+      <x>120</x>
+      <name>can</name>
+    </object>
+    <object>
+      <name>red substance</name>
+      <h>32</h>
+      <object_id>3531346</object_id>
+      <w>57</w>
+      <y>67</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>fries</name>
+      <h>235</h>
+      <object_id>3487776</object_id>
+      <w>287</w>
+      <y>138</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>fish</name>
+      <h>246</h>
+      <object_id>3487775</object_id>
+      <w>333</w>
+      <y>110</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>fish</name>
+      <h>127</h>
+      <object_id>3111425</object_id>
+      <w>187</w>
+      <y>113</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate of fried fish over a bed of french fries with some sauce in a can.</caption>
+      <caption>A plate of food that includes fried fish and fries.</caption>
+      <caption>Three pieces of battered fish and chips with lemon and ketchup.</caption>
+      <caption>For lunch there are three pieces of fish and fries left over. </caption>
+      <caption>Fried fish and french fries served on paper.</caption>
+    </captions>
+</image>

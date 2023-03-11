@@ -1,0 +1,81 @@
+<image>
+  <image-id>2320469</image-id>
+  <coco-id>353551</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3823767</relationship_id>
+      <predicate>flying over</predicate>
+      <subject>2927700</subject>
+      <object>2927701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251902</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3466832</subject>
+      <object>3619598</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251903</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3185150</subject>
+      <object>3185151</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plane</name>
+      <h>17</h>
+      <object_id>2927700</object_id>
+      <w>55</w>
+      <y>154</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>105</h>
+      <object_id>2927701</object_id>
+      <w>304</w>
+      <y>188</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>pond</name>
+      <h>49</h>
+      <object_id>3466832</object_id>
+      <w>112</w>
+      <y>276</y>
+      <x>387</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>196</h>
+      <object_id>3619598</object_id>
+      <w>481</w>
+      <y>130</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>11</h>
+      <object_id>3185150</object_id>
+      <w>11</w>
+      <y>308</y>
+      <x>478</x>
+    </object>
+    <object>
+      <name>pond</name>
+      <h>10</h>
+      <object_id>3185151</object_id>
+      <w>56</w>
+      <y>295</y>
+      <x>434</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large passenger jet flying over the top of a forest.</caption>
+      <caption>A large commercial airplane is flying pretty low.</caption>
+      <caption>A plane is flying in the sky over trees.</caption>
+      <caption>Airplane flying low over the treeline and field beyond.</caption>
+      <caption>A large airplane flies in blue skies over some pretty trees.</caption>
+    </captions>
+</image>

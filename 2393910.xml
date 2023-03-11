@@ -1,0 +1,143 @@
+<image>
+  <image-id>2393910</image-id>
+  <coco-id>252786</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4289734</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3824364</subject>
+      <object>468845</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289735</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3824364</subject>
+      <object>468846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289737</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3824365</subject>
+      <object>3824366</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289738</relationship_id>
+      <predicate>ON</predicate>
+      <subject>468853</subject>
+      <object>3824369</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289739</relationship_id>
+      <predicate>ON</predicate>
+      <subject>468856</subject>
+      <object>3824368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289740</relationship_id>
+      <predicate>ON</predicate>
+      <subject>468857</subject>
+      <object>3824369</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>she</name>
+      <h>323</h>
+      <object_id>3824364</object_id>
+      <w>197</w>
+      <y>43</y>
+      <x>118</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue shirt</name>
+      <h>114</h>
+      <object_id>468845</object_id>
+      <w>165</w>
+      <y>93</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>tan pants</name>
+      <h>174</h>
+      <object_id>468846</object_id>
+      <w>91</w>
+      <y>196</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>323</h>
+      <object_id>3824365</object_id>
+      <w>189</w>
+      <y>47</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>315</h>
+      <object_id>3824366</object_id>
+      <w>294</w>
+      <y>57</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>woman standing</name>
+      <h>313</h>
+      <object_id>468853</object_id>
+      <w>177</w>
+      <y>51</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>307</h>
+      <object_id>3824369</object_id>
+      <w>312</w>
+      <y>63</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>steel</attribute>
+      </attributes>
+      <name>dustbin</name>
+      <h>63</h>
+      <object_id>468856</object_id>
+      <w>64</w>
+      <y>90</y>
+      <x>387</x>
+    </object>
+    <object>
+      <name>roadside</name>
+      <h>310</h>
+      <object_id>3824368</object_id>
+      <w>308</w>
+      <y>60</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow paint</name>
+      <h>62</h>
+      <object_id>468857</object_id>
+      <w>18</w>
+      <y>105</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing at an airport next to luggage.</caption>
+      <caption>A woman that is standing next to a suitcase on the curb.</caption>
+      <caption>a woman is standing outside with her luggage</caption>
+      <caption>A woman standing near a curb with her luggage and her hand on her hip. </caption>
+      <caption>a woman standing by the road with a suitcase </caption>
+    </captions>
+</image>

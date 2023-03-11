@@ -1,0 +1,68 @@
+<image>
+  <image-id>2397702</image-id>
+  <coco-id>248457</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4722883</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4398883</subject>
+      <object>4398884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4722947</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4399050</subject>
+      <object>4399051</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tip</name>
+      <h>35</h>
+      <object_id>4398883</object_id>
+      <w>53</w>
+      <y>83</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>112</h>
+      <object_id>4398884</object_id>
+      <w>140</w>
+      <y>75</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>button</name>
+      <h>36</h>
+      <object_id>4399050</object_id>
+      <w>26</w>
+      <y>80</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>200</h>
+      <object_id>4399051</object_id>
+      <w>264</w>
+      <y>55</y>
+      <x>133</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there's someone sitting under that umbrella and someone taking a picture</caption>
+      <caption>A person stands under a dark colored umbrella.</caption>
+      <caption>a person sitting on concrete under an umbrella</caption>
+      <caption>A person sitting on the ground with an umbrella.</caption>
+      <caption>A person sitting down that is underneath an umbrella.</caption>
+    </captions>
+</image>

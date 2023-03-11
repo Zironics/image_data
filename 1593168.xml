@@ -1,0 +1,96 @@
+<image>
+  <image-id>1593168</image-id>
+  <coco-id>517723</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4091064</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3712479</subject>
+      <object>1739355</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091065</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1824971</subject>
+      <object>1824972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091066</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2915097</subject>
+      <object>2915098</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>288</h>
+      <object_id>3712479</object_id>
+      <w>279</w>
+      <y>98</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>586</h>
+      <object_id>1739355</object_id>
+      <w>1018</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>19</h>
+      <object_id>1824971</object_id>
+      <w>39</w>
+      <y>177</y>
+      <x>569</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>592</h>
+      <object_id>1824972</object_id>
+      <w>193</w>
+      <y>10</y>
+      <x>825</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown leaves</name>
+      <h>149</h>
+      <object_id>2915097</object_id>
+      <w>238</w>
+      <y>127</y>
+      <x>749</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>569</h>
+      <object_id>2915098</object_id>
+      <w>364</w>
+      <y>7</y>
+      <x>654</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bus driving down a street past trees.</caption>
+      <caption>A transit bus riding down a street with trees lined along it.</caption>
+      <caption>Two people that are standing next to a bus.</caption>
+      <caption>A bus traveling down the road near a buildings, trees, and two people</caption>
+      <caption>Two people are walking on the sidewalk and a bus is coming down the street.</caption>
+    </captions>
+</image>

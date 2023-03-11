@@ -1,0 +1,72 @@
+<image>
+  <image-id>2386169</image-id>
+  <coco-id>83879</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1804874</relationship_id>
+      <predicate>for</predicate>
+      <subject>683511</subject>
+      <object>683519</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1804875</relationship_id>
+      <predicate>ON</predicate>
+      <subject>683520</subject>
+      <object>683521</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>swivel</attribute>
+        <attribute>computer</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>113</h>
+      <object_id>683511</object_id>
+      <w>139</w>
+      <y>159</y>
+      <x>337</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>75</h>
+      <object_id>683519</object_id>
+      <w>24</w>
+      <y>164</y>
+      <x>473</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stick</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>candle</name>
+      <h>30</h>
+      <object_id>683520</object_id>
+      <w>39</w>
+      <y>160</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>speaker</name>
+      <h>41</h>
+      <object_id>683521</object_id>
+      <w>32</w>
+      <y>197</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little girl that is sitting in a chair.</caption>
+      <caption>A woman with long dark hair sitting in an office chair</caption>
+      <caption>Woman sitting on chair in room with electronic monitor and books.</caption>
+      <caption>the woman is looking the other direction from the tv screen.</caption>
+      <caption>a woman sits in a chair in front of a television </caption>
+    </captions>
+</image>

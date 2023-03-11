@@ -1,0 +1,54 @@
+<image>
+  <image-id>2322638</image-id>
+  <coco-id>315908</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4535529</relationship_id>
+      <predicate>has</predicate>
+      <subject>2857841</subject>
+      <object>3960533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3686043</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2857840</subject>
+      <object>2857841</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>233</h>
+      <object_id>2857841</object_id>
+      <w>445</w>
+      <y>121</y>
+      <x>29</x>
+      <name>bike</name>
+    </object>
+    <object>
+      <name>tailpipe</name>
+      <h>16</h>
+      <object_id>3960533</object_id>
+      <w>166</w>
+      <y>306</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in back</attribute>
+      </attributes>
+      <name>licenseholder</name>
+      <h>55</h>
+      <object_id>2857840</object_id>
+      <w>21</w>
+      <y>204</y>
+      <x>29</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A child with a helmet on a motor bike.</caption>
+      <caption>a girl sitting on the seat of a motorcycle</caption>
+      <caption>a child sits on a old fashioned motorcycle</caption>
+      <caption>A young girl poses for a photo on a motorcycle.</caption>
+      <caption>Little girl sitting on an old parked motorcycle.</caption>
+    </captions>
+</image>

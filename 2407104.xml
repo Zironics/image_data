@@ -1,0 +1,123 @@
+<image>
+  <image-id>2407104</image-id>
+  <coco-id>352081</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>682321</relationship_id>
+      <predicate>OF</predicate>
+      <subject>367502</subject>
+      <object>367500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>682320</relationship_id>
+      <predicate>OF</predicate>
+      <subject>367500</subject>
+      <object>367501</object>
+    </relationship>
+    <relationship>
+      <relationship_id>682322</relationship_id>
+      <predicate>OF</predicate>
+      <subject>367503</subject>
+      <object>367500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229713</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1098950</subject>
+      <object>1098951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229721</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1098950</subject>
+      <object>1098951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229733</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1098950</subject>
+      <object>1098951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3229737</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1098950</subject>
+      <object>1098951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>682434</relationship_id>
+      <predicate>OF</predicate>
+      <subject>367500</subject>
+      <object>367501</object>
+    </relationship>
+    <relationship>
+      <relationship_id>682436</relationship_id>
+      <predicate>OF</predicate>
+      <subject>367503</subject>
+      <object>367500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>682435</relationship_id>
+      <predicate>OF</predicate>
+      <subject>367502</subject>
+      <object>367500</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>55</h>
+      <object_id>367502</object_id>
+      <w>49</w>
+      <y>131</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>388</h>
+      <object_id>367500</object_id>
+      <w>272</w>
+      <y>61</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>65</h>
+      <object_id>367501</object_id>
+      <w>329</w>
+      <y>433</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>63</h>
+      <object_id>367503</object_id>
+      <w>43</w>
+      <y>133</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>62</h>
+      <object_id>1098950</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>62</h>
+      <object_id>1098951</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stone clock tower with arched windows and a grey roof.</caption>
+      <caption>A closeup of a belltower against a blue afternoon sky.</caption>
+      <caption>A historic stone building with clocks on both sides.</caption>
+      <caption>A tall building with windows and a clock at the top.</caption>
+      <caption>A large tower like structure that has a clock on it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>1159381</image-id>
+  <coco-id>118330</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4263312</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1592340</subject>
+      <object>3796948</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>78</h>
+      <object_id>1592340</object_id>
+      <w>77</w>
+      <y>210</y>
+      <x>574</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>288</h>
+      <object_id>3796948</object_id>
+      <w>175</w>
+      <y>120</y>
+      <x>535</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A table with some chairs and a large umbrella.</caption>
+      <caption>A wooden table surrounded with lots of chairs.</caption>
+      <caption>A long table and chairs covered by umbrellas outdoor.</caption>
+      <caption>a long wooden table with chairs around it</caption>
+      <caption>Long umbrella covered dining tables on a patio</caption>
+    </captions>
+</image>

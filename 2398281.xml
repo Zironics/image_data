@@ -1,0 +1,62 @@
+<image>
+  <image-id>2398281</image-id>
+  <coco-id>157588</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>931733</relationship_id>
+      <predicate>ON</predicate>
+      <subject>426874</subject>
+      <object>426875</object>
+    </relationship>
+    <relationship>
+      <relationship_id>931734</relationship_id>
+      <predicate>has</predicate>
+      <subject>426869</subject>
+      <object>426876</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>advertisement</name>
+      <h>23</h>
+      <object_id>426874</object_id>
+      <w>33</w>
+      <y>309</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>63</h>
+      <object_id>426875</object_id>
+      <w>499</w>
+      <y>270</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the air</attribute>
+      </attributes>
+      <name>skateboarder</name>
+      <h>122</h>
+      <object_id>426869</object_id>
+      <w>116</w>
+      <y>50</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>25</h>
+      <object_id>426876</object_id>
+      <w>59</w>
+      <y>64</y>
+      <x>228</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skater grabs his board while jumping in the air.</caption>
+      <caption>A professional skater in the air with his board.</caption>
+      <caption>A person jumping out of a halfpipe on a skateboard.</caption>
+      <caption>A man that is doing a trick on his skateboard.</caption>
+      <caption>a young man performing a jump at a skatepark</caption>
+    </captions>
+</image>

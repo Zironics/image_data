@@ -1,0 +1,60 @@
+<image>
+  <image-id>2374217</image-id>
+  <coco-id>277204</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1958496</relationship_id>
+      <predicate>has</predicate>
+      <subject>728139</subject>
+      <object>728140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1958497</relationship_id>
+      <predicate>has</predicate>
+      <subject>728139</subject>
+      <object>728141</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>v</attribute>
+        <attribute>red</attribute>
+        <attribute>whitey</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>138</h>
+      <object_id>728139</object_id>
+      <w>451</w>
+      <y>108</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>111</h>
+      <object_id>728140</object_id>
+      <w>121</w>
+      <y>121</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>34</h>
+      <object_id>728141</object_id>
+      <w>48</w>
+      <y>185</y>
+      <x>173</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small charter plane flying in the air.</caption>
+      <caption>A airplane with propellers that is flying in the sky.</caption>
+      <caption>a large plane that is flying through the air</caption>
+      <caption>there is a small white plane that has taken off</caption>
+      <caption>A white airplane is flying in the air.</caption>
+    </captions>
+</image>

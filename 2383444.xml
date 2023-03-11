@@ -1,0 +1,161 @@
+<image>
+  <image-id>2383444</image-id>
+  <coco-id>273645</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4746605</relationship_id>
+      <predicate>swimming in</predicate>
+      <subject>4457287</subject>
+      <object>4457288</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746608</relationship_id>
+      <predicate>near</predicate>
+      <subject>4457295</subject>
+      <object>4457296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746616</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4457318</subject>
+      <object>4457319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746618</relationship_id>
+      <predicate>jutting from</predicate>
+      <subject>4457323</subject>
+      <object>4457324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746619</relationship_id>
+      <predicate>sunbathing on</predicate>
+      <subject>4457325</subject>
+      <object>4457324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746620</relationship_id>
+      <predicate>sunbathing on</predicate>
+      <subject>4457328</subject>
+      <object>4457324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746621</relationship_id>
+      <predicate>sunbathing on</predicate>
+      <subject>4457329</subject>
+      <object>4457324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746622</relationship_id>
+      <predicate>sunbathing on</predicate>
+      <subject>4457318</subject>
+      <object>4457324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746623</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4457318</subject>
+      <object>4457324</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>10</h>
+      <object_id>4457287</object_id>
+      <w>30</w>
+      <y>155</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>123</h>
+      <object_id>4457288</object_id>
+      <w>227</w>
+      <y>63</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>27</h>
+      <object_id>4457295</object_id>
+      <w>18</w>
+      <y>155</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>121</h>
+      <object_id>4457296</object_id>
+      <w>200</w>
+      <y>61</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>36</h>
+      <object_id>4457318</object_id>
+      <w>38</w>
+      <y>270</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>towel</name>
+      <h>20</h>
+      <object_id>4457319</object_id>
+      <w>65</w>
+      <y>299</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>rock formation</name>
+      <h>134</h>
+      <object_id>4457323</object_id>
+      <w>370</w>
+      <y>172</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>sandy</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>227</h>
+      <object_id>4457324</object_id>
+      <w>483</w>
+      <y>146</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>30</h>
+      <object_id>4457325</object_id>
+      <w>84</w>
+      <y>318</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>23</h>
+      <object_id>4457328</object_id>
+      <w>92</w>
+      <y>313</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>39</h>
+      <object_id>4457329</object_id>
+      <w>38</w>
+      <y>312</y>
+      <x>446</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Sunbathers are on a rocky beach with towels, and umbrellas.</caption>
+      <caption>Many people are relaxing on the pretty beach. </caption>
+      <caption>A beach with lots of rocks and people laying on top of it.</caption>
+      <caption>there are many people laying in the sand at this beach</caption>
+      <caption>A group of people relaxing on the sand at a beach.</caption>
+    </captions>
+</image>

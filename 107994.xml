@@ -1,0 +1,116 @@
+<image>
+  <image-id>107994</image-id>
+  <coco-id>131390</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3201023</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1073825</subject>
+      <object>1073826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3201024</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1073825</subject>
+      <object>1073826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3201025</relationship_id>
+      <predicate>on top</predicate>
+      <subject>1073825</subject>
+      <object>1073826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3201026</relationship_id>
+      <predicate>above</predicate>
+      <subject>1073825</subject>
+      <object>1073826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3201027</relationship_id>
+      <predicate>above</predicate>
+      <subject>1073825</subject>
+      <object>1073826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3201028</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1073827</subject>
+      <object>1073825</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3201029</relationship_id>
+      <predicate>above</predicate>
+      <subject>1073825</subject>
+      <object>1073826</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3201030</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1073827</subject>
+      <object>1073825</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>calm</attribute>
+        <attribute>sitting</attribute>
+        <attribute>horned</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>sitting down</attribute>
+        <attribute>alone</attribute>
+        <attribute>numerous</attribute>
+        <attribute>dark</attribute>
+        <attribute>laying</attribute>
+        <attribute>grouped</attribute>
+        <attribute>antlered</attribute>
+        <attribute>resting</attribute>
+      </attributes>
+      <name>bulls</name>
+      <h>91</h>
+      <object_id>1073825</object_id>
+      <w>919</w>
+      <y>447</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>greenish</attribute>
+        <attribute>thin</attribute>
+        <attribute>green</attribute>
+        <attribute>lush</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>244</h>
+      <object_id>1073826</object_id>
+      <w>1009</w>
+      <y>516</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>brown</attribute>
+        <attribute>big</attribute>
+        <attribute>leafy</attribute>
+        <attribute>thick</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>359</h>
+      <object_id>1073827</object_id>
+      <w>1014</w>
+      <y>136</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of oxen lounging in a field.</caption>
+      <caption>A bunch of bulls on a green pasture.</caption>
+      <caption>A herd of cows are resting in a meadow.</caption>
+      <caption>Longhorned bovine lying as a herd in a pasture.</caption>
+      <caption>A herd of cattle are resting on a grassy field.</caption>
+    </captions>
+</image>

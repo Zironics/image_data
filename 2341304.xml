@@ -1,0 +1,90 @@
+<image>
+  <image-id>2341304</image-id>
+  <coco-id>109051</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3657842</relationship_id>
+      <predicate>has</predicate>
+      <subject>3363120</subject>
+      <object>3532070</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4093857</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3363120</subject>
+      <object>2416131</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265728</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3080759</subject>
+      <object>3080758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265729</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2362149</subject>
+      <object>3363120</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>animal</name>
+      <h>172</h>
+      <object_id>3363120</object_id>
+      <w>302</w>
+      <y>70</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fluffy</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>180</h>
+      <object_id>3532070</object_id>
+      <w>164</w>
+      <y>146</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>188</h>
+      <object_id>2416131</object_id>
+      <w>407</w>
+      <y>144</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>32</h>
+      <object_id>3080759</object_id>
+      <w>39</w>
+      <y>44</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>animal</name>
+      <h>305</h>
+      <object_id>3080758</object_id>
+      <w>444</w>
+      <y>22</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>paw</name>
+      <h>38</h>
+      <object_id>2362149</object_id>
+      <w>85</w>
+      <y>245</y>
+      <x>120</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A badger standing on a piece of drift wood with rocks in the background.</caption>
+      <caption>A wolverine walking in his own natural habitat.</caption>
+      <caption>Large footed badger crawling up a branch on a pile of stones.</caption>
+      <caption>An animal with brown, tan and black fur.</caption>
+      <caption>A picture of an animal in a parking lot.</caption>
+    </captions>
+</image>

@@ -1,0 +1,110 @@
+<image>
+  <image-id>2324283</image-id>
+  <coco-id>86777</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3795385</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3592245</subject>
+      <object>3592244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3795387</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3592245</subject>
+      <object>3592246</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3795386</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3592246</subject>
+      <object>3592244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4526031</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3364127</subject>
+      <object>3364126</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4526032</relationship_id>
+      <predicate>on side</predicate>
+      <subject>3020297</subject>
+      <object>3020298</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>right side</name>
+      <h>160</h>
+      <object_id>3592245</object_id>
+      <w>43</w>
+      <y>5</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver </attribute>
+      </attributes>
+      <name>vehicle</name>
+      <h>194</h>
+      <object_id>3592244</object_id>
+      <w>104</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>164</h>
+      <object_id>3592246</object_id>
+      <w>94</w>
+      <y>5</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>police</attribute>
+      </attributes>
+      <name>officer</name>
+      <h>230</h>
+      <object_id>3364127</object_id>
+      <w>127</w>
+      <y>27</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>259</h>
+      <object_id>3364126</object_id>
+      <w>215</w>
+      <y>61</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pulled-over</attribute>
+      </attributes>
+      <name>minivan</name>
+      <h>199</h>
+      <object_id>3020297</object_id>
+      <w>113</w>
+      <y>6</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>231</h>
+      <object_id>3020298</object_id>
+      <w>490</w>
+      <y>142</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cop pulling over a vehicle on top of a motorcycle.</caption>
+      <caption>A motorcycle is on the road behind a car.</caption>
+      <caption>The police officer is on a motorcycle in traffic.</caption>
+      <caption>A policeman on a motorcycle behind a van.</caption>
+      <caption>A policeman on a motorcycle behind a van.</caption>
+    </captions>
+</image>

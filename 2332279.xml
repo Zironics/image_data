@@ -1,0 +1,91 @@
+<image>
+  <image-id>2332279</image-id>
+  <coco-id>357633</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3769024</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3486701</subject>
+      <object>3684653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3924652</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3268844</subject>
+      <object>3486701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3924653</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3268844</subject>
+      <object>3684653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4020239</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3486701</subject>
+      <object>3684653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3924655</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2929288</subject>
+      <object>3268844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3924656</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2929289</subject>
+      <object>3268844</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>225</h>
+      <object_id>3486701</object_id>
+      <w>116</w>
+      <y>57</y>
+      <x>2</x>
+      <name>glass</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>208</h>
+      <object_id>3684653</object_id>
+      <w>499</w>
+      <y>163</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>326</h>
+      <object_id>3268844</object_id>
+      <w>427</w>
+      <y>46</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>17</h>
+      <object_id>2929288</object_id>
+      <w>42</w>
+      <y>303</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>sticker</name>
+      <h>25</h>
+      <object_id>2929289</object_id>
+      <w>29</w>
+      <y>300</y>
+      <x>96</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An alcoholic beverage besides a laptop within a restaurant </caption>
+      <caption>a laptop on a wooden table near a drink</caption>
+      <caption>A laptop sitting on a picnic table with a glass of beer.</caption>
+      <caption>A laptop is on a table with a frosty beverage nearby.</caption>
+      <caption>A beverage in a glass on a table next to a laptop.</caption>
+    </captions>
+</image>

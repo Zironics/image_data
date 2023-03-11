@@ -1,0 +1,68 @@
+<image>
+  <image-id>2339188</image-id>
+  <coco-id>495367</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3672410</relationship_id>
+      <predicate>has</predicate>
+      <subject>2713121</subject>
+      <object>3486756</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4051706</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2713121</subject>
+      <object>2713122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4051707</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2713121</subject>
+      <object>3376233</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>187</h>
+      <object_id>2713121</object_id>
+      <w>126</w>
+      <y>78</y>
+      <x>105</x>
+      <name>surfer</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>20</h>
+      <object_id>3486756</object_id>
+      <w>22</w>
+      <y>92</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>necklace</name>
+      <h>22</h>
+      <object_id>2713122</object_id>
+      <w>29</w>
+      <y>120</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>watch</name>
+      <h>9</h>
+      <object_id>3376233</object_id>
+      <w>15</w>
+      <y>189</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer standing on a surfboard while riding a wave.</caption>
+      <caption>A man on a surf board riding a wave.</caption>
+      <caption>A man riding a wave on a surfboard in the ocean.</caption>
+      <caption>The surfer skillfully rides a wave into shore</caption>
+      <caption>Man riding a wave on a surf board.</caption>
+    </captions>
+</image>

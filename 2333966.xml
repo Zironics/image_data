@@ -1,0 +1,90 @@
+<image>
+  <image-id>2333966</image-id>
+  <coco-id>342367</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4011175</relationship_id>
+      <predicate>has</predicate>
+      <subject>3497159</subject>
+      <object>3497160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4011176</relationship_id>
+      <predicate>has</predicate>
+      <subject>3244740</subject>
+      <object>3244739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4011177</relationship_id>
+      <predicate>has</predicate>
+      <subject>3244741</subject>
+      <object>3244742</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Seated </attribute>
+      </attributes>
+      <name>woman</name>
+      <h>115</h>
+      <object_id>3497159</object_id>
+      <w>115</w>
+      <y>258</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>55</h>
+      <object_id>3497160</object_id>
+      <w>39</w>
+      <y>264</y>
+      <x>268</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Seated </attribute>
+      </attributes>
+      <name>man</name>
+      <h>202</h>
+      <object_id>3244740</object_id>
+      <w>105</w>
+      <y>87</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>30</h>
+      <object_id>3244739</object_id>
+      <w>30</w>
+      <y>129</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Seated </attribute>
+      </attributes>
+      <name>man</name>
+      <h>135</h>
+      <object_id>3244741</object_id>
+      <w>90</w>
+      <y>201</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>52</h>
+      <object_id>3244742</object_id>
+      <w>40</w>
+      <y>230</y>
+      <x>329</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A TV showing two men in hats and women.   </caption>
+      <caption>A picture of a T.V. showing court room proceedings.</caption>
+      <caption>A television with two men and a woman on the screen. </caption>
+      <caption>A TV with a picture of two men wearing black hats.</caption>
+      <caption>A photo of a television depicts a courtroom.</caption>
+    </captions>
+</image>

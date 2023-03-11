@@ -1,0 +1,134 @@
+<image>
+  <image-id>2378971</image-id>
+  <coco-id>328179</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4296836</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3835680</subject>
+      <object>3835681</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4296839</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3835680</subject>
+      <object>3835693</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4296840</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3835682</subject>
+      <object>556093</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4296841</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3835682</subject>
+      <object>3835698</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4296842</relationship_id>
+      <predicate>flying</predicate>
+      <subject>3835679</subject>
+      <object>3835708</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4296843</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3835716</subject>
+      <object>3835717</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>60</h>
+      <object_id>3835680</object_id>
+      <w>35</w>
+      <y>347</y>
+      <x>462</x>
+    </object>
+    <object>
+      <name>backpack</name>
+      <h>21</h>
+      <object_id>3835681</object_id>
+      <w>12</w>
+      <y>364</y>
+      <x>471</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>97</h>
+      <object_id>3835693</object_id>
+      <w>230</w>
+      <y>401</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <h>29</h>
+      <object_id>3835682</object_id>
+      <w>9</w>
+      <y>363</y>
+      <x>342</x>
+      <name>man</name>
+    </object>
+    <object>
+      <h>10</h>
+      <object_id>556093</object_id>
+      <w>8</w>
+      <y>367</y>
+      <x>342</x>
+      <name>orange outfit</name>
+    </object>
+    <object>
+      <name>shorts</name>
+      <h>13</h>
+      <object_id>3835698</object_id>
+      <w>16</w>
+      <y>371</y>
+      <x>336</x>
+    </object>
+    <object>
+      <h>133</h>
+      <object_id>3835679</object_id>
+      <w>35</w>
+      <y>325</y>
+      <x>356</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>69</h>
+      <object_id>3835708</object_id>
+      <w>86</w>
+      <y>29</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>26</h>
+      <object_id>3835716</object_id>
+      <w>50</w>
+      <y>368</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>30</h>
+      <object_id>3835717</object_id>
+      <w>60</w>
+      <y>368</y>
+      <x>408</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A  young person flying a kite at the beach.</caption>
+      <caption>A boy on a beach flying a kite with other people around.</caption>
+      <caption>A child flies a kite on a beach.</caption>
+      <caption>A group of people standing on the beach flying a kite </caption>
+      <caption>A child flies a kite on the beach.</caption>
+    </captions>
+</image>

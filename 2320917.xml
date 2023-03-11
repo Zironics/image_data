@@ -1,0 +1,68 @@
+<image>
+  <image-id>2320917</image-id>
+  <coco-id>132470</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4650334</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4220316</subject>
+      <object>4220317</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4650335</relationship_id>
+      <predicate>standing on top of</predicate>
+      <subject>4220318</subject>
+      <object>4220319</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange </attribute>
+      </attributes>
+      <name>mark</name>
+      <h>27</h>
+      <object_id>4220316</object_id>
+      <w>22</w>
+      <y>188</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>fur</name>
+      <h>25</h>
+      <object_id>4220317</object_id>
+      <w>26</w>
+      <y>185</y>
+      <x>281</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>152</h>
+      <object_id>4220318</object_id>
+      <w>154</w>
+      <y>145</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>field</name>
+      <h>155</h>
+      <object_id>4220319</object_id>
+      <w>133</w>
+      <y>144</y>
+      <x>53</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white sheep looking while in the grass.</caption>
+      <caption>there is a sheep with something orange on it </caption>
+      <caption>A small white and black sheep with a spot on it</caption>
+      <caption>A cow stands in a field of grass</caption>
+      <caption>A sheep with what appears to be a blood spot.</caption>
+    </captions>
+</image>

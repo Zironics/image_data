@@ -1,0 +1,68 @@
+<image>
+  <image-id>2381185</image-id>
+  <coco-id>504999</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4594721</relationship_id>
+      <predicate>under</predicate>
+      <subject>4083040</subject>
+      <object>4083011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4594724</relationship_id>
+      <predicate>under</predicate>
+      <subject>4083040</subject>
+      <object>4083019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4594733</relationship_id>
+      <predicate>facing different</predicate>
+      <subject>4083040</subject>
+      <object>4083041</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>signs</name>
+      <h>300</h>
+      <object_id>4083040</object_id>
+      <w>486</w>
+      <y>45</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>168</h>
+      <object_id>4083011</object_id>
+      <w>130</w>
+      <y>3</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>traffic</attribute>
+      </attributes>
+      <name>lights</name>
+      <h>168</h>
+      <object_id>4083019</object_id>
+      <w>138</w>
+      <y>4</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>directions</name>
+      <h>312</h>
+      <object_id>4083041</object_id>
+      <w>483</w>
+      <y>43</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light sitting on top of a street sign,</caption>
+      <caption>Two street signs that are under a stoplight.</caption>
+      <caption>Some street signs with one saying thirteen and a half street.</caption>
+      <caption>A street sign that is in a black and white photo.</caption>
+      <caption>The traffic signal has two street names on the pole. </caption>
+    </captions>
+</image>

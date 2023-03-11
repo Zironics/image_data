@@ -1,0 +1,40 @@
+<image>
+  <image-id>2340597</image-id>
+  <coco-id>39726</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4786619</relationship_id>
+      <predicate>sitting</predicate>
+      <subject>4565238</subject>
+      <object>4565207</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white cream</attribute>
+      </attributes>
+      <h>266</h>
+      <object_id>4565238</object_id>
+      <w>408</w>
+      <y>29</y>
+      <x>55</x>
+      <name>bagel</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>77</h>
+      <object_id>4565207</object_id>
+      <w>49</w>
+      <y>251</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A danish dessert with frosting that is partially eaten</caption>
+      <caption>A close up of a round pastry topped with icing.</caption>
+      <caption>a delicious donut with white icing on it </caption>
+      <caption>A frosted donut with a bite taken out.</caption>
+      <caption>a frosted donut with a bite out of it</caption>
+    </captions>
+</image>

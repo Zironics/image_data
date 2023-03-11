@@ -1,0 +1,57 @@
+<image>
+  <image-id>2363035</image-id>
+  <coco-id>305684</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2101019</relationship_id>
+      <predicate>near</predicate>
+      <subject>769023</subject>
+      <object>769021</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2101020</relationship_id>
+      <predicate>near</predicate>
+      <subject>769023</subject>
+      <object>769021</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>cracked</attribute>
+        <attribute>brown</attribute>
+        <attribute>closed</attribute>
+      </attributes>
+      <name>window</name>
+      <h>75</h>
+      <object_id>769023</object_id>
+      <w>54</w>
+      <y>33</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>looking</attribute>
+        <attribute>white</attribute>
+        <attribute>watching</attribute>
+        <attribute>black</attribute>
+        <attribute>sitting</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>287</h>
+      <object_id>769021</object_id>
+      <w>205</w>
+      <y>91</y>
+      <x>114</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white dog is looking out of a window from inside a house.</caption>
+      <caption>The dog is looking at something out of the window.</caption>
+      <caption>A dog looking outside through the window while standing.</caption>
+      <caption>A dog is staring intently out the window.</caption>
+      <caption>a dog standing by a window looking outside for something </caption>
+    </captions>
+</image>

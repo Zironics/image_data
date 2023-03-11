@@ -1,0 +1,102 @@
+<image>
+  <image-id>2370633</image-id>
+  <coco-id>322852</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4322742</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1914645</subject>
+      <object>1783391</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4322743</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2171662</subject>
+      <object>1896757</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4322744</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1914646</subject>
+      <object>1914645</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4322745</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1896756</subject>
+      <object>1896757</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4322746</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1896757</subject>
+      <object>1783391</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>154</h>
+      <object_id>1914645</object_id>
+      <w>83</w>
+      <y>307</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>closet</name>
+      <h>497</h>
+      <object_id>1783391</object_id>
+      <w>317</w>
+      <y>1</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <h>32</h>
+      <object_id>2171662</object_id>
+      <w>122</w>
+      <y>174</y>
+      <x>218</x>
+      <name>metal slat</name>
+    </object>
+    <object>
+      <h>420</h>
+      <object_id>1896757</object_id>
+      <w>120</w>
+      <y>53</y>
+      <x>221</x>
+      <name>door</name>
+    </object>
+    <object>
+      <name>tank</name>
+      <h>79</h>
+      <object_id>1914646</object_id>
+      <w>97</w>
+      <y>82</y>
+      <x>112</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>30</h>
+      <object_id>1896756</object_id>
+      <w>129</w>
+      <y>177</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toilet sitting in a wooden cabinet next to lights.</caption>
+      <caption>there is a toilet in a wooden box </caption>
+      <caption>A door is open on a small make-shift toilet.</caption>
+      <caption>A little closet that contains a small bathroom</caption>
+      <caption>A toilet packed away in a wooden cabinet. </caption>
+    </captions>
+</image>

@@ -1,0 +1,209 @@
+<image>
+  <image-id>2372739</image-id>
+  <coco-id>179808</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1481908</relationship_id>
+      <predicate>IN</predicate>
+      <subject>590510</subject>
+      <object>590511</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481909</relationship_id>
+      <predicate>IN</predicate>
+      <subject>590524</subject>
+      <object>590513</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481910</relationship_id>
+      <predicate>IN</predicate>
+      <subject>590514</subject>
+      <object>590515</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481911</relationship_id>
+      <predicate>in a</predicate>
+      <subject>590510</subject>
+      <object>590511</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481912</relationship_id>
+      <predicate>in a</predicate>
+      <subject>590524</subject>
+      <object>590513</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481913</relationship_id>
+      <predicate>in a</predicate>
+      <subject>590514</subject>
+      <object>590515</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481917</relationship_id>
+      <predicate>holding</predicate>
+      <subject>590513</subject>
+      <object>590524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481918</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>590523</subject>
+      <object>590524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481919</relationship_id>
+      <predicate>are sitting on</predicate>
+      <subject>590524</subject>
+      <object>590525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481920</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>590517</subject>
+      <object>590527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481921</relationship_id>
+      <predicate>has a</predicate>
+      <subject>590517</subject>
+      <object>590528</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1481922</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>590527</subject>
+      <object>590509</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>gold fish</name>
+      <h>30</h>
+      <object_id>590510</object_id>
+      <w>43</w>
+      <y>301</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on the left</attribute>
+        <attribute>made of plastic</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>126</h>
+      <object_id>590511</object_id>
+      <w>116</w>
+      <y>208</y>
+      <x>65</x>
+    </object>
+    <object>
+      <h>48</h>
+      <object_id>590524</object_id>
+      <w>76</w>
+      <y>283</y>
+      <x>348</x>
+      <name>gold fish</name>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>130</h>
+      <object_id>590513</object_id>
+      <w>119</w>
+      <y>203</y>
+      <x>332</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>gold fish</name>
+      <h>36</h>
+      <object_id>590514</object_id>
+      <w>54</w>
+      <y>297</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the middle</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>122</h>
+      <object_id>590515</object_id>
+      <w>105</w>
+      <y>208</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>people</name>
+      <h>179</h>
+      <object_id>590523</object_id>
+      <w>497</w>
+      <y>183</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>shelving</name>
+      <h>120</h>
+      <object_id>590525</object_id>
+      <w>477</w>
+      <y>241</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>atm machine</name>
+      <h>128</h>
+      <object_id>590517</object_id>
+      <w>74</w>
+      <y>140</y>
+      <x>378</x>
+    </object>
+    <object>
+      <name>store</name>
+      <h>123</h>
+      <object_id>590527</object_id>
+      <w>477</w>
+      <y>135</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>33</h>
+      <object_id>590528</object_id>
+      <w>39</w>
+      <y>174</y>
+      <x>397</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>big</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>144</h>
+      <object_id>590509</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Near a teller machine, several baggies sit on a shelf that holds three bags with orange fish in them.</caption>
+      <caption>Bagged goldfish wait for their new owners to take them home.</caption>
+      <caption>A picture of an umbrella and some people.</caption>
+      <caption>some people sitting under a umbrella on a bench</caption>
+      <caption>Several plastic bags of goldfish for sale beneath an umbrella.</caption>
+    </captions>
+</image>

@@ -1,0 +1,90 @@
+<image>
+  <image-id>2330590</image-id>
+  <coco-id>244933</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4826563</relationship_id>
+      <predicate>has</predicate>
+      <subject>4663531</subject>
+      <object>4663530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4826567</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4663545</subject>
+      <object>4663544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4826568</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4663546</subject>
+      <object>4663547</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>81</h>
+      <object_id>4663531</object_id>
+      <w>80</w>
+      <y>250</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>15</h>
+      <object_id>4663530</object_id>
+      <w>16</w>
+      <y>273</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>60</h>
+      <object_id>4663545</object_id>
+      <w>33</w>
+      <y>434</y>
+      <x>169</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>dock</name>
+      <h>20</h>
+      <object_id>4663544</object_id>
+      <w>79</w>
+      <y>479</y>
+      <x>174</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>bee</name>
+      <h>24</h>
+      <object_id>4663546</object_id>
+      <w>27</w>
+      <y>456</y>
+      <x>118</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>30</h>
+      <object_id>4663547</object_id>
+      <w>34</w>
+      <y>434</y>
+      <x>101</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Pictures of cats out number pictures of many other items such as a chair and an eagle</caption>
+      <caption>A series of photographs depicting a bunch of different scenes.</caption>
+      <caption>A collage of mostly cat pictures and nature scenes.</caption>
+      <caption>Various photographs of cats, children, birds and nature.</caption>
+      <caption>A collage of many different pictures the majority of them being cats.</caption>
+    </captions>
+</image>

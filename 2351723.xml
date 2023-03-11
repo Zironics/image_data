@@ -1,0 +1,57 @@
+<image>
+  <image-id>2351723</image-id>
+  <coco-id>170253</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2457675</relationship_id>
+      <predicate>OF</predicate>
+      <subject>858635</subject>
+      <object>858640</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2457676</relationship_id>
+      <predicate>OF</predicate>
+      <subject>858636</subject>
+      <object>858640</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>neck</name>
+      <h>135</h>
+      <object_id>858635</object_id>
+      <w>157</w>
+      <y>121</y>
+      <x>81</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>462</h>
+      <object_id>858640</object_id>
+      <w>248</w>
+      <y>38</y>
+      <x>83</x>
+      <name>aimal</name>
+    </object>
+    <object>
+      <name>chest</name>
+      <h>143</h>
+      <object_id>858636</object_id>
+      <w>211</w>
+      <y>301</y>
+      <x>42</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white swan at the coast during a cloudy day.</caption>
+      <caption>A large white swan staring straight ahead on a beach</caption>
+      <caption>A goose is photographed in black and white on the shore.</caption>
+      <caption>A big white bird is standing by the water.</caption>
+      <caption>A white swan standing on the beach looking at the camera.</caption>
+    </captions>
+</image>

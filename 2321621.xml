@@ -1,0 +1,40 @@
+<image>
+  <image-id>2321621</image-id>
+  <coco-id>17984</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3779048</relationship_id>
+      <predicate>growing</predicate>
+      <subject>3058396</subject>
+      <object>3340210</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plant</name>
+      <h>56</h>
+      <object_id>3058396</object_id>
+      <w>142</w>
+      <y>194</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>murky</attribute>
+      </attributes>
+      <name>water</name>
+      <h>122</h>
+      <object_id>3340210</object_id>
+      <w>497</w>
+      <y>211</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of cows walking back out of the water</caption>
+      <caption>The large cows are by the water getting a drink. </caption>
+      <caption>TWO BROWN COWS EXITING A WATERING HOLE TOGETHER.</caption>
+      <caption>Looks like very large dogs standing in the water.</caption>
+      <caption>Two large animals standing in a pool of water.</caption>
+    </captions>
+</image>

@@ -1,0 +1,63 @@
+<image>
+  <image-id>2361844</image-id>
+  <coco-id>482134</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2137809</relationship_id>
+      <predicate>IN</predicate>
+      <subject>779037</subject>
+      <object>779038</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2137810</relationship_id>
+      <predicate>IN</predicate>
+      <subject>779036</subject>
+      <object>779038</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>fish</name>
+      <h>51</h>
+      <object_id>779037</object_id>
+      <w>60</w>
+      <y>247</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>glass</name>
+      <h>109</h>
+      <object_id>779038</object_id>
+      <w>137</w>
+      <y>46</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+        <attribute>red</attribute>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>84</h>
+      <object_id>779036</object_id>
+      <w>107</w>
+      <y>206</y>
+      <x>202</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Yellow and red floral arrangement displayed in bathroom.</caption>
+      <caption>some yellow and red flowers and its green leaves </caption>
+      <caption>A group of yellow flowers sitting inside a vase. </caption>
+      <caption>The vase held the yellow and red flowers. </caption>
+      <caption>A vase with flowers are shown on the counter.</caption>
+    </captions>
+</image>

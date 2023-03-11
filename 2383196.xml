@@ -1,0 +1,88 @@
+<image>
+  <image-id>2383196</image-id>
+  <coco-id>246877</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3573873</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1323052</subject>
+      <object>1323053</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573874</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1323052</subject>
+      <object>1323053</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573875</relationship_id>
+      <predicate>below</predicate>
+      <subject>1323052</subject>
+      <object>1323054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573876</relationship_id>
+      <predicate>below</predicate>
+      <subject>1323053</subject>
+      <object>1323054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3573877</relationship_id>
+      <predicate>under</predicate>
+      <subject>1323053</subject>
+      <object>1323054</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>long</attribute>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>rusty</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>train</name>
+      <h>155</h>
+      <object_id>1323052</object_id>
+      <w>484</w>
+      <y>87</y>
+      <x>15</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>railroad</attribute>
+        <attribute>train</attribute>
+      </attributes>
+      <name>tracks</name>
+      <h>44</h>
+      <object_id>1323053</object_id>
+      <w>493</w>
+      <y>210</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bright</attribute>
+        <attribute>white</attribute>
+        <attribute>cloudy</attribute>
+        <attribute>overcast</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>160</h>
+      <object_id>1323054</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train with a graffiti covered train car sitting next to grass.</caption>
+      <caption>A rusty train car has graffiti on it.</caption>
+      <caption>A rusty tanks train car left abandoned.  </caption>
+      <caption>a train car is parked on the track and has grafitti.</caption>
+      <caption>Grass and rubble rest on one side of a train track that features some old train cars, one of which is graffiti-ridden.  </caption>
+    </captions>
+</image>

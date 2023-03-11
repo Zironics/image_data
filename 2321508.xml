@@ -1,0 +1,101 @@
+<image>
+  <image-id>2321508</image-id>
+  <coco-id>245026</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3659086</relationship_id>
+      <predicate>with</predicate>
+      <subject>3072416</subject>
+      <object>3532621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3757592</relationship_id>
+      <predicate>lining</predicate>
+      <subject>2949094</subject>
+      <object>2949096</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3757593</relationship_id>
+      <predicate>lining</predicate>
+      <subject>2949095</subject>
+      <object>2949096</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3757600</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3038102</subject>
+      <object>3038103</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>clear cup</name>
+      <h>80</h>
+      <object_id>3072416</object_id>
+      <w>85</w>
+      <y>250</y>
+      <x>388</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>straw</name>
+      <h>78</h>
+      <object_id>3532621</object_id>
+      <w>30</w>
+      <y>247</y>
+      <x>416</x>
+    </object>
+    <object>
+      <name>crock</name>
+      <h>60</h>
+      <object_id>2949094</object_id>
+      <w>55</w>
+      <y>76</y>
+      <x>328</x>
+    </object>
+    <object>
+      <name>sideboard</name>
+      <h>157</h>
+      <object_id>2949096</object_id>
+      <w>170</w>
+      <y>119</y>
+      <x>329</x>
+    </object>
+    <object>
+      <name>baskets</name>
+      <h>72</h>
+      <object_id>2949095</object_id>
+      <w>114</w>
+      <y>63</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>cords</name>
+      <h>97</h>
+      <object_id>3038102</object_id>
+      <w>88</w>
+      <y>208</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>161</h>
+      <object_id>3038103</object_id>
+      <w>310</w>
+      <y>139</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>an image of a woman holding a cake </caption>
+      <caption>A woman wearing glasses poses behind her birthday cake. </caption>
+      <caption>A woman in glasses sitting behind a sheet cake.</caption>
+      <caption>A woman holding up a cake for her birthday</caption>
+      <caption>A woman in glasses holding up a cake with frosting.</caption>
+    </captions>
+</image>

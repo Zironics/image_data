@@ -1,0 +1,91 @@
+<image>
+  <image-id>2346505</image-id>
+  <coco-id>153105</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4426518</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3909928</subject>
+      <object>3616831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4426519</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3909929</subject>
+      <object>3616831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3850970</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3616830</subject>
+      <object>3616831</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3850971</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2523728</subject>
+      <object>2523729</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird feathers</name>
+      <h>20</h>
+      <object_id>3909928</object_id>
+      <w>28</w>
+      <y>324</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>statue</name>
+      <h>314</h>
+      <object_id>3616831</object_id>
+      <w>263</w>
+      <y>179</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>bird feathers</name>
+      <h>19</h>
+      <object_id>3909929</object_id>
+      <w>19</w>
+      <y>333</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>32</h>
+      <object_id>3616830</object_id>
+      <w>59</w>
+      <y>465</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>roman numeral</name>
+      <h>17</h>
+      <object_id>2523728</object_id>
+      <w>17</w>
+      <y>264</y>
+      <x>140</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>ornate</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>94</h>
+      <object_id>2523729</object_id>
+      <w>97</w>
+      <y>226</y>
+      <x>136</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large ornate structure is shown in this photo.</caption>
+      <caption>A wooden clock with intricate carving is shown outdoors.</caption>
+      <caption>an outdoor shot of a clock on a building</caption>
+      <caption>A sand colored building with a clock built into it.</caption>
+      <caption>A clock tower is standing in the middle of the photo.</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2315844</image-id>
+  <coco-id>467394</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3867678</relationship_id>
+      <predicate>with</predicate>
+      <subject>3106731</subject>
+      <object>3106734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867679</relationship_id>
+      <predicate>with</predicate>
+      <subject>3106732</subject>
+      <object>3106733</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>monster</name>
+      <h>239</h>
+      <object_id>3106731</object_id>
+      <w>178</w>
+      <y>3</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>58</h>
+      <object_id>3106734</object_id>
+      <w>72</w>
+      <y>185</y>
+      <x>15</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>monster</name>
+      <h>267</h>
+      <object_id>3106732</object_id>
+      <w>167</w>
+      <y>0</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>75</h>
+      <object_id>3106733</object_id>
+      <w>70</w>
+      <y>191</y>
+      <x>333</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of stuffed animals suspended from a ceiling.</caption>
+      <caption>A brown teddy bear and two stuffed monkeys.</caption>
+      <caption>A teddy bear sitting against a wall, next to other stuff animals.</caption>
+      <caption>A group of stuffed animals with teddy bears and frog with a pilot hat.</caption>
+      <caption>A group of stuffed animals, bears and frogs on display.</caption>
+    </captions>
+</image>

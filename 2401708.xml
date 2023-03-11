@@ -1,0 +1,77 @@
+<image>
+  <image-id>2401708</image-id>
+  <coco-id>74780</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3287525</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1145115</subject>
+      <object>1145116</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287531</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1145117</subject>
+      <object>1145118</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287567</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1145117</subject>
+      <object>1145118</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287571</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1145117</subject>
+      <object>1145118</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3287572</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1145117</subject>
+      <object>1145118</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1145115</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1145116</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1145117</object_id>
+      <w>52</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1145118</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A broccoli, carrot, and chicken concoction sits on a white plate.</caption>
+      <caption>A plate with stir fried vegetables sitting on a wooden table</caption>
+      <caption>A delicious looking salad on a tray ready to serve.</caption>
+      <caption>A plate of sauteed cauliflower, broccoli, zucchini and red bell pepper.  </caption>
+      <caption>There is a plate full of chicken, broccoli and carrots.</caption>
+    </captions>
+</image>

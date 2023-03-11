@@ -1,0 +1,223 @@
+<image>
+  <image-id>2400950</image-id>
+  <coco-id>254729</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>840495</relationship_id>
+      <predicate>has</predicate>
+      <subject>403938</subject>
+      <object>403940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840496</relationship_id>
+      <predicate>has</predicate>
+      <subject>403941</subject>
+      <object>403942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840497</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>403943</subject>
+      <object>403937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840498</relationship_id>
+      <predicate>flying above</predicate>
+      <subject>403941</subject>
+      <object>403938</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840499</relationship_id>
+      <predicate>ON</predicate>
+      <subject>403945</subject>
+      <object>403942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840500</relationship_id>
+      <predicate>IN</predicate>
+      <subject>403946</subject>
+      <object>403937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840501</relationship_id>
+      <predicate>has</predicate>
+      <subject>403938</subject>
+      <object>403940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840502</relationship_id>
+      <predicate>has</predicate>
+      <subject>403941</subject>
+      <object>403942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840503</relationship_id>
+      <predicate>IN</predicate>
+      <subject>403947</subject>
+      <object>403939</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840504</relationship_id>
+      <predicate>behind</predicate>
+      <subject>403948</subject>
+      <object>403938</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840505</relationship_id>
+      <predicate>has</predicate>
+      <subject>403941</subject>
+      <object>403945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>840506</relationship_id>
+      <predicate>has</predicate>
+      <subject>403938</subject>
+      <object>403949</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>snow covered</attribute>
+        <attribute>snowy</attribute>
+        <attribute>overhead view</attribute>
+        <attribute>range</attribute>
+        <attribute>snow capped</attribute>
+      </attributes>
+      <name>mountain</name>
+      <h>216</h>
+      <object_id>403938</object_id>
+      <w>353</w>
+      <y>266</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>peak</name>
+      <h>61</h>
+      <object_id>403940</object_id>
+      <w>100</w>
+      <y>264</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>from plane</attribute>
+        <attribute>on the left</attribute>
+        <attribute>wing flap less</attribute>
+        <attribute>section</attribute>
+      </attributes>
+      <name>airplane wing</name>
+      <h>159</h>
+      <object_id>403941</object_id>
+      <w>214</w>
+      <y>90</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>curved</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>tip</name>
+      <h>99</h>
+      <object_id>403942</object_id>
+      <w>79</w>
+      <y>85</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>74</h>
+      <object_id>403943</object_id>
+      <w>108</w>
+      <y>426</y>
+      <x>263</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>for viewing</attribute>
+        <attribute>a frame</attribute>
+        <attribute>for looking outside</attribute>
+        <attribute>inside plane</attribute>
+        <attribute>large</attribute>
+        <attribute>frame</attribute>
+        <attribute>showing view</attribute>
+      </attributes>
+      <name>airplane window</name>
+      <h>498</h>
+      <object_id>403937</object_id>
+      <w>374</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>american airlines</attribute>
+      </attributes>
+      <name>aa.com</name>
+      <h>16</h>
+      <object_id>403945</object_id>
+      <w>33</w>
+      <y>157</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>reflection of window</name>
+      <h>138</h>
+      <object_id>403946</object_id>
+      <w>370</w>
+      <y>342</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>horizon</name>
+      <h>30</h>
+      <object_id>403947</object_id>
+      <w>373</w>
+      <y>236</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+        <attribute>cloudless</attribute>
+        <attribute>light grey</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>262</h>
+      <object_id>403939</object_id>
+      <w>374</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>38</h>
+      <object_id>403948</object_id>
+      <w>94</w>
+      <y>294</y>
+      <x>33</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>173</h>
+      <object_id>403949</object_id>
+      <w>355</w>
+      <y>269</y>
+      <x>19</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An angled airplane wing is seen over a snowy mountain range.</caption>
+      <caption>A picture of a plane in the air.</caption>
+      <caption>A snow-capped mountain seen from a plane window.</caption>
+      <caption>A view of a snowy mountain from an airplane.</caption>
+      <caption>A jetliner flying over a mountain covered in white fluffy snow.</caption>
+    </captions>
+</image>

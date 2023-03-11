@@ -1,0 +1,62 @@
+<image>
+  <image-id>2321519</image-id>
+  <coco-id>465267</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3753355</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3323424</subject>
+      <object>3323425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3787195</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3453221</subject>
+      <object>3453222</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cat</name>
+      <h>197</h>
+      <object_id>3323424</object_id>
+      <w>111</w>
+      <y>271</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>tv</name>
+      <h>151</h>
+      <object_id>3323425</object_id>
+      <w>227</w>
+      <y>105</y>
+      <x>47</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>speaker</name>
+      <h>27</h>
+      <object_id>3453221</object_id>
+      <w>55</w>
+      <y>72</y>
+      <x>134</x>
+    </object>
+    <object>
+      <name>t.v.</name>
+      <h>153</h>
+      <object_id>3453222</object_id>
+      <w>226</w>
+      <y>103</y>
+      <x>47</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is sitting in front of a tv looking at a similar cat on screen.</caption>
+      <caption>A cat watches a TV while a kitten is on the screen.</caption>
+      <caption>A cat watching a cat on the tv.</caption>
+      <caption>A cat watches its own image on a television set.</caption>
+      <caption>A cat is looking at a monitor with its reflection on it </caption>
+    </captions>
+</image>

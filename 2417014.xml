@@ -1,0 +1,59 @@
+<image>
+  <image-id>2417014</image-id>
+  <coco-id>439720</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3703632</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3452499</subject>
+      <object>3181950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703633</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3452497</subject>
+      <object>3452498</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>10</h>
+      <object_id>3452499</object_id>
+      <w>11</w>
+      <y>255</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>52</h>
+      <object_id>3181950</object_id>
+      <w>17</w>
+      <y>255</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>66</h>
+      <object_id>3452497</object_id>
+      <w>93</w>
+      <y>204</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>442</h>
+      <object_id>3452498</object_id>
+      <w>92</w>
+      <y>25</y>
+      <x>230</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Bright orange umbrella catching rain as it comes off the top of a light.</caption>
+      <caption>An umbrella around the corner in a subway </caption>
+      <caption>A bright orange umbrella near a white tiled wall.</caption>
+      <caption>A red umbrella pokes out around a corner in a train station.</caption>
+      <caption>There is a person holding a red umbrella in a train station</caption>
+    </captions>
+</image>

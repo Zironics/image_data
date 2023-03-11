@@ -1,0 +1,59 @@
+<image>
+  <image-id>1592017</image-id>
+  <coco-id>312344</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3836894</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1605807</subject>
+      <object>3610226</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3836895</relationship_id>
+      <predicate>walking down</predicate>
+      <subject>1605809</subject>
+      <object>3610227</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flag</name>
+      <h>184</h>
+      <object_id>1605807</object_id>
+      <w>43</w>
+      <y>375</y>
+      <x>921</x>
+    </object>
+    <object>
+      <name>lamp post</name>
+      <h>612</h>
+      <object_id>3610226</object_id>
+      <w>132</w>
+      <y>152</y>
+      <x>890</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>118</h>
+      <object_id>1605809</object_id>
+      <w>84</w>
+      <y>629</y>
+      <x>697</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>104</h>
+      <object_id>3610227</object_id>
+      <w>433</w>
+      <y>660</y>
+      <x>261</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stop sign and a bicycle sign stand in front of a street scene.</caption>
+      <caption>A yellow bike sign is immediately behind a stop sign.</caption>
+      <caption>Looking past street signs to pedestrians on a sunny city street</caption>
+      <caption>A Stop sign and other street sign on a road</caption>
+      <caption>A red stop sign on the side of the street.</caption>
+    </captions>
+</image>

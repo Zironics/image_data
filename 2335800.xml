@@ -1,0 +1,59 @@
+<image>
+  <image-id>2335800</image-id>
+  <coco-id>538243</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4450555</relationship_id>
+      <predicate>and</predicate>
+      <subject>2732721</subject>
+      <object>2732722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3976329</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2400555</subject>
+      <object>2400558</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>87</h>
+      <object_id>2732721</object_id>
+      <w>103</w>
+      <y>190</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>133</h>
+      <object_id>2732722</object_id>
+      <w>40</w>
+      <y>262</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>75</h>
+      <object_id>2400555</object_id>
+      <w>327</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>enclosure</name>
+      <h>374</h>
+      <object_id>2400558</object_id>
+      <w>491</w>
+      <y>8</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two giraffes standing on a dirt  platform in a stone enclosure.</caption>
+      <caption>Two giraffes on sandy area next to a rock wall.</caption>
+      <caption>Two giraffes in a rock enclosure at a zoo.</caption>
+      <caption>Two giraffes on a field with rocks surrounding it.</caption>
+      <caption>a couple of giraffes standing around by a big rock wall </caption>
+    </captions>
+</image>

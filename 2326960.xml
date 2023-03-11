@@ -1,0 +1,128 @@
+<image>
+  <image-id>2326960</image-id>
+  <coco-id>523357</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4549895</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3975769</subject>
+      <object>3975770</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4549896</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3975769</subject>
+      <object>3975771</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4549897</relationship_id>
+      <predicate>with</predicate>
+      <subject>3975773</subject>
+      <object>3975769</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4549900</relationship_id>
+      <predicate>carrying a</predicate>
+      <subject>3975769</subject>
+      <object>3975793</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4549901</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>3975769</subject>
+      <object>3975791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4549902</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3975769</subject>
+      <object>3975793</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4549904</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3975794</subject>
+      <object>3975795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4549903</relationship_id>
+      <predicate>riding in</predicate>
+      <subject>3975773</subject>
+      <object>3975794</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>193</h>
+      <object_id>3975769</object_id>
+      <w>162</w>
+      <y>136</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>256</h>
+      <object_id>3975770</object_id>
+      <w>276</w>
+      <y>193</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>230</h>
+      <object_id>3975771</object_id>
+      <w>276</w>
+      <y>209</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>87</h>
+      <object_id>3975773</object_id>
+      <w>61</w>
+      <y>273</y>
+      <x>58</x>
+    </object>
+    <object>
+      <h>57</h>
+      <object_id>3975793</object_id>
+      <w>95</w>
+      <y>139</y>
+      <x>123</x>
+      <name>backpack</name>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>220</h>
+      <object_id>3975791</object_id>
+      <w>278</w>
+      <y>229</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>sidecar</name>
+      <h>174</h>
+      <object_id>3975794</object_id>
+      <w>173</w>
+      <y>231</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>224</h>
+      <object_id>3975795</object_id>
+      <w>202</w>
+      <y>229</y>
+      <x>81</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man rides with bike down the street with a dog in side cart.</caption>
+      <caption> A man riding his bike with his dog in the side kick seat
+</caption>
+      <caption>A man riding a bike with a dog carrier attached to the side.</caption>
+      <caption>A man riding a bicycle with his dog in a passenger attachment.</caption>
+      <caption>A man riding a bicycle with a side car with a small dog sitting in it .</caption>
+    </captions>
+</image>

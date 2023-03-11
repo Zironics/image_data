@@ -1,0 +1,43 @@
+<image>
+  <image-id>2368393</image-id>
+  <coco-id>401286</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4348725</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1805804</subject>
+      <object>1805805</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>32</h>
+      <object_id>1805804</object_id>
+      <w>37</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>42</h>
+      <object_id>1805805</object_id>
+      <w>492</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on a surfboard is riding a wave.</caption>
+      <caption>A man is taking a small wave on his surfboard.</caption>
+      <caption>The surfboard rider seems to be wiping out.</caption>
+      <caption>A person surfing in the ocean is catching some air.</caption>
+      <caption>A person that is riding a wave in the water.</caption>
+    </captions>
+</image>

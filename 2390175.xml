@@ -1,0 +1,77 @@
+<image>
+  <image-id>2390175</image-id>
+  <coco-id>503212</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1169297</relationship_id>
+      <predicate>behind</predicate>
+      <subject>499786</subject>
+      <object>499787</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1169298</relationship_id>
+      <predicate>OF</predicate>
+      <subject>499787</subject>
+      <object>499784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1169299</relationship_id>
+      <predicate>with</predicate>
+      <subject>499784</subject>
+      <object>499788</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>water</name>
+      <h>44</h>
+      <object_id>499786</object_id>
+      <w>105</w>
+      <y>159</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>flock</name>
+      <h>114</h>
+      <object_id>499787</object_id>
+      <w>470</w>
+      <y>178</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stretching</attribute>
+        <attribute>sleeping</attribute>
+        <attribute>white</attribute>
+        <attribute>touching</attribute>
+        <attribute>mating</attribute>
+        <attribute>north</attribute>
+        <attribute>large</attribute>
+        <attribute>lots</attribute>
+        <attribute>gray</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>146</h>
+      <object_id>499784</object_id>
+      <w>126</w>
+      <y>123</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>61</h>
+      <object_id>499788</object_id>
+      <w>102</w>
+      <y>110</y>
+      <x>216</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a number of birds close to one another</caption>
+      <caption>The huge flock of birds are all standing close together.</caption>
+      <caption>Flock of birds all sitting on the ground.</caption>
+      <caption>A flock of birds sitting next to each other.</caption>
+      <caption>A flock of birds communicate with each other.</caption>
+    </captions>
+</image>

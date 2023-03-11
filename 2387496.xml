@@ -1,0 +1,205 @@
+<image>
+  <image-id>2387496</image-id>
+  <coco-id>158922</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1224318</relationship_id>
+      <predicate>holding</predicate>
+      <subject>512935</subject>
+      <object>512934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224319</relationship_id>
+      <predicate>next to a</predicate>
+      <subject>512936</subject>
+      <object>512937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224320</relationship_id>
+      <predicate>IN</predicate>
+      <subject>512941</subject>
+      <object>512942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224321</relationship_id>
+      <predicate>has a</predicate>
+      <subject>512935</subject>
+      <object>512934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224322</relationship_id>
+      <predicate>has on</predicate>
+      <subject>512935</subject>
+      <object>512944</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224323</relationship_id>
+      <predicate>has a</predicate>
+      <subject>512934</subject>
+      <object>512945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224324</relationship_id>
+      <predicate>has on</predicate>
+      <subject>512935</subject>
+      <object>512949</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224326</relationship_id>
+      <predicate>has on</predicate>
+      <subject>512935</subject>
+      <object>512950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224327</relationship_id>
+      <predicate>has on a</predicate>
+      <subject>512935</subject>
+      <object>512953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224328</relationship_id>
+      <predicate>has on a</predicate>
+      <subject>512935</subject>
+      <object>512955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224329</relationship_id>
+      <predicate>holding</predicate>
+      <subject>512935</subject>
+      <object>512934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224330</relationship_id>
+      <predicate>has on</predicate>
+      <subject>512935</subject>
+      <object>512944</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1224331</relationship_id>
+      <predicate>has a</predicate>
+      <subject>512935</subject>
+      <object>512934</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>317</h>
+      <object_id>512935</object_id>
+      <w>124</w>
+      <y>2</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>kite</attribute>
+        <attribute>tri-colored</attribute>
+        <attribute>red</attribute>
+        <attribute>large</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>292</h>
+      <object_id>512934</object_id>
+      <w>362</w>
+      <y>58</y>
+      <x>113</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>44</h>
+      <object_id>512936</object_id>
+      <w>16</w>
+      <y>21</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>tent</name>
+      <h>35</h>
+      <object_id>512937</object_id>
+      <w>41</w>
+      <y>32</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>bounce house</name>
+      <h>23</h>
+      <object_id>512941</object_id>
+      <w>24</w>
+      <y>38</y>
+      <x>475</x>
+    </object>
+    <object>
+      <name>distance</name>
+      <h>59</h>
+      <object_id>512942</object_id>
+      <w>495</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>flip flops</name>
+      <h>22</h>
+      <object_id>512944</object_id>
+      <w>25</w>
+      <y>296</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>string</name>
+      <h>41</h>
+      <object_id>512945</object_id>
+      <w>36</w>
+      <y>30</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>jeans</name>
+      <h>73</h>
+      <object_id>512949</object_id>
+      <w>65</w>
+      <y>232</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>sandles</name>
+      <h>21</h>
+      <object_id>512950</object_id>
+      <w>21</w>
+      <y>300</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>necklace</name>
+      <h>17</h>
+      <object_id>512953</object_id>
+      <w>24</w>
+      <y>10</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>38</h>
+      <object_id>512955</object_id>
+      <w>40</w>
+      <y>43</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman holding a colorful kite on top of a green field.</caption>
+      <caption>A colorful kite is ready for launch on a blue sky day</caption>
+      <caption>A girl is holding a large kite on a grassy field.</caption>
+      <caption>a lady holding a kite and walking in a grassy area</caption>
+      <caption>A woman standing on grass holding a colorful kite.</caption>
+    </captions>
+</image>

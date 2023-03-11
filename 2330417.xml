@@ -1,0 +1,81 @@
+<image>
+  <image-id>2330417</image-id>
+  <coco-id>336314</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4827291</relationship_id>
+      <predicate>of</predicate>
+      <subject>4665294</subject>
+      <object>4665295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827292</relationship_id>
+      <predicate>of</predicate>
+      <subject>4665296</subject>
+      <object>4665297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827293</relationship_id>
+      <predicate />
+      <subject>4665300</subject>
+      <object>4665301</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glass</name>
+      <h>359</h>
+      <object_id>4665294</object_id>
+      <w>241</w>
+      <y>6</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>wine</name>
+      <h>101</h>
+      <object_id>4665295</object_id>
+      <w>171</w>
+      <y>189</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>370</h>
+      <object_id>4665296</object_id>
+      <w>176</w>
+      <y>1</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>wine</name>
+      <h>97</h>
+      <object_id>4665297</object_id>
+      <w>141</w>
+      <y>269</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>scene</name>
+      <h>365</h>
+      <object_id>4665300</object_id>
+      <w>482</w>
+      <y>4</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>inside</name>
+      <h>213</h>
+      <object_id>4665301</object_id>
+      <w>467</w>
+      <y>8</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bottle of wine next to a glass.</caption>
+      <caption>A bottle of wine placed beside a partially empty wine glass.</caption>
+      <caption>A bottle of wine and a glass sit on a counter.</caption>
+      <caption>a bottle and a glass is sitting on a brown table</caption>
+      <caption>An almost empty glass of Sleeping Giant wine </caption>
+    </captions>
+</image>

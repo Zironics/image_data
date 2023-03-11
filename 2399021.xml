@@ -1,0 +1,138 @@
+<image>
+  <image-id>2399021</image-id>
+  <coco-id>413779</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1734081</relationship_id>
+      <predicate>made of</predicate>
+      <subject>662090</subject>
+      <object>662091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1734082</relationship_id>
+      <predicate>part of a</predicate>
+      <subject>662094</subject>
+      <object>662100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1734083</relationship_id>
+      <predicate>next to</predicate>
+      <subject>662085</subject>
+      <object>662094</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1734084</relationship_id>
+      <predicate>IN</predicate>
+      <subject>662086</subject>
+      <object>662099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1734085</relationship_id>
+      <predicate>has a</predicate>
+      <subject>662100</subject>
+      <object>662101</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1734086</relationship_id>
+      <predicate>on a</predicate>
+      <subject>662094</subject>
+      <object>662104</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sidewalk</name>
+      <h>120</h>
+      <object_id>662090</object_id>
+      <w>226</w>
+      <y>203</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>brick</name>
+      <h>123</h>
+      <object_id>662091</object_id>
+      <w>228</w>
+      <y>201</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stopped</attribute>
+        <attribute>grey</attribute>
+        <attribute>standing</attribute>
+        <attribute>metal</attribute>
+        <attribute>train</attribute>
+      </attributes>
+      <name>train</name>
+      <h>183</h>
+      <object_id>662094</object_id>
+      <w>145</w>
+      <y>20</y>
+      <x>13</x>
+    </object>
+    <object>
+      <h>84</h>
+      <object_id>662100</object_id>
+      <w>75</w>
+      <y>115</y>
+      <x>140</x>
+      <name>building</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>path</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <name>path</name>
+      <h>120</h>
+      <object_id>662085</object_id>
+      <w>227</w>
+      <y>203</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tree</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>23</h>
+      <object_id>662086</object_id>
+      <w>29</w>
+      <y>161</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>82</h>
+      <object_id>662099</object_id>
+      <w>87</w>
+      <y>121</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>36</h>
+      <object_id>662101</object_id>
+      <w>15</w>
+      <y>157</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>42</h>
+      <object_id>662104</object_id>
+      <w>166</w>
+      <y>199</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A old train station with trains on the tracks.</caption>
+      <caption>This picture looks like a old time picture.</caption>
+      <caption>Trains stopped along a side walk near a building.</caption>
+      <caption>Two trains on tracks with a flat platform area between the tracks.</caption>
+      <caption>a red and black train sitting at a museum empty</caption>
+    </captions>
+</image>

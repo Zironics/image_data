@@ -1,0 +1,123 @@
+<image>
+  <image-id>2401439</image-id>
+  <coco-id>115378</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3291654</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1147837</subject>
+      <object>3817309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3291655</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1147841</subject>
+      <object>3817309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285235</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3817308</subject>
+      <object>3817310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285236</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3817310</subject>
+      <object>3817309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3291656</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3817309</subject>
+      <object>1147845</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3291657</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3817309</subject>
+      <object>1147845</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>50</h>
+      <object_id>1147837</object_id>
+      <w>45</w>
+      <y>11</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>inside</attribute>
+        <attribute>still</attribute>
+        <attribute>light</attribute>
+        <attribute>sitting</attribute>
+        <attribute>grey</attribute>
+        <attribute>staring</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>365</h>
+      <object_id>3817309</object_id>
+      <w>264</w>
+      <y>8</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>20</h>
+      <object_id>1147841</object_id>
+      <w>29</w>
+      <y>85</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>37</h>
+      <object_id>3817308</object_id>
+      <w>24</w>
+      <y>17</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>47</h>
+      <object_id>3817310</object_id>
+      <w>45</w>
+      <y>10</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>353</h>
+      <object_id>1147845</object_id>
+      <w>497</w>
+      <y>20</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of cats sitting on top of a bed together.</caption>
+      <caption>Two cats sitting in a quilt on a bed.</caption>
+      <caption>Two cats lay on a quilted bed spread</caption>
+      <caption>a close up of two cats near one another on a bed</caption>
+      <caption>Two cats of different colors sitting on a  bedspread.</caption>
+    </captions>
+</image>

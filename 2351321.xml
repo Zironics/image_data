@@ -1,0 +1,79 @@
+<image>
+  <image-id>2351321</image-id>
+  <coco-id>9039</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3788793</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1766341</subject>
+      <object>1766342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3788794</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1766343</subject>
+      <object>1766342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3788795</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1766344</subject>
+      <object>1766342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3788796</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1766345</subject>
+      <object>1766342</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plane</name>
+      <h>80</h>
+      <object_id>1766341</object_id>
+      <w>255</w>
+      <y>160</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>desert</name>
+      <h>50</h>
+      <object_id>1766342</object_id>
+      <w>495</w>
+      <y>228</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>71</h>
+      <object_id>1766343</object_id>
+      <w>43</w>
+      <y>163</y>
+      <x>322</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>57</h>
+      <object_id>1766344</object_id>
+      <w>42</w>
+      <y>170</y>
+      <x>376</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>55</h>
+      <object_id>1766345</object_id>
+      <w>42</w>
+      <y>172</y>
+      <x>404</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A line of airplanes sitting on a dirt field in the desert.</caption>
+      <caption>A group of planes on a dirt field.</caption>
+      <caption>Group of airplanes parked next to each other in an open field. </caption>
+      <caption>A row of parked jetliners sitting on top of a dirt field.</caption>
+      <caption>A bunch of planes are waiting on the runway to takeoff.</caption>
+    </captions>
+</image>

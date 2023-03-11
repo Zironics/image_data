@@ -1,0 +1,126 @@
+<image>
+  <image-id>2317043</image-id>
+  <coco-id>447089</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4130849</relationship_id>
+      <predicate>wrapped in</predicate>
+      <subject>3254525</subject>
+      <object>3254526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4059262</relationship_id>
+      <predicate>chained to a</predicate>
+      <subject>2895927</subject>
+      <object>2895928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4130897</relationship_id>
+      <predicate>holding up</predicate>
+      <subject>3303509</subject>
+      <object>2703939</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3849354</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3303510</subject>
+      <object>3303509</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4131028</relationship_id>
+      <predicate>on</predicate>
+      <subject>3200177</subject>
+      <object>3200178</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>169</h>
+      <object_id>3254525</object_id>
+      <w>62</w>
+      <y>151</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plaid </attribute>
+      </attributes>
+      <name>shawl</name>
+      <h>69</h>
+      <object_id>3254526</object_id>
+      <w>60</w>
+      <y>173</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>89</h>
+      <object_id>2895927</object_id>
+      <w>78</w>
+      <y>210</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>305</h>
+      <object_id>2895928</object_id>
+      <w>43</w>
+      <y>0</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>220</h>
+      <object_id>3303509</object_id>
+      <w>100</w>
+      <y>112</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>up</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>12</h>
+      <object_id>2703939</object_id>
+      <w>17</w>
+      <y>114</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>104</h>
+      <object_id>3303510</object_id>
+      <w>55</w>
+      <y>228</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>67</h>
+      <object_id>3200177</object_id>
+      <w>36</w>
+      <y>35</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>190</h>
+      <object_id>3200178</object_id>
+      <w>39</w>
+      <y>108</y>
+      <x>58</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing next to a traffic signal on a street corner.</caption>
+      <caption>A woman is standing on the corner in protest.</caption>
+      <caption>A cityscape with several people holding signs protesting for a cause. </caption>
+      <caption>A street view of a protest and a woman with her fist raised. </caption>
+      <caption>A group of protestors holding signs on a side walk.</caption>
+    </captions>
+</image>

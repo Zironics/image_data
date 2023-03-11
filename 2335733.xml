@@ -1,0 +1,65 @@
+<image>
+  <image-id>2335733</image-id>
+  <coco-id>410924</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3977226</relationship_id>
+      <predicate>with</predicate>
+      <subject>3175003</subject>
+      <object>3175004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3977227</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2469803</subject>
+      <object>3667231</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>200</h>
+      <object_id>3175003</object_id>
+      <w>387</w>
+      <y>172</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>utensils</name>
+      <h>335</h>
+      <object_id>3175004</object_id>
+      <w>470</w>
+      <y>12</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>288</h>
+      <object_id>2469803</object_id>
+      <w>497</w>
+      <y>7</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>48</h>
+      <object_id>3667231</object_id>
+      <w>372</w>
+      <y>303</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red container filled with office supplies on top of a table.</caption>
+      <caption>The container sits on a counter in the office of an orthopaedic doctor who tests for patients' reflexes.</caption>
+      <caption>Various items sit inside the cup on the desk.</caption>
+      <caption>There are scissors and other tools in a container.</caption>
+      <caption>Scissors resting in a cup with markers and other tools</caption>
+    </captions>
+</image>

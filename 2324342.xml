@@ -1,0 +1,73 @@
+<image>
+  <image-id>2324342</image-id>
+  <coco-id>186816</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4525544</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3459073</subject>
+      <object>3137132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4525545</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3137133</subject>
+      <object>3137134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4525546</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3459073</subject>
+      <object>3459074</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>370</h>
+      <object_id>3459073</object_id>
+      <w>226</w>
+      <y>11</y>
+      <x>48</x>
+      <name>men</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>77</h>
+      <object_id>3137132</object_id>
+      <w>37</w>
+      <y>134</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>player</name>
+      <h>354</h>
+      <object_id>3137133</object_id>
+      <w>191</w>
+      <y>21</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>67</h>
+      <object_id>3137134</object_id>
+      <w>30</w>
+      <y>138</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>socks</name>
+      <h>65</h>
+      <object_id>3459074</object_id>
+      <w>198</w>
+      <y>271</y>
+      <x>82</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two professional male tennis players sitting court-side and drinking water</caption>
+      <caption>two male sitting at the chair getting ready to play tennis</caption>
+      <caption>Two men sitting next to each other holding racquets.</caption>
+      <caption>Two tennis players sitting near the court drinking water</caption>
+      <caption>Two tennis players sit drinking bottles of water as they rest.</caption>
+    </captions>
+</image>

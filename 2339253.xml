@@ -1,0 +1,95 @@
+<image>
+  <image-id>2339253</image-id>
+  <coco-id>371256</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4050456</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2295060</subject>
+      <object>2112901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4050457</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3696974</subject>
+      <object>2421585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4050459</relationship_id>
+      <predicate>with balding spot</predicate>
+      <subject>3696976</subject>
+      <object>3696977</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4050461</relationship_id>
+      <predicate>eating its</predicate>
+      <subject>2112901</subject>
+      <object>2112902</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mouth</name>
+      <h>75</h>
+      <object_id>2295060</object_id>
+      <w>101</w>
+      <y>117</y>
+      <x>180</x>
+    </object>
+    <object>
+      <h>279</h>
+      <object_id>2112901</object_id>
+      <w>275</w>
+      <y>60</y>
+      <x>0</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>feather</name>
+      <h>150</h>
+      <object_id>3696974</object_id>
+      <w>90</w>
+      <y>183</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>parrot</name>
+      <h>319</h>
+      <object_id>2421585</object_id>
+      <w>257</w>
+      <y>18</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>164</h>
+      <object_id>3696976</object_id>
+      <w>210</w>
+      <y>173</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>hair</name>
+      <h>42</h>
+      <object_id>3696977</object_id>
+      <w>66</w>
+      <y>266</y>
+      <x>347</x>
+    </object>
+    <object>
+      <name>feet</name>
+      <h>111</h>
+      <object_id>2112902</object_id>
+      <w>57</w>
+      <y>165</y>
+      <x>207</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dark blue parrot holding a gray lizard in its mouth.</caption>
+      <caption> a close up of a bird with its talon in its beak</caption>
+      <caption>Blue parrot touches its black beak with its claw.</caption>
+      <caption>A blue parrot has it's foot near it's beak.</caption>
+      <caption>Blue Macaw parrot scratching beak next to bald man</caption>
+    </captions>
+</image>

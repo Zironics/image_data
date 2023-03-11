@@ -1,0 +1,107 @@
+<image>
+  <image-id>2331923</image-id>
+  <coco-id>273586</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3938755</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2806239</subject>
+      <object>2806240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4002368</relationship_id>
+      <predicate>with</predicate>
+      <subject>2806239</subject>
+      <object>3088158</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4002369</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2806239</subject>
+      <object>2896579</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860199</relationship_id>
+      <predicate>with</predicate>
+      <subject>3471667</subject>
+      <object>3620928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4002370</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3471667</subject>
+      <object>2994229</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>35</h>
+      <object_id>2806239</object_id>
+      <w>84</w>
+      <y>210</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>331</h>
+      <object_id>2806240</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>blackhair</name>
+      <h>16</h>
+      <object_id>3088158</object_id>
+      <w>15</w>
+      <y>210</y>
+      <x>220</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>20</h>
+      <object_id>2896579</object_id>
+      <w>42</w>
+      <y>219</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>98</h>
+      <object_id>3471667</object_id>
+      <w>88</w>
+      <y>102</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>hair</name>
+      <h>13</h>
+      <object_id>3620928</object_id>
+      <w>15</w>
+      <y>110</y>
+      <x>250</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>37</h>
+      <object_id>2994229</object_id>
+      <w>115</w>
+      <y>173</y>
+      <x>196</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three surfers take their positions to ride an ocean wave.</caption>
+      <caption>one surfer on a surfboard and two people in the water</caption>
+      <caption>A man standing on a surf board riding a wave of crystal blue water.</caption>
+      <caption>a shirtless male is surfing on a white board</caption>
+      <caption>The man is riding the waves on the water.</caption>
+    </captions>
+</image>

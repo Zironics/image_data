@@ -1,0 +1,90 @@
+<image>
+  <image-id>2334479</image-id>
+  <coco-id>355594</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4001020</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2908968</subject>
+      <object>3677212</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001023</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3269976</subject>
+      <object>3677216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001024</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3213795</subject>
+      <object>3213796</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001025</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3269976</subject>
+      <object>3269976</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ring</name>
+      <h>15</h>
+      <object_id>2908968</object_id>
+      <w>7</w>
+      <y>311</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>finger</name>
+      <h>37</h>
+      <object_id>3677212</object_id>
+      <w>28</w>
+      <y>292</y>
+      <x>240</x>
+    </object>
+    <object>
+      <h>26</h>
+      <object_id>3269976</object_id>
+      <w>41</w>
+      <y>302</y>
+      <x>269</x>
+      <name>cord/game controller</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>98</h>
+      <object_id>3677216</object_id>
+      <w>96</w>
+      <y>256</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>157</h>
+      <object_id>3213795</object_id>
+      <w>152</w>
+      <y>174</y>
+      <x>131</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>body</attribute>
+      </attributes>
+      <h>291</h>
+      <object_id>3213796</object_id>
+      <w>176</w>
+      <y>82</y>
+      <x>131</x>
+      <name>female</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing behind a woman using a Nintendo Wii controller.</caption>
+      <caption>a person in a striped sweater holding a nintendo wii remote</caption>
+      <caption>A woman in a room playing a video game</caption>
+      <caption>A man and a woman playing a video game.</caption>
+      <caption>Woman in colorful striped sweater in front of man.</caption>
+    </captions>
+</image>

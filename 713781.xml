@@ -1,0 +1,99 @@
+<image>
+  <image-id>713781</image-id>
+  <coco-id>334125</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4582837</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4054765</subject>
+      <object>4054768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4582838</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4054767</subject>
+      <object>4054768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4790686</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4575495</subject>
+      <object>4575496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4790688</relationship_id>
+      <predicate>on</predicate>
+      <subject>4575507</subject>
+      <object>4054768</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>wallet</name>
+      <h>119</h>
+      <object_id>4054765</object_id>
+      <w>201</w>
+      <y>525</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>647</h>
+      <object_id>4054768</object_id>
+      <w>1012</w>
+      <y>4</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>wallet</name>
+      <h>137</h>
+      <object_id>4054767</object_id>
+      <w>160</w>
+      <y>324</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>folding knife</name>
+      <h>48</h>
+      <object_id>4575495</object_id>
+      <w>102</w>
+      <y>541</y>
+      <x>788</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>backpack</name>
+      <h>625</h>
+      <object_id>4575496</object_id>
+      <w>526</w>
+      <y>19</y>
+      <x>289</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>set</attribute>
+      </attributes>
+      <name>pictures</name>
+      <h>132</h>
+      <object_id>4575507</object_id>
+      <w>78</w>
+      <y>390</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The contents of a backpack displayed next to the backpack.</caption>
+      <caption>A backpack with its contents neatly laid out on a table.</caption>
+      <caption>School supplies are arranged neatly on a counter.</caption>
+      <caption>Brown backpack with school supplies laid out next to it. </caption>
+      <caption>A backpack with its contents neatly arranged around it.</caption>
+    </captions>
+</image>

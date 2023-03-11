@@ -1,0 +1,95 @@
+<image>
+  <image-id>2339087</image-id>
+  <coco-id>252054</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4563034</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4006915</subject>
+      <object>4006914</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4686108</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4312012</subject>
+      <object>4312013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4686111</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4312019</subject>
+      <object>4312020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4686115</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4312012</subject>
+      <object>4312027</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cars</name>
+      <h>160</h>
+      <object_id>4006915</object_id>
+      <w>330</w>
+      <y>20</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>parking lot</name>
+      <h>190</h>
+      <object_id>4006914</object_id>
+      <w>419</w>
+      <y>0</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>88</h>
+      <object_id>4312012</object_id>
+      <w>121</w>
+      <y>329</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>182</h>
+      <object_id>4312013</object_id>
+      <w>500</w>
+      <y>314</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>crumbs</name>
+      <h>115</h>
+      <object_id>4312019</object_id>
+      <w>204</w>
+      <y>369</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>paper</name>
+      <h>170</h>
+      <object_id>4312020</object_id>
+      <w>315</w>
+      <y>328</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>80</h>
+      <object_id>4312027</object_id>
+      <w>119</w>
+      <y>332</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young girl is smiling with a doughnut in front of her.</caption>
+      <caption>The girl is making a funny face as she gets ready to eat her treat.</caption>
+      <caption>A little girl sitting at a table eating a donut. </caption>
+      <caption>A young girl looks angry sitting in front of a table.</caption>
+      <caption>a small girl in a yellow shirt and a donut</caption>
+    </captions>
+</image>

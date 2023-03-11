@@ -1,0 +1,92 @@
+<image>
+  <image-id>2390551</image-id>
+  <coco-id>62927</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3459227</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1249273</subject>
+      <object>1249274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3459228</relationship_id>
+      <predicate>has</predicate>
+      <subject>1249282</subject>
+      <object>1249283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3459229</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1249284</subject>
+      <object>1249262</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>door</name>
+      <h>21</h>
+      <object_id>1249273</object_id>
+      <w>33</w>
+      <y>125</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>74</h>
+      <object_id>1249274</object_id>
+      <w>183</w>
+      <y>114</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>54</h>
+      <object_id>1249282</object_id>
+      <w>74</w>
+      <y>177</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>beak</name>
+      <h>33</h>
+      <object_id>1249283</object_id>
+      <w>45</w>
+      <y>223</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>wings</name>
+      <h>39</h>
+      <object_id>1249284</object_id>
+      <w>65</w>
+      <y>242</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>standing</attribute>
+        <attribute>grey</attribute>
+        <attribute>yelow</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>seagall</name>
+      <h>164</h>
+      <object_id>1249262</object_id>
+      <w>131</w>
+      <y>191</y>
+      <x>131</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird sitting on top of a tank on a boat.</caption>
+      <caption>A bird sits atop a post near a boat dock with large boats in the background</caption>
+      <caption>a small white seagull is sitting on a dock </caption>
+      <caption>A sea gull sitting on a pillar by a large body of water</caption>
+      <caption>Seagull on a post with the ocean in the background.</caption>
+    </captions>
+</image>

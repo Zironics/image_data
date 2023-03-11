@@ -1,0 +1,87 @@
+<image>
+  <image-id>2416800</image-id>
+  <coco-id>45292</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4670823</relationship_id>
+      <predicate>leaning on a</predicate>
+      <subject>4271935</subject>
+      <object>4271936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4670824</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4271937</subject>
+      <object>4271938</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4670826</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4271943</subject>
+      <object>4271944</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flight attendant</name>
+      <h>114</h>
+      <object_id>4271935</object_id>
+      <w>132</w>
+      <y>74</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>292</h>
+      <object_id>4271936</object_id>
+      <w>118</w>
+      <y>79</y>
+      <x>270</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>54</h>
+      <object_id>4271937</object_id>
+      <w>130</w>
+      <y>65</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>289</h>
+      <object_id>4271938</object_id>
+      <w>180</w>
+      <y>22</y>
+      <x>305</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>arrow</name>
+      <h>29</h>
+      <object_id>4271943</object_id>
+      <w>27</w>
+      <y>66</y>
+      <x>396</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>60</h>
+      <object_id>4271944</object_id>
+      <w>110</w>
+      <y>57</y>
+      <x>322</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A flight attendant looks through her papers as she stands in the aisleway</caption>
+      <caption>A woman standing at the entrance to a bathroom.</caption>
+      <caption>A person reading instructions in the interior of a plane.</caption>
+      <caption>A woman reading a book in a airplane hallway.</caption>
+      <caption>A man is looking at papers on a an airplane.</caption>
+    </captions>
+</image>

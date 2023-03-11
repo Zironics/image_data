@@ -1,0 +1,52 @@
+<image>
+  <image-id>2414005</image-id>
+  <coco-id>36006</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>155441</relationship_id>
+      <predicate>seated on</predicate>
+      <subject>161625</subject>
+      <object>161626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>155442</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>161625</subject>
+      <object>161626</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>seated</attribute>
+        <attribute>alone</attribute>
+        <attribute>young</attribute>
+        <attribute>sitting</attribute>
+        <attribute>sitting down</attribute>
+        <attribute>taking a break</attribute>
+        <attribute>reading</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>152</h>
+      <object_id>161625</object_id>
+      <w>77</w>
+      <y>132</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>129</h>
+      <object_id>161626</object_id>
+      <w>58</w>
+      <y>190</y>
+      <x>142</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young lady is sitting by herself, outside of a building, checking out her phone. </caption>
+      <caption>A woman sits on a bench near a brick courtyard.</caption>
+      <caption>a person sitting on a ledge outside of a building</caption>
+      <caption>A woman sitting outside of a building next to a brick walkway</caption>
+      <caption>A woman sitting on a wall on her cell phone at night.</caption>
+    </captions>
+</image>

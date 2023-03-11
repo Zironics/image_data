@@ -1,0 +1,127 @@
+<image>
+  <image-id>2381970</image-id>
+  <coco-id>340015</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1860563</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>700468</subject>
+      <object>700467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1860564</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>700473</subject>
+      <object>700471</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1860565</relationship_id>
+      <predicate>has</predicate>
+      <subject>700467</subject>
+      <object>700476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1860566</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>700473</subject>
+      <object>700467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1860567</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>700478</subject>
+      <object>700467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1860568</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>700476</subject>
+      <object>700467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1860569</relationship_id>
+      <predicate>embedded in</predicate>
+      <subject>700477</subject>
+      <object>700467</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+      </attributes>
+      <name>tomato</name>
+      <h>76</h>
+      <object_id>700468</object_id>
+      <w>86</w>
+      <y>123</y>
+      <x>206</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+        <attribute>pepperoni</attribute>
+        <attribute>delicious</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>374</h>
+      <object_id>700467</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>burn mark</name>
+      <h>38</h>
+      <object_id>700473</object_id>
+      <w>27</w>
+      <y>87</y>
+      <x>473</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>well done</attribute>
+      </attributes>
+      <name>crust</name>
+      <h>117</h>
+      <object_id>700471</object_id>
+      <w>132</w>
+      <y>8</y>
+      <x>367</x>
+    </object>
+    <object>
+      <name>sausage</name>
+      <h>34</h>
+      <object_id>700476</object_id>
+      <w>43</w>
+      <y>47</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>onion</name>
+      <h>50</h>
+      <object_id>700478</object_id>
+      <w>112</w>
+      <y>105</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+      </attributes>
+      <name>mushroom</name>
+      <h>40</h>
+      <object_id>700477</object_id>
+      <w>45</w>
+      <y>199</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A large pizza with meatballs and tomatoes on top of it.</caption>
+      <caption>A pizza with sausage tomato green peppers and cheese.</caption>
+      <caption>A pizza is covered with olives sausages and tomato.</caption>
+      <caption>Full pizza with tomatoes, mushrooms, sausage, pepperoni, and peppers.</caption>
+      <caption>A pizza with ingredients that include tomatoes and meatballs.</caption>
+    </captions>
+</image>

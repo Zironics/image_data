@@ -1,0 +1,49 @@
+<image>
+  <image-id>2409919</image-id>
+  <coco-id>2555</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1695934</relationship_id>
+      <predicate>ON</predicate>
+      <subject>648221</subject>
+      <object>648222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1695935</relationship_id>
+      <predicate>riding</predicate>
+      <subject>648221</subject>
+      <object>648222</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>surfing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>98</h>
+      <object_id>648221</object_id>
+      <w>153</w>
+      <y>52</y>
+      <x>344</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>board</name>
+      <h>110</h>
+      <object_id>648222</object_id>
+      <w>106</w>
+      <y>28</y>
+      <x>233</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person doing a trick on a surfboard in the ocean.</caption>
+      <caption>A surfer in the ocean, surfing over a wave</caption>
+      <caption>Black and white photograph of a person riding on a wave.</caption>
+      <caption>A surfer riding the waves of the ocean </caption>
+      <caption>Black and white image of a surfer riding a wave</caption>
+    </captions>
+</image>

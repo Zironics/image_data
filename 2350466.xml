@@ -1,0 +1,90 @@
+<image>
+  <image-id>2350466</image-id>
+  <coco-id>560103</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3798992</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1695137</subject>
+      <object>3593731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3798994</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2643522</subject>
+      <object>3593733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3798995</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2054880</subject>
+      <object>3593734</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>rectangular </attribute>
+      </attributes>
+      <name>signal</name>
+      <h>30</h>
+      <object_id>1695137</object_id>
+      <w>75</w>
+      <y>179</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>53</h>
+      <object_id>3593731</object_id>
+      <w>70</w>
+      <y>174</y>
+      <x>413</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tropical </attribute>
+      </attributes>
+      <name>plants</name>
+      <h>295</h>
+      <object_id>2643522</object_id>
+      <w>495</w>
+      <y>37</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>city</name>
+      <h>298</h>
+      <object_id>3593733</object_id>
+      <w>470</w>
+      <y>10</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>166</h>
+      <object_id>2054880</object_id>
+      <w>131</w>
+      <y>137</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>plants</name>
+      <h>288</h>
+      <object_id>3593734</object_id>
+      <w>132</w>
+      <y>37</y>
+      <x>104</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Horizontal traffic light seen through tropical vegetation in a city center.</caption>
+      <caption>A red stop signal is seen in a city with dense foliage.</caption>
+      <caption>a photo of city buildings near beautiful plants</caption>
+      <caption>There is a traffic light on the street that has a red light</caption>
+      <caption>a traffic light with many buildings in the background</caption>
+    </captions>
+</image>

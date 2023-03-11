@@ -1,0 +1,95 @@
+<image>
+  <image-id>2366522</image-id>
+  <coco-id>426578</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1626224</relationship_id>
+      <predicate>ON</predicate>
+      <subject>627815</subject>
+      <object>627816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1626225</relationship_id>
+      <predicate>ON</predicate>
+      <subject>627815</subject>
+      <object>627816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1626226</relationship_id>
+      <predicate>IN</predicate>
+      <subject>627815</subject>
+      <object>627817</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1626227</relationship_id>
+      <predicate>IN</predicate>
+      <subject>627815</subject>
+      <object>627818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1626228</relationship_id>
+      <predicate>IN</predicate>
+      <subject>627815</subject>
+      <object>627818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1626229</relationship_id>
+      <predicate>running in</predicate>
+      <subject>627815</subject>
+      <object>627818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1626230</relationship_id>
+      <predicate>running in</predicate>
+      <subject>627815</subject>
+      <object>627818</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>running</attribute>
+      </attributes>
+      <name>man</name>
+      <h>58</h>
+      <object_id>627815</object_id>
+      <w>15</w>
+      <y>152</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>23</h>
+      <object_id>627816</object_id>
+      <w>33</w>
+      <y>159</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>wet sujit</name>
+      <h>42</h>
+      <object_id>627817</object_id>
+      <w>32</w>
+      <y>174</y>
+      <x>233</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>35</h>
+      <object_id>627818</object_id>
+      <w>27</w>
+      <y>174</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on the beach next to the ocean. </caption>
+      <caption>there is a man that is running in the sand on a beach</caption>
+      <caption>A man in a wetsuit running on the beach.</caption>
+      <caption>A person is running on a clear, flat beach.</caption>
+      <caption>A person running a long a beach when it is almost empty.</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2350410</image-id>
+  <coco-id>285603</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2497544</relationship_id>
+      <predicate>ON</predicate>
+      <subject>868163</subject>
+      <object>868164</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>building</name>
+      <h>102</h>
+      <object_id>868163</object_id>
+      <w>65</w>
+      <y>16</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>154</h>
+      <object_id>868164</object_id>
+      <w>91</w>
+      <y>37</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A highway filled with lots of traffic with a train traveling over a bridge.</caption>
+      <caption>A busy highway cutting through a city with tall buildings.</caption>
+      <caption>Traffic on a six-lane divided highway during the day.</caption>
+      <caption>Six lane highway, with moderate traffic, running through a city.</caption>
+      <caption>Three lane streets going both ways with a number of cars on them</caption>
+    </captions>
+</image>

@@ -1,0 +1,153 @@
+<image>
+  <image-id>2377722</image-id>
+  <coco-id>282804</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3975815</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1840737</subject>
+      <object>3042292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3665083</relationship_id>
+      <predicate>next</predicate>
+      <subject>2917986</subject>
+      <object>3042292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4299209</relationship_id>
+      <predicate>has</predicate>
+      <subject>3092847</subject>
+      <object>3092848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997026</relationship_id>
+      <predicate>Is on its</predicate>
+      <subject>3042292</subject>
+      <object>1664233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997027</relationship_id>
+      <predicate>Is on</predicate>
+      <subject>2315073</subject>
+      <object>2917986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3907173</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1875209</subject>
+      <object>2917986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997029</relationship_id>
+      <predicate>Is on</predicate>
+      <subject>1840737</subject>
+      <object>1840738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997032</relationship_id>
+      <predicate>Has a</predicate>
+      <subject>2917986</subject>
+      <object>3165692</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>160</h>
+      <object_id>1840737</object_id>
+      <w>19</w>
+      <y>67</y>
+      <x>72</x>
+      <name>tail</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Standing </attribute>
+      </attributes>
+      <name>cow</name>
+      <h>205</h>
+      <object_id>3042292</object_id>
+      <w>142</w>
+      <y>28</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Fat</attribute>
+        <attribute>Standing </attribute>
+      </attributes>
+      <name>cow</name>
+      <h>307</h>
+      <object_id>2917986</object_id>
+      <w>259</w>
+      <y>20</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>cow's</name>
+      <h>298</h>
+      <object_id>3092847</object_id>
+      <w>252</w>
+      <y>22</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>166</h>
+      <object_id>3092848</object_id>
+      <w>27</w>
+      <y>60</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>173</h>
+      <object_id>1664233</object_id>
+      <w>92</w>
+      <y>55</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Staring</attribute>
+      </attributes>
+      <name>head</name>
+      <h>137</h>
+      <object_id>2315073</object_id>
+      <w>141</w>
+      <y>17</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>12</h>
+      <object_id>1875209</object_id>
+      <w>10</w>
+      <y>64</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>189</h>
+      <object_id>1840738</object_id>
+      <w>138</w>
+      <y>38</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>nosetip</name>
+      <h>40</h>
+      <object_id>3165692</object_id>
+      <w>41</w>
+      <y>116</y>
+      <x>390</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Cows standing next to a brick wall on top of straw.</caption>
+      <caption>A cow stands in a pile of hay  in front of a brick wall.</caption>
+      <caption>A cow had its back turned to another cow in the stable.  </caption>
+      <caption>Two brown cows stand next to a brick wall in hay.</caption>
+      <caption>TWO BROWN COWS IN A STALL FILLED WITH STRAW</caption>
+    </captions>
+</image>

@@ -1,0 +1,85 @@
+<image>
+  <image-id>2326742</image-id>
+  <coco-id>191464</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4110559</relationship_id>
+      <predicate>has</predicate>
+      <subject>2773494</subject>
+      <object>3719025</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476741</relationship_id>
+      <predicate>under</predicate>
+      <subject>2773492</subject>
+      <object>2773493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476742</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2773493</subject>
+      <object>2773494</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476743</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2773494</subject>
+      <object>3100802</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>357</h>
+      <object_id>2773494</object_id>
+      <w>383</w>
+      <y>15</y>
+      <x>114</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>112</h>
+      <object_id>3719025</object_id>
+      <w>75</w>
+      <y>73</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>bags</name>
+      <h>24</h>
+      <object_id>2773492</object_id>
+      <w>27</w>
+      <y>149</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>14</h>
+      <object_id>2773493</object_id>
+      <w>15</w>
+      <y>139</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>enclosure</name>
+      <h>270</h>
+      <object_id>3100802</object_id>
+      <w>497</w>
+      <y>103</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An elephant standing near a fence and trees.</caption>
+      <caption>a large elephant that is standing out by a fence</caption>
+      <caption>An elephant standing in the sun while his trunk is curled near its mouth.</caption>
+      <caption>An elephant outside near a fence with its trunk in its mouth.</caption>
+      <caption>A fat old elephant standing in an enclosure</caption>
+    </captions>
+</image>

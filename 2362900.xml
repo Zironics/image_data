@@ -1,0 +1,143 @@
+<image>
+  <image-id>2362900</image-id>
+  <coco-id>218924</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4178229</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1765039</subject>
+      <object>1873382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3656561</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2148291</subject>
+      <object>2148292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4178230</relationship_id>
+      <predicate>with</predicate>
+      <subject>1873382</subject>
+      <object>1873383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4178231</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2130498</subject>
+      <object>3748050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4178232</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3748051</subject>
+      <object>1957137</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3645551</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1765039</subject>
+      <object>3526959</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>perched </attribute>
+        <attribute>calico </attribute>
+        <attribute>looking</attribute>
+        <attribute>black and brown</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>121</h>
+      <object_id>1765039</object_id>
+      <w>358</w>
+      <y>33</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>286</h>
+      <object_id>1873382</object_id>
+      <w>312</w>
+      <y>4</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green eyes</name>
+      <h>31</h>
+      <object_id>2148291</object_id>
+      <w>50</w>
+      <y>95</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>145</h>
+      <object_id>2148292</object_id>
+      <w>342</w>
+      <y>33</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>seat up</name>
+      <h>140</h>
+      <object_id>1873383</object_id>
+      <w>225</w>
+      <y>58</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>can</name>
+      <h>142</h>
+      <object_id>2130498</object_id>
+      <w>120</w>
+      <y>200</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>209</h>
+      <object_id>3748050</object_id>
+      <w>460</w>
+      <y>162</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>154</h>
+      <object_id>3748051</object_id>
+      <w>123</w>
+      <y>203</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>trash can</name>
+      <h>170</h>
+      <object_id>1957137</object_id>
+      <w>137</w>
+      <y>189</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>200</h>
+      <object_id>3526959</object_id>
+      <w>462</w>
+      <y>154</y>
+      <x>19</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an image of a cat in a toilet with the water</caption>
+      <caption>A small cat has it's front paws inside a toilet.</caption>
+      <caption>a cat inside of a toilet bowl in a bathroom</caption>
+      <caption>Cat standing in toilet next to a tile floor.</caption>
+      <caption>a cat standing on the edge of a toilet bowl with its front paws inside of the toilet.</caption>
+    </captions>
+</image>

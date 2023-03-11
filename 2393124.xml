@@ -1,0 +1,59 @@
+<image>
+  <image-id>2393124</image-id>
+  <coco-id>572840</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4579882</relationship_id>
+      <predicate>beside</predicate>
+      <subject>4047665</subject>
+      <object>4047666</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579884</relationship_id>
+      <predicate>along</predicate>
+      <subject>4047684</subject>
+      <object>4047685</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>63</h>
+      <object_id>4047665</object_id>
+      <w>207</w>
+      <y>81</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>107</h>
+      <object_id>4047666</object_id>
+      <w>39</w>
+      <y>229</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>178</h>
+      <object_id>4047684</object_id>
+      <w>125</w>
+      <y>11</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>47</h>
+      <object_id>4047685</object_id>
+      <w>65</w>
+      <y>230</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two trains parked next to each other at a train yard.</caption>
+      <caption>A Train and some trolleys lined up next to each other.</caption>
+      <caption>Two yellow and red trains on both sides of a platform</caption>
+      <caption>A couple of yellow trains with some having passengers. </caption>
+      <caption>Yellow trains with people on them are in the station.</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2354503</image-id>
+  <coco-id>188040</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4228327</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3777089</subject>
+      <object>3777088</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3749380</relationship_id>
+      <predicate>has</predicate>
+      <subject>1989565</subject>
+      <object>1989564</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4228328</relationship_id>
+      <predicate>by</predicate>
+      <subject>2256702</subject>
+      <object>2256701</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>series</name>
+      <h>144</h>
+      <object_id>3777089</object_id>
+      <w>81</w>
+      <y>195</y>
+      <x>403</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>136</h>
+      <object_id>3777088</object_id>
+      <w>85</w>
+      <y>201</y>
+      <x>397</x>
+    </object>
+    <object>
+      <name>mobile</name>
+      <h>47</h>
+      <object_id>1989565</object_id>
+      <w>29</w>
+      <y>237</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>camera</name>
+      <h>8</h>
+      <object_id>1989564</object_id>
+      <w>6</w>
+      <y>239</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gathered around</attribute>
+      </attributes>
+      <name>people</name>
+      <h>147</h>
+      <object_id>2256702</object_id>
+      <w>98</w>
+      <y>59</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>140</h>
+      <object_id>2256701</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman sitting in front of a table with a pitcher of beer.</caption>
+      <caption>A woman is showing us her phone with a big beer in front of her.</caption>
+      <caption>a woman and her fridnds dine in a nice cafe</caption>
+      <caption>a group of people that are sitting at a table</caption>
+      <caption>A woman showing her phone with others sitting at the table with her.</caption>
+    </captions>
+</image>

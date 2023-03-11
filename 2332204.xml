@@ -1,0 +1,97 @@
+<image>
+  <image-id>2332204</image-id>
+  <coco-id>12576</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4821678</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>4650978</subject>
+      <object>4650979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821679</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4650980</subject>
+      <object>4650981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821680</relationship_id>
+      <predicate>sittiing on</predicate>
+      <subject>4650985</subject>
+      <object>4650986</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>beverage</name>
+      <h>29</h>
+      <object_id>4650978</object_id>
+      <w>47</w>
+      <y>259</y>
+      <x>292</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>132</h>
+      <object_id>4650979</object_id>
+      <w>67</w>
+      <y>159</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>cheese</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>194</h>
+      <object_id>4650980</object_id>
+      <w>342</w>
+      <y>304</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>cardboard</name>
+      <h>243</h>
+      <object_id>4650981</object_id>
+      <w>354</w>
+      <y>255</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>older</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>87</h>
+      <object_id>4650985</object_id>
+      <w>65</w>
+      <y>38</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>36</h>
+      <object_id>4650986</object_id>
+      <w>55</w>
+      <y>83</y>
+      <x>128</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A woman sitting at a table topped with pizza.</caption>
+      <caption>A close-up of a table with three boxes of pizza.</caption>
+      <caption>An elderly woman seated at a table holding three pizzas.</caption>
+      <caption>A grandmother looks at her family's pizza dinner</caption>
+      <caption>Pizza and empty glasses on the dinner table.</caption>
+    </captions>
+</image>

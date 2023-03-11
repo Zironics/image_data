@@ -1,0 +1,51 @@
+<image>
+  <image-id>2324635</image-id>
+  <coco-id>252745</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3736706</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3152320</subject>
+      <object>3567718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3736778</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3266943</subject>
+      <object>3567718</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hat</name>
+      <h>40</h>
+      <object_id>3152320</object_id>
+      <w>82</w>
+      <y>29</y>
+      <x>376</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>444</h>
+      <object_id>3567718</object_id>
+      <w>92</w>
+      <y>26</y>
+      <x>383</x>
+    </object>
+    <object>
+      <name>shorts</name>
+      <h>171</h>
+      <object_id>3266943</object_id>
+      <w>79</w>
+      <y>201</y>
+      <x>403</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in a wheelchair on the beach, with a man and a dog standing beside her.</caption>
+      <caption>A man, a woman in a wheelchair, and a dog are at the beach.</caption>
+      <caption>A woman in a wheel chair walking a dog on a beach.</caption>
+      <caption>The couple is taking the dog in the waves.</caption>
+      <caption>A man, a dog and a woman in a wheelchair are on the beach.</caption>
+    </captions>
+</image>

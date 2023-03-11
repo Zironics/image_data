@@ -1,0 +1,62 @@
+<image>
+  <image-id>2334654</image-id>
+  <coco-id>287400</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3997447</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2517565</subject>
+      <object>2517566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997450</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2321190</subject>
+      <object>3675684</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>188</h>
+      <object_id>2517565</object_id>
+      <w>318</w>
+      <y>63</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>tray</name>
+      <h>350</h>
+      <object_id>2517566</object_id>
+      <w>497</w>
+      <y>23</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>195</h>
+      <object_id>2321190</object_id>
+      <w>182</w>
+      <y>74</y>
+      <x>79</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>194</h>
+      <object_id>3675684</object_id>
+      <w>339</w>
+      <y>90</y>
+      <x>53</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The sandwich has a side of beans next to a plastic fork. </caption>
+      <caption>this is a sandwich on a plate with a fork</caption>
+      <caption>A PICTURE OF FOOD SITTING ON AT TRAY </caption>
+      <caption>A sandwich and fork are setting on this tray.</caption>
+      <caption>A large sandwich and a condiment cup on a pink and white plate.</caption>
+    </captions>
+</image>

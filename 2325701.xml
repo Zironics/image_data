@@ -1,0 +1,83 @@
+<image>
+  <image-id>2325701</image-id>
+  <coco-id>94223</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4559527</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3998735</subject>
+      <object>3998759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4559529</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3998735</subject>
+      <object>3998759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4559530</relationship_id>
+      <predicate>has</predicate>
+      <subject>3998759</subject>
+      <object>3998760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4559531</relationship_id>
+      <predicate>near</predicate>
+      <subject>3998768</subject>
+      <object>3998769</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <h>41</h>
+      <object_id>3998735</object_id>
+      <w>81</w>
+      <y>252</y>
+      <x>34</x>
+      <name>dvd cases</name>
+    </object>
+    <object>
+      <h>212</h>
+      <object_id>3998759</object_id>
+      <w>138</w>
+      <y>161</y>
+      <x>23</x>
+      <name>shelf</name>
+    </object>
+    <object>
+      <name>dvd</name>
+      <h>58</h>
+      <object_id>3998760</object_id>
+      <w>80</w>
+      <y>181</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>drums</name>
+      <h>74</h>
+      <object_id>3998768</object_id>
+      <w>83</w>
+      <y>255</y>
+      <x>416</x>
+    </object>
+    <object>
+      <name>tv</name>
+      <h>156</h>
+      <object_id>3998769</object_id>
+      <w>192</w>
+      <y>144</y>
+      <x>170</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A flat screen TV sitting above gaming consoles.</caption>
+      <caption>The TV is surrounded by shelves and gaming systems.</caption>
+      <caption>A television that is on a entertainment stand.</caption>
+      <caption>A home theater set up with flat screen and shelves</caption>
+      <caption>An entertainment system with television and video game systems.
+</caption>
+    </captions>
+</image>

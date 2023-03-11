@@ -1,0 +1,63 @@
+<image>
+  <image-id>2362533</image-id>
+  <coco-id>159324</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2116004</relationship_id>
+      <predicate>has</predicate>
+      <subject>773434</subject>
+      <object>773435</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4181489</relationship_id>
+      <predicate>under</predicate>
+      <subject>773445</subject>
+      <object>3749846</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>man</name>
+      <h>173</h>
+      <object_id>773434</object_id>
+      <w>106</w>
+      <y>134</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>sleeve</name>
+      <h>46</h>
+      <object_id>773435</object_id>
+      <w>39</w>
+      <y>189</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>181</h>
+      <object_id>773445</object_id>
+      <w>213</w>
+      <y>130</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>umbrellas</name>
+      <h>66</h>
+      <object_id>3749846</object_id>
+      <w>130</w>
+      <y>90</y>
+      <x>148</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people are walking down a street with umbrellas in the rain behind a couple also walking in the rain.</caption>
+      <caption>People are walking under umbrellas in the rain.</caption>
+      <caption>Some people are walking with umbrellas on the sidwalk</caption>
+      <caption>A pair of people with umbrella's walking down a sidewalk.</caption>
+      <caption>there are two people walking down the street with umbrellas</caption>
+    </captions>
+</image>

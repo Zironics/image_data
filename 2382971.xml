@@ -1,0 +1,118 @@
+<image>
+  <image-id>2382971</image-id>
+  <coco-id>513099</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4777571</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4541379</subject>
+      <object>4541380</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777575</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4541395</subject>
+      <object>4541384</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777580</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4541404</subject>
+      <object>4541405</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777583</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4541411</subject>
+      <object>4541384</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4777584</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4541413</subject>
+      <object>4541384</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small </attribute>
+      </attributes>
+      <name>brown spot</name>
+      <h>24</h>
+      <object_id>4541379</object_id>
+      <w>13</w>
+      <y>171</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>skin</name>
+      <h>90</h>
+      <object_id>4541380</object_id>
+      <w>84</w>
+      <y>129</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>70</h>
+      <object_id>4541395</object_id>
+      <w>59</w>
+      <y>62</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall </attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>260</h>
+      <object_id>4541384</object_id>
+      <w>234</w>
+      <y>70</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dead </attribute>
+      </attributes>
+      <name>dead branches</name>
+      <h>87</h>
+      <object_id>4541404</object_id>
+      <w>144</w>
+      <y>242</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>111</h>
+      <object_id>4541405</object_id>
+      <w>487</w>
+      <y>212</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>horns</name>
+      <h>37</h>
+      <object_id>4541411</object_id>
+      <w>34</w>
+      <y>58</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>71</h>
+      <object_id>4541413</object_id>
+      <w>130</w>
+      <y>259</y>
+      <x>242</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lone giraffe standing beside many large  trees.</caption>
+      <caption>Tall giraffe walking in the wild by itself.</caption>
+      <caption>A single giraffe looking into the camera on the plain.</caption>
+      <caption>A very tall giraffe standing in a wooded area.</caption>
+      <caption>A giraffe standing above trees with sky in the background.</caption>
+    </captions>
+</image>

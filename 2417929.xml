@@ -1,0 +1,93 @@
+<image>
+  <image-id>2417929</image-id>
+  <coco-id>31566</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3721665</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3244716</subject>
+      <object>3355299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3721666</relationship_id>
+      <predicate>on top left of</predicate>
+      <subject>3355298</subject>
+      <object>3355299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3721667</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3450990</subject>
+      <object>3786706</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244795</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2906576</subject>
+      <object>3786706</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red magnet</name>
+      <h>42</h>
+      <object_id>3244716</object_id>
+      <w>40</w>
+      <y>54</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>refrigerator</name>
+      <h>465</h>
+      <object_id>3355299</object_id>
+      <w>349</w>
+      <y>17</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>door</name>
+      <h>168</h>
+      <object_id>3355298</object_id>
+      <w>176</w>
+      <y>32</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>15</h>
+      <object_id>3450990</object_id>
+      <w>148</w>
+      <y>96</y>
+      <x>37</x>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>127</h>
+      <object_id>3786706</object_id>
+      <w>173</w>
+      <y>67</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>timer</name>
+      <h>33</h>
+      <object_id>2906576</object_id>
+      <w>23</w>
+      <y>59</y>
+      <x>169</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A fridge with an ice maker in it against wall</caption>
+      <caption>a white cabinet with a built in microwave </caption>
+      <caption>a shelf that has a microwave attached to it</caption>
+      <caption>a nice refrigerated micro wave combo on a wall</caption>
+      <caption>A white interior with an oven built in to it</caption>
+    </captions>
+</image>

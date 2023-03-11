@@ -1,0 +1,51 @@
+<image>
+  <image-id>2320824</image-id>
+  <coco-id>56364</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4541090</relationship_id>
+      <predicate>full of</predicate>
+      <subject>2829500</subject>
+      <object>2846899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4541091</relationship_id>
+      <predicate>in center of</predicate>
+      <subject>2829499</subject>
+      <object>2829500</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sink</name>
+      <h>494</h>
+      <object_id>2829500</object_id>
+      <w>490</w>
+      <y>5</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>462</h>
+      <object_id>2846899</object_id>
+      <w>442</w>
+      <y>26</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>drain</name>
+      <h>122</h>
+      <object_id>2829499</object_id>
+      <w>138</w>
+      <y>187</y>
+      <x>177</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Green apples, oranges and some lemons in a sink.</caption>
+      <caption>A sink full of lemons, oranges and green apples.</caption>
+      <caption>Apples, lemons, and oranges lie in a stainless steel sink.</caption>
+      <caption>Green apples, lemons and oranges are in a sink.</caption>
+      <caption>A metal sink filled with many lemons and apples.</caption>
+    </captions>
+</image>

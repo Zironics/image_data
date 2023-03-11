@@ -1,0 +1,163 @@
+<image>
+  <image-id>1591782</image-id>
+  <coco-id>37624</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4077175</relationship_id>
+      <predicate>surrounding</predicate>
+      <subject>1603651</subject>
+      <object>3707285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3779235</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1603653</subject>
+      <object>3585624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077176</relationship_id>
+      <predicate>sitting near</predicate>
+      <subject>1603655</subject>
+      <object>3707285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077177</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>1603656</subject>
+      <object>3707287</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077178</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>1603657</subject>
+      <object>3707287</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077179</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>1603658</subject>
+      <object>3707289</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077180</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>1603659</subject>
+      <object>3707289</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>145</h>
+      <object_id>1603651</object_id>
+      <w>518</w>
+      <y>250</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>152</h>
+      <object_id>3707285</object_id>
+      <w>573</w>
+      <y>239</y>
+      <x>36</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>circle</name>
+      <h>22</h>
+      <object_id>1603653</object_id>
+      <w>34</w>
+      <y>284</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>tennis net</name>
+      <h>42</h>
+      <object_id>3585624</object_id>
+      <w>262</w>
+      <y>280</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>35</h>
+      <object_id>1603655</object_id>
+      <w>34</w>
+      <y>345</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>109</h>
+      <object_id>1603656</object_id>
+      <w>97</w>
+      <y>276</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>161</h>
+      <object_id>3707287</object_id>
+      <w>547</w>
+      <y>240</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>94</h>
+      <object_id>1603657</object_id>
+      <w>196</w>
+      <y>266</y>
+      <x>309</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>square</name>
+      <h>49</h>
+      <object_id>1603658</object_id>
+      <w>261</w>
+      <y>327</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>139</h>
+      <object_id>3707289</object_id>
+      <w>547</w>
+      <y>250</y>
+      <x>62</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>square</name>
+      <h>55</h>
+      <object_id>1603659</object_id>
+      <w>137</w>
+      <y>289</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd shot of a tennis match at night time. </caption>
+      <caption>We are looking at a tennis match in progress.</caption>
+      <caption>Night time tennis match on blue and green court.</caption>
+      <caption>The people are playing tennis on the court</caption>
+      <caption>a crowded tennis match being played at night</caption>
+    </captions>
+</image>

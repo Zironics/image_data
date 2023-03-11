@@ -1,0 +1,37 @@
+<image>
+  <image-id>2325263</image-id>
+  <coco-id>168848</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3739151</relationship_id>
+      <predicate>near</predicate>
+      <subject>2950976</subject>
+      <object>2950975</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boat</name>
+      <h>37</h>
+      <object_id>2950976</object_id>
+      <w>47</w>
+      <y>172</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>dock</name>
+      <h>26</h>
+      <object_id>2950975</object_id>
+      <w>260</w>
+      <y>167</y>
+      <x>19</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A nice looking marina with a bunch of boats docked.</caption>
+      <caption>A view of fishing boats in the water at the moorage.</caption>
+      <caption>Several boats are docked on water near a lighthouse.</caption>
+      <caption>A group of boats floating in a marina next to a light house.</caption>
+      <caption>A packed boat dock holds many different sailboats.</caption>
+    </captions>
+</image>

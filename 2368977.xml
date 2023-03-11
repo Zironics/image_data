@@ -1,0 +1,76 @@
+<image>
+  <image-id>2368977</image-id>
+  <coco-id>526645</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4341671</relationship_id>
+      <predicate>walking among</predicate>
+      <subject>3865953</subject>
+      <object>1917482</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4341672</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3865953</subject>
+      <object>1715035</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4341673</relationship_id>
+      <predicate>covering</predicate>
+      <subject>3865954</subject>
+      <object>2088423</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffe</name>
+      <h>305</h>
+      <object_id>3865953</object_id>
+      <w>161</w>
+      <y>98</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>433</h>
+      <object_id>1917482</object_id>
+      <w>331</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>494</h>
+      <object_id>1715035</object_id>
+      <w>329</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>twigs</name>
+      <h>113</h>
+      <object_id>3865954</object_id>
+      <w>153</w>
+      <y>376</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>72</h>
+      <object_id>2088423</object_id>
+      <w>94</w>
+      <y>387</y>
+      <x>149</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe walking through a tree filled forest.</caption>
+      <caption>A large giraffe is walking through the trees in a forest.</caption>
+      <caption>A giraffe walking through some tall tree trunks</caption>
+      <caption>A giraffe is walking through the forest with tall trees.</caption>
+      <caption>Giraffe walking in dense tree'd forest on clear day.</caption>
+    </captions>
+</image>

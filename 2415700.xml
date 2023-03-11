@@ -1,0 +1,98 @@
+<image>
+  <image-id>2415700</image-id>
+  <coco-id>424300</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4544237</relationship_id>
+      <predicate>with</predicate>
+      <subject>3322753</subject>
+      <object>3322754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4015163</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3419573</subject>
+      <object>3580362</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544238</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3268777</subject>
+      <object>3963824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3766343</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>3437129</subject>
+      <object>3580362</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sky</name>
+      <h>493</h>
+      <object_id>3322753</object_id>
+      <w>492</w>
+      <y>4</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>birds</name>
+      <h>484</h>
+      <object_id>3322754</object_id>
+      <w>482</w>
+      <y>1</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>puffy</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>32</h>
+      <object_id>3419573</object_id>
+      <w>45</w>
+      <y>111</y>
+      <x>454</x>
+    </object>
+    <object>
+      <h>240</h>
+      <object_id>3580362</object_id>
+      <w>483</w>
+      <y>5</y>
+      <x>0</x>
+      <name>sky</name>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>128</h>
+      <object_id>3268777</object_id>
+      <w>132</w>
+      <y>103</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>158</h>
+      <object_id>3963824</object_id>
+      <w>109</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>birds</name>
+      <h>228</h>
+      <object_id>3437129</object_id>
+      <w>227</w>
+      <y>66</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A flock of birds flying through a forest.</caption>
+      <caption>A colorful picture taken as birds fly through the forest.</caption>
+      <caption>birds playing in a sea of trees and colorful sky</caption>
+      <caption>The geese are flying south for the winter.</caption>
+      <caption>a flock of birds some thin trees against a blue and red sky</caption>
+    </captions>
+</image>

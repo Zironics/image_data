@@ -1,0 +1,102 @@
+<image>
+  <image-id>2331488</image-id>
+  <coco-id>301575</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3940228</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2966089</subject>
+      <object>3653318</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4005475</relationship_id>
+      <predicate>sitting in front of</predicate>
+      <subject>2959470</subject>
+      <object>2825604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260877</relationship_id>
+      <predicate>under</predicate>
+      <subject>3795578</subject>
+      <object>3464071</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260878</relationship_id>
+      <predicate>has</predicate>
+      <subject>2959470</subject>
+      <object>3795579</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>logo</name>
+      <h>45</h>
+      <object_id>2966089</object_id>
+      <w>72</w>
+      <y>219</y>
+      <x>313</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>television</attribute>
+      </attributes>
+      <name>channel</name>
+      <h>28</h>
+      <object_id>3653318</object_id>
+      <w>76</w>
+      <y>227</y>
+      <x>318</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>solid black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>243</h>
+      <object_id>2959470</object_id>
+      <w>178</w>
+      <y>45</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>television</name>
+      <h>342</h>
+      <object_id>2825604</object_id>
+      <w>439</w>
+      <y>5</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>words</name>
+      <h>80</h>
+      <object_id>3795578</object_id>
+      <w>376</w>
+      <y>293</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>235</h>
+      <object_id>3464071</object_id>
+      <w>208</w>
+      <y>55</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>black fur</name>
+      <h>72</h>
+      <object_id>3795579</object_id>
+      <w>54</w>
+      <y>178</y>
+      <x>202</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Text written on a photo of a cat shutting in front of a television </caption>
+      <caption>A cat sitting in front of a TV with Frasier on display.</caption>
+      <caption>A cat sitting on VCR in front of a tv that is turned on.</caption>
+      <caption>A black cat is standing in front of a TV.</caption>
+      <caption>a black cat sitting in front of a tv while someone is trying to watch tv</caption>
+    </captions>
+</image>

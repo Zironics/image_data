@@ -1,0 +1,147 @@
+<image>
+  <image-id>2380612</image-id>
+  <coco-id>112614</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3601063</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1344716</subject>
+      <object>1344717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3601064</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1344718</subject>
+      <object>1344717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3601065</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1344720</subject>
+      <object>1344716</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3601066</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1344714</subject>
+      <object>1344729</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3601067</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1344714</subject>
+      <object>1344729</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3601068</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1344720</subject>
+      <object>1344719</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3601069</relationship_id>
+      <predicate>has</predicate>
+      <subject>1344729</subject>
+      <object>1344721</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>16</h>
+      <object_id>1344716</object_id>
+      <w>11</w>
+      <y>450</y>
+      <x>108</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>landscaped</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>75</h>
+      <object_id>1344717</object_id>
+      <w>301</w>
+      <y>423</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>8</h>
+      <object_id>1344718</object_id>
+      <w>4</w>
+      <y>490</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>29</h>
+      <object_id>1344720</object_id>
+      <w>41</w>
+      <y>417</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>airborne</attribute>
+        <attribute>blue</attribute>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>25</h>
+      <object_id>1344714</object_id>
+      <w>29</w>
+      <y>179</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>beautiful</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>405</h>
+      <object_id>1344729</object_id>
+      <w>300</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>61</h>
+      <object_id>1344719</object_id>
+      <w>300</w>
+      <y>437</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>fluffy</attribute>
+        <attribute>puffy</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>70</h>
+      <object_id>1344721</object_id>
+      <w>40</w>
+      <y>102</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Multiple parachutes with people about to land in a field.</caption>
+      <caption>There are several kites flying in the sky over the city.</caption>
+      <caption>Many people are flying kites on a sunny day.</caption>
+      <caption>A view of colorful high lying kites in front of cityscape.</caption>
+      <caption>Many different kites fly in the sky over a series of large buildings and a grassy field.</caption>
+    </captions>
+</image>

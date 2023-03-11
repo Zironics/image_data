@@ -1,0 +1,184 @@
+<image>
+  <image-id>2386417</image-id>
+  <coco-id>558705</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3519218</relationship_id>
+      <predicate>growing on a</predicate>
+      <subject>1286208</subject>
+      <object>1286209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519219</relationship_id>
+      <predicate>are holding an</predicate>
+      <subject>1286215</subject>
+      <object>1286216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519220</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1286218</subject>
+      <object>1286224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519221</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1286220</subject>
+      <object>1286216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519222</relationship_id>
+      <predicate>holding an</predicate>
+      <subject>1286214</subject>
+      <object>1286216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519223</relationship_id>
+      <predicate>holding an</predicate>
+      <subject>1286214</subject>
+      <object>1286216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519224</relationship_id>
+      <predicate>full of</predicate>
+      <subject>1286209</subject>
+      <object>1286226</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519225</relationship_id>
+      <predicate>are hanging in a</predicate>
+      <subject>1286226</subject>
+      <object>1286209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519226</relationship_id>
+      <predicate>are holding</predicate>
+      <subject>1286215</subject>
+      <object>1286216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519227</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1286218</subject>
+      <object>1286224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519228</relationship_id>
+      <predicate>being held by</predicate>
+      <subject>1286216</subject>
+      <object>1286214</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3519229</relationship_id>
+      <predicate>standing behind a</predicate>
+      <subject>1286209</subject>
+      <object>1286214</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+        <attribute>green</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>18</h>
+      <object_id>1286208</object_id>
+      <w>19</w>
+      <y>47</y>
+      <x>163</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>leafy</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>331</h>
+      <object_id>1286209</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>hands</name>
+      <h>82</h>
+      <object_id>1286215</object_id>
+      <w>106</w>
+      <y>212</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>apple</name>
+      <h>40</h>
+      <object_id>1286216</object_id>
+      <w>46</w>
+      <y>213</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>zipper</name>
+      <h>180</h>
+      <object_id>1286218</object_id>
+      <w>22</w>
+      <y>147</y>
+      <x>305</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>204</h>
+      <object_id>1286224</object_id>
+      <w>237</w>
+      <y>128</y>
+      <x>200</x>
+      <name>fleece</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>stem</name>
+      <h>10</h>
+      <object_id>1286220</object_id>
+      <w>8</w>
+      <y>212</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>smiling</attribute>
+        <attribute>little</attribute>
+        <attribute>young</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>331</h>
+      <object_id>1286214</object_id>
+      <w>235</w>
+      <y>2</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>apples</name>
+      <h>203</h>
+      <object_id>1286226</object_id>
+      <w>118</w>
+      <y>33</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A child holds a fruit inside of his hands.</caption>
+      <caption>A little boy holding an apple with two hands.</caption>
+      <caption>A young boy holding food in his hands next to apple tree.</caption>
+      <caption>A small boy holding an apple in both of his hands while standing in front of apple trees.</caption>
+      <caption>The smiling boy held a piece of fruit in his hands.</caption>
+    </captions>
+</image>

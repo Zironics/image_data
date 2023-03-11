@@ -1,0 +1,65 @@
+<image>
+  <image-id>2334982</image-id>
+  <coco-id>424871</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3990622</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2374539</subject>
+      <object>3672688</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3990623</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2095299</subject>
+      <object>2095298</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windsurfer</name>
+      <h>112</h>
+      <object_id>2374539</object_id>
+      <w>64</w>
+      <y>188</y>
+      <x>290</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>84</h>
+      <object_id>3672688</object_id>
+      <w>61</w>
+      <y>205</y>
+      <x>285</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white board</name>
+      <h>35</h>
+      <object_id>2095299</object_id>
+      <w>82</w>
+      <y>259</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>sea</name>
+      <h>212</h>
+      <object_id>2095298</object_id>
+      <w>487</w>
+      <y>159</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on a surfboard with a sail in the ocean.</caption>
+      <caption>A man wind surfing in a lagoon surrounded by beautiful massive cliffs.</caption>
+      <caption>A man windsurfing on water by a mountain.</caption>
+      <caption>A man windsurfing on deep blue seas by an island.</caption>
+      <caption>A man sailing on deep blue waters in a tropicle  island </caption>
+    </captions>
+</image>

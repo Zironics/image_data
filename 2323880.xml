@@ -1,0 +1,66 @@
+<image>
+  <image-id>2323880</image-id>
+  <coco-id>46753</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4585890</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4061895</subject>
+      <object>4061901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4585894</relationship_id>
+      <predicate>has</predicate>
+      <subject>4061916</subject>
+      <object>4061917</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>290</h>
+      <object_id>4061895</object_id>
+      <w>300</w>
+      <y>15</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>300</h>
+      <object_id>4061901</object_id>
+      <w>487</w>
+      <y>6</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>forehead</name>
+      <h>40</h>
+      <object_id>4061916</object_id>
+      <w>145</w>
+      <y>50</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>marks</name>
+      <h>29</h>
+      <object_id>4061917</object_id>
+      <w>49</w>
+      <y>59</y>
+      <x>148</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog on a black background looking forward</caption>
+      <caption>An adorable dog poses for a picture with it's ears folded over.</caption>
+      <caption>A dog with white fur and brown around his ears.</caption>
+      <caption>One small mostly white terrier-like dog, with brown spots. </caption>
+      <caption>A spotted white dog looking into the distance</caption>
+    </captions>
+</image>

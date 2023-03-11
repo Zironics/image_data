@@ -1,0 +1,37 @@
+<image>
+  <image-id>2326244</image-id>
+  <coco-id>367201</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4480550</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3242854</subject>
+      <object>3242855</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mirror</name>
+      <h>87</h>
+      <object_id>3242854</object_id>
+      <w>63</w>
+      <y>30</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>262</h>
+      <object_id>3242855</object_id>
+      <w>255</w>
+      <y>31</y>
+      <x>178</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>this is a bathroom with a toilet and sink</caption>
+      <caption>A toilet that is next to a red wall.</caption>
+      <caption>A tankless toilet in a white and red bathroom.</caption>
+      <caption>A bathroom with a mirror and red rose shower curtains.</caption>
+      <caption>The view of a modern toilet and sink vanity area.</caption>
+    </captions>
+</image>

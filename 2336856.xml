@@ -1,0 +1,123 @@
+<image>
+  <image-id>2336856</image-id>
+  <coco-id>259265</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3765356</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2966756</subject>
+      <object>2817112</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260065</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3346891</subject>
+      <object>2817112</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975079</relationship_id>
+      <predicate>travels down</predicate>
+      <subject>2100392</subject>
+      <object>2817112</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975080</relationship_id>
+      <predicate>travels down</predicate>
+      <subject>2191490</subject>
+      <object>3666451</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975081</relationship_id>
+      <predicate>belongs to</predicate>
+      <subject>3313464</subject>
+      <object>3313465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3975082</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2100392</subject>
+      <object>2100393</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vehicle</name>
+      <h>37</h>
+      <object_id>2966756</object_id>
+      <w>95</w>
+      <y>171</y>
+      <x>181</x>
+    </object>
+    <object>
+      <h>175</h>
+      <object_id>2817112</object_id>
+      <w>497</w>
+      <y>197</y>
+      <x>1</x>
+      <name>street</name>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>40</h>
+      <object_id>3346891</object_id>
+      <w>102</w>
+      <y>170</y>
+      <x>396</x>
+    </object>
+    <object>
+      <h>29</h>
+      <object_id>2100392</object_id>
+      <w>102</w>
+      <y>177</y>
+      <x>277</x>
+      <name>vehciles</name>
+    </object>
+    <object>
+      <name>vehicles</name>
+      <h>108</h>
+      <object_id>2191490</object_id>
+      <w>360</w>
+      <y>129</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>143</h>
+      <object_id>3666451</object_id>
+      <w>362</w>
+      <y>196</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>17</h>
+      <object_id>3313464</object_id>
+      <w>18</w>
+      <y>192</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>39</h>
+      <object_id>3313465</object_id>
+      <w>107</w>
+      <y>169</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>172</h>
+      <object_id>2100393</object_id>
+      <w>494</w>
+      <y>202</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A busy intersection with a lot of cars driving through it.</caption>
+      <caption>A busy city street that has various cars at an intersection traveling in different directions.</caption>
+      <caption>A city street intersection with a traffic signal.</caption>
+      <caption>A number of cars in a busy intersection in a city.</caption>
+      <caption>A plethora of cars on the street which is next to buildings. </caption>
+    </captions>
+</image>

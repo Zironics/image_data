@@ -1,0 +1,40 @@
+<image>
+  <image-id>2330579</image-id>
+  <coco-id>347087</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4011962</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3476872</subject>
+      <object>3476873</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>candle</name>
+      <h>48</h>
+      <object_id>3476872</object_id>
+      <w>95</w>
+      <y>329</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>candle holder</name>
+      <h>104</h>
+      <object_id>3476873</object_id>
+      <w>196</w>
+      <y>374</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person serving putting red wine to a glass</caption>
+      <caption>A couple of people pouring a glass of wine.</caption>
+      <caption>A person is pouring wine into a wine glass.</caption>
+      <caption>Red wine is being poured into a glass.</caption>
+      <caption>A lit candle is on a table where red wine is being poured into a glass.</caption>
+    </captions>
+</image>

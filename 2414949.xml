@@ -1,0 +1,77 @@
+<image>
+  <image-id>2414949</image-id>
+  <coco-id>140167</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>143859</relationship_id>
+      <predicate>has</predicate>
+      <subject>148913</subject>
+      <object>148916</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143860</relationship_id>
+      <predicate>ON</predicate>
+      <subject>148916</subject>
+      <object>148913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>143861</relationship_id>
+      <predicate>ON</predicate>
+      <subject>148911</subject>
+      <object>148912</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>painted</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>447</h>
+      <object_id>148913</object_id>
+      <w>373</w>
+      <y>7</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>painting</name>
+      <h>221</h>
+      <object_id>148916</object_id>
+      <w>239</w>
+      <y>168</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>squiggly</attribute>
+        <attribute>artifical</attribute>
+        <attribute>displayed</attribute>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+        <attribute>swirly</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>238</h>
+      <object_id>148911</object_id>
+      <w>274</w>
+      <y>29</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>vine</name>
+      <h>234</h>
+      <object_id>148912</object_id>
+      <w>272</w>
+      <y>31</y>
+      <x>90</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A colorful vase sitting on top of a table next to a picture on a wall.</caption>
+      <caption>A flower arrangement matches a colorful vase placed on a side table.</caption>
+      <caption>oriental setting with a orange case and red candle on a stand </caption>
+      <caption>A multi colored vase on a table with dried flowers.</caption>
+      <caption>Decorative objects on a counter in front of a framed picture.</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2340891</image-id>
+  <coco-id>292923</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4639827</relationship_id>
+      <predicate>belonging to</predicate>
+      <subject>4193790</subject>
+      <object>4193789</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4639832</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4193804</subject>
+      <object>4193805</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>face</name>
+      <h>60</h>
+      <object_id>4193790</object_id>
+      <w>45</w>
+      <y>122</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>smiling</attribute>
+      </attributes>
+      <name>man</name>
+      <h>143</h>
+      <object_id>4193789</object_id>
+      <w>117</w>
+      <y>108</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>menu</name>
+      <h>74</h>
+      <object_id>4193804</object_id>
+      <w>44</w>
+      <y>257</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>14</h>
+      <object_id>4193805</object_id>
+      <w>19</w>
+      <y>307</y>
+      <x>123</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The Ferrari Owners' Club Dinner is attended by all.</caption>
+      <caption>this is a group of people sitting in a restaurant</caption>
+      <caption>A group of people sit at a large table.</caption>
+      <caption>a bunch of people that are sitting at a table</caption>
+      <caption>Many people sit smiling and laughing around a long dinner table. </caption>
+    </captions>
+</image>

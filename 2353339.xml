@@ -1,0 +1,104 @@
+<image>
+  <image-id>2353339</image-id>
+  <coco-id>167337</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2404853</relationship_id>
+      <predicate>IN</predicate>
+      <subject>847029</subject>
+      <object>847029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4233974</relationship_id>
+      <predicate>ON</predicate>
+      <subject>847029</subject>
+      <object>847029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2404854</relationship_id>
+      <predicate>has</predicate>
+      <subject>847023</subject>
+      <object>847026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4233975</relationship_id>
+      <predicate>has a</predicate>
+      <subject>847023</subject>
+      <object>3780369</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4233976</relationship_id>
+      <predicate>behind</predicate>
+      <subject>847022</subject>
+      <object>847022</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>144</h>
+      <object_id>847029</object_id>
+      <w>499</w>
+      <y>151</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ready</attribute>
+        <attribute>pitching</attribute>
+        <attribute>holding</attribute>
+        <attribute>throwing</attribute>
+        <attribute>outfielders</attribute>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>player</name>
+      <h>188</h>
+      <object_id>847023</object_id>
+      <w>490</w>
+      <y>138</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball bat</attribute>
+      </attributes>
+      <name>bat</name>
+      <h>79</h>
+      <object_id>847026</object_id>
+      <w>35</w>
+      <y>123</y>
+      <x>306</x>
+    </object>
+    <object>
+      <name>mitt</name>
+      <h>43</h>
+      <object_id>3780369</object_id>
+      <w>57</w>
+      <y>193</y>
+      <x>374</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ready</attribute>
+        <attribute>watching</attribute>
+        <attribute>behind </attribute>
+      </attributes>
+      <name>umpire</name>
+      <h>163</h>
+      <object_id>847022</object_id>
+      <w>104</w>
+      <y>170</y>
+      <x>395</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pitcher getting ready to hit a baseball.</caption>
+      <caption>a man uses a bat gets ready to try and hit a ball </caption>
+      <caption>A baseball player holding a bat next to home plate.</caption>
+      <caption>people in the field playing baseball one holding a bat</caption>
+      <caption>A player at bat in a baseball game.</caption>
+    </captions>
+</image>

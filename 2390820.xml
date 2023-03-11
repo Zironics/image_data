@@ -1,0 +1,41 @@
+<image>
+  <image-id>2390820</image-id>
+  <coco-id>225312</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4291670</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3827579</subject>
+      <object>493845</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>kitchen appliances</name>
+      <h>196</h>
+      <object_id>3827579</object_id>
+      <w>478</w>
+      <y>28</y>
+      <x>20</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blonde</attribute>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>shelf</name>
+      <h>94</h>
+      <object_id>493845</object_id>
+      <w>491</w>
+      <y>150</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A batter mixer beside a microwave on a counter</caption>
+      <caption>A mixer is on the counter beside a microwave oven.</caption>
+      <caption>A mixer on a counter next to a microwave oven.</caption>
+      <caption>a close up of an electric mixer next to a microwave</caption>
+      <caption>A microwave and blender on a kitchen counter </caption>
+    </captions>
+</image>

@@ -1,0 +1,61 @@
+<image>
+  <image-id>2332109</image-id>
+  <coco-id>131273</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4654045</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4229899</subject>
+      <object>4229966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4654046</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4229966</subject>
+      <object>4229902</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>canine</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>27</h>
+      <object_id>4229899</object_id>
+      <w>30</w>
+      <y>71</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>485</h>
+      <object_id>4229966</object_id>
+      <w>293</w>
+      <y>7</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>car</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>153</h>
+      <object_id>4229902</object_id>
+      <w>360</w>
+      <y>345</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A grey and white dog sitting in the passenger side of a car.</caption>
+      <caption>Beautiful husky sitting up in the front passenger seat</caption>
+      <caption>A husky riding in the front seat of the car</caption>
+      <caption>A husky dog sitting on the front seat of a car</caption>
+      <caption>A dog looks interested as he sits in the front seat of a car.</caption>
+    </captions>
+</image>

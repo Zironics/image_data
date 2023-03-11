@@ -1,0 +1,64 @@
+<image>
+  <image-id>2398841</image-id>
+  <coco-id>488138</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>912212</relationship_id>
+      <predicate>ON</predicate>
+      <subject>421583</subject>
+      <object>421588</object>
+    </relationship>
+    <relationship>
+      <relationship_id>912213</relationship_id>
+      <predicate>ON</predicate>
+      <subject>421590</subject>
+      <object>421591</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>wearing</attribute>
+        <attribute>holding</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>124</h>
+      <object_id>421583</object_id>
+      <w>180</w>
+      <y>40</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>cement</name>
+      <h>41</h>
+      <object_id>421588</object_id>
+      <w>107</w>
+      <y>291</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>arms</name>
+      <h>30</h>
+      <object_id>421590</object_id>
+      <w>82</w>
+      <y>99</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>knees</name>
+      <h>27</h>
+      <object_id>421591</object_id>
+      <w>85</w>
+      <y>121</y>
+      <x>133</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man sitting against a wall with a teddy bear.</caption>
+      <caption>A boy sitting on the ground with his back against a wall and a stuffed animal teddy bear in his arms.</caption>
+      <caption>A man sitting on the floor with his back up against the wall</caption>
+      <caption>A man sitting on the ground cuddling with a teddy bear. </caption>
+      <caption>A guy sits against a wall with a stuffed animal.</caption>
+    </captions>
+</image>

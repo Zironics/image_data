@@ -1,0 +1,51 @@
+<image>
+  <image-id>2380727</image-id>
+  <coco-id>31142</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4639190</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4192324</subject>
+      <object>4192326</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4639191</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4192325</subject>
+      <object>4192326</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>172</h>
+      <object_id>4192324</object_id>
+      <w>186</w>
+      <y>1</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>hands</name>
+      <h>115</h>
+      <object_id>4192326</object_id>
+      <w>121</w>
+      <y>40</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>222</h>
+      <object_id>4192325</object_id>
+      <w>230</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple both holding a knife together and cutting their wedding cake.</caption>
+      <caption>Two people each hold the same knife while cutting a cake.</caption>
+      <caption>A couple cutting their wedding cake together with a knife in their hands</caption>
+      <caption>Couple in formal wear cutting cake during ceremony.</caption>
+      <caption>A couple of people cutting into a wedding cake with a knife.</caption>
+    </captions>
+</image>

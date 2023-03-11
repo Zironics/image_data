@@ -1,0 +1,137 @@
+<image>
+  <image-id>2385529</image-id>
+  <coco-id>14353</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1260623</relationship_id>
+      <predicate>reaching into</predicate>
+      <subject>521254</subject>
+      <object>521255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260624</relationship_id>
+      <predicate>retrieving from</predicate>
+      <subject>521254</subject>
+      <object>521255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260626</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>521264</subject>
+      <object>521255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260627</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>521267</subject>
+      <object>521255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260629</relationship_id>
+      <predicate>has</predicate>
+      <subject>521255</subject>
+      <object>521265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260630</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>521264</subject>
+      <object>521255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260631</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>521264</subject>
+      <object>521255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260633</relationship_id>
+      <predicate>above</predicate>
+      <subject>521267</subject>
+      <object>521264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260634</relationship_id>
+      <predicate>placed in</predicate>
+      <subject>521264</subject>
+      <object>521255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1260635</relationship_id>
+      <predicate>has</predicate>
+      <subject>521267</subject>
+      <object>521272</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>275</h>
+      <object_id>521254</object_id>
+      <w>262</w>
+      <y>35</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+        <attribute>open</attribute>
+      </attributes>
+      <name>oven</name>
+      <h>374</h>
+      <object_id>521255</object_id>
+      <w>414</w>
+      <y>0</y>
+      <x>83</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>raw</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>71</h>
+      <object_id>521264</object_id>
+      <w>122</w>
+      <y>93</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>rack</name>
+      <h>97</h>
+      <object_id>521267</object_id>
+      <w>269</w>
+      <y>32</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>knob</name>
+      <h>13</h>
+      <object_id>521265</object_id>
+      <w>37</w>
+      <y>3</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>69</h>
+      <object_id>521272</object_id>
+      <w>95</w>
+      <y>104</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man pulling a pizza out of an oven.</caption>
+      <caption>Woman slides a homemade pizza onto a pizza stone into the oven using a paddle.</caption>
+      <caption>A person takes a pizza out of the oven with oven mitts.</caption>
+      <caption>A person pulling a pizza from the oven.</caption>
+      <caption>A person reaching into an open oven for a pizza.</caption>
+    </captions>
+</image>

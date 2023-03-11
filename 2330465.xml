@@ -1,0 +1,37 @@
+<image>
+  <image-id>2330465</image-id>
+  <coco-id>160421</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4827133</relationship_id>
+      <predicate>in</predicate>
+      <subject>4664872</subject>
+      <object>4664873</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>57</h>
+      <object_id>4664872</object_id>
+      <w>145</w>
+      <y>335</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>392</h>
+      <object_id>4664873</object_id>
+      <w>492</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bowl of food with meat in a sauce, broccoli and cucumbers. </caption>
+      <caption>Curry chicken, broccoli, cauliflower and zucchini with curry sauce.</caption>
+      <caption>Tofu with gravy sits in a bowl with veggies.</caption>
+      <caption>a large white bowl with tofu, broccoli, squash, and cauliflower </caption>
+      <caption>There is a plate of tofu and vegetables in a curry sauce.</caption>
+    </captions>
+</image>

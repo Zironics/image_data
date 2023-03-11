@@ -1,0 +1,127 @@
+<image>
+  <image-id>2389397</image-id>
+  <coco-id>166751</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3477724</relationship_id>
+      <predicate>hanging ove</predicate>
+      <subject>1261293</subject>
+      <object>1261294</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477725</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1261300</subject>
+      <object>1261297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477726</relationship_id>
+      <predicate>are in</predicate>
+      <subject>1261292</subject>
+      <object>1261294</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477727</relationship_id>
+      <predicate>riding</predicate>
+      <subject>1261300</subject>
+      <object>1261297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477728</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1261302</subject>
+      <object>1261291</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>leafy</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>83</h>
+      <object_id>1261293</object_id>
+      <w>196</w>
+      <y>2</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>a river</attribute>
+        <attribute>gray</attribute>
+        <attribute>dark</attribute>
+        <attribute>choppy</attribute>
+        <attribute>calm</attribute>
+      </attributes>
+      <name>water</name>
+      <h>228</h>
+      <object_id>1261294</object_id>
+      <w>498</w>
+      <y>105</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>26</h>
+      <object_id>1261300</object_id>
+      <w>28</w>
+      <y>140</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>canoe</name>
+      <h>16</h>
+      <object_id>1261297</object_id>
+      <w>51</w>
+      <y>162</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>docked</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>boats</name>
+      <h>37</h>
+      <object_id>1261292</object_id>
+      <w>58</w>
+      <y>80</y>
+      <x>325</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>people</name>
+      <h>27</h>
+      <object_id>1261302</object_id>
+      <w>24</w>
+      <y>141</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>canoe</name>
+      <h>21</h>
+      <object_id>1261291</object_id>
+      <w>119</w>
+      <y>159</y>
+      <x>135</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people riding in boats across a river.</caption>
+      <caption>A lone boat drifts in choppy water while other a dock in the harbor.</caption>
+      <caption>a group of people heading out on the water in a little boat</caption>
+      <caption>Some boats traveling on a river with other boats near the shore.</caption>
+      <caption>A boat constructed of two canoes paddling on a river.</caption>
+    </captions>
+</image>

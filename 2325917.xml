@@ -1,0 +1,103 @@
+<image>
+  <image-id>2325917</image-id>
+  <coco-id>396942</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2941899</relationship_id>
+      <predicate>hold</predicate>
+      <subject>984379</subject>
+      <object>984385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2941900</relationship_id>
+      <predicate>IN</predicate>
+      <subject>984379</subject>
+      <object>984381</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2941901</relationship_id>
+      <predicate>hold</predicate>
+      <subject>984379</subject>
+      <object>984385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2941902</relationship_id>
+      <predicate>IN</predicate>
+      <subject>984389</subject>
+      <object>984380</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2941903</relationship_id>
+      <predicate>ON</predicate>
+      <subject>984380</subject>
+      <object>984381</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in wilderness</attribute>
+        <attribute>skiing</attribute>
+        <attribute>on vacation</attribute>
+        <attribute>on day off</attribute>
+        <attribute>exercising</attribute>
+        <attribute>enjoying day</attribute>
+      </attributes>
+      <name>skiers</name>
+      <h>79</h>
+      <object_id>984379</object_id>
+      <w>215</w>
+      <y>163</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>poles</name>
+      <h>34</h>
+      <object_id>984385</object_id>
+      <w>50</w>
+      <y>180</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snow-covered</attribute>
+      </attributes>
+      <name>mountains</name>
+      <h>61</h>
+      <object_id>984381</object_id>
+      <w>302</w>
+      <y>96</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>31</h>
+      <object_id>984389</object_id>
+      <w>36</w>
+      <y>178</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>deep</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>79</h>
+      <object_id>984380</object_id>
+      <w>107</w>
+      <y>215</y>
+      <x>200</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there are two people skiing alone on a mountain</caption>
+      <caption>A pair of skiers on a big snowy hill in the mountains.</caption>
+      <caption>I am unable to see an image above.</caption>
+      <caption>Two skiers make their way down a hillside.</caption>
+      <caption>There are some skiers turning on a corner slope</caption>
+    </captions>
+</image>

@@ -1,0 +1,245 @@
+<image>
+  <image-id>2386889</image-id>
+  <coco-id>561913</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3510598</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1281427</subject>
+      <object>1281428</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510599</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1281429</subject>
+      <object>1281427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510600</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1281430</subject>
+      <object>1281429</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510601</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1281434</subject>
+      <object>1281427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510602</relationship_id>
+      <predicate>has</predicate>
+      <subject>1281429</subject>
+      <object>1281432</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510603</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1281429</subject>
+      <object>1281435</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510604</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1281432</subject>
+      <object>1281427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510605</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1281430</subject>
+      <object>1281436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510606</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1281430</subject>
+      <object>1281437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510607</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1281429</subject>
+      <object>1281427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510608</relationship_id>
+      <predicate>swinging at</predicate>
+      <subject>1281427</subject>
+      <object>1281431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510609</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1281431</subject>
+      <object>1281427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510610</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1281429</subject>
+      <object>1281438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510611</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1281429</subject>
+      <object>1281439</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3510612</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1281429</subject>
+      <object>1281424</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>swinging</attribute>
+        <attribute>swinging bat</attribute>
+      </attributes>
+      <name>batter</name>
+      <h>150</h>
+      <object_id>1281427</object_id>
+      <w>146</w>
+      <y>37</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>uniform</name>
+      <h>125</h>
+      <object_id>1281428</object_id>
+      <w>73</w>
+      <y>50</y>
+      <x>255</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>squatting</attribute>
+      </attributes>
+      <name>catcher</name>
+      <h>109</h>
+      <object_id>1281429</object_id>
+      <w>108</w>
+      <y>99</y>
+      <x>152</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>crouching down</attribute>
+        <attribute>crouching</attribute>
+      </attributes>
+      <name>umpire</name>
+      <h>138</h>
+      <object_id>1281430</object_id>
+      <w>87</w>
+      <y>73</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>wrist guard</name>
+      <h>13</h>
+      <object_id>1281434</object_id>
+      <w>15</w>
+      <y>73</y>
+      <x>312</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>being held up</attribute>
+      </attributes>
+      <name>mitt</name>
+      <h>25</h>
+      <object_id>1281432</object_id>
+      <w>23</w>
+      <y>102</y>
+      <x>241</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>22</h>
+      <object_id>1281435</object_id>
+      <w>26</w>
+      <y>100</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>mask</name>
+      <h>28</h>
+      <object_id>1281436</object_id>
+      <w>11</w>
+      <y>75</y>
+      <x>132</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>41</h>
+      <object_id>1281437</object_id>
+      <w>60</w>
+      <y>89</y>
+      <x>69</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in flight</attribute>
+        <attribute>in air</attribute>
+        <attribute>being hit</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>baseball</name>
+      <h>9</h>
+      <object_id>1281431</object_id>
+      <w>8</w>
+      <y>50</y>
+      <x>415</x>
+    </object>
+    <object>
+      <name>mask</name>
+      <h>31</h>
+      <object_id>1281438</object_id>
+      <w>9</w>
+      <y>103</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>38</h>
+      <object_id>1281439</object_id>
+      <w>62</w>
+      <y>122</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>lined</attribute>
+        <attribute>grassy</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>field</name>
+      <h>145</h>
+      <object_id>1281424</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player swinging a bat over home plate.</caption>
+      <caption>A man that has a baseball bat in the dirt.</caption>
+      <caption>a baseball player is out in a field hitting a ball</caption>
+      <caption>A baseball player swinging a baseball bat at a ball during a game. </caption>
+      <caption>a man hitting a baseball during a game </caption>
+    </captions>
+</image>

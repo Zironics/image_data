@@ -1,0 +1,98 @@
+<image>
+  <image-id>2330658</image-id>
+  <coco-id>113261</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4112438</relationship_id>
+      <predicate>parked next</predicate>
+      <subject>3176292</subject>
+      <object>3176293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3692790</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3388328</subject>
+      <object>3388329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3692791</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3388328</subject>
+      <object>3388330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4112442</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>2983360</subject>
+      <object>2983362</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>FedEx , </attribute>
+      </attributes>
+      <name>plane</name>
+      <h>145</h>
+      <object_id>3176292</object_id>
+      <w>421</w>
+      <y>77</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>trucks</name>
+      <h>60</h>
+      <object_id>3176293</object_id>
+      <w>163</w>
+      <y>170</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>35</h>
+      <object_id>3388328</object_id>
+      <w>61</w>
+      <y>120</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>80</h>
+      <object_id>3388329</object_id>
+      <w>44</w>
+      <y>77</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>147</h>
+      <object_id>3388330</object_id>
+      <w>342</w>
+      <y>78</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>40</h>
+      <object_id>2983360</object_id>
+      <w>25</w>
+      <y>204</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>tarmac</name>
+      <h>107</h>
+      <object_id>2983362</object_id>
+      <w>498</w>
+      <y>223</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane is parked on an run way.</caption>
+      <caption>an orange white and blue jet people and some trucks</caption>
+      <caption>A Federal Express airplane parked on a runway.  </caption>
+      <caption>A large jet airplane getting loaded with cargo.</caption>
+      <caption>Many people are standing on the stairs leading to the doors of the huge jet.  </caption>
+    </captions>
+</image>

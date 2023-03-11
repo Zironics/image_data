@@ -1,0 +1,84 @@
+<image>
+  <image-id>2337277</image-id>
+  <coco-id>360313</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4080809</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2839363</subject>
+      <object>2839364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080810</relationship_id>
+      <predicate>leading into</predicate>
+      <subject>3203784</subject>
+      <object>3203785</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3685937</relationship_id>
+      <predicate>made by</predicate>
+      <subject>3545091</subject>
+      <object>2829886</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>roof</name>
+      <h>48</h>
+      <object_id>2839363</object_id>
+      <w>235</w>
+      <y>147</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>102</h>
+      <object_id>2839364</object_id>
+      <w>241</w>
+      <y>133</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>steps</name>
+      <h>11</h>
+      <object_id>3203784</object_id>
+      <w>41</w>
+      <y>415</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>pool</name>
+      <h>191</h>
+      <object_id>3203785</object_id>
+      <w>330</w>
+      <y>236</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>24</h>
+      <object_id>3545091</object_id>
+      <w>41</w>
+      <y>406</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>32</h>
+      <object_id>2829886</object_id>
+      <w>36</w>
+      <y>392</y>
+      <x>295</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clear pool surrounded by chairs, palm trees, and a large white building.</caption>
+      <caption>A large swimming pool filled with water next to a hotel.</caption>
+      <caption>A pool surrounded with chairs and trees. </caption>
+      <caption>A couple of people sitting near a large pool.</caption>
+      <caption>A large pool is surrounded by lounge chairs and a building. </caption>
+    </captions>
+</image>

@@ -1,0 +1,159 @@
+<image>
+  <image-id>2335944</image-id>
+  <coco-id>78404</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3974447</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>2043966</subject>
+      <object>2043965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974448</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>2043967</subject>
+      <object>2043965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974449</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>2043968</subject>
+      <object>2043965</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974450</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>2043967</subject>
+      <object>2725599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974451</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>2043966</subject>
+      <object>2725599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974452</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>2043968</subject>
+      <object>2725599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974453</relationship_id>
+      <predicate>taken at a</predicate>
+      <subject>3503092</subject>
+      <object>3503091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974454</relationship_id>
+      <predicate>shining on a</predicate>
+      <subject>3666208</subject>
+      <object>2043967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974455</relationship_id>
+      <predicate>shining on a</predicate>
+      <subject>3666208</subject>
+      <object>3666209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974456</relationship_id>
+      <predicate>shining on a</predicate>
+      <subject>3666208</subject>
+      <object>3666210</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>210</h>
+      <object_id>2043966</object_id>
+      <w>85</w>
+      <y>12</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>195</h>
+      <object_id>2043965</object_id>
+      <w>335</w>
+      <y>133</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>307</h>
+      <object_id>2043967</object_id>
+      <w>197</w>
+      <y>6</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>315</h>
+      <object_id>2043968</object_id>
+      <w>109</w>
+      <y>2</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>180</h>
+      <object_id>2725599</object_id>
+      <w>317</w>
+      <y>133</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>photograph</name>
+      <h>346</h>
+      <object_id>3503092</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>344</h>
+      <object_id>3503091</object_id>
+      <w>497</w>
+      <y>5</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sunlight</name>
+      <h>59</h>
+      <object_id>3666208</object_id>
+      <w>74</w>
+      <y>83</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>95</h>
+      <object_id>3666209</object_id>
+      <w>68</w>
+      <y>10</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>228</h>
+      <object_id>3666210</object_id>
+      <w>104</w>
+      <y>5</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Three women sitting on a park bench next to each other.</caption>
+      <caption>A group of women sitting on a full bench.</caption>
+      <caption>3 ladies sitting together on a bench in the park. </caption>
+      <caption>A group of women sitting on a park bench</caption>
+      <caption>The bench's maximum weight capacity may be strained.</caption>
+    </captions>
+</image>

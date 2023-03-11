@@ -1,0 +1,76 @@
+<image>
+  <image-id>713690</image-id>
+  <coco-id>519880</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4669841</relationship_id>
+      <predicate>watching</predicate>
+      <subject>4269468</subject>
+      <object>4573751</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4669844</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4269474</subject>
+      <object>4573751</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4669860</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4269522</subject>
+      <object>4269523</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>82</h>
+      <object_id>4269468</object_id>
+      <w>31</w>
+      <y>137</y>
+      <x>156</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skateboarding</attribute>
+      </attributes>
+      <h>336</h>
+      <object_id>4573751</object_id>
+      <w>261</w>
+      <y>63</y>
+      <x>187</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>63</h>
+      <object_id>4269474</object_id>
+      <w>34</w>
+      <y>167</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>75</h>
+      <object_id>4269522</object_id>
+      <w>56</w>
+      <y>157</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>139</h>
+      <object_id>4269523</object_id>
+      <w>214</w>
+      <y>123</y>
+      <x>230</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on a skateboard doing a trick. </caption>
+      <caption>A skateboarder grinding down a red and black ramp.</caption>
+      <caption>A guy on a skateboard does tricks for the audience.</caption>
+      <caption>A skateboarder in a professional setting grinding down a column.</caption>
+      <caption>A person that is doing a skateboard trick.</caption>
+    </captions>
+</image>

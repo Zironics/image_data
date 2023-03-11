@@ -1,0 +1,59 @@
+<image>
+  <image-id>2326206</image-id>
+  <coco-id>472521</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3685964</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3290780</subject>
+      <object>3290781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4480748</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2802234</subject>
+      <object>2802235</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>orange</name>
+      <h>166</h>
+      <object_id>3290780</object_id>
+      <w>171</w>
+      <y>165</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>281</h>
+      <object_id>3290781</object_id>
+      <w>417</w>
+      <y>81</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>76</h>
+      <object_id>2802234</object_id>
+      <w>81</w>
+      <y>182</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>319</h>
+      <object_id>2802235</object_id>
+      <w>458</w>
+      <y>27</y>
+      <x>38</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Close up of a bunch of oranges with some on a plate in the background.</caption>
+      <caption>A table with a bowl filled to overflowing with oranges.</caption>
+      <caption>Oranges on the table in the foreground while a bowl of oranges rests in the background. </caption>
+      <caption>Several oranges sit on a table next to a bowl of oranges.</caption>
+      <caption>Large group of oranges sitting on a table and inside a bowl. </caption>
+    </captions>
+</image>

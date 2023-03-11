@@ -1,0 +1,68 @@
+<image>
+  <image-id>1592929</image-id>
+  <coco-id>304079</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4746097</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4456057</subject>
+      <object>4112446</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746098</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4112446</subject>
+      <object>4456060</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4607042</relationship_id>
+      <predicate>near a</predicate>
+      <subject>4112446</subject>
+      <object>4112447</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windows</name>
+      <h>63</h>
+      <object_id>4456057</object_id>
+      <w>467</w>
+      <y>206</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <h>274</h>
+      <object_id>4112446</object_id>
+      <w>539</w>
+      <y>96</y>
+      <x>198</x>
+      <name>house</name>
+    </object>
+    <object>
+      <name>pond</name>
+      <h>145</h>
+      <object_id>4456060</object_id>
+      <w>847</w>
+      <y>417</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>pond</name>
+      <h>171</h>
+      <object_id>4112447</object_id>
+      <w>500</w>
+      <y>412</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bench in front of a small lake with a house in the background.</caption>
+      <caption>Lake surrounded by trees in front of a house next to a bridge.</caption>
+      <caption>A bench overlooks a man-made pond in a garden.</caption>
+      <caption>a park bench that is out in front of a pond</caption>
+      <caption>A wooden bench sitting next to a lake.</caption>
+    </captions>
+</image>

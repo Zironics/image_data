@@ -1,0 +1,37 @@
+<image>
+  <image-id>2365684</image-id>
+  <coco-id>34469</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4380216</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1784486</subject>
+      <object>1784487</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>17</h>
+      <object_id>1784486</object_id>
+      <w>7</w>
+      <y>32</y>
+      <x>453</x>
+    </object>
+    <object>
+      <name>stables</name>
+      <h>56</h>
+      <object_id>1784487</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large herd of animals standing inside of a pen.</caption>
+      <caption>a large stable filled with horses of all kinds</caption>
+      <caption>A herd of horses either stand or lie down in dirt.</caption>
+      <caption>A group of cows that are laying in the dirt.</caption>
+      <caption>The horses are all grouped together in the stable.</caption>
+    </captions>
+</image>

@@ -1,0 +1,103 @@
+<image>
+  <image-id>2337200</image-id>
+  <coco-id>522191</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260046</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3460964</subject>
+      <object>3795171</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3788938</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2754258</subject>
+      <object>2754259</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3788962</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2444073</subject>
+      <object>2444074</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3973804</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2437633</subject>
+      <object>2437638</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>123</h>
+      <object_id>3460964</object_id>
+      <w>74</w>
+      <y>188</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>147</h>
+      <object_id>3795171</object_id>
+      <w>120</w>
+      <y>113</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>279</h>
+      <object_id>2754258</object_id>
+      <w>383</w>
+      <y>3</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>275</h>
+      <object_id>2754259</object_id>
+      <w>392</w>
+      <y>0</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>54</h>
+      <object_id>2444073</object_id>
+      <w>21</w>
+      <y>2</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>92</h>
+      <object_id>2444074</object_id>
+      <w>133</w>
+      <y>0</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>63</h>
+      <object_id>2437633</object_id>
+      <w>17</w>
+      <y>19</y>
+      <x>434</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>71</h>
+      <object_id>2437638</object_id>
+      <w>114</w>
+      <y>55</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red and white double decker bus parked in front of a building.</caption>
+      <caption>Two red and white buses are making their way through the city streets, </caption>
+      <caption>A red and white double decker bus in the city.</caption>
+      <caption>Two buses going down a city street with buildings.</caption>
+      <caption>Modern double-decker bus on the street in Dublin</caption>
+    </captions>
+</image>

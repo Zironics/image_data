@@ -1,0 +1,95 @@
+<image>
+  <image-id>2320429</image-id>
+  <coco-id>188727</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3977790</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3134475</subject>
+      <object>3103644</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3977799</relationship_id>
+      <predicate>has</predicate>
+      <subject>3103644</subject>
+      <object>3454257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251921</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2788741</subject>
+      <object>2788742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3977892</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3667498</subject>
+      <object>2924224</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ear</name>
+      <h>17</h>
+      <object_id>3134475</object_id>
+      <w>21</w>
+      <y>111</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>197</h>
+      <object_id>3103644</object_id>
+      <w>248</w>
+      <y>102</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>64</h>
+      <object_id>3454257</object_id>
+      <w>67</w>
+      <y>233</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>64</h>
+      <object_id>2788741</object_id>
+      <w>110</w>
+      <y>2</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>132</h>
+      <object_id>2788742</object_id>
+      <w>160</w>
+      <y>2</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>view</name>
+      <h>104</h>
+      <object_id>3667498</object_id>
+      <w>147</w>
+      <y>200</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>57</h>
+      <object_id>2924224</object_id>
+      <w>157</w>
+      <y>239</y>
+      <x>239</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two giraffe laying in a open grassy field.</caption>
+      <caption>Two giraffe sitting on the ground next to each other in a field.</caption>
+      <caption>two giraffes sitting on the grass outside of a stone enclosure.</caption>
+      <caption>Two giraffe laying down in the grass next to a stone wall.</caption>
+      <caption>TWO GIRAFFES SITTING IN THE EXACT SAME POSITION</caption>
+    </captions>
+</image>

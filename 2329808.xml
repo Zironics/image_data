@@ -1,0 +1,40 @@
+<image>
+  <image-id>2329808</image-id>
+  <coco-id>276796</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3980964</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3483389</subject>
+      <object>3483390</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>number</name>
+      <h>17</h>
+      <object_id>3483389</object_id>
+      <w>10</w>
+      <y>155</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>270</h>
+      <object_id>3483390</object_id>
+      <w>333</w>
+      <y>20</y>
+      <x>84</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden clock sitting on top of a table.</caption>
+      <caption>An old fashioned wooden clock with the time of 3:55.</caption>
+      <caption>an old clock sits in a person's desk</caption>
+      <caption>A wooden clock with a dark stain placed on a black table. </caption>
+      <caption>A small clock sits on a small black table. </caption>
+    </captions>
+</image>

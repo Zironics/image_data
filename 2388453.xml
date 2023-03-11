@@ -1,0 +1,179 @@
+<image>
+  <image-id>2388453</image-id>
+  <coco-id>137228</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1209193</relationship_id>
+      <predicate>has</predicate>
+      <subject>508860</subject>
+      <object>508862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209194</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>508863</subject>
+      <object>508864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209195</relationship_id>
+      <predicate>held by</predicate>
+      <subject>508862</subject>
+      <object>508860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209196</relationship_id>
+      <predicate>held by</predicate>
+      <subject>508862</subject>
+      <object>508860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209197</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>508858</subject>
+      <object>508857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209198</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>508858</subject>
+      <object>508857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209199</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>508863</subject>
+      <object>508864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209200</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>508867</subject>
+      <object>508864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209201</relationship_id>
+      <predicate>has</predicate>
+      <subject>508859</subject>
+      <object>508868</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209202</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>508863</subject>
+      <object>508864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209203</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>508858</subject>
+      <object>508857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209204</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>508867</subject>
+      <object>508864</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>looking</attribute>
+        <attribute>in focus</attribute>
+        <attribute>playing game</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>372</h>
+      <object_id>508860</object_id>
+      <w>215</w>
+      <y>2</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>controller</name>
+      <h>56</h>
+      <object_id>508862</object_id>
+      <w>56</w>
+      <y>178</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>plant</name>
+      <h>111</h>
+      <object_id>508863</object_id>
+      <w>46</w>
+      <y>242</y>
+      <x>246</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>desk</name>
+      <h>40</h>
+      <object_id>508864</object_id>
+      <w>330</w>
+      <y>335</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>poster</name>
+      <h>203</h>
+      <object_id>508858</object_id>
+      <w>290</w>
+      <y>64</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>368</h>
+      <object_id>508857</object_id>
+      <w>406</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>object</name>
+      <h>36</h>
+      <object_id>508867</object_id>
+      <w>35</w>
+      <y>331</y>
+      <x>81</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+        <attribute>to another room</attribute>
+      </attributes>
+      <name>door</name>
+      <h>259</h>
+      <object_id>508859</object_id>
+      <w>112</w>
+      <y>115</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>molding</name>
+      <h>27</h>
+      <object_id>508868</object_id>
+      <w>39</w>
+      <y>126</y>
+      <x>359</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a man playing a video game</caption>
+      <caption>a person standing and holding a game controller next to another person</caption>
+      <caption>A man playing Wii in a room </caption>
+      <caption>A man standing in a room holding a video game remote</caption>
+      <caption>A man with a video game remote in a living room.</caption>
+    </captions>
+</image>

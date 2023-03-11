@@ -1,0 +1,123 @@
+<image>
+  <image-id>2331468</image-id>
+  <coco-id>477634</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4464789</relationship_id>
+      <predicate>has legs under</predicate>
+      <subject>2837367</subject>
+      <object>2703583</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102015</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2837367</subject>
+      <object>3603312</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102017</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3496403</subject>
+      <object>3716008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2768810</subject>
+      <object>2837367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102019</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>2837367</subject>
+      <object>3603312</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102020</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2895564</subject>
+      <object>3603312</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3821875</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2837367</subject>
+      <object>3603312</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>188</h>
+      <object_id>2837367</object_id>
+      <w>384</w>
+      <y>80</y>
+      <x>33</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>62</h>
+      <object_id>2703583</object_id>
+      <w>87</w>
+      <y>245</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>310</h>
+      <object_id>3603312</object_id>
+      <w>476</w>
+      <y>9</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>20</h>
+      <object_id>3496403</object_id>
+      <w>18</w>
+      <y>113</y>
+      <x>314</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>61</h>
+      <object_id>3716008</object_id>
+      <w>118</w>
+      <y>77</y>
+      <x>295</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tail feathers</name>
+      <h>68</h>
+      <object_id>2768810</object_id>
+      <w>105</w>
+      <y>161</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>sea</attribute>
+      </attributes>
+      <name>weed</name>
+      <h>42</h>
+      <object_id>2895564</object_id>
+      <w>69</w>
+      <y>66</y>
+      <x>423</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white bird floating on top of a lake with ripples.</caption>
+      <caption>A single white and brown bird floating on water.</caption>
+      <caption>A white bird with black tail feathers is floating in the water.</caption>
+      <caption>A seagull with black eyes swimming in a lake</caption>
+      <caption>The duck is quietly waddling in the calm water.</caption>
+    </captions>
+</image>

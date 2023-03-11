@@ -1,0 +1,153 @@
+<image>
+  <image-id>2383014</image-id>
+  <coco-id>4981</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1844708</relationship_id>
+      <predicate>holding an</predicate>
+      <subject>695201</subject>
+      <object>695193</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1844709</relationship_id>
+      <predicate>has</predicate>
+      <subject>695202</subject>
+      <object>695203</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1844710</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>695202</subject>
+      <object>695204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1844711</relationship_id>
+      <predicate>on womans</predicate>
+      <subject>695198</subject>
+      <object>695205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1844712</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>695201</subject>
+      <object>695200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1844713</relationship_id>
+      <predicate>behind</predicate>
+      <subject>695204</subject>
+      <object>695202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1844714</relationship_id>
+      <predicate>has an</predicate>
+      <subject>695202</subject>
+      <object>695203</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1844715</relationship_id>
+      <predicate>have a lot of</predicate>
+      <subject>695204</subject>
+      <object>695196</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>105</h>
+      <object_id>695201</object_id>
+      <w>65</w>
+      <y>207</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>45</h>
+      <object_id>695193</object_id>
+      <w>68</w>
+      <y>176</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>59</h>
+      <object_id>695202</object_id>
+      <w>498</w>
+      <y>113</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>entry</name>
+      <h>51</h>
+      <object_id>695203</object_id>
+      <w>64</w>
+      <y>114</y>
+      <x>388</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>107</h>
+      <object_id>695204</object_id>
+      <w>491</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>oversized</attribute>
+      </attributes>
+      <name>handbag</name>
+      <h>61</h>
+      <object_id>695198</object_id>
+      <w>41</w>
+      <y>213</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>shoulder</name>
+      <h>19</h>
+      <object_id>695205</object_id>
+      <w>16</w>
+      <y>212</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cracked</attribute>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>152</h>
+      <object_id>695200</object_id>
+      <w>497</w>
+      <y>186</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>183</h>
+      <object_id>695196</object_id>
+      <w>498</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person with an umbrella walks down the side walk alongside fenced in greenery.</caption>
+      <caption>A woman carrying a bright yellow bag and holding a black umbrella over her head is walking down the sidewalk of a city street.</caption>
+      <caption>A woman with a big, yellow bag walks next to an iron fence down a leaf strewn sidewalk as she carries a black umbrella. </caption>
+      <caption>A woman is walking down an empty sidewalk
+</caption>
+      <caption>A lone woman strolls with a large yellow umbrella.</caption>
+    </captions>
+</image>

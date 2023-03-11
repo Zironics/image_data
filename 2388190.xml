@@ -1,0 +1,123 @@
+<image>
+  <image-id>2388190</image-id>
+  <coco-id>420380</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1776347</relationship_id>
+      <predicate>in a</predicate>
+      <subject>674923</subject>
+      <object>674924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776348</relationship_id>
+      <predicate>ON</predicate>
+      <subject>674928</subject>
+      <object>674929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776349</relationship_id>
+      <predicate>using a</predicate>
+      <subject>674930</subject>
+      <object>674923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776350</relationship_id>
+      <predicate>has a</predicate>
+      <subject>674923</subject>
+      <object>674931</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776351</relationship_id>
+      <predicate>has a</predicate>
+      <subject>674924</subject>
+      <object>674923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776352</relationship_id>
+      <predicate>has a</predicate>
+      <subject>674924</subject>
+      <object>674923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776353</relationship_id>
+      <predicate>has a</predicate>
+      <subject>674930</subject>
+      <object>674924</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776354</relationship_id>
+      <predicate>has a</predicate>
+      <subject>674924</subject>
+      <object>674923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776355</relationship_id>
+      <predicate>has a</predicate>
+      <subject>674924</subject>
+      <object>674923</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>mouse</name>
+      <h>40</h>
+      <object_id>674923</object_id>
+      <w>78</w>
+      <y>202</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>84</h>
+      <object_id>674924</object_id>
+      <w>138</w>
+      <y>160</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>up</attribute>
+      </attributes>
+      <name>finger</name>
+      <h>41</h>
+      <object_id>674928</object_id>
+      <w>38</w>
+      <y>172</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>10</h>
+      <object_id>674929</object_id>
+      <w>10</w>
+      <y>213</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>162</h>
+      <object_id>674930</object_id>
+      <w>240</w>
+      <y>81</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>button</name>
+      <h>26</h>
+      <object_id>674931</object_id>
+      <w>30</w>
+      <y>213</y>
+      <x>68</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holding a computer mouse next to a glass of water.</caption>
+      <caption>a little glass of water next to a hand with a mouse </caption>
+      <caption>Someones hand on their mouse beside a cup. </caption>
+      <caption>View of a plastic glass and a hand on a computer mouse.</caption>
+      <caption>a man uses a mouse next to a beverage </caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>286071</image-id>
+  <coco-id>222107</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4051698</relationship_id>
+      <predicate>in background on</predicate>
+      <subject>1571638</subject>
+      <object>1571639</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>sunset</name>
+      <h>46</h>
+      <object_id>1571638</object_id>
+      <w>47</w>
+      <y>201</y>
+      <x>614</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>334</h>
+      <object_id>1571639</object_id>
+      <w>739</w>
+      <y>201</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Sunset at a beach near a street with an obelisk.</caption>
+      <caption>A view from above of clock tower in a plaza next to a beach at sunset.  </caption>
+      <caption>A clock tower in the middle of a walkway near the ocean at sunset.</caption>
+      <caption>The sun is setting over the beach in a turnabout.</caption>
+      <caption>The clock tower is on display by the water.</caption>
+    </captions>
+</image>

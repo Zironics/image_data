@@ -1,0 +1,59 @@
+<image>
+  <image-id>2340257</image-id>
+  <coco-id>136539</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4031894</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2307864</subject>
+      <object>2171167</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4031895</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2396548</subject>
+      <object>2396549</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>47</h>
+      <object_id>2307864</object_id>
+      <w>20</w>
+      <y>312</y>
+      <x>52</x>
+      <name>bottle</name>
+    </object>
+    <object>
+      <name>juice</name>
+      <h>82</h>
+      <object_id>2171167</object_id>
+      <w>85</w>
+      <y>292</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>milk</name>
+      <h>55</h>
+      <object_id>2396548</object_id>
+      <w>82</w>
+      <y>187</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>fridge</name>
+      <h>353</h>
+      <object_id>2396549</object_id>
+      <w>343</w>
+      <y>67</y>
+      <x>15</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A refrigerator in a store filled with drinks.</caption>
+      <caption>A retail refrigerator is shown against a brick wall.</caption>
+      <caption>A refrigerator filled with lots of juice and food.</caption>
+      <caption>A store refrigerator with milk, orange juice and soda. </caption>
+      <caption>a refrigerator with many different drinks inside next to a wall</caption>
+    </captions>
+</image>

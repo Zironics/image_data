@@ -1,0 +1,57 @@
+<image>
+  <image-id>2413644</image-id>
+  <coco-id>218960</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4267312</relationship_id>
+      <predicate>has</predicate>
+      <subject>3800467</subject>
+      <object>169217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267319</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3800467</subject>
+      <object>169210</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>59</h>
+      <object_id>3800467</object_id>
+      <w>89</w>
+      <y>177</y>
+      <x>272</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>slight</attribute>
+      </attributes>
+      <name>slight hump</name>
+      <h>12</h>
+      <object_id>169217</object_id>
+      <w>20</w>
+      <y>178</y>
+      <x>289</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grass</attribute>
+      </attributes>
+      <name>field</name>
+      <h>153</h>
+      <object_id>169210</object_id>
+      <w>499</w>
+      <y>177</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large brown bear sniffs something on the ground.</caption>
+      <caption>A brown bear in a field by a forest in autumn</caption>
+      <caption>A bear standing in the woods in front of a tree.</caption>
+      <caption>A brown bear standing on top of grass in a field.</caption>
+      <caption>A brown bear walks in the grass in front of trees.</caption>
+    </captions>
+</image>

@@ -1,0 +1,51 @@
+<image>
+  <image-id>2327484</image-id>
+  <coco-id>58079</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3633232</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3477559</subject>
+      <object>3277512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3633233</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3477559</subject>
+      <object>3245515</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>160</h>
+      <object_id>3477559</object_id>
+      <w>286</w>
+      <y>224</y>
+      <x>61</x>
+      <name>brush</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>212</h>
+      <object_id>3277512</object_id>
+      <w>94</w>
+      <y>94</y>
+      <x>202</x>
+    </object>
+    <object>
+      <h>219</h>
+      <object_id>3245515</object_id>
+      <w>116</w>
+      <y>250</y>
+      <x>0</x>
+      <name>fingers</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person holding a toothbrush under the running water of a faucet.</caption>
+      <caption>A toothbrush being held under a water facet.</caption>
+      <caption>A person holds their toothbrush under a running sink.</caption>
+      <caption>A toothbrush is being held under running water.</caption>
+      <caption>Person holding a toothbrush under a faucet with running water.</caption>
+    </captions>
+</image>

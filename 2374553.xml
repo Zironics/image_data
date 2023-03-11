@@ -1,0 +1,188 @@
+<image>
+  <image-id>2374553</image-id>
+  <coco-id>316014</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1949512</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>726082</subject>
+      <object>726083</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949513</relationship_id>
+      <predicate>lifted off</predicate>
+      <subject>726084</subject>
+      <object>726083</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949514</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>726086</subject>
+      <object>726076</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949515</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>726080</subject>
+      <object>726088</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949516</relationship_id>
+      <predicate>looking st</predicate>
+      <subject>726080</subject>
+      <object>726070</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949517</relationship_id>
+      <predicate>held in</predicate>
+      <subject>726073</subject>
+      <object>726089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949518</relationship_id>
+      <predicate>on wall of</predicate>
+      <subject>726086</subject>
+      <object>726076</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949519</relationship_id>
+      <predicate>ready to hit</predicate>
+      <subject>726080</subject>
+      <object>726070</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949520</relationship_id>
+      <predicate>holding</predicate>
+      <subject>726080</subject>
+      <object>726073</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949521</relationship_id>
+      <predicate>holding</predicate>
+      <subject>726080</subject>
+      <object>726073</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949522</relationship_id>
+      <predicate>holding</predicate>
+      <subject>726080</subject>
+      <object>726073</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1949523</relationship_id>
+      <predicate>holding</predicate>
+      <subject>726080</subject>
+      <object>726073</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>debris</name>
+      <h>16</h>
+      <object_id>726082</object_id>
+      <w>75</w>
+      <y>197</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>141</h>
+      <object_id>726083</object_id>
+      <w>497</w>
+      <y>191</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>heel</name>
+      <h>15</h>
+      <object_id>726084</object_id>
+      <w>17</w>
+      <y>252</y>
+      <x>348</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>38</h>
+      <object_id>726086</object_id>
+      <w>70</w>
+      <y>11</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+        <attribute>brick pattern</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>114</h>
+      <object_id>726076</object_id>
+      <w>457</w>
+      <y>8</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>stepping</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>238</h>
+      <object_id>726080</object_id>
+      <w>117</w>
+      <y>70</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>outfit</name>
+      <h>117</h>
+      <object_id>726088</object_id>
+      <w>73</w>
+      <y>103</y>
+      <x>266</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hellow</attribute>
+        <attribute>small</attribute>
+        <attribute>in motion</attribute>
+        <attribute>in flight</attribute>
+        <attribute>flying</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>22</h>
+      <object_id>726070</object_id>
+      <w>32</w>
+      <y>166</y>
+      <x>20</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>67</h>
+      <object_id>726073</object_id>
+      <w>97</w>
+      <y>67</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>25</h>
+      <object_id>726089</object_id>
+      <w>20</w>
+      <y>103</y>
+      <x>246</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl on a tennis court hits a forehand.</caption>
+      <caption>A woman playing tennis on a clay court with other players in the background</caption>
+      <caption>A woman with a racket stands on a court.</caption>
+      <caption>a tennis player on a court swinging a racket</caption>
+      <caption>A woman standing on a tennis court hitting a tennis ball with a racquet.</caption>
+    </captions>
+</image>

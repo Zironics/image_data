@@ -1,0 +1,104 @@
+<image>
+  <image-id>2316231</image-id>
+  <coco-id>371703</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4524279</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3460321</subject>
+      <object>3460322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524280</relationship_id>
+      <predicate>has</predicate>
+      <subject>3335351</subject>
+      <object>2760381</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524281</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3335351</subject>
+      <object>3335352</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524282</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3335351</subject>
+      <object>3205877</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524283</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3335351</subject>
+      <object>3956504</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>214</h>
+      <object_id>3460321</object_id>
+      <w>251</w>
+      <y>101</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>skiing</name>
+      <h>128</h>
+      <object_id>3460322</object_id>
+      <w>250</w>
+      <y>171</y>
+      <x>138</x>
+    </object>
+    <object>
+      <h>209</h>
+      <object_id>3335351</object_id>
+      <w>170</w>
+      <y>87</y>
+      <x>129</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>hair</name>
+      <h>44</h>
+      <object_id>2760381</object_id>
+      <w>44</w>
+      <y>102</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>ski pole</name>
+      <h>102</h>
+      <object_id>3335352</object_id>
+      <w>90</w>
+      <y>132</y>
+      <x>269</x>
+    </object>
+    <object>
+      <name>skis</name>
+      <h>20</h>
+      <object_id>3205877</object_id>
+      <w>221</w>
+      <y>262</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>ski pole</name>
+      <h>85</h>
+      <object_id>3956504</object_id>
+      <w>74</w>
+      <y>138</y>
+      <x>271</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on skis going fast down the slope.</caption>
+      <caption>Man dressed in yellow winter sport attire, snow boarding with poles, plowing above a snow bank.</caption>
+      <caption>A skier is overtaken with a cloud of snow amidst a bright blue sky.</caption>
+      <caption>a person riding skis on a snowy surface</caption>
+      <caption>A man in a yellow snow suit riding skis off the side of a cliff.</caption>
+    </captions>
+</image>

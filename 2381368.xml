@@ -1,0 +1,52 @@
+<image>
+  <image-id>2381368</image-id>
+  <coco-id>284133</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4588961</relationship_id>
+      <predicate>sausage</predicate>
+      <subject>4069039</subject>
+      <object>4069038</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4588962</relationship_id>
+      <predicate>sausage</predicate>
+      <subject>4069039</subject>
+      <object>4069040</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>the</name>
+      <h>254</h>
+      <object_id>4069039</object_id>
+      <w>490</w>
+      <y>78</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>brown</name>
+      <h>207</h>
+      <object_id>4069038</object_id>
+      <w>473</w>
+      <y>124</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>sliced</name>
+      <h>175</h>
+      <object_id>4069040</object_id>
+      <w>486</w>
+      <y>157</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large serving of pizza topped with meat, cheese, and spinach.  </caption>
+      <caption>Close-up of a pizza prepared with cooked vegetables.</caption>
+      <caption>A pizza topped with cheese, vegetables and greens.</caption>
+      <caption>Pizza with green leaves on it laying on a plate. </caption>
+      <caption>A pizza topped with cheese, spinach and pepperoni.
+</caption>
+    </captions>
+</image>

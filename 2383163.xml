@@ -1,0 +1,73 @@
+<image>
+  <image-id>2383163</image-id>
+  <coco-id>330952</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1310128</relationship_id>
+      <predicate>holding</predicate>
+      <subject>534675</subject>
+      <object>534676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1310129</relationship_id>
+      <predicate>with</predicate>
+      <subject>534675</subject>
+      <object>534672</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1310130</relationship_id>
+      <predicate>with</predicate>
+      <subject>534675</subject>
+      <object>534677</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>crossing</attribute>
+        <attribute>holding</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>people</name>
+      <h>222</h>
+      <object_id>534675</object_id>
+      <w>400</w>
+      <y>54</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>75</h>
+      <object_id>534676</object_id>
+      <w>149</w>
+      <y>61</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>50</h>
+      <object_id>534672</object_id>
+      <w>76</w>
+      <y>83</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>umbrellas</name>
+      <h>120</h>
+      <object_id>534677</object_id>
+      <w>331</w>
+      <y>47</y>
+      <x>53</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People walk outside with umbrellas, two men do not have umbrellas. </caption>
+      <caption>Several people walking across the street in the rain with umbrellas.</caption>
+      <caption>A group of people walking across a cross walk.</caption>
+      <caption>People crossing street on a rainy day, all but two men carry umbrellas.</caption>
+      <caption>A man glances to the right as he crosses the street with a group of people.</caption>
+    </captions>
+</image>

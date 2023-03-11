@@ -1,0 +1,123 @@
+<image>
+  <image-id>2317538</image-id>
+  <coco-id>396608</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3046993</relationship_id>
+      <predicate>has</predicate>
+      <subject>1019951</subject>
+      <object>1019952</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3046994</relationship_id>
+      <predicate>contains</predicate>
+      <subject>1019953</subject>
+      <object>1019957</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3046995</relationship_id>
+      <predicate>contains</predicate>
+      <subject>1019951</subject>
+      <object>1019958</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3046996</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1019951</subject>
+      <object>1019954</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3046997</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1019951</subject>
+      <object>1019954</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3046998</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1019953</subject>
+      <object>1019954</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>full</attribute>
+        <attribute>white</attribute>
+        <attribute>aerial view</attribute>
+        <attribute>ceramic</attribute>
+        <attribute>fresh</attribute>
+        <attribute>steaming</attribute>
+        <attribute>coffee mug</attribute>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>coffee cup</name>
+      <h>262</h>
+      <object_id>1019951</object_id>
+      <w>261</w>
+      <y>42</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>82</h>
+      <object_id>1019952</object_id>
+      <w>69</w>
+      <y>215</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>full</attribute>
+        <attribute>clear</attribute>
+        <attribute>orange juice</attribute>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>glass</name>
+      <h>140</h>
+      <object_id>1019953</object_id>
+      <w>157</w>
+      <y>215</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>juice</name>
+      <h>123</h>
+      <object_id>1019957</object_id>
+      <w>117</w>
+      <y>225</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>coffee</name>
+      <h>194</h>
+      <object_id>1019958</object_id>
+      <w>196</w>
+      <y>69</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>unpeeled</attribute>
+        <attribute>two colors</attribute>
+        <attribute>apple</attribute>
+        <attribute>red</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>130</h>
+      <object_id>1019954</object_id>
+      <w>139</w>
+      <y>310</y>
+      <x>98</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cup of coffee sitting next to a banana, apple and glass of orange juice.</caption>
+      <caption>Apple and banana sitting on wicker table with a cup of coffee and a glass of orange juice</caption>
+      <caption>A glass of orange juice and a cup of coffee are next to fruit.</caption>
+      <caption>an apple a banana a cup of orange juice </caption>
+      <caption>A apple, banana, juice and a cup of coffee on a wicker basket.</caption>
+    </captions>
+</image>

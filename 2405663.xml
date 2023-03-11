@@ -1,0 +1,41 @@
+<image>
+  <image-id>2405663</image-id>
+  <coco-id>137583</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1710094</relationship_id>
+      <predicate>ON</predicate>
+      <subject>653936</subject>
+      <object>653937</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>dirt</name>
+      <h>8</h>
+      <object_id>653936</object_id>
+      <w>23</w>
+      <y>172</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>16</h>
+      <object_id>653937</object_id>
+      <w>26</w>
+      <y>191</y>
+      <x>100</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An animal on a grassy field of some sort.</caption>
+      <caption>A large black bear walking in the grass.</caption>
+      <caption>A bear that is walking back towards the trees.</caption>
+      <caption>Animal walking in a heavily trod clearing in a wooded area.</caption>
+      <caption>A large black bear walking through a  forest.</caption>
+    </captions>
+</image>

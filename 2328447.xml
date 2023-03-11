@@ -1,0 +1,59 @@
+<image>
+  <image-id>2328447</image-id>
+  <coco-id>579060</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4151380</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2967091</subject>
+      <object>2967089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4151381</relationship_id>
+      <predicate>with</predicate>
+      <subject>2752292</subject>
+      <object>2752293</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>23</h>
+      <object_id>2967091</object_id>
+      <w>21</w>
+      <y>131</y>
+      <x>325</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>207</h>
+      <object_id>2967089</object_id>
+      <w>146</w>
+      <y>68</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>17</h>
+      <object_id>2752292</object_id>
+      <w>30</w>
+      <y>69</y>
+      <x>288</x>
+    </object>
+    <object>
+      <name>nike lego</name>
+      <h>8</h>
+      <object_id>2752293</object_id>
+      <w>9</w>
+      <y>68</y>
+      <x>301</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man hits a tennis ball with a racket.</caption>
+      <caption>A man that is playing in a tennis game.</caption>
+      <caption>man is about to hit a tennis ball</caption>
+      <caption>A male Tennis player is just about to hit the ball. </caption>
+      <caption>A tennis player swings the racquet during a game of tennis.  </caption>
+    </captions>
+</image>

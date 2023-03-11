@@ -1,0 +1,54 @@
+<image>
+  <image-id>2334379</image-id>
+  <coco-id>543392</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3942557</relationship_id>
+      <predicate>has</predicate>
+      <subject>3222072</subject>
+      <object>3056455</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4003091</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3222072</subject>
+      <object>3222073</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Red </attribute>
+      </attributes>
+      <h>72</h>
+      <object_id>3222072</object_id>
+      <w>37</w>
+      <y>189</y>
+      <x>37</x>
+      <name>flag</name>
+    </object>
+    <object>
+      <name>cross</name>
+      <h>42</h>
+      <object_id>3056455</object_id>
+      <w>27</w>
+      <y>206</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>42</h>
+      <object_id>3222073</object_id>
+      <w>51</w>
+      <y>183</y>
+      <x>36</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Swiss themed building has a Swiss flag flying in front.</caption>
+      <caption>A green bench in front of a restaraunt</caption>
+      <caption>An old restaurant in Lucerne that apparently has wonderful wiener schnitzel </caption>
+      <caption>There is a empty bench outside of the restaurant.</caption>
+      <caption>This is an old swiss house building with a bench </caption>
+    </captions>
+</image>

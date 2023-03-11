@@ -1,0 +1,130 @@
+<image>
+  <image-id>2316484</image-id>
+  <coco-id>488243</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3630106</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2957509</subject>
+      <object>2957510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4520761</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3054400</subject>
+      <object>2957510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630108</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3054397</subject>
+      <object>3520138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630109</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2957509</subject>
+      <object>3520138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630110</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2794733</subject>
+      <object>3520138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630111</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3054400</subject>
+      <object>3520138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3630112</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3054401</subject>
+      <object>3520138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3863742</relationship_id>
+      <predicate>snowboarding down a</predicate>
+      <subject>2794733</subject>
+      <object>2794734</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skier</name>
+      <h>35</h>
+      <object_id>2957509</object_id>
+      <w>17</w>
+      <y>213</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>coat</name>
+      <h>16</h>
+      <object_id>2957510</object_id>
+      <w>14</w>
+      <y>219</y>
+      <x>187</x>
+    </object>
+    <object>
+      <h>43</h>
+      <object_id>3054400</object_id>
+      <w>27</w>
+      <y>196</y>
+      <x>263</x>
+      <name>skiers</name>
+    </object>
+    <object>
+      <name>skiers</name>
+      <h>120</h>
+      <object_id>3054397</object_id>
+      <w>49</w>
+      <y>208</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>trail</name>
+      <h>134</h>
+      <object_id>3520138</object_id>
+      <w>194</w>
+      <y>235</y>
+      <x>113</x>
+    </object>
+    <object>
+      <h>29</h>
+      <object_id>2794733</object_id>
+      <w>20</w>
+      <y>235</y>
+      <x>228</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>skiers</name>
+      <h>28</h>
+      <object_id>3054401</object_id>
+      <w>25</w>
+      <y>202</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>62</h>
+      <object_id>2794734</object_id>
+      <w>70</w>
+      <y>145</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A ski trail with several skiers making their way up the hill</caption>
+      <caption>A group of people on skis in the snow.</caption>
+      <caption>A group of people are skiing down a snow covered hill.</caption>
+      <caption>Six people on skis on a wintry slope</caption>
+      <caption>Multiple people skiing on a course in the snow.</caption>
+    </captions>
+</image>

@@ -1,0 +1,119 @@
+<image>
+  <image-id>1160050</image-id>
+  <coco-id>395920</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4074945</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1600770</subject>
+      <object>1600771</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074946</relationship_id>
+      <predicate>driving</predicate>
+      <subject>1600825</subject>
+      <object>1600827</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074947</relationship_id>
+      <predicate>walking behind</predicate>
+      <subject>1600770</subject>
+      <object>1600827</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074948</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1600823</subject>
+      <object>3706415</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074949</relationship_id>
+      <predicate>driving</predicate>
+      <subject>1600825</subject>
+      <object>1600827</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074950</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1600828</subject>
+      <object>1600827</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>84</h>
+      <object_id>1600770</object_id>
+      <w>40</w>
+      <y>283</y>
+      <x>272</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light orange</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>38</h>
+      <object_id>1600771</object_id>
+      <w>32</w>
+      <y>298</y>
+      <x>275</x>
+    </object>
+    <object>
+      <h>93</h>
+      <object_id>1600825</object_id>
+      <w>103</w>
+      <y>202</y>
+      <x>397</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+        <attribute>wide</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>396</h>
+      <object_id>1600827</object_id>
+      <w>548</w>
+      <y>98</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>letters</name>
+      <h>36</h>
+      <object_id>1600823</object_id>
+      <w>81</w>
+      <y>188</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>359</h>
+      <object_id>3706415</object_id>
+      <w>374</w>
+      <y>10</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white license</attribute>
+      </attributes>
+      <name>license plate</name>
+      <h>24</h>
+      <object_id>1600828</object_id>
+      <w>77</w>
+      <y>415</y>
+      <x>413</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small city bus is driving through the street.</caption>
+      <caption>A green and white bus is driving down a street.</caption>
+      <caption>a public transportation bus moving along a city street</caption>
+      <caption>A large green and white bus on a european roadway.</caption>
+      <caption>a green and white bus is on the street</caption>
+    </captions>
+</image>

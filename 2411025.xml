@@ -1,0 +1,128 @@
+<image>
+  <image-id>2411025</image-id>
+  <coco-id>263407</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4283086</relationship_id>
+      <predicate>ON</predicate>
+      <subject>317502</subject>
+      <object>3814248</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4283087</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3814249</subject>
+      <object>3814250</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4283088</relationship_id>
+      <predicate>next to</predicate>
+      <subject>317506</subject>
+      <object>3814251</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4283089</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3814253</subject>
+      <object>3814254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4283090</relationship_id>
+      <predicate>behind</predicate>
+      <subject>317523</subject>
+      <object>3814255</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>pink flower</name>
+      <h>23</h>
+      <object_id>317502</object_id>
+      <w>36</w>
+      <y>48</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>270</h>
+      <object_id>3814248</object_id>
+      <w>274</w>
+      <y>38</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>57</h>
+      <object_id>3814249</object_id>
+      <w>90</w>
+      <y>32</y>
+      <x>408</x>
+    </object>
+    <object>
+      <name>countertop</name>
+      <h>198</h>
+      <object_id>3814250</object_id>
+      <w>99</w>
+      <y>112</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>birthday cake</name>
+      <h>250</h>
+      <object_id>317506</object_id>
+      <w>274</w>
+      <y>47</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>plates</name>
+      <h>50</h>
+      <object_id>3814251</object_id>
+      <w>189</w>
+      <y>52</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>fork</name>
+      <h>105</h>
+      <object_id>3814253</object_id>
+      <w>127</w>
+      <y>57</y>
+      <x>371</x>
+    </object>
+    <object>
+      <name>countertop</name>
+      <h>226</h>
+      <object_id>3814254</object_id>
+      <w>495</w>
+      <y>107</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>"plates stacked</name>
+      <h>98</h>
+      <object_id>317523</object_id>
+      <w>175</w>
+      <y>2</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>259</h>
+      <object_id>3814255</object_id>
+      <w>301</w>
+      <y>52</y>
+      <x>94</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A birthday cake sitting on top of a kitchen counter.</caption>
+      <caption>a white cake is sitting on a table</caption>
+      <caption>A birthday cake is sitting next to plates and forks.</caption>
+      <caption>a birthday cake with white frosting and some flowers on it </caption>
+      <caption>A white frosted birthday cake with flowers made out of frosting sitting on a kitchen counter.</caption>
+    </captions>
+</image>

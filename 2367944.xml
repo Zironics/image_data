@@ -1,0 +1,275 @@
+<image>
+  <image-id>2367944</image-id>
+  <coco-id>464812</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4353672</relationship_id>
+      <predicate>with</predicate>
+      <subject>1697977</subject>
+      <object>1697976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353673</relationship_id>
+      <predicate>for</predicate>
+      <subject>1668438</subject>
+      <object>2184058</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353674</relationship_id>
+      <predicate>with</predicate>
+      <subject>2659423</subject>
+      <object>2659424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353675</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1664912</subject>
+      <object>1919355</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353676</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2415540</subject>
+      <object>2415541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353677</relationship_id>
+      <predicate>are wearing</predicate>
+      <subject>1695419</subject>
+      <object>2381674</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353678</relationship_id>
+      <predicate>are wearing</predicate>
+      <subject>1903581</subject>
+      <object>2381675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353679</relationship_id>
+      <predicate>are wearing</predicate>
+      <subject>2222563</subject>
+      <object>2381676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353680</relationship_id>
+      <predicate>are wearing</predicate>
+      <subject>1664912</subject>
+      <object>2381677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353681</relationship_id>
+      <predicate>are wearing</predicate>
+      <subject>2222565</subject>
+      <object>2381678</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4353682</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2151344</subject>
+      <object>1674808</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hat</name>
+      <h>17</h>
+      <object_id>1697977</object_id>
+      <w>25</w>
+      <y>27</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> letter</attribute>
+      </attributes>
+      <name>p</name>
+      <h>5</h>
+      <object_id>1697976</object_id>
+      <w>8</w>
+      <y>30</y>
+      <x>258</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for baseball</attribute>
+      </attributes>
+      <name>jersey</name>
+      <h>87</h>
+      <object_id>1668438</object_id>
+      <w>78</w>
+      <y>191</y>
+      <x>86</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for baseball</attribute>
+      </attributes>
+      <h>349</h>
+      <object_id>2184058</object_id>
+      <w>489</w>
+      <y>19</y>
+      <x>3</x>
+      <name>baseball team</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> tall</attribute>
+        <attribute>for baseball </attribute>
+      </attributes>
+      <name>socks</name>
+      <h>32</h>
+      <object_id>2659423</object_id>
+      <w>48</w>
+      <y>314</y>
+      <x>328</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>7</h>
+      <object_id>2659424</object_id>
+      <w>15</w>
+      <y>319</y>
+      <x>329</x>
+    </object>
+    <object>
+      <h>204</h>
+      <object_id>1664912</object_id>
+      <w>62</w>
+      <y>157</y>
+      <x>226</x>
+      <name>male</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for baseball</attribute>
+      </attributes>
+      <name>baseball bat</name>
+      <h>87</h>
+      <object_id>1919355</object_id>
+      <w>25</w>
+      <y>279</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>128</h>
+      <object_id>2415540</object_id>
+      <w>72</w>
+      <y>22</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+      </attributes>
+      <name>dress shirt</name>
+      <h>75</h>
+      <object_id>2415541</object_id>
+      <w>67</w>
+      <y>57</y>
+      <x>107</x>
+    </object>
+    <object>
+      <h>186</h>
+      <object_id>1695419</object_id>
+      <w>87</w>
+      <y>175</y>
+      <x>407</x>
+      <name>player</name>
+    </object>
+    <object>
+      <name>gloves</name>
+      <h>42</h>
+      <object_id>2381674</object_id>
+      <w>39</w>
+      <y>249</y>
+      <x>193</x>
+    </object>
+    <object>
+      <h>205</h>
+      <object_id>1903581</object_id>
+      <w>86</w>
+      <y>161</y>
+      <x>340</x>
+      <name>male</name>
+    </object>
+    <object>
+      <name>gloves</name>
+      <h>32</h>
+      <object_id>2381675</object_id>
+      <w>32</w>
+      <y>249</y>
+      <x>318</x>
+    </object>
+    <object>
+      <h>189</h>
+      <object_id>2222563</object_id>
+      <w>72</w>
+      <y>174</y>
+      <x>280</x>
+      <name>male</name>
+    </object>
+    <object>
+      <name>gloves</name>
+      <h>32</h>
+      <object_id>2381676</object_id>
+      <w>36</w>
+      <y>257</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>gloves</name>
+      <h>41</h>
+      <object_id>2381677</object_id>
+      <w>45</w>
+      <y>160</y>
+      <x>385</x>
+    </object>
+    <object>
+      <h>192</h>
+      <object_id>2222565</object_id>
+      <w>72</w>
+      <y>162</y>
+      <x>158</x>
+      <name>male</name>
+    </object>
+    <object>
+      <name>gloves</name>
+      <h>31</h>
+      <object_id>2381678</object_id>
+      <w>33</w>
+      <y>253</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for baseball </attribute>
+        <attribute>for  high school</attribute>
+      </attributes>
+      <h>129</h>
+      <object_id>2151344</object_id>
+      <w>79</w>
+      <y>81</y>
+      <x>35</x>
+      <name>baseball coach</name>
+    </object>
+    <object>
+      <name>cap</name>
+      <h>22</h>
+      <object_id>1674808</object_id>
+      <w>36</w>
+      <y>73</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an old black and white photo of baseball players</caption>
+      <caption>Black and white photograph of a baseball team</caption>
+      <caption>A black and white image of the baseball team. </caption>
+      <caption>A group of baseball players that is standing in the grass.</caption>
+      <caption>A baseball team sitting on benches in black and white.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2374517</image-id>
+  <coco-id>256593</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4774571</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4533436</subject>
+      <object>4533437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4653755</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4229199</subject>
+      <object>4229200</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>horns</name>
+      <h>25</h>
+      <object_id>4533436</object_id>
+      <w>52</w>
+      <y>71</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>70</h>
+      <object_id>4533437</object_id>
+      <w>76</w>
+      <y>113</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>34</h>
+      <object_id>4229199</object_id>
+      <w>29</w>
+      <y>153</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>196</h>
+      <object_id>4229200</object_id>
+      <w>285</w>
+      <y>110</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two cows that are laying down in the dirt.</caption>
+      <caption>The two cows are laying down in the field together.</caption>
+      <caption>Two cows are sitting on an open field during the daytime.</caption>
+      <caption>a couple of cows are laying in a field</caption>
+      <caption>Two cows that are laying on the grass.</caption>
+    </captions>
+</image>

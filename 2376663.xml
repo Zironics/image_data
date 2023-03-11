@@ -1,0 +1,85 @@
+<image>
+  <image-id>2376663</image-id>
+  <coco-id>342403</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1924849</relationship_id>
+      <predicate>OF</predicate>
+      <subject>719462</subject>
+      <object>719445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1924850</relationship_id>
+      <predicate>IN</predicate>
+      <subject>719445</subject>
+      <object>719460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1924851</relationship_id>
+      <predicate>with</predicate>
+      <subject>719453</subject>
+      <object>719463</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>12</h>
+      <object_id>719462</object_id>
+      <w>28</w>
+      <y>247</y>
+      <x>347</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+        <attribute>hat</attribute>
+        <attribute>wearing</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>kid</name>
+      <h>131</h>
+      <object_id>719445</object_id>
+      <w>105</w>
+      <y>118</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+      </attributes>
+      <name>field</name>
+      <h>54</h>
+      <object_id>719460</object_id>
+      <w>55</w>
+      <y>108</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>few</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>76</h>
+      <object_id>719453</object_id>
+      <w>107</w>
+      <y>25</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>no</name>
+      <h>87</h>
+      <object_id>719463</object_id>
+      <w>82</w>
+      <y>9</y>
+      <x>251</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man kneeling on top of a lush green field.</caption>
+      <caption>A young child waits for a baseball to be thrown in an empty field.</caption>
+      <caption>A boy in a baseball field wearing a black and white uniform. </caption>
+      <caption>A little boy in the grass with a glove.</caption>
+      <caption>a little boy standing down in a grassy field with a glove</caption>
+    </captions>
+</image>

@@ -1,0 +1,111 @@
+<image>
+  <image-id>2322809</image-id>
+  <coco-id>288673</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4626651</relationship_id>
+      <predicate>near</predicate>
+      <subject>4161885</subject>
+      <object>4161886</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626652</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4161887</subject>
+      <object>4161892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626653</relationship_id>
+      <predicate>standing beside</predicate>
+      <subject>4161878</subject>
+      <object>4161890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626654</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>4161891</subject>
+      <object>4161892</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>car</name>
+      <h>25</h>
+      <object_id>4161885</object_id>
+      <w>44</w>
+      <y>355</y>
+      <x>375</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>140</h>
+      <object_id>4161886</object_id>
+      <w>470</w>
+      <y>345</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>127</h>
+      <object_id>4161887</object_id>
+      <w>243</w>
+      <y>129</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>315</h>
+      <object_id>4161892</object_id>
+      <w>468</w>
+      <y>17</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <h>109</h>
+      <object_id>4161878</object_id>
+      <w>60</w>
+      <y>258</y>
+      <x>133</x>
+      <name>palm tree</name>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>180</h>
+      <object_id>4161890</object_id>
+      <w>468</w>
+      <y>305</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>multi-colored</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>76</h>
+      <object_id>4161891</object_id>
+      <w>77</w>
+      <y>20</y>
+      <x>181</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people at the beach flying kites</caption>
+      <caption>A group of people standing next to a palm tree forest.</caption>
+      <caption>A hang glider gliding over a beach with palm trees.</caption>
+      <caption>A small group of people fly a kite next to palm trees.</caption>
+      <caption>People on a beach near palm trees flying a kite.</caption>
+    </captions>
+</image>

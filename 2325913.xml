@@ -1,0 +1,81 @@
+<image>
+  <image-id>2325913</image-id>
+  <coco-id>486159</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3672638</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2853261</subject>
+      <object>3539112</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3672639</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2981870</subject>
+      <object>2981871</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3672640</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2706960</subject>
+      <object>2706961</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>burner</name>
+      <h>170</h>
+      <object_id>2853261</object_id>
+      <w>101</w>
+      <y>187</y>
+      <x>398</x>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>362</h>
+      <object_id>3539112</object_id>
+      <w>492</w>
+      <y>7</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>carrot</name>
+      <h>75</h>
+      <object_id>2981870</object_id>
+      <w>168</w>
+      <y>250</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>pot</name>
+      <h>289</h>
+      <object_id>2981871</object_id>
+      <w>344</w>
+      <y>82</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>squash</name>
+      <h>227</h>
+      <object_id>2706960</object_id>
+      <w>105</w>
+      <y>74</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>pot</name>
+      <h>125</h>
+      <object_id>2706961</object_id>
+      <w>59</w>
+      <y>231</y>
+      <x>360</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red pot full of vegetables on a white stovetop.</caption>
+      <caption>A bunch of vegetables are in a pot on the stove.</caption>
+      <caption>a red pot with some different types of vegetables</caption>
+      <caption>A stew pot holding carrots, celery, and squash.</caption>
+      <caption>There is a butternut squash and other vegetables in the pan.</caption>
+    </captions>
+</image>

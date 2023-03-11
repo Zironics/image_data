@@ -1,0 +1,45 @@
+<image>
+  <image-id>2368260</image-id>
+  <coco-id>300155</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4575068</relationship_id>
+      <predicate>perched on</predicate>
+      <subject>4036006</subject>
+      <object>4035994</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>on a branch</attribute>
+        <attribute>in a tree</attribute>
+        <attribute>near a leaf</attribute>
+        <attribute>sitting on a branch</attribute>
+        <attribute>waiting on a branch</attribute>
+        <attribute>on the tree</attribute>
+      </attributes>
+      <h>155</h>
+      <object_id>4036006</object_id>
+      <w>139</w>
+      <y>119</y>
+      <x>219</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>27</h>
+      <object_id>4035994</object_id>
+      <w>225</w>
+      <y>224</y>
+      <x>196</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A bird is perched on the twig of a tree. </caption>
+      <caption>a small bird with brown feathers sitting on a branch next to a green leaf</caption>
+      <caption>A bird sitting on a tree branch and looking intently.</caption>
+      <caption>a small bird on a branch in a tree</caption>
+      <caption>A bird is sitting on a tree branch spreading its tail-feathers.</caption>
+    </captions>
+</image>

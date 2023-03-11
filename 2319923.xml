@@ -1,0 +1,85 @@
+<image>
+  <image-id>2319923</image-id>
+  <coco-id>460916</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3826178</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3006872</subject>
+      <object>3168473</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3949658</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3006871</subject>
+      <object>3006872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3950144</relationship_id>
+      <predicate>are over</predicate>
+      <subject>2760195</subject>
+      <object>3445336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4491786</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2760195</subject>
+      <object>2760195</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>184</h>
+      <object_id>3006872</object_id>
+      <w>282</w>
+      <y>110</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>241</h>
+      <object_id>3168473</object_id>
+      <w>495</w>
+      <y>132</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bare</attribute>
+      </attributes>
+      <name>bare feet</name>
+      <h>68</h>
+      <object_id>3006871</object_id>
+      <w>54</w>
+      <y>227</y>
+      <x>90</x>
+    </object>
+    <object>
+      <h>218</h>
+      <object_id>2760195</object_id>
+      <w>123</w>
+      <y>1</y>
+      <x>0</x>
+      <name>blinds</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>window</name>
+      <h>226</h>
+      <object_id>3445336</object_id>
+      <w>131</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting on a bed with a laptop.</caption>
+      <caption>A man is reading his laptop in bed.</caption>
+      <caption>A man sitting on a bed using a laptop.</caption>
+      <caption>a man sitting on his bed looking at his laptop</caption>
+      <caption>There is a person sitting on a bed with a laptop computer.</caption>
+    </captions>
+</image>

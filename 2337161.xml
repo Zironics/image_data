@@ -1,0 +1,71 @@
+<image>
+  <image-id>2337161</image-id>
+  <coco-id>304252</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4082597</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>3709483</subject>
+      <object>3318761</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082598</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>3709483</subject>
+      <object>2383909</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082599</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>3709483</subject>
+      <object>3112748</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> log </attribute>
+      </attributes>
+      <h>63</h>
+      <object_id>3709483</object_id>
+      <w>47</w>
+      <y>263</y>
+      <x>357</x>
+      <name>badsentence</name>
+    </object>
+    <object>
+      <name>black sentence</name>
+      <h>182</h>
+      <object_id>3318761</object_id>
+      <w>281</w>
+      <y>77</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>50</h>
+      <object_id>2383909</object_id>
+      <w>62</w>
+      <y>107</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pictured</attribute>
+      </attributes>
+      <h>112</h>
+      <object_id>3112748</object_id>
+      <w>98</w>
+      <y>38</y>
+      <x>154</x>
+      <name>person</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on a surf board riding some rough waves.</caption>
+      <caption>A man is riding the waves on his surfboard. </caption>
+      <caption>a person riding a surf board on a wave</caption>
+      <caption>A surfer is riding the waves on his surfboard.</caption>
+      <caption>There is a surfer wearing a body suit riding a wave</caption>
+    </captions>
+</image>

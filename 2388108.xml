@@ -1,0 +1,76 @@
+<image>
+  <image-id>2388108</image-id>
+  <coco-id>234633</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4770375</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4521907</subject>
+      <object>4521903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4770376</relationship_id>
+      <predicate>walking up</predicate>
+      <subject>4521905</subject>
+      <object>4521906</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4770377</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4521907</subject>
+      <object>4521908</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>94</h>
+      <object_id>4521907</object_id>
+      <w>31</w>
+      <y>169</y>
+      <x>75</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>boat</attribute>
+      </attributes>
+      <name>deck</name>
+      <h>179</h>
+      <object_id>4521903</object_id>
+      <w>156</w>
+      <y>192</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>113</h>
+      <object_id>4521905</object_id>
+      <w>37</w>
+      <y>103</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>steps</name>
+      <h>188</h>
+      <object_id>4521906</object_id>
+      <w>63</w>
+      <y>120</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>deck</name>
+      <h>143</h>
+      <object_id>4521908</object_id>
+      <w>147</w>
+      <y>226</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>the birds are flying next to the boat </caption>
+      <caption>A large white and blue boat traveling along a river.</caption>
+      <caption>A man standing on a ship with seagulls flying around. </caption>
+      <caption>a boat sails through water as birds fly next to it</caption>
+      <caption>A ship far from shore with sea birds beside it</caption>
+    </captions>
+</image>

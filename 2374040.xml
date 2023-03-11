@@ -1,0 +1,87 @@
+<image>
+  <image-id>2374040</image-id>
+  <coco-id>58910</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4121482</relationship_id>
+      <predicate>beside</predicate>
+      <subject>2513856</subject>
+      <object>2513857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4310943</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3850179</subject>
+      <object>3850178</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4121483</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>1808862</subject>
+      <object>1808863</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>w7th</name>
+      <h>30</h>
+      <object_id>2513856</object_id>
+      <w>75</w>
+      <y>342</y>
+      <x>387</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lego</attribute>
+      </attributes>
+      <name>lego head</name>
+      <h>27</h>
+      <object_id>2513857</object_id>
+      <w>27</w>
+      <y>340</y>
+      <x>465</x>
+    </object>
+    <object>
+      <name>porch</name>
+      <h>236</h>
+      <object_id>3850179</object_id>
+      <w>60</w>
+      <y>74</y>
+      <x>406</x>
+    </object>
+    <object>
+      <name>lego house</name>
+      <h>360</h>
+      <object_id>3850178</object_id>
+      <w>432</w>
+      <y>9</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>pot</name>
+      <h>26</h>
+      <object_id>1808862</object_id>
+      <w>32</w>
+      <y>95</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lego</attribute>
+      </attributes>
+      <name>kitchen</name>
+      <h>260</h>
+      <object_id>1808863</object_id>
+      <w>264</w>
+      <y>56</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>some kind of room with some weird things in it</caption>
+      <caption>An aerial shot of a kitchen and living room model of hosue</caption>
+      <caption>An overlooking view of a small house made out of legos. </caption>
+      <caption>A small room built from legos with a tiled floor.</caption>
+      <caption>A colorful cute filled with furniture and flooring.</caption>
+    </captions>
+</image>

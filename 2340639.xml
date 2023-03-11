@@ -1,0 +1,59 @@
+<image>
+  <image-id>2340639</image-id>
+  <coco-id>460722</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4096622</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3361909</subject>
+      <object>3714342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4096623</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2963236</subject>
+      <object>2963237</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>key</name>
+      <h>37</h>
+      <object_id>3361909</object_id>
+      <w>32</w>
+      <y>192</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>53</h>
+      <object_id>3714342</object_id>
+      <w>154</w>
+      <y>189</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>key</name>
+      <h>5</h>
+      <object_id>2963236</object_id>
+      <w>7</w>
+      <y>217</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>35</h>
+      <object_id>2963237</object_id>
+      <w>124</w>
+      <y>189</y>
+      <x>95</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man is on a computer and there is a big rug.</caption>
+      <caption>A person sitting on a couch using a laptop.</caption>
+      <caption>A man working on his laptop in a family room.</caption>
+      <caption>a person sitting on a couch operating a laptop</caption>
+      <caption>Someone sits at a table using a laptop.</caption>
+    </captions>
+</image>

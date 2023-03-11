@@ -1,0 +1,37 @@
+<image>
+  <image-id>2400289</image-id>
+  <coco-id>79085</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3311451</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1160828</subject>
+      <object>1160829</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>irrel</name>
+      <h>42</h>
+      <object_id>1160828</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>43</h>
+      <object_id>1160829</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing next to a wire fence near logs.</caption>
+      <caption>A zebra at a zoo stands alone looking at the ground.</caption>
+      <caption>A zebra foraging for food in the dirt near wood</caption>
+      <caption>a zebra standing and grazing on a dirt surface</caption>
+      <caption>A striped zebra on rocks is in an enclosure.</caption>
+    </captions>
+</image>

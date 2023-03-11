@@ -1,0 +1,59 @@
+<image>
+  <image-id>2365403</image-id>
+  <coco-id>299672</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4383479</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1675959</subject>
+      <object>1675960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4383480</relationship_id>
+      <predicate>has</predicate>
+      <subject>1925267</subject>
+      <object>3884513</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>fog</name>
+      <h>124</h>
+      <object_id>1675959</object_id>
+      <w>494</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>146</h>
+      <object_id>1675960</object_id>
+      <w>259</w>
+      <y>34</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>79</h>
+      <object_id>1925267</object_id>
+      <w>25</w>
+      <y>136</y>
+      <x>470</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>33</h>
+      <object_id>3884513</object_id>
+      <w>30</w>
+      <y>163</y>
+      <x>464</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train pulls into a train station on an overcast day.</caption>
+      <caption>A red train engine pulling a long train of cars down a railway.</caption>
+      <caption>A red railroad train pulling in to a train station </caption>
+      <caption>The cable cars are stopped at the station.</caption>
+      <caption>There are few people next to the large train at the platform.</caption>
+    </captions>
+</image>

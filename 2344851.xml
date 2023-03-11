@@ -1,0 +1,77 @@
+<image>
+  <image-id>2344851</image-id>
+  <coco-id>183151</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2679198</relationship_id>
+      <predicate>has</predicate>
+      <subject>912616</subject>
+      <object>912617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2679199</relationship_id>
+      <predicate>ON</predicate>
+      <subject>912617</subject>
+      <object>912616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2679200</relationship_id>
+      <predicate>has</predicate>
+      <subject>912616</subject>
+      <object>912617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2679201</relationship_id>
+      <predicate>has</predicate>
+      <subject>912617</subject>
+      <object>912620</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>large</attribute>
+        <attribute>big ben</attribute>
+        <attribute>in London</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>497</h>
+      <object_id>912616</object_id>
+      <w>173</w>
+      <y>2</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>numbered</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>42</h>
+      <object_id>912617</object_id>
+      <w>49</w>
+      <y>67</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hands</name>
+      <h>22</h>
+      <object_id>912620</object_id>
+      <w>20</w>
+      <y>75</y>
+      <x>165</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Large, ornate building with clock tower taken from street level</caption>
+      <caption>a large tower with a clock on top of it</caption>
+      <caption>A traffic light standing near a clock tower.</caption>
+      <caption>upward view of Big Ben with street light in foreground</caption>
+      <caption>A large clock tower is in view and it is brown in color.</caption>
+    </captions>
+</image>

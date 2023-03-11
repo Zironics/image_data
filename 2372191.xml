@@ -1,0 +1,135 @@
+<image>
+  <image-id>2372191</image-id>
+  <coco-id>510377</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1493449</relationship_id>
+      <predicate>has a</predicate>
+      <subject>593425</subject>
+      <object>593426</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1493450</relationship_id>
+      <predicate>has a</predicate>
+      <subject>593433</subject>
+      <object>593434</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1493451</relationship_id>
+      <predicate>has a</predicate>
+      <subject>593423</subject>
+      <object>593435</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1493452</relationship_id>
+      <predicate>ON</predicate>
+      <subject>593430</subject>
+      <object>593437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1493453</relationship_id>
+      <predicate>ON</predicate>
+      <subject>593430</subject>
+      <object>593425</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1493454</relationship_id>
+      <predicate>has a</predicate>
+      <subject>593425</subject>
+      <object>593427</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>261</h>
+      <object_id>593425</object_id>
+      <w>166</w>
+      <y>68</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>302</h>
+      <object_id>593426</object_id>
+      <w>122</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>497</h>
+      <object_id>593433</object_id>
+      <w>327</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>58</h>
+      <object_id>593434</object_id>
+      <w>77</w>
+      <y>289</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>toilet</attribute>
+        <attribute>cistern</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>113</h>
+      <object_id>593423</object_id>
+      <w>135</w>
+      <y>386</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>23</h>
+      <object_id>593435</object_id>
+      <w>79</w>
+      <y>476</y>
+      <x>59</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>light</name>
+      <h>15</h>
+      <object_id>593430</object_id>
+      <w>68</w>
+      <y>3</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>97</h>
+      <object_id>593437</object_id>
+      <w>300</w>
+      <y>3</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shining</attribute>
+        <attribute>window</attribute>
+      </attributes>
+      <name>window</name>
+      <h>142</h>
+      <object_id>593427</object_id>
+      <w>75</w>
+      <y>108</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>View from doorway of a tiled home bathroom with a toilet, a sink, and a bathtub, with a window.</caption>
+      <caption>this bathroom has light blue tiled walls and a white tub</caption>
+      <caption>A bathroom with a white tub sitting under a window.</caption>
+      <caption>A small bathroom includes a dated shower and tub, small sink with mirror, and a standard toilet.</caption>
+      <caption>A bathroom showing toilet, sink and bathtub </caption>
+    </captions>
+</image>

@@ -1,0 +1,215 @@
+<image>
+  <image-id>2407813</image-id>
+  <coco-id>409063</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4278529</relationship_id>
+      <predicate>eating</predicate>
+      <subject>3810083</subject>
+      <object>273147</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278530</relationship_id>
+      <predicate>eating</predicate>
+      <subject>3810083</subject>
+      <object>273147</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278531</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3810072</subject>
+      <object>3810078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278532</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3810072</subject>
+      <object>3810078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278533</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>273175</subject>
+      <object>3810078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278534</relationship_id>
+      <predicate>has</predicate>
+      <subject>3810083</subject>
+      <object>3810076</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278535</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>273186</subject>
+      <object>3810078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278536</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>273158</subject>
+      <object>3810078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278537</relationship_id>
+      <predicate>ON</predicate>
+      <subject>273159</subject>
+      <object>3810079</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278538</relationship_id>
+      <predicate>ON</predicate>
+      <subject>273186</subject>
+      <object>3810078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278539</relationship_id>
+      <predicate>sitting at</predicate>
+      <subject>273163</subject>
+      <object>3810078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278540</relationship_id>
+      <predicate>hanging fom</predicate>
+      <subject>273150</subject>
+      <object>3810082</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4278541</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3810083</subject>
+      <object>3810084</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>230</h>
+      <object_id>3810083</object_id>
+      <w>255</w>
+      <y>144</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>half eaten pizza</name>
+      <h>41</h>
+      <object_id>273147</object_id>
+      <w>47</w>
+      <y>268</y>
+      <x>170</x>
+    </object>
+    <object>
+      <h>133</h>
+      <object_id>3810072</object_id>
+      <w>40</w>
+      <y>324</y>
+      <x>267</x>
+      <name>bottle</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>139</h>
+      <object_id>3810078</object_id>
+      <w>328</w>
+      <y>356</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>65</h>
+      <object_id>273175</object_id>
+      <w>66</w>
+      <y>372</y>
+      <x>0</x>
+      <name>fork in a napkin</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>81</h>
+      <object_id>3810076</object_id>
+      <w>76</w>
+      <y>223</y>
+      <x>207</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>42</h>
+      <object_id>273186</object_id>
+      <w>127</w>
+      <y>349</y>
+      <x>126</x>
+      <name>plate on a table</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown&gt;</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>brown wooden chair</name>
+      <h>115</h>
+      <object_id>273158</object_id>
+      <w>61</w>
+      <y>235</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white cap</name>
+      <h>25</h>
+      <object_id>273159</object_id>
+      <w>28</w>
+      <y>332</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>133</h>
+      <object_id>3810079</object_id>
+      <w>37</w>
+      <y>329</y>
+      <x>269</x>
+    </object>
+    <object>
+      <h>83</h>
+      <object_id>273163</object_id>
+      <w>106</w>
+      <y>208</y>
+      <x>28</x>
+      <name>couple sitting</name>
+    </object>
+    <object>
+      <h>28</h>
+      <object_id>273150</object_id>
+      <w>20</w>
+      <y>100</y>
+      <x>88</x>
+      <name>light fixture</name>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>185</h>
+      <object_id>3810082</object_id>
+      <w>325</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>31</h>
+      <object_id>3810084</object_id>
+      <w>35</w>
+      <y>271</y>
+      <x>182</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An Asain man poses with some pizza inside.</caption>
+      <caption>A man sitting at a table eating a slice of pizza.</caption>
+      <caption>A person is posing for a big picture. </caption>
+      <caption>A man sitting at a table eating a slice of pizza.</caption>
+      <caption>The man grins as he holds a slice of pizza.</caption>
+    </captions>
+</image>

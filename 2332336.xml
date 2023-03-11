@@ -1,0 +1,101 @@
+<image>
+  <image-id>2332336</image-id>
+  <coco-id>344880</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4092119</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3433023</subject>
+      <object>3433024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092120</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3433023</subject>
+      <object>3377497</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092121</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3433023</subject>
+      <object>2778724</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092122</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2774903</subject>
+      <object>2774904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092123</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3000252</subject>
+      <object>2774904</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>102</h>
+      <object_id>3433023</object_id>
+      <w>61</w>
+      <y>80</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>paddle</name>
+      <h>52</h>
+      <object_id>3433024</object_id>
+      <w>112</w>
+      <y>111</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>47</h>
+      <object_id>3377497</object_id>
+      <w>125</w>
+      <y>161</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>wet suit</name>
+      <h>75</h>
+      <object_id>2778724</object_id>
+      <w>46</w>
+      <y>98</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>waves</name>
+      <h>74</h>
+      <object_id>2774903</object_id>
+      <w>75</w>
+      <y>10</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>255</h>
+      <object_id>2774904</object_id>
+      <w>212</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>23</h>
+      <object_id>3000252</object_id>
+      <w>107</w>
+      <y>172</y>
+      <x>147</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a paddle board in the ocean on waves.</caption>
+      <caption>Man on a surfboard paddling over a wave.</caption>
+      <caption>A person surfs through the small blue waves.</caption>
+      <caption>a man paddleboarding in the water by himself </caption>
+      <caption>A man holding a paddle while riding a surfboard.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2338657</image-id>
+  <coco-id>269557</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459555</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2551922</subject>
+      <object>3929963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4059382</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2307593</subject>
+      <object>2307594</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glasses</name>
+      <h>48</h>
+      <object_id>2551922</object_id>
+      <w>86</w>
+      <y>37</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>53</h>
+      <object_id>3929963</object_id>
+      <w>60</w>
+      <y>40</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>brown leaves</name>
+      <h>58</h>
+      <object_id>2307593</object_id>
+      <w>51</w>
+      <y>284</y>
+      <x>434</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>376</h>
+      <object_id>2307594</object_id>
+      <w>375</w>
+      <y>0</y>
+      <x>124</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman with purple hands holding a smart phone.</caption>
+      <caption>A kid with purple hands is looking at a cell phone. </caption>
+      <caption>a boy with purple hands is touching a phone</caption>
+      <caption>The boy is checking his messages on the phone.</caption>
+      <caption>a couple of people that are standing around</caption>
+    </captions>
+</image>

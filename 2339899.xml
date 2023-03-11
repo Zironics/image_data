@@ -1,0 +1,76 @@
+<image>
+  <image-id>2339899</image-id>
+  <coco-id>178751</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4038312</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2951049</subject>
+      <object>2951050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4038313</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3691812</subject>
+      <object>3022061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4038314</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3691812</subject>
+      <object>2126153</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tracks</name>
+      <h>284</h>
+      <object_id>2951049</object_id>
+      <w>205</w>
+      <y>88</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>368</h>
+      <object_id>2951050</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>370</h>
+      <object_id>3691812</object_id>
+      <w>127</w>
+      <y>1</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>176</h>
+      <object_id>3022061</object_id>
+      <w>121</w>
+      <y>50</y>
+      <x>269</x>
+    </object>
+    <object>
+      <name>cap</name>
+      <h>58</h>
+      <object_id>2126153</object_id>
+      <w>111</w>
+      <y>5</y>
+      <x>299</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Young woman holding skis in a snowy landscape.</caption>
+      <caption>A woman standing in the snow holding snow skis near some trees.</caption>
+      <caption>A woman is smiling while holding onto skis.</caption>
+      <caption>a lady holding her ski equipment instead of wearing them</caption>
+      <caption>a woman with a hat holding some skies and ski poles</caption>
+    </captions>
+</image>

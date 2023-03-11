@@ -1,0 +1,104 @@
+<image>
+  <image-id>2333209</image-id>
+  <coco-id>546424</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3688928</relationship_id>
+      <predicate>has</predicate>
+      <subject>3252857</subject>
+      <object>3252858</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057958</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3047186</subject>
+      <object>3047185</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057964</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3194435</subject>
+      <object>3699859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057965</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3194435</subject>
+      <object>3194436</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grown</attribute>
+      </attributes>
+      <name>man</name>
+      <h>386</h>
+      <object_id>3252857</object_id>
+      <w>120</w>
+      <y>71</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>striped tie</name>
+      <h>107</h>
+      <object_id>3252858</object_id>
+      <w>16</w>
+      <y>137</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>collar</name>
+      <h>16</h>
+      <object_id>3047186</object_id>
+      <w>31</w>
+      <y>125</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>109</h>
+      <object_id>3047185</object_id>
+      <w>32</w>
+      <y>124</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>bride</name>
+      <h>269</h>
+      <object_id>3194435</object_id>
+      <w>157</w>
+      <y>82</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>dress</name>
+      <h>290</h>
+      <object_id>3699859</object_id>
+      <w>130</w>
+      <y>159</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>bouquet</name>
+      <h>103</h>
+      <object_id>3194436</object_id>
+      <w>113</w>
+      <y>185</y>
+      <x>179</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a black and white photo of a person in a suit and a person in a dress</caption>
+      <caption>The bride and groom stand in the isle between the pews. </caption>
+      <caption>A man and woman standing in a church during a wedding.</caption>
+      <caption>A couple walking down the aisle at their wedding ceremony</caption>
+      <caption>a man and woman are getting married </caption>
+    </captions>
+</image>

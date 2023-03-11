@@ -1,0 +1,79 @@
+<image>
+  <image-id>2332357</image-id>
+  <coco-id>289535</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3754667</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>2923505</subject>
+      <object>2923506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3781731</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3499627</subject>
+      <object>3586754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3781732</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3586753</subject>
+      <object>3499627</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>55</h>
+      <object_id>2923505</object_id>
+      <w>436</w>
+      <y>15</y>
+      <x>33</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>77</h>
+      <object_id>2923506</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ON</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>181</h>
+      <object_id>3499627</object_id>
+      <w>210</w>
+      <y>122</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>111</h>
+      <object_id>3586754</object_id>
+      <w>480</w>
+      <y>212</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>109</h>
+      <object_id>3586753</object_id>
+      <w>76</w>
+      <y>100</y>
+      <x>201</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little girl in a pink jacket riding a horse on the beach.</caption>
+      <caption>an image of a girl riding a horse on the beach</caption>
+      <caption>A woman rides a horse on a beach.</caption>
+      <caption>A young girl is riding a horse on a beach.</caption>
+      <caption>a young person riding a horse on a beach near the water</caption>
+    </captions>
+</image>

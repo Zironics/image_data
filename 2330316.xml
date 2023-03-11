@@ -1,0 +1,98 @@
+<image>
+  <image-id>2330316</image-id>
+  <coco-id>328255</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4013947</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2883277</subject>
+      <object>2837921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261011</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2837920</subject>
+      <object>2837921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4013948</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2752556</subject>
+      <object>2881157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097914</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3269708</subject>
+      <object>3269709</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bottle</name>
+      <h>73</h>
+      <object_id>2883277</object_id>
+      <w>31</w>
+      <y>37</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>326</h>
+      <object_id>2837921</object_id>
+      <w>497</w>
+      <y>46</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>can</name>
+      <h>96</h>
+      <object_id>2837920</object_id>
+      <w>32</w>
+      <y>27</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>stopper</name>
+      <h>72</h>
+      <object_id>2752556</object_id>
+      <w>70</w>
+      <y>187</y>
+      <x>253</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <h>123</h>
+      <object_id>2881157</object_id>
+      <w>233</w>
+      <y>119</y>
+      <x>173</x>
+      <name>bathroom sink</name>
+    </object>
+    <object>
+      <name>pump</name>
+      <h>23</h>
+      <object_id>3269708</object_id>
+      <w>13</w>
+      <y>37</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>70</h>
+      <object_id>3269709</object_id>
+      <w>28</w>
+      <y>37</y>
+      <x>281</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a sink in a bathroom with a shaver and personal hygeine items on the counter top</caption>
+      <caption>a sink well cleaned and some drawers and hand wash</caption>
+      <caption>a couple of bathroom items sitting on a sink</caption>
+      <caption>A bathroom sink that is surrounded by various toiletries.</caption>
+      <caption>The man who uses this bathroom shaved this morning</caption>
+    </captions>
+</image>

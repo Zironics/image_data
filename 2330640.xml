@@ -1,0 +1,83 @@
+<image>
+  <image-id>2330640</image-id>
+  <coco-id>8797</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2903290</relationship_id>
+      <predicate>has</predicate>
+      <subject>972803</subject>
+      <object>972805</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2903291</relationship_id>
+      <predicate>has</predicate>
+      <subject>972801</subject>
+      <object>972806</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2903292</relationship_id>
+      <predicate>has</predicate>
+      <subject>972803</subject>
+      <object>972807</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <h>121</h>
+      <object_id>972803</object_id>
+      <w>87</w>
+      <y>191</y>
+      <x>0</x>
+      <name>cow</name>
+    </object>
+    <object>
+      <name>horn</name>
+      <h>20</h>
+      <object_id>972805</object_id>
+      <w>35</w>
+      <y>180</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>spotted</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>110</h>
+      <object_id>972801</object_id>
+      <w>267</w>
+      <y>52</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>horn</name>
+      <h>31</h>
+      <object_id>972806</object_id>
+      <w>45</w>
+      <y>58</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>horn</name>
+      <h>23</h>
+      <object_id>972807</object_id>
+      <w>34</w>
+      <y>194</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some very big cows with horns in the grass.</caption>
+      <caption>cows with horns walking past some huts </caption>
+      <caption>Several cows wandering through a green pasture together.</caption>
+      <caption>A bunch of cows are out walking in a grassy field.</caption>
+      <caption>a group of cows and steer walking outside</caption>
+    </captions>
+</image>

@@ -1,0 +1,73 @@
+<image>
+  <image-id>2329971</image-id>
+  <coco-id>228910</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4797138</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591332</subject>
+      <object>4591330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797139</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591332</subject>
+      <object>4591333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4794547</relationship_id>
+      <predicate>around</predicate>
+      <subject>4584772</subject>
+      <object>4584773</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>77</h>
+      <object_id>4591332</object_id>
+      <w>258</w>
+      <y>166</y>
+      <x>0</x>
+      <name>train</name>
+    </object>
+    <object>
+      <name>doors</name>
+      <h>64</h>
+      <object_id>4591330</object_id>
+      <w>64</w>
+      <y>174</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>29</h>
+      <object_id>4591333</object_id>
+      <w>54</w>
+      <y>184</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>camera strap</name>
+      <h>189</h>
+      <object_id>4584772</object_id>
+      <w>92</w>
+      <y>141</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>30</h>
+      <object_id>4584773</object_id>
+      <w>49</w>
+      <y>148</y>
+      <x>267</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman wearing a camera strap around her neck.</caption>
+      <caption>A woman looking directly at the camera with a passenger train in the background.</caption>
+      <caption>A woman is in a train station with a camera strapped around her neck. </caption>
+      <caption>A person in a train station looks into the camera with a neutral expression.</caption>
+      <caption>An Asian woman at the train station looking at the camera.</caption>
+    </captions>
+</image>

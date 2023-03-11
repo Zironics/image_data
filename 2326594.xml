@@ -1,0 +1,59 @@
+<image>
+  <image-id>2326594</image-id>
+  <coco-id>521804</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3641894</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3192890</subject>
+      <object>3192891</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3641896</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3525385</subject>
+      <object>3252676</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>64</h>
+      <object_id>3192890</object_id>
+      <w>177</w>
+      <y>52</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>mountain</name>
+      <h>190</h>
+      <object_id>3192891</object_id>
+      <w>497</w>
+      <y>35</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>14</h>
+      <object_id>3525385</object_id>
+      <w>25</w>
+      <y>77</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>36</h>
+      <object_id>3252676</object_id>
+      <w>115</w>
+      <y>65</y>
+      <x>237</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lush green field with animals grazing on top of it under a snow covered mountain range.</caption>
+      <caption>A herd of cows in a field near the base of a mountain.</caption>
+      <caption>A farm with cows and mountains in the background.</caption>
+      <caption>A scenic view of a ranch with cattle and mountains in the background </caption>
+      <caption>High altitude house looking over a herd of grazing cattle.</caption>
+    </captions>
+</image>

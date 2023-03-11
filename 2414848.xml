@@ -1,0 +1,74 @@
+<image>
+  <image-id>2414848</image-id>
+  <coco-id>241064</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>145470</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>150728</subject>
+      <object>150729</object>
+    </relationship>
+    <relationship>
+      <relationship_id>145471</relationship_id>
+      <predicate>behind</predicate>
+      <subject>150743</subject>
+      <object>150744</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wooly</attribute>
+        <attribute>standing</attribute>
+        <attribute>big</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>107</h>
+      <object_id>150728</object_id>
+      <w>70</w>
+      <y>172</y>
+      <x>383</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>173</h>
+      <object_id>150729</object_id>
+      <w>499</w>
+      <y>159</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>structure</name>
+      <h>29</h>
+      <object_id>150743</object_id>
+      <w>66</w>
+      <y>139</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dying</attribute>
+        <attribute>old</attribute>
+        <attribute>large</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>168</h>
+      <object_id>150744</object_id>
+      <w>164</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of animals walking and laying on a lush green field.</caption>
+      <caption>Sheep and cows sitting in a grassy field</caption>
+      <caption>sheep and cows resting on a grassy area near trees</caption>
+      <caption>Grassy field with sheep and cows resting comfortably.  </caption>
+      <caption>A green pasture of black and white cows, and sheep.</caption>
+    </captions>
+</image>

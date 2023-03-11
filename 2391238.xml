@@ -1,0 +1,203 @@
+<image>
+  <image-id>2391238</image-id>
+  <coco-id>391347</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3450581</relationship_id>
+      <predicate>cornered by</predicate>
+      <subject>1242512</subject>
+      <object>1242513</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450582</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>1242499</subject>
+      <object>1242500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450583</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>1242501</subject>
+      <object>1242502</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450584</relationship_id>
+      <predicate>held on by</predicate>
+      <subject>1242503</subject>
+      <object>1242504</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450585</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1242508</subject>
+      <object>1242500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450586</relationship_id>
+      <predicate>says</predicate>
+      <subject>1242502</subject>
+      <object>1242512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450587</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1242513</subject>
+      <object>1242500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450588</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1242504</subject>
+      <object>1242503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450589</relationship_id>
+      <predicate>written on</predicate>
+      <subject>1242515</subject>
+      <object>1242503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450590</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1242512</subject>
+      <object>1242502</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450591</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1242513</subject>
+      <object>1242500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450592</relationship_id>
+      <predicate>found on</predicate>
+      <subject>1242516</subject>
+      <object>1242500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3450593</relationship_id>
+      <predicate>found on</predicate>
+      <subject>1242517</subject>
+      <object>1242502</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>swampfox rd</name>
+      <h>136</h>
+      <object_id>1242512</object_id>
+      <w>161</w>
+      <y>24</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>gamecock</name>
+      <h>72</h>
+      <object_id>1242513</object_id>
+      <w>116</w>
+      <y>55</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>rd sr3450</name>
+      <h>52</h>
+      <object_id>1242499</object_id>
+      <w>51</w>
+      <y>24</y>
+      <x>376</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>114</h>
+      <object_id>1242500</object_id>
+      <w>182</w>
+      <y>19</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>rd sr3451</name>
+      <h>51</h>
+      <object_id>1242501</object_id>
+      <w>35</w>
+      <y>134</y>
+      <x>201</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>179</h>
+      <object_id>1242502</object_id>
+      <w>178</w>
+      <y>10</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>octagonal</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>150</h>
+      <object_id>1242503</object_id>
+      <w>169</w>
+      <y>182</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>bolt</name>
+      <h>13</h>
+      <object_id>1242504</object_id>
+      <w>13</w>
+      <y>199</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>108</h>
+      <object_id>1242508</object_id>
+      <w>35</w>
+      <y>91</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>vowel</name>
+      <h>70</h>
+      <object_id>1242515</object_id>
+      <w>35</w>
+      <y>233</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>28</h>
+      <object_id>1242516</object_id>
+      <w>38</w>
+      <y>42</y>
+      <x>388</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>35</h>
+      <object_id>1242517</object_id>
+      <w>22</w>
+      <y>148</y>
+      <x>213</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Intersection of two street signs and a stop sign.</caption>
+      <caption>This is a stop sign at the corner of Swampfox and Gamecock.</caption>
+      <caption>Stop sign on the corner of Swampfox and Gamecock roads</caption>
+      <caption>A stop sign with street signs attached to it</caption>
+      <caption>A stop sign on a street sign post at the intersection of Swampfox and Gamecock roads.</caption>
+    </captions>
+</image>

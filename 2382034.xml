@@ -1,0 +1,85 @@
+<image>
+  <image-id>2382034</image-id>
+  <coco-id>274337</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4783667</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4557807</subject>
+      <object>4557808</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4783668</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4557812</subject>
+      <object>4557823</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4783669</relationship_id>
+      <predicate>riding</predicate>
+      <subject>4557807</subject>
+      <object>4557830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4783676</relationship_id>
+      <predicate>are driving</predicate>
+      <subject>4557807</subject>
+      <object>4557823</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>127</h>
+      <object_id>4557807</object_id>
+      <w>70</w>
+      <y>55</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>motorbike</name>
+      <h>209</h>
+      <object_id>4557808</object_id>
+      <w>158</w>
+      <y>47</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>102</h>
+      <object_id>4557812</object_id>
+      <w>133</w>
+      <y>68</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>busy</attribute>
+      </attributes>
+      <h>201</h>
+      <object_id>4557823</object_id>
+      <w>500</w>
+      <y>68</y>
+      <x>0</x>
+      <name>street</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>police </attribute>
+      </attributes>
+      <h>174</h>
+      <object_id>4557830</object_id>
+      <w>128</w>
+      <y>86</y>
+      <x>81</x>
+      <name>motorcycle</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A police motorcycle followed by a police car drive past a crowd. </caption>
+      <caption>Police are driving through a parade as the crowd looks the other way.</caption>
+      <caption>many cars on a city street with people standing near by</caption>
+      <caption>A police escort with  a police officer on a motorcycle in reflective gear</caption>
+      <caption>A man on a yellow and blue motorcycle waving his hand to crowd.</caption>
+    </captions>
+</image>

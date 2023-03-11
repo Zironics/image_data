@@ -1,0 +1,54 @@
+<image>
+  <image-id>1592119</image-id>
+  <coco-id>471188</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4264561</relationship_id>
+      <predicate>standing at</predicate>
+      <subject>1606686</subject>
+      <object>3797707</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264562</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1606686</subject>
+      <object>3797708</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>219</h>
+      <object_id>1606686</object_id>
+      <w>73</w>
+      <y>408</y>
+      <x>726</x>
+    </object>
+    <object>
+      <name>bus stop</name>
+      <h>614</h>
+      <object_id>3797707</object_id>
+      <w>307</w>
+      <y>150</y>
+      <x>712</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>76</h>
+      <object_id>3797708</object_id>
+      <w>50</w>
+      <y>430</y>
+      <x>740</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A street with double level buses and a ferris wheel</caption>
+      <caption>Busses on a city street approaching a bus stop.</caption>
+      <caption>A street with double decker buses in both directions.</caption>
+      <caption>Two double decker buses passing each other by on a busy street in London.</caption>
+      <caption>a group of people stand at a bus stop</caption>
+    </captions>
+</image>

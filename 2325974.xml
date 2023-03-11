@@ -1,0 +1,62 @@
+<image>
+  <image-id>2325974</image-id>
+  <coco-id>218343</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3903760</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3280912</subject>
+      <object>3280914</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3786333</relationship_id>
+      <predicate>with</predicate>
+      <subject>3380711</subject>
+      <object>3380712</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>book</name>
+      <h>29</h>
+      <object_id>3280912</object_id>
+      <w>49</w>
+      <y>282</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>coffee table</name>
+      <h>106</h>
+      <object_id>3280914</object_id>
+      <w>248</w>
+      <y>267</y>
+      <x>195</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>electronic</attribute>
+      </attributes>
+      <name>electronic device</name>
+      <h>45</h>
+      <object_id>3380711</object_id>
+      <w>85</w>
+      <y>294</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>cord</name>
+      <h>42</h>
+      <object_id>3380712</object_id>
+      <w>27</w>
+      <y>332</y>
+      <x>414</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a room with a lamp a couch a red rug and some books</caption>
+      <caption>Living room with couch red rug and a book case full of books.</caption>
+      <caption>A living room with a bookcase, sofa and coffee table.</caption>
+      <caption>A room that has a couch, table, bookshelves and fan.</caption>
+      <caption>A living room has a bookcase full of books.</caption>
+    </captions>
+</image>

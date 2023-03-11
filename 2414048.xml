@@ -1,0 +1,90 @@
+<image>
+  <image-id>2414048</image-id>
+  <coco-id>192436</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>154756</relationship_id>
+      <predicate>behind</predicate>
+      <subject>160865</subject>
+      <object>160862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154757</relationship_id>
+      <predicate>behind</predicate>
+      <subject>160864</subject>
+      <object>160862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154758</relationship_id>
+      <predicate>behind</predicate>
+      <subject>160866</subject>
+      <object>160863</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>56</h>
+      <object_id>160865</object_id>
+      <w>76</w>
+      <y>73</y>
+      <x>107</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>throw pillow</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>111</h>
+      <object_id>160862</object_id>
+      <w>124</w>
+      <y>30</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>56</h>
+      <object_id>160864</object_id>
+      <w>134</w>
+      <y>30</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>56</h>
+      <object_id>160866</object_id>
+      <w>43</w>
+      <y>59</y>
+      <x>316</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>throw pillow</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>84</h>
+      <object_id>160863</object_id>
+      <w>84</w>
+      <y>34</y>
+      <x>243</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white bed with black pillows and a patterned throw.</caption>
+      <caption>a large bed that is in some kind of room</caption>
+      <caption>The bed is made with a white comforter and bright blanket. </caption>
+      <caption>Bedroom with large bed with bedspread and colorful comforter.</caption>
+      <caption>A double bed made up with a quilt during the day</caption>
+    </captions>
+</image>

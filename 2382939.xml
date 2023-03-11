@@ -1,0 +1,46 @@
+<image>
+  <image-id>2382939</image-id>
+  <coco-id>315160</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1314921</relationship_id>
+      <predicate>next to</predicate>
+      <subject>536208</subject>
+      <object>536207</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>87</h>
+      <object_id>536208</object_id>
+      <w>83</w>
+      <y>194</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>traffic</attribute>
+        <attribute>black</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>light</name>
+      <h>80</h>
+      <object_id>536207</object_id>
+      <w>53</w>
+      <y>110</y>
+      <x>282</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red traffic light over a street next to trees.</caption>
+      <caption>A couple of red lights over a road</caption>
+      <caption>Rolling green hills with red traffic lights in the foreground</caption>
+      <caption>A street light showing red near some mountains.</caption>
+      <caption>Red stop light with rolling mountains in the backdrop</caption>
+    </captions>
+</image>

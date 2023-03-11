@@ -1,0 +1,76 @@
+<image>
+  <image-id>2415693</image-id>
+  <coco-id>382443</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3875913</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3271385</subject>
+      <object>3791621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253790</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2985283</subject>
+      <object>3791621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253791</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2940066</subject>
+      <object>2940067</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>46</h>
+      <object_id>3271385</object_id>
+      <w>25</w>
+      <y>120</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>321</h>
+      <object_id>3791621</object_id>
+      <w>385</w>
+      <y>10</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>paw</name>
+      <h>67</h>
+      <object_id>2985283</object_id>
+      <w>91</w>
+      <y>265</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+      </attributes>
+      <name>curtain</name>
+      <h>306</h>
+      <object_id>2940066</object_id>
+      <w>84</w>
+      <y>7</y>
+      <x>414</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>196</h>
+      <object_id>2940067</object_id>
+      <w>67</w>
+      <y>132</y>
+      <x>431</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and white dog chewing on a plastic bottle</caption>
+      <caption> A large dog laying  down with his carrier in the back round.</caption>
+      <caption>A dog chewing on a water bottle with a smile on his face.</caption>
+      <caption>A dog laying on the floor chewing on something.</caption>
+      <caption>A dog with his mouth open in front of his cage. </caption>
+    </captions>
+</image>

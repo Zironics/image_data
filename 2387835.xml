@@ -1,0 +1,40 @@
+<image>
+  <image-id>2387835</image-id>
+  <coco-id>208976</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4771728</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4525914</subject>
+      <object>4525915</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>turquoise</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>184</h>
+      <object_id>4525914</object_id>
+      <w>144</w>
+      <y>314</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>149</h>
+      <object_id>4525915</object_id>
+      <w>324</w>
+      <y>343</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a blue vase with some white flowers and greenery </caption>
+      <caption>A blue vase of flowers sits on a table.</caption>
+      <caption>this is a blue vase with plants in it</caption>
+      <caption>A vase sitting on a table with flowers and plants in it.</caption>
+      <caption>A vase of flowers is sitting on a table.</caption>
+    </captions>
+</image>

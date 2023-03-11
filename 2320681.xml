@@ -1,0 +1,102 @@
+<image>
+  <image-id>2320681</image-id>
+  <coco-id>543303</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3147056</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1049419</subject>
+      <object>1049420</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147057</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1049419</subject>
+      <object>1049422</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147058</relationship_id>
+      <predicate>has</predicate>
+      <subject>1049426</subject>
+      <object>1049427</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147059</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1049419</subject>
+      <object>1049430</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147060</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1049419</subject>
+      <object>1049422</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>elephant</attribute>
+      </attributes>
+      <name>animal</name>
+      <h>144</h>
+      <object_id>1049419</object_id>
+      <w>123</w>
+      <y>116</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>jungle</name>
+      <h>297</h>
+      <object_id>1049420</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tusk</name>
+      <h>77</h>
+      <object_id>1049422</object_id>
+      <w>22</w>
+      <y>181</y>
+      <x>246</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>water</name>
+      <h>57</h>
+      <object_id>1049426</object_id>
+      <w>498</w>
+      <y>317</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>fish</name>
+      <h>18</h>
+      <object_id>1049427</object_id>
+      <w>41</w>
+      <y>345</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>75</h>
+      <object_id>1049430</object_id>
+      <w>51</w>
+      <y>115</y>
+      <x>233</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>AN ELEPHANT IS COMING OUT FROM A TROPICAL AREA TO THE WATERS EDGE</caption>
+      <caption>an elephant in the middle of a forest</caption>
+      <caption>A life sized sculpture of a tusked elephant in greenery </caption>
+      <caption>An elephant looks out from a jungle of bamboo and palm trees.</caption>
+      <caption>A ELEPHANT IS IN THE JUNGLE NEAR THE WATER </caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2330000</image-id>
+  <coco-id>140682</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4794939</relationship_id>
+      <predicate>ON THE</predicate>
+      <subject>4585865</subject>
+      <object>4585866</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mirror</name>
+      <h>134</h>
+      <object_id>4585865</object_id>
+      <w>184</w>
+      <y>128</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>56</h>
+      <object_id>4585866</object_id>
+      <w>62</w>
+      <y>80</y>
+      <x>149</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A three sink bathroom with a mirror and a window.</caption>
+      <caption>A restroom with multiple sinks and a wide open window.</caption>
+      <caption>A run down bathroom with three dingy sinks. </caption>
+      <caption>Three sinks in a bathroom of an old building.</caption>
+      <caption>An old bathroom with broken tiles on the wall.</caption>
+    </captions>
+</image>

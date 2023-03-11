@@ -1,0 +1,40 @@
+<image>
+  <image-id>2317372</image-id>
+  <coco-id>523985</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4082237</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3265838</subject>
+      <object>3265839</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>teddy bear</name>
+      <h>111</h>
+      <object_id>3265838</object_id>
+      <w>101</w>
+      <y>181</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>421</h>
+      <object_id>3265839</object_id>
+      <w>299</w>
+      <y>77</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A photo of a bear laying on a large chair.</caption>
+      <caption>A fluffy white teddy bear is placed on a green lounge chair outside.</caption>
+      <caption>A small white teddy bear on a lounge chair.</caption>
+      <caption>A picture of a white teddy bear on a chair.</caption>
+      <caption>a white teddy bear laying on a green lawn chair</caption>
+    </captions>
+</image>

@@ -1,0 +1,113 @@
+<image>
+  <image-id>2400554</image-id>
+  <coco-id>226577</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3306352</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1157441</subject>
+      <object>1157442</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3306353</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1157441</subject>
+      <object>1157444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3306354</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1157447</subject>
+      <object>1157441</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3306355</relationship_id>
+      <predicate>at a</predicate>
+      <subject>1157445</subject>
+      <object>1157444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3306356</relationship_id>
+      <predicate>has</predicate>
+      <subject>1157441</subject>
+      <object>1157447</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>surfing</attribute>
+        <attribute>walking</attribute>
+        <attribute>barefoot</attribute>
+      </attributes>
+      <name>man</name>
+      <h>218</h>
+      <object_id>1157441</object_id>
+      <w>87</w>
+      <y>105</y>
+      <x>132</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>black</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>186</h>
+      <object_id>1157442</object_id>
+      <w>87</w>
+      <y>133</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+        <attribute>vivid</attribute>
+        <attribute>sandy</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>326</h>
+      <object_id>1157444</object_id>
+      <w>495</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>brown</attribute>
+        <attribute>long</attribute>
+        <attribute>straight</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>27</h>
+      <object_id>1157447</object_id>
+      <w>25</w>
+      <y>108</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>blue</attribute>
+        <attribute>active</attribute>
+        <attribute>gentle</attribute>
+      </attributes>
+      <name>water</name>
+      <h>150</h>
+      <object_id>1157445</object_id>
+      <w>498</w>
+      <y>73</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two surfers walking towards the beach so they can surf.</caption>
+      <caption>Two people in wet suits are walking towards the ocean.</caption>
+      <caption>two men walking to the beach one holding a surf board</caption>
+      <caption>Two surfers in wet suits walking down to the beach</caption>
+      <caption>A couple of men walking along a beach with a surfboard.</caption>
+    </captions>
+</image>

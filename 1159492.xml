@@ -1,0 +1,81 @@
+<image>
+  <image-id>1159492</image-id>
+  <coco-id>51199</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4579735</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4047241</subject>
+      <object>4047242</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579736</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4047243</subject>
+      <object>4047244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579737</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4047245</subject>
+      <object>4047246</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>173</h>
+      <object_id>4047241</object_id>
+      <w>132</w>
+      <y>337</y>
+      <x>300</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>532</h>
+      <object_id>4047242</object_id>
+      <w>230</w>
+      <y>229</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>152</h>
+      <object_id>4047243</object_id>
+      <w>193</w>
+      <y>469</y>
+      <x>650</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>450</h>
+      <object_id>4047244</object_id>
+      <w>323</w>
+      <y>314</y>
+      <x>614</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>96</h>
+      <object_id>4047245</object_id>
+      <w>89</w>
+      <y>268</y>
+      <x>531</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>586</h>
+      <object_id>4047246</object_id>
+      <w>240</w>
+      <y>173</y>
+      <x>452</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people holding up brown teddy bears.</caption>
+      <caption>A group of people in a field with teddy bears.</caption>
+      <caption>A large crowd of people all holding up stuffed animals.</caption>
+      <caption>A crowd of people holding stuffed animals in the air.</caption>
+      <caption>The crowd is holding up their teddy bears in unison at the event. </caption>
+    </captions>
+</image>

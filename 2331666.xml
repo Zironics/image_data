@@ -1,0 +1,65 @@
+<image>
+  <image-id>2331666</image-id>
+  <coco-id>575776</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4823479</relationship_id>
+      <predicate>on</predicate>
+      <subject>4655410</subject>
+      <object>4655403</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823480</relationship_id>
+      <predicate>beside</predicate>
+      <subject>4655404</subject>
+      <object>4655410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823481</relationship_id>
+      <predicate>on</predicate>
+      <subject>4655410</subject>
+      <object>4655409</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>67</h>
+      <object_id>4655410</object_id>
+      <w>210</w>
+      <y>198</y>
+      <x>213</x>
+      <name>rhinocerous</name>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>60</h>
+      <object_id>4655403</object_id>
+      <w>160</w>
+      <y>264</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>90</h>
+      <object_id>4655404</object_id>
+      <w>166</w>
+      <y>195</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>50</h>
+      <object_id>4655409</object_id>
+      <w>149</w>
+      <y>266</y>
+      <x>241</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra and a rhino interacting in the wild. </caption>
+      <caption>The rhinoceros lays down next to the zebra in the safari. </caption>
+      <caption>A zebra walking next to a rhino laying down.</caption>
+      <caption>Two animals in the middle of a field.</caption>
+      <caption>a zebra and a rhino are on some orange dirt</caption>
+    </captions>
+</image>

@@ -1,0 +1,64 @@
+<image>
+  <image-id>713631</image-id>
+  <coco-id>379409</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262904</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1586832</subject>
+      <object>3701811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063187</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1586832</subject>
+      <object>3701811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063188</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3701810</subject>
+      <object>3701811</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>89</h>
+      <object_id>1586832</object_id>
+      <w>97</w>
+      <y>396</y>
+      <x>251</x>
+      <name>headlight</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>525</h>
+      <object_id>3701811</object_id>
+      <w>983</w>
+      <y>123</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>111</h>
+      <object_id>3701810</object_id>
+      <w>109</w>
+      <y>179</y>
+      <x>607</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red and white truck parked in a parking space.</caption>
+      <caption>Older modeled truck sitting in a parking lot.</caption>
+      <caption>An old pickup truck in a shopping mall parking lot.</caption>
+      <caption>A brown truck is parked in a parking lot.</caption>
+      <caption>An vintage truck that is dark red and white.</caption>
+    </captions>
+</image>

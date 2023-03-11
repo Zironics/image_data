@@ -1,0 +1,51 @@
+<image>
+  <image-id>1592608</image-id>
+  <coco-id>139781</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3844691</relationship_id>
+      <predicate>has</predicate>
+      <subject>2935279</subject>
+      <object>2232183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3844693</relationship_id>
+      <predicate>has</predicate>
+      <subject>2935279</subject>
+      <object>2935280</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>house</name>
+      <h>473</h>
+      <object_id>2935279</object_id>
+      <w>1097</w>
+      <y>7</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>159</h>
+      <object_id>2232183</object_id>
+      <w>67</w>
+      <y>168</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>135</h>
+      <object_id>2935280</object_id>
+      <w>49</w>
+      <y>193</y>
+      <x>699</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lady flying a kite in a neighborhood while there is daylight.</caption>
+      <caption>A woman standing next to a cat laying on the ground.</caption>
+      <caption>A man is flying a cat while a cat watches</caption>
+      <caption>Man and a cat outside playing with a cat toy.</caption>
+      <caption>A woman is looking on at a cat sitting in the grass.</caption>
+    </captions>
+</image>

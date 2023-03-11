@@ -1,0 +1,86 @@
+<image>
+  <image-id>2385097</image-id>
+  <coco-id>175250</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4677684</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4289551</subject>
+      <object>4289572</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677687</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4289560</subject>
+      <object>4289561</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823011</relationship_id>
+      <predicate>front of</predicate>
+      <subject>4654238</subject>
+      <object>4654237</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wheel</name>
+      <h>28</h>
+      <object_id>4289551</object_id>
+      <w>32</w>
+      <y>226</y>
+      <x>338</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>burgundy</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>137</h>
+      <object_id>4289572</object_id>
+      <w>380</w>
+      <y>114</y>
+      <x>12</x>
+      <name>plane</name>
+    </object>
+    <object>
+      <name>pavement</name>
+      <h>39</h>
+      <object_id>4289560</object_id>
+      <w>121</w>
+      <y>259</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>51</h>
+      <object_id>4289561</object_id>
+      <w>440</w>
+      <y>242</y>
+      <x>47</x>
+    </object>
+    <object>
+      <name>propeller</name>
+      <h>66</h>
+      <object_id>4654238</object_id>
+      <w>19</w>
+      <y>165</y>
+      <x>370</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>144</h>
+      <object_id>4654237</object_id>
+      <w>384</w>
+      <y>113</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white and red plane on runway with grass in the background.</caption>
+      <caption>A small passenger airplane with a propeller on the front and wheels down, on the airstrip. </caption>
+      <caption>A red and white small plane is parked on a tarmac.</caption>
+      <caption>A plane moving along an empty runway under a gray sky.</caption>
+      <caption>a plane is beginning to taxi down the runway</caption>
+    </captions>
+</image>

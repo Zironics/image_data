@@ -1,0 +1,83 @@
+<image>
+  <image-id>2350362</image-id>
+  <coco-id>103910</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3799903</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>2062838</subject>
+      <object>2062839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799904</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2269742</subject>
+      <object>2269743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799905</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2269742</subject>
+      <object>2269743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799906</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2269742</subject>
+      <object>2269743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3799908</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2062838</subject>
+      <object>2062839</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>framed</attribute>
+      </attributes>
+      <h>128</h>
+      <object_id>2062838</object_id>
+      <w>118</w>
+      <y>0</y>
+      <x>243</x>
+      <name>painting</name>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>217</h>
+      <object_id>2062839</object_id>
+      <w>276</w>
+      <y>0</y>
+      <x>210</x>
+    </object>
+    <object>
+      <h>137</h>
+      <object_id>2269742</object_id>
+      <w>78</w>
+      <y>0</y>
+      <x>398</x>
+      <name>towel</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>towel</attribute>
+      </attributes>
+      <name>rack</name>
+      <h>55</h>
+      <object_id>2269743</object_id>
+      <w>87</w>
+      <y>0</y>
+      <x>411</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bath tub sitting in a kitchen next to a brick floor.</caption>
+      <caption>A bathtub and a shower sitting in a bathroom near a framed picture.</caption>
+      <caption>A bathroom wiht a tub, shower stall, picture and towel.</caption>
+      <caption>A picture of a tub and glass shower. </caption>
+      <caption>A picture showing a bathroom with a bathtub and a separate shower.</caption>
+    </captions>
+</image>

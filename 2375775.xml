@@ -1,0 +1,59 @@
+<image>
+  <image-id>2375775</image-id>
+  <coco-id>499862</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4836342</relationship_id>
+      <predicate>on</predicate>
+      <subject>4688154</subject>
+      <object>4688155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4836343</relationship_id>
+      <predicate>on</predicate>
+      <subject>4688154</subject>
+      <object>4688155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4836344</relationship_id>
+      <predicate>on</predicate>
+      <subject>4688154</subject>
+      <object>4688155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4836345</relationship_id>
+      <predicate>on</predicate>
+      <subject>4688154</subject>
+      <object>4688155</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+        <attribute>sliced</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>304</h>
+      <object_id>4688154</object_id>
+      <w>495</w>
+      <y>70</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>368</h>
+      <object_id>4688155</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A half eatten spinach pizza sitting in a pan.</caption>
+      <caption>A close up image of a spinach pizza on a pan. </caption>
+      <caption>A pizza with spinach and cheese on top of it. </caption>
+      <caption>Baked pizza slices on metal serving pan with cheese and vegetables.</caption>
+      <caption>The metal pan is full of cooked food.</caption>
+    </captions>
+</image>

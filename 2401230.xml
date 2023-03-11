@@ -1,0 +1,67 @@
+<image>
+  <image-id>2401230</image-id>
+  <coco-id>301121</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3295021</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1149974</subject>
+      <object>1149975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3295029</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1149974</subject>
+      <object>1149975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3295041</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1149974</subject>
+      <object>1149975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3295045</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1149974</subject>
+      <object>1149975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3295055</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1149974</subject>
+      <object>1149975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3295056</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1149974</subject>
+      <object>1149975</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>42</h>
+      <object_id>1149974</object_id>
+      <w>45</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>42</h>
+      <object_id>1149975</object_id>
+      <w>45</w>
+      <y>29</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of a person sitting on a bench.</caption>
+      <caption>Colorfully dressed youth sits on a bench with a bowling advertisement.</caption>
+      <caption>A person sitting on a bench wearing a hat and holding a handbag.</caption>
+      <caption>A woman sits on a bus, presumably waiting for a bench.</caption>
+      <caption>A hipster sitting on a bench with a bowling advertisement.</caption>
+    </captions>
+</image>

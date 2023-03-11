@@ -1,0 +1,63 @@
+<image>
+  <image-id>498326</image-id>
+  <coco-id>545675</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4642474</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4200471</subject>
+      <object>4200472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4642563</relationship_id>
+      <predicate>are in</predicate>
+      <subject>4200679</subject>
+      <object>4200679</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4642564</relationship_id>
+      <predicate>has</predicate>
+      <subject>4200679</subject>
+      <object>4200679</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>car</name>
+      <h>126</h>
+      <object_id>4200471</object_id>
+      <w>139</w>
+      <y>452</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>pavement</name>
+      <h>96</h>
+      <object_id>4200472</object_id>
+      <w>214</w>
+      <y>631</y>
+      <x>83</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>121</h>
+      <object_id>4200679</object_id>
+      <w>178</w>
+      <y>188</y>
+      <x>209</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very long bus driving down a street next to a tree.</caption>
+      <caption>THERE IS A CITY BUS THAT IS DRIVING DOWN THE STREET </caption>
+      <caption>long double-bus driving into an intersection behind trolley tracks</caption>
+      <caption>A green and white bus traveling down the street</caption>
+      <caption>A bus that is sitting in the street under wires.</caption>
+    </captions>
+</image>

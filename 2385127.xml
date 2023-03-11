@@ -1,0 +1,92 @@
+<image>
+  <image-id>2385127</image-id>
+  <coco-id>380635</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1265678</relationship_id>
+      <predicate>has</predicate>
+      <subject>522363</subject>
+      <object>522364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1265679</relationship_id>
+      <predicate>OF</predicate>
+      <subject>522365</subject>
+      <object>522363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1265680</relationship_id>
+      <predicate>OF</predicate>
+      <subject>522367</subject>
+      <object>522366</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cut</attribute>
+        <attribute>slice</attribute>
+        <attribute>yellow</attribute>
+        <attribute>red</attribute>
+        <attribute>half</attribute>
+        <attribute>part</attribute>
+        <attribute>sliced</attribute>
+        <attribute>slices</attribute>
+      </attributes>
+      <name>lemon</name>
+      <h>172</h>
+      <object_id>522363</object_id>
+      <w>215</w>
+      <y>1</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>peel</name>
+      <h>24</h>
+      <object_id>522364</object_id>
+      <w>80</w>
+      <y>147</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>slice</name>
+      <h>78</h>
+      <object_id>522365</object_id>
+      <w>83</w>
+      <y>62</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>section</name>
+      <h>41</h>
+      <object_id>522367</object_id>
+      <w>66</w>
+      <y>222</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+        <attribute>stained</attribute>
+        <attribute>red</attribute>
+        <attribute>maroon</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>175</h>
+      <object_id>522366</object_id>
+      <w>172</w>
+      <y>178</y>
+      <x>269</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A table topped with sliced up blood oranges.</caption>
+      <caption>Sliced citrus fruit with yellow and red pulp.</caption>
+      <caption>some oranges grouped in with some other food</caption>
+      <caption>Fresh blood oranges arranged in slices and segments.</caption>
+      <caption>Cut up blood red oranges lay on a blue surface.</caption>
+    </captions>
+</image>

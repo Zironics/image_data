@@ -1,0 +1,129 @@
+<image>
+  <image-id>2332082</image-id>
+  <coco-id>241643</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2895369</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>970560</subject>
+      <object>970559</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2895370</relationship_id>
+      <predicate>holding</predicate>
+      <subject>970560</subject>
+      <object>970562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2895371</relationship_id>
+      <predicate>ON</predicate>
+      <subject>970563</subject>
+      <object>970562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2895372</relationship_id>
+      <predicate>ON</predicate>
+      <subject>970566</subject>
+      <object>970565</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2895373</relationship_id>
+      <predicate>OF</predicate>
+      <subject>970571</subject>
+      <object>970560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2895374</relationship_id>
+      <predicate>held by</predicate>
+      <subject>970562</subject>
+      <object>970560</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>397</h>
+      <object_id>970560</object_id>
+      <w>280</w>
+      <y>4</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green yellow</attribute>
+        <attribute>green</attribute>
+        <attribute>bright green</attribute>
+        <attribute>about to be hit</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>36</h>
+      <object_id>970559</object_id>
+      <w>43</w>
+      <y>170</y>
+      <x>396</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>being swung</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>106</h>
+      <object_id>970562</object_id>
+      <w>63</w>
+      <y>203</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>60</h>
+      <object_id>970563</object_id>
+      <w>30</w>
+      <y>239</y>
+      <x>295</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>48</h>
+      <object_id>970566</object_id>
+      <w>493</w>
+      <y>199</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>court</name>
+      <h>196</h>
+      <object_id>970565</object_id>
+      <w>493</w>
+      <y>204</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>76</h>
+      <object_id>970571</object_id>
+      <w>394</w>
+      <y>323</y>
+      <x>106</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person is outside playing a tennis game</caption>
+      <caption>A woman standing on top of a tennis court holding a racquet.</caption>
+      <caption>A woman in white shirt and blue shorts playing a game of tennis.</caption>
+      <caption>A young adult woman playing tennis on a tennis court. </caption>
+      <caption>A tennis player in action on the court.</caption>
+    </captions>
+</image>

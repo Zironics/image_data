@@ -1,0 +1,40 @@
+<image>
+  <image-id>2341012</image-id>
+  <coco-id>386875</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4704511</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4355342</subject>
+      <object>4355343</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>letter</name>
+      <h>33</h>
+      <object_id>4355342</object_id>
+      <w>57</w>
+      <y>142</y>
+      <x>261</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>some</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>137</h>
+      <object_id>4355343</object_id>
+      <w>249</w>
+      <y>121</y>
+      <x>146</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little boy sitting at a table topped with a sheet cake.</caption>
+      <caption>a boy is smiling in front of his birthday cake</caption>
+      <caption>A child at a table sitting in front of a birthday cake.</caption>
+      <caption>There is a small boy sitting in front of a cake</caption>
+      <caption>Since there are three candles on the cake, I assume he is turning three years old.</caption>
+    </captions>
+</image>

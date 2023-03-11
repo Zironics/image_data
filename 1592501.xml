@@ -1,0 +1,103 @@
+<image>
+  <image-id>1592501</image-id>
+  <coco-id>369443</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4741700</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4445261</subject>
+      <object>4445262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4741703</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4445269</subject>
+      <object>4445270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4741704</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4445271</subject>
+      <object>4445272</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4741706</relationship_id>
+      <predicate>on</predicate>
+      <subject>4445275</subject>
+      <object>4445276</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>girl</name>
+      <h>215</h>
+      <object_id>4445261</object_id>
+      <w>206</w>
+      <y>551</y>
+      <x>772</x>
+    </object>
+    <object>
+      <name>dress</name>
+      <h>121</h>
+      <object_id>4445262</object_id>
+      <w>117</w>
+      <y>640</y>
+      <x>833</x>
+    </object>
+    <object>
+      <name>lady</name>
+      <h>338</h>
+      <object_id>4445269</object_id>
+      <w>206</w>
+      <y>428</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>22</h>
+      <object_id>4445270</object_id>
+      <w>67</w>
+      <y>465</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>63</h>
+      <object_id>4445271</object_id>
+      <w>135</w>
+      <y>633</y>
+      <x>485</x>
+    </object>
+    <object>
+      <name>box</name>
+      <h>150</h>
+      <object_id>4445272</object_id>
+      <w>342</w>
+      <y>612</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>candle holder</name>
+      <h>150</h>
+      <object_id>4445275</object_id>
+      <w>143</w>
+      <y>191</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>754</h>
+      <object_id>4445276</object_id>
+      <w>385</w>
+      <y>9</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people sitting around a table with food.</caption>
+      <caption>A group of people at a table in a room.</caption>
+      <caption>Family having pizza together at a table in a rustic setting.</caption>
+      <caption>A bunch of people are smiling as they are eating pizza and drinking beer.</caption>
+      <caption>Some happy people gathered at a very nice looking table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,46 @@
+<image>
+  <image-id>2337663</image-id>
+  <coco-id>161578</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4075082</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3052499</subject>
+      <object>3052500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075083</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3052499</subject>
+      <object>3052500</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>76</h>
+      <object_id>3052499</object_id>
+      <w>78</w>
+      <y>0</y>
+      <x>296</x>
+      <name>white cloud</name>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>291</h>
+      <object_id>3052500</object_id>
+      <w>373</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light on the corner of a sidewalk.</caption>
+      <caption>Red light on a street corner with one way sign.</caption>
+      <caption>A traffic light on the corner of a street.</caption>
+      <caption>An empty street in a town, with a street light and street signs.</caption>
+      <caption>a bank of signs and signals is on a street corner.</caption>
+    </captions>
+</image>

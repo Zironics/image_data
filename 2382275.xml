@@ -1,0 +1,59 @@
+<image>
+  <image-id>2382275</image-id>
+  <coco-id>222468</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4782175</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4553715</subject>
+      <object>4553714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4782176</relationship_id>
+      <predicate>from</predicate>
+      <subject>4553703</subject>
+      <object>4553721</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>book</name>
+      <h>31</h>
+      <object_id>4553715</object_id>
+      <w>35</w>
+      <y>424</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>pedestal</name>
+      <h>45</h>
+      <object_id>4553714</object_id>
+      <w>33</w>
+      <y>442</y>
+      <x>285</x>
+    </object>
+    <object>
+      <h>36</h>
+      <object_id>4553703</object_id>
+      <w>101</w>
+      <y>305</y>
+      <x>77</x>
+      <name>lights</name>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>183</h>
+      <object_id>4553721</object_id>
+      <w>302</w>
+      <y>4</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dining room filled with lots of people.</caption>
+      <caption>many people at tables and lights books and laptops</caption>
+      <caption>A view of a building with a very elegant ceiling and painted roof.</caption>
+      <caption>A large library with many people sitting at tables and a painting on the ceiling.</caption>
+      <caption>A group of people that are sitting at tables.</caption>
+    </captions>
+</image>

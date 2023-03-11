@@ -1,0 +1,40 @@
+<image>
+  <image-id>2337210</image-id>
+  <coco-id>489764</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4669325</relationship_id>
+      <predicate>with</predicate>
+      <subject>4268017</subject>
+      <object>4268018</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>board</name>
+      <h>80</h>
+      <object_id>4268017</object_id>
+      <w>75</w>
+      <y>153</y>
+      <x>424</x>
+    </object>
+    <object>
+      <name>teddy bear</name>
+      <h>40</h>
+      <object_id>4268018</object_id>
+      <w>33</w>
+      <y>165</y>
+      <x>438</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A woman and a man playing a video game in the living room</caption>
+      <caption>A woman in a striped shirt playing a video game.</caption>
+      <caption>A woman playing a video game with the Nintendo Wii.</caption>
+      <caption>A woman holding a game controller with a man looking on.</caption>
+      <caption>Two people sitting down playing a video game</caption>
+    </captions>
+</image>

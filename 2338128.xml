@@ -1,0 +1,91 @@
+<image>
+  <image-id>2338128</image-id>
+  <coco-id>152740</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3639879</relationship_id>
+      <predicate>have</predicate>
+      <subject>2709360</subject>
+      <object>2709361</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639881</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2619468</subject>
+      <object>2619469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3634455</relationship_id>
+      <predicate>has</predicate>
+      <subject>3411597</subject>
+      <object>3411598</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cattle</name>
+      <h>156</h>
+      <object_id>2709360</object_id>
+      <w>425</w>
+      <y>65</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>ears</name>
+      <h>9</h>
+      <object_id>2709361</object_id>
+      <w>25</w>
+      <y>140</y>
+      <x>116</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>rocks</name>
+      <h>43</h>
+      <object_id>2619468</object_id>
+      <w>328</w>
+      <y>18</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>98</h>
+      <object_id>2619469</object_id>
+      <w>491</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>53</h>
+      <object_id>3411597</object_id>
+      <w>35</w>
+      <y>136</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>7</h>
+      <object_id>3411598</object_id>
+      <w>11</w>
+      <y>153</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A herd of animals grazing on a dry grass field.</caption>
+      <caption>Numerous head of cattle are grazing in the grass.</caption>
+      <caption>A herd of cows grazing in a grassy field.</caption>
+      <caption>A herd of cattle are standing and grazing in a field.</caption>
+      <caption>Cows grazing in a field with rocks in the background.</caption>
+    </captions>
+</image>

@@ -1,0 +1,77 @@
+<image>
+  <image-id>2379540</image-id>
+  <coco-id>4705</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4797254</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591644</subject>
+      <object>4591640</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797255</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591640</subject>
+      <object>4591645</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797257</relationship_id>
+      <predicate>covering</predicate>
+      <subject>4591675</subject>
+      <object>4591640</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797258</relationship_id>
+      <predicate>covering</predicate>
+      <subject>4591675</subject>
+      <object>4591640</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>field</name>
+      <h>373</h>
+      <object_id>4591644</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>169</h>
+      <object_id>4591640</object_id>
+      <w>211</w>
+      <y>154</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>paw</name>
+      <h>18</h>
+      <object_id>4591645</object_id>
+      <w>26</w>
+      <y>269</y>
+      <x>221</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>165</h>
+      <object_id>4591675</object_id>
+      <w>206</w>
+      <y>158</y>
+      <x>146</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black bear standing at an incline on a hill.</caption>
+      <caption>A black bears climbing on some rocky hill</caption>
+      <caption>A bear on the slope of a hill by some rocks and vegetation.</caption>
+      <caption>A bear walking on the mountain side sniffing the plants.</caption>
+      <caption>A black bear foraging for food on a hill by a bush.</caption>
+    </captions>
+</image>

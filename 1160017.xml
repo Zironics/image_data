@@ -1,0 +1,84 @@
+<image>
+  <image-id>1160017</image-id>
+  <coco-id>232675</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4074567</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1600289</subject>
+      <object>1600290</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074568</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1600291</subject>
+      <object>1600292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074569</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1600293</subject>
+      <object>1600294</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hoof</name>
+      <h>38</h>
+      <object_id>1600289</object_id>
+      <w>46</w>
+      <y>734</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>goat</name>
+      <h>614</h>
+      <object_id>1600290</object_id>
+      <w>595</w>
+      <y>183</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>hub cap</name>
+      <h>77</h>
+      <object_id>1600291</object_id>
+      <w>87</w>
+      <y>532</y>
+      <x>793</x>
+    </object>
+    <object>
+      <name>sedan</name>
+      <h>288</h>
+      <object_id>1600292</object_id>
+      <w>434</w>
+      <y>312</y>
+      <x>587</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stylish</attribute>
+      </attributes>
+      <name>sunglasses</name>
+      <h>23</h>
+      <object_id>1600293</object_id>
+      <w>49</w>
+      <y>188</y>
+      <x>451</x>
+    </object>
+    <object>
+      <name>guy</name>
+      <h>185</h>
+      <object_id>1600294</object_id>
+      <w>143</w>
+      <y>166</y>
+      <x>421</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An animal standing along a road with cars waiting.</caption>
+      <caption>A ram that is standing in the street.</caption>
+      <caption>An animal with horns standing on the street near people. </caption>
+      <caption>A goat standing on top of a street next to parked cars.</caption>
+      <caption>a animal that is standing in the street</caption>
+    </captions>
+</image>

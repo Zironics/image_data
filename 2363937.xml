@@ -1,0 +1,169 @@
+<image>
+  <image-id>2363937</image-id>
+  <coco-id>551717</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4393588</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2228406</subject>
+      <object>1772261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4168250</relationship_id>
+      <predicate>standing outside of</predicate>
+      <subject>2564932</subject>
+      <object>2277336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4168251</relationship_id>
+      <predicate>standing on a</predicate>
+      <subject>2459401</subject>
+      <object>2459402</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4168252</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2564932</subject>
+      <object>2342288</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4168253</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2575250</subject>
+      <object>2575249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4168254</relationship_id>
+      <predicate>standing confidently at a</predicate>
+      <subject>2564932</subject>
+      <object>1772261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4168255</relationship_id>
+      <predicate>reading</predicate>
+      <subject>2470892</subject>
+      <object>3742550</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4393589</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1772260</subject>
+      <object>1772261</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>words</name>
+      <h>47</h>
+      <object_id>2228406</object_id>
+      <w>213</w>
+      <y>157</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>373</h>
+      <object_id>1772261</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>man</name>
+      <h>195</h>
+      <object_id>2564932</object_id>
+      <w>118</w>
+      <y>113</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>346</h>
+      <object_id>2277336</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>conductor</name>
+      <h>212</h>
+      <object_id>2459401</object_id>
+      <w>42</w>
+      <y>86</y>
+      <x>451</x>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>147</h>
+      <object_id>2459402</object_id>
+      <w>265</w>
+      <y>225</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>coat</name>
+      <h>105</h>
+      <object_id>2342288</object_id>
+      <w>75</w>
+      <y>127</y>
+      <x>328</x>
+    </object>
+    <object>
+      <name>man's wrist</name>
+      <h>26</h>
+      <object_id>2575250</object_id>
+      <w>18</w>
+      <y>176</y>
+      <x>454</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black watch</name>
+      <h>8</h>
+      <object_id>2575249</object_id>
+      <w>12</w>
+      <y>185</y>
+      <x>458</x>
+    </object>
+    <object>
+      <name>text</name>
+      <h>54</h>
+      <object_id>2470892</object_id>
+      <w>227</w>
+      <y>151</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>coach/baggage</name>
+      <h>39</h>
+      <object_id>3742550</object_id>
+      <w>204</w>
+      <y>160</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>42</h>
+      <object_id>1772260</object_id>
+      <w>22</w>
+      <y>6</y>
+      <x>462</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The man smiles while standing in the door of a passenger train.</caption>
+      <caption>A man stands happily at the doorway to a train. </caption>
+      <caption>A man standing on a train near the door.</caption>
+      <caption>a man is half way on to a train</caption>
+      <caption>The man is happy to be boarding the train.</caption>
+    </captions>
+</image>

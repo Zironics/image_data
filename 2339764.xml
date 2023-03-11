@@ -1,0 +1,105 @@
+<image>
+  <image-id>2339764</image-id>
+  <coco-id>202194</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4087096</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2204695</subject>
+      <object>2204694</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4133505</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3107246</subject>
+      <object>2204695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3790396</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2198262</subject>
+      <object>3590276</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4087219</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3247648</subject>
+      <object>3247649</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>ski suit</name>
+      <h>179</h>
+      <object_id>2204695</object_id>
+      <w>53</w>
+      <y>259</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>197</h>
+      <object_id>2204694</object_id>
+      <w>82</w>
+      <y>252</y>
+      <x>109</x>
+    </object>
+    <object>
+      <h>192</h>
+      <object_id>3107246</object_id>
+      <w>76</w>
+      <y>242</y>
+      <x>104</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>hat</name>
+      <h>31</h>
+      <object_id>2198262</object_id>
+      <w>39</w>
+      <y>243</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>skiier</name>
+      <h>202</h>
+      <object_id>3590276</object_id>
+      <w>127</w>
+      <y>256</y>
+      <x>95</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>80</h>
+      <object_id>3247648</object_id>
+      <w>29</w>
+      <y>228</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>lantern</name>
+      <h>16</h>
+      <object_id>3247649</object_id>
+      <w>11</w>
+      <y>237</y>
+      <x>41</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person wearing skis skiing on a ski slope.</caption>
+      <caption>A man is in position to go down a ski slope.</caption>
+      <caption>A man skiing near tall trees on a clear day.</caption>
+      <caption>A cross country skier wearing red and white attire skiing near pine trees.</caption>
+      <caption>Skier skiing down a run with trees in the background.</caption>
+    </captions>
+</image>

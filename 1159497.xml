@@ -1,0 +1,57 @@
+<image>
+  <image-id>1159497</image-id>
+  <coco-id>471409</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068901</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1594224</subject>
+      <object>3703791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068914</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1594226</subject>
+      <object>1594226</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pepsi cup</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>119</h>
+      <object_id>1594224</object_id>
+      <w>74</w>
+      <y>319</y>
+      <x>393</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>366</h>
+      <object_id>3703791</object_id>
+      <w>1018</w>
+      <y>394</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>393</h>
+      <object_id>1594226</object_id>
+      <w>1012</w>
+      <y>3</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>three boys sitting at a table with a big pizza in the middle</caption>
+      <caption>A huge pizza with pepperoni's, with several men sitting around it.</caption>
+      <caption>A group of people sitting at a table with a large pizza.</caption>
+      <caption>A pizza is shown on a table in front of people.</caption>
+      <caption>People are sitting around a table where a large pizza is displayed.</caption>
+    </captions>
+</image>

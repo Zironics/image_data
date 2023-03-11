@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337902</image-id>
+  <coco-id>400722</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4461044</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3930858</subject>
+      <object>2261874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4461045</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2188149</subject>
+      <object>3930859</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flowers</name>
+      <h>257</h>
+      <object_id>3930858</object_id>
+      <w>238</w>
+      <y>68</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>132</h>
+      <object_id>2261874</object_id>
+      <w>163</w>
+      <y>7</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>92</h>
+      <object_id>2188149</object_id>
+      <w>68</w>
+      <y>205</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>368</h>
+      <object_id>3930859</object_id>
+      <w>331</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A table topped with vases filled with flowers.</caption>
+      <caption>Small flower arrangement any things on a table</caption>
+      <caption>some flowers are in a small vase on a table</caption>
+      <caption>Flowers in a vase sit on a table under blue lights.</caption>
+      <caption>a vase that has a bunch of flowers in it</caption>
+    </captions>
+</image>

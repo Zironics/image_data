@@ -1,0 +1,89 @@
+<image>
+  <image-id>2319298</image-id>
+  <coco-id>243867</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4057605</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2728556</subject>
+      <object>2728555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058332</relationship_id>
+      <predicate>has</predicate>
+      <subject>3091240</subject>
+      <object>3142036</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3883124</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>2770610</subject>
+      <object>2770611</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>number</name>
+      <h>15</h>
+      <object_id>2728556</object_id>
+      <w>21</w>
+      <y>102</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>147</h>
+      <object_id>2728555</object_id>
+      <w>380</w>
+      <y>77</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>162</h>
+      <object_id>3091240</object_id>
+      <w>395</w>
+      <y>72</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>44</h>
+      <object_id>3142036</object_id>
+      <w>32</w>
+      <y>183</y>
+      <x>347</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>down</attribute>
+        <attribute>the middle</attribute>
+      </attributes>
+      <name>strip</name>
+      <h>62</h>
+      <object_id>2770610</object_id>
+      <w>435</w>
+      <y>244</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>137</h>
+      <object_id>2770611</object_id>
+      <w>463</w>
+      <y>195</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a bus and a car on a city street</caption>
+      <caption>a bus and some cars parked outside a station</caption>
+      <caption>A bus and a car travelling in the same direction on a sunny day. </caption>
+      <caption>A bus on the side of the road in traffic.</caption>
+      <caption>A bus parked along the side of a busy street.</caption>
+    </captions>
+</image>

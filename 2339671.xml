@@ -1,0 +1,73 @@
+<image>
+  <image-id>2339671</image-id>
+  <coco-id>117736</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4457243</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2058232</subject>
+      <object>3731162</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4143499</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3048421</subject>
+      <object>3731162</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4143500</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2922016</subject>
+      <object>2922017</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>container</name>
+      <h>13</h>
+      <object_id>2058232</object_id>
+      <w>11</w>
+      <y>193</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>152</h>
+      <object_id>3731162</object_id>
+      <w>489</w>
+      <y>187</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>34</h>
+      <object_id>3048421</object_id>
+      <w>15</w>
+      <y>197</y>
+      <x>468</x>
+    </object>
+    <object>
+      <name>guy</name>
+      <h>156</h>
+      <object_id>2922016</object_id>
+      <w>236</w>
+      <y>62</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>soccer ball</name>
+      <h>52</h>
+      <object_id>2922017</object_id>
+      <w>76</w>
+      <y>131</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man walking with a young boy on top of a cement area.</caption>
+      <caption>A young man and small child walking away from a soccer field. </caption>
+      <caption>A man carrying a soccer ball with a little boy while others play in the park in the background.</caption>
+      <caption>An older and younger male just finished kicking the soccer ball around</caption>
+      <caption>a man and a little boy walking on a park</caption>
+    </captions>
+</image>

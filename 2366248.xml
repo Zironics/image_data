@@ -1,0 +1,78 @@
+<image>
+  <image-id>2366248</image-id>
+  <coco-id>149036</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1634037</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>629555</subject>
+      <object>629556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1634038</relationship_id>
+      <predicate>ON</predicate>
+      <subject>629555</subject>
+      <object>629557</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1634039</relationship_id>
+      <predicate>IN</predicate>
+      <subject>629555</subject>
+      <object>629556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1634040</relationship_id>
+      <predicate>holding</predicate>
+      <subject>629555</subject>
+      <object>629559</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>129</h>
+      <object_id>629555</object_id>
+      <w>103</w>
+      <y>38</y>
+      <x>321</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>136</h>
+      <object_id>629556</object_id>
+      <w>103</w>
+      <y>30</y>
+      <x>331</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>whtie</attribute>
+      </attributes>
+      <name>board</name>
+      <h>74</h>
+      <object_id>629557</object_id>
+      <w>84</w>
+      <y>160</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>paddle</name>
+      <h>47</h>
+      <object_id>629559</object_id>
+      <w>67</w>
+      <y>147</y>
+      <x>427</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>looking at a guy through a lens on a surf board</caption>
+      <caption>A man is on a paddleboard in rough waters</caption>
+      <caption>A person standing on surfboard in the water holding a paddle.</caption>
+      <caption>Paddle boarder riding board catching wave seen with scope</caption>
+      <caption>A person is paddle surfing in small waves.</caption>
+    </captions>
+</image>

@@ -1,0 +1,102 @@
+<image>
+  <image-id>2326172</image-id>
+  <coco-id>569223</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3916913</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2807378</subject>
+      <object>2807378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3682539</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2807378</subject>
+      <object>2857260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3660668</relationship_id>
+      <predicate>has</predicate>
+      <subject>2807378</subject>
+      <object>3533299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3660669</relationship_id>
+      <predicate>has</predicate>
+      <subject>2807378</subject>
+      <object>3533300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3684286</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3356968</subject>
+      <object>2807378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3705932</relationship_id>
+      <predicate>inside</predicate>
+      <subject>2807378</subject>
+      <object>3185071</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>204</h>
+      <object_id>2807378</object_id>
+      <w>436</w>
+      <y>84</y>
+      <x>38</x>
+      <name>frozen pizza</name>
+    </object>
+    <object>
+      <name>tray</name>
+      <h>223</h>
+      <object_id>2857260</object_id>
+      <w>475</w>
+      <y>79</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>cheese</name>
+      <h>38</h>
+      <object_id>3533299</object_id>
+      <w>80</w>
+      <y>139</y>
+      <x>165</x>
+    </object>
+    <object>
+      <name>pepperoni</name>
+      <h>42</h>
+      <object_id>3533300</object_id>
+      <w>59</w>
+      <y>197</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mozzarella</attribute>
+      </attributes>
+      <name>cheese</name>
+      <h>80</h>
+      <object_id>3356968</object_id>
+      <w>117</w>
+      <y>112</y>
+      <x>161</x>
+    </object>
+    <object>
+      <name>platter</name>
+      <h>210</h>
+      <object_id>3185071</object_id>
+      <w>175</w>
+      <y>89</y>
+      <x>323</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza sitting on top of a pan covered in lots of cheese.</caption>
+      <caption>A pepperoni and cheese pizza on a table with a beer. </caption>
+      <caption>A pizza sitting on a plate topped with pepperoni and cheese.</caption>
+      <caption>A pizza with cheese sprinkled on top waits to be cooked.</caption>
+      <caption>An uncooked pizza with pepperoni on it, covered in cheese.</caption>
+    </captions>
+</image>

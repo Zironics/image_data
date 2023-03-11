@@ -1,0 +1,65 @@
+<image>
+  <image-id>1592418</image-id>
+  <coco-id>128110</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4083446</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1609382</subject>
+      <object>1609383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083448</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1609384</subject>
+      <object>1609385</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>YELLOW</attribute>
+      </attributes>
+      <name>lines</name>
+      <h>203</h>
+      <object_id>1609382</object_id>
+      <w>281</w>
+      <y>775</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>304</h>
+      <object_id>1609383</object_id>
+      <w>394</w>
+      <y>709</y>
+      <x>286</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>GLASS</attribute>
+      </attributes>
+      <name>window</name>
+      <h>15</h>
+      <object_id>1609384</object_id>
+      <w>11</w>
+      <y>557</y>
+      <x>609</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>119</h>
+      <object_id>1609385</object_id>
+      <w>80</w>
+      <y>496</y>
+      <x>601</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sign directs people towards four waiting lanes ahead.</caption>
+      <caption>People are walking down a sidewalk in a city.</caption>
+      <caption>A blue sign mounted above a sidewalk near a street.</caption>
+      <caption>A street sign on the corner of a city street.</caption>
+      <caption>A blue street sign that says Four Waiting Lanes Ahead.</caption>
+    </captions>
+</image>

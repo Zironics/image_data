@@ -1,0 +1,101 @@
+<image>
+  <image-id>2366011</image-id>
+  <coco-id>109586</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2060782</relationship_id>
+      <predicate>has</predicate>
+      <subject>755064</subject>
+      <object>755072</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2060783</relationship_id>
+      <predicate>was</predicate>
+      <subject>755070</subject>
+      <object>755073</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2060784</relationship_id>
+      <predicate>was</predicate>
+      <subject>755070</subject>
+      <object>755074</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2060785</relationship_id>
+      <predicate>has</predicate>
+      <subject>755064</subject>
+      <object>755080</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+        <attribute>white</attribute>
+        <attribute>here</attribute>
+        <attribute>side view</attribute>
+        <attribute>body</attribute>
+        <attribute>black</attribute>
+        <attribute>wild</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>123</h>
+      <object_id>755064</object_id>
+      <w>112</w>
+      <y>151</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>51</h>
+      <object_id>755072</object_id>
+      <w>30</w>
+      <y>150</y>
+      <x>240</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>park</attribute>
+        <attribute>daytime</attribute>
+        <attribute>african</attribute>
+      </attributes>
+      <name>scene</name>
+      <h>329</h>
+      <object_id>755070</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>taken</name>
+      <h>259</h>
+      <object_id>755073</object_id>
+      <w>482</w>
+      <y>31</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>pictured</name>
+      <h>327</h>
+      <object_id>755074</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>38</h>
+      <object_id>755080</object_id>
+      <w>9</w>
+      <y>186</y>
+      <x>164</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing in a field next to a green bush.</caption>
+      <caption>The zebra is just standing there looking at something in the distance.</caption>
+      <caption>A zebra is standing near grass and trees.</caption>
+      <caption>One zebra standing in a field next to bushes.</caption>
+      <caption>A zebra standing in a open field with bushes.</caption>
+    </captions>
+</image>

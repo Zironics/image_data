@@ -1,0 +1,76 @@
+<image>
+  <image-id>2334855</image-id>
+  <coco-id>123711</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3993177</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3180460</subject>
+      <object>3673727</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3993178</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3673728</subject>
+      <object>3497940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3993179</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3673728</subject>
+      <object>2400495</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>21</h>
+      <object_id>3180460</object_id>
+      <w>36</w>
+      <y>320</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>498</h>
+      <object_id>3673727</object_id>
+      <w>330</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <h>204</h>
+      <object_id>3673728</object_id>
+      <w>131</w>
+      <y>110</y>
+      <x>166</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>26</h>
+      <object_id>3497940</object_id>
+      <w>146</w>
+      <y>293</y>
+      <x>180</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow pants</name>
+      <h>129</h>
+      <object_id>2400495</object_id>
+      <w>141</w>
+      <y>189</y>
+      <x>165</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person riding a snowboard rides over a ramp in the snow.</caption>
+      <caption>A person on  a snowboard jumping over a metal thing</caption>
+      <caption>A man riding a snowboard up a ramp.</caption>
+      <caption>A person in a colorful jacket and boots with yellow pants snowboarding. </caption>
+      <caption>a guy riding a snow board on a ramp</caption>
+    </captions>
+</image>

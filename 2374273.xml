@@ -1,0 +1,45 @@
+<image>
+  <image-id>2374273</image-id>
+  <coco-id>498511</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1957246</relationship_id>
+      <predicate>eating</predicate>
+      <subject>727906</subject>
+      <object>727907</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>grazing</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>110</h>
+      <object_id>727906</object_id>
+      <w>178</w>
+      <y>274</y>
+      <x>87</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>15</h>
+      <object_id>727907</object_id>
+      <w>43</w>
+      <y>402</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A horse eating in a field with mountains in the background.</caption>
+      <caption>A brown horse grazing on a lush green field.</caption>
+      <caption>A photo of a horse on a field eating grass.</caption>
+      <caption>A horse crops grass against a majestic mountain backdrop. </caption>
+      <caption>Horses grazing in a green meadow at the foot of a mountain</caption>
+    </captions>
+</image>

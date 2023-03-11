@@ -1,0 +1,131 @@
+<image>
+  <image-id>2403095</image-id>
+  <coco-id>565625</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3264346</relationship_id>
+      <predicate>has</predicate>
+      <subject>1128047</subject>
+      <object>1128056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3264347</relationship_id>
+      <predicate>has</predicate>
+      <subject>1128047</subject>
+      <object>1128051</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3264348</relationship_id>
+      <predicate>has</predicate>
+      <subject>1128047</subject>
+      <object>1128052</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3264349</relationship_id>
+      <predicate>has</predicate>
+      <subject>1128058</subject>
+      <object>1128061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>757179</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>1128047</subject>
+      <object>383675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3264350</relationship_id>
+      <predicate>hits</predicate>
+      <subject>1128047</subject>
+      <object>383675</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>holding racket</attribute>
+        <attribute>reaching</attribute>
+        <attribute>wearing headband</attribute>
+        <attribute>wearing white</attribute>
+        <attribute>on top of court</attribute>
+        <attribute>tanned</attribute>
+        <attribute>running</attribute>
+      </attributes>
+      <name>man</name>
+      <h>185</h>
+      <object_id>1128047</object_id>
+      <w>239</w>
+      <y>95</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>36</h>
+      <object_id>1128056</object_id>
+      <w>43</w>
+      <y>96</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on foot</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>46</h>
+      <object_id>1128051</object_id>
+      <w>25</w>
+      <y>229</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>headband</name>
+      <h>19</h>
+      <object_id>1128052</object_id>
+      <w>22</w>
+      <y>103</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>court</name>
+      <h>95</h>
+      <object_id>1128058</object_id>
+      <w>489</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>lines</name>
+      <h>187</h>
+      <object_id>1128061</object_id>
+      <w>283</w>
+      <y>94</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>13</h>
+      <object_id>383675</object_id>
+      <w>9</w>
+      <y>114</y>
+      <x>337</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man hitting a tennis ball with a tennis racquet.</caption>
+      <caption>a person stretching to hit a tennis ball</caption>
+      <caption>A man is wearing white playing tennis on a court</caption>
+      <caption>Tennis player lunges forward preparing to hit a ball. </caption>
+      <caption>A tennis player is attempting to hit the ball. </caption>
+    </captions>
+</image>

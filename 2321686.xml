@@ -1,0 +1,63 @@
+<image>
+  <image-id>2321686</image-id>
+  <coco-id>46144</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3674226</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2776245</subject>
+      <object>3279127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3774021</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3279126</subject>
+      <object>3279127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3674243</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3279126</subject>
+      <object>3279127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>slat</name>
+      <h>142</h>
+      <object_id>2776245</object_id>
+      <w>56</w>
+      <y>190</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>324</h>
+      <object_id>3279127</object_id>
+      <w>499</w>
+      <y>7</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>141</h>
+      <object_id>3279126</object_id>
+      <w>52</w>
+      <y>193</y>
+      <x>292</x>
+      <name>slat</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An worn out rainbow colored park bench seat</caption>
+      <caption>A slatted park bench that appears to be painted with the colors of the rainbow in the sun and shade.</caption>
+      <caption>A bench in a park with the back slats painted in rainbow colors.</caption>
+      <caption>A wooden bench on a pavement in the city</caption>
+      <caption>The bench is painted brightly with rainbow colors.</caption>
+    </captions>
+</image>

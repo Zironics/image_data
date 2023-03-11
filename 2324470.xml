@@ -1,0 +1,87 @@
+<image>
+  <image-id>2324470</image-id>
+  <coco-id>500543</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3992336</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3313362</subject>
+      <object>3313363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3723954</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2982580</subject>
+      <object>3562279</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524837</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2965757</subject>
+      <object>2965762</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>players</name>
+      <h>138</h>
+      <object_id>3313362</object_id>
+      <w>190</w>
+      <y>141</y>
+      <x>306</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>golden yellow</attribute>
+      </attributes>
+      <name>uniforms</name>
+      <h>34</h>
+      <object_id>3313363</object_id>
+      <w>170</w>
+      <y>235</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>165</h>
+      <object_id>2982580</object_id>
+      <w>100</w>
+      <y>113</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>clothes</name>
+      <h>129</h>
+      <object_id>3562279</object_id>
+      <w>83</w>
+      <y>151</y>
+      <x>242</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>105</h>
+      <object_id>2965757</object_id>
+      <w>40</w>
+      <y>175</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>group</name>
+      <h>113</h>
+      <object_id>2965762</object_id>
+      <w>203</w>
+      <y>165</y>
+      <x>295</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a football field during a game holding an umbrella surrounded by football players.</caption>
+      <caption>A man holding an umbrella in the rain at a foot ball game.</caption>
+      <caption>Football players and a coach hold umbrellas on the field in front of empty bleachers.</caption>
+      <caption>a coach standing by his young football players while holding an umbrella in the rain</caption>
+      <caption>a youth football team stand together on some grass </caption>
+    </captions>
+</image>

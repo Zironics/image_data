@@ -1,0 +1,185 @@
+<image>
+  <image-id>2377361</image-id>
+  <coco-id>29253</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1405880</relationship_id>
+      <predicate>ON</predicate>
+      <subject>565971</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405881</relationship_id>
+      <predicate>ON</predicate>
+      <subject>565981</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405882</relationship_id>
+      <predicate>ON</predicate>
+      <subject>565973</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405883</relationship_id>
+      <predicate>ON</predicate>
+      <subject>565974</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405884</relationship_id>
+      <predicate>ON</predicate>
+      <subject>565976</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405885</relationship_id>
+      <predicate>ON</predicate>
+      <subject>565976</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405886</relationship_id>
+      <predicate>at</predicate>
+      <subject>565970</subject>
+      <object>565982</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405887</relationship_id>
+      <predicate>has</predicate>
+      <subject>565970</subject>
+      <object>565973</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405888</relationship_id>
+      <predicate>belong to</predicate>
+      <subject>565981</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405889</relationship_id>
+      <predicate>are on</predicate>
+      <subject>565973</subject>
+      <object>565970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405890</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>565987</subject>
+      <object>565991</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1405891</relationship_id>
+      <predicate>are attached to</predicate>
+      <subject>565992</subject>
+      <object>565978</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>left headlight</name>
+      <h>31</h>
+      <object_id>565971</object_id>
+      <w>79</w>
+      <y>197</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>train</name>
+      <h>227</h>
+      <object_id>565970</object_id>
+      <w>364</w>
+      <y>101</y>
+      <x>114</x>
+    </object>
+    <object>
+      <h>44</h>
+      <object_id>565981</object_id>
+      <w>40</w>
+      <y>191</y>
+      <x>141</x>
+      <name>headlights</name>
+    </object>
+    <object>
+      <name>left windshield</name>
+      <h>33</h>
+      <object_id>565973</object_id>
+      <w>68</w>
+      <y>115</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>right windshield</name>
+      <h>29</h>
+      <object_id>565974</object_id>
+      <w>50</w>
+      <y>119</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>17</h>
+      <object_id>565976</object_id>
+      <w>21</w>
+      <y>230</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>train station</name>
+      <h>400</h>
+      <object_id>565982</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ipad advertisement</name>
+      <h>78</h>
+      <object_id>565987</object_id>
+      <w>67</w>
+      <y>37</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>124</h>
+      <object_id>565991</object_id>
+      <w>331</w>
+      <y>0</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>23</h>
+      <object_id>565992</object_id>
+      <w>48</w>
+      <y>57</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>made of metal</attribute>
+      </attributes>
+      <name>pillar</name>
+      <h>205</h>
+      <object_id>565978</object_id>
+      <w>47</w>
+      <y>3</y>
+      <x>57</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red train is in a train station.</caption>
+      <caption>Red and grey bullet trains in a train station.</caption>
+      <caption>A sleek looking red train parked at a train station.</caption>
+      <caption>A red bullet train pulling into a train station.</caption>
+      <caption>A bullet train slows down in a train station.</caption>
+    </captions>
+</image>

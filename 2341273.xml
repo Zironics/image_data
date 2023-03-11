@@ -1,0 +1,95 @@
+<image>
+  <image-id>2341273</image-id>
+  <coco-id>50028</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4093990</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3713436</subject>
+      <object>2110595</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4093994</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2066311</subject>
+      <object>2066312</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4093996</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3143626</subject>
+      <object>2089720</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4093998</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3143626</subject>
+      <object>2922510</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>step</name>
+      <h>102</h>
+      <object_id>3713436</object_id>
+      <w>59</w>
+      <y>396</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>stairway</name>
+      <h>181</h>
+      <object_id>2110595</object_id>
+      <w>163</w>
+      <y>315</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>52</h>
+      <object_id>2066311</object_id>
+      <w>91</w>
+      <y>306</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bannister</name>
+      <h>46</h>
+      <object_id>2066312</object_id>
+      <w>61</w>
+      <y>308</y>
+      <x>221</x>
+    </object>
+    <object>
+      <h>474</h>
+      <object_id>3143626</object_id>
+      <w>177</w>
+      <y>8</y>
+      <x>71</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>scarf</name>
+      <h>96</h>
+      <object_id>2089720</object_id>
+      <w>92</w>
+      <y>84</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>123</h>
+      <object_id>2922510</object_id>
+      <w>256</w>
+      <y>375</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person that is standing in the snow</caption>
+      <caption>A woman stands at the top of a snowy flight of stairs.</caption>
+      <caption>A child posing for a picture in the snow.</caption>
+      <caption>A woma n smiling while standing near stairs in the snow.</caption>
+      <caption>A woman in a hay and coat outside in the snow.</caption>
+    </captions>
+</image>

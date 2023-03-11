@@ -1,0 +1,81 @@
+<image>
+  <image-id>2325638</image-id>
+  <coco-id>491991</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483225</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3251876</subject>
+      <object>3504642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3945961</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2943774</subject>
+      <object>2943775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483226</relationship_id>
+      <predicate>around</predicate>
+      <subject>3278268</subject>
+      <object>3941052</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wheels</name>
+      <h>36</h>
+      <object_id>3251876</object_id>
+      <w>156</w>
+      <y>149</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>115</h>
+      <object_id>3504642</object_id>
+      <w>240</w>
+      <y>77</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>91</h>
+      <object_id>2943774</object_id>
+      <w>298</w>
+      <y>187</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>131</h>
+      <object_id>2943775</object_id>
+      <w>498</w>
+      <y>148</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>137</h>
+      <object_id>3278268</object_id>
+      <w>385</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>area</name>
+      <h>146</h>
+      <object_id>3941052</object_id>
+      <w>463</w>
+      <y>106</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow pensky moving truck sitting in a parking lot.</caption>
+      <caption>Several moving vans parked in a commercial parking area.</caption>
+      <caption>Multiple trucks sitting in a parking lot outside a building.</caption>
+      <caption>A Penske truck parked across several parking spots.</caption>
+      <caption>Three moving trucks in a parking lot next to a building.</caption>
+    </captions>
+</image>

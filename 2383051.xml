@@ -1,0 +1,122 @@
+<image>
+  <image-id>2383051</image-id>
+  <coco-id>491131</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1312455</relationship_id>
+      <predicate>ON</predicate>
+      <subject>535331</subject>
+      <object>535328</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312456</relationship_id>
+      <predicate>IN</predicate>
+      <subject>535335</subject>
+      <object>535336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4293536</relationship_id>
+      <predicate>with two</predicate>
+      <subject>3830493</subject>
+      <object>3830492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4293537</relationship_id>
+      <predicate>with two</predicate>
+      <subject>3830493</subject>
+      <object>3830492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312457</relationship_id>
+      <predicate>ON</predicate>
+      <subject>535328</subject>
+      <object>535336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312458</relationship_id>
+      <predicate>next to</predicate>
+      <subject>535328</subject>
+      <object>535332</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bolt</name>
+      <h>35</h>
+      <object_id>535331</object_id>
+      <w>25</w>
+      <y>239</y>
+      <x>302</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shiny</attribute>
+        <attribute>black</attribute>
+        <attribute>brown</attribute>
+        <attribute>long</attribute>
+        <attribute>steel</attribute>
+        <attribute>metal</attribute>
+        <attribute>color</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>281</h>
+      <object_id>535328</object_id>
+      <w>348</w>
+      <y>19</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>drain</name>
+      <h>44</h>
+      <object_id>535335</object_id>
+      <w>65</w>
+      <y>62</y>
+      <x>24</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>square</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>215</h>
+      <object_id>535336</object_id>
+      <w>214</w>
+      <y>22</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>144</h>
+      <object_id>3830493</object_id>
+      <w>482</w>
+      <y>217</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>benches</name>
+      <h>158</h>
+      <object_id>3830492</object_id>
+      <w>476</w>
+      <y>182</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>136</h>
+      <object_id>535332</object_id>
+      <w>70</w>
+      <y>5</y>
+      <x>106</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Wooden and black bench on the side of the road. </caption>
+      <caption>A wooden bench sitting on a sidewalk next to a street.</caption>
+      <caption>A wood bench sits on a city sidewalk</caption>
+      <caption>A wooden bench sits on a gray brick sidewalk.</caption>
+      <caption>This pictures shows a wooden bench on a street side.</caption>
+    </captions>
+</image>

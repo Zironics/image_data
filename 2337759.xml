@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337759</image-id>
+  <coco-id>165607</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4801590</relationship_id>
+      <predicate>under</predicate>
+      <subject>4602543</subject>
+      <object>4602544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4801591</relationship_id>
+      <predicate>with</predicate>
+      <subject>4602547</subject>
+      <object>4602548</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chair</name>
+      <h>146</h>
+      <object_id>4602543</object_id>
+      <w>115</w>
+      <y>148</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>171</h>
+      <object_id>4602544</object_id>
+      <w>141</w>
+      <y>161</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>275</h>
+      <object_id>4602547</object_id>
+      <w>168</w>
+      <y>8</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>tie</name>
+      <h>108</h>
+      <object_id>4602548</object_id>
+      <w>57</w>
+      <y>55</y>
+      <x>94</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A MAN AND A WOMAN LOOKING AT A RUG ON THE FLOOR</caption>
+      <caption>A man and a woman looking at a rug.</caption>
+      <caption>A man and woman examine a rug on the floor near a table.</caption>
+      <caption>A man points at a rug while a woman looks on.</caption>
+      <caption>An antique dealer speaks about a rug on the floor.</caption>
+    </captions>
+</image>

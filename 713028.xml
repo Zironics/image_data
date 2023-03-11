@@ -1,0 +1,95 @@
+<image>
+  <image-id>713028</image-id>
+  <coco-id>253229</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4734544</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4427261</subject>
+      <object>4427262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734545</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4427263</subject>
+      <object>4427264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734546</relationship_id>
+      <predicate>above</predicate>
+      <subject>4427265</subject>
+      <object>4427266</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734547</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4427261</subject>
+      <object>4427269</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>346</h>
+      <object_id>4427261</object_id>
+      <w>121</w>
+      <y>302</y>
+      <x>645</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>134</h>
+      <object_id>4427262</object_id>
+      <w>109</w>
+      <y>349</y>
+      <x>658</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>143</h>
+      <object_id>4427263</object_id>
+      <w>96</w>
+      <y>492</y>
+      <x>843</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>437</h>
+      <object_id>4427264</object_id>
+      <w>1010</w>
+      <y>325</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>80</h>
+      <object_id>4427265</object_id>
+      <w>130</w>
+      <y>421</y>
+      <x>850</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>128</h>
+      <object_id>4427266</object_id>
+      <w>96</w>
+      <y>483</y>
+      <x>848</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>223</h>
+      <object_id>4427269</object_id>
+      <w>325</w>
+      <y>395</y>
+      <x>608</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A women at a stall sells colorful animal shaped kites.</caption>
+      <caption>A woman selling kites at a kite stand.</caption>
+      <caption>an image of a woman with her stand of colorful kites</caption>
+      <caption>A vendor selling kites in a parking lot.</caption>
+      <caption>A plethera of colorful kites that seem to be for sale</caption>
+    </captions>
+</image>

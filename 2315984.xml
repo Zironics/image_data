@@ -1,0 +1,116 @@
+<image>
+  <image-id>2315984</image-id>
+  <coco-id>127028</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3668399</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2854597</subject>
+      <object>3487170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3668400</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3265019</subject>
+      <object>3265020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3668401</relationship_id>
+      <predicate>together with</predicate>
+      <subject>3046019</subject>
+      <object>3487170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3668402</relationship_id>
+      <predicate>has</predicate>
+      <subject>3046019</subject>
+      <object>3537203</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3866372</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3487170</subject>
+      <object>2813574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867799</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3046019</subject>
+      <object>2813574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867800</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3487170</subject>
+      <object>2813574</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stem</name>
+      <h>32</h>
+      <object_id>2854597</object_id>
+      <w>25</w>
+      <y>165</y>
+      <x>423</x>
+    </object>
+    <object>
+      <h>252</h>
+      <object_id>3487170</object_id>
+      <w>265</w>
+      <y>43</y>
+      <x>222</x>
+      <name>orange</name>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>23</h>
+      <object_id>3265019</object_id>
+      <w>56</w>
+      <y>95</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>apple</name>
+      <h>235</h>
+      <object_id>3265020</object_id>
+      <w>245</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>apple</name>
+      <h>202</h>
+      <object_id>3046019</object_id>
+      <w>232</w>
+      <y>2</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short </attribute>
+      </attributes>
+      <name>stem</name>
+      <h>21</h>
+      <object_id>3537203</object_id>
+      <w>43</w>
+      <y>97</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>296</h>
+      <object_id>2813574</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A close up shot of a red apple beside an orange.</caption>
+      <caption>An apple and an orange sitting side by side.</caption>
+      <caption>Two pieces of fruit, an apple and an orange.</caption>
+      <caption>A bright orange and apple sit on a table.</caption>
+      <caption>An apple and orange resting on a table.</caption>
+    </captions>
+</image>

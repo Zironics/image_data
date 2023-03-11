@@ -1,0 +1,88 @@
+<image>
+  <image-id>2325585</image-id>
+  <coco-id>358085</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483384</relationship_id>
+      <predicate>playing</predicate>
+      <subject>3941126</subject>
+      <object>985956</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2946012</relationship_id>
+      <predicate>near</predicate>
+      <subject>985957</subject>
+      <object>985955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2946013</relationship_id>
+      <predicate>near</predicate>
+      <subject>985957</subject>
+      <object>985955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2946014</relationship_id>
+      <predicate>near</predicate>
+      <subject>985957</subject>
+      <object>985955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2946015</relationship_id>
+      <predicate>near</predicate>
+      <subject>985957</subject>
+      <object>985955</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>47</h>
+      <object_id>3941126</object_id>
+      <w>20</w>
+      <y>155</y>
+      <x>341</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on the TV</attribute>
+        <attribute>on a field</attribute>
+      </attributes>
+      <name>soccer</name>
+      <h>140</h>
+      <object_id>985956</object_id>
+      <w>271</w>
+      <y>82</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>141</h>
+      <object_id>985957</object_id>
+      <w>178</w>
+      <y>215</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>turned on</attribute>
+        <attribute>extremely clear</attribute>
+      </attributes>
+      <name>television</name>
+      <h>264</h>
+      <object_id>985955</object_id>
+      <w>356</w>
+      <y>32</y>
+      <x>75</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The black cat is sitting in front of a television showing a soccer game. </caption>
+      <caption>a cat watching a soccer game on tv</caption>
+      <caption>A cat sitting in front on a television with an image of a soccer game.</caption>
+      <caption>A soccer game commencing,with cat watching the television</caption>
+      <caption>A cat that is sitting in front of a television.</caption>
+    </captions>
+</image>

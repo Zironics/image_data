@@ -1,0 +1,65 @@
+<image>
+  <image-id>2339587</image-id>
+  <coco-id>558342</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4794009</relationship_id>
+      <predicate>of</predicate>
+      <subject>4583430</subject>
+      <object>4583432</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4794010</relationship_id>
+      <predicate>of</predicate>
+      <subject>4583431</subject>
+      <object>4583433</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bowl</name>
+      <h>114</h>
+      <object_id>4583430</object_id>
+      <w>102</w>
+      <y>162</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>314</h>
+      <object_id>4583432</object_id>
+      <w>210</w>
+      <y>1</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>131</h>
+      <object_id>4583431</object_id>
+      <w>133</w>
+      <y>146</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>297</h>
+      <object_id>4583433</object_id>
+      <w>228</w>
+      <y>9</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of toilet have their seats open next to each other. </caption>
+      <caption>Two toilets are shown next to each other.</caption>
+      <caption>Two toilets side by side with their lids open.</caption>
+      <caption>A couple of toilets that are very white.</caption>
+      <caption>two toilets next to each other and some black tiles</caption>
+    </captions>
+</image>

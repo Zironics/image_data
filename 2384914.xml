@@ -1,0 +1,51 @@
+<image>
+  <image-id>2384914</image-id>
+  <coco-id>166563</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4683766</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4305742</subject>
+      <object>4305744</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4683767</relationship_id>
+      <predicate>has</predicate>
+      <subject>4305742</subject>
+      <object>4305743</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>elephant</name>
+      <h>281</h>
+      <object_id>4305742</object_id>
+      <w>340</w>
+      <y>31</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>292</h>
+      <object_id>4305744</object_id>
+      <w>365</w>
+      <y>24</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>112</h>
+      <object_id>4305743</object_id>
+      <w>208</w>
+      <y>26</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A large statue of an elephant is attached to a business sign.</caption>
+      <caption>a statue of an elephant with a box on its back </caption>
+      <caption>An advertising billboard featuring the statue of an elephant with a howdah on its back.</caption>
+      <caption>A giant elephant is next to the Aurora rents sign. </caption>
+      <caption>An eyecatching sign shaped like an elephant holding a billboard.</caption>
+    </captions>
+</image>

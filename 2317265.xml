@@ -1,0 +1,106 @@
+<image>
+  <image-id>2317265</image-id>
+  <coco-id>182078</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4512201</relationship_id>
+      <predicate>with</predicate>
+      <subject>3459790</subject>
+      <object>3952050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092224</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3952050</subject>
+      <object>2978872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092226</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2978870</subject>
+      <object>2978872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4092225</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3431735</subject>
+      <object>2978872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4512202</relationship_id>
+      <predicate>connects</predicate>
+      <subject>3952051</subject>
+      <object>3431735</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>196</h>
+      <object_id>3459790</object_id>
+      <w>124</w>
+      <y>2</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>support</attribute>
+      </attributes>
+      <name>posts</name>
+      <h>168</h>
+      <object_id>3952050</object_id>
+      <w>101</w>
+      <y>29</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>48</h>
+      <object_id>2978872</object_id>
+      <w>83</w>
+      <y>186</y>
+      <x>24</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>wooden post</name>
+      <h>152</h>
+      <object_id>2978870</object_id>
+      <w>30</w>
+      <y>39</y>
+      <x>88</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <h>153</h>
+      <object_id>3431735</object_id>
+      <w>11</w>
+      <y>36</y>
+      <x>23</x>
+      <name>posts</name>
+    </object>
+    <object>
+      <name>rope</name>
+      <h>19</h>
+      <object_id>3952051</object_id>
+      <w>80</w>
+      <y>42</y>
+      <x>23</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue fire hydrant above two pairs of shoes.</caption>
+      <caption>a blue fire hydrant in a little grassy field with shoes on the sidewalk below</caption>
+      <caption>Shoes on the ground in front of a blue-grey fire hydrant. </caption>
+      <caption>Two pairs of shoes on a sidewalk next to a fire hydrant.</caption>
+      <caption>Shoes are lined up on the sidewalk in front of the fire hydrant.</caption>
+    </captions>
+</image>

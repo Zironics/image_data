@@ -1,0 +1,175 @@
+<image>
+  <image-id>2371412</image-id>
+  <coco-id>25715</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2008986</relationship_id>
+      <predicate>near</predicate>
+      <subject>739540</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008987</relationship_id>
+      <predicate>near</predicate>
+      <subject>739537</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008988</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>739535</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008989</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>739535</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008990</relationship_id>
+      <predicate>lining</predicate>
+      <subject>739537</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008991</relationship_id>
+      <predicate>inside</predicate>
+      <subject>739535</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008992</relationship_id>
+      <predicate>inside</predicate>
+      <subject>739535</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008993</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>739535</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008994</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>739544</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008995</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>739535</subject>
+      <object>739536</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008996</relationship_id>
+      <predicate>under</predicate>
+      <subject>739536</subject>
+      <object>739535</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2008997</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>739538</subject>
+      <object>739541</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>dock</name>
+      <h>21</h>
+      <object_id>739540</object_id>
+      <w>38</w>
+      <y>100</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rippled</attribute>
+        <attribute>muddy</attribute>
+        <attribute>body of water</attribute>
+        <attribute>calm</attribute>
+        <attribute>wavy</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>water</name>
+      <h>141</h>
+      <object_id>739536</object_id>
+      <w>495</w>
+      <y>101</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>palm</attribute>
+        <attribute>in background</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>27</h>
+      <object_id>739537</object_id>
+      <w>26</w>
+      <y>51</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>black</attribute>
+        <attribute>covered</attribute>
+        <attribute>narrow</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>26</h>
+      <object_id>739535</object_id>
+      <w>116</w>
+      <y>134</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>building</name>
+      <h>42</h>
+      <object_id>739544</object_id>
+      <w>49</w>
+      <y>62</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>49</h>
+      <object_id>739538</object_id>
+      <w>71</w>
+      <y>2</y>
+      <x>323</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>82</h>
+      <object_id>739541</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large body of water covered with boats.</caption>
+      <caption>A few small boats sail down a waterway.</caption>
+      <caption>several long boats on a river near warehouses</caption>
+      <caption>3 fishing boats pass along a small village</caption>
+      <caption>Several empty boats floating on the river on a cloudy day.</caption>
+    </captions>
+</image>

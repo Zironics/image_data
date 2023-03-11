@@ -1,0 +1,103 @@
+<image>
+  <image-id>2330413</image-id>
+  <coco-id>167851</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4782646</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4555145</subject>
+      <object>4555146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4782648</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>4555149</subject>
+      <object>4555150</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4782649</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4555151</subject>
+      <object>4555152</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827295</relationship_id>
+      <predicate>on</predicate>
+      <subject>4665304</subject>
+      <object>4665305</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>45</h>
+      <object_id>4555145</object_id>
+      <w>13</w>
+      <y>141</y>
+      <x>37</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>66</h>
+      <object_id>4555146</object_id>
+      <w>47</w>
+      <y>154</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>35</h>
+      <object_id>4555149</object_id>
+      <w>27</w>
+      <y>164</y>
+      <x>471</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>199</h>
+      <object_id>4555150</object_id>
+      <w>472</w>
+      <y>121</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>110</h>
+      <object_id>4555151</object_id>
+      <w>110</w>
+      <y>58</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>44</h>
+      <object_id>4555152</object_id>
+      <w>49</w>
+      <y>136</y>
+      <x>392</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>17</h>
+      <object_id>4665304</object_id>
+      <w>37</w>
+      <y>206</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>220</h>
+      <object_id>4665305</object_id>
+      <w>270</w>
+      <y>46</y>
+      <x>54</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three buses traveling down a a city street.</caption>
+      <caption>Three buses in a row that are different colored. </caption>
+      <caption>A line of buses are loading people onto them</caption>
+      <caption>Line of buses parked on the side of a city road.</caption>
+      <caption>A red bus takes its place at the head of a line of busses.</caption>
+    </captions>
+</image>

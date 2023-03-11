@@ -1,0 +1,43 @@
+<image>
+  <image-id>2340327</image-id>
+  <coco-id>254549</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4835422</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4685836</subject>
+      <object>4685834</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>food</name>
+      <h>334</h>
+      <object_id>4685836</object_id>
+      <w>424</w>
+      <y>33</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>115</h>
+      <object_id>4685834</object_id>
+      <w>160</w>
+      <y>37</y>
+      <x>339</x>
+      <name>dish</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Rice with cooked broccoli is on a plate.</caption>
+      <caption>The food contains broccoli and rice in it.</caption>
+      <caption>A plate of rice mixed with broccoli and gravy</caption>
+      <caption>A plate wit fried rice with broccoli on it.</caption>
+      <caption>Closeup of rice and broccoli in a metal skillet.</caption>
+    </captions>
+</image>

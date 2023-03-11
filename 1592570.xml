@@ -1,0 +1,126 @@
+<image>
+  <image-id>1592570</image-id>
+  <coco-id>528136</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4085133</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1610743</subject>
+      <object>1610744</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085134</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1610747</subject>
+      <object>3115618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085135</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3115619</subject>
+      <object>3115618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085137</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3202543</subject>
+      <object>3202544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085138</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1791803</subject>
+      <object>3420808</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>satellite dish</name>
+      <h>219</h>
+      <object_id>1610743</object_id>
+      <w>152</w>
+      <y>39</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>van</name>
+      <h>386</h>
+      <object_id>1610744</object_id>
+      <w>631</w>
+      <y>281</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>window</name>
+      <h>65</h>
+      <object_id>1610747</object_id>
+      <w>35</w>
+      <y>74</y>
+      <x>582</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>532</h>
+      <object_id>3115618</object_id>
+      <w>1018</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>window</name>
+      <h>68</h>
+      <object_id>3115619</object_id>
+      <w>23</w>
+      <y>232</y>
+      <x>685</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>122</h>
+      <object_id>3202543</object_id>
+      <w>115</w>
+      <y>245</y>
+      <x>724</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>629</h>
+      <object_id>3202544</object_id>
+      <w>769</w>
+      <y>19</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>334</h>
+      <object_id>1791803</object_id>
+      <w>95</w>
+      <y>424</y>
+      <x>928</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <h>142</h>
+      <object_id>3420808</object_id>
+      <w>91</w>
+      <y>468</y>
+      <x>933</x>
+      <name>pink shirt</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people that are looking inside a van.</caption>
+      <caption>A white van with a satellite on its roof is parked outside of a large building with people walking around.</caption>
+      <caption>A van with a large satellite dish on the roof.</caption>
+      <caption>a truck with a large satellite on top of it</caption>
+      <caption>A van is shown with the door open.</caption>
+    </captions>
+</image>

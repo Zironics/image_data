@@ -1,0 +1,76 @@
+<image>
+  <image-id>2330448</image-id>
+  <coco-id>495797</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4781575</relationship_id>
+      <predicate>has</predicate>
+      <subject>4552112</subject>
+      <object>4552111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4781576</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4552112</subject>
+      <object>4552113</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827158</relationship_id>
+      <predicate>casting</predicate>
+      <subject>4664945</subject>
+      <object>4664946</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>104</h>
+      <object_id>4552112</object_id>
+      <w>49</w>
+      <y>22</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>83</h>
+      <object_id>4552111</object_id>
+      <w>29</w>
+      <y>68</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>233</h>
+      <object_id>4552113</object_id>
+      <w>124</w>
+      <y>135</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>224</h>
+      <object_id>4664945</object_id>
+      <w>126</w>
+      <y>148</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>126</h>
+      <object_id>4664946</object_id>
+      <w>102</w>
+      <y>364</y>
+      <x>173</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A modern vase with a single flower sticking out</caption>
+      <caption>a small white object sitting on a table</caption>
+      <caption>A white vase sitting on a black surface with a purple flower sticking out of it.</caption>
+      <caption>The simple white vase has one flower in it.</caption>
+      <caption>a white vase holding a singular purple plant </caption>
+    </captions>
+</image>

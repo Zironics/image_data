@@ -1,0 +1,87 @@
+<image>
+  <image-id>2340462</image-id>
+  <coco-id>287364</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4665897</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4259746</subject>
+      <object>4259747</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4788248</relationship_id>
+      <predicate>on</predicate>
+      <subject>4569415</subject>
+      <object>4569414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4788249</relationship_id>
+      <predicate>on</predicate>
+      <subject>4569415</subject>
+      <object>4569416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4788250</relationship_id>
+      <predicate>on</predicate>
+      <subject>4569415</subject>
+      <object>4569418</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>35</h>
+      <object_id>4259746</object_id>
+      <w>158</w>
+      <y>295</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>22</h>
+      <object_id>4259747</object_id>
+      <w>53</w>
+      <y>311</y>
+      <x>274</x>
+    </object>
+    <object>
+      <h>113</h>
+      <object_id>4569415</object_id>
+      <w>141</w>
+      <y>198</y>
+      <x>345</x>
+      <name>umbrella</name>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>45</h>
+      <object_id>4569414</object_id>
+      <w>152</w>
+      <y>284</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>25</h>
+      <object_id>4569416</object_id>
+      <w>76</w>
+      <y>295</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>25</h>
+      <object_id>4569418</object_id>
+      <w>100</w>
+      <y>293</y>
+      <x>169</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue umbrella sitting on a sandy beach.</caption>
+      <caption>A picture of a beach that is with some sand.</caption>
+      <caption>A blue bench umbrella  open on the beach</caption>
+      <caption>A large blue umbrella is open on a beach.</caption>
+      <caption>A blue umbrella stuck in the sand on a beach.</caption>
+    </captions>
+</image>

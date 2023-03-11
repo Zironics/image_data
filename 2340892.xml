@@ -1,0 +1,90 @@
+<image>
+  <image-id>2340892</image-id>
+  <coco-id>255804</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4639783</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4193654</subject>
+      <object>4193655</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4639785</relationship_id>
+      <predicate>between</predicate>
+      <subject>4193658</subject>
+      <object>4193659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4639798</relationship_id>
+      <predicate>attached</predicate>
+      <subject>4193688</subject>
+      <object>4193689</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>181</h>
+      <object_id>4193654</object_id>
+      <w>59</w>
+      <y>120</y>
+      <x>425</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>343</h>
+      <object_id>4193655</object_id>
+      <w>109</w>
+      <y>10</y>
+      <x>342</x>
+    </object>
+    <object>
+      <name>divider</name>
+      <h>180</h>
+      <object_id>4193658</object_id>
+      <w>48</w>
+      <y>173</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shower</attribute>
+      </attributes>
+      <name>stalls</name>
+      <h>180</h>
+      <object_id>4193659</object_id>
+      <w>113</w>
+      <y>179</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Black</attribute>
+      </attributes>
+      <name>object</name>
+      <h>25</h>
+      <object_id>4193688</object_id>
+      <w>66</w>
+      <y>137</y>
+      <x>359</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>corner </attribute>
+      </attributes>
+      <name>whirlpool</name>
+      <h>410</h>
+      <object_id>4193689</object_id>
+      <w>478</w>
+      <y>13</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man taking a picture of a mirror in a bathroom.</caption>
+      <caption>a hand in a mirror is holding a cellphone and taking a picture</caption>
+      <caption>A man taking a photo in a mirror with a small camera.</caption>
+      <caption>Man with wedding ring taking picture in mirror.</caption>
+      <caption>Someone is holding their cell phone to the mirror.</caption>
+    </captions>
+</image>

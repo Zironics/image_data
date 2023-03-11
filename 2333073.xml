@@ -1,0 +1,37 @@
+<image>
+  <image-id>2333073</image-id>
+  <coco-id>271900</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4070305</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2867145</subject>
+      <object>2867146</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>81</h>
+      <object_id>2867145</object_id>
+      <w>105</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>179</h>
+      <object_id>2867146</object_id>
+      <w>105</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some sheep are next to a hay pile.</caption>
+      <caption>There are four sheep eating the hay together. </caption>
+      <caption>Some black and white sheep are eating hay from a pile.</caption>
+      <caption>A herd of sheep standing in the hay.</caption>
+      <caption>Four lambs on a farm enjoy eating their hay.</caption>
+    </captions>
+</image>

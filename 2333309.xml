@@ -1,0 +1,87 @@
+<image>
+  <image-id>2333309</image-id>
+  <coco-id>256028</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4455725</relationship_id>
+      <predicate>stacked</predicate>
+      <subject>3927799</subject>
+      <object>2847183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4023463</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2800458</subject>
+      <object>2800459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3881914</relationship_id>
+      <predicate>by</predicate>
+      <subject>3361418</subject>
+      <object>3361419</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bending down </attribute>
+      </attributes>
+      <name>badsentence</name>
+      <h>53</h>
+      <object_id>3927799</object_id>
+      <w>88</w>
+      <y>243</y>
+      <x>312</x>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>173</h>
+      <object_id>2847183</object_id>
+      <w>51</w>
+      <y>58</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>water puddle</name>
+      <h>27</h>
+      <object_id>2800458</object_id>
+      <w>434</w>
+      <y>305</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>113</h>
+      <object_id>2800459</object_id>
+      <w>434</w>
+      <y>218</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>326</h>
+      <object_id>3361418</object_id>
+      <w>319</w>
+      <y>3</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>311</h>
+      <object_id>3361419</object_id>
+      <w>88</w>
+      <y>19</y>
+      <x>410</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small elephant standing in front of a entrance.</caption>
+      <caption>An elephant standing near a wall and a puddle of water. </caption>
+      <caption>THIS IS A PICTURE OF A LARGE ELEPHANT WALKING THROUGH A VILLAGE</caption>
+      <caption>an elephant starting to walk through a doorway</caption>
+      <caption>A large elephant walks around within its enclosure. </caption>
+    </captions>
+</image>

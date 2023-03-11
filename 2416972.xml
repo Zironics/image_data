@@ -1,0 +1,106 @@
+<image>
+  <image-id>2416972</image-id>
+  <coco-id>474667</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4671713</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4274281</subject>
+      <object>4274282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4767021</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4512284</subject>
+      <object>4512285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4767022</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4512286</subject>
+      <object>4512287</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4767023</relationship_id>
+      <predicate>has</predicate>
+      <subject>4512313</subject>
+      <object>4512314</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>370</h>
+      <object_id>4274281</object_id>
+      <w>488</w>
+      <y>2</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>54</h>
+      <object_id>4274282</object_id>
+      <w>43</w>
+      <y>112</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>177</h>
+      <object_id>4512284</object_id>
+      <w>144</w>
+      <y>99</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>234</h>
+      <object_id>4512285</object_id>
+      <w>225</w>
+      <y>120</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>40</h>
+      <object_id>4512286</object_id>
+      <w>41</w>
+      <y>200</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>155</h>
+      <object_id>4512287</object_id>
+      <w>180</w>
+      <y>134</y>
+      <x>232</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>197</h>
+      <object_id>4512313</object_id>
+      <w>494</w>
+      <y>173</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>cat hair</name>
+      <h>90</h>
+      <object_id>4512314</object_id>
+      <w>102</w>
+      <y>260</y>
+      <x>387</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person holding a black cat next to their face.</caption>
+      <caption>A teenager with acne, holding up a black cat.</caption>
+      <caption>A person looks at the camera while holding a black cat.</caption>
+      <caption>a person is holding up a black cat</caption>
+      <caption>A man with a black kitten is staring at the viewer.</caption>
+    </captions>
+</image>

@@ -1,0 +1,126 @@
+<image>
+  <image-id>2415673</image-id>
+  <coco-id>462872</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4544198</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3031666</subject>
+      <object>3031667</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3678947</relationship_id>
+      <predicate>growing under</predicate>
+      <subject>2976317</subject>
+      <object>2976318</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544199</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3162335</subject>
+      <object>3162333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544200</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3162335</subject>
+      <object>3162333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253787</relationship_id>
+      <predicate>above</predicate>
+      <subject>3791612</subject>
+      <object>2968891</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253786</relationship_id>
+      <predicate>above</predicate>
+      <subject>3791611</subject>
+      <object>2968891</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bracket</name>
+      <h>150</h>
+      <object_id>3031666</object_id>
+      <w>69</w>
+      <y>116</y>
+      <x>268</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>125</h>
+      <object_id>3031667</object_id>
+      <w>492</w>
+      <y>186</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>57</h>
+      <object_id>2976317</object_id>
+      <w>50</w>
+      <y>258</y>
+      <x>447</x>
+    </object>
+    <object>
+      <name>bridge</name>
+      <h>107</h>
+      <object_id>2976318</object_id>
+      <w>430</w>
+      <y>201</y>
+      <x>17</x>
+    </object>
+    <object>
+      <h>11</h>
+      <object_id>3162335</object_id>
+      <w>28</w>
+      <y>161</y>
+      <x>197</x>
+      <name>words</name>
+    </object>
+    <object>
+      <name>train</name>
+      <h>99</h>
+      <object_id>3162333</object_id>
+      <w>436</w>
+      <y>97</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>14</h>
+      <object_id>3791612</object_id>
+      <w>89</w>
+      <y>88</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>90</h>
+      <object_id>2968891</object_id>
+      <w>430</w>
+      <y>97</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>22</h>
+      <object_id>3791611</object_id>
+      <w>158</w>
+      <y>63</y>
+      <x>95</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train that is sitting on a bridge over grass.</caption>
+      <caption>A passenger train crosses over a brick overpass. </caption>
+      <caption>A bullet train is whisking along a pathway in Southern United States</caption>
+      <caption>A passenger train passes over a brick overpass.</caption>
+      <caption>A train passes by atop a brick bridge.</caption>
+    </captions>
+</image>

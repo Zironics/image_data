@@ -1,0 +1,126 @@
+<image>
+  <image-id>2386406</image-id>
+  <coco-id>78604</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1800829</relationship_id>
+      <predicate>IN</predicate>
+      <subject>682307</subject>
+      <object>682308</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1800830</relationship_id>
+      <predicate>behind</predicate>
+      <subject>682311</subject>
+      <object>682307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1800831</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>682307</subject>
+      <object>682315</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1800832</relationship_id>
+      <predicate>IN</predicate>
+      <subject>682316</subject>
+      <object>682308</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1800833</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>682307</subject>
+      <object>682315</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1800834</relationship_id>
+      <predicate>has</predicate>
+      <subject>682307</subject>
+      <object>682320</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1800835</relationship_id>
+      <predicate>has</predicate>
+      <subject>682307</subject>
+      <object>682316</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cross country skier</attribute>
+        <attribute>cross country skiing</attribute>
+        <attribute>wearing ski suit</attribute>
+        <attribute>posing</attribute>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>skier</name>
+      <h>169</h>
+      <object_id>682307</object_id>
+      <w>72</w>
+      <y>109</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>tracked</attribute>
+        <attribute>track marked by skis</attribute>
+        <attribute>ski tracked</attribute>
+        <attribute>tracked up</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>212</h>
+      <object_id>682308</object_id>
+      <w>498</w>
+      <y>122</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>straight</attribute>
+        <attribute>skinny</attribute>
+      </attributes>
+      <name>ski poles</name>
+      <h>51</h>
+      <object_id>682311</object_id>
+      <w>98</w>
+      <y>189</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>goggles</name>
+      <h>11</h>
+      <object_id>682315</object_id>
+      <w>21</w>
+      <y>117</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>27</h>
+      <object_id>682316</object_id>
+      <w>294</w>
+      <y>256</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>28</h>
+      <object_id>682320</object_id>
+      <w>23</w>
+      <y>248</y>
+      <x>148</x>
+      <name>ski boot</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding skis across snow covered ground.</caption>
+      <caption>A  snow skier is posing for a photo on a flat part of the ground. </caption>
+      <caption>This person is in a cross country skiing race.</caption>
+      <caption>A man cross-country skiing on a clear day.</caption>
+      <caption>A person is on skis in the snow.</caption>
+    </captions>
+</image>

@@ -1,0 +1,83 @@
+<image>
+  <image-id>2340059</image-id>
+  <coco-id>573975</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2811519</relationship_id>
+      <predicate>has</predicate>
+      <subject>948959</subject>
+      <object>948960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2811520</relationship_id>
+      <predicate>has</predicate>
+      <subject>948962</subject>
+      <object>948959</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2811521</relationship_id>
+      <predicate>are under</predicate>
+      <subject>948961</subject>
+      <object>948959</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2811522</relationship_id>
+      <predicate>touches</predicate>
+      <subject>948960</subject>
+      <object>948959</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>cut</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>320</h>
+      <object_id>948959</object_id>
+      <w>496</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>bacon</name>
+      <h>153</h>
+      <object_id>948960</object_id>
+      <w>279</w>
+      <y>29</y>
+      <x>86</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>330</h>
+      <object_id>948962</object_id>
+      <w>492</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mixed</attribute>
+        <attribute>brown</attribute>
+        <attribute>grouped</attribute>
+      </attributes>
+      <name>raisins</name>
+      <h>112</h>
+      <object_id>948961</object_id>
+      <w>193</w>
+      <y>182</y>
+      <x>232</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a soupy looking bowl of broccoli and raisins </caption>
+      <caption>a bowl with a bunch of vegetables and raisins inside of it </caption>
+      <caption>A broccoli salad mixture with raisins in a bowl. </caption>
+      <caption>A food dish containing broccoli, raisins and a few other things. </caption>
+      <caption>Broccoli, raisins, and sauce in a white bowl.</caption>
+    </captions>
+</image>

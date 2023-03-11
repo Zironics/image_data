@@ -1,0 +1,62 @@
+<image>
+  <image-id>2338757</image-id>
+  <coco-id>407220</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459314</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>2797378</subject>
+      <object>3324552</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4459315</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3336019</subject>
+      <object>3929820</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>road</name>
+      <h>24</h>
+      <object_id>2797378</object_id>
+      <w>173</w>
+      <y>365</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rests</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>492</h>
+      <object_id>3324552</object_id>
+      <w>304</w>
+      <y>6</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>68</h>
+      <object_id>3336019</object_id>
+      <w>296</w>
+      <y>429</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>309</h>
+      <object_id>3929820</object_id>
+      <w>290</w>
+      <y>17</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red chair on a grassy field of some sort.</caption>
+      <caption>A large statue of a red chair with a horse on the seat.</caption>
+      <caption>Horse statue placed on a huge red chair.</caption>
+      <caption>A large red chair in a grassy field.</caption>
+      <caption>A statue depicting a horse standing on a red chair.</caption>
+    </captions>
+</image>

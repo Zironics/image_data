@@ -1,0 +1,87 @@
+<image>
+  <image-id>2415777</image-id>
+  <coco-id>135263</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3876616</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3423380</subject>
+      <object>2942878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253884</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2788348</subject>
+      <object>2788349</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253885</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3791662</subject>
+      <object>3277913</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>79</h>
+      <object_id>3423380</object_id>
+      <w>93</w>
+      <y>222</y>
+      <x>158</x>
+      <name>blue sweater</name>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>180</h>
+      <object_id>2942878</object_id>
+      <w>105</w>
+      <y>200</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tree</attribute>
+      </attributes>
+      <name>tree branches</name>
+      <h>42</h>
+      <object_id>2788348</object_id>
+      <w>46</w>
+      <y>176</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>169</h>
+      <object_id>2788349</object_id>
+      <w>24</w>
+      <y>39</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>179</h>
+      <object_id>3791662</object_id>
+      <w>99</w>
+      <y>199</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>backpack</name>
+      <h>48</h>
+      <object_id>3277913</object_id>
+      <w>62</w>
+      <y>191</y>
+      <x>180</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in blue jacket skiing in snowy area next to trees.</caption>
+      <caption>A young person trekking through the snow </caption>
+      <caption>A skier with blonde hair and a blue jacket in on skis with poles.</caption>
+      <caption>A person with a backpack is cross country skiing.</caption>
+      <caption>A man is using his poles to cross country ski.</caption>
+    </captions>
+</image>

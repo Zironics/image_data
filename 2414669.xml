@@ -1,0 +1,72 @@
+<image>
+  <image-id>2414669</image-id>
+  <coco-id>194216</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>148743</relationship_id>
+      <predicate>with</predicate>
+      <subject>154290</subject>
+      <object>154292</object>
+    </relationship>
+    <relationship>
+      <relationship_id>148744</relationship_id>
+      <predicate>with</predicate>
+      <subject>154290</subject>
+      <object>154293</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>large</attribute>
+        <attribute>mother</attribute>
+        <attribute>adult</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>45</h>
+      <object_id>154290</object_id>
+      <w>38</w>
+      <y>77</y>
+      <x>152</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>small</attribute>
+        <attribute>walking</attribute>
+        <attribute>cub</attribute>
+        <attribute>light brown</attribute>
+      </attributes>
+      <name>cub</name>
+      <h>26</h>
+      <object_id>154292</object_id>
+      <w>21</w>
+      <y>103</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark bear</attribute>
+        <attribute>standing</attribute>
+        <attribute>cub</attribute>
+        <attribute>dark brown</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cub</name>
+      <h>26</h>
+      <object_id>154293</object_id>
+      <w>20</w>
+      <y>104</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>An outdoor area with a large bear and two smaller bears facing the wooded tree area.</caption>
+      <caption>a couple of bears stand on a tree log </caption>
+      <caption>A group of bears walking over downed trees in a forest.</caption>
+      <caption>A family of bears walking through a forest with lots of trees.</caption>
+      <caption>A group of forest creatures near a downed tree in the woods.</caption>
+    </captions>
+</image>

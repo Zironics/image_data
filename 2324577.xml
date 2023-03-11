@@ -1,0 +1,113 @@
+<image>
+  <image-id>2324577</image-id>
+  <coco-id>551752</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4488633</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2815055</subject>
+      <object>3070242</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488634</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2757541</subject>
+      <object>3087587</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488635</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2757541</subject>
+      <object>2815054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488636</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2815055</subject>
+      <object>2815054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488637</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2815055</subject>
+      <object>2757541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4488638</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3183418</subject>
+      <object>3183419</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>22</h>
+      <object_id>2815055</object_id>
+      <w>22</w>
+      <y>149</y>
+      <x>107</x>
+      <name>hand</name>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>87</h>
+      <object_id>3070242</object_id>
+      <w>129</w>
+      <y>142</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>264</h>
+      <object_id>2757541</object_id>
+      <w>187</w>
+      <y>23</y>
+      <x>131</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <h>36</h>
+      <object_id>3087587</object_id>
+      <w>55</w>
+      <y>25</y>
+      <x>187</x>
+      <name>cap</name>
+    </object>
+    <object>
+      <name>tennis racquet</name>
+      <h>62</h>
+      <object_id>2815054</object_id>
+      <w>110</w>
+      <y>153</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white line</name>
+      <h>150</h>
+      <object_id>3183418</object_id>
+      <w>337</w>
+      <y>128</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>190</h>
+      <object_id>3183419</object_id>
+      <w>495</w>
+      <y>120</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Front view of a woman taking wide step, holding a tennis racket back low, and looking at tennis ball in air, on a tennis court with fence.</caption>
+      <caption>a woman reaching her arm out before she hits a tennis ball</caption>
+      <caption>A woman about to swing the racket as the tennis ball approaches.</caption>
+      <caption>A female tennis player engaged in a match on asphalt.</caption>
+      <caption>A woman is reaching to hit a tennis ball with her racket.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2415154</image-id>
+  <coco-id>101720</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>140060</relationship_id>
+      <predicate>using</predicate>
+      <subject>144919</subject>
+      <object>144911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>140061</relationship_id>
+      <predicate>IN</predicate>
+      <subject>144920</subject>
+      <object>144911</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>276</h>
+      <object_id>144919</object_id>
+      <w>207</w>
+      <y>173</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>423</h>
+      <object_id>144911</object_id>
+      <w>251</w>
+      <y>30</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>cat litter</name>
+      <h>82</h>
+      <object_id>144920</object_id>
+      <w>103</w>
+      <y>303</y>
+      <x>138</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The grey and white cat is standing inside of the toilet bowl full of cat litter.</caption>
+      <caption>A black and white cat playing in a white toilet in a bathroom.</caption>
+      <caption>A cat standing on a toilet in a room.</caption>
+      <caption>A cat is playing in a wash room.</caption>
+      <caption>a cat sitting inside of a toilet filled with grain</caption>
+    </captions>
+</image>

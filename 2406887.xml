@@ -1,0 +1,74 @@
+<image>
+  <image-id>2406887</image-id>
+  <coco-id>476569</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1703596</relationship_id>
+      <predicate>ON</predicate>
+      <subject>651884</subject>
+      <object>651885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1703597</relationship_id>
+      <predicate>has</predicate>
+      <subject>651885</subject>
+      <object>651887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1703598</relationship_id>
+      <predicate>has</predicate>
+      <subject>651885</subject>
+      <object>651884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1703599</relationship_id>
+      <predicate>has</predicate>
+      <subject>651885</subject>
+      <object>651891</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>goggles</name>
+      <h>12</h>
+      <object_id>651884</object_id>
+      <w>26</w>
+      <y>120</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>kid</name>
+      <h>139</h>
+      <object_id>651885</object_id>
+      <w>80</w>
+      <y>106</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>98</h>
+      <object_id>651887</object_id>
+      <w>15</w>
+      <y>150</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>ski</name>
+      <h>26</h>
+      <object_id>651891</object_id>
+      <w>80</w>
+      <y>238</y>
+      <x>133</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three people are skiing in the snow near a hill.</caption>
+      <caption>A mom and her two children on snow skis getting ready to go downhill.</caption>
+      <caption>One adult and two children pose for a picture in their ski equipment.</caption>
+      <caption>Three people on skis in the snow together</caption>
+      <caption>A woman with two children on skis on a hill.</caption>
+    </captions>
+</image>

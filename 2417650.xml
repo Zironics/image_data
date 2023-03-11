@@ -1,0 +1,96 @@
+<image>
+  <image-id>2417650</image-id>
+  <coco-id>439251</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4256021</relationship_id>
+      <predicate>has</predicate>
+      <subject>3309739</subject>
+      <object>3792630</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256022</relationship_id>
+      <predicate>has</predicate>
+      <subject>3309739</subject>
+      <object>3792631</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256023</relationship_id>
+      <predicate>watching</predicate>
+      <subject>3256839</subject>
+      <object>3309739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256024</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3309739</subject>
+      <object>3256841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4256025</relationship_id>
+      <predicate>reflected on</predicate>
+      <subject>3792632</subject>
+      <object>3256841</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cow</name>
+      <h>87</h>
+      <object_id>3309739</object_id>
+      <w>82</w>
+      <y>133</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>horn</name>
+      <h>41</h>
+      <object_id>3792630</object_id>
+      <w>20</w>
+      <y>144</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>horn</name>
+      <h>51</h>
+      <object_id>3792631</object_id>
+      <w>25</w>
+      <y>134</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>65</h>
+      <object_id>3256839</object_id>
+      <w>57</w>
+      <y>141</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>313</h>
+      <object_id>3256841</object_id>
+      <w>493</w>
+      <y>15</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>14</h>
+      <object_id>3792632</object_id>
+      <w>496</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing next to a cow in a body of water.</caption>
+      <caption>A yak and a man swimming back to shore.</caption>
+      <caption>A cow with horns and a man swims in a body of water.</caption>
+      <caption>A man swimming in a large body of water with a cow.</caption>
+      <caption>THERE IS A COW AND A MAN THAT IS IN THE OCEAN </caption>
+    </captions>
+</image>

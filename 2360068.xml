@@ -1,0 +1,103 @@
+<image>
+  <image-id>2360068</image-id>
+  <coco-id>79971</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3884950</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3329430</subject>
+      <object>2614463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4206370</relationship_id>
+      <predicate>has</predicate>
+      <subject>2614463</subject>
+      <object>1701676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4206371</relationship_id>
+      <predicate>outside</predicate>
+      <subject>1994864</subject>
+      <object>2614463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4206372</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2614463</subject>
+      <object>3762933</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4206373</relationship_id>
+      <predicate>are</predicate>
+      <subject>1701676</subject>
+      <object>3762934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4206374</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1701676</subject>
+      <object>2614463</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stems</name>
+      <h>127</h>
+      <object_id>3329430</object_id>
+      <w>29</w>
+      <y>336</y>
+      <x>177</x>
+    </object>
+    <object>
+      <h>185</h>
+      <object_id>2614463</object_id>
+      <w>138</w>
+      <y>316</y>
+      <x>119</x>
+      <name>vase</name>
+    </object>
+    <object>
+      <h>323</h>
+      <object_id>1701676</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+      <name>flower tips</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>325</h>
+      <object_id>1994864</object_id>
+      <w>424</w>
+      <y>103</y>
+      <x>48</x>
+      <name>green leaves</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>29</h>
+      <object_id>3762933</object_id>
+      <w>220</w>
+      <y>467</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>tulips</name>
+      <h>359</h>
+      <object_id>3762934</object_id>
+      <w>487</w>
+      <y>2</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A vase filled with red and orange flowers.</caption>
+      <caption>a glass vase containing red and yellow tulips</caption>
+      <caption>On the table is a vase with red tulips. </caption>
+      <caption>A bunch of flowers in a vase sitting on a table
+</caption>
+      <caption>A vase full of red tulips with a lot of green leafs</caption>
+    </captions>
+</image>

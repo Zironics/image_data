@@ -1,0 +1,90 @@
+<image>
+  <image-id>2339391</image-id>
+  <coco-id>5619</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4047646</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2551391</subject>
+      <object>3159080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4047647</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3695707</subject>
+      <object>3159080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457863</relationship_id>
+      <predicate>filled with</predicate>
+      <subject>3428321</subject>
+      <object>3428322</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>158</h>
+      <object_id>2551391</object_id>
+      <w>272</w>
+      <y>50</y>
+      <x>153</x>
+      <name>brown meat</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rectangular</attribute>
+        <attribute>wood</attribute>
+        <attribute>light brown</attribute>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cutting board</name>
+      <h>243</h>
+      <object_id>3159080</object_id>
+      <w>423</w>
+      <y>34</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>mustard</name>
+      <h>60</h>
+      <object_id>3695707</object_id>
+      <w>97</w>
+      <y>37</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white dish</name>
+      <h>105</h>
+      <object_id>3428321</object_id>
+      <w>108</w>
+      <y>22</y>
+      <x>36</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow sauce</name>
+      <h>62</h>
+      <object_id>3428322</object_id>
+      <w>83</w>
+      <y>37</y>
+      <x>53</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden plate and bowl of sauce on a table.</caption>
+      <caption>A wooden cutting board with sausage and ramekin of mustard.</caption>
+      <caption>A tray with meat and a small bowl of mustard sauce.</caption>
+      <caption>A sausage all cut up and a dish of mustard</caption>
+      <caption>A lady cutting something on some cutting board.</caption>
+    </captions>
+</image>

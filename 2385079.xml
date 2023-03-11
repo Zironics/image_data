@@ -1,0 +1,62 @@
+<image>
+  <image-id>2385079</image-id>
+  <coco-id>500761</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4678428</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4291250</subject>
+      <object>4291251</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678431</relationship_id>
+      <predicate>with</predicate>
+      <subject>4291257</subject>
+      <object>4291258</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>195</h>
+      <object_id>4291250</object_id>
+      <w>68</w>
+      <y>58</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>empty glass</name>
+      <h>51</h>
+      <object_id>4291251</object_id>
+      <w>38</w>
+      <y>137</y>
+      <x>201</x>
+    </object>
+    <object>
+      <name>wine bottle</name>
+      <h>280</h>
+      <object_id>4291257</object_id>
+      <w>168</w>
+      <y>14</y>
+      <x>311</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver </attribute>
+      </attributes>
+      <name>silver writing</name>
+      <h>190</h>
+      <object_id>4291258</object_id>
+      <w>146</w>
+      <y>33</y>
+      <x>341</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and woman that are holding cups.</caption>
+      <caption>The dual image shows soldiers holding glasses and a wine bottle. </caption>
+      <caption>Two women standing in front of a large wine bottle. </caption>
+      <caption>this is two people looking at a wine bottle</caption>
+      <caption>Two people standing near each other holding drinks</caption>
+    </captions>
+</image>

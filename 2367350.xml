@@ -1,0 +1,102 @@
+<image>
+  <image-id>2367350</image-id>
+  <coco-id>318396</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1607972</relationship_id>
+      <predicate>has</predicate>
+      <subject>623099</subject>
+      <object>623101</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1607973</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>623105</subject>
+      <object>623109</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1607974</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>623099</subject>
+      <object>623103</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1607975</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>623099</subject>
+      <object>623103</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1607976</relationship_id>
+      <predicate>stuck into</predicate>
+      <subject>623105</subject>
+      <object>623109</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>snowboarding</attribute>
+        <attribute>in the snow</attribute>
+        <attribute>practicing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>267</h>
+      <object_id>623099</object_id>
+      <w>175</w>
+      <y>12</y>
+      <x>132</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>48</h>
+      <object_id>623101</object_id>
+      <w>51</w>
+      <y>14</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>81</h>
+      <object_id>623105</object_id>
+      <w>18</w>
+      <y>204</y>
+      <x>340</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>262</h>
+      <object_id>623109</object_id>
+      <w>496</w>
+      <y>68</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>on slope</attribute>
+      </attributes>
+      <name>snowboard</name>
+      <h>77</h>
+      <object_id>623103</object_id>
+      <w>285</w>
+      <y>231</y>
+      <x>65</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A  person riding on a snowboard in the snow. </caption>
+      <caption>A boy training on a snow board with snow covered slopes in backdrop.</caption>
+      <caption>A person is riding a snowboard down a pipe.</caption>
+      <caption>A person on a snow board going down a pole.</caption>
+      <caption>A kid is snowboarding down a railing in the snow.</caption>
+    </captions>
+</image>

@@ -1,0 +1,98 @@
+<image>
+  <image-id>2327411</image-id>
+  <coco-id>231408</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3634567</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3297603</subject>
+      <object>2949591</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3634568</relationship_id>
+      <predicate>near</predicate>
+      <subject>2704731</subject>
+      <object>3522289</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3634569</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3297603</subject>
+      <object>3297604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3634571</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3041703</subject>
+      <object>3041704</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blurred</attribute>
+      </attributes>
+      <h>83</h>
+      <object_id>3297603</object_id>
+      <w>100</w>
+      <y>25</y>
+      <x>135</x>
+      <name>duck</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>364</h>
+      <object_id>2949591</object_id>
+      <w>446</w>
+      <y>10</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>131</h>
+      <object_id>2704731</object_id>
+      <w>230</w>
+      <y>145</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>220</h>
+      <object_id>3522289</object_id>
+      <w>420</w>
+      <y>1</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>108</h>
+      <object_id>3297604</object_id>
+      <w>159</w>
+      <y>33</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>white areas</name>
+      <h>67</h>
+      <object_id>3041703</object_id>
+      <w>82</w>
+      <y>182</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>117</h>
+      <object_id>3041704</object_id>
+      <w>198</w>
+      <y>144</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a cat that is standing near the water</caption>
+      <caption>A cat standing next to a pond with a duck.</caption>
+      <caption>A cat looking intently at something as a duck floats by.</caption>
+      <caption>this is a cat standing near a patch of grass</caption>
+      <caption>A cat in the foreground and a duck in the background.</caption>
+    </captions>
+</image>

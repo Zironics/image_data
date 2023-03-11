@@ -1,0 +1,62 @@
+<image>
+  <image-id>2332031</image-id>
+  <coco-id>442367</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4669730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4269139</subject>
+      <object>4269138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4669799</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4269353</subject>
+      <object>4269354</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glasses</name>
+      <h>17</h>
+      <object_id>4269139</object_id>
+      <w>32</w>
+      <y>169</y>
+      <x>361</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>120</h>
+      <object_id>4269138</object_id>
+      <w>81</w>
+      <y>169</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>168</h>
+      <object_id>4269353</object_id>
+      <w>60</w>
+      <y>148</y>
+      <x>433</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>9</h>
+      <object_id>4269354</object_id>
+      <w>18</w>
+      <y>152</y>
+      <x>452</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowded sidewalk filled with lots of people.</caption>
+      <caption>People walking along a cobblestone street at sunset.</caption>
+      <caption>A crowd walks through a busy street of businesses</caption>
+      <caption>People are walking on a crowded shopping district.</caption>
+      <caption>People walking on a pedestrian thoroughfare in a tourist business district. </caption>
+    </captions>
+</image>

@@ -1,0 +1,295 @@
+<image>
+  <image-id>2411853</image-id>
+  <coco-id>192707</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>206011</relationship_id>
+      <predicate>door in room</predicate>
+      <subject>208383</subject>
+      <object>208386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206012</relationship_id>
+      <predicate>chair in room</predicate>
+      <subject>208385</subject>
+      <object>208386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206014</relationship_id>
+      <predicate>chair blue</predicate>
+      <subject>208386</subject>
+      <object>208388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206015</relationship_id>
+      <predicate>chair has leg</predicate>
+      <subject>208389</subject>
+      <object>3805541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206017</relationship_id>
+      <predicate>laptop on desk</predicate>
+      <subject>208399</subject>
+      <object>208398</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206023</relationship_id>
+      <predicate>laptop on desk</predicate>
+      <subject>208398</subject>
+      <object>208399</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206024</relationship_id>
+      <predicate>telephone above</predicate>
+      <subject>208400</subject>
+      <object>208401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206027</relationship_id>
+      <predicate>chair barrel</predicate>
+      <subject>208385</subject>
+      <object>208385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206028</relationship_id>
+      <predicate>windows full length</predicate>
+      <subject>208383</subject>
+      <object>208403</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206030</relationship_id>
+      <predicate>chair barrel</predicate>
+      <subject>208405</subject>
+      <object>208406</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206035</relationship_id>
+      <predicate>curtain house</predicate>
+      <subject>208392</subject>
+      <object>208393</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206036</relationship_id>
+      <predicate>monitors flatscreen</predicate>
+      <subject>208394</subject>
+      <object>208395</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206038</relationship_id>
+      <predicate>shirt red</predicate>
+      <subject>208391</subject>
+      <object>208408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206041</relationship_id>
+      <predicate>chair has leg</predicate>
+      <subject>208389</subject>
+      <object>3805541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206042</relationship_id>
+      <predicate>handle on door</predicate>
+      <subject>208414</subject>
+      <object>208415</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206046</relationship_id>
+      <predicate>laptop on desk</predicate>
+      <subject>208398</subject>
+      <object>208399</object>
+    </relationship>
+    <relationship>
+      <relationship_id>206052</relationship_id>
+      <predicate>laptop on desk</predicate>
+      <subject>208399</subject>
+      <object>208398</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>door is silver</name>
+      <h>174</h>
+      <object_id>208383</object_id>
+      <w>83</w>
+      <y>26</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>specked</attribute>
+      </attributes>
+      <h>331</h>
+      <object_id>208386</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>1</x>
+      <name>room has chair</name>
+    </object>
+    <object>
+      <name>chair is wooden</name>
+      <h>75</h>
+      <object_id>208385</object_id>
+      <w>59</w>
+      <y>143</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>chair has pattern</name>
+      <h>192</h>
+      <object_id>208388</object_id>
+      <w>499</w>
+      <y>141</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>leg is wooden</name>
+      <h>42</h>
+      <object_id>208389</object_id>
+      <w>6</w>
+      <y>179</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wood</attribute>
+      </attributes>
+      <h>85</h>
+      <object_id>3805541</object_id>
+      <w>63</w>
+      <y>136</y>
+      <x>202</x>
+      <name>chair</name>
+    </object>
+    <object>
+      <name>desk has laptop</name>
+      <h>54</h>
+      <object_id>208399</object_id>
+      <w>71</w>
+      <y>119</y>
+      <x>196</x>
+    </object>
+    <object>
+      <h>27</h>
+      <object_id>208398</object_id>
+      <w>41</w>
+      <y>119</y>
+      <x>220</x>
+      <name>laptop is open</name>
+    </object>
+    <object>
+      <name>telephone is on wall</name>
+      <h>47</h>
+      <object_id>208400</object_id>
+      <w>11</w>
+      <y>81</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>wall has telephone</name>
+      <h>60</h>
+      <object_id>208401</object_id>
+      <w>26</w>
+      <y>70</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>window is on door</name>
+      <h>149</h>
+      <object_id>208403</object_id>
+      <w>54</w>
+      <y>37</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>box is on desk</name>
+      <h>10</h>
+      <object_id>208405</object_id>
+      <w>26</w>
+      <y>147</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>desk is by chair</name>
+      <h>44</h>
+      <object_id>208406</object_id>
+      <w>92</w>
+      <y>147</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>curtain is blue</name>
+      <h>88</h>
+      <object_id>208392</object_id>
+      <w>51</w>
+      <y>86</y>
+      <x>412</x>
+    </object>
+    <object>
+      <name>curtain is blue</name>
+      <h>66</h>
+      <object_id>208393</object_id>
+      <w>18</w>
+      <y>80</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>monitor is little</name>
+      <h>37</h>
+      <object_id>208394</object_id>
+      <w>48</w>
+      <y>17</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>flatscreen is little</name>
+      <h>42</h>
+      <object_id>208395</object_id>
+      <w>36</w>
+      <y>14</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>man is wearing shirt</name>
+      <h>46</h>
+      <object_id>208391</object_id>
+      <w>20</w>
+      <y>105</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>hat is red</name>
+      <h>4</h>
+      <object_id>208408</object_id>
+      <w>9</w>
+      <y>104</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>door has handle</name>
+      <h>9</h>
+      <object_id>208414</object_id>
+      <w>18</w>
+      <y>112</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>door is handled</name>
+      <h>5</h>
+      <object_id>208415</object_id>
+      <w>16</w>
+      <y>113</y>
+      <x>176</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The inside of a vehicle of some sort with some chairs on a desk with a computer.</caption>
+      <caption>a room with couches and windows inside of it </caption>
+      <caption>Six chairs in a train car along with curtains.</caption>
+      <caption>A bus filled with chairs and two tables.</caption>
+      <caption>The inside of a train cabin room with curved sides with four padded armchairs and two captain style wood chairs, on at a desk with control panel, a door and windows.</caption>
+    </captions>
+</image>

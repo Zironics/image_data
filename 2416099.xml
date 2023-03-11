@@ -1,0 +1,103 @@
+<image>
+  <image-id>2416099</image-id>
+  <coco-id>426118</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3682777</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3253171</subject>
+      <object>3543621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3917237</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3253171</subject>
+      <object>3178148</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3878673</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>2838243</subject>
+      <object>2838244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3878675</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3266696</subject>
+      <object>3266697</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>mini</attribute>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>130</h>
+      <object_id>3253171</object_id>
+      <w>273</w>
+      <y>88</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>310</h>
+      <object_id>3543621</object_id>
+      <w>495</w>
+      <y>63</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>282</h>
+      <object_id>3178148</object_id>
+      <w>343</w>
+      <y>75</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>102</h>
+      <object_id>2838243</object_id>
+      <w>88</w>
+      <y>8</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>102</h>
+      <object_id>2838244</object_id>
+      <w>76</w>
+      <y>10</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>91</h>
+      <object_id>3266696</object_id>
+      <w>48</w>
+      <y>0</y>
+      <x>183</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clothes</name>
+      <h>71</h>
+      <object_id>3266697</object_id>
+      <w>30</w>
+      <y>0</y>
+      <x>187</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small airplane parked next to a man sitting on a bench.</caption>
+      <caption>A FAKE AIRPLANE IS ON THE GROUND BLUE AND WHITE </caption>
+      <caption>Large motorized model plane parked beside air field.</caption>
+      <caption>A large toy aircraft is sitting outside in a field.</caption>
+      <caption>Purple, white and black model plane in a field.</caption>
+    </captions>
+</image>

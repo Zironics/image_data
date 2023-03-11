@@ -1,0 +1,56 @@
+<image>
+  <image-id>2388416</image-id>
+  <coco-id>146047</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1209501</relationship_id>
+      <predicate>IN</predicate>
+      <subject>508962</subject>
+      <object>508963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209505</relationship_id>
+      <predicate>IN</predicate>
+      <subject>508962</subject>
+      <object>508963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1209508</relationship_id>
+      <predicate>IN</predicate>
+      <subject>508962</subject>
+      <object>508963</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>apples</name>
+      <h>234</h>
+      <object_id>508962</object_id>
+      <w>385</w>
+      <y>79</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shiny</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>bucket</name>
+      <h>138</h>
+      <object_id>508963</object_id>
+      <w>373</w>
+      <y>175</y>
+      <x>52</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A metal bowl filled with lots of red apples.</caption>
+      <caption>A metal bucket is filled with red apples.</caption>
+      <caption>A pile of red apples in a metal pail.</caption>
+      <caption>A small bowl holds many apples on the table</caption>
+      <caption>a bucket that is full of some kind of apples</caption>
+    </captions>
+</image>

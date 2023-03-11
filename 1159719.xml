@@ -1,0 +1,90 @@
+<image>
+  <image-id>1159719</image-id>
+  <coco-id>2229</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4626168</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4160472</subject>
+      <object>4160473</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626174</relationship_id>
+      <predicate>near</predicate>
+      <subject>4160485</subject>
+      <object>4160484</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626175</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4160488</subject>
+      <object>4160489</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>group</attribute>
+      </attributes>
+      <name>men</name>
+      <h>169</h>
+      <object_id>4160472</object_id>
+      <w>497</w>
+      <y>479</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>342</h>
+      <object_id>4160473</object_id>
+      <w>949</w>
+      <y>297</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>waves</name>
+      <h>50</h>
+      <object_id>4160485</object_id>
+      <w>264</w>
+      <y>481</y>
+      <x>758</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beach</attribute>
+      </attributes>
+      <name>front</name>
+      <h>124</h>
+      <object_id>4160484</object_id>
+      <w>247</w>
+      <y>489</y>
+      <x>775</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>132</h>
+      <object_id>4160488</object_id>
+      <w>40</w>
+      <y>492</y>
+      <x>382</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>50</h>
+      <object_id>4160489</object_id>
+      <w>52</w>
+      <y>515</y>
+      <x>378</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people stand on a beach on a partly cloudy day. </caption>
+      <caption>A group of friends are hanging out on the beach. </caption>
+      <caption>A crowd watches kites soaring over a windy beach.</caption>
+      <caption>A group of people at the beach are flying a kite.</caption>
+      <caption>A crowd at a beach with a kite flying in the wind.</caption>
+    </captions>
+</image>

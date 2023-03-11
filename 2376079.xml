@@ -1,0 +1,105 @@
+<image>
+  <image-id>2376079</image-id>
+  <coco-id>255139</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4302793</relationship_id>
+      <predicate>sticking out of</predicate>
+      <subject>2464027</subject>
+      <object>2464028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4028277</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2147783</subject>
+      <object>1687135</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4302798</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3840785</subject>
+      <object>2514830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4028279</relationship_id>
+      <predicate>has</predicate>
+      <subject>1687135</subject>
+      <object>1687134</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>out</attribute>
+      </attributes>
+      <name>dolphin fin</name>
+      <h>18</h>
+      <object_id>2464027</object_id>
+      <w>21</w>
+      <y>227</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>60</h>
+      <object_id>2464028</object_id>
+      <w>179</w>
+      <y>202</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>animal</name>
+      <h>38</h>
+      <object_id>2147783</object_id>
+      <w>241</w>
+      <y>218</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>calm</attribute>
+      </attributes>
+      <name>water</name>
+      <h>218</h>
+      <object_id>1687135</object_id>
+      <w>500</w>
+      <y>113</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>line</name>
+      <h>24</h>
+      <object_id>3840785</object_id>
+      <w>27</w>
+      <y>125</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>25</h>
+      <object_id>2514830</object_id>
+      <w>159</w>
+      <y>123</y>
+      <x>286</x>
+    </object>
+    <object>
+      <name>splash</name>
+      <h>29</h>
+      <object_id>1687134</object_id>
+      <w>147</w>
+      <y>220</y>
+      <x>157</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boat in blue waters several feet from a shark. </caption>
+      <caption>people out on a boat in the water</caption>
+      <caption>A group of people in a boat on the ocean.</caption>
+      <caption>A boat with a lot of people on it passing near splashing dolphins or sharks.</caption>
+      <caption>A group of people boating with a dolphin near the boat.</caption>
+    </captions>
+</image>

@@ -1,0 +1,98 @@
+<image>
+  <image-id>2368210</image-id>
+  <coco-id>386799</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2038504</relationship_id>
+      <predicate>has</predicate>
+      <subject>747458</subject>
+      <object>747459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2038505</relationship_id>
+      <predicate>ON</predicate>
+      <subject>747456</subject>
+      <object>747460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4350875</relationship_id>
+      <predicate>outside</predicate>
+      <subject>3870285</subject>
+      <object>3870286</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>shower</name>
+      <h>346</h>
+      <object_id>747458</object_id>
+      <w>205</w>
+      <y>0</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cornered</attribute>
+        <attribute>piled</attribute>
+        <attribute>tubbed</attribute>
+      </attributes>
+      <name>toilet paper</name>
+      <h>36</h>
+      <object_id>747459</object_id>
+      <w>27</w>
+      <y>245</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rectangular</attribute>
+        <attribute>white</attribute>
+        <attribute>hinged</attribute>
+      </attributes>
+      <name>window</name>
+      <h>73</h>
+      <object_id>747456</object_id>
+      <w>111</w>
+      <y>228</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiled</attribute>
+        <attribute>windowed</attribute>
+      </attributes>
+      <name>walls</name>
+      <h>218</h>
+      <object_id>747460</object_id>
+      <w>126</w>
+      <y>189</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>49</h>
+      <object_id>3870285</object_id>
+      <w>81</w>
+      <y>239</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>495</h>
+      <object_id>3870286</object_id>
+      <w>329</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toilet sitting in a bathroom next to a small window.</caption>
+      <caption>A white sink and shower in a bathroom.</caption>
+      <caption>The interior of a bathroom with sink and bathtub.</caption>
+      <caption>A bathroom with a white sink and a small window near the floor.</caption>
+      <caption>A small window in an all white bathroom.</caption>
+    </captions>
+</image>

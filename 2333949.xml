@@ -1,0 +1,59 @@
+<image>
+  <image-id>2333949</image-id>
+  <coco-id>59225</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3859549</relationship_id>
+      <predicate>has</predicate>
+      <subject>2705411</subject>
+      <object>2705412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3988481</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2993094</subject>
+      <object>3671833</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>114</h>
+      <object_id>2705411</object_id>
+      <w>86</w>
+      <y>53</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>14</h>
+      <object_id>2705412</object_id>
+      <w>16</w>
+      <y>67</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>foot</name>
+      <h>64</h>
+      <object_id>2993094</object_id>
+      <w>71</w>
+      <y>127</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>112</h>
+      <object_id>3671833</object_id>
+      <w>64</w>
+      <y>62</y>
+      <x>111</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a young man on skis glances at a frozen parking meter dispenser</caption>
+      <caption>A parking meter in snow near where a cross country skier is going by</caption>
+      <caption>A man is cross country skiing in a field.</caption>
+      <caption>a parking meter covred in ice and snow </caption>
+      <caption>A parking meter in the middle of a snow bank.</caption>
+    </captions>
+</image>

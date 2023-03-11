@@ -1,0 +1,73 @@
+<image>
+  <image-id>2318601</image-id>
+  <coco-id>209062</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3957850</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3288782</subject>
+      <object>3431732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4500363</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3288782</subject>
+      <object>3057691</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4500364</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3224495</subject>
+      <object>3224496</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>205</h>
+      <object_id>3288782</object_id>
+      <w>214</w>
+      <y>50</y>
+      <x>248</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>165</h>
+      <object_id>3431732</object_id>
+      <w>415</w>
+      <y>162</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>152</h>
+      <object_id>3057691</object_id>
+      <w>380</w>
+      <y>179</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>green leaves</name>
+      <h>85</h>
+      <object_id>3224495</object_id>
+      <w>157</w>
+      <y>220</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>155</h>
+      <object_id>3224496</object_id>
+      <w>319</w>
+      <y>177</y>
+      <x>161</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large bird sits at the top of a tree. </caption>
+      <caption>A VERY BIG BIRD PERCHED ON A BRANCH ON A TREE</caption>
+      <caption>Bird sitting on top branch of tree looking out</caption>
+      <caption>Large bird of prey standing on branch  on clear day.</caption>
+      <caption>A large bird perched on top of a tree with lots of leaves.</caption>
+    </captions>
+</image>

@@ -1,0 +1,51 @@
+<image>
+  <image-id>2398537</image-id>
+  <coco-id>280642</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>923599</relationship_id>
+      <predicate>ON</predicate>
+      <subject>424284</subject>
+      <object>424285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>923600</relationship_id>
+      <predicate>IN</predicate>
+      <subject>424286</subject>
+      <object>424285</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ripples</name>
+      <h>23</h>
+      <object_id>424284</object_id>
+      <w>44</w>
+      <y>155</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>25</h>
+      <object_id>424285</object_id>
+      <w>14</w>
+      <y>165</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>23</h>
+      <object_id>424286</object_id>
+      <w>15</w>
+      <y>159</y>
+      <x>372</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person swims alone in a pool at sunset.</caption>
+      <caption>a person in a large pool next to resort and mountains.</caption>
+      <caption>The hotel has a large pool for the guests to swim in. </caption>
+      <caption>A vacation resort with a man in a pool. </caption>
+      <caption>People swim in a pool on a beach resort.</caption>
+    </captions>
+</image>

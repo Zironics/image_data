@@ -1,0 +1,90 @@
+<image>
+  <image-id>2341972</image-id>
+  <coco-id>206216</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2767799</relationship_id>
+      <predicate>ON</predicate>
+      <subject>938324</subject>
+      <object>938332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2767800</relationship_id>
+      <predicate>has</predicate>
+      <subject>938324</subject>
+      <object>938327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2767801</relationship_id>
+      <predicate>has</predicate>
+      <subject>938324</subject>
+      <object>938328</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2767802</relationship_id>
+      <predicate>ON</predicate>
+      <subject>938333</subject>
+      <object>938332</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>decorated</attribute>
+        <attribute>upside down</attribute>
+      </attributes>
+      <name>skateboard</name>
+      <h>121</h>
+      <object_id>938324</object_id>
+      <w>62</w>
+      <y>189</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>211</h>
+      <object_id>938332</object_id>
+      <w>339</w>
+      <y>101</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>17</h>
+      <object_id>938327</object_id>
+      <w>16</w>
+      <y>193</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>15</h>
+      <object_id>938328</object_id>
+      <w>16</w>
+      <y>195</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>stick</name>
+      <h>52</h>
+      <object_id>938333</object_id>
+      <w>23</w>
+      <y>258</y>
+      <x>161</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Skate board lying upside down in small clearing among plants.</caption>
+      <caption>a skateboard that is sitting on the ground</caption>
+      <caption>A skate board laying on the ground under some trees.</caption>
+      <caption>A grassy area with a red skateboard on it next to plastic bags.</caption>
+      <caption>An upside down skateboard surrounded by black bags</caption>
+    </captions>
+</image>

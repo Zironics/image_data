@@ -1,0 +1,82 @@
+<image>
+  <image-id>2406486</image-id>
+  <coco-id>198308</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1705060</relationship_id>
+      <predicate>behind</predicate>
+      <subject>652223</subject>
+      <object>652220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1705061</relationship_id>
+      <predicate>has</predicate>
+      <subject>652220</subject>
+      <object>652230</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1705062</relationship_id>
+      <predicate>has</predicate>
+      <subject>652220</subject>
+      <object>652225</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+        <attribute>yellow</attribute>
+        <attribute>flower</attribute>
+        <attribute>multi-color</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>39</h>
+      <object_id>652223</object_id>
+      <w>52</w>
+      <y>26</y>
+      <x>381</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+        <attribute>looking</attribute>
+        <attribute>resting</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>316</h>
+      <object_id>652220</object_id>
+      <w>316</w>
+      <y>31</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>22</h>
+      <object_id>652230</object_id>
+      <w>56</w>
+      <y>137</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>35</h>
+      <object_id>652225</object_id>
+      <w>49</w>
+      <y>23</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman wearing glasses while holding a brown dog.</caption>
+      <caption>A woman's face covered by a hairy animal.</caption>
+      <caption>A woman peeking out behind a dog that is laying across her face.</caption>
+      <caption>A woman peeking over the back of a furry animal.</caption>
+      <caption>A woman wearing glasses with a cat on her neck</caption>
+    </captions>
+</image>

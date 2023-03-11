@@ -1,0 +1,96 @@
+<image>
+  <image-id>2362616</image-id>
+  <coco-id>389133</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2112986</relationship_id>
+      <predicate>with</predicate>
+      <subject>772725</subject>
+      <object>772730</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2112987</relationship_id>
+      <predicate>ON</predicate>
+      <subject>772734</subject>
+      <object>772735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2112988</relationship_id>
+      <predicate>IN</predicate>
+      <subject>772729</subject>
+      <object>772743</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>racing</attribute>
+        <attribute>shaded</attribute>
+        <attribute>wearing</attribute>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>skiers</name>
+      <h>117</h>
+      <object_id>772725</object_id>
+      <w>256</w>
+      <y>166</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>held</attribute>
+      </attributes>
+      <name>poles</name>
+      <h>29</h>
+      <object_id>772730</object_id>
+      <w>57</w>
+      <y>242</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>skiing</name>
+      <h>168</h>
+      <object_id>772734</object_id>
+      <w>348</w>
+      <y>149</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>117</h>
+      <object_id>772735</object_id>
+      <w>60</w>
+      <y>164</y>
+      <x>253</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>53</h>
+      <object_id>772729</object_id>
+      <w>164</w>
+      <y>36</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>74</h>
+      <object_id>772743</object_id>
+      <w>373</w>
+      <y>13</y>
+      <x>69</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men skiing down a snow covered ski slope.</caption>
+      <caption>Two people in jackets skiing down hill with mountain in the background.</caption>
+      <caption>There are two skiers moving quickly down a slope</caption>
+      <caption>Two skiers racing down the side of a ski slope.</caption>
+      <caption>Two people going down the mountain side riding on skis</caption>
+    </captions>
+</image>

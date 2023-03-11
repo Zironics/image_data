@@ -1,0 +1,73 @@
+<image>
+  <image-id>1592779</image-id>
+  <coco-id>268396</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4087092</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1612558</subject>
+      <object>3711122</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265087</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1612573</subject>
+      <object>3798056</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265088</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1612574</subject>
+      <object>3798056</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>letter</name>
+      <h>32</h>
+      <object_id>1612558</object_id>
+      <w>17</w>
+      <y>396</y>
+      <x>547</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>47</h>
+      <object_id>3711122</object_id>
+      <w>169</w>
+      <y>389</y>
+      <x>519</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>219</h>
+      <object_id>1612573</object_id>
+      <w>111</w>
+      <y>266</y>
+      <x>737</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>787</h>
+      <object_id>3798056</object_id>
+      <w>1184</w>
+      <y>6</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>277</h>
+      <object_id>1612574</object_id>
+      <w>133</w>
+      <y>303</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stop sign with a green street sign posted above it.</caption>
+      <caption>A street sign with the name Peepee Falls Street.</caption>
+      <caption>A sign and some trees are being displayed in a neighborhood.</caption>
+      <caption>A street sign "PeePee Falls St." sits on top of a stop sign.</caption>
+      <caption>A street sign can be found near trees</caption>
+    </captions>
+</image>

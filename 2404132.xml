@@ -1,0 +1,326 @@
+<image>
+  <image-id>2404132</image-id>
+  <coco-id>157726</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3253107</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>1118577</subject>
+      <object>1118578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253108</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1118582</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253109</relationship_id>
+      <predicate>at top of</predicate>
+      <subject>1118584</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253110</relationship_id>
+      <predicate>written on</predicate>
+      <subject>1118586</subject>
+      <object>1118587</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253111</relationship_id>
+      <predicate>has</predicate>
+      <subject>1118591</subject>
+      <object>1118592</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253112</relationship_id>
+      <predicate>written on</predicate>
+      <subject>1118584</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253113</relationship_id>
+      <predicate>visible on</predicate>
+      <subject>1118577</subject>
+      <object>1118594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253114</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>1118595</subject>
+      <object>1118577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253115</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>1118596</subject>
+      <object>1118577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253116</relationship_id>
+      <predicate>appears on a</predicate>
+      <subject>1118583</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253117</relationship_id>
+      <predicate>appears on a</predicate>
+      <subject>1118597</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253118</relationship_id>
+      <predicate>under a</predicate>
+      <subject>1118577</subject>
+      <object>1118598</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253119</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118600</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253120</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118601</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253121</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118602</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253122</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118603</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253123</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118604</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253124</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118605</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253125</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118606</subject>
+      <object>1118585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3253126</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>1118607</subject>
+      <object>1118585</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>shiny</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>car</name>
+      <h>55</h>
+      <object_id>1118577</object_id>
+      <w>81</w>
+      <y>259</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>142</h>
+      <object_id>1118578</object_id>
+      <w>346</w>
+      <y>233</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>writing</name>
+      <h>333</h>
+      <object_id>1118582</object_id>
+      <w>175</w>
+      <y>1</y>
+      <x>14</x>
+    </object>
+    <object>
+      <h>352</h>
+      <object_id>1118585</object_id>
+      <w>210</w>
+      <y>0</y>
+      <x>0</x>
+      <name>sign</name>
+    </object>
+    <object>
+      <name>bus stop</name>
+      <h>99</h>
+      <object_id>1118584</object_id>
+      <w>134</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>no parking</name>
+      <h>25</h>
+      <object_id>1118586</object_id>
+      <w>32</w>
+      <y>157</y>
+      <x>394</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>59</h>
+      <object_id>1118587</object_id>
+      <w>40</w>
+      <y>151</y>
+      <x>395</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>36</h>
+      <object_id>1118591</object_id>
+      <w>33</w>
+      <y>251</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>steps</name>
+      <h>42</h>
+      <object_id>1118592</object_id>
+      <w>87</w>
+      <y>277</y>
+      <x>201</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>147</h>
+      <object_id>1118594</object_id>
+      <w>386</w>
+      <y>228</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>16</h>
+      <object_id>1118595</object_id>
+      <w>8</w>
+      <y>279</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>16</h>
+      <object_id>1118596</object_id>
+      <w>10</w>
+      <y>273</y>
+      <x>347</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>phone number</name>
+      <h>59</h>
+      <object_id>1118583</object_id>
+      <w>91</w>
+      <y>267</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>handicap symbol</name>
+      <h>19</h>
+      <object_id>1118597</object_id>
+      <w>15</w>
+      <y>50</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>bridge</name>
+      <h>260</h>
+      <object_id>1118598</object_id>
+      <w>497</w>
+      <y>4</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>letter b</name>
+      <h>41</h>
+      <object_id>1118600</object_id>
+      <w>18</w>
+      <y>58</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>letter u</name>
+      <h>34</h>
+      <object_id>1118601</object_id>
+      <w>18</w>
+      <y>53</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>letter s</name>
+      <h>33</h>
+      <object_id>1118602</object_id>
+      <w>17</w>
+      <y>45</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>letter o</name>
+      <h>38</h>
+      <object_id>1118603</object_id>
+      <w>21</w>
+      <y>9</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>letter p</name>
+      <h>45</h>
+      <object_id>1118604</object_id>
+      <w>22</w>
+      <y>2</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>number 66</name>
+      <h>57</h>
+      <object_id>1118605</object_id>
+      <w>39</w>
+      <y>97</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>number 68</name>
+      <h>56</h>
+      <object_id>1118606</object_id>
+      <w>37</w>
+      <y>154</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>number 82</name>
+      <h>54</h>
+      <object_id>1118607</object_id>
+      <w>36</w>
+      <y>214</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bus stop sign on a city street.</caption>
+      <caption>A blue bus stop sign near a highway.</caption>
+      <caption>A large blue bus sign sitting on the side of a road.</caption>
+      <caption>A bus stop sign on a city street. </caption>
+      <caption>A bus stop sign on the side of the road.</caption>
+    </captions>
+</image>

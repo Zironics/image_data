@@ -1,0 +1,68 @@
+<image>
+  <image-id>2327686</image-id>
+  <coco-id>362676</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4073751</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3485291</subject>
+      <object>3485290</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4028379</relationship_id>
+      <predicate>near</predicate>
+      <subject>3434795</subject>
+      <object>3434796</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>hands</name>
+      <h>21</h>
+      <object_id>3485291</object_id>
+      <w>9</w>
+      <y>131</y>
+      <x>381</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round </attribute>
+      </attributes>
+      <name>clock</name>
+      <h>37</h>
+      <object_id>3485290</object_id>
+      <w>32</w>
+      <y>123</y>
+      <x>369</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown and black</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>28</h>
+      <object_id>3434795</object_id>
+      <w>43</w>
+      <y>225</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>173</h>
+      <object_id>3434796</object_id>
+      <w>98</w>
+      <y>44</y>
+      <x>185</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a large room with large windows with a table with chairs</caption>
+      <caption>A room with a wooden desk next to a very large window.</caption>
+      <caption>There is an ornate stained glass window at the end of the room.</caption>
+      <caption>A room with stained glass windows that have french doors opened.</caption>
+      <caption>A photo taken in large room with a table and bench.</caption>
+    </captions>
+</image>

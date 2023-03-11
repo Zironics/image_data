@@ -1,0 +1,109 @@
+<image>
+  <image-id>2415450</image-id>
+  <coco-id>445810</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3675518</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2721278</subject>
+      <object>3190574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675519</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2742461</subject>
+      <object>3190574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675520</relationship_id>
+      <predicate>has</predicate>
+      <subject>3540327</subject>
+      <object>3402953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675521</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3540328</subject>
+      <object>3190574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675522</relationship_id>
+      <predicate>using</predicate>
+      <subject>2772204</subject>
+      <object>2772205</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>keyboard</name>
+      <h>107</h>
+      <object_id>2721278</object_id>
+      <w>87</w>
+      <y>187</y>
+      <x>261</x>
+    </object>
+    <object>
+      <h>177</h>
+      <object_id>3190574</object_id>
+      <w>195</w>
+      <y>104</y>
+      <x>216</x>
+      <name>laptop</name>
+    </object>
+    <object>
+      <name>mouse pad</name>
+      <h>24</h>
+      <object_id>2742461</object_id>
+      <w>25</w>
+      <y>221</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>321</h>
+      <object_id>3540327</object_id>
+      <w>190</w>
+      <y>47</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>brown hair</name>
+      <h>36</h>
+      <object_id>3402953</object_id>
+      <w>47</w>
+      <y>94</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>146</h>
+      <object_id>3540328</object_id>
+      <w>73</w>
+      <y>105</y>
+      <x>335</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>55</h>
+      <object_id>2772204</object_id>
+      <w>88</w>
+      <y>284</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>mouse</name>
+      <h>24</h>
+      <object_id>2772205</object_id>
+      <w>49</w>
+      <y>154</y>
+      <x>247</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some small children playing on laptop games excited</caption>
+      <caption>Two children work at a desk on laptop computers.</caption>
+      <caption>Two young ladies work on laptops on a white counter top.</caption>
+      <caption>A little girl sitting in front of a laptop computer.</caption>
+      <caption>Two girls who are sitting in front of laptops.</caption>
+    </captions>
+</image>

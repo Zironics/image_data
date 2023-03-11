@@ -1,0 +1,130 @@
+<image>
+  <image-id>2329674</image-id>
+  <coco-id>287366</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3754311</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3070139</subject>
+      <object>3070140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4468372</relationship_id>
+      <predicate>holding an</predicate>
+      <subject>2754231</subject>
+      <object>3093091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4129542</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>2754231</subject>
+      <object>3406325</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3935128</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2754231</subject>
+      <object>3445033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997087</relationship_id>
+      <predicate>growing through</predicate>
+      <subject>2774493</subject>
+      <object>2774492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997088</relationship_id>
+      <predicate>growing through</predicate>
+      <subject>2774494</subject>
+      <object>2774492</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>stool</name>
+      <h>70</h>
+      <object_id>3070139</object_id>
+      <w>56</w>
+      <y>91</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>deck</name>
+      <h>194</h>
+      <object_id>3070140</object_id>
+      <w>360</w>
+      <y>133</y>
+      <x>138</x>
+    </object>
+    <object>
+      <h>214</h>
+      <object_id>2754231</object_id>
+      <w>123</w>
+      <y>83</y>
+      <x>220</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>127</h>
+      <object_id>3093091</object_id>
+      <w>178</w>
+      <y>33</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>97</h>
+      <object_id>3406325</object_id>
+      <w>80</w>
+      <y>194</y>
+      <x>222</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>49</h>
+      <object_id>3445033</object_id>
+      <w>73</w>
+      <y>144</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>vines</name>
+      <h>88</h>
+      <object_id>2774493</object_id>
+      <w>187</w>
+      <y>93</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>concrete</name>
+      <h>81</h>
+      <object_id>2774492</object_id>
+      <w>497</w>
+      <y>88</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>vines</name>
+      <h>60</h>
+      <object_id>2774494</object_id>
+      <w>191</w>
+      <y>101</y>
+      <x>302</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting outside under an umbrella using a laptop.</caption>
+      <caption>a man that is under a blue umbrella</caption>
+      <caption>A man in a suite sitting in a chair with a laptop and holding an umbrella.</caption>
+      <caption>A young man dressed in a suit sits under an umbrella. </caption>
+      <caption>A man sitting on a chair with a laptop holding an umbrella.</caption>
+    </captions>
+</image>

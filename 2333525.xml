@@ -1,0 +1,93 @@
+<image>
+  <image-id>2333525</image-id>
+  <coco-id>176278</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3874711</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>2978515</subject>
+      <object>2978516</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260352</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2978515</subject>
+      <object>3066344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260353</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3478399</subject>
+      <object>3795315</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991100</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2978515</subject>
+      <object>2879849</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>174</h>
+      <object_id>2978515</object_id>
+      <w>78</w>
+      <y>182</y>
+      <x>71</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>88</h>
+      <object_id>2978516</object_id>
+      <w>78</w>
+      <y>193</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>11</h>
+      <object_id>3066344</object_id>
+      <w>18</w>
+      <y>187</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>curb</name>
+      <h>57</h>
+      <object_id>3478399</object_id>
+      <w>99</w>
+      <y>261</y>
+      <x>400</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>62</h>
+      <object_id>3795315</object_id>
+      <w>72</w>
+      <y>238</y>
+      <x>425</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>75</h>
+      <object_id>2879849</object_id>
+      <w>75</w>
+      <y>198</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Signs, cones and lights on a street ahead of construction equipment on a street.</caption>
+      <caption>A man walking towards a street that is closed.</caption>
+      <caption>A STREET WITH VEHICLES PASSING BY A PERSON WALKING AT THE SIDE WAY.</caption>
+      <caption>A man walks towards a set of barriers where a road is closed.</caption>
+      <caption>The man is walking forward but the road is blocked off.</caption>
+    </captions>
+</image>

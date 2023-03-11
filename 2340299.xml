@@ -1,0 +1,98 @@
+<image>
+  <image-id>2340299</image-id>
+  <coco-id>188646</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4835603</relationship_id>
+      <predicate>on</predicate>
+      <subject>4686268</subject>
+      <object>4686269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4835604</relationship_id>
+      <predicate>on</predicate>
+      <subject>4686268</subject>
+      <object>4686269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4835605</relationship_id>
+      <predicate>on</predicate>
+      <subject>4686268</subject>
+      <object>4686274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4835606</relationship_id>
+      <predicate>on</predicate>
+      <subject>4686268</subject>
+      <object>4686274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4835607</relationship_id>
+      <predicate>on</predicate>
+      <subject>4686268</subject>
+      <object>4686269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690954</relationship_id>
+      <predicate>looking for</predicate>
+      <subject>4323692</subject>
+      <object>4323693</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>feather</name>
+      <h>48</h>
+      <object_id>4686268</object_id>
+      <w>101</w>
+      <y>129</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>123</h>
+      <object_id>4686269</object_id>
+      <w>168</w>
+      <y>101</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>136</h>
+      <object_id>4686274</object_id>
+      <w>169</w>
+      <y>96</y>
+      <x>62</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>three</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>birds</name>
+      <h>130</h>
+      <object_id>4323692</object_id>
+      <w>344</w>
+      <y>85</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>144</h>
+      <object_id>4323693</object_id>
+      <w>440</w>
+      <y>164</y>
+      <x>18</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Little white birds are along the waters edge.</caption>
+      <caption>Little gray and white birds standing on a sandy beach.</caption>
+      <caption>Several birds visit a grassy and sandy area,</caption>
+      <caption>THREE BIRDS NEAR STRAWS LYING ON THE SAND.</caption>
+      <caption>a close up of a bird with other birds in the background</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2384977</image-id>
+  <coco-id>16955</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4669804</relationship_id>
+      <predicate>ON A</predicate>
+      <subject>4269364</subject>
+      <object>4269365</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>LARGE</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>188</h>
+      <object_id>4269364</object_id>
+      <w>183</w>
+      <y>118</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>181</h>
+      <object_id>4269365</object_id>
+      <w>37</w>
+      <y>308</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large clock mounted in the center of a train station with no numbers.</caption>
+      <caption>A clock shows the time in an airport.</caption>
+      <caption>A large clock in a mass transit station.</caption>
+      <caption>A pole clock lines the center of a subway terminal.</caption>
+      <caption>A large clock is at the subway station.</caption>
+    </captions>
+</image>

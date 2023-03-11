@@ -1,0 +1,117 @@
+<image>
+  <image-id>2329002</image-id>
+  <coco-id>321438</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3746304</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2898561</subject>
+      <object>2898562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4469738</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3730341</subject>
+      <object>3373447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141372</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3358176</subject>
+      <object>3358177</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141373</relationship_id>
+      <predicate>wrapped around</predicate>
+      <subject>3073952</subject>
+      <object>3073953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141374</relationship_id>
+      <predicate>wrapped around</predicate>
+      <subject>3073952</subject>
+      <object>3073954</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>knife</name>
+      <h>70</h>
+      <object_id>2898561</object_id>
+      <w>184</w>
+      <y>334</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>106</h>
+      <object_id>2898562</object_id>
+      <w>306</w>
+      <y>392</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>green</name>
+      <h>60</h>
+      <object_id>3730341</object_id>
+      <w>190</w>
+      <y>197</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>124</h>
+      <object_id>3373447</object_id>
+      <w>216</w>
+      <y>155</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>olive</name>
+      <h>19</h>
+      <object_id>3358176</object_id>
+      <w>17</w>
+      <y>272</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>87</h>
+      <object_id>3358177</object_id>
+      <w>133</w>
+      <y>228</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>napkin</name>
+      <h>40</h>
+      <object_id>3073952</object_id>
+      <w>26</w>
+      <y>138</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>utensil</name>
+      <h>11</h>
+      <object_id>3073953</object_id>
+      <w>7</w>
+      <y>167</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>utensil</name>
+      <h>8</h>
+      <object_id>3073954</object_id>
+      <w>9</w>
+      <y>169</y>
+      <x>231</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A table topped with a pizza and plates of pizza.</caption>
+      <caption>A person with pizza in hand, and other pizzas on the table.</caption>
+      <caption>Several plates with slices of pizza on them.</caption>
+      <caption>A dining table filled with pizza and drinks.</caption>
+      <caption>A few different plates of food on the table with silverware and glasses. </caption>
+    </captions>
+</image>

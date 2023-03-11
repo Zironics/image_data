@@ -1,0 +1,59 @@
+<image>
+  <image-id>2382723</image-id>
+  <coco-id>455943</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4779283</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4546133</subject>
+      <object>4546134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4779284</relationship_id>
+      <predicate>part of</predicate>
+      <subject>4546137</subject>
+      <object>4546136</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>jet</name>
+      <h>6</h>
+      <object_id>4546133</object_id>
+      <w>7</w>
+      <y>310</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>25</h>
+      <object_id>4546134</object_id>
+      <w>39</w>
+      <y>303</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>underside</name>
+      <h>39</h>
+      <object_id>4546137</object_id>
+      <w>30</w>
+      <y>303</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>airplane</name>
+      <h>49</h>
+      <object_id>4546136</object_id>
+      <w>62</w>
+      <y>297</y>
+      <x>142</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane high in the sky flying overhead.</caption>
+      <caption>A commercial aiplane in flight against a cloudy sky.</caption>
+      <caption>A large airplane flying overhead in the sky</caption>
+      <caption>A plane flying high up in the air.</caption>
+      <caption>A plane is flying through the sky on a fairly clear day.</caption>
+    </captions>
+</image>

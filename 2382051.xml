@@ -1,0 +1,103 @@
+<image>
+  <image-id>2382051</image-id>
+  <coco-id>268798</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3584557</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1331524</subject>
+      <object>1331525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3584558</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1331526</subject>
+      <object>1331524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3584559</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1331527</subject>
+      <object>1331524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3584560</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1331526</subject>
+      <object>1331524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4294410</relationship_id>
+      <predicate>wears a</predicate>
+      <subject>1331526</subject>
+      <object>3831902</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+        <attribute>long</attribute>
+        <attribute>small</attribute>
+        <attribute>stopped</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>277</h>
+      <object_id>1331524</object_id>
+      <w>500</w>
+      <y>31</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>runway</name>
+      <h>327</h>
+      <object_id>1331525</object_id>
+      <w>490</w>
+      <y>4</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>man</name>
+      <h>16</h>
+      <object_id>1331526</object_id>
+      <w>34</w>
+      <y>119</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>person</name>
+      <h>102</h>
+      <object_id>1331527</object_id>
+      <w>61</w>
+      <y>214</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>vest</name>
+      <h>43</h>
+      <object_id>3831902</object_id>
+      <w>31</w>
+      <y>231</y>
+      <x>290</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a very large airplane that is blue and white</caption>
+      <caption>An airplane is on the airstrip preparing to take off.</caption>
+      <caption>A man in a safety vest stands in front of a small airplane.</caption>
+      <caption>An airplane is sitting out on the runway.</caption>
+      <caption>The airplane is on the runway of the airport.</caption>
+    </captions>
+</image>

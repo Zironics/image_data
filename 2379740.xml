@@ -1,0 +1,196 @@
+<image>
+  <image-id>2379740</image-id>
+  <coco-id>160746</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3612034</relationship_id>
+      <predicate>has</predicate>
+      <subject>1354805</subject>
+      <object>1354806</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612035</relationship_id>
+      <predicate>has</predicate>
+      <subject>1354805</subject>
+      <object>1354808</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612036</relationship_id>
+      <predicate>has</predicate>
+      <subject>1354810</subject>
+      <object>1354811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612037</relationship_id>
+      <predicate>has</predicate>
+      <subject>1354805</subject>
+      <object>1354812</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612038</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1354802</subject>
+      <object>1354803</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612039</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1354802</subject>
+      <object>1354803</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612040</relationship_id>
+      <predicate>are on top of</predicate>
+      <subject>1354802</subject>
+      <object>1354803</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612041</relationship_id>
+      <predicate>has</predicate>
+      <subject>1354805</subject>
+      <object>1354808</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612042</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1354802</subject>
+      <object>1354814</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612043</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1354816</subject>
+      <object>1354804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3612044</relationship_id>
+      <predicate>has</predicate>
+      <subject>1354805</subject>
+      <object>1354812</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>near camera</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>88</h>
+      <object_id>1354805</object_id>
+      <w>96</w>
+      <y>256</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>11</h>
+      <object_id>1354806</object_id>
+      <w>12</w>
+      <y>328</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>30</h>
+      <object_id>1354808</object_id>
+      <w>52</w>
+      <y>307</y>
+      <x>315</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>turned around</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>61</h>
+      <object_id>1354810</object_id>
+      <w>57</w>
+      <y>159</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>11</h>
+      <object_id>1354811</object_id>
+      <w>8</w>
+      <y>173</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>ears</name>
+      <h>27</h>
+      <object_id>1354812</object_id>
+      <w>36</w>
+      <y>299</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>feeding</attribute>
+        <attribute>grazing</attribute>
+        <attribute>white</attribute>
+        <attribute>wooly</attribute>
+        <attribute>dirty</attribute>
+        <attribute>fluffy</attribute>
+        <attribute>together</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>251</h>
+      <object_id>1354802</object_id>
+      <w>343</w>
+      <y>91</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>covered in gras</attribute>
+        <attribute>in fog</attribute>
+        <attribute>green</attribute>
+        <attribute>foggy</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>372</h>
+      <object_id>1354803</object_id>
+      <w>499</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>38</h>
+      <object_id>1354814</object_id>
+      <w>36</w>
+      <y>299</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>31</h>
+      <object_id>1354816</object_id>
+      <w>111</w>
+      <y>53</y>
+      <x>389</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>large</attribute>
+        <attribute>barely visible</attribute>
+        <attribute>in fog</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>88</h>
+      <object_id>1354804</object_id>
+      <w>93</w>
+      <y>2</y>
+      <x>394</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of sheep on a foggy hillside eating grass.</caption>
+      <caption>A number of sheep grazing in the fog. </caption>
+      <caption>sheep grazing in a grassy area in the fog</caption>
+      <caption>A group of sheep in the field eating green grass.</caption>
+      <caption>a number of sheep on a field of grass</caption>
+    </captions>
+</image>

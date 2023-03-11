@@ -1,0 +1,62 @@
+<image>
+  <image-id>2331585</image-id>
+  <coco-id>61262</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4004952</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>2832713</subject>
+      <object>2832714</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4004953</relationship_id>
+      <predicate>swimming in</predicate>
+      <subject>2740136</subject>
+      <object>2740135</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>device</name>
+      <h>217</h>
+      <object_id>2832713</object_id>
+      <w>260</w>
+      <y>52</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>140</h>
+      <object_id>2832714</object_id>
+      <w>500</w>
+      <y>190</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>201</h>
+      <object_id>2740136</object_id>
+      <w>220</w>
+      <y>64</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>153</h>
+      <object_id>2740135</object_id>
+      <w>497</w>
+      <y>175</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large white polar bear holding onto an object while floating in blue water.</caption>
+      <caption>A polar bear is in the water holding on to a disk.</caption>
+      <caption>A polar bear holding on to a toy in the water</caption>
+      <caption>Polar bear hanging onto a floating device in water</caption>
+      <caption>A polar bear in the water playing with a giant disc.</caption>
+    </captions>
+</image>

@@ -1,0 +1,71 @@
+<image>
+  <image-id>713046</image-id>
+  <coco-id>298464</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4057430</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1578136</subject>
+      <object>1578137</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057431</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1578143</subject>
+      <object>1578140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057432</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1578143</subject>
+      <object>1578143</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>guy</name>
+      <h>615</h>
+      <object_id>1578136</object_id>
+      <w>288</w>
+      <y>46</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green zipper</attribute>
+      </attributes>
+      <name>sweater</name>
+      <h>291</h>
+      <object_id>1578137</object_id>
+      <w>257</w>
+      <y>165</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black zipper </attribute>
+      </attributes>
+      <h>264</h>
+      <object_id>1578143</object_id>
+      <w>263</w>
+      <y>0</y>
+      <x>362</x>
+      <name>coat</name>
+    </object>
+    <object>
+      <h>283</h>
+      <object_id>1578140</object_id>
+      <w>68</w>
+      <y>204</y>
+      <x>2</x>
+      <name>arm</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people are sitting and standing around a cake with colorful icing.</caption>
+      <caption>there are many people that are sitting in front of a cake</caption>
+      <caption>A couple of people getting ready to eat a giant cake.</caption>
+      <caption>Three young men sitting close behind a tasty square cake.</caption>
+      <caption>A group of people sitting around a sheet cake.</caption>
+    </captions>
+</image>

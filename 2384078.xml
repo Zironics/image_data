@@ -1,0 +1,229 @@
+<image>
+  <image-id>2384078</image-id>
+  <coco-id>147616</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4308156</relationship_id>
+      <predicate>has</predicate>
+      <subject>3847310</subject>
+      <object>3847295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308157</relationship_id>
+      <predicate>has</predicate>
+      <subject>3847301</subject>
+      <object>692779</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308158</relationship_id>
+      <predicate>ON</predicate>
+      <subject>692808</subject>
+      <object>3847301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308159</relationship_id>
+      <predicate>has</predicate>
+      <subject>3847299</subject>
+      <object>692781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308160</relationship_id>
+      <predicate>has</predicate>
+      <subject>3847301</subject>
+      <object>692782</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308161</relationship_id>
+      <predicate>ON</predicate>
+      <subject>692784</subject>
+      <object>3847307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308162</relationship_id>
+      <predicate>has</predicate>
+      <subject>3847301</subject>
+      <object>3847305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308163</relationship_id>
+      <predicate>has</predicate>
+      <subject>3847301</subject>
+      <object>692786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308164</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3847307</subject>
+      <object>3847301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308165</relationship_id>
+      <predicate>ON</predicate>
+      <subject>692788</subject>
+      <object>3847301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308166</relationship_id>
+      <predicate>IN</predicate>
+      <subject>692789</subject>
+      <object>3847310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308167</relationship_id>
+      <predicate>color</predicate>
+      <subject>3847301</subject>
+      <object>692791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1836813</relationship_id>
+      <predicate>part of sky</predicate>
+      <subject>692805</subject>
+      <object>692806</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>247</h>
+      <object_id>3847310</object_id>
+      <w>329</w>
+      <y>250</y>
+      <x>1</x>
+      <name>train station</name>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>33</h>
+      <object_id>3847295</object_id>
+      <w>330</w>
+      <y>464</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>145</h>
+      <object_id>3847301</object_id>
+      <w>328</w>
+      <y>319</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>window of  train</name>
+      <h>44</h>
+      <object_id>692779</object_id>
+      <w>69</w>
+      <y>352</y>
+      <x>61</x>
+    </object>
+    <object>
+      <h>9</h>
+      <object_id>692808</object_id>
+      <w>6</w>
+      <y>339</y>
+      <x>134</x>
+      <name>number 2</name>
+    </object>
+    <object>
+      <name>train terminal</name>
+      <h>494</h>
+      <object_id>3847299</object_id>
+      <w>324</w>
+      <y>5</y>
+      <x>5</x>
+    </object>
+    <object>
+      <h>304</h>
+      <object_id>692781</object_id>
+      <w>329</w>
+      <y>3</y>
+      <x>1</x>
+      <name>top of terminal</name>
+    </object>
+    <object>
+      <h>18</h>
+      <object_id>692782</object_id>
+      <w>326</w>
+      <y>447</y>
+      <x>4</x>
+      <name>bottom of train</name>
+    </object>
+    <object>
+      <name>letter "r"</name>
+      <h>54</h>
+      <object_id>692784</object_id>
+      <w>27</w>
+      <y>395</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>graffiti</name>
+      <h>72</h>
+      <object_id>3847307</object_id>
+      <w>301</w>
+      <y>391</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>113</h>
+      <object_id>3847305</object_id>
+      <w>42</w>
+      <y>335</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>back window</name>
+      <h>51</h>
+      <object_id>692786</object_id>
+      <w>40</w>
+      <y>348</y>
+      <x>292</x>
+    </object>
+    <object>
+      <name>two red stripes</name>
+      <h>21</h>
+      <object_id>692788</object_id>
+      <w>23</w>
+      <y>335</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>glass roof</name>
+      <h>310</h>
+      <object_id>692789</object_id>
+      <w>324</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>2 is white</name>
+      <h>12</h>
+      <object_id>692791</object_id>
+      <w>10</w>
+      <y>337</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>part of the sky.</name>
+      <h>123</h>
+      <object_id>692805</object_id>
+      <w>109</w>
+      <y>180</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>part of the sky</name>
+      <h>124</h>
+      <object_id>692806</object_id>
+      <w>96</w>
+      <y>185</y>
+      <x>235</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Graffiti is painted on the side of a train.</caption>
+      <caption>a train car with graphittie on it is stopped in the station.</caption>
+      <caption>A view of a some graffiti on a train passing by.</caption>
+      <caption>Graffiti on a train car that is parked at a station. </caption>
+      <caption>A train sitting in a train station covered in graffiti.</caption>
+    </captions>
+</image>

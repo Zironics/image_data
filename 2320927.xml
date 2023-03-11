@@ -1,0 +1,60 @@
+<image>
+  <image-id>2320927</image-id>
+  <coco-id>199196</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3661370</relationship_id>
+      <predicate>over</predicate>
+      <subject>3083119</subject>
+      <object>3165696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3661371</relationship_id>
+      <predicate>of top</predicate>
+      <subject>3083119</subject>
+      <object>3165696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3833728</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3083118</subject>
+      <object>3083119</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>228</h>
+      <object_id>3083119</object_id>
+      <w>220</w>
+      <y>223</y>
+      <x>69</x>
+      <name>sign</name>
+    </object>
+    <object>
+      <name>signs</name>
+      <h>223</h>
+      <object_id>3165696</object_id>
+      <w>246</w>
+      <y>22</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>bolt</name>
+      <h>29</h>
+      <object_id>3083118</object_id>
+      <w>25</w>
+      <y>124</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stop sign with two one way signs on top of it.</caption>
+      <caption>A red stop sign with two one way signs above it.</caption>
+      <caption>Two one way signs and one stop sign.</caption>
+      <caption>A stop sign with other street signs on top of it.</caption>
+      <caption>Stop sign that has two one way signs on top</caption>
+    </captions>
+</image>

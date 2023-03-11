@@ -1,0 +1,88 @@
+<image>
+  <image-id>2338765</image-id>
+  <coco-id>222555</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4797098</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>4591189</subject>
+      <object>4591190</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797099</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4591189</subject>
+      <object>4591193</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797101</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591189</subject>
+      <object>4591199</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4797102</relationship_id>
+      <predicate>has</predicate>
+      <subject>4591189</subject>
+      <object>4591202</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>372</h>
+      <object_id>4591189</object_id>
+      <w>187</w>
+      <y>20</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>22</h>
+      <object_id>4591190</object_id>
+      <w>26</w>
+      <y>82</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>40</h>
+      <object_id>4591193</object_id>
+      <w>51</w>
+      <y>17</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bent</attribute>
+      </attributes>
+      <name>arm</name>
+      <h>40</h>
+      <object_id>4591199</object_id>
+      <w>92</w>
+      <y>99</y>
+      <x>129</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>spread</attribute>
+      </attributes>
+      <name>fingers</name>
+      <h>37</h>
+      <object_id>4591202</object_id>
+      <w>40</w>
+      <y>93</y>
+      <x>184</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man swinging a tennis racquet at a tennis ball.</caption>
+      <caption>a split photo of a man hitting a tennis ball </caption>
+      <caption>Double tennis players have double rackets striking double tennis balls.</caption>
+      <caption>Two parallel images of a man hitting a forehand shot with a tennis racket.</caption>
+      <caption>A man hitting a tennis ball with a racquet.</caption>
+    </captions>
+</image>

@@ -1,0 +1,153 @@
+<image>
+  <image-id>2386888</image-id>
+  <coco-id>328203</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4580020</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4047973</subject>
+      <object>4047972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580027</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4047990</subject>
+      <object>4047996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580037</relationship_id>
+      <predicate>mown in</predicate>
+      <subject>4048011</subject>
+      <object>4048012</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580041</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>4048020</subject>
+      <object>4048019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580042</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>4048020</subject>
+      <object>4048019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580043</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4047990</subject>
+      <object>4048023</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580044</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4047990</subject>
+      <object>4048024</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>player</name>
+      <h>128</h>
+      <object_id>4047973</object_id>
+      <w>112</w>
+      <y>172</y>
+      <x>384</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>17</h>
+      <object_id>4047972</object_id>
+      <w>29</w>
+      <y>196</y>
+      <x>413</x>
+    </object>
+    <object>
+      <name>baseball player</name>
+      <h>100</h>
+      <object_id>4047990</object_id>
+      <w>60</w>
+      <y>68</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>batting helmet</name>
+      <h>17</h>
+      <object_id>4047996</object_id>
+      <w>22</w>
+      <y>67</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>checkered</attribute>
+      </attributes>
+      <name>pattern</name>
+      <h>215</h>
+      <object_id>4048011</object_id>
+      <w>482</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>217</h>
+      <object_id>4048012</object_id>
+      <w>481</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chalk</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>165</h>
+      <object_id>4048020</object_id>
+      <w>415</w>
+      <y>150</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>177</h>
+      <object_id>4048019</object_id>
+      <w>481</w>
+      <y>139</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>navy colored</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>14</h>
+      <object_id>4048023</object_id>
+      <w>16</w>
+      <y>109</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>navy colored</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>11</h>
+      <object_id>4048024</object_id>
+      <w>11</w>
+      <y>93</y>
+      <x>94</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The baseball players are playing on the field.</caption>
+      <caption>a baseball player running for the base with the ball right behind him</caption>
+      <caption>A baseball player running towards base while the baseman is waiting to catch the baseball. </caption>
+      <caption>A baseball player running towards a base while a baseball flies behind him.</caption>
+      <caption>Baseball player coming in for the base, while catcher readies himself to get the ball first</caption>
+    </captions>
+</image>

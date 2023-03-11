@@ -1,0 +1,133 @@
+<image>
+  <image-id>2395484</image-id>
+  <coco-id>190015</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1011472</relationship_id>
+      <predicate>IN</predicate>
+      <subject>454004</subject>
+      <object>454004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1011473</relationship_id>
+      <predicate>near</predicate>
+      <subject>454006</subject>
+      <object>454004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1011474</relationship_id>
+      <predicate>near</predicate>
+      <subject>454004</subject>
+      <object>454006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1011475</relationship_id>
+      <predicate>ON</predicate>
+      <subject>454014</subject>
+      <object>454006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1011476</relationship_id>
+      <predicate>belongs to</predicate>
+      <subject>454007</subject>
+      <object>454006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1011477</relationship_id>
+      <predicate>has</predicate>
+      <subject>454006</subject>
+      <object>454015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1011478</relationship_id>
+      <predicate>casts</predicate>
+      <subject>454012</subject>
+      <object>454021</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>massive</attribute>
+        <attribute>large</attribute>
+        <attribute>yellowish</attribute>
+      </attributes>
+      <name>hay</name>
+      <h>201</h>
+      <object_id>454004</object_id>
+      <w>389</w>
+      <y>115</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>dump truck</attribute>
+        <attribute>parked</attribute>
+        <attribute>driverless</attribute>
+        <attribute>rusting</attribute>
+        <attribute>old</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>197</h>
+      <object_id>454006</object_id>
+      <w>195</w>
+      <y>73</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>gas tank</name>
+      <h>39</h>
+      <object_id>454014</object_id>
+      <w>42</w>
+      <y>229</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bed</name>
+      <h>94</h>
+      <object_id>454007</object_id>
+      <w>29</w>
+      <y>75</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>rust spot</name>
+      <h>11</h>
+      <object_id>454015</object_id>
+      <w>12</w>
+      <y>226</y>
+      <x>112</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>side view</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>35</h>
+      <object_id>454012</object_id>
+      <w>12</w>
+      <y>153</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>25</h>
+      <object_id>454021</object_id>
+      <w>21</w>
+      <y>183</y>
+      <x>114</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A truck parked near a tall pile of hay</caption>
+      <caption>old farm truck dumping mulch in a pile</caption>
+      <caption>a green truck a stack of hay and some trees</caption>
+      <caption>A truck parked next to a pile of hay</caption>
+      <caption>An old truck is parked near a pile of straw.</caption>
+    </captions>
+</image>

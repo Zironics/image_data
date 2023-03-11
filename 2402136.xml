@@ -1,0 +1,75 @@
+<image>
+  <image-id>2402136</image-id>
+  <coco-id>109005</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1724793</relationship_id>
+      <predicate>following</predicate>
+      <subject>658664</subject>
+      <object>658663</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1724794</relationship_id>
+      <predicate>eating</predicate>
+      <subject>658664</subject>
+      <object>658665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1724795</relationship_id>
+      <predicate>behind</predicate>
+      <subject>658664</subject>
+      <object>658663</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grazing</attribute>
+        <attribute>eating</attribute>
+        <attribute>alone</attribute>
+      </attributes>
+      <name>rhino</name>
+      <h>46</h>
+      <object_id>658664</object_id>
+      <w>62</w>
+      <y>149</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>gray</attribute>
+        <attribute>alone</attribute>
+        <attribute>adult</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>79</h>
+      <object_id>658663</object_id>
+      <w>105</w>
+      <y>118</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>brown</attribute>
+        <attribute>tall</attribute>
+        <attribute>yellow</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>14</h>
+      <object_id>658665</object_id>
+      <w>14</w>
+      <y>219</y>
+      <x>168</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An elephant and a rhinoceros stand not far from each other.</caption>
+      <caption>A rhino is near an elephant near a water hold in the forest.</caption>
+      <caption>An elephant and a rhinoceros share a field with a pond.</caption>
+      <caption>An elephant and a rhino are grazing in an open wooded area.</caption>
+      <caption>An elephant walking not to far from a rhino in a forest.</caption>
+    </captions>
+</image>

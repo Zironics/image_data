@@ -1,0 +1,135 @@
+<image>
+  <image-id>2393082</image-id>
+  <coco-id>27270</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3419481</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1223097</subject>
+      <object>1223098</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3419482</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1223097</subject>
+      <object>1223100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3419483</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1223099</subject>
+      <object>1223100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3419484</relationship_id>
+      <predicate>under</predicate>
+      <subject>1223101</subject>
+      <object>1223100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3419485</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1223099</subject>
+      <object>1223100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3419486</relationship_id>
+      <predicate>under</predicate>
+      <subject>1223103</subject>
+      <object>1223104</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grape</attribute>
+        <attribute>cooked</attribute>
+        <attribute>red</attribute>
+        <attribute>cherry</attribute>
+      </attributes>
+      <name>tomato</name>
+      <h>60</h>
+      <object_id>1223097</object_id>
+      <w>83</w>
+      <y>81</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>43</h>
+      <object_id>1223098</object_id>
+      <w>45</w>
+      <y>84</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>yellow</attribute>
+        <attribute>round</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>ceramic</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>312</h>
+      <object_id>1223100</object_id>
+      <w>497</w>
+      <y>9</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+        <attribute>halfcooked</attribute>
+        <attribute>pieced</attribute>
+        <attribute>well cooked</attribute>
+      </attributes>
+      <name>meat</name>
+      <h>30</h>
+      <object_id>1223099</object_id>
+      <w>29</w>
+      <y>186</y>
+      <x>440</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>327</h>
+      <object_id>1223101</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tomato</name>
+      <h>56</h>
+      <object_id>1223103</object_id>
+      <w>64</w>
+      <y>183</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>broccoli</name>
+      <h>72</h>
+      <object_id>1223104</object_id>
+      <w>70</w>
+      <y>126</y>
+      <x>90</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue plate topped with a salad and a piece of meat.</caption>
+      <caption>A plate is piled high with steamed veggies and meat. </caption>
+      <caption> A dinner plate full of assorted vegetables, sauce and meat.</caption>
+      <caption>a plate with some pork next to some tomatoes and broccoli</caption>
+      <caption>Pork chops and broccoli are served on a blue plate. </caption>
+    </captions>
+</image>

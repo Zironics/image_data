@@ -1,0 +1,101 @@
+<image>
+  <image-id>2337150</image-id>
+  <coco-id>250223</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4671037</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4272597</subject>
+      <object>4272598</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4804188</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4608641</subject>
+      <object>4608638</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4804189</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4608641</subject>
+      <object>4608639</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4804190</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4608641</subject>
+      <object>4608642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4804191</relationship_id>
+      <predicate>walking</predicate>
+      <subject>4608641</subject>
+      <object>4608643</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>42</h>
+      <object_id>4272597</object_id>
+      <w>63</w>
+      <y>14</y>
+      <x>389</x>
+    </object>
+    <object>
+      <name>blue sky</name>
+      <h>60</h>
+      <object_id>4272598</object_id>
+      <w>134</w>
+      <y>0</y>
+      <x>229</x>
+    </object>
+    <object>
+      <h>20</h>
+      <object_id>4608641</object_id>
+      <w>36</w>
+      <y>184</y>
+      <x>121</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>36</h>
+      <object_id>4608638</object_id>
+      <w>226</w>
+      <y>62</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>19</h>
+      <object_id>4608639</object_id>
+      <w>348</w>
+      <y>73</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>54</h>
+      <object_id>4608642</object_id>
+      <w>476</w>
+      <y>69</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>209</h>
+      <object_id>4608643</object_id>
+      <w>470</w>
+      <y>70</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two sheep walking across the desert to the ocean</caption>
+      <caption>Two sheep walking on a beach by the water</caption>
+      <caption>Two sheep traveling through the sand next to the ocean.</caption>
+      <caption>The two sheep are walking across the sand near the water.</caption>
+      <caption>Two sheep walk together on an empty beach.</caption>
+    </captions>
+</image>

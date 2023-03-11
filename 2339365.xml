@@ -1,0 +1,40 @@
+<image>
+  <image-id>2339365</image-id>
+  <coco-id>535593</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4048142</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2787647</subject>
+      <object>2787648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dried</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>22</h>
+      <object_id>2787647</object_id>
+      <w>496</w>
+      <y>303</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>44</h>
+      <object_id>2787648</object_id>
+      <w>490</w>
+      <y>281</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane taking off from an airport runway.</caption>
+      <caption>A plane flying in an airport with others parked </caption>
+      <caption>A large jet landing on top of an airport runway.</caption>
+      <caption>A plane taking off from a runway into the sky.</caption>
+      <caption>A large airplane flying up into the sky.</caption>
+    </captions>
+</image>

@@ -1,0 +1,81 @@
+<image>
+  <image-id>2332882</image-id>
+  <coco-id>234470</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3708830</relationship_id>
+      <predicate>In front of</predicate>
+      <subject>2725547</subject>
+      <object>3555650</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3968142</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3157699</subject>
+      <object>3157700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3708848</relationship_id>
+      <predicate>At top of</predicate>
+      <subject>2836807</subject>
+      <object>2836808</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chair</name>
+      <h>50</h>
+      <object_id>2725547</object_id>
+      <w>83</w>
+      <y>230</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>90</h>
+      <object_id>3555650</object_id>
+      <w>354</w>
+      <y>184</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>17</h>
+      <object_id>3157699</object_id>
+      <w>24</w>
+      <y>52</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>60</h>
+      <object_id>3157700</object_id>
+      <w>115</w>
+      <y>18</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>96</h>
+      <object_id>2836807</object_id>
+      <w>482</w>
+      <y>0</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>277</h>
+      <object_id>2836808</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a big kitchen with an island and track lighting </caption>
+      <caption>A counter and a table in a room.</caption>
+      <caption>An empty kitchen with empty dark wooden cabinets.</caption>
+      <caption>The contemporary kitchen is full of all the modern appliances.</caption>
+      <caption>A kitchen with a center island and lots of cabinets.</caption>
+    </captions>
+</image>

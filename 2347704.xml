@@ -1,0 +1,84 @@
+<image>
+  <image-id>2347704</image-id>
+  <coco-id>360329</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3835605</relationship_id>
+      <predicate>has</predicate>
+      <subject>2609356</subject>
+      <object>3609643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3835606</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2085225</subject>
+      <object>2085226</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3835607</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2370898</subject>
+      <object>3609644</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>banana</name>
+      <h>177</h>
+      <object_id>2609356</object_id>
+      <w>187</w>
+      <y>82</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>black end</name>
+      <h>29</h>
+      <object_id>3609643</object_id>
+      <w>31</w>
+      <y>228</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>jar</name>
+      <h>45</h>
+      <object_id>2085225</object_id>
+      <w>34</w>
+      <y>364</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>97</h>
+      <object_id>2085226</object_id>
+      <w>225</w>
+      <y>389</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>232</h>
+      <object_id>2370898</object_id>
+      <w>218</w>
+      <y>67</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>hook</name>
+      <h>37</h>
+      <object_id>3609644</object_id>
+      <w>61</w>
+      <y>27</y>
+      <x>279</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some bananas are hanging from a banana tree.</caption>
+      <caption>some yellow bananas hanging on a holder and some cabinets</caption>
+      <caption>Bananas hanging on a stand on a kitchen counter</caption>
+      <caption>A couple of bananas hanging from a metal hook.</caption>
+      <caption>Two bananas hang from a banana holder on a counter top. </caption>
+    </captions>
+</image>

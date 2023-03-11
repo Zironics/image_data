@@ -1,0 +1,59 @@
+<image>
+  <image-id>2319835</image-id>
+  <coco-id>344374</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4492249</relationship_id>
+      <predicate>with</predicate>
+      <subject>3191528</subject>
+      <object>3191529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4492250</relationship_id>
+      <predicate>with</predicate>
+      <subject>3191528</subject>
+      <object>3191530</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>building</name>
+      <h>497</h>
+      <object_id>3191528</object_id>
+      <w>371</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>blue and gold accents</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>198</h>
+      <object_id>3191529</object_id>
+      <w>373</w>
+      <y>158</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>blue and gold accents</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>103</h>
+      <object_id>3191530</object_id>
+      <w>111</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue doorway with a clock mounted above it.</caption>
+      <caption>Inside a building there is a clock and stairs.</caption>
+      <caption>an elegant entry way into a meeting room</caption>
+      <caption>A door at the top of two sets of stairs that lead to it.</caption>
+      <caption>A church has blue stairs and doors and beige walls.</caption>
+    </captions>
+</image>

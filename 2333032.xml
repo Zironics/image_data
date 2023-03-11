@@ -1,0 +1,59 @@
+<image>
+  <image-id>2333032</image-id>
+  <coco-id>359132</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4456155</relationship_id>
+      <predicate>HAVE</predicate>
+      <subject>3928069</subject>
+      <object>3687821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4028490</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2760523</subject>
+      <object>2760524</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>149</h>
+      <object_id>3928069</object_id>
+      <w>76</w>
+      <y>46</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>111</h>
+      <object_id>3687821</object_id>
+      <w>58</w>
+      <y>26</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>roman numeral</name>
+      <h>28</h>
+      <object_id>2760523</object_id>
+      <w>31</w>
+      <y>209</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>158</h>
+      <object_id>2760524</object_id>
+      <w>156</w>
+      <y>91</y>
+      <x>174</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very large clock sits on a trolley outside of a two garage home.</caption>
+      <caption>The large face of a clock on a trailer parked in a residential driveway</caption>
+      <caption>A large clock face is strapped onto a parked trailer.</caption>
+      <caption>A large clock is on a trailer bed in a driveway.</caption>
+      <caption>A large black and gold clock face on a truck</caption>
+    </captions>
+</image>

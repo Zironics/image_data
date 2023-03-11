@@ -1,0 +1,59 @@
+<image>
+  <image-id>1159866</image-id>
+  <coco-id>277150</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4633587</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4178689</subject>
+      <object>4178690</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4640787</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4196291</subject>
+      <object>4196292</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>arm</name>
+      <h>93</h>
+      <object_id>4178689</object_id>
+      <w>89</w>
+      <y>295</y>
+      <x>546</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>844</h>
+      <object_id>4178690</object_id>
+      <w>258</w>
+      <y>174</y>
+      <x>543</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>115</h>
+      <object_id>4196291</object_id>
+      <w>118</w>
+      <y>140</y>
+      <x>351</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>832</h>
+      <object_id>4196292</object_id>
+      <w>237</w>
+      <y>137</y>
+      <x>259</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and a woman standing near a tree. </caption>
+      <caption>two people standing near a tree talking on a cell phone</caption>
+      <caption>a couple stops to talk on the phone</caption>
+      <caption>A woman on a cell phone stands next to an older man.</caption>
+      <caption>A man and woman standing by a large tree while the woman is on a phone.</caption>
+    </captions>
+</image>

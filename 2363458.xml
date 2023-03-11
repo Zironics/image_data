@@ -1,0 +1,84 @@
+<image>
+  <image-id>2363458</image-id>
+  <coco-id>391145</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2091086</relationship_id>
+      <predicate>IN</predicate>
+      <subject>764918</subject>
+      <object>764919</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2091087</relationship_id>
+      <predicate>above</predicate>
+      <subject>764919</subject>
+      <object>764921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2091088</relationship_id>
+      <predicate>IN</predicate>
+      <subject>764920</subject>
+      <object>764921</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>65</h>
+      <object_id>764918</object_id>
+      <w>66</w>
+      <y>53</y>
+      <x>336</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>29</h>
+      <object_id>764919</object_id>
+      <w>60</w>
+      <y>14</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>water</name>
+      <h>35</h>
+      <object_id>764921</object_id>
+      <w>83</w>
+      <y>203</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>heavy</attribute>
+        <attribute>calm</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>28</h>
+      <object_id>764920</object_id>
+      <w>85</w>
+      <y>146</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Group of birds flying over a large ocean wave. </caption>
+      <caption>three birds are flying over a wave at the ocean</caption>
+      <caption>A flock of birds flying over a large wave in the ocean.</caption>
+      <caption>Some birds are flying low above a wave</caption>
+      <caption>A bunch of birds flying over some waves.</caption>
+    </captions>
+</image>

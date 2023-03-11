@@ -1,0 +1,79 @@
+<image>
+  <image-id>2394412</image-id>
+  <coco-id>355956</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4729441</relationship_id>
+      <predicate>playing</predicate>
+      <subject>4414774</subject>
+      <object>4414729</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4729447</relationship_id>
+      <predicate>playing</predicate>
+      <subject>4414774</subject>
+      <object>4414743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4729448</relationship_id>
+      <predicate>playing</predicate>
+      <subject>4414774</subject>
+      <object>4414745</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4729455</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4414774</subject>
+      <object>4414775</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>77</h>
+      <object_id>4414774</object_id>
+      <w>27</w>
+      <y>148</y>
+      <x>156</x>
+      <name>child</name>
+    </object>
+    <object>
+      <name>baseball</name>
+      <h>137</h>
+      <object_id>4414729</object_id>
+      <w>353</w>
+      <y>125</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>baseball</name>
+      <h>131</h>
+      <object_id>4414743</object_id>
+      <w>412</w>
+      <y>125</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>baseball</name>
+      <h>145</h>
+      <object_id>4414745</object_id>
+      <w>406</w>
+      <y>125</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>baseball bat</name>
+      <h>41</h>
+      <object_id>4414775</object_id>
+      <w>44</w>
+      <y>133</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little league team is practicing on a dirt lot.</caption>
+      <caption>Kids out in a park baseball field playing a game</caption>
+      <caption>A child with a bat standing at home plate waiting for the pitch from a pitching machine with his teammates in the field. </caption>
+      <caption>A group of children playing a game of baseball.</caption>
+      <caption>A little league baseball team on the field, preparing for a play.</caption>
+    </captions>
+</image>

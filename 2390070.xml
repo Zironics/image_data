@@ -1,0 +1,185 @@
+<image>
+  <image-id>2390070</image-id>
+  <coco-id>182500</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1172701</relationship_id>
+      <predicate>marking</predicate>
+      <subject>500652</subject>
+      <object>500650</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172702</relationship_id>
+      <predicate>at</predicate>
+      <subject>500655</subject>
+      <object>500653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172703</relationship_id>
+      <predicate>past</predicate>
+      <subject>500657</subject>
+      <object>500653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172704</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>500659</subject>
+      <object>500650</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172705</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>500658</subject>
+      <object>500651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172706</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>500658</subject>
+      <object>500651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172707</relationship_id>
+      <predicate>engraved on</predicate>
+      <subject>500660</subject>
+      <object>500651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172708</relationship_id>
+      <predicate>cast onto</predicate>
+      <subject>500661</subject>
+      <object>500651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172709</relationship_id>
+      <predicate>etched into</predicate>
+      <subject>500662</subject>
+      <object>500651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1172710</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>500659</subject>
+      <object>500650</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>8</h>
+      <object_id>500652</object_id>
+      <w>93</w>
+      <y>61</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+        <attribute>asphalt</attribute>
+        <attribute>grey</attribute>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>road</name>
+      <h>295</h>
+      <object_id>500650</object_id>
+      <w>270</w>
+      <y>38</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>pump</name>
+      <h>33</h>
+      <object_id>500655</object_id>
+      <w>39</w>
+      <y>3</y>
+      <x>413</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in background</attribute>
+      </attributes>
+      <name>gas station</name>
+      <h>41</h>
+      <object_id>500653</object_id>
+      <w>147</w>
+      <y>1</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>23</h>
+      <object_id>500657</object_id>
+      <w>92</w>
+      <y>2</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pebble</name>
+      <h>10</h>
+      <object_id>500659</object_id>
+      <w>9</w>
+      <y>257</y>
+      <x>412</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>numbered</attribute>
+      </attributes>
+      <name>bolt</name>
+      <h>67</h>
+      <object_id>500658</object_id>
+      <w>74</w>
+      <y>236</y>
+      <x>232</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fire hydrant</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>hydrant</name>
+      <h>332</h>
+      <object_id>500651</object_id>
+      <w>325</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>33</h>
+      <object_id>500660</object_id>
+      <w>28</w>
+      <y>255</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>103</h>
+      <object_id>500661</object_id>
+      <w>77</w>
+      <y>229</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>groove</name>
+      <h>92</h>
+      <object_id>500662</object_id>
+      <w>29</w>
+      <y>25</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A water hydrant on the pavements and cars in the background</caption>
+      <caption>A fire hydrant sitting on the side of a road.</caption>
+      <caption>A close up of a fire hydrant on a street </caption>
+      <caption>This is a black and white photo if a fire hydrant</caption>
+      <caption>Black and white photo of a fire hydrant on the side of the street.</caption>
+    </captions>
+</image>

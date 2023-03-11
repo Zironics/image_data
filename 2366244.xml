@@ -1,0 +1,40 @@
+<image>
+  <image-id>2366244</image-id>
+  <coco-id>449403</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1634098</relationship_id>
+      <predicate>ear</predicate>
+      <subject>629583</subject>
+      <object>629584</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>60</h>
+      <object_id>629583</object_id>
+      <w>59</w>
+      <y>27</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>green</name>
+      <h>29</h>
+      <object_id>629584</object_id>
+      <w>24</w>
+      <y>30</y>
+      <x>70</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A city bus moving along a road with many trees.</caption>
+      <caption>A double decker bus driving down a street.</caption>
+      <caption>a tourist bus parked on the side of a road under a pole </caption>
+      <caption>A big bus traveling down the street with other vehicles</caption>
+      <caption>A person with an umbrella walks by a double decker bus.</caption>
+    </captions>
+</image>

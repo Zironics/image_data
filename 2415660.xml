@@ -1,0 +1,62 @@
+<image>
+  <image-id>2415660</image-id>
+  <coco-id>139007</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4665157</relationship_id>
+      <predicate>has</predicate>
+      <subject>4257972</subject>
+      <object>4257973</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4665158</relationship_id>
+      <predicate>has</predicate>
+      <subject>4257976</subject>
+      <object>4257977</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>elephant</name>
+      <h>96</h>
+      <object_id>4257972</object_id>
+      <w>280</w>
+      <y>115</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tusk</name>
+      <h>14</h>
+      <object_id>4257973</object_id>
+      <w>26</w>
+      <y>163</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>82</h>
+      <object_id>4257976</object_id>
+      <w>274</w>
+      <y>116</y>
+      <x>45</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>10</h>
+      <object_id>4257977</object_id>
+      <w>10</w>
+      <y>141</y>
+      <x>220</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bunch of elephants playing together in a field.</caption>
+      <caption>four elephants in the brush next to tress</caption>
+      <caption>There is an elephant that is lying in the grass</caption>
+      <caption>Several elephants are caressing one another with their trunks.</caption>
+      <caption>A large elephant walks behind two smaller elephants.</caption>
+    </captions>
+</image>

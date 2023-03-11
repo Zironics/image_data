@@ -1,0 +1,103 @@
+<image>
+  <image-id>2391591</image-id>
+  <coco-id>520851</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1125350</relationship_id>
+      <predicate>has</predicate>
+      <subject>487884</subject>
+      <object>487886</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125351</relationship_id>
+      <predicate>has</predicate>
+      <subject>487884</subject>
+      <object>487901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125352</relationship_id>
+      <predicate>for</predicate>
+      <subject>487884</subject>
+      <object>487897</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125353</relationship_id>
+      <predicate>are for</predicate>
+      <subject>487888</subject>
+      <object>487898</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125354</relationship_id>
+      <predicate>are for</predicate>
+      <subject>487888</subject>
+      <object>487901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>box</name>
+      <h>336</h>
+      <object_id>487884</object_id>
+      <w>384</w>
+      <y>6</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>steel</attribute>
+      </attributes>
+      <name>tweezers</name>
+      <h>19</h>
+      <object_id>487886</object_id>
+      <w>168</w>
+      <y>181</y>
+      <x>235</x>
+    </object>
+    <object>
+      <h>17</h>
+      <object_id>487901</object_id>
+      <w>251</w>
+      <y>279</y>
+      <x>163</x>
+      <name>probing</name>
+    </object>
+    <object>
+      <name>dissecting</name>
+      <h>238</h>
+      <object_id>487897</object_id>
+      <w>278</w>
+      <y>56</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>scissors</name>
+      <h>69</h>
+      <object_id>487888</object_id>
+      <w>232</w>
+      <y>54</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>bandages</name>
+      <h>26</h>
+      <object_id>487898</object_id>
+      <w>47</w>
+      <y>57</y>
+      <x>151</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An antique wooden box containing a number of small metal tools.</caption>
+      <caption>Wooden box containing multiple tools and a tape measure.</caption>
+      <caption>Tool box holding tools and a pair of scissors.</caption>
+      <caption>An old wooden box with scissors a measuring tape and crafting tools</caption>
+      <caption>A box with scissors in it and other items </caption>
+    </captions>
+</image>

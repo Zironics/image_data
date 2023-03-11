@@ -1,0 +1,83 @@
+<image>
+  <image-id>2315430</image-id>
+  <coco-id>148394</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4543521</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2911842</subject>
+      <object>3047167</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253393</relationship_id>
+      <predicate>with</predicate>
+      <subject>3047167</subject>
+      <object>3047168</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3871785</relationship_id>
+      <predicate>under</predicate>
+      <subject>2885581</subject>
+      <object>3344538</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>498</h>
+      <object_id>2911842</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>White</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>498</h>
+      <object_id>3047167</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red sauce</name>
+      <h>107</h>
+      <object_id>3047168</object_id>
+      <w>127</w>
+      <y>383</y>
+      <x>371</x>
+    </object>
+    <object>
+      <name>tamales</name>
+      <h>318</h>
+      <object_id>2885581</object_id>
+      <w>247</w>
+      <y>46</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>32</h>
+      <object_id>3344538</object_id>
+      <w>64</w>
+      <y>9</y>
+      <x>420</x>
+      <name>plate</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate of food with lots of rice and veggies.</caption>
+      <caption>The meal has been prepared and is ready to eat. </caption>
+      <caption>A plate of enchiladas with sauce and white stripes, rice and broccoli.</caption>
+      <caption>Dinner time on a plate which has broccoli, rice, and ribs or enchiladas.</caption>
+      <caption>An enchilada platter with Spanish rice and steamed broccoli.</caption>
+    </captions>
+</image>

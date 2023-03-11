@@ -1,0 +1,51 @@
+<image>
+  <image-id>2379561</image-id>
+  <coco-id>315769</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4690145</relationship_id>
+      <predicate>riding</predicate>
+      <subject>4321592</subject>
+      <object>4321593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690146</relationship_id>
+      <predicate>riding beside</predicate>
+      <subject>4321592</subject>
+      <object>4321594</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>22</h>
+      <object_id>4321592</object_id>
+      <w>13</w>
+      <y>252</y>
+      <x>470</x>
+    </object>
+    <object>
+      <name>bicycle</name>
+      <h>20</h>
+      <object_id>4321593</object_id>
+      <w>15</w>
+      <y>272</y>
+      <x>473</x>
+    </object>
+    <object>
+      <name>curb</name>
+      <h>94</h>
+      <object_id>4321594</object_id>
+      <w>30</w>
+      <y>280</y>
+      <x>454</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A double decker bus traveling down he street, past a Ferris wheel.</caption>
+      <caption>A double decker bus on a street with a ferris wheel in the background </caption>
+      <caption>The double decker bus drives near a Ferris wheel.</caption>
+      <caption>A two story bus driving on the wet street.</caption>
+      <caption>A double decker bus passes by a ferris wheel. </caption>
+    </captions>
+</image>

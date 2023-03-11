@@ -1,0 +1,73 @@
+<image>
+  <image-id>285948</image-id>
+  <coco-id>380279</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4261861</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3796052</subject>
+      <object>1570658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4050080</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570660</subject>
+      <object>1570661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4050081</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570659</subject>
+      <object>1570661</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>495</h>
+      <object_id>3796052</object_id>
+      <w>392</w>
+      <y>269</y>
+      <x>552</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>112</h>
+      <object_id>1570658</object_id>
+      <w>111</w>
+      <y>585</y>
+      <x>529</x>
+    </object>
+    <object>
+      <name>plates</name>
+      <h>70</h>
+      <object_id>1570660</object_id>
+      <w>140</w>
+      <y>554</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>200</h>
+      <object_id>1570661</object_id>
+      <w>674</w>
+      <y>554</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>plates</name>
+      <h>95</h>
+      <object_id>1570659</object_id>
+      <w>215</w>
+      <y>602</y>
+      <x>364</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People sit at a table in a restaurant, eating cheese pizza</caption>
+      <caption>A nun sharing pizza with two young men.</caption>
+      <caption>There are people siting around a table eating pizza</caption>
+      <caption>Two young men people share pizza with a nun wearing glasses</caption>
+      <caption>A few people  including a nun are eating pizza.</caption>
+    </captions>
+</image>

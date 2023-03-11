@@ -1,0 +1,79 @@
+<image>
+  <image-id>2385654</image-id>
+  <coco-id>46818</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4658242</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4240470</subject>
+      <object>4240471</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4658256</relationship_id>
+      <predicate>has</predicate>
+      <subject>4240500</subject>
+      <object>4240496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4658259</relationship_id>
+      <predicate>has</predicate>
+      <subject>4240500</subject>
+      <object>4240501</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>snowflake</name>
+      <h>23</h>
+      <object_id>4240470</object_id>
+      <w>34</w>
+      <y>380</y>
+      <x>200</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flannel</attribute>
+      </attributes>
+      <name>pajamas</name>
+      <h>306</h>
+      <object_id>4240471</object_id>
+      <w>229</w>
+      <y>192</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>465</h>
+      <object_id>4240500</object_id>
+      <w>250</w>
+      <y>33</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>39</h>
+      <object_id>4240496</object_id>
+      <w>27</w>
+      <y>124</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>89</h>
+      <object_id>4240501</object_id>
+      <w>82</w>
+      <y>124</y>
+      <x>158</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A child holds a toy up to their face.</caption>
+      <caption>A small child wearing colorful pajamas holding a new toothbrush. </caption>
+      <caption>A young girl is holding a toothbrush in its box. </caption>
+      <caption>A young boy looking at a toothbrush that is still in its packaging.</caption>
+      <caption>A young child in pajamas examining a new toothbrush package</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2329873</image-id>
+  <coco-id>428885</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4016534</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3269305</subject>
+      <object>3243621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4468039</relationship_id>
+      <predicate>with a</predicate>
+      <subject>3391563</subject>
+      <object>3391564</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>92</h>
+      <object_id>3269305</object_id>
+      <w>136</w>
+      <y>25</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>223</h>
+      <object_id>3243621</object_id>
+      <w>372</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>81</h>
+      <object_id>3391563</object_id>
+      <w>47</w>
+      <y>146</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>hammer</name>
+      <h>52</h>
+      <object_id>3391564</object_id>
+      <w>25</w>
+      <y>140</y>
+      <x>155</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a roof holding an ax.</caption>
+      <caption>A construction worker smashes away at the roof of a building.</caption>
+      <caption>A man using a sledgehammer on the roof of a building.</caption>
+      <caption>A building under construction in the background with a streetlight in the foreground.</caption>
+      <caption>A man is on top of a roof hitting something with a hammer.</caption>
+    </captions>
+</image>

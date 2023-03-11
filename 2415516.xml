@@ -1,0 +1,91 @@
+<image>
+  <image-id>2415516</image-id>
+  <coco-id>473015</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3874534</relationship_id>
+      <predicate>swimming in</predicate>
+      <subject>2982725</subject>
+      <object>3319942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3740855</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2982725</subject>
+      <object>2796376</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253666</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2982725</subject>
+      <object>3319942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3874537</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2777267</subject>
+      <object>3352015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3916177</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2777267</subject>
+      <object>3319942</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>31</h>
+      <object_id>2982725</object_id>
+      <w>58</w>
+      <y>118</y>
+      <x>164</x>
+      <name>duck</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>body</attribute>
+      </attributes>
+      <h>234</h>
+      <object_id>3319942</object_id>
+      <w>500</w>
+      <y>3</y>
+      <x>0</x>
+      <name>water</name>
+    </object>
+    <object>
+      <name>orange beak</name>
+      <h>5</h>
+      <object_id>2796376</object_id>
+      <w>5</w>
+      <y>125</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>8</h>
+      <object_id>2777267</object_id>
+      <w>11</w>
+      <y>242</y>
+      <x>367</x>
+      <name>leaves</name>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>191</h>
+      <object_id>3352015</object_id>
+      <w>302</w>
+      <y>140</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A duck swims in some water near some vegetation. </caption>
+      <caption>A duck is floating in the pond next to muddy mounds in the water.</caption>
+      <caption>A duck floating in the water near a bunch of grass and rocks</caption>
+      <caption>there is a duck that is sitting in the water</caption>
+      <caption>A duck swims across an empty pond outside</caption>
+    </captions>
+</image>

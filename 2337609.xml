@@ -1,0 +1,68 @@
+<image>
+  <image-id>2337609</image-id>
+  <coco-id>496583</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4461720</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3484528</subject>
+      <object>3484529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075973</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2246652</subject>
+      <object>2577196</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075974</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2246652</subject>
+      <object>3484529</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>written</attribute>
+      </attributes>
+      <name>urbano</name>
+      <h>22</h>
+      <object_id>3484528</object_id>
+      <w>144</w>
+      <y>166</y>
+      <x>300</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>150</h>
+      <object_id>3484529</object_id>
+      <w>335</w>
+      <y>76</y>
+      <x>161</x>
+    </object>
+    <object>
+      <h>9</h>
+      <object_id>2246652</object_id>
+      <w>260</w>
+      <y>184</y>
+      <x>239</x>
+      <name>stripe</name>
+    </object>
+    <object>
+      <name>truck</name>
+      <h>209</h>
+      <object_id>2577196</object_id>
+      <w>348</w>
+      <y>31</y>
+      <x>146</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old coach bus turned into a living space.</caption>
+      <caption>an old run down school bus with a sky in the background</caption>
+      <caption>A boarded up Urbano bus parked near a pile of rocks.</caption>
+      <caption>A bus with the windows broken down sitting in the open area.</caption>
+      <caption>The ruined bus is parked next to a pile of rocks.</caption>
+    </captions>
+</image>

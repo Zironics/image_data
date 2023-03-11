@@ -1,0 +1,40 @@
+<image>
+  <image-id>2339561</image-id>
+  <coco-id>220072</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4794073</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4583631</subject>
+      <object>4583630</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>49</h>
+      <object_id>4583631</object_id>
+      <w>16</w>
+      <y>101</y>
+      <x>412</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>241</h>
+      <object_id>4583630</object_id>
+      <w>455</w>
+      <y>90</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person walking along a wet beach with their dog.</caption>
+      <caption>A person and their dog on a misty beach</caption>
+      <caption>A dog and a person on a misty beach near the surf.</caption>
+      <caption>A man and dog on the beach in the fog.</caption>
+      <caption>A person and a dog are walking on a beach.</caption>
+    </captions>
+</image>

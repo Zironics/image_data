@@ -1,0 +1,76 @@
+<image>
+  <image-id>2406173</image-id>
+  <coco-id>149755</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4600071</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4095781</subject>
+      <object>4095782</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600073</relationship_id>
+      <predicate>has</predicate>
+      <subject>4095794</subject>
+      <object>4067734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4588408</relationship_id>
+      <predicate>has</predicate>
+      <subject>4095794</subject>
+      <object>4067734</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>130</h>
+      <object_id>4095781</object_id>
+      <w>110</w>
+      <y>202</y>
+      <x>220</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>spotted</attribute>
+      </attributes>
+      <name>costume</name>
+      <h>321</h>
+      <object_id>4095782</object_id>
+      <w>333</w>
+      <y>0</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>baby</name>
+      <h>192</h>
+      <object_id>4095794</object_id>
+      <w>197</w>
+      <y>0</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>51</h>
+      <object_id>4067734</object_id>
+      <w>51</w>
+      <y>63</y>
+      <x>215</x>
+      <name>hair</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toddler is smiling and sitting on a motorcycle.</caption>
+      <caption>A cute girl with a funny looking hat on a scooter.</caption>
+      <caption>A small boy in a lion costume sitting on a Vespa</caption>
+      <caption>a little kid plays with a motor cycle handle and mirror </caption>
+      <caption>A young boy who is wearing a lion costume sitting on a motorcycle.</caption>
+    </captions>
+</image>

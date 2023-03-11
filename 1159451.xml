@@ -1,0 +1,60 @@
+<image>
+  <image-id>1159451</image-id>
+  <coco-id>500473</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068379</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2138869</subject>
+      <object>2437065</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068380</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2138869</subject>
+      <object>1741464</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>88</h>
+      <object_id>2138869</object_id>
+      <w>76</w>
+      <y>22</y>
+      <x>390</x>
+      <name>light</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood </attribute>
+      </attributes>
+      <name>pole</name>
+      <h>322</h>
+      <object_id>2437065</object_id>
+      <w>208</w>
+      <y>1</y>
+      <x>232</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood </attribute>
+      </attributes>
+      <name>pole</name>
+      <h>276</h>
+      <object_id>1741464</object_id>
+      <w>172</w>
+      <y>0</y>
+      <x>273</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A big market with bins full of piles of produce.</caption>
+      <caption>a very long table with a bunch of fruit on top</caption>
+      <caption>A grocery store filled with lots of fresh produce.</caption>
+      <caption>A bunch of vegetables in a produce section </caption>
+      <caption>a store with a large display of veggies on a table</caption>
+    </captions>
+</image>

@@ -1,0 +1,97 @@
+<image>
+  <image-id>2342883</image-id>
+  <coco-id>1674</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2737389</relationship_id>
+      <predicate>ON</predicate>
+      <subject>929861</subject>
+      <object>929861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2737390</relationship_id>
+      <predicate>ON</predicate>
+      <subject>929855</subject>
+      <object>929861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2737391</relationship_id>
+      <predicate>under</predicate>
+      <subject>929861</subject>
+      <object>929855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2737392</relationship_id>
+      <predicate>has</predicate>
+      <subject>929861</subject>
+      <object>929861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2737393</relationship_id>
+      <predicate>ON</predicate>
+      <subject>929868</subject>
+      <object>929861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2737394</relationship_id>
+      <predicate>by</predicate>
+      <subject>929868</subject>
+      <object>929854</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>piece</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <h>106</h>
+      <object_id>929861</object_id>
+      <w>114</w>
+      <y>78</y>
+      <x>175</x>
+      <name>paper</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>special</attribute>
+        <attribute>above</attribute>
+        <attribute>here</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>scissors</name>
+      <h>128</h>
+      <object_id>929855</object_id>
+      <w>211</w>
+      <y>133</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>barcode</name>
+      <h>54</h>
+      <object_id>929868</object_id>
+      <w>63</w>
+      <y>273</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>label</name>
+      <h>87</h>
+      <object_id>929854</object_id>
+      <w>113</w>
+      <y>143</y>
+      <x>272</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of scissors and some paper on a table.</caption>
+      <caption>Label for Fiskars scissors lays next to open scissors</caption>
+      <caption>A pair of scissors sitting on top of a piece of paper.</caption>
+      <caption>the scissors are on the floor and ready to be used</caption>
+      <caption>a pair of scissors are laying on a piece of paper</caption>
+    </captions>
+</image>

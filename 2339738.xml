@@ -1,0 +1,62 @@
+<image>
+  <image-id>2339738</image-id>
+  <coco-id>509390</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4136368</relationship_id>
+      <predicate>near</predicate>
+      <subject>2575160</subject>
+      <object>2575161</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4136392</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2467084</subject>
+      <object>3728551</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dirty road</name>
+      <h>55</h>
+      <object_id>2575160</object_id>
+      <w>67</w>
+      <y>71</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>walkway</name>
+      <h>85</h>
+      <object_id>2575161</object_id>
+      <w>246</w>
+      <y>285</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>146</h>
+      <object_id>2467084</object_id>
+      <w>55</w>
+      <y>32</y>
+      <x>292</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>backpack</name>
+      <h>49</h>
+      <object_id>3728551</object_id>
+      <w>39</w>
+      <y>49</y>
+      <x>300</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people are walking next to the train.</caption>
+      <caption>There is a woman that is walking in the crowf</caption>
+      <caption>A woman walking on a platform near a train with something on her back. </caption>
+      <caption>Many people on a platform for a train.</caption>
+      <caption>a woman is walking with a green thing on her back</caption>
+    </captions>
+</image>

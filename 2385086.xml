@@ -1,0 +1,93 @@
+<image>
+  <image-id>2385086</image-id>
+  <coco-id>417696</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4678118</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4290555</subject>
+      <object>4290556</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678131</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4290581</subject>
+      <object>4290582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678132</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4290581</subject>
+      <object>4290582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678137</relationship_id>
+      <predicate>of clock</predicate>
+      <subject>4290590</subject>
+      <object>4290591</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>green light</name>
+      <h>16</h>
+      <object_id>4290555</object_id>
+      <w>17</w>
+      <y>404</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>162</h>
+      <object_id>4290556</object_id>
+      <w>114</w>
+      <y>245</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hands</name>
+      <h>15</h>
+      <object_id>4290581</object_id>
+      <w>30</w>
+      <y>146</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>98</h>
+      <object_id>4290582</object_id>
+      <w>79</w>
+      <y>107</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>face</name>
+      <h>76</h>
+      <object_id>4290590</object_id>
+      <w>52</w>
+      <y>106</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>white</name>
+      <h>27</h>
+      <object_id>4290591</object_id>
+      <w>23</w>
+      <y>149</y>
+      <x>115</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Gold tone clock tower inside a shopping mall plaza.</caption>
+      <caption>a tower with a clock sitting atop of it </caption>
+      <caption>A gold colored clock in the middle of a shopping center.</caption>
+      <caption>Indoor pole with a clock on it sitting in the middle of the floor</caption>
+      <caption>A gold clock on a post in a station</caption>
+    </captions>
+</image>

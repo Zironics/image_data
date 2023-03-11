@@ -1,0 +1,112 @@
+<image>
+  <image-id>2363829</image-id>
+  <coco-id>337711</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4393687</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2157235</subject>
+      <object>1985476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4169960</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1710168</subject>
+      <object>2576899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4169961</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1710169</subject>
+      <object>1710168</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4169962</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>2649658</subject>
+      <object>3743359</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4169963</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2157235</subject>
+      <object>3743360</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blurry </attribute>
+      </attributes>
+      <h>33</h>
+      <object_id>2157235</object_id>
+      <w>123</w>
+      <y>211</y>
+      <x>262</x>
+      <name>lights</name>
+    </object>
+    <object>
+      <name>car</name>
+      <h>73</h>
+      <object_id>1985476</object_id>
+      <w>150</w>
+      <y>202</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>228</h>
+      <object_id>1710168</object_id>
+      <w>110</w>
+      <y>3</y>
+      <x>384</x>
+    </object>
+    <object>
+      <h>156</h>
+      <object_id>2576899</object_id>
+      <w>499</w>
+      <y>243</y>
+      <x>0</x>
+      <name>ground</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>182</h>
+      <object_id>1710169</object_id>
+      <w>60</w>
+      <y>49</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>165</h>
+      <object_id>2649658</object_id>
+      <w>185</w>
+      <y>77</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>buildings</name>
+      <h>206</h>
+      <object_id>3743359</object_id>
+      <w>194</w>
+      <y>23</y>
+      <x>283</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>70</h>
+      <object_id>3743360</object_id>
+      <w>150</w>
+      <y>198</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Cars driving down a road or shown with buildings on both sides of the street.</caption>
+      <caption>a number of cars driving on a city street</caption>
+      <caption>A night time shot of a busy street in a city.</caption>
+      <caption>the sun is going down and cars drive down this street</caption>
+      <caption>Nightlife scene with cars passing and buildings with green light</caption>
+    </captions>
+</image>

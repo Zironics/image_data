@@ -1,0 +1,66 @@
+<image>
+  <image-id>2322673</image-id>
+  <coco-id>148427</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4535387</relationship_id>
+      <predicate>pulling</predicate>
+      <subject>2949587</subject>
+      <object>3494934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4535388</relationship_id>
+      <predicate>pulling</predicate>
+      <subject>2949587</subject>
+      <object>3494934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3682587</relationship_id>
+      <predicate>with</predicate>
+      <subject>2949587</subject>
+      <object>3543572</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>White </attribute>
+      </attributes>
+      <h>206</h>
+      <object_id>2949587</object_id>
+      <w>266</w>
+      <y>125</y>
+      <x>91</x>
+      <name>horse</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>white carriage</name>
+      <h>163</h>
+      <object_id>3494934</object_id>
+      <w>199</w>
+      <y>169</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <name>bow</name>
+      <h>25</h>
+      <object_id>3543572</object_id>
+      <w>30</w>
+      <y>215</y>
+      <x>266</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Horse pulls a carriage decorated with flags and a shamrock.</caption>
+      <caption>A man riding on the back of a horse drawn carriage.</caption>
+      <caption>Horse drawn carriage rollsi down city street during parade.</caption>
+      <caption>A man rides a carriage pulled by a white horse through a parade.</caption>
+      <caption>A white horse carrying a carriage decorated with Irish flags in a parade.</caption>
+    </captions>
+</image>

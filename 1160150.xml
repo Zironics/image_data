@@ -1,0 +1,105 @@
+<image>
+  <image-id>1160150</image-id>
+  <coco-id>541506</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4652142</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4225498</subject>
+      <object>4225495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4652147</relationship_id>
+      <predicate>parked near</predicate>
+      <subject>4225487</subject>
+      <object>4225495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4652148</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4225492</subject>
+      <object>4225493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4652149</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4225494</subject>
+      <object>4225495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4652150</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4225498</subject>
+      <object>4225495</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <h>35</h>
+      <object_id>4225498</object_id>
+      <w>109</w>
+      <y>145</y>
+      <x>373</x>
+      <name>light</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>454</h>
+      <object_id>4225495</object_id>
+      <w>608</w>
+      <y>141</y>
+      <x>182</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>maroon</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>558</h>
+      <object_id>4225487</object_id>
+      <w>158</w>
+      <y>206</y>
+      <x>863</x>
+    </object>
+    <object>
+      <name>metal roof</name>
+      <h>98</h>
+      <object_id>4225492</object_id>
+      <w>342</w>
+      <y>102</y>
+      <x>679</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>314</h>
+      <object_id>4225493</object_id>
+      <w>381</w>
+      <y>96</y>
+      <x>640</x>
+    </object>
+    <object>
+      <name>tractor arm</name>
+      <h>135</h>
+      <object_id>4225494</object_id>
+      <w>137</w>
+      <y>180</y>
+      <x>633</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A truck parked near a trailer and another vehicle.</caption>
+      <caption>a white tow truck sitting in a small parking lot.</caption>
+      <caption>A semi truck sits in front of a building with another vehicle.</caption>
+      <caption>Large truck labeled Addicott Electrics LTD parked next to an SUV.</caption>
+      <caption>Work truck backed up to the business office.</caption>
+    </captions>
+</image>

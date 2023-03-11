@@ -1,0 +1,118 @@
+<image>
+  <image-id>2322169</image-id>
+  <coco-id>102910</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3736313</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3479916</subject>
+      <object>3221264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3652543</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3224201</subject>
+      <object>3504876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3652544</relationship_id>
+      <predicate>has</predicate>
+      <subject>3479916</subject>
+      <object>2976657</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3736315</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3441888</subject>
+      <object>3441889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3736316</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3504877</subject>
+      <object>3504876</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boy</name>
+      <h>125</h>
+      <object_id>3479916</object_id>
+      <w>112</w>
+      <y>76</y>
+      <x>266</x>
+    </object>
+    <object>
+      <h>18</h>
+      <object_id>3221264</object_id>
+      <w>38</w>
+      <y>200</y>
+      <x>307</x>
+      <name>board</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>37</h>
+      <object_id>3224201</object_id>
+      <w>42</w>
+      <y>126</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>118</h>
+      <object_id>3504876</object_id>
+      <w>78</w>
+      <y>95</y>
+      <x>276</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>pants</name>
+      <h>44</h>
+      <object_id>2976657</object_id>
+      <w>36</w>
+      <y>160</y>
+      <x>310</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thin</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>147</h>
+      <object_id>3441888</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>147</h>
+      <object_id>3441889</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>palm tree</name>
+      <h>131</h>
+      <object_id>3504877</object_id>
+      <w>42</w>
+      <y>40</y>
+      <x>347</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>some children on skate boards in a park</caption>
+      <caption>Seven kids riding skateboards at an outdoor skate park.</caption>
+      <caption>Several people on skateboards at a skate park.</caption>
+      <caption>tHIS A SKATE PARK WITH MANY SKATE BOARDERS</caption>
+      <caption>A person that is doing a skateboarding trick in the air.</caption>
+    </captions>
+</image>

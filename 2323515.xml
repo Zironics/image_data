@@ -1,0 +1,60 @@
+<image>
+  <image-id>2323515</image-id>
+  <coco-id>295540</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2954685</relationship_id>
+      <predicate>IN</predicate>
+      <subject>989395</subject>
+      <object>989394</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2954686</relationship_id>
+      <predicate>by</predicate>
+      <subject>989411</subject>
+      <object>989395</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>a bunch</attribute>
+        <attribute>leafless</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>122</h>
+      <object_id>989395</object_id>
+      <w>169</w>
+      <y>1</y>
+      <x>331</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>grass</attribute>
+        <attribute>bright green</attribute>
+      </attributes>
+      <name>field</name>
+      <h>56</h>
+      <object_id>989394</object_id>
+      <w>225</w>
+      <y>111</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>53</h>
+      <object_id>989411</object_id>
+      <w>12</w>
+      <y>77</y>
+      <x>340</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>THERE ARE CARS AND A TRUCK THAT IS PARKED IN THE PARKING LOT </caption>
+      <caption>A Stop State Police sign on the hood of a car.</caption>
+      <caption>A couple of state police cruisers parked next to each other.</caption>
+      <caption>A sign that says 'Stop State Police' on top of the hood of a car.</caption>
+      <caption>A police car with the sign "Stop State Police".</caption>
+    </captions>
+</image>

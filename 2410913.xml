@@ -1,0 +1,86 @@
+<image>
+  <image-id>2410913</image-id>
+  <coco-id>569058</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3211405</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1084669</subject>
+      <object>1084670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3211406</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1084669</subject>
+      <object>1084670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3211407</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1084669</subject>
+      <object>1084670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3211411</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1084669</subject>
+      <object>1084670</object>
+    </relationship>
+    <relationship>
+      <relationship_id>646860</relationship_id>
+      <predicate>has</predicate>
+      <subject>361526</subject>
+      <object>361527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3211448</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1084669</subject>
+      <object>1084670</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>46</h>
+      <object_id>1084669</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>46</h>
+      <object_id>1084670</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>271</h>
+      <object_id>361526</object_id>
+      <w>270</w>
+      <y>38</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>234</h>
+      <object_id>361527</object_id>
+      <w>241</w>
+      <y>47</y>
+      <x>210</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clock mounted on a pale blue wall.</caption>
+      <caption>An analog clock on the wall showing 2:08.</caption>
+      <caption>A closeup of a black and white clock on a light green wall.</caption>
+      <caption>A plain white clock showing the time 2:08</caption>
+      <caption>An analog clock on a green wall showing the time of 2:07.</caption>
+    </captions>
+</image>

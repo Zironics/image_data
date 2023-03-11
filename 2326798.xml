@@ -1,0 +1,93 @@
+<image>
+  <image-id>2326798</image-id>
+  <coco-id>450102</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476370</relationship_id>
+      <predicate>has</predicate>
+      <subject>3389360</subject>
+      <object>3209688</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4089230</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3389363</subject>
+      <object>3389360</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476371</relationship_id>
+      <predicate>has</predicate>
+      <subject>3389360</subject>
+      <object>2704336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476372</relationship_id>
+      <predicate>has</predicate>
+      <subject>2875640</subject>
+      <object>2875639</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>241</h>
+      <object_id>3389360</object_id>
+      <w>342</w>
+      <y>54</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>hair</name>
+      <h>42</h>
+      <object_id>3209688</object_id>
+      <w>185</w>
+      <y>52</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>hooves</name>
+      <h>18</h>
+      <object_id>3389363</object_id>
+      <w>24</w>
+      <y>274</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>17</h>
+      <object_id>2704336</object_id>
+      <w>14</w>
+      <y>105</y>
+      <x>385</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>179</h>
+      <object_id>2875640</object_id>
+      <w>362</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>slanted</attribute>
+      </attributes>
+      <name>roof</name>
+      <h>45</h>
+      <object_id>2875639</object_id>
+      <w>120</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra standing still in the grass near a tree. </caption>
+      <caption>The large zebra is standing still by itself.</caption>
+      <caption>Zebra standing in open grass area of park like enclosure.</caption>
+      <caption>A healthy zebra with a cropped tail standing in his enclosure at the zoo</caption>
+      <caption>A zebra is standing in short glass beside a building.</caption>
+    </captions>
+</image>

@@ -1,0 +1,104 @@
+<image>
+  <image-id>2394643</image-id>
+  <coco-id>174507</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4726397</relationship_id>
+      <predicate>has</predicate>
+      <subject>4407412</subject>
+      <object>4407393</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726406</relationship_id>
+      <predicate>with</predicate>
+      <subject>4407412</subject>
+      <object>4407413</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726414</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4407430</subject>
+      <object>4407431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746360</relationship_id>
+      <predicate>creating</predicate>
+      <subject>4456723</subject>
+      <object>4456724</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>357</h>
+      <object_id>4407412</object_id>
+      <w>209</w>
+      <y>18</y>
+      <x>92</x>
+      <name>giraffe</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long </attribute>
+      </attributes>
+      <name>neck</name>
+      <h>100</h>
+      <object_id>4407393</object_id>
+      <w>49</w>
+      <y>48</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>up</attribute>
+      </attributes>
+      <name>neck</name>
+      <h>150</h>
+      <object_id>4407413</object_id>
+      <w>59</w>
+      <y>17</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>giraffes</name>
+      <h>335</h>
+      <object_id>4407430</object_id>
+      <w>339</w>
+      <y>30</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>zoo</name>
+      <h>372</h>
+      <object_id>4407431</object_id>
+      <w>478</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden </attribute>
+      </attributes>
+      <name>posts</name>
+      <h>133</h>
+      <object_id>4456723</object_id>
+      <w>63</w>
+      <y>188</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>162</h>
+      <object_id>4456724</object_id>
+      <w>326</w>
+      <y>170</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two giraffes in a zoo enclosure, one is leaning over and licking a pole.</caption>
+      <caption>Two giraffes are standing outdoors near a building. </caption>
+      <caption>Two giraffes are standing outside a building with tall doors.</caption>
+      <caption>A couple of giraffes standing around in a zoo pin.</caption>
+      <caption>Two giraffes are standing in the dirt near a building.  </caption>
+    </captions>
+</image>

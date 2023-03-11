@@ -1,0 +1,104 @@
+<image>
+  <image-id>2367193</image-id>
+  <coco-id>129675</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4361616</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2045986</subject>
+      <object>1747206</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4361617</relationship_id>
+      <predicate>made of</predicate>
+      <subject>2183832</subject>
+      <object>3875003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4361618</relationship_id>
+      <predicate>with</predicate>
+      <subject>2298148</subject>
+      <object>3875005</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4361619</relationship_id>
+      <predicate>with</predicate>
+      <subject>2183832</subject>
+      <object>2183831</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>edge</name>
+      <h>78</h>
+      <object_id>2045986</object_id>
+      <w>429</w>
+      <y>205</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>part</attribute>
+      </attributes>
+      <h>171</h>
+      <object_id>1747206</object_id>
+      <w>228</w>
+      <y>118</y>
+      <x>73</x>
+      <name>bible</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>antique</attribute>
+      </attributes>
+      <h>106</h>
+      <object_id>2183832</object_id>
+      <w>497</w>
+      <y>184</y>
+      <x>1</x>
+      <name>antique book</name>
+    </object>
+    <object>
+      <name>leather</name>
+      <h>54</h>
+      <object_id>3875003</object_id>
+      <w>35</w>
+      <y>180</y>
+      <x>139</x>
+    </object>
+    <object>
+      <h>51</h>
+      <object_id>2298148</object_id>
+      <w>169</w>
+      <y>105</y>
+      <x>86</x>
+      <name>eye glass</name>
+    </object>
+    <object>
+      <name>frames</name>
+      <h>39</h>
+      <object_id>3875005</object_id>
+      <w>21</w>
+      <y>127</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rounded</attribute>
+      </attributes>
+      <name>roun spine</name>
+      <h>100</h>
+      <object_id>2183831</object_id>
+      <w>454</w>
+      <y>195</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small stack of antique leather bound books with a pair of glasses and a pocket watch.</caption>
+      <caption>A pile of old books are shown on a surface.</caption>
+      <caption>Old books on a table with a silver pocket watch.</caption>
+      <caption>a table with books, eye glasses and a watch</caption>
+      <caption>Some books laying with eyeglasses and a pocket watch.</caption>
+    </captions>
+</image>

@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402407</image-id>
+  <coco-id>219418</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>783204</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>389769</subject>
+      <object>389770</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276270</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1136721</subject>
+      <object>1136722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276272</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1136721</subject>
+      <object>1136722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276276</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1136721</subject>
+      <object>1136722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276313</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1136721</subject>
+      <object>1136722</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>kitten</name>
+      <h>453</h>
+      <object_id>389769</object_id>
+      <w>311</w>
+      <y>45</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>495</h>
+      <object_id>389770</object_id>
+      <w>446</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>62</h>
+      <object_id>1136721</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>62</h>
+      <object_id>1136722</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kitten and green teddy bear on a blanket.</caption>
+      <caption>A small kitten laying next to a stuffed teddy bear.</caption>
+      <caption>The kitten is laying next to the green teddy bear. </caption>
+      <caption>A golden kitten sleeping next to a green teddy bear.</caption>
+      <caption>a cat lays on a blanket next to a stuffed animal </caption>
+    </captions>
+</image>

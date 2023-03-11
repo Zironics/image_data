@@ -1,0 +1,112 @@
+<image>
+  <image-id>2388289</image-id>
+  <coco-id>514245</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4769073</relationship_id>
+      <predicate>on</predicate>
+      <subject>4643436</subject>
+      <object>4518311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769074</relationship_id>
+      <predicate>under</predicate>
+      <subject>4518312</subject>
+      <object>4518313</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769075</relationship_id>
+      <predicate>has</predicate>
+      <subject>4643436</subject>
+      <object>4518313</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769076</relationship_id>
+      <predicate>are boarding</predicate>
+      <subject>4518315</subject>
+      <object>4643436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769077</relationship_id>
+      <predicate>near</predicate>
+      <subject>4518317</subject>
+      <object>4643436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4769078</relationship_id>
+      <predicate>has</predicate>
+      <subject>4643436</subject>
+      <object>4518313</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>148</h>
+      <object_id>4643436</object_id>
+      <w>470</w>
+      <y>95</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray </attribute>
+      </attributes>
+      <name>tarmac</name>
+      <h>151</h>
+      <object_id>4518311</object_id>
+      <w>484</w>
+      <y>222</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>31</h>
+      <object_id>4518312</object_id>
+      <w>23</w>
+      <y>212</y>
+      <x>383</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red and white</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>122</h>
+      <object_id>4518313</object_id>
+      <w>137</w>
+      <y>102</y>
+      <x>361</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>43</h>
+      <object_id>4518315</object_id>
+      <w>141</w>
+      <y>212</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>object</name>
+      <h>24</h>
+      <object_id>4518317</object_id>
+      <w>27</w>
+      <y>226</y>
+      <x>231</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are steadily boarding the Qantas passenger airplane. </caption>
+      <caption>Passengers loading onto a jet plane on the runway.</caption>
+      <caption>A line of people filing into an Australian airliner on the tarmac</caption>
+      <caption>People on a tarmac board a Qantas airplane.</caption>
+      <caption>a white and red plane is on a runway</caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>2326794</image-id>
+  <coco-id>107527</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4090960</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>3419266</subject>
+      <object>3419267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3806164</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3419266</subject>
+      <object>3596611</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091165</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3248529</subject>
+      <object>3248530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476379</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3419266</subject>
+      <object>2802099</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>171</h>
+      <object_id>3419266</object_id>
+      <w>36</w>
+      <y>132</y>
+      <x>130</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>80</h>
+      <object_id>3419267</object_id>
+      <w>115</w>
+      <y>171</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>77</h>
+      <object_id>3596611</object_id>
+      <w>104</w>
+      <y>172</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>93</h>
+      <object_id>3248529</object_id>
+      <w>367</w>
+      <y>188</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>183</h>
+      <object_id>3248530</object_id>
+      <w>461</w>
+      <y>128</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>78</h>
+      <object_id>2802099</object_id>
+      <w>492</w>
+      <y>250</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white photo of a person holding a surfboard next to the ocean.</caption>
+      <caption>A person holding a small surfboard is standing by the water.</caption>
+      <caption>Adult standing on beach looking at waves with urban area across the way.</caption>
+      <caption>A man is holding a boogie board in front of the ocean.</caption>
+      <caption>A man stares at the ocean while carrying a boogie board in this black and white photograph.</caption>
+    </captions>
+</image>

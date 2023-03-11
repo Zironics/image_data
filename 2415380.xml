@@ -1,0 +1,107 @@
+<image>
+  <image-id>2415380</image-id>
+  <coco-id>114249</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3717495</relationship_id>
+      <predicate>with</predicate>
+      <subject>3453717</subject>
+      <object>3559398</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3717496</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3559398</subject>
+      <object>3559399</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3717500</relationship_id>
+      <predicate>with</predicate>
+      <subject>3002145</subject>
+      <object>3559402</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3717506</relationship_id>
+      <predicate>with</predicate>
+      <subject>3559405</subject>
+      <object>3223957</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>207</h>
+      <object_id>3453717</object_id>
+      <w>270</w>
+      <y>188</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>172</h>
+      <object_id>3559398</object_id>
+      <w>58</w>
+      <y>197</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>201</h>
+      <object_id>3559399</object_id>
+      <w>93</w>
+      <y>173</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>pants</name>
+      <h>62</h>
+      <object_id>3002145</object_id>
+      <w>62</w>
+      <y>125</y>
+      <x>386</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red </attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>170</h>
+      <object_id>3559402</object_id>
+      <w>90</w>
+      <y>201</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>144</h>
+      <object_id>3559405</object_id>
+      <w>104</w>
+      <y>59</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>black letters</name>
+      <h>70</h>
+      <object_id>3223957</object_id>
+      <w>41</w>
+      <y>100</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three different shots of the same baseball player; Number 25</caption>
+      <caption>Various photographs of a man in white baseball uniform.</caption>
+      <caption>a baseball player is swinging a bat and some fans</caption>
+      <caption>A group of men on a field playing baseball.</caption>
+      <caption>A person with a bat runs and swings on a field.</caption>
+    </captions>
+</image>

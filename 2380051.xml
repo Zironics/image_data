@@ -1,0 +1,67 @@
+<image>
+  <image-id>2380051</image-id>
+  <coco-id>448319</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4791188</relationship_id>
+      <predicate>in</predicate>
+      <subject>4576737</subject>
+      <object>4576738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4791189</relationship_id>
+      <predicate>in</predicate>
+      <subject>4576740</subject>
+      <object>4576739</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>zebras</name>
+      <h>173</h>
+      <object_id>4576737</object_id>
+      <w>403</w>
+      <y>131</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>60</h>
+      <object_id>4576738</object_id>
+      <w>327</w>
+      <y>283</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>zebras</name>
+      <h>160</h>
+      <object_id>4576740</object_id>
+      <w>397</w>
+      <y>126</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>100</h>
+      <object_id>4576739</object_id>
+      <w>378</w>
+      <y>221</y>
+      <x>30</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three zebras are grazing in a fielded area.</caption>
+      <caption>Three zebras in the ground eating dry grass.</caption>
+      <caption>theree zebras are standing and grazing on the plain </caption>
+      <caption>Three zebras are standing in the grass field.</caption>
+      <caption>A group of zebras grazing on the savannah.</caption>
+    </captions>
+</image>

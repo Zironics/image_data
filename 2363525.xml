@@ -1,0 +1,70 @@
+<image>
+  <image-id>2363525</image-id>
+  <coco-id>429233</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2088991</relationship_id>
+      <predicate>ON</predicate>
+      <subject>764253</subject>
+      <object>764270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2088992</relationship_id>
+      <predicate>ON</predicate>
+      <subject>764259</subject>
+      <object>764252</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>street</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>43</h>
+      <object_id>764253</object_id>
+      <w>30</w>
+      <y>85</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>75</h>
+      <object_id>764270</object_id>
+      <w>192</w>
+      <y>154</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>53</h>
+      <object_id>764259</object_id>
+      <w>82</w>
+      <y>74</y>
+      <x>253</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+        <attribute>riding</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>283</h>
+      <object_id>764252</object_id>
+      <w>203</w>
+      <y>29</y>
+      <x>236</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a skateboard down a winding road.</caption>
+      <caption>A boy practicing his skateboard skills on a public road area.</caption>
+      <caption>The man is practicing his moves on his skateboard. </caption>
+      <caption>A person on a skateboard on the street.</caption>
+      <caption>a skateboarder in a black shirt and some other people walking</caption>
+    </captions>
+</image>

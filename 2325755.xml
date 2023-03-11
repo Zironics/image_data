@@ -1,0 +1,68 @@
+<image>
+  <image-id>2325755</image-id>
+  <coco-id>227512</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3688102</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3341308</subject>
+      <object>3546064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482795</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3341308</subject>
+      <object>3940841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482796</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3341308</subject>
+      <object>3341309</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>337</h>
+      <object_id>3341308</object_id>
+      <w>451</w>
+      <y>17</y>
+      <x>47</x>
+      <name>pizza</name>
+    </object>
+    <object>
+      <name>box</name>
+      <h>348</h>
+      <object_id>3546064</object_id>
+      <w>460</w>
+      <y>4</y>
+      <x>24</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cardboard</attribute>
+      </attributes>
+      <name>box</name>
+      <h>357</h>
+      <object_id>3940841</object_id>
+      <w>320</w>
+      <y>11</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>cardboard</name>
+      <h>108</h>
+      <object_id>3341309</object_id>
+      <w>75</w>
+      <y>192</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large vegetable and cheese pizza partially eaten in a box.</caption>
+      <caption>An extra large pizza with mushrooms, peppers, and cheese.</caption>
+      <caption>A picture of a piece of pizza in a box.</caption>
+      <caption>An open box of delivery style vegetable pizza.</caption>
+      <caption>A partially eaten pizza is laying in a pizza box.</caption>
+    </captions>
+</image>

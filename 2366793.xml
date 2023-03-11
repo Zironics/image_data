@@ -1,0 +1,59 @@
+<image>
+  <image-id>2366793</image-id>
+  <coco-id>500211</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4366264</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2192889</subject>
+      <object>2192890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4366265</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1727986</subject>
+      <object>1727987</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>knob</name>
+      <h>10</h>
+      <object_id>2192889</object_id>
+      <w>15</w>
+      <y>179</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>179</h>
+      <object_id>2192890</object_id>
+      <w>60</w>
+      <y>191</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>chimney</name>
+      <h>32</h>
+      <object_id>1727986</object_id>
+      <w>32</w>
+      <y>82</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>78</h>
+      <object_id>1727987</object_id>
+      <w>218</w>
+      <y>104</y>
+      <x>276</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a spooky looking hotel resort in the hills</caption>
+      <caption>A row of closed brown umbrellas next to a building.</caption>
+      <caption>several beach umbrellas folded in front of a large house with lots of windows</caption>
+      <caption>All of the umbrellas are folded up. </caption>
+      <caption>all umbrellas are closed at he tables outside the hotel </caption>
+    </captions>
+</image>

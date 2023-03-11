@@ -1,0 +1,103 @@
+<image>
+  <image-id>2413485</image-id>
+  <coco-id>113700</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>166216</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172702</subject>
+      <object>172705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>166217</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172703</subject>
+      <object>172705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>166218</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172704</subject>
+      <object>172705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>166219</relationship_id>
+      <predicate>resting on</predicate>
+      <subject>172702</subject>
+      <object>172706</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>baked</attribute>
+        <attribute>oblong</attribute>
+        <attribute>huge</attribute>
+        <attribute>large</attribute>
+        <attribute>resting</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>52</h>
+      <object_id>172702</object_id>
+      <w>208</w>
+      <y>185</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>182</h>
+      <object_id>172705</object_id>
+      <w>498</w>
+      <y>193</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baked</attribute>
+        <attribute>oblong</attribute>
+        <attribute>huge</attribute>
+        <attribute>large</attribute>
+        <attribute>resting</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>119</h>
+      <object_id>172703</object_id>
+      <w>169</w>
+      <y>203</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baked</attribute>
+        <attribute>oblong</attribute>
+        <attribute>huge</attribute>
+        <attribute>large</attribute>
+        <attribute>resting</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>97</h>
+      <object_id>172704</object_id>
+      <w>316</w>
+      <y>271</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>board</name>
+      <h>34</h>
+      <object_id>172706</object_id>
+      <w>203</w>
+      <y>206</y>
+      <x>195</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting at a restaurant with large flat breads.</caption>
+      <caption>Man sitting at a table with three big pizzas in front of him.</caption>
+      <caption>I hope he does not plan to eat all of that himself.</caption>
+      <caption>A man sitting at a table with several large pizzas.</caption>
+      <caption>A man sitting at a table with a pizza at his place and to others.</caption>
+    </captions>
+</image>

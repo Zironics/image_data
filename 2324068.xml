@@ -1,0 +1,112 @@
+<image>
+  <image-id>2324068</image-id>
+  <coco-id>270071</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4527791</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3235304</subject>
+      <object>3235305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527792</relationship_id>
+      <predicate>near</predicate>
+      <subject>3366870</subject>
+      <object>3957804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527793</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3197229</subject>
+      <object>3197231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4527794</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3283114</subject>
+      <object>3957805</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Red and white</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>38</h>
+      <object_id>3235304</object_id>
+      <w>105</w>
+      <y>147</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>96</h>
+      <object_id>3235305</object_id>
+      <w>459</w>
+      <y>124</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>surfers</name>
+      <h>78</h>
+      <object_id>3366870</object_id>
+      <w>497</w>
+      <y>93</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>125</h>
+      <object_id>3957804</object_id>
+      <w>450</w>
+      <y>68</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>62</h>
+      <object_id>3197229</object_id>
+      <w>32</w>
+      <y>103</y>
+      <x>425</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>49</h>
+      <object_id>3197231</object_id>
+      <w>31</w>
+      <y>112</y>
+      <x>424</x>
+    </object>
+    <object>
+      <name>surfer</name>
+      <h>70</h>
+      <object_id>3283114</object_id>
+      <w>31</w>
+      <y>102</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>71</h>
+      <object_id>3957805</object_id>
+      <w>18</w>
+      <y>108</y>
+      <x>326</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing on top of a sandy beach.</caption>
+      <caption>A big bunch of people on the beach by the water.</caption>
+      <caption>Several men and woman in wet suits standing on the beach. </caption>
+      <caption>A group of people standing by a large body of water</caption>
+      <caption>A group of people in wetsuits stands on a beach.</caption>
+    </captions>
+</image>

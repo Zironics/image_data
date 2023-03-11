@@ -1,0 +1,133 @@
+<image>
+  <image-id>2414768</image-id>
+  <coco-id>544449</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>147057</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>152335</subject>
+      <object>152331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147058</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>152335</subject>
+      <object>152330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147059</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>152335</subject>
+      <object>152332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147060</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>152335</subject>
+      <object>152334</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147061</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>152335</subject>
+      <object>152333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147062</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>152335</subject>
+      <object>152334</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147063</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>152335</subject>
+      <object>152333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147064</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>152335</subject>
+      <object>152332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>147065</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>152335</subject>
+      <object>152331</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>orange</name>
+      <h>210</h>
+      <object_id>152335</object_id>
+      <w>222</w>
+      <y>54</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>169</h>
+      <object_id>152331</object_id>
+      <w>173</w>
+      <y>23</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>193</h>
+      <object_id>152330</object_id>
+      <w>191</w>
+      <y>167</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>142</h>
+      <object_id>152332</object_id>
+      <w>164</w>
+      <y>220</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>146</h>
+      <object_id>152334</object_id>
+      <w>111</w>
+      <y>60</y>
+      <x>369</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>apple</name>
+      <h>163</h>
+      <object_id>152333</object_id>
+      <w>158</w>
+      <y>198</y>
+      <x>342</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The orange is on a stack of green apples. </caption>
+      <caption>Green apples with one orange orange laying on top of them.</caption>
+      <caption>An orange is top of an assortment of green apples.</caption>
+      <caption>An orange sitting on top of green apples</caption>
+      <caption>A orange is in the same box as are a bunch of green apples.</caption>
+    </captions>
+</image>

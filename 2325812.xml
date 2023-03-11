@@ -1,0 +1,59 @@
+<image>
+  <image-id>2325812</image-id>
+  <coco-id>544893</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4482557</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3940732</subject>
+      <object>3233955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482558</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3234483</subject>
+      <object>3234484</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>writing</name>
+      <h>46</h>
+      <object_id>3940732</object_id>
+      <w>120</w>
+      <y>199</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>banner</name>
+      <h>90</h>
+      <object_id>3233955</object_id>
+      <w>150</w>
+      <y>189</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>220</h>
+      <object_id>3234483</object_id>
+      <w>49</w>
+      <y>110</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sunglasses</name>
+      <h>10</h>
+      <object_id>3234484</object_id>
+      <w>26</w>
+      <y>123</y>
+      <x>24</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A ten sitting next to a sidewalk filled with people.</caption>
+      <caption>A spot outside for parking bicycles for free. </caption>
+      <caption>A bike parking white tent cover is set up.</caption>
+      <caption>A registration tent for a bike event, with several people milling about.</caption>
+      <caption>A group of people standing beside a building.</caption>
+    </captions>
+</image>

@@ -1,0 +1,84 @@
+<image>
+  <image-id>2393740</image-id>
+  <coco-id>556420</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3408515</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1217302</subject>
+      <object>1217303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3408516</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1217305</subject>
+      <object>1217306</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3408517</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1217314</subject>
+      <object>1217315</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sand</name>
+      <h>25</h>
+      <object_id>1217302</object_id>
+      <w>30</w>
+      <y>253</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>94</h>
+      <object_id>1217303</object_id>
+      <w>194</w>
+      <y>230</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>68</h>
+      <object_id>1217305</object_id>
+      <w>85</w>
+      <y>128</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>palm</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>70</h>
+      <object_id>1217306</object_id>
+      <w>204</w>
+      <y>24</y>
+      <x>53</x>
+    </object>
+    <object>
+      <name>formation</name>
+      <h>40</h>
+      <object_id>1217314</object_id>
+      <w>55</w>
+      <y>275</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>stone</name>
+      <h>39</h>
+      <object_id>1217315</object_id>
+      <w>71</w>
+      <y>309</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beautiful sandy beach with a grass umbrella next to crystal blue water.</caption>
+      <caption>A white sandy beach has a chair and straw umbrella.</caption>
+      <caption>Beach scene with an umbrella, chair, and other items close to the beach. </caption>
+      <caption>a chair and a palm frond umbrella sittin on a quiet beach</caption>
+      <caption>a chair under a straw mat umbrella at the beach</caption>
+    </captions>
+</image>

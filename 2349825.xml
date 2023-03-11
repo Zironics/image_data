@@ -1,0 +1,184 @@
+<image>
+  <image-id>2349825</image-id>
+  <coco-id>467662</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4413093</relationship_id>
+      <predicate>walking in a</predicate>
+      <subject>3344859</subject>
+      <object>2289132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413094</relationship_id>
+      <predicate>with an</predicate>
+      <subject>3501410</subject>
+      <object>3344859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3806792</relationship_id>
+      <predicate>walking in</predicate>
+      <subject>3344859</subject>
+      <object>3501410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3806793</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3596889</subject>
+      <object>3596888</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413095</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2232963</subject>
+      <object>2232964</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413096</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2202418</subject>
+      <object>2202417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413097</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2010664</subject>
+      <object>3344859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413098</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2488556</subject>
+      <object>3447572</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4003268</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3110080</subject>
+      <object>3110081</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>97</h>
+      <object_id>3344859</object_id>
+      <w>139</w>
+      <y>142</y>
+      <x>211</x>
+      <name>an elephant</name>
+    </object>
+    <object>
+      <name>field</name>
+      <h>221</h>
+      <object_id>2289132</object_id>
+      <w>485</w>
+      <y>153</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>area</name>
+      <h>372</h>
+      <object_id>3501410</object_id>
+      <w>490</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>elephants</name>
+      <h>112</h>
+      <object_id>3596889</object_id>
+      <w>344</w>
+      <y>136</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>136</h>
+      <object_id>3596888</object_id>
+      <w>346</w>
+      <y>117</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>rear end</name>
+      <h>38</h>
+      <object_id>2232963</object_id>
+      <w>34</w>
+      <y>152</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>100</h>
+      <object_id>2232964</object_id>
+      <w>115</w>
+      <y>127</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>45</h>
+      <object_id>2202418</object_id>
+      <w>36</w>
+      <y>188</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>104</h>
+      <object_id>2202417</object_id>
+      <w>99</w>
+      <y>135</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>5</h>
+      <object_id>2010664</object_id>
+      <w>35</w>
+      <y>162</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>26</h>
+      <object_id>2488556</object_id>
+      <w>19</w>
+      <y>215</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <h>46</h>
+      <object_id>3447572</object_id>
+      <w>44</w>
+      <y>196</y>
+      <x>68</x>
+      <name>baby elephant</name>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>21</h>
+      <object_id>3110080</object_id>
+      <w>30</w>
+      <y>217</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>43</h>
+      <object_id>3110081</object_id>
+      <w>72</w>
+      <y>197</y>
+      <x>40</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Elephants running through the sand near a grove of trees.</caption>
+      <caption>An elephant is roaming freely in his enclosure.</caption>
+      <caption>An elephant is walking in the wild alone.</caption>
+      <caption>A large elephant is walking along the zoo's confinements.</caption>
+      <caption>Elephants running past a burned heap in a dusty clearing.</caption>
+    </captions>
+</image>

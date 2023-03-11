@@ -1,0 +1,73 @@
+<image>
+  <image-id>2381388</image-id>
+  <coco-id>359702</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4588514</relationship_id>
+      <predicate>has</predicate>
+      <subject>4067974</subject>
+      <object>4067969</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4588516</relationship_id>
+      <predicate>has</predicate>
+      <subject>4067971</subject>
+      <object>4067972</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4588518</relationship_id>
+      <predicate>has</predicate>
+      <subject>4067974</subject>
+      <object>4067975</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>animal</name>
+      <h>423</h>
+      <object_id>4067974</object_id>
+      <w>297</w>
+      <y>62</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>black eyes</name>
+      <h>59</h>
+      <object_id>4067969</object_id>
+      <w>148</w>
+      <y>185</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>187</h>
+      <object_id>4067971</object_id>
+      <w>302</w>
+      <y>15</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>41</h>
+      <object_id>4067972</object_id>
+      <w>32</w>
+      <y>321</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>rope</name>
+      <h>47</h>
+      <object_id>4067975</object_id>
+      <w>106</w>
+      <y>130</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown-colored cow has a pair of horns mounted on its head.</caption>
+      <caption>A cow has its horns and forehead adorned with chain and yarn.</caption>
+      <caption>A cow is outside and stares into the camera.</caption>
+      <caption>An ox is staring directly into the camera.</caption>
+      <caption>A brown cow wearing horns standing under a tree.</caption>
+    </captions>
+</image>

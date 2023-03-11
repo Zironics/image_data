@@ -1,0 +1,98 @@
+<image>
+  <image-id>2391495</image-id>
+  <coco-id>460147</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1127712</relationship_id>
+      <predicate>has</predicate>
+      <subject>488597</subject>
+      <object>488598</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1127713</relationship_id>
+      <predicate>has a</predicate>
+      <subject>488600</subject>
+      <object>488601</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1127714</relationship_id>
+      <predicate>are in</predicate>
+      <subject>488603</subject>
+      <object>488604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1127715</relationship_id>
+      <predicate>has</predicate>
+      <subject>488604</subject>
+      <object>488605</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>160</h>
+      <object_id>488597</object_id>
+      <w>95</w>
+      <y>130</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>cars</name>
+      <h>90</h>
+      <object_id>488598</object_id>
+      <w>72</w>
+      <y>132</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>30</h>
+      <object_id>488600</object_id>
+      <w>25</w>
+      <y>29</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>post</name>
+      <h>64</h>
+      <object_id>488601</object_id>
+      <w>13</w>
+      <y>28</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>motorbikes</name>
+      <h>12</h>
+      <object_id>488603</object_id>
+      <w>6</w>
+      <y>127</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>235</h>
+      <object_id>488604</object_id>
+      <w>433</w>
+      <y>95</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>shadows</name>
+      <h>30</h>
+      <object_id>488605</object_id>
+      <w>180</w>
+      <y>211</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A city street filled with lots of traffic and lined with buildings.</caption>
+      <caption>Semi carrying cars on busy road in city near white car. </caption>
+      <caption>Traffic is traveling both ways on the busy streeet.</caption>
+      <caption>Traffic can be seen far down the road in this photograph.</caption>
+      <caption>A busy highway is being viewed from a distance.</caption>
+    </captions>
+</image>

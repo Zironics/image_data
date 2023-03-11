@@ -1,0 +1,125 @@
+<image>
+  <image-id>2320671</image-id>
+  <coco-id>130517</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3147107</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1049433</subject>
+      <object>1049434</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147108</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1049433</subject>
+      <object>1049434</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147109</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1049433</subject>
+      <object>1049442</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147110</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1049433</subject>
+      <object>1049434</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147111</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1049433</subject>
+      <object>1049434</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147112</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1049433</subject>
+      <object>1049450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147113</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1049433</subject>
+      <object>1049442</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147114</relationship_id>
+      <predicate>across from</predicate>
+      <subject>1049451</subject>
+      <object>1049433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3147115</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1049433</subject>
+      <object>1049442</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>man</name>
+      <h>325</h>
+      <object_id>1049433</object_id>
+      <w>154</w>
+      <y>7</y>
+      <x>213</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>yellow</attribute>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>camera</name>
+      <h>24</h>
+      <object_id>1049434</object_id>
+      <w>29</w>
+      <y>81</y>
+      <x>269</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red yellow</attribute>
+        <attribute>blue</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>93</h>
+      <object_id>1049442</object_id>
+      <w>295</w>
+      <y>239</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>13</h>
+      <object_id>1049450</object_id>
+      <w>12</w>
+      <y>54</y>
+      <x>276</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>buildings</name>
+      <h>94</h>
+      <object_id>1049451</object_id>
+      <w>239</w>
+      <y>176</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a lush green field holding a kite.</caption>
+      <caption>This man shows how perfect the weather is for flying kites with his hair. </caption>
+      <caption>A man taking a picture in front of the camera while holding a camera.</caption>
+      <caption>a man that is outside with a kite in hand</caption>
+      <caption>A man that has a camera and a kite.</caption>
+    </captions>
+</image>

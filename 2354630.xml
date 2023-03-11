@@ -1,0 +1,93 @@
+<image>
+  <image-id>2354630</image-id>
+  <coco-id>14622</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4227531</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3776655</subject>
+      <object>3776656</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3748061</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3776655</subject>
+      <object>2684198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3732677</relationship_id>
+      <predicate>on side</predicate>
+      <subject>2096170</subject>
+      <object>2096171</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4227532</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>2684199</subject>
+      <object>2684198</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>branding</name>
+      <h>26</h>
+      <object_id>3776655</object_id>
+      <w>50</w>
+      <y>193</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>34</h>
+      <object_id>3776656</object_id>
+      <w>104</w>
+      <y>194</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>192</h>
+      <object_id>2684198</object_id>
+      <w>430</w>
+      <y>103</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>41</h>
+      <object_id>2096170</object_id>
+      <w>17</w>
+      <y>229</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>train</name>
+      <h>207</h>
+      <object_id>2096171</object_id>
+      <w>454</w>
+      <y>84</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>52</h>
+      <object_id>2684199</object_id>
+      <w>141</w>
+      <y>280</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large long train on a steel track.</caption>
+      <caption>A train traveling down tracks next to a forest.</caption>
+      <caption>a red train engine pulling a long line  of rail cars</caption>
+      <caption>A long cargo train with a red engine goes down the tracks beside a forest. </caption>
+      <caption>A long train is going down the tracks by woods.</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2320290</image-id>
+  <coco-id>220526</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3797207</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2745622</subject>
+      <object>3592947</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>310</h>
+      <object_id>2745622</object_id>
+      <w>293</w>
+      <y>22</y>
+      <x>207</x>
+      <name>zebra</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>54</h>
+      <object_id>3592947</object_id>
+      <w>100</w>
+      <y>271</y>
+      <x>40</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of zebra standing next to each other on a field.</caption>
+      <caption>A young zebra is between two larger zebras.</caption>
+      <caption>a close up of many zebras with one small one</caption>
+      <caption>a little zebra standing between two others while looking into a camera </caption>
+      <caption>Young striped zebra looks out among it's herd</caption>
+    </captions>
+</image>

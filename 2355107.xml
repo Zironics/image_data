@@ -1,0 +1,46 @@
+<image>
+  <image-id>2355107</image-id>
+  <coco-id>487722</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4225764</relationship_id>
+      <predicate>standing behind</predicate>
+      <subject>832724</subject>
+      <object>3894604</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>leaning</attribute>
+      </attributes>
+      <h>27</h>
+      <object_id>832724</object_id>
+      <w>53</w>
+      <y>67</y>
+      <x>96</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>pick up</attribute>
+        <attribute>white</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>176</h>
+      <object_id>3894604</object_id>
+      <w>456</w>
+      <y>63</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bunch of luggage that is in front of a truck.</caption>
+      <caption>A large amount of luggage next to a red truck. </caption>
+      <caption>A large amount of suitcases are parked near a red pickup truck.</caption>
+      <caption>A truck with loads of garbage in front of it.</caption>
+      <caption>A red truck and a huge pile of trash in the side of a road</caption>
+    </captions>
+</image>

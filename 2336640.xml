@@ -1,0 +1,72 @@
+<image>
+  <image-id>2336640</image-id>
+  <coco-id>276458</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4806022</relationship_id>
+      <predicate>in</predicate>
+      <subject>4612712</subject>
+      <object>4309929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4806023</relationship_id>
+      <predicate>in</predicate>
+      <subject>4612715</subject>
+      <object>4309929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4806024</relationship_id>
+      <predicate>in</predicate>
+      <subject>4612719</subject>
+      <object>4309929</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>parasail</name>
+      <h>41</h>
+      <object_id>4612712</object_id>
+      <w>32</w>
+      <y>73</y>
+      <x>302</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>golden</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>197</h>
+      <object_id>4309929</object_id>
+      <w>499</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>parasail</name>
+      <h>54</h>
+      <object_id>4612715</object_id>
+      <w>49</w>
+      <y>3</y>
+      <x>55</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>54</h>
+      <object_id>4612719</object_id>
+      <w>48</w>
+      <y>16</y>
+      <x>377</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple people in the water flying kites.</caption>
+      <caption>kites being flown in the sky at a beach</caption>
+      <caption>a group of people wind surfing at dusk at a beach</caption>
+      <caption>A group of people that are wind surfing in the water.</caption>
+      <caption>A group of people kitboard on top of a body of water.</caption>
+    </captions>
+</image>

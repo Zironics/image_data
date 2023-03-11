@@ -1,0 +1,63 @@
+<image>
+  <image-id>2383292</image-id>
+  <coco-id>435718</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1307295</relationship_id>
+      <predicate>for</predicate>
+      <subject>533754</subject>
+      <object>533755</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1307296</relationship_id>
+      <predicate>for</predicate>
+      <subject>533767</subject>
+      <object>533773</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>score</name>
+      <h>40</h>
+      <object_id>533754</object_id>
+      <w>53</w>
+      <y>169</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>game</name>
+      <h>162</h>
+      <object_id>533755</object_id>
+      <w>400</w>
+      <y>95</y>
+      <x>43</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <h>43</h>
+      <object_id>533767</object_id>
+      <w>66</w>
+      <y>259</y>
+      <x>29</x>
+      <name>floor</name>
+    </object>
+    <object>
+      <name>playing</name>
+      <h>160</h>
+      <object_id>533773</object_id>
+      <w>423</w>
+      <y>120</y>
+      <x>53</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a tennis court swinging a tennis racquet.</caption>
+      <caption>Tennis player preparing to hit ball during match play.</caption>
+      <caption>A man throws a tennis ball in the air to serve it. </caption>
+      <caption>A man who is playing tennis about to server the ball.</caption>
+      <caption>A man is playing tennis in front of a crowd.</caption>
+    </captions>
+</image>

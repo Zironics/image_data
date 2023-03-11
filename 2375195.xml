@@ -1,0 +1,40 @@
+<image>
+  <image-id>2375195</image-id>
+  <coco-id>178168</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1938297</relationship_id>
+      <predicate>IN</predicate>
+      <subject>723206</subject>
+      <object>723207</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>building</name>
+      <h>102</h>
+      <object_id>723206</object_id>
+      <w>126</w>
+      <y>125</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>distance</name>
+      <h>216</h>
+      <object_id>723207</object_id>
+      <w>273</w>
+      <y>91</y>
+      <x>89</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>this is a cross walk on a small street</caption>
+      <caption>A crosswalk with a traffic light on the corner.</caption>
+      <caption>two stop lights at an intersection some of the road is made with brick</caption>
+      <caption>an empty road with a red light for the crosswalk</caption>
+      <caption>a single street with a couple of street lights on it </caption>
+    </captions>
+</image>

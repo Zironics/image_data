@@ -1,0 +1,59 @@
+<image>
+  <image-id>2336698</image-id>
+  <coco-id>221893</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3798327</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3593454</subject>
+      <object>2107798</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260068</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2809217</subject>
+      <object>2809218</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wine</name>
+      <h>186</h>
+      <object_id>3593454</object_id>
+      <w>200</w>
+      <y>64</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>342</h>
+      <object_id>2107798</object_id>
+      <w>177</w>
+      <y>11</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>372</h>
+      <object_id>2809217</object_id>
+      <w>205</w>
+      <y>0</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>wood counter</name>
+      <h>58</h>
+      <object_id>2809218</object_id>
+      <w>498</w>
+      <y>315</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bottle of beer on top of a table next to a glass full of it.</caption>
+      <caption>The wine is poured in the wine glass on the table.</caption>
+      <caption>a cup of ine is next to a bottle</caption>
+      <caption>a brown table with a bottle and a glass </caption>
+      <caption>A view of some alcohol with a glass filled.</caption>
+    </captions>
+</image>

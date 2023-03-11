@@ -1,0 +1,41 @@
+<image>
+  <image-id>713946</image-id>
+  <coco-id>93154</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4792155</relationship_id>
+      <predicate>for</predicate>
+      <subject>4578980</subject>
+      <object>4578981</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>158</h>
+      <object_id>4578980</object_id>
+      <w>183</w>
+      <y>183</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>restauarant</name>
+      <h>131</h>
+      <object_id>4578981</object_id>
+      <w>445</w>
+      <y>305</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Signs along a street on a rainy day.</caption>
+      <caption>A yield and left turn sign on the side of a street.</caption>
+      <caption>a wet city street with cars on it</caption>
+      <caption>A rode that has car and bicycle lane that cars are driving on the left side of the road</caption>
+      <caption>The cars are travelling down the wet road.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337676</image-id>
+  <coco-id>35246</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4074932</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2865070</subject>
+      <object>2865071</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4074933</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2681331</subject>
+      <object>3706408</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sunglasses</name>
+      <h>22</h>
+      <object_id>2865070</object_id>
+      <w>31</w>
+      <y>179</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>25</h>
+      <object_id>2865071</object_id>
+      <w>27</w>
+      <y>179</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>261</h>
+      <object_id>2681331</object_id>
+      <w>151</w>
+      <y>124</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>29</h>
+      <object_id>3706408</object_id>
+      <w>148</w>
+      <y>469</y>
+      <x>180</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing on a ledge near an arch.</caption>
+      <caption>A person riding a skateboard down a street.</caption>
+      <caption>A woman on a skateboard traveling at high speed.</caption>
+      <caption>a person wearing protective gear riding a skate board</caption>
+      <caption>A person riding a skateboard past a blurry object.</caption>
+    </captions>
+</image>

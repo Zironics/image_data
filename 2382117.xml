@@ -1,0 +1,87 @@
+<image>
+  <image-id>2382117</image-id>
+  <coco-id>108170</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4661567</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4249059</subject>
+      <object>4249071</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661568</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4249063</subject>
+      <object>4249071</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661572</relationship_id>
+      <predicate>has</predicate>
+      <subject>4249071</subject>
+      <object>4249072</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4559523</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3998717</subject>
+      <object>3998718</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>75</h>
+      <object_id>4249059</object_id>
+      <w>81</w>
+      <y>126</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>358</h>
+      <object_id>4249071</object_id>
+      <w>248</w>
+      <y>107</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>14</h>
+      <object_id>4249063</object_id>
+      <w>18</w>
+      <y>146</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>50</h>
+      <object_id>4249072</object_id>
+      <w>34</w>
+      <y>248</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>338</h>
+      <object_id>3998717</object_id>
+      <w>160</w>
+      <y>160</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>389</h>
+      <object_id>3998718</object_id>
+      <w>370</w>
+      <y>105</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Man on a roof working on a kite.</caption>
+      <caption>A man troubleshoots his kite on top of a building.</caption>
+      <caption>A man tries to fix his umbrella on the roof.</caption>
+      <caption>A man working on a kite on a roof top.</caption>
+      <caption>A guy is playing with a kite outdoors.</caption>
+    </captions>
+</image>

@@ -1,0 +1,93 @@
+<image>
+  <image-id>2392542</image-id>
+  <coco-id>283717</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3430445</relationship_id>
+      <predicate>under</predicate>
+      <subject>1228774</subject>
+      <object>1228768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3430446</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1228765</subject>
+      <object>1228771</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3430447</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1228780</subject>
+      <object>1228768</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>sorter</name>
+      <h>133</h>
+      <object_id>1228774</object_id>
+      <w>247</w>
+      <y>240</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>old</attribute>
+      </attributes>
+      <name>microwave</name>
+      <h>151</h>
+      <object_id>1228768</object_id>
+      <w>266</w>
+      <y>111</y>
+      <x>214</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reamed</attribute>
+        <attribute>stacked</attribute>
+        <attribute>tacked</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>77</h>
+      <object_id>1228765</object_id>
+      <w>61</w>
+      <y>295</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+        <attribute>wire</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>shelves</name>
+      <h>179</h>
+      <object_id>1228771</object_id>
+      <w>108</w>
+      <y>189</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>cork board</name>
+      <h>131</h>
+      <object_id>1228780</object_id>
+      <w>104</w>
+      <y>2</y>
+      <x>395</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A microwave sitting on top of a wooden shelf.</caption>
+      <caption>there is a black microwave that is on top of a wooden table</caption>
+      <caption>THERE IS A MICROWAVE  THAT IS ON THE DESK TOP </caption>
+      <caption>a microwave on a small table with a device on top of it</caption>
+      <caption>A kitchen counter with a microwave and a toaster oven on a shelf </caption>
+    </captions>
+</image>

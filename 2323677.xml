@@ -1,0 +1,93 @@
+<image>
+  <image-id>2323677</image-id>
+  <coco-id>416656</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4529921</relationship_id>
+      <predicate>CLOSED</predicate>
+      <subject>3215150</subject>
+      <object>3215149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4088643</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>3508809</subject>
+      <object>3711612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4529924</relationship_id>
+      <predicate>HANGING</predicate>
+      <subject>2860066</subject>
+      <object>2860065</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>window</name>
+      <h>103</h>
+      <object_id>3215150</object_id>
+      <w>50</w>
+      <y>55</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>nice</attribute>
+      </attributes>
+      <name>curtains</name>
+      <h>99</h>
+      <object_id>3215149</object_id>
+      <w>37</w>
+      <y>57</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>80</h>
+      <object_id>3508809</object_id>
+      <w>20</w>
+      <y>35</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>97</h>
+      <object_id>3711612</object_id>
+      <w>22</w>
+      <y>25</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>browm</attribute>
+      </attributes>
+      <name>trim</name>
+      <h>18</h>
+      <object_id>2860066</object_id>
+      <w>240</w>
+      <y>0</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>WHITE</attribute>
+      </attributes>
+      <name>ceiling</name>
+      <h>23</h>
+      <object_id>2860065</object_id>
+      <w>245</w>
+      <y>0</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A living room in hotel or small apartment</caption>
+      <caption>A room featuring a couch, tv and chair.</caption>
+      <caption>A living room with furniture and a flat screen TV.</caption>
+      <caption>A living room with a view into a bedroom</caption>
+      <caption>A living room containing two couches, two tables and a flatscreen tv.</caption>
+    </captions>
+</image>

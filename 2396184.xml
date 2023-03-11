@@ -1,0 +1,103 @@
+<image>
+  <image-id>2396184</image-id>
+  <coco-id>29005</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4707218</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4361823</subject>
+      <object>4361824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4707219</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4361826</subject>
+      <object>4361827</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4707220</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4361828</subject>
+      <object>4361829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4707222</relationship_id>
+      <predicate>baking in</predicate>
+      <subject>4361832</subject>
+      <object>4361833</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>veggies</name>
+      <h>78</h>
+      <object_id>4361823</object_id>
+      <w>76</w>
+      <y>1</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>sauce</name>
+      <h>79</h>
+      <object_id>4361824</object_id>
+      <w>80</w>
+      <y>2</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>fork</name>
+      <h>71</h>
+      <object_id>4361826</object_id>
+      <w>15</w>
+      <y>11</y>
+      <x>479</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>80</h>
+      <object_id>4361827</object_id>
+      <w>80</w>
+      <y>2</y>
+      <x>417</x>
+    </object>
+    <object>
+      <name>dinner</name>
+      <h>81</h>
+      <object_id>4361828</object_id>
+      <w>50</w>
+      <y>1</y>
+      <x>425</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>80</h>
+      <object_id>4361829</object_id>
+      <w>80</w>
+      <y>3</y>
+      <x>417</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>42</h>
+      <object_id>4361832</object_id>
+      <w>80</w>
+      <y>20</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>oven</name>
+      <h>80</h>
+      <object_id>4361833</object_id>
+      <w>80</w>
+      <y>1</y>
+      <x>252</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A series of different foods are displayed in different images.</caption>
+      <caption>The steps in making a pizza from crust, prepping the vegetables, placing the toppings, baking, and plating.</caption>
+      <caption>Preparation of vegetables for a baked casserole dish.</caption>
+      <caption>A horizontal panel of six small food images shows different views of uncooked vegetables in the left three and different views of cooked casserole type dishes, incorporating the vegetables in the right three.  </caption>
+      <caption>A series of photographs showing different types of foods.</caption>
+    </captions>
+</image>

@@ -1,0 +1,150 @@
+<image>
+  <image-id>2389387</image-id>
+  <coco-id>166358</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3477822</relationship_id>
+      <predicate>has</predicate>
+      <subject>1261363</subject>
+      <object>1261364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477823</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>1261365</subject>
+      <object>1261363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477824</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1261364</subject>
+      <object>1261363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477825</relationship_id>
+      <predicate>has</predicate>
+      <subject>1261363</subject>
+      <object>1261364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477826</relationship_id>
+      <predicate>has</predicate>
+      <subject>1261363</subject>
+      <object>1261364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477827</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1261365</subject>
+      <object>1261372</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477828</relationship_id>
+      <predicate>has</predicate>
+      <subject>1261363</subject>
+      <object>1261364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477829</relationship_id>
+      <predicate>has</predicate>
+      <subject>1261363</subject>
+      <object>1261364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477830</relationship_id>
+      <predicate>are in</predicate>
+      <subject>1261364</subject>
+      <object>1261363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477831</relationship_id>
+      <predicate>covered in</predicate>
+      <subject>1261370</subject>
+      <object>1261363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3477832</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1261363</subject>
+      <object>1261371</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>thick</attribute>
+        <attribute>white</attribute>
+        <attribute>fresh</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>192</h>
+      <object_id>1261363</object_id>
+      <w>490</w>
+      <y>179</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>140</h>
+      <object_id>1261364</object_id>
+      <w>300</w>
+      <y>217</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+        <attribute>up close</attribute>
+        <attribute>wearing</attribute>
+        <attribute>sitting</attribute>
+        <attribute>falling</attribute>
+        <attribute>going down</attribute>
+      </attributes>
+      <name>person</name>
+      <h>32</h>
+      <object_id>1261365</object_id>
+      <w>50</w>
+      <y>188</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>12</h>
+      <object_id>1261372</object_id>
+      <w>11</w>
+      <y>186</y>
+      <x>50</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>holding</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>111</h>
+      <object_id>1261370</object_id>
+      <w>18</w>
+      <y>101</y>
+      <x>91</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snowy</attribute>
+        <attribute>present</attribute>
+        <attribute>snow covered</attribute>
+      </attributes>
+      <name>mountain</name>
+      <h>195</h>
+      <object_id>1261371</object_id>
+      <w>495</w>
+      <y>175</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person skiing alone on snow covered mountain</caption>
+      <caption>A full view of a snow resort with many people. </caption>
+      <caption>A hill that is used for people to ski on.</caption>
+      <caption>A person sits in the snow on a snowy mountain side.</caption>
+      <caption>a person riding skis on a snowy surface</caption>
+    </captions>
+</image>

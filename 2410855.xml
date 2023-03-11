@@ -1,0 +1,89 @@
+<image>
+  <image-id>2410855</image-id>
+  <coco-id>521480</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3212102</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1084967</subject>
+      <object>1084968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212103</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1084967</subject>
+      <object>1084968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212104</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1084967</subject>
+      <object>1084968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212108</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1084967</subject>
+      <object>1084968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>648290</relationship_id>
+      <predicate>has</predicate>
+      <subject>361943</subject>
+      <object>361944</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3212145</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1084967</subject>
+      <object>1084968</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>62</h>
+      <object_id>1084967</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>62</h>
+      <object_id>1084968</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>396</h>
+      <object_id>361943</object_id>
+      <w>303</w>
+      <y>6</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>110</h>
+      <object_id>361944</object_id>
+      <w>215</w>
+      <y>39</y>
+      <x>83</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown bear investigating something on top of a rock.</caption>
+      <caption>a big brown bear drinks water from a lake</caption>
+      <caption>A bear that is looking at some water.</caption>
+      <caption>A large brown bear peering into the water at the edge of a stream.</caption>
+      <caption>A brown bear is looking into the water.</caption>
+    </captions>
+</image>

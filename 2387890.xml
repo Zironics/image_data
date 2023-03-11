@@ -1,0 +1,106 @@
+<image>
+  <image-id>2387890</image-id>
+  <coco-id>91442</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4771420</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4525052</subject>
+      <object>4525053</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4771421</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4525055</subject>
+      <object>4525054</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4771422</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4525059</subject>
+      <object>4525060</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4771423</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4525062</subject>
+      <object>4525063</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mailbox</name>
+      <h>45</h>
+      <object_id>4525052</object_id>
+      <w>29</w>
+      <y>244</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>160</h>
+      <object_id>4525053</object_id>
+      <w>484</w>
+      <y>207</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>95</h>
+      <object_id>4525055</object_id>
+      <w>32</w>
+      <y>236</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>98</h>
+      <object_id>4525054</object_id>
+      <w>24</w>
+      <y>240</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>tree</name>
+      <h>128</h>
+      <object_id>4525059</object_id>
+      <w>176</w>
+      <y>94</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>yard</name>
+      <h>200</h>
+      <object_id>4525060</object_id>
+      <w>335</w>
+      <y>96</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>32</h>
+      <object_id>4525062</object_id>
+      <w>61</w>
+      <y>146</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>50</h>
+      <object_id>4525063</object_id>
+      <w>111</w>
+      <y>132</y>
+      <x>387</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing ion a street that has been roped off.</caption>
+      <caption>A woman observing an accident scene involving a bus.</caption>
+      <caption>A tow truck sites near a city bus while a woman looks on.</caption>
+      <caption>A woman looking the opposite way of a road accident. </caption>
+      <caption>A woman standing on a road in front of a house with a utility truck nearby.</caption>
+    </captions>
+</image>

@@ -1,0 +1,81 @@
+<image>
+  <image-id>2382741</image-id>
+  <coco-id>315948</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4659548</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4243805</subject>
+      <object>4243806</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689365</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4319773</subject>
+      <object>4319774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4779084</relationship_id>
+      <predicate>has</predicate>
+      <subject>4545619</subject>
+      <object>4545620</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tile</name>
+      <h>25</h>
+      <object_id>4243805</object_id>
+      <w>21</w>
+      <y>373</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>96</h>
+      <object_id>4243806</object_id>
+      <w>72</w>
+      <y>350</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>21</h>
+      <object_id>4319773</object_id>
+      <w>22</w>
+      <y>206</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>218</h>
+      <object_id>4319774</object_id>
+      <w>148</w>
+      <y>119</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>478</h>
+      <object_id>4545619</object_id>
+      <w>312</w>
+      <y>11</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>88</h>
+      <object_id>4545620</object_id>
+      <w>57</w>
+      <y>148</y>
+      <x>78</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The small bathroom has an old bathtub in it.</caption>
+      <caption>A bathroom that has a tub, toilet and sink.</caption>
+      <caption>Black and white photograph of an old bathroom with a sink, toilet and tub</caption>
+      <caption>Dark dingy bathroom with a full white tub. </caption>
+      <caption>A dirty bathtub that is in a bathroom.</caption>
+    </captions>
+</image>

@@ -1,0 +1,63 @@
+<image>
+  <image-id>2326175</image-id>
+  <coco-id>481168</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4480873</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3256332</subject>
+      <object>3256333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3660558</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3235823</subject>
+      <object>3235824</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shoe</name>
+      <h>37</h>
+      <object_id>3256332</object_id>
+      <w>29</w>
+      <y>210</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>150</h>
+      <object_id>3256333</object_id>
+      <w>480</w>
+      <y>173</y>
+      <x>15</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>w</attribute>
+      </attributes>
+      <name>symbol</name>
+      <h>30</h>
+      <object_id>3235823</object_id>
+      <w>26</w>
+      <y>37</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>63</h>
+      <object_id>3235824</object_id>
+      <w>73</w>
+      <y>30</y>
+      <x>193</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl hitting a tennis ball with a tennis racket.</caption>
+      <caption>The tennis player jumps as she returns the ball.</caption>
+      <caption>A young girl taking a swing at a tennis ball</caption>
+      <caption>A girl is playing tennis on an outdoor court.</caption>
+      <caption>A young girl is swinging a tennis racket at a tennis ball. </caption>
+    </captions>
+</image>

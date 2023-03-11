@@ -1,0 +1,93 @@
+<image>
+  <image-id>2402123</image-id>
+  <coco-id>432317</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3281015</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1140023</subject>
+      <object>1140024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3281021</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1140025</subject>
+      <object>1140026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>794205</relationship_id>
+      <predicate>ON</predicate>
+      <subject>392509</subject>
+      <object>392510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3281057</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1140025</subject>
+      <object>1140026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3281061</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1140025</subject>
+      <object>1140026</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1140023</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1140024</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1140025</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1140026</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>policemen</name>
+      <h>29</h>
+      <object_id>392509</object_id>
+      <w>230</w>
+      <y>82</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>43</h>
+      <object_id>392510</object_id>
+      <w>196</w>
+      <y>109</y>
+      <x>229</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large group of police riding horses down a city street.</caption>
+      <caption>Officers are standing and on horses to form a line across a town center.</caption>
+      <caption>A line of police on foot and on horseback.</caption>
+      <caption>many police are lined up and some are on horses</caption>
+      <caption>A large number of law enforcement officers gathering around a crod of people in a public square.</caption>
+    </captions>
+</image>

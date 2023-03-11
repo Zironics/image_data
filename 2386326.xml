@@ -1,0 +1,116 @@
+<image>
+  <image-id>2386326</image-id>
+  <coco-id>483899</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4596106</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4086257</subject>
+      <object>4086321</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4596107</relationship_id>
+      <predicate>has</predicate>
+      <subject>4086321</subject>
+      <object>4086257</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4596115</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4086269</subject>
+      <object>4086314</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4596120</relationship_id>
+      <predicate>riding</predicate>
+      <subject>4086269</subject>
+      <object>4086320</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4596121</relationship_id>
+      <predicate>has</predicate>
+      <subject>4086321</subject>
+      <object>4086322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4596122</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4086322</subject>
+      <object>4086321</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>New York Yankees</attribute>
+        <attribute>on a hat</attribute>
+      </attributes>
+      <h>12</h>
+      <object_id>4086257</object_id>
+      <w>14</w>
+      <y>74</y>
+      <x>203</x>
+      <name>symbol</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>30</h>
+      <object_id>4086321</object_id>
+      <w>50</w>
+      <y>68</y>
+      <x>180</x>
+      <name>black hat</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on a skateboard</attribute>
+      </attributes>
+      <h>243</h>
+      <object_id>4086269</object_id>
+      <w>130</w>
+      <y>68</y>
+      <x>126</x>
+      <name>guy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>sleeved</attribute>
+      </attributes>
+      <name>sleeved shirt</name>
+      <h>69</h>
+      <object_id>4086314</object_id>
+      <w>54</w>
+      <y>108</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>32</h>
+      <object_id>4086320</object_id>
+      <w>140</w>
+      <y>281</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white lettering</name>
+      <h>11</h>
+      <object_id>4086322</object_id>
+      <w>14</w>
+      <y>74</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person riding a skate board at a skate park</caption>
+      <caption>A man on a skateboard in a blurry picture</caption>
+      <caption>A boy with a hat on, riding a skateboard and in motion with the background of the photo blurry.</caption>
+      <caption>A blurry photo of a man in black riding his skateboard.</caption>
+      <caption>A boy skateboarding in an urban setting. </caption>
+    </captions>
+</image>

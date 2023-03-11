@@ -1,0 +1,100 @@
+<image>
+  <image-id>2367658</image-id>
+  <coco-id>155087</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2049373</relationship_id>
+      <predicate>IN</predicate>
+      <subject>750739</subject>
+      <object>750738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2049374</relationship_id>
+      <predicate>has</predicate>
+      <subject>750733</subject>
+      <object>750740</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2049375</relationship_id>
+      <predicate>IN</predicate>
+      <subject>750744</subject>
+      <object>750738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2049376</relationship_id>
+      <predicate>IN</predicate>
+      <subject>750744</subject>
+      <object>750738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2049377</relationship_id>
+      <predicate>IN</predicate>
+      <subject>750746</subject>
+      <object>750738</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sea shells</name>
+      <h>82</h>
+      <object_id>750739</object_id>
+      <w>125</w>
+      <y>24</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>sand</name>
+      <h>368</h>
+      <object_id>750738</object_id>
+      <w>492</w>
+      <y>5</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>143</h>
+      <object_id>750733</object_id>
+      <w>245</w>
+      <y>133</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>26</h>
+      <object_id>750740</object_id>
+      <w>35</w>
+      <y>245</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>ripples</name>
+      <h>47</h>
+      <object_id>750744</object_id>
+      <w>184</w>
+      <y>299</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>feathers</name>
+      <h>103</h>
+      <object_id>750746</object_id>
+      <w>143</w>
+      <y>19</y>
+      <x>202</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small white bird standing on top of a dirt field.</caption>
+      <caption>A bird sits in the medium brown colored sand.</caption>
+      <caption>A bird walking through the sand and looking for food.</caption>
+      <caption>A seagull standing on a beach observantly looking.</caption>
+      <caption>The bird is standing in the sand alone.</caption>
+    </captions>
+</image>

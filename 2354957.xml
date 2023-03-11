@@ -1,0 +1,130 @@
+<image>
+  <image-id>2354957</image-id>
+  <coco-id>534162</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4226310</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>3164584</subject>
+      <object>3164585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4226311</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>2031209</subject>
+      <object>2377542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3745060</relationship_id>
+      <predicate>texting on</predicate>
+      <subject>2529254</subject>
+      <object>2529252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4226312</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2031209</subject>
+      <object>3775866</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4226313</relationship_id>
+      <predicate>sitting</predicate>
+      <subject>2031209</subject>
+      <object>3775868</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4400353</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>2529254</subject>
+      <object>2150219</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>necklace</name>
+      <h>71</h>
+      <object_id>3164584</object_id>
+      <w>69</w>
+      <y>158</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>285</h>
+      <object_id>3164585</object_id>
+      <w>234</w>
+      <y>60</y>
+      <x>258</x>
+    </object>
+    <object>
+      <h>302</h>
+      <object_id>2031209</object_id>
+      <w>289</w>
+      <y>48</y>
+      <x>23</x>
+      <name>girl</name>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>309</h>
+      <object_id>2377542</object_id>
+      <w>265</w>
+      <y>39</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>297</h>
+      <object_id>2529254</object_id>
+      <w>232</w>
+      <y>51</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>50</h>
+      <object_id>2529252</object_id>
+      <w>30</w>
+      <y>202</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>141</h>
+      <object_id>3775866</object_id>
+      <w>183</w>
+      <y>195</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>leather</attribute>
+      </attributes>
+      <name>couch</name>
+      <h>143</h>
+      <object_id>3775868</object_id>
+      <w>319</w>
+      <y>46</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>34</h>
+      <object_id>2150219</object_id>
+      <w>47</w>
+      <y>224</y>
+      <x>406</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two girls are sitting on a couch looking at cellphones.</caption>
+      <caption>a close up of two people using cell phones</caption>
+      <caption>Two young ladies sitting on a couch texting on their cell phones.</caption>
+      <caption>two women are sitting on a couch texting on their phones</caption>
+      <caption>Two girls are keeping up with their friends.</caption>
+    </captions>
+</image>

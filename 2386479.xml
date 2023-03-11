@@ -1,0 +1,73 @@
+<image>
+  <image-id>2386479</image-id>
+  <coco-id>195860</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4306492</relationship_id>
+      <predicate>has</predicate>
+      <subject>681937</subject>
+      <object>3844510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1799493</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>681944</subject>
+      <object>681938</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>octagon</attribute>
+        <attribute>written</attribute>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+        <attribute>painted</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>143</h>
+      <object_id>681937</object_id>
+      <w>132</w>
+      <y>231</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>metal</name>
+      <h>34</h>
+      <object_id>3844510</object_id>
+      <w>20</w>
+      <y>230</y>
+      <x>319</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>230</h>
+      <object_id>681944</object_id>
+      <w>489</w>
+      <y>134</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>291</h>
+      <object_id>681938</object_id>
+      <w>440</w>
+      <y>83</y>
+      <x>49</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red stop sign with a couple of street signs above it.</caption>
+      <caption>A full view of a stop sign and some name signs. </caption>
+      <caption>Street signs are posted on top of a stop sign.</caption>
+      <caption>Tall buildings behind a street sign at N Railway and 8th Street</caption>
+      <caption>A stop sign with some other city street signs on it.</caption>
+    </captions>
+</image>

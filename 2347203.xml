@@ -1,0 +1,81 @@
+<image>
+  <image-id>2347203</image-id>
+  <coco-id>90464</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2601971</relationship_id>
+      <predicate>OF</predicate>
+      <subject>892583</subject>
+      <object>892584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424625</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3908605</subject>
+      <object>3908606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424624</relationship_id>
+      <predicate>ON</predicate>
+      <subject>892597</subject>
+      <object>3908606</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>edge</name>
+      <h>18</h>
+      <object_id>892583</object_id>
+      <w>22</w>
+      <y>128</y>
+      <x>221</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tennis</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>net</name>
+      <h>181</h>
+      <object_id>892584</object_id>
+      <w>238</w>
+      <y>117</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>217</h>
+      <object_id>3908605</object_id>
+      <w>99</w>
+      <y>26</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>121</h>
+      <object_id>3908606</object_id>
+      <w>225</w>
+      <y>206</y>
+      <x>14</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>watching</attribute>
+      </attributes>
+      <name>people</name>
+      <h>267</h>
+      <object_id>892597</object_id>
+      <w>178</w>
+      <y>28</y>
+      <x>68</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there are two pictures of a man that is playing tennis</caption>
+      <caption>Two people on a tennis court looking at a tennis ball. </caption>
+      <caption>two men on a tennis court holding tennis rackets and competing</caption>
+      <caption>A men's tennis couple watching a ball hit the net.</caption>
+      <caption>A couple of men in red shirts are playing tennis.</caption>
+    </captions>
+</image>

@@ -1,0 +1,113 @@
+<image>
+  <image-id>2361314</image-id>
+  <coco-id>192216</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3658277</relationship_id>
+      <predicate>covered in</predicate>
+      <subject>1777603</subject>
+      <object>2629100</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3658278</relationship_id>
+      <predicate>with</predicate>
+      <subject>2382757</subject>
+      <object>3532245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4395851</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2106648</subject>
+      <object>2291392</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4191544</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2502924</subject>
+      <object>3755615</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>medium rare</attribute>
+      </attributes>
+      <name>meat</name>
+      <h>426</h>
+      <object_id>1777603</object_id>
+      <w>488</w>
+      <y>71</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>barbeque</attribute>
+      </attributes>
+      <name>sauce</name>
+      <h>286</h>
+      <object_id>2629100</object_id>
+      <w>422</w>
+      <y>84</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>52</h>
+      <object_id>2382757</object_id>
+      <w>97</w>
+      <y>34</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>470</h>
+      <object_id>3532245</object_id>
+      <w>471</w>
+      <y>17</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>edge</name>
+      <h>169</h>
+      <object_id>2106648</object_id>
+      <w>270</w>
+      <y>320</y>
+      <x>2</x>
+    </object>
+    <object>
+      <h>211</h>
+      <object_id>2291392</object_id>
+      <w>287</w>
+      <y>287</y>
+      <x>0</x>
+      <name>bread</name>
+    </object>
+    <object>
+      <name>sauce</name>
+      <h>34</h>
+      <object_id>2502924</object_id>
+      <w>36</w>
+      <y>190</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>meat</name>
+      <h>126</h>
+      <object_id>3755615</object_id>
+      <w>141</w>
+      <y>361</y>
+      <x>293</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate topped with meat, mac and cheese and a bun.</caption>
+      <caption>A plate containing cooked meat, bread, and macaroni and cheese.</caption>
+      <caption>A plate of macaroni and cheese and a barbecue beef sandwich.</caption>
+      <caption>A plate of food with meat, sauce and macaroni and cheese on it. </caption>
+      <caption>Food sitting on a glass plate on top of a table.</caption>
+    </captions>
+</image>

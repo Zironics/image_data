@@ -1,0 +1,59 @@
+<image>
+  <image-id>1592508</image-id>
+  <coco-id>121619</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3843443</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1609999</subject>
+      <object>1610000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251315</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1610002</subject>
+      <object>1610003</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate</name>
+      <h>98</h>
+      <object_id>1609999</object_id>
+      <w>156</w>
+      <y>549</y>
+      <x>725</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>525</h>
+      <object_id>1610000</object_id>
+      <w>381</w>
+      <y>156</y>
+      <x>631</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>108</h>
+      <object_id>1610002</object_id>
+      <w>140</w>
+      <y>92</y>
+      <x>435</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>678</h>
+      <object_id>1610003</object_id>
+      <w>471</w>
+      <y>1</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man makes a note of something on his hand.</caption>
+      <caption>Without paper handy, a man writes a reminder about the parking meter on his palm. </caption>
+      <caption>A man standing next to a parking meter next to parked cars.</caption>
+      <caption>a person standing near a parking meter </caption>
+      <caption>A man is standing beside a parking meter, writing on his hand.</caption>
+    </captions>
+</image>

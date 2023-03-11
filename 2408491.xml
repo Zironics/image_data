@@ -1,0 +1,99 @@
+<image>
+  <image-id>2408491</image-id>
+  <coco-id>48153</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1699387</relationship_id>
+      <predicate>IN</predicate>
+      <subject>649820</subject>
+      <object>649821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4277725</relationship_id>
+      <predicate>to right of</predicate>
+      <subject>3809192</subject>
+      <object>649816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1699388</relationship_id>
+      <predicate>ON</predicate>
+      <subject>649827</subject>
+      <object>649823</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hole</name>
+      <h>60</h>
+      <object_id>649820</object_id>
+      <w>56</w>
+      <y>163</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>wood</name>
+      <h>154</h>
+      <object_id>649821</object_id>
+      <w>152</w>
+      <y>117</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>board</name>
+      <h>130</h>
+      <object_id>3809192</object_id>
+      <w>480</w>
+      <y>100</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>pointy</attribute>
+        <attribute>shinny</attribute>
+        <attribute>bow</attribute>
+        <attribute>foot</attribute>
+        <attribute>person</attribute>
+        <attribute>scuff</attribute>
+        <attribute>dirty</attribute>
+        <attribute>woman</attribute>
+        <attribute>flat</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>62</h>
+      <object_id>649816</object_id>
+      <w>59</w>
+      <y>76</y>
+      <x>300</x>
+    </object>
+    <object>
+      <name>foot</name>
+      <h>309</h>
+      <object_id>649827</object_id>
+      <w>322</w>
+      <y>2</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>314</h>
+      <object_id>649823</object_id>
+      <w>318</w>
+      <y>60</y>
+      <x>126</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A foot wearing a pointy pink flat shoe rested upon a bench.</caption>
+      <caption>A woman showing off her pink pointy-toed heels.</caption>
+      <caption>A woman wearing blue jeans with a sexy foot in a pink shoe.</caption>
+      <caption>A photo of a bright pink shoe on a blue and green background.</caption>
+      <caption>A lady wearing a pink shoe and blue jeans.</caption>
+    </captions>
+</image>

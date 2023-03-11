@@ -1,0 +1,204 @@
+<image>
+  <image-id>2358012</image-id>
+  <coco-id>425743</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2263334</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806891</subject>
+      <object>806894</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263335</relationship_id>
+      <predicate>on a</predicate>
+      <subject>806891</subject>
+      <object>806892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263336</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806891</subject>
+      <object>806895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263337</relationship_id>
+      <predicate>on a</predicate>
+      <subject>806900</subject>
+      <object>806901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263338</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806892</subject>
+      <object>806899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263339</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806898</subject>
+      <object>806899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263340</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806891</subject>
+      <object>806895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263341</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806891</subject>
+      <object>806895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263342</relationship_id>
+      <predicate>ON</predicate>
+      <subject>806896</subject>
+      <object>806892</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263343</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806892</subject>
+      <object>806902</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263344</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806891</subject>
+      <object>806894</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263345</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806898</subject>
+      <object>806899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2263346</relationship_id>
+      <predicate>has a</predicate>
+      <subject>806892</subject>
+      <object>806901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skateboarding</attribute>
+        <attribute>standing</attribute>
+        <attribute>skatboarding</attribute>
+      </attributes>
+      <h>92</h>
+      <object_id>806891</object_id>
+      <w>41</w>
+      <y>214</y>
+      <x>169</x>
+      <name>person</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>12</h>
+      <object_id>806894</object_id>
+      <w>15</w>
+      <y>214</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>street</attribute>
+        <attribute>adjacent</attribute>
+        <attribute>bright</attribute>
+        <attribute>painted</attribute>
+      </attributes>
+      <name>street</name>
+      <h>264</h>
+      <object_id>806892</object_id>
+      <w>325</w>
+      <y>236</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skateboard</attribute>
+      </attributes>
+      <name>skateboard</name>
+      <h>17</h>
+      <object_id>806895</object_id>
+      <w>17</w>
+      <y>296</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>14</h>
+      <object_id>806900</object_id>
+      <w>7</w>
+      <y>226</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>12</h>
+      <object_id>806901</object_id>
+      <w>8</w>
+      <y>227</y>
+      <x>160</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>11</h>
+      <object_id>806899</object_id>
+      <w>8</w>
+      <y>208</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>199</h>
+      <object_id>806898</object_id>
+      <w>57</w>
+      <y>50</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>whie</attribute>
+        <attribute>silver</attribute>
+        <attribute>parked</attribute>
+        <attribute>white</attribute>
+        <attribute>driving</attribute>
+      </attributes>
+      <name>car</name>
+      <h>102</h>
+      <object_id>806896</object_id>
+      <w>58</w>
+      <y>250</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>98</h>
+      <object_id>806902</object_id>
+      <w>159</w>
+      <y>232</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The person skateboards down the lit road at night.</caption>
+      <caption>A street scene with cars and a man on a skateboard.</caption>
+      <caption>A man skateboards along the streets of a city.</caption>
+      <caption>Someone skateboarding down the street at night under streetlights..</caption>
+      <caption>A person skateboarding down the street at night.</caption>
+    </captions>
+</image>

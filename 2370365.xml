@@ -1,0 +1,112 @@
+<image>
+  <image-id>2370365</image-id>
+  <coco-id>296703</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4325885</relationship_id>
+      <predicate>eating out of</predicate>
+      <subject>1932998</subject>
+      <object>3858991</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325886</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>3858996</subject>
+      <object>1875987</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325887</relationship_id>
+      <predicate>growing in</predicate>
+      <subject>1846463</subject>
+      <object>3858997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325888</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1932998</subject>
+      <object>1727608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4325889</relationship_id>
+      <predicate>eating</predicate>
+      <subject>2342122</subject>
+      <object>1727608</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>102</h>
+      <object_id>1932998</object_id>
+      <w>82</w>
+      <y>86</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>hay</name>
+      <h>31</h>
+      <object_id>3858991</object_id>
+      <w>66</w>
+      <y>145</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>166</h>
+      <object_id>3858996</object_id>
+      <w>500</w>
+      <y>167</y>
+      <x>0</x>
+      <name>plants</name>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>60</h>
+      <object_id>1875987</object_id>
+      <w>482</w>
+      <y>222</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>57</h>
+      <object_id>1846463</object_id>
+      <w>44</w>
+      <y>92</y>
+      <x>403</x>
+    </object>
+    <object>
+      <name>pen</name>
+      <h>330</h>
+      <object_id>3858997</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>163</h>
+      <object_id>1727608</object_id>
+      <w>497</w>
+      <y>168</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>140</h>
+      <object_id>2342122</object_id>
+      <w>215</w>
+      <y>83</y>
+      <x>220</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two zebras facing opposite direction in a fenced area</caption>
+      <caption>Zebras grazing in an enclosure at the zoo</caption>
+      <caption>A couple of zebra's standing in a zoo pin.</caption>
+      <caption>Two zebras standing near rocks behind a fence</caption>
+      <caption>a couple of zebras stand next to some rocks </caption>
+    </captions>
+</image>

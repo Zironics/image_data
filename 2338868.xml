@@ -1,0 +1,157 @@
+<image>
+  <image-id>2338868</image-id>
+  <coco-id>531331</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4576323</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4039060</subject>
+      <object>4039061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576331</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>4039087</subject>
+      <object>4039070</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576339</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>4039087</subject>
+      <object>4039082</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576341</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>4039087</subject>
+      <object>4039088</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796622</relationship_id>
+      <predicate>with</predicate>
+      <subject>4039087</subject>
+      <object>4039089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796623</relationship_id>
+      <predicate>with</predicate>
+      <subject>4589980</subject>
+      <object>4589979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796624</relationship_id>
+      <predicate>with</predicate>
+      <subject>4039087</subject>
+      <object>4589981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4796625</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4039087</subject>
+      <object>4039091</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>part</name>
+      <h>5</h>
+      <object_id>4039060</object_id>
+      <w>2</w>
+      <y>347</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>wrench</name>
+      <h>22</h>
+      <object_id>4039061</object_id>
+      <w>30</w>
+      <y>339</y>
+      <x>256</x>
+    </object>
+    <object>
+      <h>307</h>
+      <object_id>4039087</object_id>
+      <w>303</w>
+      <y>20</y>
+      <x>19</x>
+      <name>he</name>
+    </object>
+    <object>
+      <name>necklace</name>
+      <h>45</h>
+      <object_id>4039070</object_id>
+      <w>45</w>
+      <y>202</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>bathroom floor</name>
+      <h>98</h>
+      <object_id>4039082</object_id>
+      <w>187</w>
+      <y>271</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tank top</name>
+      <h>154</h>
+      <object_id>4039088</object_id>
+      <w>122</w>
+      <y>141</y>
+      <x>109</x>
+    </object>
+    <object>
+      <h>30</h>
+      <object_id>4039089</object_id>
+      <w>22</w>
+      <y>99</y>
+      <x>249</x>
+      <name>his watch</name>
+    </object>
+    <object>
+      <name>toilet</name>
+      <h>332</h>
+      <object_id>4589980</object_id>
+      <w>177</w>
+      <y>41</y>
+      <x>308</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>30</h>
+      <object_id>4589979</object_id>
+      <w>42</w>
+      <y>60</y>
+      <x>438</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>necklace</name>
+      <h>58</h>
+      <object_id>4589981</object_id>
+      <w>92</w>
+      <y>192</y>
+      <x>134</x>
+    </object>
+    <object>
+      <h>138</h>
+      <object_id>4039091</object_id>
+      <w>154</w>
+      <y>59</y>
+      <x>43</x>
+      <name>cargo pants</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man is laying down in a bathroom</caption>
+      <caption>A man laying on the floor of a bathroom near the toilet.</caption>
+      <caption>A man smiling while laying on a bathroom floor with tools. </caption>
+      <caption>there is a man that is laying on the floor in the bathroom</caption>
+      <caption>a person laying down on a bath room floor </caption>
+    </captions>
+</image>

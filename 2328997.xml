@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328997</image-id>
+  <coco-id>151658</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4141450</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3152136</subject>
+      <object>2773103</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4141451</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3354569</subject>
+      <object>3730367</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>124</h>
+      <object_id>3152136</object_id>
+      <w>51</w>
+      <y>92</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+      </attributes>
+      <h>130</h>
+      <object_id>2773103</object_id>
+      <w>499</w>
+      <y>150</y>
+      <x>0</x>
+      <name>sand</name>
+    </object>
+    <object>
+      <name>waves</name>
+      <h>11</h>
+      <object_id>3354569</object_id>
+      <w>122</w>
+      <y>136</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>shore</name>
+      <h>127</h>
+      <object_id>3730367</object_id>
+      <w>488</w>
+      <y>152</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some people with surf boards on a beach at twilight.</caption>
+      <caption>Man standing on a wet beach holding his surfboard.</caption>
+      <caption>A person with a surfboard on a beach.</caption>
+      <caption>A surfer is silhouetted against a sunset at the beach.</caption>
+      <caption>A male is holding a surfboard on the beach.</caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>2368841</image-id>
+  <coco-id>290192</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4343316</relationship_id>
+      <predicate>from</predicate>
+      <subject>2183044</subject>
+      <object>2183045</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4343317</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2192425</subject>
+      <object>2066705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4343318</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1851110</subject>
+      <object>2066705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4343319</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2192425</subject>
+      <object>2066705</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tail smoke</name>
+      <h>333</h>
+      <object_id>2183044</object_id>
+      <w>285</w>
+      <y>0</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>jets</name>
+      <h>122</h>
+      <object_id>2183045</object_id>
+      <w>40</w>
+      <y>110</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <h>331</h>
+      <object_id>2192425</object_id>
+      <w>205</w>
+      <y>3</y>
+      <x>294</x>
+      <name>cloud</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>dark</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>314</h>
+      <object_id>2066705</object_id>
+      <w>496</w>
+      <y>14</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>airplanes</name>
+      <h>130</h>
+      <object_id>1851110</object_id>
+      <w>57</w>
+      <y>103</y>
+      <x>198</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A formation of fighter jets flying through a blue sky.</caption>
+      <caption>a large group of airplanes flying in a formation</caption>
+      <caption>A group of several jets flying in unison.</caption>
+      <caption>Seven contrails mark the passing of these jets in formation.</caption>
+      <caption>Nine air planes are flying in formation, trailing smoke.</caption>
+    </captions>
+</image>

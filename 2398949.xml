@@ -1,0 +1,91 @@
+<image>
+  <image-id>2398949</image-id>
+  <coco-id>117441</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3330316</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1173878</subject>
+      <object>1173872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3330317</relationship_id>
+      <predicate>have</predicate>
+      <subject>1173872</subject>
+      <object>1173878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3330318</relationship_id>
+      <predicate>have</predicate>
+      <subject>1173872</subject>
+      <object>1173883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3330319</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1173884</subject>
+      <object>1173872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3330320</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1173884</subject>
+      <object>1173872</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+        <attribute>oval</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>320</h>
+      <object_id>1173878</object_id>
+      <w>175</w>
+      <y>83</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>round</attribute>
+        <attribute>wet</attribute>
+        <attribute>silver</attribute>
+        <attribute>oval</attribute>
+      </attributes>
+      <name>scissors</name>
+      <h>275</h>
+      <object_id>1173872</object_id>
+      <w>427</w>
+      <y>101</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>174</h>
+      <object_id>1173883</object_id>
+      <w>340</w>
+      <y>90</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>lined</attribute>
+      </attributes>
+      <name>water</name>
+      <h>48</h>
+      <object_id>1173884</object_id>
+      <w>244</w>
+      <y>243</y>
+      <x>113</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Straight and round silver objects on top of each other.</caption>
+      <caption>Take care of scissors close in black-and-white picture</caption>
+      <caption>An upclose view of a pair of scissors inside a drain. </caption>
+      <caption>A scissors has drops of water on it, underneath a cross section of metal.</caption>
+      <caption>A closeup view of a bunch of scissors in black and white.</caption>
+    </captions>
+</image>

@@ -1,0 +1,99 @@
+<image>
+  <image-id>2401897</image-id>
+  <coco-id>425218</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3284803</relationship_id>
+      <predicate>IN</predicate>
+      <subject>394781</subject>
+      <object>1142955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284804</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1142957</subject>
+      <object>1142958</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284805</relationship_id>
+      <predicate>and</predicate>
+      <subject>1142947</subject>
+      <object>394781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>804992</relationship_id>
+      <predicate>OF</predicate>
+      <subject>394780</subject>
+      <object>394781</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>milk</name>
+      <h>43</h>
+      <object_id>394781</object_id>
+      <w>36</w>
+      <y>396</y>
+      <x>203</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>109</h>
+      <object_id>1142955</object_id>
+      <w>56</w>
+      <y>377</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>microwave meals</name>
+      <h>79</h>
+      <object_id>1142957</object_id>
+      <w>134</w>
+      <y>132</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>shelf</name>
+      <h>32</h>
+      <object_id>1142958</object_id>
+      <w>213</w>
+      <y>115</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>orange juice</name>
+      <h>70</h>
+      <object_id>1142947</object_id>
+      <w>34</w>
+      <y>356</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>half gallon</name>
+      <h>79</h>
+      <object_id>394780</object_id>
+      <w>33</w>
+      <y>359</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A refrigerator and freezer is shown full of food.</caption>
+      <caption>A view of a refrigerator fully stock with groceries.</caption>
+      <caption>This refrigerator is stocked full of all kinds of different foods.</caption>
+      <caption>A white refrigerator is stocked full with all kinds of food.</caption>
+      <caption>A refrigerator and freezer completely packed with food</caption>
+    </captions>
+</image>

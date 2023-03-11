@@ -1,0 +1,45 @@
+<image>
+  <image-id>2417224</image-id>
+  <coco-id>75783</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3626274</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3274911</subject>
+      <object>3274910</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>268</h>
+      <object_id>3274911</object_id>
+      <w>352</w>
+      <y>61</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>large</attribute>
+        <attribute>sea green</attribute>
+      </attributes>
+      <name>water</name>
+      <h>327</h>
+      <object_id>3274910</object_id>
+      <w>494</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on a surfboard rides on a wave.</caption>
+      <caption>The surfer wearing a wetsuit is riding the wave.</caption>
+      <caption>A person on a surfboard in the water.</caption>
+      <caption>A young person who is riding a good wave on a surfboard. </caption>
+      <caption>A surfer riding on a wave on a board.</caption>
+    </captions>
+</image>

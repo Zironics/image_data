@@ -1,0 +1,76 @@
+<image>
+  <image-id>2333513</image-id>
+  <coco-id>8196</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4025800</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3686814</subject>
+      <object>3686815</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4019626</relationship_id>
+      <predicate>has</predicate>
+      <subject>3684459</subject>
+      <object>2940688</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4025813</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2948766</subject>
+      <object>3686815</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>it</name>
+      <h>325</h>
+      <object_id>3686814</object_id>
+      <w>410</w>
+      <y>42</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wax</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>45</h>
+      <object_id>3686815</object_id>
+      <w>326</w>
+      <y>11</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>granola</name>
+      <h>300</h>
+      <object_id>3684459</object_id>
+      <w>385</w>
+      <y>37</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>oatmeal</name>
+      <h>290</h>
+      <object_id>2940688</object_id>
+      <w>366</w>
+      <y>39</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>cookie</name>
+      <h>308</h>
+      <object_id>2948766</object_id>
+      <w>430</w>
+      <y>32</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cookie sitting on top of a piece of paper.</caption>
+      <caption>The cookies have chocolate and oats in them. </caption>
+      <caption>Small clump of home made granola bars on table. </caption>
+      <caption>an oatmeal and chocolate chip cookie sitting on a piece of parchment paper</caption>
+      <caption>The cookie dish includes different fruits and nuts.</caption>
+    </captions>
+</image>

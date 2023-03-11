@@ -1,0 +1,89 @@
+<image>
+  <image-id>2346638</image-id>
+  <coco-id>142599</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4426090</relationship_id>
+      <predicate>playing</predicate>
+      <subject>897583</subject>
+      <object>3909622</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2618167</relationship_id>
+      <predicate>with</predicate>
+      <subject>897583</subject>
+      <object>897593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2618168</relationship_id>
+      <predicate>IN</predicate>
+      <subject>897583</subject>
+      <object>897588</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2618169</relationship_id>
+      <predicate>has</predicate>
+      <subject>897583</subject>
+      <object>897600</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>holding</attribute>
+        <attribute>running</attribute>
+      </attributes>
+      <name>man</name>
+      <h>181</h>
+      <object_id>897583</object_id>
+      <w>130</w>
+      <y>194</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>tennis</name>
+      <h>64</h>
+      <object_id>3909622</object_id>
+      <w>80</w>
+      <y>295</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>TENNIS</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>45</h>
+      <object_id>897593</object_id>
+      <w>66</w>
+      <y>279</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pant</name>
+      <h>85</h>
+      <object_id>897588</object_id>
+      <w>69</w>
+      <y>289</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>hair</name>
+      <h>29</h>
+      <object_id>897600</object_id>
+      <w>35</w>
+      <y>197</y>
+      <x>295</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing on a tennis court holding a racquet.</caption>
+      <caption>A man running with a tennis racquet and book in hand.</caption>
+      <caption>A man is playing tennis on a green court.</caption>
+      <caption>A man is playing tennis in his regular clothing</caption>
+      <caption>A man playing a casual games of tennis.</caption>
+    </captions>
+</image>

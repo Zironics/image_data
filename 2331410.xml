@@ -1,0 +1,84 @@
+<image>
+  <image-id>2331410</image-id>
+  <coco-id>147518</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4102686</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3716266</subject>
+      <object>3178483</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102687</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2720671</subject>
+      <object>3716267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4102688</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3316166</subject>
+      <object>3316167</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tissue box</name>
+      <h>55</h>
+      <object_id>3716266</object_id>
+      <w>50</w>
+      <y>212</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>toilet</name>
+      <h>115</h>
+      <object_id>3178483</object_id>
+      <w>106</w>
+      <y>226</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>toilet</attribute>
+      </attributes>
+      <name>paper holder</name>
+      <h>60</h>
+      <object_id>2720671</object_id>
+      <w>38</w>
+      <y>278</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>sink cabinet</name>
+      <h>240</h>
+      <object_id>3716267</object_id>
+      <w>103</w>
+      <y>255</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>cabinet</name>
+      <h>145</h>
+      <object_id>3316166</object_id>
+      <w>76</w>
+      <y>13</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>252</h>
+      <object_id>3316167</object_id>
+      <w>202</w>
+      <y>0</y>
+      <x>104</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A bathroom that has magazine rack and small cabinet.</caption>
+      <caption>Compact bathroom area, tub, toilet, magazine area and sink.</caption>
+      <caption>Small residential bath room decorated in wood tones</caption>
+      <caption>A tissue box on top of a toilet in a bathroom.</caption>
+      <caption>an image of a clean full bathroom </caption>
+    </captions>
+</image>

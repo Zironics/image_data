@@ -1,0 +1,84 @@
+<image>
+  <image-id>2327167</image-id>
+  <coco-id>382435</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4613652</relationship_id>
+      <predicate>buried in</predicate>
+      <subject>4128897</subject>
+      <object>4128898</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4613653</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4128900</subject>
+      <object>4128899</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4613654</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>4128902</subject>
+      <object>4128901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>paw</name>
+      <h>19</h>
+      <object_id>4128897</object_id>
+      <w>69</w>
+      <y>325</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>135</h>
+      <object_id>4128898</object_id>
+      <w>193</w>
+      <y>234</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>84</h>
+      <object_id>4128900</object_id>
+      <w>340</w>
+      <y>243</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>47</h>
+      <object_id>4128899</object_id>
+      <w>480</w>
+      <y>325</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> salivating</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>256</h>
+      <object_id>4128902</object_id>
+      <w>289</w>
+      <y>88</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>52</h>
+      <object_id>4128901</object_id>
+      <w>491</w>
+      <y>319</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a brown and white dog lying on sand and some trees</caption>
+      <caption>A yellow lab sitting on a sand dune with green vegetation in the background.</caption>
+      <caption>a dog laying down and looking at trees</caption>
+      <caption>a brown dog with its mouth open lying on the sand</caption>
+      <caption>A dog sitting in the sand and looking into the distance.</caption>
+    </captions>
+</image>

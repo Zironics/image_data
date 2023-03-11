@@ -1,0 +1,89 @@
+<image>
+  <image-id>2408135</image-id>
+  <coco-id>9133</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3223806</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1094502</subject>
+      <object>1094503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223807</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1094502</subject>
+      <object>1094503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223808</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1094502</subject>
+      <object>1094503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223812</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1094502</subject>
+      <object>1094503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223849</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1094504</subject>
+      <object>1094505</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223853</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1094502</subject>
+      <object>1094503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223854</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1094502</subject>
+      <object>1094503</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>38</h>
+      <object_id>1094502</object_id>
+      <w>40</w>
+      <y>22</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>38</h>
+      <object_id>1094503</object_id>
+      <w>41</w>
+      <y>26</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>fox</name>
+      <h>38</h>
+      <object_id>1094504</object_id>
+      <w>40</w>
+      <y>8</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>hen</name>
+      <h>38</h>
+      <object_id>1094505</object_id>
+      <w>41</w>
+      <y>12</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people are sitting and standing by the curb</caption>
+      <caption>a number of people sitting and standing near a building</caption>
+      <caption>Many people are scattered together with a couple of dogs. </caption>
+      <caption>a group of people stand around and talk in front of a building </caption>
+      <caption>A group of people standing around in a small plaza area.</caption>
+    </captions>
+</image>

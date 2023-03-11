@@ -1,0 +1,100 @@
+<image>
+  <image-id>2391193</image-id>
+  <coco-id>448161</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4739917</relationship_id>
+      <predicate>on</predicate>
+      <subject>4440709</subject>
+      <object>4440702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4739918</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4440709</subject>
+      <object>4440707</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4739919</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4440707</subject>
+      <object>4440712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4739920</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4440713</subject>
+      <object>4440707</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4739921</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4440707</subject>
+      <object>4440716</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white and grey</attribute>
+      </attributes>
+      <h>257</h>
+      <object_id>4440709</object_id>
+      <w>249</w>
+      <y>130</y>
+      <x>44</x>
+      <name>hairs</name>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>180</h>
+      <object_id>4440702</object_id>
+      <w>262</w>
+      <y>90</y>
+      <x>107</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange </attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>371</h>
+      <object_id>4440707</object_id>
+      <w>366</w>
+      <y>80</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tiles</name>
+      <h>494</h>
+      <object_id>4440712</object_id>
+      <w>372</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>171</h>
+      <object_id>4440713</object_id>
+      <w>209</w>
+      <y>4</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>tile</name>
+      <h>497</h>
+      <object_id>4440716</object_id>
+      <w>367</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow tray on counter with various clippings of hair and scissors.</caption>
+      <caption>Yellow dish with filled with straw like fibers and a pair of scissors</caption>
+      <caption>A pair of scissors on a plate of some sort.</caption>
+      <caption>Someone has cut their hair and left it on this plate.</caption>
+      <caption>A pair of scissors in a bowl full of hair.</caption>
+    </captions>
+</image>

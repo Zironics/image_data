@@ -1,0 +1,85 @@
+<image>
+  <image-id>2319180</image-id>
+  <coco-id>567530</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3860585</relationship_id>
+      <predicate>with</predicate>
+      <subject>2943779</subject>
+      <object>3131981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860586</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3131980</subject>
+      <object>3131981</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860589</relationship_id>
+      <predicate>standing in front of</predicate>
+      <subject>2943779</subject>
+      <object>3219862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840616</relationship_id>
+      <predicate>standing in bathroom</predicate>
+      <subject>2943779</subject>
+      <object>3049727</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>497</h>
+      <object_id>2943779</object_id>
+      <w>213</w>
+      <y>1</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>103</h>
+      <object_id>3131981</object_id>
+      <w>73</w>
+      <y>15</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>smile</name>
+      <h>14</h>
+      <object_id>3131980</object_id>
+      <w>30</w>
+      <y>80</y>
+      <x>269</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>209</h>
+      <object_id>3219862</object_id>
+      <w>119</w>
+      <y>283</y>
+      <x>87</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beige </attribute>
+      </attributes>
+      <h>350</h>
+      <object_id>3049727</object_id>
+      <w>182</w>
+      <y>101</y>
+      <x>193</x>
+      <name>shirt</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man standing next to a toilet with a dirty bowl </caption>
+      <caption>a man is standing in front of a white toilet</caption>
+      <caption>A man stands next to a toilet in a small bathroom.</caption>
+      <caption>the young man is smiling  as he stands near the toilet</caption>
+      <caption>A man smiles as he stands next to an open toilet.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2320831</image-id>
+  <coco-id>458202</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4541075</relationship_id>
+      <predicate>between</predicate>
+      <subject>2881341</subject>
+      <object>2881342</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4541076</relationship_id>
+      <predicate>for</predicate>
+      <subject>2878510</subject>
+      <object>2878512</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>road</name>
+      <h>50</h>
+      <object_id>2881341</object_id>
+      <w>34</w>
+      <y>196</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>mountains</name>
+      <h>20</h>
+      <object_id>2881342</object_id>
+      <w>177</w>
+      <y>120</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>mountain peaks</name>
+      <h>40</h>
+      <object_id>2878510</object_id>
+      <w>160</w>
+      <y>117</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>slope</name>
+      <h>52</h>
+      <object_id>2878512</object_id>
+      <w>197</w>
+      <y>312</y>
+      <x>54</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person riding skis on a snowy surface</caption>
+      <caption>a man that is skiing across some snow</caption>
+      <caption>A person skiing in front of big mountains that are full of snow.</caption>
+      <caption>A person skiing down a snowy mountain towards lots of other people </caption>
+      <caption>A skier stands atop a snowy mountain preparing to ski down,</caption>
+    </captions>
+</image>

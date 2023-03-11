@@ -1,0 +1,201 @@
+<image>
+  <image-id>2401094</image-id>
+  <coco-id>460115</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4285365</relationship_id>
+      <predicate>playing on</predicate>
+      <subject>1151684</subject>
+      <object>3817469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285366</relationship_id>
+      <predicate>serving on</predicate>
+      <subject>1151684</subject>
+      <object>3817469</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285367</relationship_id>
+      <predicate>stretched across</predicate>
+      <subject>1151688</subject>
+      <object>3817470</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285368</relationship_id>
+      <predicate>crouching on</predicate>
+      <subject>1151689</subject>
+      <object>3817471</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285369</relationship_id>
+      <predicate>mounted on</predicate>
+      <subject>1151690</subject>
+      <object>3817472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285370</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1151684</subject>
+      <object>1151691</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285371</relationship_id>
+      <predicate>hitting ball with</predicate>
+      <subject>1151684</subject>
+      <object>1151696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285372</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3817475</subject>
+      <object>1151698</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3297676</relationship_id>
+      <predicate>across a</predicate>
+      <subject>1151688</subject>
+      <object>1151698</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4285373</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1151684</subject>
+      <object>1151696</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>looking</attribute>
+        <attribute>playing</attribute>
+        <attribute>standing</attribute>
+        <attribute>tennis player</attribute>
+      </attributes>
+      <name>man</name>
+      <h>85</h>
+      <object_id>1151684</object_id>
+      <w>45</w>
+      <y>133</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>75</h>
+      <object_id>3817469</object_id>
+      <w>483</w>
+      <y>191</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>wide</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>net</name>
+      <h>95</h>
+      <object_id>1151688</object_id>
+      <w>438</w>
+      <y>102</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>67</h>
+      <object_id>3817470</object_id>
+      <w>483</w>
+      <y>197</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>caucasion</attribute>
+        <attribute>watching</attribute>
+      </attributes>
+      <name>ball boy</name>
+      <h>45</h>
+      <object_id>1151689</object_id>
+      <w>35</w>
+      <y>102</y>
+      <x>437</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>63</h>
+      <object_id>3817471</object_id>
+      <w>482</w>
+      <y>209</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>20</h>
+      <object_id>1151690</object_id>
+      <w>22</w>
+      <y>5</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>38</h>
+      <object_id>3817472</object_id>
+      <w>483</w>
+      <y>210</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>doubles</attribute>
+        <attribute>happening</attribute>
+      </attributes>
+      <name>tennis match</name>
+      <h>329</h>
+      <object_id>1151691</object_id>
+      <w>497</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>aluminum</attribute>
+        <attribute>graphite</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>11</h>
+      <object_id>1151696</object_id>
+      <w>9</w>
+      <y>62</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>tennis player</name>
+      <h>65</h>
+      <object_id>3817475</object_id>
+      <w>40</w>
+      <y>265</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <h>299</h>
+      <object_id>1151698</object_id>
+      <w>497</w>
+      <y>32</y>
+      <x>1</x>
+      <name>court</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Four men playing a game of couples tennis.</caption>
+      <caption>A picture of a doubles tennis match in progress.</caption>
+      <caption>Four men playing doubles tennis on a court.</caption>
+      <caption>A professional indoor tennis tournament featuring mens doubles.</caption>
+      <caption>Double tennis match i a large stadium with some advertisements in the background.</caption>
+    </captions>
+</image>

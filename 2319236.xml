@@ -1,0 +1,82 @@
+<image>
+  <image-id>2319236</image-id>
+  <coco-id>220471</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3840078</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3340697</subject>
+      <object>3340701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840079</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3340698</subject>
+      <object>3340701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840080</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3340699</subject>
+      <object>3340701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840081</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3340700</subject>
+      <object>3340701</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cup</name>
+      <h>117</h>
+      <object_id>3340697</object_id>
+      <w>92</w>
+      <y>4</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>table</name>
+      <h>280</h>
+      <object_id>3340701</object_id>
+      <w>495</w>
+      <y>51</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>134</h>
+      <object_id>3340698</object_id>
+      <w>102</w>
+      <y>20</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>120</h>
+      <object_id>3340699</object_id>
+      <w>197</w>
+      <y>92</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>187</h>
+      <object_id>3340700</object_id>
+      <w>304</w>
+      <y>142</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large sandwich is cut into quarters on a plate.</caption>
+      <caption>Two pink beverage cups and two plates with partially eaten sandwiches.</caption>
+      <caption>A plate topped with a cut up sandwich and drinks.</caption>
+      <caption>Two drinks and several sandwiches on two white plates.</caption>
+      <caption>Hot ham and cheese cut into fours to be shared.</caption>
+    </captions>
+</image>

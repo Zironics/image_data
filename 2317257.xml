@@ -1,0 +1,82 @@
+<image>
+  <image-id>2317257</image-id>
+  <coco-id>445495</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3056996</relationship_id>
+      <predicate>and</predicate>
+      <subject>3952091</subject>
+      <object>1022336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3056997</relationship_id>
+      <predicate>and</predicate>
+      <subject>3952091</subject>
+      <object>1022336</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3056998</relationship_id>
+      <predicate>and</predicate>
+      <subject>1022334</subject>
+      <object>3952091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4512264</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3952091</subject>
+      <object>1022348</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>185</h>
+      <object_id>3952091</object_id>
+      <w>343</w>
+      <y>72</y>
+      <x>88</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+        <attribute>feet</attribute>
+        <attribute>little</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>112</h>
+      <object_id>1022336</object_id>
+      <w>99</w>
+      <y>24</y>
+      <x>136</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mouth</attribute>
+        <attribute>laying</attribute>
+        <attribute>sleeping</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>104</h>
+      <object_id>1022334</object_id>
+      <w>215</w>
+      <y>210</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>dress</name>
+      <h>96</h>
+      <object_id>1022348</object_id>
+      <w>114</w>
+      <y>157</y>
+      <x>183</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman and two boys are laying on a bed looking at a magazine with a dog at the foot of the bed.</caption>
+      <caption>A woman sitting between two boys with a dog near them.</caption>
+      <caption>a woman and two kids read a book in bed with a dog</caption>
+      <caption>A woman and two boys lay on a bed with a white dog and look at a magazine.</caption>
+      <caption>This is a picture of a mom reading a story to her children.</caption>
+    </captions>
+</image>

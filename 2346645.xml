@@ -1,0 +1,90 @@
+<image>
+  <image-id>2346645</image-id>
+  <coco-id>100140</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3849156</relationship_id>
+      <predicate>are on</predicate>
+      <subject>2269077</subject>
+      <object>3615980</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3849187</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2299935</subject>
+      <object>1924621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3849188</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1924621</subject>
+      <object>3615982</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3849189</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2586996</subject>
+      <object>1924621</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windows</name>
+      <h>66</h>
+      <object_id>2269077</object_id>
+      <w>76</w>
+      <y>8</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>184</h>
+      <object_id>3615980</object_id>
+      <w>274</w>
+      <y>98</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>buildings</name>
+      <h>400</h>
+      <object_id>2299935</object_id>
+      <w>370</w>
+      <y>99</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on the street</attribute>
+      </attributes>
+      <h>260</h>
+      <object_id>1924621</object_id>
+      <w>350</w>
+      <y>241</y>
+      <x>25</x>
+      <name>red sign</name>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>85</h>
+      <object_id>3615982</object_id>
+      <w>118</w>
+      <y>177</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>bolts</name>
+      <h>56</h>
+      <object_id>2586996</object_id>
+      <w>66</w>
+      <y>231</y>
+      <x>146</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A stop sign and one way sign sitting by some sky scrappers.</caption>
+      <caption>a pole with a stop sign and two one way signs</caption>
+      <caption>a small cluster of signs standing in front of a tall building</caption>
+      <caption>A red stop sign sitting below very tall buildings.</caption>
+      <caption>This is some street signs located near a building.</caption>
+    </captions>
+</image>

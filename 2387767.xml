@@ -1,0 +1,152 @@
+<image>
+  <image-id>2387767</image-id>
+  <coco-id>306700</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1783182</relationship_id>
+      <predicate>has a</predicate>
+      <subject>677200</subject>
+      <object>677201</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783183</relationship_id>
+      <predicate>ON</predicate>
+      <subject>677205</subject>
+      <object>677203</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783184</relationship_id>
+      <predicate>has a</predicate>
+      <subject>677206</subject>
+      <object>677203</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783185</relationship_id>
+      <predicate>has a</predicate>
+      <subject>677206</subject>
+      <object>677202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783186</relationship_id>
+      <predicate>has on</predicate>
+      <subject>677200</subject>
+      <object>677209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783187</relationship_id>
+      <predicate>on a</predicate>
+      <subject>677201</subject>
+      <object>677202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783188</relationship_id>
+      <predicate>has a</predicate>
+      <subject>677200</subject>
+      <object>677201</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783189</relationship_id>
+      <predicate>has on</predicate>
+      <subject>677200</subject>
+      <object>677209</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783190</relationship_id>
+      <predicate>ON</predicate>
+      <subject>677205</subject>
+      <object>677206</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1783191</relationship_id>
+      <predicate>has a</predicate>
+      <subject>677206</subject>
+      <object>677201</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>307</h>
+      <object_id>677200</object_id>
+      <w>283</w>
+      <y>60</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>peperoni</attribute>
+        <attribute>pepperoni</attribute>
+        <attribute>sliced</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>196</h>
+      <object_id>677201</object_id>
+      <w>279</w>
+      <y>277</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>39</h>
+      <object_id>677205</object_id>
+      <w>33</w>
+      <y>384</y>
+      <x>340</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>napkin</name>
+      <h>88</h>
+      <object_id>677203</object_id>
+      <w>54</w>
+      <y>373</y>
+      <x>320</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>138</h>
+      <object_id>677206</object_id>
+      <w>369</w>
+      <y>361</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>paper</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>55</h>
+      <object_id>677202</object_id>
+      <w>65</w>
+      <y>328</y>
+      <x>309</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>21</h>
+      <object_id>677209</object_id>
+      <w>70</w>
+      <y>118</y>
+      <x>147</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Woman showing off very large home made pizza.</caption>
+      <caption>A smiling lady holding up a very big pizza.</caption>
+      <caption>a woman is showing off a large pizza pie</caption>
+      <caption>A woman holding a large pepperoni pizza at a table.  </caption>
+      <caption>A woman getting ready to eat a pizza on the table.</caption>
+    </captions>
+</image>

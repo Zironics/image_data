@@ -1,0 +1,98 @@
+<image>
+  <image-id>2387614</image-id>
+  <coco-id>322091</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1785143</relationship_id>
+      <predicate>IN</predicate>
+      <subject>677523</subject>
+      <object>677524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1785144</relationship_id>
+      <predicate>IN</predicate>
+      <subject>677523</subject>
+      <object>677524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1785145</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>677523</subject>
+      <object>677526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1785146</relationship_id>
+      <predicate>IN</predicate>
+      <subject>677523</subject>
+      <object>677524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1785147</relationship_id>
+      <predicate>IN</predicate>
+      <subject>677523</subject>
+      <object>677524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1785148</relationship_id>
+      <predicate>IN</predicate>
+      <subject>677523</subject>
+      <object>677524</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+        <attribute>walking</attribute>
+        <attribute>grey</attribute>
+        <attribute>dark</attribute>
+        <attribute>blue</attribute>
+        <attribute>brown</attribute>
+        <attribute>together</attribute>
+        <attribute>white</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>turkeys</name>
+      <h>132</h>
+      <object_id>677523</object_id>
+      <w>362</w>
+      <y>90</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+        <attribute>green</attribute>
+        <attribute>sunny</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>field</name>
+      <h>35</h>
+      <object_id>677524</object_id>
+      <w>46</w>
+      <y>235</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bare</attribute>
+        <attribute>close</attribute>
+        <attribute>yellow</attribute>
+        <attribute>thick</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>45</h>
+      <object_id>677526</object_id>
+      <w>96</w>
+      <y>6</y>
+      <x>172</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>wild birds in the forest with young ones in the grass</caption>
+      <caption>A flock of turkeys in the grass in front of some trees.</caption>
+      <caption>A group of turkeys are walking next to some trees.</caption>
+      <caption>Several turkeys are walking together near some trees.</caption>
+      <caption>A group of geese flocking in broad daylight.</caption>
+    </captions>
+</image>

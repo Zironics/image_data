@@ -1,0 +1,95 @@
+<image>
+  <image-id>2415072</image-id>
+  <coco-id>502933</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>141645</relationship_id>
+      <predicate>has</predicate>
+      <subject>146523</subject>
+      <object>146524</object>
+    </relationship>
+    <relationship>
+      <relationship_id>141647</relationship_id>
+      <predicate>has</predicate>
+      <subject>146523</subject>
+      <object>146525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>141646</relationship_id>
+      <predicate>ON</predicate>
+      <subject>146524</subject>
+      <object>146523</object>
+    </relationship>
+    <relationship>
+      <relationship_id>141648</relationship_id>
+      <predicate>ON</predicate>
+      <subject>146525</subject>
+      <object>146523</object>
+    </relationship>
+    <relationship>
+      <relationship_id>141649</relationship_id>
+      <predicate>below</predicate>
+      <subject>146525</subject>
+      <object>146524</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>electronic</attribute>
+        <attribute>quiz</attribute>
+        <attribute>silver</attribute>
+        <attribute>black</attribute>
+        <attribute>digital</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>game</name>
+      <h>332</h>
+      <object_id>146523</object_id>
+      <w>300</w>
+      <y>42</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>blue</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>screen</name>
+      <h>145</h>
+      <object_id>146524</object_id>
+      <w>184</w>
+      <y>113</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>a</attribute>
+        <attribute>b</attribute>
+        <attribute>c</attribute>
+        <attribute>d</attribute>
+        <attribute>gray</attribute>
+        <attribute>black</attribute>
+        <attribute>pressable</attribute>
+        <attribute>rubber</attribute>
+        <attribute>soft</attribute>
+        <attribute>circle</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>buttons</name>
+      <h>68</h>
+      <object_id>146525</object_id>
+      <w>178</w>
+      <y>247</y>
+      <x>177</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Reading a text message on a mobile device. </caption>
+      <caption>A person checking on their phone while sitting  at a table. </caption>
+      <caption>A person checks their electronic device at the table.</caption>
+      <caption>Someone is holding a handheld device in front of a desk</caption>
+      <caption>A person playing a trivia game at a pub.</caption>
+    </captions>
+</image>

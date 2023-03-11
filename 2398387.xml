@@ -1,0 +1,91 @@
+<image>
+  <image-id>2398387</image-id>
+  <coco-id>411645</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3339973</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1180379</subject>
+      <object>1180380</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3339974</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1180379</subject>
+      <object>1180385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3339975</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1180388</subject>
+      <object>1180378</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>peaked</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>moutain</name>
+      <h>104</h>
+      <object_id>1180379</object_id>
+      <w>297</w>
+      <y>74</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>tarmac</name>
+      <h>177</h>
+      <object_id>1180380</object_id>
+      <w>497</w>
+      <y>196</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>51</h>
+      <object_id>1180385</object_id>
+      <w>66</w>
+      <y>129</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>15</h>
+      <object_id>1180388</object_id>
+      <w>23</w>
+      <y>210</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>parked</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>57</h>
+      <object_id>1180378</object_id>
+      <w>200</w>
+      <y>169</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Several planes sitting parked on the ground at an airport.</caption>
+      <caption>Airplanes are parked on the runways at the airport</caption>
+      <caption>Several airplanes and baggage containers on a airport tarmac </caption>
+      <caption>Airport with several commuter jets on tarmac near mountains.</caption>
+      <caption>Airplanes on the tarmac in the rain at an island airport</caption>
+    </captions>
+</image>

@@ -1,0 +1,66 @@
+<image>
+  <image-id>2326713</image-id>
+  <coco-id>362825</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476910</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3938746</subject>
+      <object>3416359</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4121196</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3480863</subject>
+      <object>2821184</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>liquid</name>
+      <h>30</h>
+      <object_id>3938746</object_id>
+      <w>26</w>
+      <y>20</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>183</h>
+      <object_id>3416359</object_id>
+      <w>168</w>
+      <y>11</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>74</h>
+      <object_id>3480863</object_id>
+      <w>82</w>
+      <y>159</y>
+      <x>78</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>375</h>
+      <object_id>2821184</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of donuts on top of a white plate.</caption>
+      <caption>a table that has a doughnuts and coffee on it</caption>
+      <caption>A couple of doughnuts that are sitting on a plate.</caption>
+      <caption>Two glazed doughnuts are served with a cup of coffee on a black counter</caption>
+      <caption>Two donuts sitting on a plate next to a cup of coffee.</caption>
+    </captions>
+</image>

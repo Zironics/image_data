@@ -1,0 +1,134 @@
+<image>
+  <image-id>2332402</image-id>
+  <coco-id>19320</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4671374</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4273494</subject>
+      <object>4273495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4565740</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4013393</subject>
+      <object>4649437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4565741</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4013396</subject>
+      <object>4013395</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4671532</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4273813</subject>
+      <object>4649437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4565773</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4013481</subject>
+      <object>4013482</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821029</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4649437</subject>
+      <object>4649438</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>arm</name>
+      <h>22</h>
+      <object_id>4273494</object_id>
+      <w>60</w>
+      <y>233</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>219</h>
+      <object_id>4273495</object_id>
+      <w>126</w>
+      <y>159</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>23</h>
+      <object_id>4013393</object_id>
+      <w>21</w>
+      <y>225</y>
+      <x>105</x>
+    </object>
+    <object>
+      <h>200</h>
+      <object_id>4649437</object_id>
+      <w>146</w>
+      <y>162</y>
+      <x>6</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>28</h>
+      <object_id>4013396</object_id>
+      <w>28</w>
+      <y>224</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>106</h>
+      <object_id>4013395</object_id>
+      <w>88</w>
+      <y>152</y>
+      <x>46</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>74</h>
+      <object_id>4273813</object_id>
+      <w>87</w>
+      <y>250</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>white lines</name>
+      <h>57</h>
+      <object_id>4013481</object_id>
+      <w>103</w>
+      <y>342</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>baseball field</name>
+      <h>258</h>
+      <object_id>4013482</object_id>
+      <w>315</w>
+      <y>240</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>38</h>
+      <object_id>4649438</object_id>
+      <w>46</w>
+      <y>163</y>
+      <x>68</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player is attempting to hit the ball.</caption>
+      <caption>The young baseball player wearing blue is swinging at a pitch.</caption>
+      <caption>A baseball player attempts to hit a ball with his bat.</caption>
+      <caption>The baseball player is ready to hit the ball.</caption>
+      <caption>A man leans down as he prepares to hit the baseball.</caption>
+    </captions>
+</image>

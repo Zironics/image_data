@@ -1,0 +1,62 @@
+<image>
+  <image-id>2325635</image-id>
+  <coco-id>133486</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483244</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3941058</subject>
+      <object>3941057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483245</relationship_id>
+      <predicate>with</predicate>
+      <subject>3219970</subject>
+      <object>3941059</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>stack</name>
+      <h>91</h>
+      <object_id>3941058</object_id>
+      <w>79</w>
+      <y>372</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>bowls</name>
+      <h>90</h>
+      <object_id>3941057</object_id>
+      <w>70</w>
+      <y>371</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic </attribute>
+      </attributes>
+      <name>container</name>
+      <h>80</h>
+      <object_id>3219970</object_id>
+      <w>92</w>
+      <y>369</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>12</h>
+      <object_id>3941059</object_id>
+      <w>38</w>
+      <y>330</y>
+      <x>21</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person in a kitchen preparing food on a table </caption>
+      <caption>A man preparing food for a meal inside of a kitchen.</caption>
+      <caption>This person is preparing a  meal in the kitchen. </caption>
+      <caption>A man fixing a bowl of food at a counter.</caption>
+      <caption>a person in an apron standing over a small metal bowl on counter in a kitchen</caption>
+    </captions>
+</image>

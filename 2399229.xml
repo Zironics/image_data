@@ -1,0 +1,93 @@
+<image>
+  <image-id>2399229</image-id>
+  <coco-id>447834</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4655179</relationship_id>
+      <predicate>has</predicate>
+      <subject>4232859</subject>
+      <object>4232860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4655227</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4232966</subject>
+      <object>4232967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684192</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4307052</subject>
+      <object>4307053</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>water bottle</name>
+      <h>100</h>
+      <object_id>4232859</object_id>
+      <w>30</w>
+      <y>130</y>
+      <x>297</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>lid</name>
+      <h>6</h>
+      <object_id>4232860</object_id>
+      <w>12</w>
+      <y>132</y>
+      <x>302</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>power</attribute>
+      </attributes>
+      <name>outlet</name>
+      <h>57</h>
+      <object_id>4232966</object_id>
+      <w>43</w>
+      <y>16</y>
+      <x>372</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>308</h>
+      <object_id>4232967</object_id>
+      <w>125</w>
+      <y>1</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>some hair</name>
+      <h>59</h>
+      <object_id>4307052</object_id>
+      <w>33</w>
+      <y>10</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>woman's face</name>
+      <h>71</h>
+      <object_id>4307053</object_id>
+      <w>104</w>
+      <y>0</y>
+      <x>163</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The woman in the kitchen pours fluid from a blender pitcher. </caption>
+      <caption>A person stands at a counter and pours a smoothie.</caption>
+      <caption>Woman pouring liquid into glass in residential kitchen.</caption>
+      <caption>A woman is pouring a drink from a pitcher.</caption>
+      <caption>a lady that is pouring something in a glass</caption>
+    </captions>
+</image>

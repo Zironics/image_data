@@ -1,0 +1,79 @@
+<image>
+  <image-id>1593161</image-id>
+  <coco-id>310524</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3852203</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3593473</subject>
+      <object>1615960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251540</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1792344</subject>
+      <object>3790610</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3798389</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3213674</subject>
+      <object>3593473</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>280</h>
+      <object_id>3593473</object_id>
+      <w>520</w>
+      <y>357</y>
+      <x>0</x>
+      <name>bench</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+        <attribute>metal</attribute>
+        <attribute>long</attribute>
+      </attributes>
+      <h>80</h>
+      <object_id>1615960</object_id>
+      <w>280</w>
+      <y>358</y>
+      <x>0</x>
+      <name>bench</name>
+    </object>
+    <object>
+      <name>picnic table</name>
+      <h>36</h>
+      <object_id>1792344</object_id>
+      <w>65</w>
+      <y>312</y>
+      <x>300</x>
+    </object>
+    <object>
+      <name>public square</name>
+      <h>541</h>
+      <object_id>3790610</object_id>
+      <w>1014</w>
+      <y>224</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>134</h>
+      <object_id>3213674</object_id>
+      <w>122</w>
+      <y>352</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a few rows of benches and a few people sitting on them</caption>
+      <caption>A park has many benches and some trees and bushes.</caption>
+      <caption>A view of several benches where people are seated near bushes and trees.</caption>
+      <caption>a concrete box holding a tree and some plants </caption>
+      <caption>a couple of people sitting on a bench sits next to a tree</caption>
+    </captions>
+</image>

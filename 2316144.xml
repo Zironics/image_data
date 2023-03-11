@@ -1,0 +1,73 @@
+<image>
+  <image-id>2316144</image-id>
+  <coco-id>18217</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4252508</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2936859</subject>
+      <object>2936861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252509</relationship_id>
+      <predicate>has</predicate>
+      <subject>2936860</subject>
+      <object>2936861</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252510</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3496679</subject>
+      <object>3791032</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pole</name>
+      <h>91</h>
+      <object_id>2936859</object_id>
+      <w>130</w>
+      <y>225</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>25</h>
+      <object_id>2936861</object_id>
+      <w>27</w>
+      <y>207</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>261</h>
+      <object_id>2936860</object_id>
+      <w>222</w>
+      <y>102</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>ski</name>
+      <h>52</h>
+      <object_id>3496679</object_id>
+      <w>104</w>
+      <y>339</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>406</h>
+      <object_id>3791032</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A male skier dressed in red traveling down a slope.</caption>
+      <caption>An athletic middle aged male skier courses downhill. </caption>
+      <caption>The man is skiing down the ski slope.</caption>
+      <caption>A man on skis dressed in red taking a curve.</caption>
+      <caption>A skier makes a sharp slice to come to a stop.</caption>
+    </captions>
+</image>

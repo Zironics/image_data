@@ -1,0 +1,238 @@
+<image>
+  <image-id>2376569</image-id>
+  <coco-id>186721</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1425970</relationship_id>
+      <predicate>are on</predicate>
+      <subject>571648</subject>
+      <object>571649</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425971</relationship_id>
+      <predicate>are watching</predicate>
+      <subject>571651</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425972</relationship_id>
+      <predicate>are watching</predicate>
+      <subject>571651</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425973</relationship_id>
+      <predicate>are sitting on</predicate>
+      <subject>571651</subject>
+      <object>571659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425974</relationship_id>
+      <predicate>have</predicate>
+      <subject>571660</subject>
+      <object>571661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425975</relationship_id>
+      <predicate>are on</predicate>
+      <subject>571648</subject>
+      <object>571649</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425976</relationship_id>
+      <predicate>ON</predicate>
+      <subject>571664</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425977</relationship_id>
+      <predicate>are watching</predicate>
+      <subject>571650</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425978</relationship_id>
+      <predicate>are watching</predicate>
+      <subject>571650</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425979</relationship_id>
+      <predicate>are in</predicate>
+      <subject>571658</subject>
+      <object>571665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425980</relationship_id>
+      <predicate>OF</predicate>
+      <subject>571654</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425981</relationship_id>
+      <predicate>walking down</predicate>
+      <subject>571654</subject>
+      <object>571658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425982</relationship_id>
+      <predicate>ON</predicate>
+      <subject>571654</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425983</relationship_id>
+      <predicate>ON</predicate>
+      <subject>571664</subject>
+      <object>571666</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425984</relationship_id>
+      <predicate>has</predicate>
+      <subject>571654</subject>
+      <object>571668</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425985</relationship_id>
+      <predicate>are to right of</predicate>
+      <subject>571658</subject>
+      <object>571654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1425986</relationship_id>
+      <predicate>OF</predicate>
+      <subject>571654</subject>
+      <object>571654</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadows</name>
+      <h>83</h>
+      <object_id>571648</object_id>
+      <w>145</w>
+      <y>259</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>124</h>
+      <object_id>571649</object_id>
+      <w>467</w>
+      <y>250</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>people</name>
+      <h>130</h>
+      <object_id>571651</object_id>
+      <w>496</w>
+      <y>109</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>17</h>
+      <object_id>571654</object_id>
+      <w>48</w>
+      <y>203</y>
+      <x>289</x>
+      <name>skateboard</name>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>56</h>
+      <object_id>571659</object_id>
+      <w>202</w>
+      <y>61</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>135</h>
+      <object_id>571660</object_id>
+      <w>344</w>
+      <y>2</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>120</h>
+      <object_id>571661</object_id>
+      <w>332</w>
+      <y>0</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>wrist watch</name>
+      <h>14</h>
+      <object_id>571664</object_id>
+      <w>10</w>
+      <y>121</y>
+      <x>315</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>watchig</attribute>
+        <attribute>sitting dow</attribute>
+      </attributes>
+      <name>spectators</name>
+      <h>73</h>
+      <object_id>571650</object_id>
+      <w>231</w>
+      <y>14</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>stairs</name>
+      <h>144</h>
+      <object_id>571658</object_id>
+      <w>170</w>
+      <y>203</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>skateboard park</name>
+      <h>371</h>
+      <object_id>571665</object_id>
+      <w>500</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>man's wrist</name>
+      <h>16</h>
+      <object_id>571666</object_id>
+      <w>10</w>
+      <y>118</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>front wheel</name>
+      <h>10</h>
+      <object_id>571668</object_id>
+      <w>14</w>
+      <y>211</y>
+      <x>291</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there re many people watching a man on a skateboard</caption>
+      <caption>A skateboarder grinds down a rail in front of an audience.</caption>
+      <caption>Crowd watches while guy slides down railing on skateboard</caption>
+      <caption>A young man performing a jump on a railing with a crowd looking on.</caption>
+      <caption>The young man is practicing his moves on his skateboard. </caption>
+    </captions>
+</image>

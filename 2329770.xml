@@ -1,0 +1,84 @@
+<image>
+  <image-id>2329770</image-id>
+  <coco-id>360409</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4127672</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3251169</subject>
+      <object>2856364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4127673</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3195520</subject>
+      <object>3150538</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3985445</relationship_id>
+      <predicate>surfing</predicate>
+      <subject>3195520</subject>
+      <object>3195521</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>56</h>
+      <object_id>3251169</object_id>
+      <w>497</w>
+      <y>81</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ocean</name>
+      <h>320</h>
+      <object_id>2856364</object_id>
+      <w>481</w>
+      <y>10</y>
+      <x>8</x>
+    </object>
+    <object>
+      <h>130</h>
+      <object_id>3195520</object_id>
+      <w>87</w>
+      <y>110</y>
+      <x>65</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>dress</name>
+      <h>50</h>
+      <object_id>3150538</object_id>
+      <w>92</w>
+      <y>148</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>139</h>
+      <object_id>3195521</object_id>
+      <w>500</w>
+      <y>132</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in a wet suit surfs a wave.</caption>
+      <caption>A person on a surf board riding a wave.</caption>
+      <caption>Woman in black suit surfing on a small wave.</caption>
+      <caption>A surfer riding a wave in an ocean.</caption>
+      <caption>A person on a surfboard in the water.</caption>
+    </captions>
+</image>

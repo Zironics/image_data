@@ -1,0 +1,82 @@
+<image>
+  <image-id>2374402</image-id>
+  <coco-id>361477</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4675574</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4284277</subject>
+      <object>4497514</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4779914</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4547616</subject>
+      <object>4547615</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4761867</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4497513</subject>
+      <object>4497514</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>part</name>
+      <h>10</h>
+      <object_id>4284277</object_id>
+      <w>34</w>
+      <y>222</y>
+      <x>50</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <h>26</h>
+      <object_id>4497514</object_id>
+      <w>50</w>
+      <y>206</y>
+      <x>57</x>
+      <name>cellphone</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>20</h>
+      <object_id>4547616</object_id>
+      <w>20</w>
+      <y>274</y>
+      <x>146</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>mop</name>
+      <h>80</h>
+      <object_id>4547615</object_id>
+      <w>76</w>
+      <y>227</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>366</h>
+      <object_id>4497513</object_id>
+      <w>113</w>
+      <y>8</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Garage with a man on a cell phone in the left side</caption>
+      <caption>A man standing outside a garage with tanks inside.</caption>
+      <caption>A man holding a remote in front of a garage.</caption>
+      <caption>a male in a black jacket a cellphone and some machines</caption>
+      <caption>a steel vat in a small garage area</caption>
+    </captions>
+</image>

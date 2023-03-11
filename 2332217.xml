@@ -1,0 +1,86 @@
+<image>
+  <image-id>2332217</image-id>
+  <coco-id>22899</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4463636</relationship_id>
+      <predicate>caught in</predicate>
+      <subject>3932487</subject>
+      <object>3932484</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463637</relationship_id>
+      <predicate>ON</predicate>
+      <subject>970138</subject>
+      <object>3932484</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463639</relationship_id>
+      <predicate>has</predicate>
+      <subject>3932484</subject>
+      <object>970138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463640</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3932487</subject>
+      <object>3932484</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463641</relationship_id>
+      <predicate>has</predicate>
+      <subject>3932484</subject>
+      <object>970138</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463642</relationship_id>
+      <predicate>has</predicate>
+      <subject>3932487</subject>
+      <object>970141</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>28</h>
+      <object_id>3932487</object_id>
+      <w>49</w>
+      <y>26</y>
+      <x>29</x>
+      <name>kite</name>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>320</h>
+      <object_id>3932484</object_id>
+      <w>472</w>
+      <y>14</y>
+      <x>17</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>9</h>
+      <object_id>970138</object_id>
+      <w>8</w>
+      <y>30</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>26</h>
+      <object_id>970141</object_id>
+      <w>35</w>
+      <y>28</y>
+      <x>32</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall leaf filled tree with two kites stuck in it.</caption>
+      <caption>One kite flying and two stuck in a tree. </caption>
+      <caption>Top of a tree with the backdrop of a kite.</caption>
+      <caption>A bunch of kites flying around a tree, during the day.</caption>
+      <caption>Two kites are stuck in a tree and third is in the air.</caption>
+    </captions>
+</image>

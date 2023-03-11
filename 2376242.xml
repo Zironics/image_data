@@ -1,0 +1,83 @@
+<image>
+  <image-id>2376242</image-id>
+  <coco-id>405505</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4025311</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2292657</subject>
+      <object>2102863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4025318</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1745461</subject>
+      <object>2102863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4025320</relationship_id>
+      <predicate>growing in</predicate>
+      <subject>2548927</subject>
+      <object>3686658</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>light</name>
+      <h>20</h>
+      <object_id>2292657</object_id>
+      <w>28</w>
+      <y>10</y>
+      <x>232</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>camoflauge </attribute>
+        <attribute>painted</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>223</h>
+      <object_id>2102863</object_id>
+      <w>483</w>
+      <y>12</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>90</h>
+      <object_id>1745461</object_id>
+      <w>99</w>
+      <y>151</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>98</h>
+      <object_id>2548927</object_id>
+      <w>46</w>
+      <y>181</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>crack</name>
+      <h>94</h>
+      <object_id>3686658</object_id>
+      <w>54</w>
+      <y>185</y>
+      <x>256</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A truck painted in camouflage sitting parked on cement.</caption>
+      <caption>A large camo painted truck sitting in a parking lot.</caption>
+      <caption>SUV with off-road tires in a parking lot of a city.</caption>
+      <caption>An old Ford Bronco with a camo paint job.</caption>
+      <caption>A camo colored truck sits on a driveway.</caption>
+    </captions>
+</image>

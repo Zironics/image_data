@@ -1,0 +1,185 @@
+<image>
+  <image-id>2338192</image-id>
+  <coco-id>251094</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4460497</relationship_id>
+      <predicate>standing by</predicate>
+      <subject>3930563</subject>
+      <object>2465654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4066280</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3930563</subject>
+      <object>3930565</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4066281</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2283670</subject>
+      <object>3930562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460499</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3930563</subject>
+      <object>3930562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460500</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2465654</subject>
+      <object>3930562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460501</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3930565</subject>
+      <object>3930562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460498</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2099571</subject>
+      <object>3930562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4066282</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2937887</subject>
+      <object>2465654</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460502</relationship_id>
+      <predicate>has</predicate>
+      <subject>2465654</subject>
+      <object>3322196</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3969476</relationship_id>
+      <predicate>Lying in</predicate>
+      <subject>3930565</subject>
+      <object>3255465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3969477</relationship_id>
+      <predicate>Lying in</predicate>
+      <subject>3930565</subject>
+      <object>3255465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3969478</relationship_id>
+      <predicate>Lying in</predicate>
+      <subject>3930563</subject>
+      <object>3255465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3969479</relationship_id>
+      <predicate>Lying in</predicate>
+      <subject>2465654</subject>
+      <object>3255465</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>lamb</name>
+      <h>198</h>
+      <object_id>3930563</object_id>
+      <w>152</w>
+      <y>110</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray </attribute>
+        <attribute>black </attribute>
+        <attribute>White </attribute>
+      </attributes>
+      <name>lamb</name>
+      <h>240</h>
+      <object_id>2465654</object_id>
+      <w>263</w>
+      <y>64</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>adult</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>212</h>
+      <object_id>3930565</object_id>
+      <w>236</w>
+      <y>99</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>64</h>
+      <object_id>2283670</object_id>
+      <w>37</w>
+      <y>0</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>pasture</name>
+      <h>281</h>
+      <object_id>3930562</object_id>
+      <w>495</w>
+      <y>81</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>45</h>
+      <object_id>2099571</object_id>
+      <w>442</w>
+      <y>305</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>legs</name>
+      <h>114</h>
+      <object_id>2937887</object_id>
+      <w>51</w>
+      <y>191</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooly</attribute>
+      </attributes>
+      <name>wooly hair</name>
+      <h>245</h>
+      <object_id>3322196</object_id>
+      <w>126</w>
+      <y>92</y>
+      <x>368</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Green </attribute>
+      </attributes>
+      <name>grass</name>
+      <h>275</h>
+      <object_id>3255465</object_id>
+      <w>482</w>
+      <y>87</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a sheep with two of her baby lambs in the pasture</caption>
+      <caption>Misty photo of lambs and a sheep in a green field</caption>
+      <caption>Three sheep are sitting on the green grass.</caption>
+      <caption>Two small sheep laying down next to a larger sheep. </caption>
+      <caption>A herd of sheep sitting and standing next to each other.</caption>
+    </captions>
+</image>

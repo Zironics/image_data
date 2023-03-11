@@ -1,0 +1,94 @@
+<image>
+  <image-id>2316213</image-id>
+  <coco-id>94564</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4524512</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3278709</subject>
+      <object>3278705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675356</relationship_id>
+      <predicate>has</predicate>
+      <subject>2956459</subject>
+      <object>3540268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675357</relationship_id>
+      <predicate>has</predicate>
+      <subject>2956459</subject>
+      <object>3540268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675358</relationship_id>
+      <predicate>has</predicate>
+      <subject>2956459</subject>
+      <object>3540269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675359</relationship_id>
+      <predicate>has</predicate>
+      <subject>2956459</subject>
+      <object>3540269</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3675360</relationship_id>
+      <predicate>has</predicate>
+      <subject>2956459</subject>
+      <object>3540268</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>stem</name>
+      <h>93</h>
+      <object_id>3278709</object_id>
+      <w>114</w>
+      <y>1</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>carrot</name>
+      <h>85</h>
+      <object_id>3278705</object_id>
+      <w>62</w>
+      <y>133</y>
+      <x>237</x>
+    </object>
+    <object>
+      <h>91</h>
+      <object_id>2956459</object_id>
+      <w>35</w>
+      <y>97</y>
+      <x>207</x>
+      <name>carrot</name>
+    </object>
+    <object>
+      <name>root</name>
+      <h>35</h>
+      <object_id>3540268</object_id>
+      <w>52</w>
+      <y>228</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>root</name>
+      <h>59</h>
+      <object_id>3540269</object_id>
+      <w>66</w>
+      <y>110</y>
+      <x>172</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Carrots bundled up for sale at an outside market</caption>
+      <caption>A black board and some vegetables on display.</caption>
+      <caption>a sign sits in front of some vegetables </caption>
+      <caption>Bunches of carrots for sale with chalkboard sign displaying price.</caption>
+      <caption>A container filled with carrots and tomatoes next to egg plant.</caption>
+    </captions>
+</image>

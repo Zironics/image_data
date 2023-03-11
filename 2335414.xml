@@ -1,0 +1,63 @@
+<image>
+  <image-id>2335414</image-id>
+  <coco-id>430489</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3980838</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2360417</subject>
+      <object>3668787</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3980845</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3668792</subject>
+      <object>2650813</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>shirtless</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>49</h>
+      <object_id>2360417</object_id>
+      <w>34</w>
+      <y>119</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>19</h>
+      <object_id>3668787</object_id>
+      <w>57</w>
+      <y>149</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>31</h>
+      <object_id>3668792</object_id>
+      <w>34</w>
+      <y>172</y>
+      <x>367</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>111</h>
+      <object_id>2650813</object_id>
+      <w>273</w>
+      <y>172</y>
+      <x>79</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Someone is surfing on the waves with another is going for a swim. </caption>
+      <caption>A man on a surfboard in the water.</caption>
+      <caption>Two people surfing on some waves with a boat behind them.</caption>
+      <caption>A surfer riding the crest of a wave.</caption>
+      <caption>surfers in the ocean with the rolling waves </caption>
+    </captions>
+</image>

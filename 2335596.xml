@@ -1,0 +1,60 @@
+<image>
+  <image-id>2335596</image-id>
+  <coco-id>362865</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3979312</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3452653</subject>
+      <object>3668068</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3979313</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3452653</subject>
+      <object>3067643</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>enjoying</attribute>
+        <attribute>getting</attribute>
+        <attribute>playing</attribute>
+        <attribute>out</attribute>
+      </attributes>
+      <h>499</h>
+      <object_id>3452653</object_id>
+      <w>400</w>
+      <y>0</y>
+      <x>79</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>170</h>
+      <object_id>3668068</object_id>
+      <w>163</w>
+      <y>56</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clothing</name>
+      <h>211</h>
+      <object_id>3067643</object_id>
+      <w>215</w>
+      <y>60</y>
+      <x>169</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A female tennis player squatting low on the court.</caption>
+      <caption>A women who is playing tennis on a tennis court.</caption>
+      <caption>A woman standing in a court with a tennis racket.</caption>
+      <caption>A female tennis player waiting for the serve.</caption>
+      <caption>A tennis player on a grass court prepares to receive the ball.</caption>
+    </captions>
+</image>

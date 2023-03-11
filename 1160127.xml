@@ -1,0 +1,87 @@
+<image>
+  <image-id>1160127</image-id>
+  <coco-id>322771</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4075709</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1602060</subject>
+      <object>1602061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075710</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1602062</subject>
+      <object>3706652</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4075711</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1602063</subject>
+      <object>1602064</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>poster</name>
+      <h>93</h>
+      <object_id>1602060</object_id>
+      <w>304</w>
+      <y>4</y>
+      <x>587</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>93</h>
+      <object_id>1602061</object_id>
+      <w>304</w>
+      <y>4</y>
+      <x>587</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>unmade</attribute>
+      </attributes>
+      <name>bed</name>
+      <h>336</h>
+      <object_id>1602062</object_id>
+      <w>380</w>
+      <y>296</y>
+      <x>640</x>
+    </object>
+    <object>
+      <name>corner</name>
+      <h>444</h>
+      <object_id>3706652</object_id>
+      <w>346</w>
+      <y>85</y>
+      <x>676</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bunch</attribute>
+      </attributes>
+      <name>clothes</name>
+      <h>210</h>
+      <object_id>1602063</object_id>
+      <w>213</w>
+      <y>235</y>
+      <x>809</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>494</h>
+      <object_id>1602064</object_id>
+      <w>275</w>
+      <y>235</y>
+      <x>748</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cluttered, messy dorm with lots of electronics</caption>
+      <caption>A very messy room that has two computer monitors sitting on a desk.</caption>
+      <caption>A messy room with a tv, bed, and two computer screens. </caption>
+      <caption>EXTREMELY MESSY ROOM AND VERY CLUTTERED WITH TRASH</caption>
+      <caption>A messy bedroom with a tv, a bed, a chair and computer equipment.</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2417088</image-id>
+  <coco-id>508750</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3884567</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2963027</subject>
+      <object>2963028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3884574</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3078647</subject>
+      <object>3078648</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>235</h>
+      <object_id>2963027</object_id>
+      <w>57</w>
+      <y>147</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>394</h>
+      <object_id>2963028</object_id>
+      <w>219</w>
+      <y>2</y>
+      <x>113</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>68</h>
+      <object_id>3078647</object_id>
+      <w>86</w>
+      <y>46</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>128</h>
+      <object_id>3078648</object_id>
+      <w>140</w>
+      <y>12</y>
+      <x>107</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>THERE IS A STATUE OF A BOY THAT IS SITTING LOOKING AT THE CLOCK </caption>
+      <caption>A bronze statue sits in front of a brick building.</caption>
+      <caption>A statue of a boy looking up at a clock tower.</caption>
+      <caption>A statue of a child sitting looking at a clock. </caption>
+      <caption>A bronze statue of a boy setting and looking at the clock on a brick building.</caption>
+    </captions>
+</image>

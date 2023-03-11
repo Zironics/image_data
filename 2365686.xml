@@ -1,0 +1,93 @@
+<image>
+  <image-id>2365686</image-id>
+  <coco-id>562721</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2064044</relationship_id>
+      <predicate>has</predicate>
+      <subject>756252</subject>
+      <object>756253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2064045</relationship_id>
+      <predicate>has</predicate>
+      <subject>756252</subject>
+      <object>756260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2064046</relationship_id>
+      <predicate>has</predicate>
+      <subject>756252</subject>
+      <object>756260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2064047</relationship_id>
+      <predicate>near</predicate>
+      <subject>756257</subject>
+      <object>756254</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>train</name>
+      <h>134</h>
+      <object_id>756252</object_id>
+      <w>96</w>
+      <y>83</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>77</h>
+      <object_id>756253</object_id>
+      <w>35</w>
+      <y>103</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>44</h>
+      <object_id>756260</object_id>
+      <w>90</w>
+      <y>101</y>
+      <x>220</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>train</attribute>
+        <attribute>glowing</attribute>
+        <attribute>red</attribute>
+        <attribute>traffic</attribute>
+      </attributes>
+      <name>signal</name>
+      <h>57</h>
+      <object_id>756257</object_id>
+      <w>20</w>
+      <y>74</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>train</attribute>
+        <attribute>white</attribute>
+        <attribute>dirty</attribute>
+      </attributes>
+      <name>tracks</name>
+      <h>125</h>
+      <object_id>756254</object_id>
+      <w>297</w>
+      <y>160</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train station with a train on the tracks</caption>
+      <caption>A yellow and black passenger train pulling into the station.</caption>
+      <caption>A train drives into the train station. </caption>
+      <caption>A train that is going by a train stop.</caption>
+      <caption>Transportation car passing #9 on the station stop.</caption>
+    </captions>
+</image>

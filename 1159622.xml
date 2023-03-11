@@ -1,0 +1,87 @@
+<image>
+  <image-id>1159622</image-id>
+  <coco-id>521652</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4263573</relationship_id>
+      <predicate>positioned forward on</predicate>
+      <subject>1595647</subject>
+      <object>3797074</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4263574</relationship_id>
+      <predicate>positioned on</predicate>
+      <subject>1595648</subject>
+      <object>3797075</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4070082</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3704382</subject>
+      <object>1595650</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4070083</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3704382</subject>
+      <object>1595650</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>27</h>
+      <object_id>1595647</object_id>
+      <w>32</w>
+      <y>190</y>
+      <x>879</x>
+    </object>
+    <object>
+      <name>monument</name>
+      <h>480</h>
+      <object_id>3797074</object_id>
+      <w>191</w>
+      <y>26</y>
+      <x>794</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>40</h>
+      <object_id>1595648</object_id>
+      <w>30</w>
+      <y>181</y>
+      <x>813</x>
+    </object>
+    <object>
+      <name>monument</name>
+      <h>471</h>
+      <object_id>3797075</object_id>
+      <w>150</w>
+      <y>50</y>
+      <x>794</x>
+    </object>
+    <object>
+      <name>word</name>
+      <h>80</h>
+      <object_id>3704382</object_id>
+      <w>593</w>
+      <y>230</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>structure</name>
+      <h>223</h>
+      <object_id>1595650</object_id>
+      <w>668</w>
+      <y>238</y>
+      <x>16</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Street with a few cars and a sidewalk with a clock tower.</caption>
+      <caption>The drive up area in front of a building</caption>
+      <caption>A clock tower stands beside a busy street.</caption>
+      <caption>A clock up on a pole on the street.</caption>
+      <caption>A group of cars that are passing a building.</caption>
+    </captions>
+</image>

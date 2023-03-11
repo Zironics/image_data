@@ -1,0 +1,94 @@
+<image>
+  <image-id>2404844</image-id>
+  <coco-id>117690</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3246490</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1112529</subject>
+      <object>1112530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3246498</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1112529</subject>
+      <object>1112530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3246510</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1112529</subject>
+      <object>1112530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3246514</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1112529</subject>
+      <object>1112530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>721362</relationship_id>
+      <predicate>catching</predicate>
+      <subject>375646</subject>
+      <object>375648</object>
+    </relationship>
+    <relationship>
+      <relationship_id>721361</relationship_id>
+      <predicate>over</predicate>
+      <subject>375646</subject>
+      <object>375647</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>48</h>
+      <object_id>1112529</object_id>
+      <w>51</w>
+      <y>28</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>48</h>
+      <object_id>1112530</object_id>
+      <w>51</w>
+      <y>33</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>jumping</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>88</h>
+      <object_id>375646</object_id>
+      <w>122</w>
+      <y>108</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>frisbee</name>
+      <h>21</h>
+      <object_id>375648</object_id>
+      <w>30</w>
+      <y>56</y>
+      <x>401</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>40</h>
+      <object_id>375647</object_id>
+      <w>220</w>
+      <y>299</y>
+      <x>266</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on pier with dog jumping for frisbee into water.</caption>
+      <caption>A black dog jumping into the water after a frisbee</caption>
+      <caption>a dog jumping into a big pool with it's owner </caption>
+      <caption>A Splash Dog chasing a Frisbee into a pool during a performance</caption>
+      <caption>A dog umping to catch a frisbee while diving into a pool</caption>
+    </captions>
+</image>

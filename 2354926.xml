@@ -1,0 +1,189 @@
+<image>
+  <image-id>2354926</image-id>
+  <coco-id>159260</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2355270</relationship_id>
+      <predicate>are on</predicate>
+      <subject>834363</subject>
+      <object>834364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355271</relationship_id>
+      <predicate>are on</predicate>
+      <subject>834363</subject>
+      <object>834364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355272</relationship_id>
+      <predicate>are on</predicate>
+      <subject>834363</subject>
+      <object>834364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355273</relationship_id>
+      <predicate>has</predicate>
+      <subject>834364</subject>
+      <object>834363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355274</relationship_id>
+      <predicate>has</predicate>
+      <subject>834365</subject>
+      <object>834363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355275</relationship_id>
+      <predicate>are on</predicate>
+      <subject>834367</subject>
+      <object>834368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355276</relationship_id>
+      <predicate>are on front of</predicate>
+      <subject>834367</subject>
+      <object>834364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355277</relationship_id>
+      <predicate>are in</predicate>
+      <subject>834367</subject>
+      <object>834368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355278</relationship_id>
+      <predicate>are on</predicate>
+      <subject>834367</subject>
+      <object>834364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355279</relationship_id>
+      <predicate>are in</predicate>
+      <subject>834367</subject>
+      <object>834368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355280</relationship_id>
+      <predicate>are in</predicate>
+      <subject>834367</subject>
+      <object>834368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355281</relationship_id>
+      <predicate>are on</predicate>
+      <subject>834367</subject>
+      <object>834368</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355282</relationship_id>
+      <predicate>ON</predicate>
+      <subject>834364</subject>
+      <object>834370</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355283</relationship_id>
+      <predicate>IN</predicate>
+      <subject>834373</subject>
+      <object>834364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2355284</relationship_id>
+      <predicate>ON</predicate>
+      <subject>834374</subject>
+      <object>834364</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>letters</name>
+      <h>37</h>
+      <object_id>834363</object_id>
+      <w>85</w>
+      <y>129</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>red</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>train</name>
+      <h>179</h>
+      <object_id>834364</object_id>
+      <w>408</w>
+      <y>69</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>side of train</name>
+      <h>94</h>
+      <object_id>834365</object_id>
+      <w>349</w>
+      <y>98</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>stripes</name>
+      <h>42</h>
+      <object_id>834367</object_id>
+      <w>44</w>
+      <y>135</y>
+      <x>355</x>
+    </object>
+    <object>
+      <name>front</name>
+      <h>115</h>
+      <object_id>834368</object_id>
+      <w>102</w>
+      <y>77</y>
+      <x>307</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <h>45</h>
+      <object_id>834370</object_id>
+      <w>499</w>
+      <y>218</y>
+      <x>0</x>
+      <name>railway line</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>24</h>
+      <object_id>834373</object_id>
+      <w>29</w>
+      <y>107</y>
+      <x>271</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>american</attribute>
+      </attributes>
+      <name>flag</name>
+      <h>25</h>
+      <object_id>834374</object_id>
+      <w>27</w>
+      <y>160</y>
+      <x>295</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train that is sitting on the tracks.</caption>
+      <caption>a train rides through a city next to a building </caption>
+      <caption>A blue train traveling down tracks next to a tall building.</caption>
+      <caption>A train on a railway close to a building. </caption>
+      <caption>A blue and red train going down the tracks.</caption>
+    </captions>
+</image>

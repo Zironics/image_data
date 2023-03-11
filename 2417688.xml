@@ -1,0 +1,79 @@
+<image>
+  <image-id>2417688</image-id>
+  <coco-id>375733</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4244035</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3312625</subject>
+      <object>3524322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638823</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3200096</subject>
+      <object>3524322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3717218</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3312625</subject>
+      <object>3312626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4244036</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3312625</subject>
+      <object>3143774</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>190</h>
+      <object_id>3312625</object_id>
+      <w>483</w>
+      <y>35</y>
+      <x>16</x>
+      <name>train</name>
+    </object>
+    <object>
+      <name>station</name>
+      <h>254</h>
+      <object_id>3524322</object_id>
+      <w>482</w>
+      <y>25</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>68</h>
+      <object_id>3200096</object_id>
+      <w>312</w>
+      <y>19</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>120</h>
+      <object_id>3312626</object_id>
+      <w>383</w>
+      <y>160</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>125</h>
+      <object_id>3143774</object_id>
+      <w>472</w>
+      <y>155</y>
+      <x>11</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small train car is sitting on the empty train track.</caption>
+      <caption>a sliver train is on the track and is pasting a brown building.</caption>
+      <caption>A blue train car is stopped on the tracks</caption>
+      <caption>A silver train parked in front of a train station.</caption>
+      <caption>a blue train that is on a train track</caption>
+    </captions>
+</image>

@@ -1,0 +1,113 @@
+<image>
+  <image-id>2320619</image-id>
+  <coco-id>48910</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251806</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2830328</subject>
+      <object>2830329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3662651</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3307228</subject>
+      <object>3482293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251807</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2967453</subject>
+      <object>3790713</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3817731</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3265904</subject>
+      <object>3265905</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+      </attributes>
+      <name>towel</name>
+      <h>80</h>
+      <object_id>2830328</object_id>
+      <w>19</w>
+      <y>156</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>222</h>
+      <object_id>2830329</object_id>
+      <w>31</w>
+      <y>84</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>51</h>
+      <object_id>3307228</object_id>
+      <w>82</w>
+      <y>234</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>277</h>
+      <object_id>3482293</object_id>
+      <w>203</w>
+      <y>224</y>
+      <x>0</x>
+      <name>cabinetry</name>
+    </object>
+    <object>
+      <name>door</name>
+      <h>197</h>
+      <object_id>2967453</object_id>
+      <w>91</w>
+      <y>100</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>living room</name>
+      <h>179</h>
+      <object_id>3790713</object_id>
+      <w>72</w>
+      <y>128</y>
+      <x>226</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>71</h>
+      <object_id>3265904</object_id>
+      <w>22</w>
+      <y>221</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>living room</name>
+      <h>180</h>
+      <object_id>3265905</object_id>
+      <w>72</w>
+      <y>110</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a kitchen with a sink a shelf and a chair</caption>
+      <caption>an all white kitchen with a sink and stove </caption>
+      <caption>A kitchen with a shelf, cabinets, a sink and stove. </caption>
+      <caption>A home kitchen with a door leading to the living room</caption>
+      <caption>A narrow kitchen with beams in the ceiling leads to a family room</caption>
+    </captions>
+</image>

@@ -1,0 +1,68 @@
+<image>
+  <image-id>2401920</image-id>
+  <coco-id>166421</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3284524</relationship_id>
+      <predicate>running on</predicate>
+      <subject>1142691</subject>
+      <object>1142692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>804354</relationship_id>
+      <predicate>ON</predicate>
+      <subject>394537</subject>
+      <object>394538</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284555</relationship_id>
+      <predicate>are sharing</predicate>
+      <subject>1142691</subject>
+      <object>1142692</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>g</name>
+      <h>49</h>
+      <object_id>1142691</object_id>
+      <w>60</w>
+      <y>136</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>49</h>
+      <object_id>1142692</object_id>
+      <w>62</w>
+      <y>143</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>object</name>
+      <h>24</h>
+      <object_id>394537</object_id>
+      <w>28</w>
+      <y>339</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>234</h>
+      <object_id>394538</object_id>
+      <w>303</w>
+      <y>265</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The train is taking a long journey across the country side.</caption>
+      <caption>A passenger train traveling down the tracks in a remote location.</caption>
+      <caption>A three car train travels along the tracks.</caption>
+      <caption>Train tracks that are merging, one of the tracks has a train on it.</caption>
+      <caption>A train approaching a point where tracks merge.</caption>
+    </captions>
+</image>

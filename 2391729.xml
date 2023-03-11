@@ -1,0 +1,97 @@
+<image>
+  <image-id>2391729</image-id>
+  <coco-id>101806</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3445048</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1238090</subject>
+      <object>1238091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3445049</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1238106</subject>
+      <object>1238107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3445050</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1238106</subject>
+      <object>1238107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3445051</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1238112</subject>
+      <object>1238093</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>mask</name>
+      <h>29</h>
+      <object_id>1238090</object_id>
+      <w>24</w>
+      <y>134</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>28</h>
+      <object_id>1238091</object_id>
+      <w>17</w>
+      <y>139</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>guard</name>
+      <h>32</h>
+      <object_id>1238106</object_id>
+      <w>38</w>
+      <y>158</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>catcher</name>
+      <h>92</h>
+      <object_id>1238107</object_id>
+      <w>89</w>
+      <y>131</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>162</h>
+      <object_id>1238112</object_id>
+      <w>332</w>
+      <y>64</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>field</name>
+      <h>132</h>
+      <object_id>1238093</object_id>
+      <w>315</w>
+      <y>12</y>
+      <x>173</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of men on a field playing baseball.</caption>
+      <caption>A baseball player getting ready to take a swing.</caption>
+      <caption>some baseball players are playing baseball on a field</caption>
+      <caption>A baseball player holding a bat next to home plate.</caption>
+      <caption>Player preparing to take swing at pitch during game.</caption>
+    </captions>
+</image>

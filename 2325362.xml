@@ -1,0 +1,57 @@
+<image>
+  <image-id>2325362</image-id>
+  <coco-id>127467</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3730123</relationship_id>
+      <predicate>at top of</predicate>
+      <subject>3564769</subject>
+      <object>3238484</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3730124</relationship_id>
+      <predicate>at top of</predicate>
+      <subject>3564770</subject>
+      <object>3238484</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>16</h>
+      <object_id>3564769</object_id>
+      <w>18</w>
+      <y>252</y>
+      <x>205</x>
+    </object>
+    <object>
+      <h>180</h>
+      <object_id>3238484</object_id>
+      <w>213</w>
+      <y>252</y>
+      <x>53</x>
+      <name>car</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>18</h>
+      <object_id>3564770</object_id>
+      <w>26</w>
+      <y>253</y>
+      <x>165</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train with a yellow front goes through the woods.</caption>
+      <caption>A train pulling freight cars through a forest.</caption>
+      <caption>this gold train is riding through the woods</caption>
+      <caption>a train traveling through a densely wooded area </caption>
+      <caption>A train traveling through a rural countryside near a forest.</caption>
+    </captions>
+</image>

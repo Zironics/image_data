@@ -1,0 +1,82 @@
+<image>
+  <image-id>2370577</image-id>
+  <coco-id>81704</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4323517</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1877132</subject>
+      <object>1877134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4323518</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1877132</subject>
+      <object>1877134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4323519</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1773660</subject>
+      <object>1887542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4323520</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1773660</subject>
+      <object>1773661</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>brace</name>
+      <h>63</h>
+      <object_id>1877132</object_id>
+      <w>64</w>
+      <y>171</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>132</h>
+      <object_id>1877134</object_id>
+      <w>124</w>
+      <y>83</y>
+      <x>208</x>
+    </object>
+    <object>
+      <h>483</h>
+      <object_id>1773660</object_id>
+      <w>340</w>
+      <y>7</y>
+      <x>54</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>scissors</name>
+      <h>67</h>
+      <object_id>1887542</object_id>
+      <w>61</w>
+      <y>38</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>socks</name>
+      <h>61</h>
+      <object_id>1773661</object_id>
+      <w>68</w>
+      <y>337</y>
+      <x>342</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man standing in a room holding a pair of scissors.</caption>
+      <caption>A man with scissors and a bandaged arm poses for the camera. </caption>
+      <caption>A man is running with a pair of scissors in his hand.</caption>
+      <caption>Person running with scissors which your mother always told you not to do.</caption>
+      <caption>A man holding scissors posing for a picture.</caption>
+    </captions>
+</image>

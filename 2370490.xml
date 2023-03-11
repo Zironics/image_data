@@ -1,0 +1,115 @@
+<image>
+  <image-id>2370490</image-id>
+  <coco-id>288569</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4324401</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>3858376</subject>
+      <object>1921452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4324402</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>2423398</subject>
+      <object>2119164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4324403</relationship_id>
+      <predicate>has</predicate>
+      <subject>1726439</subject>
+      <object>1726440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4324404</relationship_id>
+      <predicate>under</predicate>
+      <subject>2274681</subject>
+      <object>2274682</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>28</h>
+      <object_id>3858376</object_id>
+      <w>13</w>
+      <y>223</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>84</h>
+      <object_id>1921452</object_id>
+      <w>109</w>
+      <y>226</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>31</h>
+      <object_id>2423398</object_id>
+      <w>8</w>
+      <y>221</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>wagon</attribute>
+        <attribute>grey</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>train</name>
+      <h>169</h>
+      <object_id>2119164</object_id>
+      <w>403</w>
+      <y>135</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>108</h>
+      <object_id>1726439</object_id>
+      <w>375</w>
+      <y>186</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>renfe</name>
+      <h>28</h>
+      <object_id>1726440</object_id>
+      <w>100</w>
+      <y>213</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>lighting</name>
+      <h>90</h>
+      <object_id>2274681</object_id>
+      <w>368</w>
+      <y>41</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>120</h>
+      <object_id>2274682</object_id>
+      <w>435</w>
+      <y>4</y>
+      <x>64</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train awaiting passengers at a train station</caption>
+      <caption>A train sits in the Toledo train station in the shadow of the platform.</caption>
+      <caption>A train stopped by a train station in a city.</caption>
+      <caption>A train pulling into a covered platform to load and unload</caption>
+      <caption>A modern train is pulled up to a passenger terminal.</caption>
+    </captions>
+</image>

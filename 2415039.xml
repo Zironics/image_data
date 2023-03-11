@@ -1,0 +1,253 @@
+<image>
+  <image-id>2415039</image-id>
+  <coco-id>311909</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4266249</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3799112</subject>
+      <object>3799115</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266250</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>3799114</subject>
+      <object>3799115</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266251</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3799116</subject>
+      <object>3799115</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142267</relationship_id>
+      <predicate>bus says crosstown</predicate>
+      <subject>147232</subject>
+      <object>147233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266253</relationship_id>
+      <predicate>of person on side of</predicate>
+      <subject>3799119</subject>
+      <object>3799115</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142270</relationship_id>
+      <predicate>tree has branch</predicate>
+      <subject>147236</subject>
+      <object>147237</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142273</relationship_id>
+      <predicate>on bus</predicate>
+      <subject>147242</subject>
+      <object>147243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142274</relationship_id>
+      <predicate>pole in distance</predicate>
+      <subject>147245</subject>
+      <object>147244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142276</relationship_id>
+      <predicate>bus has a side</predicate>
+      <subject>147230</subject>
+      <object>147247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142277</relationship_id>
+      <predicate>bus has a route</predicate>
+      <subject>147248</subject>
+      <object>147249</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142278</relationship_id>
+      <predicate>advertisement on side</predicate>
+      <subject>147226</subject>
+      <object>147243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142284</relationship_id>
+      <predicate>headlights on bus</predicate>
+      <subject>147256</subject>
+      <object>147257</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>signal</name>
+      <h>20</h>
+      <object_id>3799112</object_id>
+      <w>20</w>
+      <y>281</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>313</h>
+      <object_id>3799115</object_id>
+      <w>464</w>
+      <y>37</y>
+      <x>20</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bike rack</attribute>
+      </attributes>
+      <name>rack</name>
+      <h>102</h>
+      <object_id>3799114</object_id>
+      <w>129</w>
+      <y>226</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>driver's windshield</attribute>
+      </attributes>
+      <name>windshield</name>
+      <h>103</h>
+      <object_id>3799116</object_id>
+      <w>93</w>
+      <y>100</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>bus is large</name>
+      <h>311</h>
+      <object_id>147232</object_id>
+      <w>489</w>
+      <y>38</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>bus has a front</name>
+      <h>308</h>
+      <object_id>147233</object_id>
+      <w>223</w>
+      <y>36</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>image</name>
+      <h>177</h>
+      <object_id>3799119</object_id>
+      <w>42</w>
+      <y>127</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>tree is tall</name>
+      <h>215</h>
+      <object_id>147236</object_id>
+      <w>314</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tree has branch</name>
+      <h>22</h>
+      <object_id>147237</object_id>
+      <w>74</w>
+      <y>32</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>2103 is written</name>
+      <h>21</h>
+      <object_id>147242</object_id>
+      <w>22</w>
+      <y>78</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>bus has a side</name>
+      <h>300</h>
+      <object_id>147243</object_id>
+      <w>275</w>
+      <y>45</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>pole has a light</name>
+      <h>53</h>
+      <object_id>147245</object_id>
+      <w>16</w>
+      <y>114</y>
+      <x>457</x>
+    </object>
+    <object>
+      <name>light in the distanc</name>
+      <h>11</h>
+      <object_id>147244</object_id>
+      <w>6</w>
+      <y>138</y>
+      <x>459</x>
+    </object>
+    <object>
+      <name>mirrors on side</name>
+      <h>47</h>
+      <object_id>147230</object_id>
+      <w>25</w>
+      <y>116</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>driver has a side</name>
+      <h>282</h>
+      <object_id>147247</object_id>
+      <w>82</w>
+      <y>51</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>bus has a number</name>
+      <h>27</h>
+      <object_id>147248</object_id>
+      <w>16</w>
+      <y>73</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>bus has a sign</name>
+      <h>60</h>
+      <object_id>147249</object_id>
+      <w>149</w>
+      <y>45</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>advertisement on bus</name>
+      <h>179</h>
+      <object_id>147226</object_id>
+      <w>109</w>
+      <y>125</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>headlights on front</name>
+      <h>22</h>
+      <object_id>147256</object_id>
+      <w>37</w>
+      <y>277</y>
+      <x>150</x>
+    </object>
+    <object>
+      <name>bus has headlights</name>
+      <h>16</h>
+      <object_id>147257</object_id>
+      <w>32</w>
+      <y>263</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A public transportation bus near a curb with a bicycle rack.</caption>
+      <caption>The #41 bus parked at the curb waiting for passengers to board</caption>
+      <caption>A large bus parked by the curb </caption>
+      <caption>A white bus that has a 41 Crosstown sign on the front.</caption>
+      <caption>A very big white bus parked by the curb.</caption>
+    </captions>
+</image>

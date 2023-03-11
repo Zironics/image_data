@@ -1,0 +1,107 @@
+<image>
+  <image-id>2332920</image-id>
+  <coco-id>42222</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3704143</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3451901</subject>
+      <object>3553418</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083427</relationship_id>
+      <predicate>lay in</predicate>
+      <subject>3451898</subject>
+      <object>3451903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083428</relationship_id>
+      <predicate>lay in</predicate>
+      <subject>3451899</subject>
+      <object>3451903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083429</relationship_id>
+      <predicate>lay in</predicate>
+      <subject>3451900</subject>
+      <object>3451903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083430</relationship_id>
+      <predicate>lay in</predicate>
+      <subject>3451901</subject>
+      <object>3451903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083431</relationship_id>
+      <predicate>lay in</predicate>
+      <subject>3451902</subject>
+      <object>3451903</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>152</h>
+      <object_id>3451901</object_id>
+      <w>145</w>
+      <y>11</y>
+      <x>135</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>329</h>
+      <object_id>3553418</object_id>
+      <w>483</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>177</h>
+      <object_id>3451898</object_id>
+      <w>157</w>
+      <y>155</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>surface</name>
+      <h>325</h>
+      <object_id>3451903</object_id>
+      <w>490</w>
+      <y>8</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>130</h>
+      <object_id>3451899</object_id>
+      <w>173</w>
+      <y>88</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>164</h>
+      <object_id>3451900</object_id>
+      <w>150</w>
+      <y>2</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>173</h>
+      <object_id>3451902</object_id>
+      <w>137</w>
+      <y>46</y>
+      <x>44</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>6 different color teddy bears in different positions.</caption>
+      <caption>Multi-colored Teddy bears arranged in a circular pattern on a table.</caption>
+      <caption>A group of rainbow colored teddy bears sitting on a table.</caption>
+      <caption>Teddy bears of different colors are on display.</caption>
+      <caption>Mixed group of different colored teddy bears together. </caption>
+    </captions>
+</image>

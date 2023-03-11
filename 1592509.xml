@@ -1,0 +1,62 @@
+<image>
+  <image-id>1592509</image-id>
+  <coco-id>189387</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4084494</relationship_id>
+      <predicate>under</predicate>
+      <subject>1610005</subject>
+      <object>1610006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4084495</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1610007</subject>
+      <object>3710134</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boat</name>
+      <h>62</h>
+      <object_id>1610005</object_id>
+      <w>216</w>
+      <y>514</y>
+      <x>523</x>
+    </object>
+    <object>
+      <name>bridge</name>
+      <h>256</h>
+      <object_id>1610006</object_id>
+      <w>760</w>
+      <y>321</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>posts</name>
+      <h>87</h>
+      <object_id>1610007</object_id>
+      <w>27</w>
+      <y>582</y>
+      <x>867</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>24</h>
+      <object_id>3710134</object_id>
+      <w>1007</w>
+      <y>654</y>
+      <x>14</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very tall clock tower towering over a city.</caption>
+      <caption>a building with a big sign in the front of it</caption>
+      <caption>a house very big showing a city clock</caption>
+      <caption>A bridge with the name Lackawanna stands in front of a tall clock tower.</caption>
+      <caption>A large port building with a clock tower in it.</caption>
+    </captions>
+</image>

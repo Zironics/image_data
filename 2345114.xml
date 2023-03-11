@@ -1,0 +1,222 @@
+<image>
+  <image-id>2345114</image-id>
+  <coco-id>248771</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4431368</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2607443</subject>
+      <object>2607444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4431369</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2683493</subject>
+      <object>3627191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4431370</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>2135976</subject>
+      <object>3627191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4431371</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>2135977</subject>
+      <object>3627191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4431372</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2058735</subject>
+      <object>2058736</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875570</relationship_id>
+      <predicate>a</predicate>
+      <subject>2300535</subject>
+      <object>2300535</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875574</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2135976</subject>
+      <object>3627182</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875575</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2281779</subject>
+      <object>3627183</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4431373</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2281779</subject>
+      <object>3627184</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4431374</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3627185</subject>
+      <object>3627184</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3875582</relationship_id>
+      <predicate>approaches</predicate>
+      <subject>2135977</subject>
+      <object>3627191</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>traffic</attribute>
+        <attribute>one</attribute>
+        <attribute>white</attribute>
+        <attribute>street</attribute>
+      </attributes>
+      <name>traffic sign</name>
+      <h>17</h>
+      <object_id>2607443</object_id>
+      <w>12</w>
+      <y>271</y>
+      <x>432</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>79</h>
+      <object_id>2607444</object_id>
+      <w>426</w>
+      <y>293</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round </attribute>
+        <attribute>large </attribute>
+      </attributes>
+      <name>round tree</name>
+      <h>87</h>
+      <object_id>2683493</object_id>
+      <w>68</w>
+      <y>179</y>
+      <x>2</x>
+    </object>
+    <object>
+      <h>99</h>
+      <object_id>3627191</object_id>
+      <w>500</w>
+      <y>276</y>
+      <x>0</x>
+      <name>intersection</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>car</name>
+      <h>27</h>
+      <object_id>2135976</object_id>
+      <w>36</w>
+      <y>259</y>
+      <x>59</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>car</name>
+      <h>25</h>
+      <object_id>2135977</object_id>
+      <w>35</w>
+      <y>257</y>
+      <x>99</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+      </attributes>
+      <name>grass area</name>
+      <h>21</h>
+      <object_id>2058735</object_id>
+      <w>45</w>
+      <y>292</y>
+      <x>427</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>82</h>
+      <object_id>2058736</object_id>
+      <w>111</w>
+      <y>291</y>
+      <x>388</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>signal</name>
+      <h>61</h>
+      <object_id>2300535</object_id>
+      <w>35</w>
+      <y>128</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>104</h>
+      <object_id>3627182</object_id>
+      <w>498</w>
+      <y>271</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>"do not enter"</attribute>
+      </attributes>
+      <h>36</h>
+      <object_id>2281779</object_id>
+      <w>12</w>
+      <y>249</y>
+      <x>138</x>
+      <name>sign</name>
+    </object>
+    <object>
+      <name>post</name>
+      <h>26</h>
+      <object_id>3627183</object_id>
+      <w>4</w>
+      <y>263</y>
+      <x>140</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>street </attribute>
+        <attribute>sign</attribute>
+      </attributes>
+      <name>post</name>
+      <h>43</h>
+      <object_id>3627184</object_id>
+      <w>9</w>
+      <y>239</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>street sign</name>
+      <h>15</h>
+      <object_id>3627185</object_id>
+      <w>26</w>
+      <y>222</y>
+      <x>68</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an image of a street scene with traffic lights</caption>
+      <caption>The stop light turned red and the cars stopped. </caption>
+      <caption>A large intersection that doesnt have much traffic </caption>
+      <caption>an intersection with traffic lights and many cars</caption>
+      <caption>A traffic light hanging over a city street.</caption>
+    </captions>
+</image>

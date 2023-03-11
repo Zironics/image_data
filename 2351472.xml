@@ -1,0 +1,77 @@
+<image>
+  <image-id>2351472</image-id>
+  <coco-id>26247</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2466112</relationship_id>
+      <predicate>has</predicate>
+      <subject>860619</subject>
+      <object>860620</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2466113</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860620</subject>
+      <object>860619</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2466114</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860620</subject>
+      <object>860619</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2466115</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860620</subject>
+      <object>860619</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2466116</relationship_id>
+      <predicate>with</predicate>
+      <subject>860619</subject>
+      <object>860620</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2466117</relationship_id>
+      <predicate>with</predicate>
+      <subject>860619</subject>
+      <object>860620</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2466118</relationship_id>
+      <predicate>with</predicate>
+      <subject>860619</subject>
+      <object>860620</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>230</h>
+      <object_id>860619</object_id>
+      <w>60</w>
+      <y>98</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>19</h>
+      <object_id>860620</object_id>
+      <w>43</w>
+      <y>171</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bridge crosses a river to a clock tower on the other side.</caption>
+      <caption>A clock tower is past a bridge over a river.</caption>
+      <caption>A walkway and lake next to a tan clock tower.</caption>
+      <caption>A body of water with a bridge running across it running by a clock tower.</caption>
+      <caption>A clock tower sitting in front of a river.</caption>
+    </captions>
+</image>

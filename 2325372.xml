@@ -1,0 +1,94 @@
+<image>
+  <image-id>2325372</image-id>
+  <coco-id>306988</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4484610</relationship_id>
+      <predicate>near</predicate>
+      <subject>986436</subject>
+      <object>3941595</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2947085</relationship_id>
+      <predicate>OF</predicate>
+      <subject>986444</subject>
+      <object>986445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2947086</relationship_id>
+      <predicate>ON</predicate>
+      <subject>986433</subject>
+      <object>986442</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <h>55</h>
+      <object_id>986436</object_id>
+      <w>20</w>
+      <y>186</y>
+      <x>190</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>83</h>
+      <object_id>3941595</object_id>
+      <w>200</w>
+      <y>81</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>47</h>
+      <object_id>986444</object_id>
+      <w>40</w>
+      <y>140</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>building</name>
+      <h>156</h>
+      <object_id>986445</object_id>
+      <w>156</w>
+      <y>63</y>
+      <x>182</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>45</h>
+      <object_id>986433</object_id>
+      <w>33</w>
+      <y>217</y>
+      <x>389</x>
+      <name>bench</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>5</h>
+      <object_id>986442</object_id>
+      <w>22</w>
+      <y>216</y>
+      <x>321</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman with a large, brown purse walks down a path while two people sit on a bench.</caption>
+      <caption>People walking and sitting along a road dividing a green park and a cemetery.</caption>
+      <caption>A group of people walking down a small walkway.</caption>
+      <caption>A girl walking on a path near a person on a bench.</caption>
+      <caption>Young lady walking down a path on the right is a couple setting on a park bench.</caption>
+    </captions>
+</image>

@@ -1,0 +1,173 @@
+<image>
+  <image-id>2410364</image-id>
+  <coco-id>476082</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>219729</relationship_id>
+      <predicate>ON</predicate>
+      <subject>219408</subject>
+      <object>219409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219730</relationship_id>
+      <predicate>by</predicate>
+      <subject>219408</subject>
+      <object>219410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219731</relationship_id>
+      <predicate>ON</predicate>
+      <subject>219410</subject>
+      <object>219409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219732</relationship_id>
+      <predicate>under</predicate>
+      <subject>219410</subject>
+      <object>219408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219733</relationship_id>
+      <predicate>under</predicate>
+      <subject>219409</subject>
+      <object>219408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219734</relationship_id>
+      <predicate>ON</predicate>
+      <subject>219411</subject>
+      <object>219408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219735</relationship_id>
+      <predicate>has</predicate>
+      <subject>219408</subject>
+      <object>219412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219736</relationship_id>
+      <predicate>ON</predicate>
+      <subject>219411</subject>
+      <object>219408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219737</relationship_id>
+      <predicate>has</predicate>
+      <subject>219408</subject>
+      <object>219411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219738</relationship_id>
+      <predicate>under</predicate>
+      <subject>219410</subject>
+      <object>219411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219739</relationship_id>
+      <predicate>ON</predicate>
+      <subject>219411</subject>
+      <object>219408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219741</relationship_id>
+      <predicate>cleans</predicate>
+      <subject>219408</subject>
+      <object>219410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>219742</relationship_id>
+      <predicate>under</predicate>
+      <subject>219410</subject>
+      <object>219408</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>light blue</attribute>
+        <attribute>white</attribute>
+        <attribute>navy</attribute>
+        <attribute>royal blue</attribute>
+        <attribute>cleaning</attribute>
+        <attribute>dark blue</attribute>
+        <attribute>long</attribute>
+        <attribute>pale blue</attribute>
+      </attributes>
+      <name>toothbrush</name>
+      <h>251</h>
+      <object_id>219408</object_id>
+      <w>397</w>
+      <y>99</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+        <attribute>gray</attribute>
+        <attribute>colorful</attribute>
+        <attribute>white</attribute>
+        <attribute>speckled</attribute>
+        <attribute>gravel</attribute>
+        <attribute>wet</attribute>
+        <attribute>multicolored</attribute>
+        <attribute>rough</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>348</h>
+      <object_id>219409</object_id>
+      <w>490</w>
+      <y>5</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>small</attribute>
+        <attribute>chocolate brown</attribute>
+        <attribute>light brown</attribute>
+        <attribute>arrowhead like</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>70</h>
+      <object_id>219410</object_id>
+      <w>100</w>
+      <y>141</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>light blue</attribute>
+        <attribute>blue</attribute>
+        <attribute>dark blue</attribute>
+      </attributes>
+      <name>bristles</name>
+      <h>85</h>
+      <object_id>219411</object_id>
+      <w>135</w>
+      <y>127</y>
+      <x>275</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>2009</attribute>
+      </attributes>
+      <name>wording</name>
+      <h>26</h>
+      <object_id>219412</object_id>
+      <w>47</w>
+      <y>200</y>
+      <x>182</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a toothbrush that is laying on the ground</caption>
+      <caption>a close up of a tooth brush on the round </caption>
+      <caption>Toothbrush scraping the ground of cement to remove a leaf</caption>
+      <caption>a toothbrush that is laying down on the ground</caption>
+      <caption>A tooth brush laying on top of  a street.</caption>
+    </captions>
+</image>

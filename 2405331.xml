@@ -1,0 +1,178 @@
+<image>
+  <image-id>2405331</image-id>
+  <coco-id>112995</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3242409</relationship_id>
+      <predicate>has</predicate>
+      <subject>1108879</subject>
+      <object>1108880</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3242410</relationship_id>
+      <predicate>has</predicate>
+      <subject>1108875</subject>
+      <object>1108883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3242411</relationship_id>
+      <predicate>has</predicate>
+      <subject>1108878</subject>
+      <object>1108888</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3242412</relationship_id>
+      <predicate>with</predicate>
+      <subject>1108876</subject>
+      <object>1108875</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3242413</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1108891</subject>
+      <object>1108889</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3242414</relationship_id>
+      <predicate>by</predicate>
+      <subject>1108892</subject>
+      <object>1108879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3242415</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1108892</subject>
+      <object>1108893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3242416</relationship_id>
+      <predicate>has</predicate>
+      <subject>1108879</subject>
+      <object>1108880</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ocean</name>
+      <h>152</h>
+      <object_id>1108879</object_id>
+      <w>323</w>
+      <y>46</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white color</attribute>
+        <attribute>a wave</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>49</h>
+      <object_id>1108880</object_id>
+      <w>144</w>
+      <y>109</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>yellow color</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>kayak</name>
+      <h>187</h>
+      <object_id>1108875</object_id>
+      <w>244</w>
+      <y>252</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on top of sand</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>shadow</name>
+      <h>161</h>
+      <object_id>1108883</object_id>
+      <w>268</w>
+      <y>306</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue color</attribute>
+        <attribute>on top head</attribute>
+        <attribute>a helmet</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>34</h>
+      <object_id>1108878</object_id>
+      <w>45</w>
+      <y>76</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>holes</name>
+      <h>9</h>
+      <object_id>1108888</object_id>
+      <w>17</w>
+      <y>79</y>
+      <x>253</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>oar</name>
+      <h>34</h>
+      <object_id>1108876</object_id>
+      <w>238</w>
+      <y>303</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>26</h>
+      <object_id>1108891</object_id>
+      <w>36</w>
+      <y>374</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beside boat</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>sand</name>
+      <h>158</h>
+      <object_id>1108889</object_id>
+      <w>330</w>
+      <y>340</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>two people</name>
+      <h>324</h>
+      <object_id>1108892</object_id>
+      <w>329</w>
+      <y>79</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>helmets</name>
+      <h>157</h>
+      <object_id>1108893</object_id>
+      <w>241</w>
+      <y>74</y>
+      <x>48</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a yellow kayak on top of a sandy beach.</caption>
+      <caption>A man in a kayak about to enter the water.</caption>
+      <caption>A kayaker inside of a kayak preparing to enter the ocean.</caption>
+      <caption>Two people preparing to put a kayak in water.</caption>
+      <caption>Two guys prepare to take a canoe out on the ocean. </caption>
+    </captions>
+</image>

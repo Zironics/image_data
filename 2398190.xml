@@ -1,0 +1,82 @@
+<image>
+  <image-id>2398190</image-id>
+  <coco-id>59933</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4690613</relationship_id>
+      <predicate>has</predicate>
+      <subject>4322796</subject>
+      <object>4322794</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690614</relationship_id>
+      <predicate>has</predicate>
+      <subject>4322796</subject>
+      <object>4322797</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690615</relationship_id>
+      <predicate>has</predicate>
+      <subject>4322796</subject>
+      <object>4322798</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4690616</relationship_id>
+      <predicate>has</predicate>
+      <subject>4322796</subject>
+      <object>4322801</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black and brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>296</h>
+      <object_id>4322796</object_id>
+      <w>299</w>
+      <y>42</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>76</h>
+      <object_id>4322794</object_id>
+      <w>92</w>
+      <y>124</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>44</h>
+      <object_id>4322797</object_id>
+      <w>28</w>
+      <y>151</y>
+      <x>334</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>20</h>
+      <object_id>4322798</object_id>
+      <w>10</w>
+      <y>143</y>
+      <x>367</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>110</h>
+      <object_id>4322801</object_id>
+      <w>48</w>
+      <y>41</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and black dog holding onto a couple of crushed water bottles.</caption>
+      <caption>A dog holds two plastic water bottles in its mouth.</caption>
+      <caption>A dog that has two plastic water bottles in its mouth. </caption>
+      <caption>A dog carrying two water bottles in his mouth down a cobblestone street.</caption>
+      <caption>A dog on a cobbled walkway holding two bottles in its mouth.</caption>
+    </captions>
+</image>

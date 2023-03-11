@@ -1,0 +1,62 @@
+<image>
+  <image-id>2381303</image-id>
+  <coco-id>245920</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4590200</relationship_id>
+      <predicate>reflecting</predicate>
+      <subject>4071950</subject>
+      <object>4071951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4590202</relationship_id>
+      <predicate>beside</predicate>
+      <subject>4071955</subject>
+      <object>4141291</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>water</name>
+      <h>323</h>
+      <object_id>4071950</object_id>
+      <w>476</w>
+      <y>3</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>65</h>
+      <object_id>4071951</object_id>
+      <w>41</w>
+      <y>133</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>waves</name>
+      <h>150</h>
+      <object_id>4071955</object_id>
+      <w>360</w>
+      <y>140</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>surfing</attribute>
+      </attributes>
+      <h>75</h>
+      <object_id>4141291</object_id>
+      <w>42</w>
+      <y>133</y>
+      <x>328</x>
+      <name>man</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person is standing on a surfboard on a wave</caption>
+      <caption>There is a surfer riding a medium sized wave.</caption>
+      <caption>A man is surfing a wave in the ocean.</caption>
+      <caption>A surfer is riding the waves in the ocean. </caption>
+      <caption>A surfer riding a wave in the middle of the ocean.</caption>
+    </captions>
+</image>

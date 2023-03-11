@@ -1,0 +1,68 @@
+<image>
+  <image-id>2371018</image-id>
+  <coco-id>140340</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4318054</relationship_id>
+      <predicate>for</predicate>
+      <subject>2235564</subject>
+      <object>3855405</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4318055</relationship_id>
+      <predicate>walk through</predicate>
+      <subject>3855406</subject>
+      <object>1861985</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4318056</relationship_id>
+      <predicate>walk through</predicate>
+      <subject>3855406</subject>
+      <object>1861985</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>39</h>
+      <object_id>2235564</object_id>
+      <w>64</w>
+      <y>295</y>
+      <x>427</x>
+      <name>banner</name>
+    </object>
+    <object>
+      <name>destination</name>
+      <h>59</h>
+      <object_id>3855405</object_id>
+      <w>125</w>
+      <y>286</y>
+      <x>370</x>
+    </object>
+    <object>
+      <name>large</name>
+      <h>78</h>
+      <object_id>3855406</object_id>
+      <w>148</w>
+      <y>297</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>arches</name>
+      <h>160</h>
+      <object_id>1861985</object_id>
+      <w>235</w>
+      <y>213</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The inside of a building with a giant clock.</caption>
+      <caption>Inside a radio station for passengers there is a clock above their heads.</caption>
+      <caption>A clock gives the time in a large central station.</caption>
+      <caption>A clock announces time as people walk about.</caption>
+      <caption>The large pavilion has a round ornate clock.</caption>
+    </captions>
+</image>

@@ -1,0 +1,115 @@
+<image>
+  <image-id>2384900</image-id>
+  <coco-id>368684</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4684224</relationship_id>
+      <predicate>tall white</predicate>
+      <subject>4307126</subject>
+      <object>4307126</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684225</relationship_id>
+      <predicate>large gray cable</predicate>
+      <subject>4307127</subject>
+      <object>4307128</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684226</relationship_id>
+      <predicate>black tv</predicate>
+      <subject>4307129</subject>
+      <object>4307129</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684228</relationship_id>
+      <predicate>of hardwood</predicate>
+      <subject>4307133</subject>
+      <object>4307134</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4684231</relationship_id>
+      <predicate>of a white</predicate>
+      <subject>4307137</subject>
+      <object>4307138</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>a</name>
+      <h>33</h>
+      <object_id>4307126</object_id>
+      <w>17</w>
+      <y>200</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>a</name>
+      <h>23</h>
+      <object_id>4307127</object_id>
+      <w>20</w>
+      <y>225</y>
+      <x>393</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large and gray </attribute>
+      </attributes>
+      <name>box</name>
+      <h>8</h>
+      <object_id>4307128</object_id>
+      <w>90</w>
+      <y>204</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>a</name>
+      <h>167</h>
+      <object_id>4307129</object_id>
+      <w>189</w>
+      <y>142</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>53</h>
+      <object_id>4307133</object_id>
+      <w>122</w>
+      <y>217</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>17</h>
+      <object_id>4307134</object_id>
+      <w>56</w>
+      <y>304</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>52</h>
+      <object_id>4307137</object_id>
+      <w>26</w>
+      <y>52</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>26</h>
+      <object_id>4307138</object_id>
+      <w>36</w>
+      <y>103</y>
+      <x>108</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A room with a tv in the background and a laptop screen in the foreground </caption>
+      <caption>A persons view of watching a tv and working on a laptop. </caption>
+      <caption>A laptop on a couch across from a television.</caption>
+      <caption>A large flat screen TV sitting in a living room surrounded by furniture.</caption>
+      <caption>A laptop sitting in a room with a big TV.</caption>
+    </captions>
+</image>

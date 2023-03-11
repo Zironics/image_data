@@ -1,0 +1,80 @@
+<image>
+  <image-id>2319444</image-id>
+  <coco-id>391142</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2990529</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1001888</subject>
+      <object>1001887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2990530</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1001888</subject>
+      <object>1001887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2990531</relationship_id>
+      <predicate>held in</predicate>
+      <subject>1001888</subject>
+      <object>1001887</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2990540</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1001893</subject>
+      <object>1001895</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>253</h>
+      <object_id>1001888</object_id>
+      <w>281</w>
+      <y>122</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>185</h>
+      <object_id>1001887</object_id>
+      <w>165</w>
+      <y>93</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>160</h>
+      <object_id>1001893</object_id>
+      <w>123</w>
+      <y>215</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>table</name>
+      <h>373</h>
+      <object_id>1001895</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two pink flowers in a yellow colored vase. </caption>
+      <caption>Red flowers sitting inside a yellow vase together. </caption>
+      <caption>An over head view of a set of tulips in a vase.</caption>
+      <caption>The large pink flowers have a yellow vase</caption>
+      <caption>A yellow vase with two pink, purple and white flowers in it.</caption>
+    </captions>
+</image>

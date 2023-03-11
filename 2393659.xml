@@ -1,0 +1,86 @@
+<image>
+  <image-id>2393659</image-id>
+  <coco-id>398435</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4615818</relationship_id>
+      <predicate>with</predicate>
+      <subject>4134404</subject>
+      <object>4134405</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553163</relationship_id>
+      <predicate>has</predicate>
+      <subject>3983513</subject>
+      <object>3983510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553164</relationship_id>
+      <predicate>has</predicate>
+      <subject>3983513</subject>
+      <object>3983514</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>jet</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>63</h>
+      <object_id>4134404</object_id>
+      <w>84</w>
+      <y>129</y>
+      <x>368</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>i</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>19</h>
+      <object_id>4134405</object_id>
+      <w>6</w>
+      <y>155</y>
+      <x>386</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>120</h>
+      <object_id>3983513</object_id>
+      <w>399</w>
+      <y>129</y>
+      <x>98</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>body</name>
+      <h>31</h>
+      <object_id>3983510</object_id>
+      <w>271</w>
+      <y>182</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>engine</name>
+      <h>31</h>
+      <object_id>3983514</object_id>
+      <w>39</w>
+      <y>216</y>
+      <x>357</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane stands docked outside an airport terminal</caption>
+      <caption>Scene of airplane through window at airport on overcast day.</caption>
+      <caption>An airplane seen through the window of an airport.</caption>
+      <caption>The view from inside a terminal at an airport.</caption>
+      <caption>At the airport waiting to board my plane.</caption>
+    </captions>
+</image>

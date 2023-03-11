@@ -1,0 +1,96 @@
+<image>
+  <image-id>1159689</image-id>
+  <coco-id>117046</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4629429</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4168485</subject>
+      <object>4168486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4629433</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4168569</subject>
+      <object>4096813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4629465</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4168565</subject>
+      <object>4096813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4629466</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4168567</subject>
+      <object>4096813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4629467</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4168569</subject>
+      <object>4096813</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>65</h>
+      <object_id>4168485</object_id>
+      <w>45</w>
+      <y>459</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>848</h>
+      <object_id>4168486</object_id>
+      <w>207</w>
+      <y>129</y>
+      <x>126</x>
+    </object>
+    <object>
+      <h>102</h>
+      <object_id>4168569</object_id>
+      <w>32</w>
+      <y>874</y>
+      <x>452</x>
+      <name>window</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>building</name>
+      <h>854</h>
+      <object_id>4096813</object_id>
+      <w>516</w>
+      <y>131</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>85</h>
+      <object_id>4168565</object_id>
+      <w>33</w>
+      <y>896</y>
+      <x>644</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>111</h>
+      <object_id>4168567</object_id>
+      <w>38</w>
+      <y>881</y>
+      <x>584</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The two large buildings each have domed roofs on them. </caption>
+      <caption>An old building with a red roof and two towers with green domes on top of it.</caption>
+      <caption>A big building with a clock on the front and side of it</caption>
+      <caption>A building sits with two domes on top of the roof.</caption>
+      <caption>The tower of the building has a clock displayed on the front of it.</caption>
+    </captions>
+</image>

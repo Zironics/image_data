@@ -1,0 +1,152 @@
+<image>
+  <image-id>498388</image-id>
+  <coco-id>389021</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4612142</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>4124795</subject>
+      <object>4124797</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4612143</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>4124795</subject>
+      <object>4124797</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4612150</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4039142</subject>
+      <object>4124822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4612156</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4039143</subject>
+      <object>4124822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4675570</relationship_id>
+      <predicate>wall on side of a</predicate>
+      <subject>4284269</subject>
+      <object>4284270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576349</relationship_id>
+      <predicate>walking down</predicate>
+      <subject>4124795</subject>
+      <object>4039114</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576355</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4039139</subject>
+      <object>4039139</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576356</relationship_id>
+      <predicate>wearing an</predicate>
+      <subject>4039139</subject>
+      <object>4039141</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>109</h>
+      <object_id>4124795</object_id>
+      <w>40</w>
+      <y>599</y>
+      <x>102</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>94</h>
+      <object_id>4124797</object_id>
+      <w>1016</w>
+      <y>670</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>red</attribute>
+        <attribute>4 door</attribute>
+      </attributes>
+      <h>120</h>
+      <object_id>4039142</object_id>
+      <w>300</w>
+      <y>625</y>
+      <x>137</x>
+      <name>car</name>
+    </object>
+    <object>
+      <name>road</name>
+      <h>93</h>
+      <object_id>4124822</object_id>
+      <w>1012</w>
+      <y>670</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>81</h>
+      <object_id>4039143</object_id>
+      <w>36</w>
+      <y>667</y>
+      <x>672</x>
+      <name>caution pylon</name>
+    </object>
+    <object>
+      <name>a</name>
+      <h>574</h>
+      <object_id>4284269</object_id>
+      <w>402</w>
+      <y>194</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>373</h>
+      <object_id>4284270</object_id>
+      <w>251</w>
+      <y>395</y>
+      <x>562</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>78</h>
+      <object_id>4039114</object_id>
+      <w>195</w>
+      <y>664</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>silhouette</name>
+      <h>288</h>
+      <object_id>4039139</object_id>
+      <w>394</w>
+      <y>107</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>ipod</name>
+      <h>245</h>
+      <object_id>4039141</object_id>
+      <w>195</w>
+      <y>161</y>
+      <x>478</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large billboard with a picture of a man wearing headphones.</caption>
+      <caption>A red car in front of a large advertisement on a building. </caption>
+      <caption>A large blue iPod advertisement on the side of a building.</caption>
+      <caption>A large Apple iPod billboard fronts a building under renovation in a city</caption>
+      <caption>a blue billboard sign in  a busy city</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2343719</image-id>
+  <coco-id>469687</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4772896</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4529139</subject>
+      <object>4529138</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>spot</name>
+      <h>38</h>
+      <object_id>4529139</object_id>
+      <w>50</w>
+      <y>226</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>avian</attribute>
+      </attributes>
+      <name>neck</name>
+      <h>43</h>
+      <object_id>4529138</object_id>
+      <w>111</w>
+      <y>223</y>
+      <x>224</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird flying through the air while flapping it's wings.</caption>
+      <caption>a humming bird that is in mid flight.</caption>
+      <caption>The tiny bird hovers in the air with its wings.</caption>
+      <caption>A bird in the air flapping his wings during the day.</caption>
+      <caption>a bird that is flying in the air.</caption>
+    </captions>
+</image>

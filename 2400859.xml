@@ -1,0 +1,83 @@
+<image>
+  <image-id>2400859</image-id>
+  <coco-id>477451</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3301432</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1154285</subject>
+      <object>1154286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301440</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1154285</subject>
+      <object>1154286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301452</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1154285</subject>
+      <object>1154286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301456</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1154285</subject>
+      <object>1154286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301466</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1154285</subject>
+      <object>1154286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3301467</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1154287</subject>
+      <object>1154288</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>62</h>
+      <object_id>1154285</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>62</h>
+      <object_id>1154286</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>cute kitten</name>
+      <h>62</h>
+      <object_id>1154287</object_id>
+      <w>66</w>
+      <y>13</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>string</name>
+      <h>62</h>
+      <object_id>1154288</object_id>
+      <w>66</w>
+      <y>20</y>
+      <x>234</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young baseball has caught the baseball with the glove</caption>
+      <caption>A young baseball player wearing glasses with a ball in his glove.</caption>
+      <caption>A person that is playing in a baseball game.</caption>
+      <caption>A young boy catching a ground ball in a ball park.</caption>
+      <caption>A young boy playing baseball catching a ball in the outfield.</caption>
+    </captions>
+</image>

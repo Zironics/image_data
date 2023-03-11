@@ -1,0 +1,117 @@
+<image>
+  <image-id>2341148</image-id>
+  <coco-id>274386</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4624643</relationship_id>
+      <predicate>growing on</predicate>
+      <subject>4156493</subject>
+      <object>4156492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4624676</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4156474</subject>
+      <object>4238784</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4700390</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4345862</subject>
+      <object>4345864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4700391</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4345862</subject>
+      <object>4345864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4700392</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4345862</subject>
+      <object>4345864</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4700393</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4345862</subject>
+      <object>4345864</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>33</h>
+      <object_id>4156493</object_id>
+      <w>38</w>
+      <y>43</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>head</name>
+      <h>52</h>
+      <object_id>4156492</object_id>
+      <w>40</w>
+      <y>44</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>57</h>
+      <object_id>4156474</object_id>
+      <w>48</w>
+      <y>220</y>
+      <x>190</x>
+      <name>cord</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flat</attribute>
+      </attributes>
+      <h>44</h>
+      <object_id>4238784</object_id>
+      <w>300</w>
+      <y>239</y>
+      <x>191</x>
+      <name>board</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>14</h>
+      <object_id>4345862</object_id>
+      <w>189</w>
+      <y>53</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>81</h>
+      <object_id>4345864</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+      <name>sky</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man walking along a beach holding a surfboard.</caption>
+      <caption>A man walking in the shallow part of the water.</caption>
+      <caption>A man standing in the water holding onto a surfboard.</caption>
+      <caption>This is a picture of man pulling his surf board out of the water.</caption>
+      <caption>A man in shorts is in the ocean water.</caption>
+    </captions>
+</image>

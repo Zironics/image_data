@@ -1,0 +1,132 @@
+<image>
+  <image-id>2346073</image-id>
+  <coco-id>176918</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4427925</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2494327</subject>
+      <object>2494328</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4427926</relationship_id>
+      <predicate>beside</predicate>
+      <subject>2212571</subject>
+      <object>3910974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4427927</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3910975</subject>
+      <object>3910974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857463</relationship_id>
+      <predicate>shining on</predicate>
+      <subject>3619767</subject>
+      <object>3910974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857464</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3910974</subject>
+      <object>2212571</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857465</relationship_id>
+      <predicate>has hit</predicate>
+      <subject>3910974</subject>
+      <object>2029855</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857466</relationship_id>
+      <predicate>spilling</predicate>
+      <subject>3910975</subject>
+      <object>2356966</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>police letters</name>
+      <h>37</h>
+      <object_id>2494327</object_id>
+      <w>62</w>
+      <y>166</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>111</h>
+      <object_id>2494328</object_id>
+      <w>80</w>
+      <y>112</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>372</h>
+      <object_id>2212571</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>police</attribute>
+        <attribute>old</attribute>
+      </attributes>
+      <name>car</name>
+      <h>185</h>
+      <object_id>3910974</object_id>
+      <w>409</w>
+      <y>78</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>hydrant</name>
+      <h>96</h>
+      <object_id>3910975</object_id>
+      <w>58</w>
+      <y>145</y>
+      <x>404</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>234</h>
+      <object_id>3619767</object_id>
+      <w>318</w>
+      <y>80</y>
+      <x>180</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fire</attribute>
+      </attributes>
+      <name>hydrant</name>
+      <h>110</h>
+      <object_id>2029855</object_id>
+      <w>100</w>
+      <y>149</y>
+      <x>371</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>35</h>
+      <object_id>2356966</object_id>
+      <w>24</w>
+      <y>197</y>
+      <x>401</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old police car is parked behind a fence.</caption>
+      <caption>A  cop car parked in an alley next to a red fire hydrant.</caption>
+      <caption>An old, decrepit police car is depicted crashed into a red fire hydrant behind a black chain-link fence. </caption>
+      <caption>The cop car has gotten into a accident and hit the fire hydrant. </caption>
+      <caption>An old police car has tipped over a fire hydrant.</caption>
+    </captions>
+</image>

@@ -1,0 +1,73 @@
+<image>
+  <image-id>2332821</image-id>
+  <coco-id>73045</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3716221</relationship_id>
+      <predicate>has</predicate>
+      <subject>3500292</subject>
+      <object>3558828</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462699</relationship_id>
+      <predicate>has</predicate>
+      <subject>3500292</subject>
+      <object>3931821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462700</relationship_id>
+      <predicate>has</predicate>
+      <subject>3154728</subject>
+      <object>3931822</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>doughnut</name>
+      <h>105</h>
+      <object_id>3500292</object_id>
+      <w>97</w>
+      <y>51</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>sprinkles</name>
+      <h>85</h>
+      <object_id>3558828</object_id>
+      <w>77</w>
+      <y>48</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>sprinkles</name>
+      <h>82</h>
+      <object_id>3931821</object_id>
+      <w>66</w>
+      <y>58</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>97</h>
+      <object_id>3154728</object_id>
+      <w>100</w>
+      <y>58</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>sprinkles</name>
+      <h>72</h>
+      <object_id>3931822</object_id>
+      <w>66</w>
+      <y>70</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pile of assorted donuts and pastries for sale</caption>
+      <caption>An assortment of pastries with identifying cards and prices.</caption>
+      <caption>A pile of doughnuts with signs stating the prices.</caption>
+      <caption>a table covered wtih assorted fancy donuts and signs</caption>
+      <caption>A large number of donuts of different varieties with labels</caption>
+    </captions>
+</image>

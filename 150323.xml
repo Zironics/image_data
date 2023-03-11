@@ -1,0 +1,65 @@
+<image>
+  <image-id>150323</image-id>
+  <coco-id>42276</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4719981</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4392077</subject>
+      <object>4392078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4719982</relationship_id>
+      <predicate>with</predicate>
+      <subject>4392082</subject>
+      <object>4392081</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>potted plant</name>
+      <h>137</h>
+      <object_id>4392077</object_id>
+      <w>163</w>
+      <y>26</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>250</h>
+      <object_id>4392078</object_id>
+      <w>122</w>
+      <y>92</y>
+      <x>258</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray and black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>127</h>
+      <object_id>4392082</object_id>
+      <w>130</w>
+      <y>461</y>
+      <x>417</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>8r</name>
+      <h>25</h>
+      <object_id>4392081</object_id>
+      <w>39</w>
+      <y>512</y>
+      <x>440</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A toilet sitting in a room surrounded by personal items.</caption>
+      <caption>A bathroom with ski equipment laid out on the floor.</caption>
+      <caption>A bathroom with a toilet, a plant, a stand and several footwear on the floor. </caption>
+      <caption>The bathroom is a mess with sports gear. </caption>
+      <caption>a bathroom with a toilet and a lot of ski boots</caption>
+    </captions>
+</image>

@@ -1,0 +1,60 @@
+<image>
+  <image-id>2358853</image-id>
+  <coco-id>20692</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2235349</relationship_id>
+      <predicate>ON</predicate>
+      <subject>798577</subject>
+      <object>798578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2235350</relationship_id>
+      <predicate>ON</predicate>
+      <subject>798577</subject>
+      <object>798578</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>chocolate</attribute>
+        <attribute>hole</attribute>
+        <attribute>bundt</attribute>
+        <attribute>glaze</attribute>
+        <attribute>elevated</attribute>
+        <attribute>middle</attribute>
+        <attribute>homemade</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>328</h>
+      <object_id>798577</object_id>
+      <w>395</w>
+      <y>50</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>edge</attribute>
+        <attribute>on</attribute>
+        <attribute>blue</attribute>
+        <attribute>green</attribute>
+        <attribute>green trim</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>76</h>
+      <object_id>798578</object_id>
+      <w>114</w>
+      <y>413</y>
+      <x>373</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cake covered in chocolate icing on a plate.</caption>
+      <caption>A bundt chocolate cake on top of a plate.</caption>
+      <caption>A cake on a plate on a table </caption>
+      <caption>A bunt cake has some glazed icing on it.</caption>
+      <caption>a chocolate bundt cake with a chocolate ganache sauce on the top</caption>
+    </captions>
+</image>

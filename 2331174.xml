@@ -1,0 +1,88 @@
+<image>
+  <image-id>2331174</image-id>
+  <coco-id>255974</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4824860</relationship_id>
+      <predicate>beside</predicate>
+      <subject>4658932</subject>
+      <object>4658933</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4824862</relationship_id>
+      <predicate>on</predicate>
+      <subject>4658936</subject>
+      <object>4658932</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4791833</relationship_id>
+      <predicate>of</predicate>
+      <subject>4578195</subject>
+      <object>4658932</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4765477</relationship_id>
+      <predicate>has</predicate>
+      <subject>4658932</subject>
+      <object>4507625</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hummingbird</name>
+      <h>184</h>
+      <object_id>4658932</object_id>
+      <w>398</w>
+      <y>158</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>feeder</name>
+      <h>73</h>
+      <object_id>4658933</object_id>
+      <w>134</w>
+      <y>200</y>
+      <x>364</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>spots</name>
+      <h>35</h>
+      <object_id>4658936</object_id>
+      <w>77</w>
+      <y>206</y>
+      <x>173</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tail feathers</name>
+      <h>51</h>
+      <object_id>4578195</object_id>
+      <w>108</w>
+      <y>226</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>beak</name>
+      <h>30</h>
+      <object_id>4507625</object_id>
+      <w>34</w>
+      <y>186</y>
+      <x>268</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A humming bird flying next to a red bird feeder.</caption>
+      <caption>A small hummingbird drinks from a bird feeder.</caption>
+      <caption>Hummingbird in flight looking at feeder in daylight.</caption>
+      <caption>a hummingbird looking at a little bird feeder</caption>
+      <caption>A humming bird flying toward a water container.</caption>
+    </captions>
+</image>

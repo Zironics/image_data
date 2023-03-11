@@ -1,0 +1,83 @@
+<image>
+  <image-id>2408184</image-id>
+  <coco-id>47819</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3223534</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1094385</subject>
+      <object>1094386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223535</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1094385</subject>
+      <object>1094386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223536</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1094385</subject>
+      <object>1094386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223540</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1094385</subject>
+      <object>1094386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>671516</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>365581</subject>
+      <object>365582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3223577</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1094385</subject>
+      <object>1094386</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>46</h>
+      <object_id>1094385</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>46</h>
+      <object_id>1094386</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>238</h>
+      <object_id>365581</object_id>
+      <w>348</w>
+      <y>93</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>luggage</name>
+      <h>147</h>
+      <object_id>365582</object_id>
+      <w>106</w>
+      <y>62</y>
+      <x>209</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man standing behind a brown horse carrying lots of luggage.</caption>
+      <caption>A trail guide stands next to the loaded pack horse.</caption>
+      <caption>A man standing next to a donkey loaded with luggage </caption>
+      <caption>a man standing next to a horse in the woods</caption>
+      <caption>A man standing next to a donkey with a lot of baggage on it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,65 @@
+<image>
+  <image-id>2390461</image-id>
+  <coco-id>1268</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4291892</relationship_id>
+      <predicate>running alongside</predicate>
+      <subject>497252</subject>
+      <object>3827966</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4291893</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3827967</subject>
+      <object>3827968</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>brick sidewalk</name>
+      <h>92</h>
+      <object_id>497252</object_id>
+      <w>436</w>
+      <y>237</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>river bank</name>
+      <h>103</h>
+      <object_id>3827966</object_id>
+      <w>484</w>
+      <y>183</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>74</h>
+      <object_id>3827967</object_id>
+      <w>57</w>
+      <y>156</y>
+      <x>311</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>49</h>
+      <object_id>3827968</object_id>
+      <w>49</w>
+      <y>170</y>
+      <x>310</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A beautiful woman taking a picture with her smart phone.</caption>
+      <caption>People underneath an arched bridge near the water.</caption>
+      <caption>A girl is taking a picture of people fishing.</caption>
+      <caption>The woman is taking a photo of the white goose next to the river.</caption>
+      <caption>A waterway under a bridge with people sitting down and a woman taking a photo.</caption>
+    </captions>
+</image>

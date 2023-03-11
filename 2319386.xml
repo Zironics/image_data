@@ -1,0 +1,60 @@
+<image>
+  <image-id>2319386</image-id>
+  <coco-id>467564</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3838397</relationship_id>
+      <predicate>parked onto</predicate>
+      <subject>2880322</subject>
+      <object>3395006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252141</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2880321</subject>
+      <object>2880322</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>117</h>
+      <object_id>2880322</object_id>
+      <w>181</w>
+      <y>170</y>
+      <x>35</x>
+      <name>car</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>busy</attribute>
+        <attribute>packed</attribute>
+        <attribute>occupied</attribute>
+        <attribute>crowded</attribute>
+      </attributes>
+      <name>street</name>
+      <h>264</h>
+      <object_id>3395006</object_id>
+      <w>437</w>
+      <y>108</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>back</attribute>
+      </attributes>
+      <name>tire</name>
+      <h>23</h>
+      <object_id>2880321</object_id>
+      <w>17</w>
+      <y>224</y>
+      <x>185</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Many people and cars move along the busy street.</caption>
+      <caption>A busy street crowded with people and vehicles.</caption>
+      <caption>A busy city street with cars and bikes</caption>
+      <caption>main street of a slum with cars and people</caption>
+      <caption>A red truck traveling through a crowded street in the middle of tall buldings.</caption>
+    </captions>
+</image>

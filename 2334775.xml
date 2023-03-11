@@ -1,0 +1,131 @@
+<image>
+  <image-id>2334775</image-id>
+  <coco-id>581655</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3994912</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3247136</subject>
+      <object>3009888</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3994913</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2503892</subject>
+      <object>3674597</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3994914</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2503892</subject>
+      <object>3674598</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4452695</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2806711</subject>
+      <object>3357928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3994916</relationship_id>
+      <predicate>in center of</predicate>
+      <subject>2806710</subject>
+      <object>2806711</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3994917</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3674601</subject>
+      <object>2806711</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crimped edges</name>
+      <h>320</h>
+      <object_id>3247136</object_id>
+      <w>62</w>
+      <y>42</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>uncooked</attribute>
+      </attributes>
+      <name>crust</name>
+      <h>358</h>
+      <object_id>3009888</object_id>
+      <w>407</w>
+      <y>24</y>
+      <x>34</x>
+    </object>
+    <object>
+      <name>flour</name>
+      <h>112</h>
+      <object_id>2503892</object_id>
+      <w>30</w>
+      <y>84</y>
+      <x>470</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>379</h>
+      <object_id>3674597</object_id>
+      <w>496</w>
+      <y>6</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>crust</name>
+      <h>340</h>
+      <object_id>3674598</object_id>
+      <w>129</w>
+      <y>42</y>
+      <x>301</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shaped round</attribute>
+        <attribute>some</attribute>
+        <attribute>pizza</attribute>
+      </attributes>
+      <name>dough</name>
+      <h>370</h>
+      <object_id>2806711</object_id>
+      <w>410</w>
+      <y>16</y>
+      <x>33</x>
+    </object>
+    <object>
+      <h>260</h>
+      <object_id>3357928</object_id>
+      <w>483</w>
+      <y>0</y>
+      <x>16</x>
+      <name>cutting board</name>
+    </object>
+    <object>
+      <name>specs</name>
+      <h>45</h>
+      <object_id>2806710</object_id>
+      <w>85</w>
+      <y>77</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>54</h>
+      <object_id>3674601</object_id>
+      <w>73</w>
+      <y>291</y>
+      <x>158</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crimped pie crust is on waxed paper.</caption>
+      <caption>pizza dough prepped and laid out on a table top </caption>
+      <caption>The dough is shaped in a circle on the cloth.</caption>
+      <caption>a pizza shaped circle of round dough on a white surface</caption>
+      <caption>A pile of dough shaped into a pizza crust with twirls in it.</caption>
+    </captions>
+</image>

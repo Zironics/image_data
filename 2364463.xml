@@ -1,0 +1,82 @@
+<image>
+  <image-id>2364463</image-id>
+  <coco-id>55241</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4392988</relationship_id>
+      <predicate>are near</predicate>
+      <subject>3738634</subject>
+      <object>2683378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4160936</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>3738634</subject>
+      <object>2683378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4160937</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1853653</subject>
+      <object>3738634</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4160938</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2107141</subject>
+      <object>2107142</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>252</h>
+      <object_id>3738634</object_id>
+      <w>262</w>
+      <y>158</y>
+      <x>47</x>
+      <name>cow</name>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>156</h>
+      <object_id>2683378</object_id>
+      <w>301</w>
+      <y>341</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>38</h>
+      <object_id>1853653</object_id>
+      <w>48</w>
+      <y>167</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>48</h>
+      <object_id>2107141</object_id>
+      <w>78</w>
+      <y>163</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>93</h>
+      <object_id>2107142</object_id>
+      <w>244</w>
+      <y>155</y>
+      <x>48</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The cows are standing on the hay in a meadow. </caption>
+      <caption>a brown cow standing next some other cows </caption>
+      <caption>There are a few cows standing in a field.</caption>
+      <caption>A cow that is close by is looking at the camera man. </caption>
+      <caption>A couple of  reddish brownish cows on a grassy pasture.</caption>
+    </captions>
+</image>

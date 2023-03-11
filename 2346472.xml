@@ -1,0 +1,77 @@
+<image>
+  <image-id>2346472</image-id>
+  <coco-id>2894</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3851555</relationship_id>
+      <predicate>leading up to</predicate>
+      <subject>1695151</subject>
+      <object>2117733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4426632</relationship_id>
+      <predicate>on track</predicate>
+      <subject>2552640</subject>
+      <object>1839245</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4426633</relationship_id>
+      <predicate>on track</predicate>
+      <subject>2552640</subject>
+      <object>1669762</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>94</h>
+      <object_id>1695151</object_id>
+      <w>60</w>
+      <y>287</y>
+      <x>272</x>
+      <name>ladders</name>
+    </object>
+    <object>
+      <name>platform</name>
+      <h>55</h>
+      <object_id>2117733</object_id>
+      <w>122</w>
+      <y>232</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>train</name>
+      <h>86</h>
+      <object_id>2552640</object_id>
+      <w>68</w>
+      <y>175</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>242</h>
+      <object_id>1839245</object_id>
+      <w>179</w>
+      <y>257</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>237</h>
+      <object_id>1669762</object_id>
+      <w>205</w>
+      <y>260</y>
+      <x>120</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train traveling down train tracks next to trees.</caption>
+      <caption>A train traveling down train tracks during the day.</caption>
+      <caption>A train on the tracks at a train station </caption>
+      <caption>Two trains on tracks very close to each other.</caption>
+      <caption>the back of a train going down the tracks.</caption>
+    </captions>
+</image>

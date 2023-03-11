@@ -1,0 +1,92 @@
+<image>
+  <image-id>2334390</image-id>
+  <coco-id>73707</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4002819</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2992899</subject>
+      <object>3502047</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4002820</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2992899</subject>
+      <object>3054811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805401</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2992899</subject>
+      <object>3596331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805402</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2992899</subject>
+      <object>3596331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805403</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2992899</subject>
+      <object>3596332</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>66</h>
+      <object_id>2992899</object_id>
+      <w>45</w>
+      <y>114</y>
+      <x>239</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black shirt</name>
+      <h>32</h>
+      <object_id>3502047</object_id>
+      <w>22</w>
+      <y>120</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>32</h>
+      <object_id>3054811</object_id>
+      <w>28</w>
+      <y>151</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>206</h>
+      <object_id>3596331</object_id>
+      <w>155</w>
+      <y>79</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>198</h>
+      <object_id>3596332</object_id>
+      <w>362</w>
+      <y>84</y>
+      <x>59</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a surfboard in a body of water.</caption>
+      <caption>a man surfing on very strong waves in an ocean</caption>
+      <caption>a guy that is on top of a surf board in some waves</caption>
+      <caption>A guy on a surf board riding a wave.
+</caption>
+      <caption>A man riding a surfboard on top of a wave.</caption>
+    </captions>
+</image>

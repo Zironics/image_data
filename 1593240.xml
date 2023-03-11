@@ -1,0 +1,37 @@
+<image>
+  <image-id>1593240</image-id>
+  <coco-id>453195</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4091811</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1616763</subject>
+      <object>1616764</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>laptop</name>
+      <h>114</h>
+      <object_id>1616763</object_id>
+      <w>171</w>
+      <y>413</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>83</h>
+      <object_id>1616764</object_id>
+      <w>273</w>
+      <y>466</y>
+      <x>115</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and a woman working on computers.</caption>
+      <caption>A person that is working on a computer.</caption>
+      <caption>A man and woman work on their computers.</caption>
+      <caption>Two employees performing computer work in an office.</caption>
+      <caption>A young man on a computer in an office.</caption>
+    </captions>
+</image>

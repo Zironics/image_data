@@ -1,0 +1,104 @@
+<image>
+  <image-id>498155</image-id>
+  <coco-id>148373</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4732012</relationship_id>
+      <predicate>with</predicate>
+      <subject>4421186</subject>
+      <object>4421187</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4732013</relationship_id>
+      <predicate>with</predicate>
+      <subject>4421189</subject>
+      <object>4421190</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4732014</relationship_id>
+      <predicate>with</predicate>
+      <subject>4421191</subject>
+      <object>4421192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4732015</relationship_id>
+      <predicate>with</predicate>
+      <subject>4421191</subject>
+      <object>4421193</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>491</h>
+      <object_id>4421186</object_id>
+      <w>260</w>
+      <y>195</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>145</h>
+      <object_id>4421187</object_id>
+      <w>223</w>
+      <y>510</y>
+      <x>541</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown haired</attribute>
+      </attributes>
+      <name>man</name>
+      <h>346</h>
+      <object_id>4421189</object_id>
+      <w>245</w>
+      <y>195</y>
+      <x>649</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>195</h>
+      <object_id>4421190</object_id>
+      <w>217</w>
+      <y>318</y>
+      <x>619</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>430</h>
+      <object_id>4421191</object_id>
+      <w>305</w>
+      <y>214</y>
+      <x>498</x>
+    </object>
+    <object>
+      <name>ring</name>
+      <h>67</h>
+      <object_id>4421192</object_id>
+      <w>76</w>
+      <y>508</y>
+      <x>454</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>219</h>
+      <object_id>4421193</object_id>
+      <w>294</w>
+      <y>357</y>
+      <x>459</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some smiling people sitting at a long table.</caption>
+      <caption>a group of people having a meal at a restaurant</caption>
+      <caption>Young people are eating a meal at a Deli.</caption>
+      <caption>A row of people sitting at a lunch counter</caption>
+      <caption>People eating a meal together at a deli</caption>
+    </captions>
+</image>

@@ -1,0 +1,162 @@
+<image>
+  <image-id>2391337</image-id>
+  <coco-id>492198</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1131494</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>489810</subject>
+      <object>489816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1131495</relationship_id>
+      <predicate>connected to</predicate>
+      <subject>489815</subject>
+      <object>489821</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1131496</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>489810</subject>
+      <object>489811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1131497</relationship_id>
+      <predicate>has a</predicate>
+      <subject>489810</subject>
+      <object>489822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1131498</relationship_id>
+      <predicate>has an</predicate>
+      <subject>489810</subject>
+      <object>489823</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1131499</relationship_id>
+      <predicate>has a</predicate>
+      <subject>489810</subject>
+      <object>489824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1131500</relationship_id>
+      <predicate>has a</predicate>
+      <subject>489810</subject>
+      <object>489824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1131501</relationship_id>
+      <predicate>has</predicate>
+      <subject>489811</subject>
+      <object>489825</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>surfsailing</attribute>
+        <attribute>standing on somethin</attribute>
+        <attribute>standing</attribute>
+        <attribute>a person</attribute>
+        <attribute>a man</attribute>
+        <attribute>sea surfing</attribute>
+        <attribute>in motion</attribute>
+      </attributes>
+      <name>person</name>
+      <h>30</h>
+      <object_id>489810</object_id>
+      <w>21</w>
+      <y>256</y>
+      <x>403</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>21</h>
+      <object_id>489816</object_id>
+      <w>21</w>
+      <y>262</y>
+      <x>402</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sail</name>
+      <h>80</h>
+      <object_id>489815</object_id>
+      <w>44</w>
+      <y>198</y>
+      <x>348</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>11</h>
+      <object_id>489821</object_id>
+      <w>41</w>
+      <y>269</y>
+      <x>354</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>dark blue</attribute>
+        <attribute>grey</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>209</h>
+      <object_id>489811</object_id>
+      <w>498</w>
+      <y>123</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>11</h>
+      <object_id>489822</object_id>
+      <w>6</w>
+      <y>255</y>
+      <x>409</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>15</h>
+      <object_id>489823</object_id>
+      <w>11</w>
+      <y>262</y>
+      <x>415</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>15</h>
+      <object_id>489824</object_id>
+      <w>9</w>
+      <y>269</y>
+      <x>403</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>some ripples</name>
+      <h>210</h>
+      <object_id>489825</object_id>
+      <w>496</w>
+      <y>123</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a wind sail next to a kiteboarder.</caption>
+      <caption>Two people on the ocean wind sailing and parasailing. </caption>
+      <caption>A person is para sailing on the ocean with another person.</caption>
+      <caption>One person windsurfing while the other is kite-surfing in the ocean</caption>
+      <caption>A kite surfer and a parasailer ride next to each other in the water.</caption>
+    </captions>
+</image>

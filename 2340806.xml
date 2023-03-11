@@ -1,0 +1,84 @@
+<image>
+  <image-id>2340806</image-id>
+  <coco-id>400922</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4670352</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4270751</subject>
+      <object>4270752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4647283</relationship_id>
+      <predicate>of</predicate>
+      <subject>4212549</subject>
+      <object>4212550</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4647284</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4212551</subject>
+      <object>4212552</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>76</h>
+      <object_id>4270751</object_id>
+      <w>112</w>
+      <y>151</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>bank</name>
+      <h>361</h>
+      <object_id>4270752</object_id>
+      <w>230</w>
+      <y>4</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>hands</name>
+      <h>34</h>
+      <object_id>4212549</object_id>
+      <w>26</w>
+      <y>228</y>
+      <x>241</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>70</h>
+      <object_id>4212550</object_id>
+      <w>70</w>
+      <y>218</y>
+      <x>218</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>key</name>
+      <h>20</h>
+      <object_id>4212551</object_id>
+      <w>50</w>
+      <y>185</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>67</h>
+      <object_id>4212552</object_id>
+      <w>101</w>
+      <y>155</y>
+      <x>201</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A sign hanging of the side of a building on top of a clock.</caption>
+      <caption>A key bank sign with a clock on a building</caption>
+      <caption>A bank sign that also has a clock attached to it.</caption>
+      <caption>Clock showing 11:05 as time under Bank logo sign</caption>
+      <caption>A photograph of Key Bank with a clock under the sign.</caption>
+    </captions>
+</image>

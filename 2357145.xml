@@ -1,0 +1,79 @@
+<image>
+  <image-id>2357145</image-id>
+  <coco-id>462011</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2291031</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>814491</subject>
+      <object>814492</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2291032</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>814491</subject>
+      <object>814493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2291033</relationship_id>
+      <predicate>IN</predicate>
+      <subject>814491</subject>
+      <object>814493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2291034</relationship_id>
+      <predicate>IN</predicate>
+      <subject>814491</subject>
+      <object>814493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2291035</relationship_id>
+      <predicate>IN</predicate>
+      <subject>814491</subject>
+      <object>814493</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>275</h>
+      <object_id>814491</object_id>
+      <w>260</w>
+      <y>29</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tie</name>
+      <h>199</h>
+      <object_id>814492</object_id>
+      <w>47</w>
+      <y>29</y>
+      <x>306</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>202</h>
+      <object_id>814493</object_id>
+      <w>70</w>
+      <y>49</y>
+      <x>229</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man wearing a tie while standing in a room.</caption>
+      <caption>Man with a plaid shirt and a dress tie standing in a room. </caption>
+      <caption>A man wears a tie with Egyptian hieroglyphs on it.</caption>
+      <caption>A man wearing a tie that show how to tie a tie.</caption>
+      <caption>an image of a man wearing shirt  and tie</caption>
+    </captions>
+</image>

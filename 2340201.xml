@@ -1,0 +1,37 @@
+<image>
+  <image-id>2340201</image-id>
+  <coco-id>341737</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4548161</relationship_id>
+      <predicate>has</predicate>
+      <subject>3971694</subject>
+      <object>3971695</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffe</name>
+      <h>186</h>
+      <object_id>3971694</object_id>
+      <w>106</w>
+      <y>145</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>92</h>
+      <object_id>3971695</object_id>
+      <w>57</w>
+      <y>163</y>
+      <x>212</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe peeks his head in between two trees.</caption>
+      <caption>Two Giraffes, one appears large than the other, are in the wilderness. </caption>
+      <caption>A giraffe rubbing its neck on a tree.</caption>
+      <caption>two giraffes are relaxing and wrapping their necks around trees</caption>
+      <caption>A giraffe rubbing its neck against a tree.</caption>
+    </captions>
+</image>

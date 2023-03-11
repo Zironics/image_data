@@ -1,0 +1,76 @@
+<image>
+  <image-id>2383767</image-id>
+  <coco-id>498730</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1839635</relationship_id>
+      <predicate>ON</predicate>
+      <subject>693667</subject>
+      <object>693673</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1839636</relationship_id>
+      <predicate>IN</predicate>
+      <subject>693674</subject>
+      <object>693675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4308435</relationship_id>
+      <predicate>near</predicate>
+      <subject>693678</subject>
+      <object>693673</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>rain</attribute>
+      </attributes>
+      <name>water</name>
+      <h>42</h>
+      <object_id>693667</object_id>
+      <w>39</w>
+      <y>223</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>72</h>
+      <object_id>693673</object_id>
+      <w>135</w>
+      <y>254</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>51</h>
+      <object_id>693674</object_id>
+      <w>44</w>
+      <y>161</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>distance</name>
+      <h>77</h>
+      <object_id>693675</object_id>
+      <w>86</w>
+      <y>150</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>flooding</name>
+      <h>22</h>
+      <object_id>693678</object_id>
+      <w>68</w>
+      <y>249</y>
+      <x>396</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>it is raining hard and two woman are walking down the street holding umbrellas</caption>
+      <caption>Woman walking with umbrella down a rainy road.</caption>
+      <caption>A couple of people that are holding umbrellas in the rain.</caption>
+      <caption>People hurrying on the sidewalk in the rain carrying umbrellas </caption>
+      <caption>People walk down the street under umbrellas in the pouring rain. </caption>
+    </captions>
+</image>

@@ -1,0 +1,67 @@
+<image>
+  <image-id>2401647</image-id>
+  <coco-id>206791</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3288338</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1145701</subject>
+      <object>1145702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3288346</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1145701</subject>
+      <object>1145702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3288358</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1145701</subject>
+      <object>1145702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3288362</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1145701</subject>
+      <object>1145702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3288372</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1145701</subject>
+      <object>1145702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3288373</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1145701</subject>
+      <object>1145702</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>31</h>
+      <object_id>1145701</object_id>
+      <w>33</w>
+      <y>18</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>31</h>
+      <object_id>1145702</object_id>
+      <w>34</w>
+      <y>22</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This microwave has a toaster built in to its side.</caption>
+      <caption>A microwave with a side toaster for buns</caption>
+      <caption>A microwave has a toaster in the side</caption>
+      <caption>Some type of oven with a toasting feature being used</caption>
+      <caption>A stainless steel microwave with something in it</caption>
+    </captions>
+</image>

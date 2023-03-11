@@ -1,0 +1,57 @@
+<image>
+  <image-id>2386696</image-id>
+  <coco-id>477343</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4585404</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4060712</subject>
+      <object>4060713</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4585402</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>4060711</subject>
+      <object>4060712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4585403</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4060711</subject>
+      <object>4060713</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>buggy</name>
+      <h>186</h>
+      <object_id>4060712</object_id>
+      <w>223</w>
+      <y>145</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>233</h>
+      <object_id>4060713</object_id>
+      <w>495</w>
+      <y>139</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>189</h>
+      <object_id>4060711</object_id>
+      <w>82</w>
+      <y>79</y>
+      <x>105</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in an orange jacket pulling a sled down a snow covered slope.</caption>
+      <caption>A skier is pulling a stroller across the snow.</caption>
+      <caption>Male skiing with a ski stroller attached to his waist </caption>
+      <caption>People on skis and someone with a child ski carrier next to a ski lift</caption>
+      <caption>A man skiing with a child sled behind him </caption>
+    </captions>
+</image>

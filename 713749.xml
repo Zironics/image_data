@@ -1,0 +1,62 @@
+<image>
+  <image-id>713749</image-id>
+  <coco-id>462477</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4581929</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4052616</subject>
+      <object>4052617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4790360</relationship_id>
+      <predicate>wears</predicate>
+      <subject>4574707</subject>
+      <object>4574708</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>four</attribute>
+      </attributes>
+      <name>men</name>
+      <h>621</h>
+      <object_id>4052616</object_id>
+      <w>964</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>aprons</name>
+      <h>714</h>
+      <object_id>4052617</object_id>
+      <w>977</w>
+      <y>23</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>484</h>
+      <object_id>4574707</object_id>
+      <w>297</w>
+      <y>79</y>
+      <x>266</x>
+    </object>
+    <object>
+      <name>t-shirt</name>
+      <h>294</h>
+      <object_id>4574708</object_id>
+      <w>275</w>
+      <y>257</y>
+      <x>262</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Four men wearing aprons standing in a kitchen cooking food.</caption>
+      <caption>A group of men cooking meat in kitchen. </caption>
+      <caption>Men preparing food in a restaurant at a large table </caption>
+      <caption>A group of people standing around a table preparing food.</caption>
+      <caption>The people are working together to prepare food.</caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>2338288</image-id>
+  <coco-id>36413</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4064776</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2610097</subject>
+      <object>2772483</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4064779</relationship_id>
+      <predicate>with</predicate>
+      <subject>2772483</subject>
+      <object>3049627</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hole</name>
+      <h>87</h>
+      <object_id>2610097</object_id>
+      <w>105</w>
+      <y>153</y>
+      <x>193</x>
+    </object>
+    <object>
+      <h>291</h>
+      <object_id>2772483</object_id>
+      <w>302</w>
+      <y>47</y>
+      <x>105</x>
+      <name>cow</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sugar coating</name>
+      <h>62</h>
+      <object_id>3049627</object_id>
+      <w>44</w>
+      <y>186</y>
+      <x>310</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>someone holding a single  glazed krispy creme doughnut.</caption>
+      <caption>A hand holding a donut with a grassy field in background.</caption>
+      <caption>A person is holding a donut with two fingers.</caption>
+      <caption>A small doughnut held in a persons hand.</caption>
+      <caption>A hand holding a glazed donut over a field of grass.</caption>
+    </captions>
+</image>

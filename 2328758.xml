@@ -1,0 +1,79 @@
+<image>
+  <image-id>2328758</image-id>
+  <coco-id>179667</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4046450</relationship_id>
+      <predicate>under</predicate>
+      <subject>3051629</subject>
+      <object>3450089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3662260</relationship_id>
+      <predicate>with</predicate>
+      <subject>3450089</subject>
+      <object>3450090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3662261</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3450090</subject>
+      <object>3450091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261430</relationship_id>
+      <predicate>has</predicate>
+      <subject>3450089</subject>
+      <object>2944712</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>122</h>
+      <object_id>3051629</object_id>
+      <w>220</w>
+      <y>247</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>272</h>
+      <object_id>3450089</object_id>
+      <w>376</w>
+      <y>69</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>151</h>
+      <object_id>3450090</object_id>
+      <w>94</w>
+      <y>135</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>121</h>
+      <object_id>3450091</object_id>
+      <w>75</w>
+      <y>240</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>front leg</name>
+      <h>57</h>
+      <object_id>2944712</object_id>
+      <w>119</w>
+      <y>262</y>
+      <x>107</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bear is laying down while eating food.</caption>
+      <caption>A bear lays on a pile of food </caption>
+      <caption>a bear laying on the ground next to some peanuts</caption>
+      <caption>A huge bear eating food off of the cement.</caption>
+      <caption>A very big furry bear laying in a pile of food.</caption>
+    </captions>
+</image>

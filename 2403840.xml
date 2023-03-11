@@ -1,0 +1,102 @@
+<image>
+  <image-id>2403840</image-id>
+  <coco-id>490638</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3255856</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1121018</subject>
+      <object>1121019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>739377</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>379803</subject>
+      <object>379804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255858</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1121018</subject>
+      <object>1121019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255862</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1121018</subject>
+      <object>1121019</object>
+    </relationship>
+    <relationship>
+      <relationship_id>739417</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>379803</subject>
+      <object>379804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3255899</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1121020</subject>
+      <object>1121021</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>44</h>
+      <object_id>1121018</object_id>
+      <w>47</w>
+      <y>26</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>44</h>
+      <object_id>1121019</object_id>
+      <w>48</w>
+      <y>31</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>street light</name>
+      <h>208</h>
+      <object_id>379803</object_id>
+      <w>109</w>
+      <y>82</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>two roads</name>
+      <h>69</h>
+      <object_id>379804</object_id>
+      <w>488</w>
+      <y>288</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>fox</name>
+      <h>44</h>
+      <object_id>1121020</object_id>
+      <w>47</w>
+      <y>9</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>hen</name>
+      <h>44</h>
+      <object_id>1121021</object_id>
+      <w>48</w>
+      <y>14</y>
+      <x>169</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are at a stop light on a snowy street.</caption>
+      <caption>the back of a car on a snowy road</caption>
+      <caption>Several cars driving down the road in the snow.</caption>
+      <caption>a few cars driving in the snow through a traffic light</caption>
+      <caption>A city street filled with lots of cars driving through the snow.</caption>
+    </captions>
+</image>

@@ -1,0 +1,107 @@
+<image>
+  <image-id>2409516</image-id>
+  <coco-id>319211</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4276334</relationship_id>
+      <predicate>grazing on</predicate>
+      <subject>240170</subject>
+      <object>3807795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4276335</relationship_id>
+      <predicate>on</predicate>
+      <subject>240171</subject>
+      <object>240170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>252895</relationship_id>
+      <predicate>surrounding pond</predicate>
+      <subject>240174</subject>
+      <object>240178</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4276338</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3807797</subject>
+      <object>3807798</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>white ram</name>
+      <h>278</h>
+      <object_id>240170</object_id>
+      <w>351</w>
+      <y>43</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>192</h>
+      <object_id>3807795</object_id>
+      <w>220</w>
+      <y>112</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> large</attribute>
+        <attribute> brown</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>large brown horns</name>
+      <h>159</h>
+      <object_id>240171</object_id>
+      <w>298</w>
+      <y>13</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>surrounding</attribute>
+      </attributes>
+      <name>surrounding pond</name>
+      <h>96</h>
+      <object_id>240174</object_id>
+      <w>169</w>
+      <y>247</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>surrounding pond</name>
+      <h>97</h>
+      <object_id>240178</object_id>
+      <w>184</w>
+      <y>235</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>119</h>
+      <object_id>3807797</object_id>
+      <w>324</w>
+      <y>7</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>goat</name>
+      <h>333</h>
+      <object_id>3807798</object_id>
+      <w>344</w>
+      <y>0</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An animal that is eating some grass in the daytime.</caption>
+      <caption>The animal with long horns is grazing in the outdoors </caption>
+      <caption>a white ox ox is eating some grass by some water and rocks</caption>
+      <caption>An adult goat grazing in the grass with small rocks scattered about.</caption>
+      <caption>A long horn goat grazing on green grass.</caption>
+    </captions>
+</image>

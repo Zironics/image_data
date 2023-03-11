@@ -1,0 +1,136 @@
+<image>
+  <image-id>2349704</image-id>
+  <coco-id>479204</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3808477</relationship_id>
+      <predicate>sitting upon</predicate>
+      <subject>3597659</subject>
+      <object>1902064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3808478</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2576448</subject>
+      <object>1902064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3808479</relationship_id>
+      <predicate>looking to</predicate>
+      <subject>3597659</subject>
+      <object>1952873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413792</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2228883</subject>
+      <object>2228884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413793</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1736385</subject>
+      <object>1736387</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4413794</relationship_id>
+      <predicate>of a</predicate>
+      <subject>1736386</subject>
+      <object>1736387</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>lonely</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>50</h>
+      <object_id>3597659</object_id>
+      <w>17</w>
+      <y>214</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wire</name>
+      <h>152</h>
+      <object_id>1902064</object_id>
+      <w>495</w>
+      <y>136</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>57</h>
+      <object_id>2576448</object_id>
+      <w>25</w>
+      <y>211</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>uniform color</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>314</h>
+      <object_id>1952873</object_id>
+      <w>494</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tail</attribute>
+      </attributes>
+      <name>tail feathers</name>
+      <h>17</h>
+      <object_id>2228883</object_id>
+      <w>20</w>
+      <y>249</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>57</h>
+      <object_id>2228884</object_id>
+      <w>27</w>
+      <y>208</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>17</h>
+      <object_id>1736385</object_id>
+      <w>15</w>
+      <y>210</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>100</h>
+      <object_id>1736387</object_id>
+      <w>64</w>
+      <y>189</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>beak</name>
+      <h>22</h>
+      <object_id>1736386</object_id>
+      <w>15</w>
+      <y>200</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a little bird sitting on a wire. </caption>
+      <caption>A small black bird perched on top of a power line.</caption>
+      <caption>A lone bird sits on a telephone wire during sunset. </caption>
+      <caption>A bird sitting on a phone line with yellow background.</caption>
+      <caption>A black bird is sitting on a wire against a yellow sky.</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2398220</image-id>
+  <coco-id>110718</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4690450</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4322400</subject>
+      <object>4322401</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>79</h>
+      <object_id>4322400</object_id>
+      <w>56</w>
+      <y>137</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>18</h>
+      <object_id>4322401</object_id>
+      <w>23</w>
+      <y>145</y>
+      <x>355</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A van parked in an alley  next to a boat.</caption>
+      <caption>Many boats parked and left near a beach .</caption>
+      <caption>The beach is lined with boats available for rent.</caption>
+      <caption>A boat sitting on the beach next to a van.</caption>
+      <caption>A vehicle is parked in front of beached boats arranged in neat rows.</caption>
+    </captions>
+</image>

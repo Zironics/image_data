@@ -1,0 +1,84 @@
+<image>
+  <image-id>2320275</image-id>
+  <coco-id>511594</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251973</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3790821</subject>
+      <object>3790822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857950</relationship_id>
+      <predicate>lining</predicate>
+      <subject>3204548</subject>
+      <object>3619967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857951</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3619968</subject>
+      <object>3242272</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>104</h>
+      <object_id>3790821</object_id>
+      <w>39</w>
+      <y>188</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>10</h>
+      <object_id>3790822</object_id>
+      <w>13</w>
+      <y>186</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>bulbs</name>
+      <h>44</h>
+      <object_id>3204548</object_id>
+      <w>105</w>
+      <y>240</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>store</name>
+      <h>355</h>
+      <object_id>3619967</object_id>
+      <w>410</w>
+      <y>0</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>lettering</name>
+      <h>74</h>
+      <object_id>3619968</object_id>
+      <w>68</w>
+      <y>150</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>53</h>
+      <object_id>3242272</object_id>
+      <w>74</w>
+      <y>142</y>
+      <x>284</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A statue of a cow is seated on the out side of a store </caption>
+      <caption>A large cow statue outside of a store front.</caption>
+      <caption>a cow statue on the sidewalk outside of a shop </caption>
+      <caption>A cow statue outside of a shopping store.</caption>
+      <caption>The cow statue is standing outside the store.</caption>
+    </captions>
+</image>

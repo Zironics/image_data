@@ -1,0 +1,147 @@
+<image>
+  <image-id>2370922</image-id>
+  <coco-id>355081</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4319274</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1800631</subject>
+      <object>1800632</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4319275</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2239145</subject>
+      <object>2239146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4319276</relationship_id>
+      <predicate>side of</predicate>
+      <subject>1755427</subject>
+      <object>1755426</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4319277</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2471693</subject>
+      <object>2471692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4319278</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2635907</subject>
+      <object>2635906</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4319279</relationship_id>
+      <predicate>driving on</predicate>
+      <subject>2394240</subject>
+      <object>2394241</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>97</h>
+      <object_id>1800631</object_id>
+      <w>32</w>
+      <y>151</y>
+      <x>429</x>
+    </object>
+    <object>
+      <name>suit</name>
+      <h>69</h>
+      <object_id>1800632</object_id>
+      <w>27</w>
+      <y>168</y>
+      <x>434</x>
+    </object>
+    <object>
+      <name>middle</name>
+      <h>29</h>
+      <object_id>2239145</object_id>
+      <w>63</w>
+      <y>122</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>blue track</name>
+      <h>112</h>
+      <object_id>2239146</object_id>
+      <w>74</w>
+      <y>92</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>parked car</name>
+      <h>33</h>
+      <object_id>1755427</object_id>
+      <w>16</w>
+      <y>174</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>150</h>
+      <object_id>1755426</object_id>
+      <w>417</w>
+      <y>178</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>8</h>
+      <object_id>2471693</object_id>
+      <w>12</w>
+      <y>182</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>double-decker bus</name>
+      <h>109</h>
+      <object_id>2471692</object_id>
+      <w>75</w>
+      <y>92</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>55</h>
+      <object_id>2635907</object_id>
+      <w>25</w>
+      <y>204</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>stretch limo</name>
+      <h>103</h>
+      <object_id>2635906</object_id>
+      <w>197</w>
+      <y>152</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>red car</name>
+      <h>42</h>
+      <object_id>2394240</object_id>
+      <w>51</w>
+      <y>171</y>
+      <x>53</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>162</h>
+      <object_id>2394241</object_id>
+      <w>499</w>
+      <y>169</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A double decker bus pulls up beside a stretch limo.</caption>
+      <caption>A city street with a bus and stretch limo </caption>
+      <caption>a public transit bus driving on a city street</caption>
+      <caption>a double decker bus drives next to a hummer limo</caption>
+      <caption>The double decker bus drives down a residential street.</caption>
+    </captions>
+</image>

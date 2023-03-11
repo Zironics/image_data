@@ -1,0 +1,59 @@
+<image>
+  <image-id>2322810</image-id>
+  <coco-id>264683</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4626649</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4161835</subject>
+      <object>4161836</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4626650</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4161847</subject>
+      <object>4161856</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>windows</name>
+      <h>38</h>
+      <object_id>4161835</object_id>
+      <w>91</w>
+      <y>272</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>jet</name>
+      <h>169</h>
+      <object_id>4161836</object_id>
+      <w>411</w>
+      <y>158</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>63</h>
+      <object_id>4161847</object_id>
+      <w>66</w>
+      <y>226</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>163</h>
+      <object_id>4161856</object_id>
+      <w>323</w>
+      <y>159</y>
+      <x>116</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Many planes are arranged in a large building.</caption>
+      <caption>a couple of big airplanes that are in a tunnel</caption>
+      <caption>An airplane museum has many different models to view.</caption>
+      <caption>A large room has many different planes displayed.</caption>
+      <caption>The large hanger has a large number of different airplanes on display.</caption>
+    </captions>
+</image>

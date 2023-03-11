@@ -1,0 +1,193 @@
+<image>
+  <image-id>2367276</image-id>
+  <coco-id>208824</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2052817</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752156</subject>
+      <object>752157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052818</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752158</subject>
+      <object>752157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052819</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752159</subject>
+      <object>752160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4360951</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3874711</subject>
+      <object>752160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052820</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752161</subject>
+      <object>752160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4360952</relationship_id>
+      <predicate>next to</predicate>
+      <subject>752160</subject>
+      <object>3874712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052821</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752164</subject>
+      <object>752157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052822</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752158</subject>
+      <object>752157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052823</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752156</subject>
+      <object>752157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052824</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752156</subject>
+      <object>752157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052825</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752159</subject>
+      <object>752160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052826</relationship_id>
+      <predicate>OF</predicate>
+      <subject>752166</subject>
+      <object>752160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052827</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752164</subject>
+      <object>752157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052828</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752159</subject>
+      <object>752160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2052829</relationship_id>
+      <predicate>of a</predicate>
+      <subject>752166</subject>
+      <object>752160</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>buttons</name>
+      <h>25</h>
+      <object_id>752156</object_id>
+      <w>118</w>
+      <y>130</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>parking meter</name>
+      <h>339</h>
+      <object_id>752157</object_id>
+      <w>256</w>
+      <y>32</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>27</h>
+      <object_id>752158</object_id>
+      <w>81</w>
+      <y>85</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>50</h>
+      <object_id>752159</object_id>
+      <w>84</w>
+      <y>167</y>
+      <x>371</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pictured</attribute>
+        <attribute>white</attribute>
+        <attribute>parked</attribute>
+      </attributes>
+      <name>car</name>
+      <h>283</h>
+      <object_id>752160</object_id>
+      <w>494</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>71</h>
+      <object_id>3874711</object_id>
+      <w>233</w>
+      <y>2</y>
+      <x>88</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>side view</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>41</h>
+      <object_id>752161</object_id>
+      <w>58</w>
+      <y>42</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>curb</name>
+      <h>131</h>
+      <object_id>3874712</object_id>
+      <w>181</w>
+      <y>200</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>coin slot</name>
+      <h>39</h>
+      <object_id>752164</object_id>
+      <w>13</w>
+      <y>261</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>20</h>
+      <object_id>752166</object_id>
+      <w>26</w>
+      <y>72</y>
+      <x>19</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A parking meter in front of a parked, white car.</caption>
+      <caption>A car is parked next to a meter.</caption>
+      <caption>A car parked at an expired parking meter.</caption>
+      <caption>A white car is parked in front of a parking meter.</caption>
+      <caption>A parking meter next to a car on the road.</caption>
+    </captions>
+</image>

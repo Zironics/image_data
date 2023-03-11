@@ -1,0 +1,109 @@
+<image>
+  <image-id>2340138</image-id>
+  <coco-id>490289</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4033987</relationship_id>
+      <predicate>bacon and potatoe</predicate>
+      <subject>3132503</subject>
+      <object>3132506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100258</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2918721</subject>
+      <object>2918722</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4033992</relationship_id>
+      <predicate>on a french</predicate>
+      <subject>2803000</subject>
+      <object>2803001</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4033997</relationship_id>
+      <predicate>brown</predicate>
+      <subject>3690003</subject>
+      <object>3494537</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>french toast</name>
+      <h>267</h>
+      <object_id>3132503</object_id>
+      <w>321</w>
+      <y>112</y>
+      <x>37</x>
+    </object>
+    <object>
+      <name>meal</name>
+      <h>437</h>
+      <object_id>3132506</object_id>
+      <w>415</w>
+      <y>51</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>tablecloth</name>
+      <h>92</h>
+      <object_id>2918721</object_id>
+      <w>495</w>
+      <y>6</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>495</h>
+      <object_id>2918722</object_id>
+      <w>491</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>banana</name>
+      <h>59</h>
+      <object_id>2803000</object_id>
+      <w>65</w>
+      <y>226</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>toast</name>
+      <h>190</h>
+      <object_id>2803001</object_id>
+      <w>341</w>
+      <y>193</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>hash</name>
+      <h>133</h>
+      <object_id>3690003</object_id>
+      <w>101</w>
+      <y>288</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>roasted</attribute>
+      </attributes>
+      <name>potatoes</name>
+      <h>239</h>
+      <object_id>3494537</object_id>
+      <w>382</w>
+      <y>255</y>
+      <x>88</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A breakfast plate containing bananas, eggs and potatoes.</caption>
+      <caption>A plate filled with breakfast food sitting on a table.</caption>
+      <caption>A breakfast plate filled with french toast, potatoes and bacon.</caption>
+      <caption>a plate that has some bacon French toast with butter and potatoes</caption>
+      <caption>a plate with bacon home fries and french toast</caption>
+    </captions>
+</image>

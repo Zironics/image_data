@@ -1,0 +1,170 @@
+<image>
+  <image-id>2383063</image-id>
+  <coco-id>97988</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1312249</relationship_id>
+      <predicate>are sitting on</predicate>
+      <subject>535273</subject>
+      <object>535274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312250</relationship_id>
+      <predicate>ON</predicate>
+      <subject>535279</subject>
+      <object>535280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312251</relationship_id>
+      <predicate>are sitting on</predicate>
+      <subject>535273</subject>
+      <object>535274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312252</relationship_id>
+      <predicate>IN</predicate>
+      <subject>535275</subject>
+      <object>535280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312253</relationship_id>
+      <predicate>are in</predicate>
+      <subject>535284</subject>
+      <object>535285</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312254</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>535286</subject>
+      <object>535272</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312255</relationship_id>
+      <predicate>ON</predicate>
+      <subject>535276</subject>
+      <object>535280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312256</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>535279</subject>
+      <object>535280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1312257</relationship_id>
+      <predicate>are sitting on</predicate>
+      <subject>535273</subject>
+      <object>535274</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>72</h>
+      <object_id>535273</object_id>
+      <w>66</w>
+      <y>235</y>
+      <x>286</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>56</h>
+      <object_id>535274</object_id>
+      <w>114</w>
+      <y>250</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>laying</attribute>
+      </attributes>
+      <name>bicycle</name>
+      <h>60</h>
+      <object_id>535279</object_id>
+      <w>105</w>
+      <y>281</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>294</h>
+      <object_id>535280</object_id>
+      <w>499</w>
+      <y>205</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>tree trunk</name>
+      <h>336</h>
+      <object_id>535275</object_id>
+      <w>75</w>
+      <y>1</y>
+      <x>382</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>around attractions</attribute>
+      </attributes>
+      <name>people</name>
+      <h>298</h>
+      <object_id>535284</object_id>
+      <w>474</w>
+      <y>180</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>499</h>
+      <object_id>535285</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>balding</attribute>
+      </attributes>
+      <name>man</name>
+      <h>172</h>
+      <object_id>535286</object_id>
+      <w>61</w>
+      <y>190</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>46</h>
+      <object_id>535272</object_id>
+      <w>50</w>
+      <y>270</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>shadow of tree</name>
+      <h>38</h>
+      <object_id>535276</object_id>
+      <w>64</w>
+      <y>317</y>
+      <x>434</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Man standing under banner that reads "Run for Rights"</caption>
+      <caption>A man standing underneath a marathon sign in the grass</caption>
+      <caption>A guy smiling while standing under a run for rights banner.</caption>
+      <caption>A man in racing gear and number under a banner.</caption>
+      <caption>A runner poses beneath a "Run for Rights" sign in a green city park. </caption>
+    </captions>
+</image>

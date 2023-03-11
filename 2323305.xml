@@ -1,0 +1,37 @@
+<image>
+  <image-id>2323305</image-id>
+  <coco-id>372514</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4531969</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3959292</subject>
+      <object>2938021</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pastry</name>
+      <h>32</h>
+      <object_id>3959292</object_id>
+      <w>84</w>
+      <y>238</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>87</h>
+      <object_id>2938021</object_id>
+      <w>497</w>
+      <y>242</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a batch of doughnuts being made</caption>
+      <caption>Some donuts fry in oil in a kitchen.</caption>
+      <caption>Corndogs are being cooked in a restaurant kitchen</caption>
+      <caption>Donuts are going through the mechanical glaze machine.</caption>
+      <caption>Several donuts frying in oil in the kitchen.</caption>
+    </captions>
+</image>

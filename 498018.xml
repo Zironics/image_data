@@ -1,0 +1,104 @@
+<image>
+  <image-id>498018</image-id>
+  <coco-id>175669</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262025</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3796142</subject>
+      <object>1572961</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053088</relationship_id>
+      <predicate>wearing a black dress</predicate>
+      <subject>1572968</subject>
+      <object>1572967</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053089</relationship_id>
+      <predicate>wearing bracelets</predicate>
+      <subject>1572968</subject>
+      <object>1572969</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262026</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3796144</subject>
+      <object>1572976</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>441</h>
+      <object_id>3796142</object_id>
+      <w>234</w>
+      <y>150</y>
+      <x>498</x>
+    </object>
+    <object>
+      <h>17</h>
+      <object_id>1572961</object_id>
+      <w>49</w>
+      <y>219</y>
+      <x>654</x>
+      <name>manwearingglasses</name>
+    </object>
+    <object>
+      <h>824</h>
+      <object_id>1572968</object_id>
+      <w>258</w>
+      <y>13</y>
+      <x>722</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>dress</name>
+      <h>766</h>
+      <object_id>1572967</object_id>
+      <w>241</w>
+      <y>0</y>
+      <x>717</x>
+    </object>
+    <object>
+      <name>bracelets</name>
+      <h>77</h>
+      <object_id>1572969</object_id>
+      <w>43</w>
+      <y>200</y>
+      <x>906</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cement</attribute>
+      </attributes>
+      <name>seats</name>
+      <h>281</h>
+      <object_id>3796144</object_id>
+      <w>992</w>
+      <y>344</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>path</name>
+      <h>206</h>
+      <object_id>1572976</object_id>
+      <w>819</w>
+      <y>370</y>
+      <x>71</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman walks while looking at her cell phone outside.</caption>
+      <caption>A woman is using her cell phone while a man looks on.</caption>
+      <caption>A woman in a dress crossing a street.</caption>
+      <caption>A man sitting looking at a woman who is texting on her phone. </caption>
+      <caption>A woman playing on her cell phone while walking down the street. </caption>
+    </captions>
+</image>

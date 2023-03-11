@@ -1,0 +1,65 @@
+<image>
+  <image-id>2334133</image-id>
+  <coco-id>186476</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3962106</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3342568</subject>
+      <object>3342569</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4007963</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2870491</subject>
+      <object>2870492</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>370</h>
+      <object_id>3342568</object_id>
+      <w>87</w>
+      <y>0</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plaid</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>158</h>
+      <object_id>3342569</object_id>
+      <w>87</w>
+      <y>178</y>
+      <x>62</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white letters</name>
+      <h>21</h>
+      <object_id>2870491</object_id>
+      <w>13</w>
+      <y>82</y>
+      <x>348</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>54</h>
+      <object_id>2870492</object_id>
+      <w>22</w>
+      <y>76</y>
+      <x>342</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>many people standing near boxes of many apples</caption>
+      <caption>a group of people going through boxes of fruit </caption>
+      <caption>A group of women looking through boxes filled with apples.</caption>
+      <caption>People are standing over crates of apples and picking them.</caption>
+      <caption>people and workers standing around boxes of apples.</caption>
+    </captions>
+</image>

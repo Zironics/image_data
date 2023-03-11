@@ -1,0 +1,125 @@
+<image>
+  <image-id>2413958</image-id>
+  <coco-id>29894</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>156514</relationship_id>
+      <predicate>wears</predicate>
+      <subject>162682</subject>
+      <object>162683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156516</relationship_id>
+      <predicate>has</predicate>
+      <subject>162682</subject>
+      <object>162683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156517</relationship_id>
+      <predicate>wears</predicate>
+      <subject>162682</subject>
+      <object>162684</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156519</relationship_id>
+      <predicate>has</predicate>
+      <subject>162682</subject>
+      <object>162684</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156520</relationship_id>
+      <predicate>wears</predicate>
+      <subject>162682</subject>
+      <object>162685</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156521</relationship_id>
+      <predicate>has</predicate>
+      <subject>162682</subject>
+      <object>162685</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156515</relationship_id>
+      <predicate>ON</predicate>
+      <subject>162683</subject>
+      <object>162682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156518</relationship_id>
+      <predicate>ON</predicate>
+      <subject>162684</subject>
+      <object>162682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>156522</relationship_id>
+      <predicate>ON</predicate>
+      <subject>162685</subject>
+      <object>162682</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>crouching</attribute>
+        <attribute>not caucasin</attribute>
+        <attribute>not african american</attribute>
+        <attribute>oriental</attribute>
+        <attribute>tennis playyer</attribute>
+        <attribute>playing</attribute>
+        <attribute>waiting</attribute>
+        <attribute>posing</attribute>
+        <attribute>not smiling</attribute>
+      </attributes>
+      <name>man</name>
+      <h>328</h>
+      <object_id>162682</object_id>
+      <w>396</w>
+      <y>5</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>76</h>
+      <object_id>162683</object_id>
+      <w>104</w>
+      <y>6</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+        <attribute>collared</attribute>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>179</h>
+      <object_id>162684</object_id>
+      <w>225</w>
+      <y>63</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>shorts</name>
+      <h>141</h>
+      <object_id>162685</object_id>
+      <w>182</w>
+      <y>177</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A professional tennis player getting ready to receive a shot</caption>
+      <caption>A man leans down playing a game of tennis</caption>
+      <caption>A tennis player on the court holding a tennis racket.</caption>
+      <caption>A tennis player playing a tennis tournament and waiting for the ball to be served.</caption>
+      <caption>A man playing tennis waits to receive the ball.</caption>
+    </captions>
+</image>

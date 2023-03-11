@@ -1,0 +1,100 @@
+<image>
+  <image-id>2382365</image-id>
+  <coco-id>568566</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1851562</relationship_id>
+      <predicate>ON</predicate>
+      <subject>697312</subject>
+      <object>697313</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4294016</relationship_id>
+      <predicate>ON</predicate>
+      <subject>697308</subject>
+      <object>3831301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4294017</relationship_id>
+      <predicate>IN</predicate>
+      <subject>697304</subject>
+      <object>3831303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4294018</relationship_id>
+      <predicate>IN</predicate>
+      <subject>697304</subject>
+      <object>3831303</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>Black </attribute>
+      </attributes>
+      <name>brace</name>
+      <h>43</h>
+      <object_id>697312</object_id>
+      <w>34</w>
+      <y>292</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>157</h>
+      <object_id>697313</object_id>
+      <w>59</w>
+      <y>193</y>
+      <x>62</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <h>35</h>
+      <object_id>697308</object_id>
+      <w>64</w>
+      <y>140</y>
+      <x>94</x>
+      <name>logo</name>
+    </object>
+    <object>
+      <name>uniform</name>
+      <h>231</h>
+      <object_id>3831301</object_id>
+      <w>171</w>
+      <y>109</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+        <attribute>playing</attribute>
+        <attribute>moving</attribute>
+        <attribute>stripped</attribute>
+      </attributes>
+      <name>player</name>
+      <h>314</h>
+      <object_id>697304</object_id>
+      <w>176</w>
+      <y>42</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>uniform</name>
+      <h>211</h>
+      <object_id>3831303</object_id>
+      <w>164</w>
+      <y>113</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player running across a baseball field.</caption>
+      <caption>A baseball player who just hit the ball running in a baseball game.</caption>
+      <caption>A baseball player who is holding a bat.</caption>
+      <caption>A baseball player is holding a bat and looking up.</caption>
+      <caption>a baseball player gets ready to run to first base </caption>
+    </captions>
+</image>

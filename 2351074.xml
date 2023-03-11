@@ -1,0 +1,214 @@
+<image>
+  <image-id>2351074</image-id>
+  <coco-id>203905</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2479171</relationship_id>
+      <predicate>holding</predicate>
+      <subject>863273</subject>
+      <object>863274</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479172</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>863270</subject>
+      <object>863278</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479173</relationship_id>
+      <predicate>standing on a</predicate>
+      <subject>863270</subject>
+      <object>863279</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479174</relationship_id>
+      <predicate>are holding onto a</predicate>
+      <subject>863270</subject>
+      <object>863280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479175</relationship_id>
+      <predicate>are in</predicate>
+      <subject>863281</subject>
+      <object>863282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479176</relationship_id>
+      <predicate>are in</predicate>
+      <subject>863281</subject>
+      <object>863282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479177</relationship_id>
+      <predicate>holding onto</predicate>
+      <subject>863273</subject>
+      <object>863280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479178</relationship_id>
+      <predicate>holding onto</predicate>
+      <subject>863270</subject>
+      <object>863280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479179</relationship_id>
+      <predicate>holding onto</predicate>
+      <subject>863283</subject>
+      <object>863280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479180</relationship_id>
+      <predicate>ON</predicate>
+      <subject>863273</subject>
+      <object>863284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479181</relationship_id>
+      <predicate>ON</predicate>
+      <subject>863270</subject>
+      <object>863284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479182</relationship_id>
+      <predicate>ON</predicate>
+      <subject>863283</subject>
+      <object>863284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479183</relationship_id>
+      <predicate>are in</predicate>
+      <subject>863281</subject>
+      <object>863282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479184</relationship_id>
+      <predicate>are in</predicate>
+      <subject>863281</subject>
+      <object>863282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479186</relationship_id>
+      <predicate>are in</predicate>
+      <subject>863281</subject>
+      <object>863282</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479192</relationship_id>
+      <predicate>holding</predicate>
+      <subject>863273</subject>
+      <object>863280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479193</relationship_id>
+      <predicate>has</predicate>
+      <subject>863282</subject>
+      <object>863281</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2479194</relationship_id>
+      <predicate>are in</predicate>
+      <subject>863281</subject>
+      <object>863282</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>108</h>
+      <object_id>863273</object_id>
+      <w>65</w>
+      <y>88</y>
+      <x>388</x>
+    </object>
+    <object>
+      <name>ski pole</name>
+      <h>73</h>
+      <object_id>863274</object_id>
+      <w>25</w>
+      <y>122</y>
+      <x>395</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <h>109</h>
+      <object_id>863270</object_id>
+      <w>63</w>
+      <y>76</y>
+      <x>52</x>
+      <name>people</name>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>8</h>
+      <object_id>863278</object_id>
+      <w>13</w>
+      <y>79</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>14</h>
+      <object_id>863279</object_id>
+      <w>87</w>
+      <y>174</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>18</h>
+      <object_id>863280</object_id>
+      <w>499</w>
+      <y>111</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>bright white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>72</h>
+      <object_id>863281</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>71</h>
+      <object_id>863282</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>105</h>
+      <object_id>863283</object_id>
+      <w>62</w>
+      <y>90</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>164</h>
+      <object_id>863284</object_id>
+      <w>498</w>
+      <y>67</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three people on snowboards using a rope to get up slope.</caption>
+      <caption>Three skiers wearing winter attire pose for he camera and one waves</caption>
+      <caption>A group of three people standing on top of a snow covered slope.</caption>
+      <caption>Three snowboarders using a towing line to get somewhere.</caption>
+      <caption>The people being towed up a hill with snowboards</caption>
+    </captions>
+</image>

@@ -1,0 +1,107 @@
+<image>
+  <image-id>2392462</image-id>
+  <coco-id>284349</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4602029</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4100590</subject>
+      <object>4100518</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4602033</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4100590</subject>
+      <object>4100528</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4602055</relationship_id>
+      <predicate>along</predicate>
+      <subject>4100574</subject>
+      <object>4100575</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4602059</relationship_id>
+      <predicate>with</predicate>
+      <subject>4100590</subject>
+      <object>4100585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4602062</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4100590</subject>
+      <object>4100591</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skating</attribute>
+      </attributes>
+      <h>294</h>
+      <object_id>4100590</object_id>
+      <w>239</w>
+      <y>5</y>
+      <x>39</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>watch</name>
+      <h>13</h>
+      <object_id>4100518</object_id>
+      <w>12</w>
+      <y>130</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>105</h>
+      <object_id>4100528</object_id>
+      <w>132</w>
+      <y>50</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>208</h>
+      <object_id>4100574</object_id>
+      <w>217</w>
+      <y>9</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>90</h>
+      <object_id>4100575</object_id>
+      <w>480</w>
+      <y>240</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>beard</name>
+      <h>32</h>
+      <object_id>4100585</object_id>
+      <w>29</w>
+      <y>49</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>tennis shoe</name>
+      <h>27</h>
+      <object_id>4100591</object_id>
+      <w>43</w>
+      <y>276</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young man riding a skateboard down a sidewalk.</caption>
+      <caption>A man skating on a skateboard down hill.</caption>
+      <caption>A man skateboard in the street in a forested area. </caption>
+      <caption>Bearded man on a skateboard riding down a street.</caption>
+      <caption>A young man is skating around white cones.</caption>
+    </captions>
+</image>

@@ -1,0 +1,101 @@
+<image>
+  <image-id>2321209</image-id>
+  <coco-id>477805</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4645906</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4209205</subject>
+      <object>4209192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4645908</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4209198</subject>
+      <object>4209199</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4645909</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4209205</subject>
+      <object>4209201</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4645910</relationship_id>
+      <predicate>has</predicate>
+      <subject>4209205</subject>
+      <object>4209204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4645911</relationship_id>
+      <predicate>has an</predicate>
+      <subject>4209205</subject>
+      <object>4209206</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>300</h>
+      <object_id>4209205</object_id>
+      <w>370</w>
+      <y>33</y>
+      <x>128</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>281</h>
+      <object_id>4209192</object_id>
+      <w>352</w>
+      <y>12</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>29</h>
+      <object_id>4209198</object_id>
+      <w>62</w>
+      <y>52</y>
+      <x>333</x>
+    </object>
+    <object>
+      <name>man's face</name>
+      <h>101</h>
+      <object_id>4209199</object_id>
+      <w>54</w>
+      <y>33</y>
+      <x>329</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>50</h>
+      <object_id>4209201</object_id>
+      <w>57</w>
+      <y>51</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>20</h>
+      <object_id>4209204</object_id>
+      <w>25</w>
+      <y>57</y>
+      <x>333</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>92</h>
+      <object_id>4209206</object_id>
+      <w>55</w>
+      <y>46</y>
+      <x>384</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man with glasses sitting in front of a laptop computer.</caption>
+      <caption>A man types quickly on a laptop at night.</caption>
+      <caption>Man using his laptop computer in a dark room </caption>
+      <caption>A man typing on a laptop computer in the dark.</caption>
+      <caption>A man types swiftly on his laptop in the darkness.</caption>
+    </captions>
+</image>

@@ -1,0 +1,91 @@
+<image>
+  <image-id>2367835</image-id>
+  <coco-id>79710</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4355110</relationship_id>
+      <predicate>with</predicate>
+      <subject>2568084</subject>
+      <object>2568085</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4355111</relationship_id>
+      <predicate>with</predicate>
+      <subject>2647969</subject>
+      <object>2647970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4355112</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1683030</subject>
+      <object>1683029</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>building</name>
+      <h>327</h>
+      <object_id>2568084</object_id>
+      <w>360</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>door</name>
+      <h>98</h>
+      <object_id>2568085</object_id>
+      <w>57</w>
+      <y>255</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>awning</name>
+      <h>42</h>
+      <object_id>2647969</object_id>
+      <w>164</w>
+      <y>229</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>13</h>
+      <object_id>2647970</object_id>
+      <w>62</w>
+      <y>245</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>61</h>
+      <object_id>1683030</object_id>
+      <w>33</w>
+      <y>119</y>
+      <x>139</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>middle</attribute>
+      </attributes>
+      <name>building</name>
+      <h>253</h>
+      <object_id>1683029</object_id>
+      <w>180</w>
+      <y>78</y>
+      <x>93</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Store signs over tree next to street light.</caption>
+      <caption>A deli grocery sign is hanging next to a Marlboro sign next to the street.</caption>
+      <caption>There is a sign displayed along with two cigarette advertisements.</caption>
+      <caption>some signs a telephone pole and some trees</caption>
+      <caption>a sign is hanging on a pole outside</caption>
+    </captions>
+</image>

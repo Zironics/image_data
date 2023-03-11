@@ -1,0 +1,50 @@
+<image>
+  <image-id>2398127</image-id>
+  <coco-id>153288</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>935667</relationship_id>
+      <predicate>holding</predicate>
+      <subject>428162</subject>
+      <object>428161</object>
+    </relationship>
+    <relationship>
+      <relationship_id>935668</relationship_id>
+      <predicate>holding</predicate>
+      <subject>428162</subject>
+      <object>428161</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>droid</name>
+      <h>76</h>
+      <object_id>428162</object_id>
+      <w>56</w>
+      <y>171</y>
+      <x>258</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>55</h>
+      <object_id>428161</object_id>
+      <w>114</w>
+      <y>122</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A Star wars storm trooper holding a pink umbrella.</caption>
+      <caption>A small figurine sunbathes with an umbrella for shade.</caption>
+      <caption>A toy sitting under a pink umbrella on the sand.</caption>
+      <caption>A Lego Stormtrooper shaded by a mini umbrella at the beach.</caption>
+      <caption>A storm trooper is in the sand under an umbrella.</caption>
+    </captions>
+</image>

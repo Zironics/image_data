@@ -1,0 +1,76 @@
+<image>
+  <image-id>2417002</image-id>
+  <coco-id>330186</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4138014</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>2782448</subject>
+      <object>3499809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3703419</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2782447</subject>
+      <object>2782448</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138022</relationship_id>
+      <predicate>splashed in</predicate>
+      <subject>3446979</subject>
+      <object>3729239</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>71</h>
+      <object_id>2782448</object_id>
+      <w>78</w>
+      <y>97</y>
+      <x>294</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>105</h>
+      <object_id>3499809</object_id>
+      <w>149</w>
+      <y>77</y>
+      <x>140</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>foamy</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>137</h>
+      <object_id>2782447</object_id>
+      <w>190</w>
+      <y>15</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>330</h>
+      <object_id>3446979</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sea</name>
+      <h>100</h>
+      <object_id>3729239</object_id>
+      <w>492</w>
+      <y>11</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a kid lays on a surf board while in the ocean </caption>
+      <caption>A person on a surfboard in the water.</caption>
+      <caption>A man on some water with a surf board</caption>
+      <caption>a person riding a surf board on a wave</caption>
+      <caption>A man is surfing a small wave on a board.</caption>
+    </captions>
+</image>

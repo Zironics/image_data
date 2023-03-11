@@ -1,0 +1,147 @@
+<image>
+  <image-id>2361910</image-id>
+  <coco-id>576153</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2135089</relationship_id>
+      <predicate>OF</predicate>
+      <subject>778566</subject>
+      <object>778567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2135090</relationship_id>
+      <predicate>OF</predicate>
+      <subject>778568</subject>
+      <object>778567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2135091</relationship_id>
+      <predicate>of an</predicate>
+      <subject>778569</subject>
+      <object>778567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2135092</relationship_id>
+      <predicate>has a</predicate>
+      <subject>778567</subject>
+      <object>778572</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2135093</relationship_id>
+      <predicate>in a</predicate>
+      <subject>778567</subject>
+      <object>778574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2135094</relationship_id>
+      <predicate>has a</predicate>
+      <subject>778567</subject>
+      <object>778565</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2135095</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>778576</subject>
+      <object>778574</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>small</attribute>
+        <attribute>here</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tusk</name>
+      <h>20</h>
+      <object_id>778566</object_id>
+      <w>46</w>
+      <y>158</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>118</h>
+      <object_id>778567</object_id>
+      <w>200</w>
+      <y>98</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>trunk</name>
+      <h>79</h>
+      <object_id>778568</object_id>
+      <w>26</w>
+      <y>134</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>legs</name>
+      <h>37</h>
+      <object_id>778569</object_id>
+      <w>39</w>
+      <y>173</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>105</h>
+      <object_id>778572</object_id>
+      <w>59</w>
+      <y>97</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>field]</name>
+      <h>141</h>
+      <object_id>778574</object_id>
+      <w>492</w>
+      <y>138</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>57</h>
+      <object_id>778565</object_id>
+      <w>15</w>
+      <y>154</y>
+      <x>425</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>strong</attribute>
+        <attribute>big</attribute>
+        <attribute>huge</attribute>
+        <attribute>mightly</attribute>
+        <attribute>adults</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>elephants</name>
+      <h>121</h>
+      <object_id>778576</object_id>
+      <w>492</w>
+      <y>85</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bunch of elephants are standing in a field. </caption>
+      <caption>Blurry photograph of tusked elephants walking in grass</caption>
+      <caption>A group of elephants walk in a field of grass.</caption>
+      <caption>Two elephants that are standing in the grass.</caption>
+      <caption>A small group of elephant moving through the grass.</caption>
+    </captions>
+</image>

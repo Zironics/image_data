@@ -1,0 +1,104 @@
+<image>
+  <image-id>2325936</image-id>
+  <coco-id>387301</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3671551</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2831919</subject>
+      <object>2831920</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3671553</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2997008</subject>
+      <object>3121240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4482018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3121241</subject>
+      <object>3121240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3671556</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3473974</subject>
+      <object>3538688</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>red shirt</name>
+      <h>82</h>
+      <object_id>2831919</object_id>
+      <w>87</w>
+      <y>182</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>267</h>
+      <object_id>2831920</object_id>
+      <w>232</w>
+      <y>141</y>
+      <x>78</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>102</h>
+      <object_id>2997008</object_id>
+      <w>72</w>
+      <y>269</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>245</h>
+      <object_id>3121240</object_id>
+      <w>115</w>
+      <y>154</y>
+      <x>137</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>43</h>
+      <object_id>3121241</object_id>
+      <w>46</w>
+      <y>157</y>
+      <x>206</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>120</h>
+      <object_id>3473974</object_id>
+      <w>94</w>
+      <y>107</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>369</h>
+      <object_id>3538688</object_id>
+      <w>483</w>
+      <y>66</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy standing on top of a tennis court holding a tennis racquet.</caption>
+      <caption>A boy is bent over preparing for his return hit of the tennis ball.</caption>
+      <caption>A boy is holding a tennis racket and standing on a tennis court.</caption>
+      <caption>Young boy with tennis racket awaiting the ball.</caption>
+      <caption>A boy holding a tennis racket on a tennis court.</caption>
+    </captions>
+</image>

@@ -1,0 +1,90 @@
+<image>
+  <image-id>2406267</image-id>
+  <coco-id>343031</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1706905</relationship_id>
+      <predicate>ON</predicate>
+      <subject>652661</subject>
+      <object>652662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1706906</relationship_id>
+      <predicate>ON</predicate>
+      <subject>652669</subject>
+      <object>652661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1706907</relationship_id>
+      <predicate>ON</predicate>
+      <subject>652661</subject>
+      <object>652662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1706908</relationship_id>
+      <predicate>over</predicate>
+      <subject>652661</subject>
+      <object>652662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1706909</relationship_id>
+      <predicate>has</predicate>
+      <subject>652661</subject>
+      <object>652673</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>back</attribute>
+        <attribute>fading</attribute>
+        <attribute>black</attribute>
+        <attribute>car</attribute>
+      </attributes>
+      <name>train</name>
+      <h>227</h>
+      <object_id>652661</object_id>
+      <w>351</w>
+      <y>60</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rusted</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>track</name>
+      <h>215</h>
+      <object_id>652662</object_id>
+      <w>427</w>
+      <y>117</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>35</h>
+      <object_id>652669</object_id>
+      <w>18</w>
+      <y>131</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>29</h>
+      <object_id>652673</object_id>
+      <w>32</w>
+      <y>171</y>
+      <x>299</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black steam engine pulling a small passenger car.</caption>
+      <caption>Several railroad tracks at a station and various locomotives on each track.</caption>
+      <caption>A black train parked on top of rail road tracks.</caption>
+      <caption>a train yard with several stopped trains waiting to go</caption>
+      <caption>there is a black train that is on the tracks</caption>
+    </captions>
+</image>

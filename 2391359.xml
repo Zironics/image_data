@@ -1,0 +1,104 @@
+<image>
+  <image-id>2391359</image-id>
+  <coco-id>454636</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1130778</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>489709</subject>
+      <object>489710</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1130779</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>489704</subject>
+      <object>489705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1130780</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>489704</subject>
+      <object>489715</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1130781</relationship_id>
+      <predicate>ON</predicate>
+      <subject>489719</subject>
+      <object>489720</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>210</h>
+      <object_id>489709</object_id>
+      <w>111</w>
+      <y>122</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>scarf</name>
+      <h>157</h>
+      <object_id>489710</object_id>
+      <w>68</w>
+      <y>175</y>
+      <x>299</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>222</h>
+      <object_id>489704</object_id>
+      <w>98</w>
+      <y>110</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>sweater</name>
+      <h>118</h>
+      <object_id>489705</object_id>
+      <w>110</w>
+      <y>160</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>61</h>
+      <object_id>489715</object_id>
+      <w>82</w>
+      <y>272</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>28</h>
+      <object_id>489719</object_id>
+      <w>22</w>
+      <y>1</y>
+      <x>79</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>72</h>
+      <object_id>489720</object_id>
+      <w>54</w>
+      <y>2</y>
+      <x>46</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a group of people are talking to a man in a suit </caption>
+      <caption>They are standing outside of the building discussing something.</caption>
+      <caption>Many people are standing in a group, having a conversation. </caption>
+      <caption>A group of men and women having a conversation in front of a building.</caption>
+      <caption>A group of people standing together talking .</caption>
+    </captions>
+</image>

@@ -1,0 +1,218 @@
+<image>
+  <image-id>2391574</image-id>
+  <coco-id>123511</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1125791</relationship_id>
+      <predicate>OF</predicate>
+      <subject>488007</subject>
+      <object>488008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125792</relationship_id>
+      <predicate>part of</predicate>
+      <subject>488007</subject>
+      <object>488008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125793</relationship_id>
+      <predicate>OF</predicate>
+      <subject>488009</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125794</relationship_id>
+      <predicate>part of</predicate>
+      <subject>488009</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125795</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>488006</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125796</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>488006</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125797</relationship_id>
+      <predicate>OF</predicate>
+      <subject>488011</subject>
+      <object>488006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125798</relationship_id>
+      <predicate>outside of</predicate>
+      <subject>488011</subject>
+      <object>488006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125799</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>488006</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125800</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>488006</subject>
+      <object>488008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125802</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>488006</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125803</relationship_id>
+      <predicate>in red</predicate>
+      <subject>488006</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125804</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>488012</subject>
+      <object>488006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125805</relationship_id>
+      <predicate>OF</predicate>
+      <subject>488013</subject>
+      <object>488006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125806</relationship_id>
+      <predicate>shining on</predicate>
+      <subject>488014</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125807</relationship_id>
+      <predicate>underneath</predicate>
+      <subject>488008</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125808</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>488014</subject>
+      <object>488010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125809</relationship_id>
+      <predicate>behind</predicate>
+      <subject>488006</subject>
+      <object>488014</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1125810</relationship_id>
+      <predicate>IN</predicate>
+      <subject>488006</subject>
+      <object>488010</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>edge</name>
+      <h>48</h>
+      <object_id>488007</object_id>
+      <w>117</w>
+      <y>277</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>table</name>
+      <h>59</h>
+      <object_id>488008</object_id>
+      <w>195</w>
+      <y>278</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>232</h>
+      <object_id>488009</object_id>
+      <w>182</w>
+      <y>102</y>
+      <x>20</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>337</h>
+      <object_id>488010</object_id>
+      <w>231</w>
+      <y>0</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+        <attribute>citric</attribute>
+        <attribute>here</attribute>
+        <attribute>fleshy</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>169</h>
+      <object_id>488006</object_id>
+      <w>342</w>
+      <y>62</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>peel</name>
+      <h>105</h>
+      <object_id>488011</object_id>
+      <w>146</w>
+      <y>132</y>
+      <x>324</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>rind</name>
+      <h>71</h>
+      <object_id>488012</object_id>
+      <w>53</w>
+      <y>76</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>pulp</name>
+      <h>96</h>
+      <object_id>488013</object_id>
+      <w>134</w>
+      <y>76</y>
+      <x>303</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>217</h>
+      <object_id>488014</object_id>
+      <w>176</w>
+      <y>113</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A close up of an orange in a red serving bowl.</caption>
+      <caption>a orange sliced in half and resting in a bowl</caption>
+      <caption>A sliced orange half in a red bowl.</caption>
+      <caption>A slice of orange sitting in a red bowl.</caption>
+      <caption>the orange is in a bowl on the table
+</caption>
+    </captions>
+</image>

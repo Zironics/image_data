@@ -1,0 +1,59 @@
+<image>
+  <image-id>2322036</image-id>
+  <coco-id>336812</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4538108</relationship_id>
+      <predicate>next</predicate>
+      <subject>3260592</subject>
+      <object>3260593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538109</relationship_id>
+      <predicate>next</predicate>
+      <subject>3442138</subject>
+      <object>3961597</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>26</h>
+      <object_id>3260592</object_id>
+      <w>29</w>
+      <y>6</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>23</h>
+      <object_id>3260593</object_id>
+      <w>25</w>
+      <y>9</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>38</h>
+      <object_id>3442138</object_id>
+      <w>25</w>
+      <y>9</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>25</h>
+      <object_id>3961597</object_id>
+      <w>24</w>
+      <y>19</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman standing under an umbrella on a street and holding a shopping bag on her arm.</caption>
+      <caption>A woman on the street uses an umbrella while walking with a shopping bag.</caption>
+      <caption>A woman holding shopping bags and a umbrella walking down the street.</caption>
+      <caption>A woman walking down a street holding an umbrella.</caption>
+      <caption>A person with a umbrella on a street.</caption>
+    </captions>
+</image>

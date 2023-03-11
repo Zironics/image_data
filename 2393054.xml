@@ -1,0 +1,66 @@
+<image>
+  <image-id>2393054</image-id>
+  <coco-id>432615</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1073989</relationship_id>
+      <predicate>near</predicate>
+      <subject>475211</subject>
+      <object>475216</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1073990</relationship_id>
+      <predicate>OF</predicate>
+      <subject>475218</subject>
+      <object>475211</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>kneeling</attribute>
+        <attribute>eating</attribute>
+        <attribute>brown</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>165</h>
+      <object_id>475211</object_id>
+      <w>146</w>
+      <y>87</y>
+      <x>249</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>kneeling</attribute>
+        <attribute>drinking</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>136</h>
+      <object_id>475216</object_id>
+      <w>110</w>
+      <y>117</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bent</attribute>
+      </attributes>
+      <name>knee</name>
+      <h>17</h>
+      <object_id>475218</object_id>
+      <w>13</w>
+      <y>176</y>
+      <x>272</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Giraffes leaning low to eat from the ground</caption>
+      <caption>Two giraffes are eating grass in the plains.</caption>
+      <caption>Two Giraffe graze in the field, side by side, in front of some barren trees.</caption>
+      <caption>Two giraffes that are standing in the grass.</caption>
+      <caption>A pair of giraffes lean over in the grass.</caption>
+    </captions>
+</image>

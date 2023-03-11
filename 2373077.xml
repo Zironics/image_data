@@ -1,0 +1,123 @@
+<image>
+  <image-id>2373077</image-id>
+  <coco-id>174576</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4138828</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2094327</subject>
+      <object>2630946</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138831</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2628124</subject>
+      <object>2628125</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138832</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3729537</subject>
+      <object>2630946</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138833</relationship_id>
+      <predicate>above</predicate>
+      <subject>3729534</subject>
+      <object>1880790</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138835</relationship_id>
+      <predicate>turned toward</predicate>
+      <subject>3729537</subject>
+      <object>2630946</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138840</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3729537</subject>
+      <object>2630946</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> of  building</attribute>
+      </attributes>
+      <h>137</h>
+      <object_id>2094327</object_id>
+      <w>161</w>
+      <y>48</y>
+      <x>247</x>
+      <name>clock</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>326</h>
+      <object_id>2630946</object_id>
+      <w>382</w>
+      <y>5</y>
+      <x>116</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Decorative</attribute>
+      </attributes>
+      <name>sculpture</name>
+      <h>42</h>
+      <object_id>2628124</object_id>
+      <w>75</w>
+      <y>5</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>267</h>
+      <object_id>2628125</object_id>
+      <w>269</w>
+      <y>8</y>
+      <x>199</x>
+    </object>
+    <object>
+      <h>272</h>
+      <object_id>3729537</object_id>
+      <w>216</w>
+      <y>60</y>
+      <x>0</x>
+      <name>bust</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>of Stone</attribute>
+      </attributes>
+      <name>carving</name>
+      <h>57</h>
+      <object_id>3729534</object_id>
+      <w>88</w>
+      <y>2</y>
+      <x>278</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Gold</attribute>
+        <attribute> decorative</attribute>
+        <attribute>large</attribute>
+        <attribute> Large</attribute>
+        <attribute>   yellow</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>140</h>
+      <object_id>1880790</object_id>
+      <w>165</w>
+      <y>45</y>
+      <x>243</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A statue of a lion and a building with a clock .</caption>
+      <caption>Lion gargoyle statute in front of clock tower</caption>
+      <caption>Lion statue with a large structural clock in the distance</caption>
+      <caption>A statue of a lion in front of a clock tower.</caption>
+      <caption>A stone lion in front of a clock on a building.</caption>
+    </captions>
+</image>

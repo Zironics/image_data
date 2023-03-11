@@ -1,0 +1,126 @@
+<image>
+  <image-id>2405486</image-id>
+  <coco-id>462955</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4624890</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4157082</subject>
+      <object>4157075</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4624891</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4157082</subject>
+      <object>4157085</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4624892</relationship_id>
+      <predicate>are on</predicate>
+      <subject>4157080</subject>
+      <object>4157081</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4624893</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4157087</subject>
+      <object>4157082</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4624894</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4157088</subject>
+      <object>4157082</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4624895</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>4157089</subject>
+      <object>4157090</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>340</h>
+      <object_id>4157082</object_id>
+      <w>291</w>
+      <y>32</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>242</h>
+      <object_id>4157075</object_id>
+      <w>292</w>
+      <y>129</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Blue </attribute>
+      </attributes>
+      <h>215</h>
+      <object_id>4157085</object_id>
+      <w>49</w>
+      <y>156</y>
+      <x>117</x>
+      <name>tie</name>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>31</h>
+      <object_id>4157080</object_id>
+      <w>83</w>
+      <y>68</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>125</h>
+      <object_id>4157081</object_id>
+      <w>85</w>
+      <y>27</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>beard</name>
+      <h>52</h>
+      <object_id>4157087</object_id>
+      <w>80</w>
+      <y>93</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>mustache</name>
+      <h>16</h>
+      <object_id>4157088</object_id>
+      <w>40</w>
+      <y>104</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>128</h>
+      <object_id>4157089</object_id>
+      <w>111</w>
+      <y>0</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>241</h>
+      <object_id>4157090</object_id>
+      <w>85</w>
+      <y>128</y>
+      <x>339</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Man taking a photo of himself in front of a mirror with a phone. </caption>
+      <caption>a man with a tie taking a selfie in the mirror</caption>
+      <caption>A man taking a self portrait with phone.</caption>
+      <caption>A man taking a selfie in front of a large mirror.</caption>
+      <caption>A bearded man taking a photo of his reflection in a mirror.</caption>
+    </captions>
+</image>

@@ -1,0 +1,113 @@
+<image>
+  <image-id>2316090</image-id>
+  <coco-id>297876</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3667078</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2723630</subject>
+      <object>2723631</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4115962</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2980366</subject>
+      <object>2980367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3963321</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2765357</subject>
+      <object>2765359</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3768775</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3228518</subject>
+      <object>3581339</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>phone</name>
+      <h>41</h>
+      <object_id>2723630</object_id>
+      <w>57</w>
+      <y>172</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>175</h>
+      <object_id>2723631</object_id>
+      <w>183</w>
+      <y>26</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+        <attribute>solo</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>54</h>
+      <object_id>2980366</object_id>
+      <w>38</w>
+      <y>202</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>290</h>
+      <object_id>2980367</object_id>
+      <w>497</w>
+      <y>84</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>padded</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>114</h>
+      <object_id>2765357</object_id>
+      <w>126</w>
+      <y>260</y>
+      <x>373</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>111</h>
+      <object_id>2765359</object_id>
+      <w>126</w>
+      <y>262</y>
+      <x>372</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>171</h>
+      <object_id>3228518</object_id>
+      <w>171</w>
+      <y>117</y>
+      <x>93</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>271</h>
+      <object_id>3581339</object_id>
+      <w>494</w>
+      <y>85</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wooden table topped with 4 laptops and a tablet.</caption>
+      <caption>A day trader's station on a typical trading day</caption>
+      <caption>A long table with a bunch of laptops on it.</caption>
+      <caption>two laptops and two computers along with a tablet on a desk</caption>
+      <caption>A desk with two laptops, two computers and a tablet.</caption>
+    </captions>
+</image>

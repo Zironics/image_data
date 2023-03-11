@@ -1,0 +1,90 @@
+<image>
+  <image-id>2413480</image-id>
+  <coco-id>139728</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>166259</relationship_id>
+      <predicate>OF</predicate>
+      <subject>172747</subject>
+      <object>172748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>166260</relationship_id>
+      <predicate>OF</predicate>
+      <subject>172747</subject>
+      <object>172748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>166261</relationship_id>
+      <predicate>covered with</predicate>
+      <subject>172751</subject>
+      <object>172752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>166262</relationship_id>
+      <predicate>ON</predicate>
+      <subject>172748</subject>
+      <object>172747</object>
+    </relationship>
+    <relationship>
+      <relationship_id>166263</relationship_id>
+      <predicate>IN</predicate>
+      <subject>172748</subject>
+      <object>172747</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>170</h>
+      <object_id>172747</object_id>
+      <w>175</w>
+      <y>146</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>creamy</attribute>
+      </attributes>
+      <name>macaroni salad</name>
+      <h>172</h>
+      <object_id>172748</object_id>
+      <w>188</w>
+      <y>144</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sliced</attribute>
+        <attribute>covered</attribute>
+      </attributes>
+      <name>pickle</name>
+      <h>71</h>
+      <object_id>172751</object_id>
+      <w>258</w>
+      <y>196</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>parsley</name>
+      <h>105</h>
+      <object_id>172752</object_id>
+      <w>110</w>
+      <y>162</y>
+      <x>308</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two sandwiches sitting next to a little bowl of macaroni salad </caption>
+      <caption>The sandwiches and macaroni salad will be a hearty meal.</caption>
+      <caption>Sandwiches on rolls, pickle slices, and macaroni salad on a table.</caption>
+      <caption>The side dish of the meal consists of a macaroni salad.</caption>
+      <caption>The steak sandwich and salad with pickles is good for lunch</caption>
+    </captions>
+</image>

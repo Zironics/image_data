@@ -1,0 +1,104 @@
+<image>
+  <image-id>2339389</image-id>
+  <coco-id>551822</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4047716</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3168192</subject>
+      <object>3168194</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4047717</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2788509</subject>
+      <object>3168195</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638474</relationship_id>
+      <predicate>with</predicate>
+      <subject>2788509</subject>
+      <object>2788511</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638475</relationship_id>
+      <predicate>with</predicate>
+      <subject>2788509</subject>
+      <object>2788510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3638476</relationship_id>
+      <predicate>with</predicate>
+      <subject>2788509</subject>
+      <object>2788512</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glass</name>
+      <h>124</h>
+      <object_id>3168192</object_id>
+      <w>105</w>
+      <y>17</y>
+      <x>68</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark </attribute>
+      </attributes>
+      <name>liquid</name>
+      <h>70</h>
+      <object_id>3168194</object_id>
+      <w>95</w>
+      <y>69</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>glass</name>
+      <h>137</h>
+      <object_id>2788509</object_id>
+      <w>85</w>
+      <y>15</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>liquid</name>
+      <h>106</h>
+      <object_id>3168195</object_id>
+      <w>80</w>
+      <y>44</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>ice</name>
+      <h>23</h>
+      <object_id>2788511</object_id>
+      <w>24</w>
+      <y>85</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>ice</name>
+      <h>22</h>
+      <object_id>2788510</object_id>
+      <w>35</w>
+      <y>65</y>
+      <x>206</x>
+    </object>
+    <object>
+      <name>ice</name>
+      <h>30</h>
+      <object_id>2788512</object_id>
+      <w>24</w>
+      <y>76</y>
+      <x>177</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A sandwich and sauce on a white plate.</caption>
+      <caption>sandwich sitting on table next to two glasses </caption>
+      <caption>A picture of two halves of a sub with sauce and two drinks. </caption>
+      <caption>A white plate with a cut in half sandwich on top of it.</caption>
+      <caption>A french dip sandwich that is on a plate. </caption>
+    </captions>
+</image>

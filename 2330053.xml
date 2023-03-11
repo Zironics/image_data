@@ -1,0 +1,62 @@
+<image>
+  <image-id>2330053</image-id>
+  <coco-id>523484</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3997853</relationship_id>
+      <predicate>SLEEPING ON</predicate>
+      <subject>2846437</subject>
+      <object>2846438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261080</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2987098</subject>
+      <object>3795719</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>CALICO</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>64</h>
+      <object_id>2846437</object_id>
+      <w>139</w>
+      <y>252</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>210</h>
+      <object_id>2846438</object_id>
+      <w>191</w>
+      <y>163</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>40</h>
+      <object_id>2987098</object_id>
+      <w>57</w>
+      <y>2</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>calender</name>
+      <h>91</h>
+      <object_id>3795719</object_id>
+      <w>70</w>
+      <y>0</y>
+      <x>26</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Man sitting at table with two cats sitting near him. </caption>
+      <caption>an image of a man that is sitting in a chair next to a cat</caption>
+      <caption>A MAN IS WATCHING SOMETHING LEGS CROSS </caption>
+      <caption>A young man siting on a chair with a cat sleeping behind him.</caption>
+      <caption>A man and two cats lounging on chairs and a table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,132 @@
+<image>
+  <image-id>2393012</image-id>
+  <coco-id>118739</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3420618</relationship_id>
+      <predicate>are on top of</predicate>
+      <subject>1223690</subject>
+      <object>1223691</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3420619</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1223693</subject>
+      <object>1223691</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3420620</relationship_id>
+      <predicate>has</predicate>
+      <subject>1223691</subject>
+      <object>1223693</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3420621</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1223694</subject>
+      <object>1223691</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3420622</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1223691</subject>
+      <object>1223697</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3420623</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1223691</subject>
+      <object>1223701</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>sliced</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>vegetables</name>
+      <h>187</h>
+      <object_id>1223690</object_id>
+      <w>235</w>
+      <y>86</y>
+      <x>170</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>margherita</attribute>
+        <attribute>burnt</attribute>
+        <attribute>small</attribute>
+        <attribute>flatbread</attribute>
+        <attribute>topped</attribute>
+        <attribute>cooked</attribute>
+        <attribute>saucy</attribute>
+        <attribute>vegetarian</attribute>
+        <attribute>blackened</attribute>
+        <attribute>sliced</attribute>
+        <attribute>crusty</attribute>
+        <attribute>present</attribute>
+        <attribute>peppery</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>275</h>
+      <object_id>1223691</object_id>
+      <w>366</w>
+      <y>52</y>
+      <x>113</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>topping</attribute>
+        <attribute>melted</attribute>
+      </attributes>
+      <name>mozzarella</name>
+      <h>25</h>
+      <object_id>1223693</object_id>
+      <w>46</w>
+      <y>66</y>
+      <x>198</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>present</attribute>
+      </attributes>
+      <name>spinach leaf</name>
+      <h>35</h>
+      <object_id>1223694</object_id>
+      <w>73</w>
+      <y>175</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>crumpled</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>322</h>
+      <object_id>1223697</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>330</h>
+      <object_id>1223701</object_id>
+      <w>494</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a pizza with some slices taken out of it</caption>
+      <caption>A pizza on cardboard with one slice gone</caption>
+      <caption>A pizza with a slice missing on a white sheet in the sunlight.</caption>
+      <caption>The pizzas are sitting on plates on the white paper.</caption>
+      <caption>Large pizza pie with one slice missing on the table</caption>
+    </captions>
+</image>

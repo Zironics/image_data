@@ -1,0 +1,51 @@
+<image>
+  <image-id>2339715</image-id>
+  <coco-id>484978</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4457159</relationship_id>
+      <predicate>inside</predicate>
+      <subject>2394586</subject>
+      <object>3928667</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4041810</relationship_id>
+      <predicate>sitting at</predicate>
+      <subject>2394586</subject>
+      <object>2394587</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>208</h>
+      <object_id>2394586</object_id>
+      <w>195</w>
+      <y>49</y>
+      <x>63</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>kitchen</name>
+      <h>377</h>
+      <object_id>3928667</object_id>
+      <w>495</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>180</h>
+      <object_id>2394587</object_id>
+      <w>493</w>
+      <y>199</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A woman sitting at a table while eating food.</caption>
+      <caption>A woman sitting down holding a spoon and in her hand and eating.</caption>
+      <caption>A woman eating at her kitchen table </caption>
+      <caption>A woman has her picture taken while eating</caption>
+      <caption>A woman eating food at a table in a kitchen.</caption>
+    </captions>
+</image>

@@ -1,0 +1,106 @@
+<image>
+  <image-id>2330958</image-id>
+  <coco-id>403225</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4107771</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3398573</subject>
+      <object>3398574</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107772</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2922514</subject>
+      <object>2922515</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107773</relationship_id>
+      <predicate>leans to direct</predicate>
+      <subject>3398573</subject>
+      <object>3071157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107774</relationship_id>
+      <predicate>paralleling</predicate>
+      <subject>2773527</subject>
+      <object>3717987</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>windsurfing</attribute>
+      </attributes>
+      <name>dude</name>
+      <h>67</h>
+      <object_id>3398573</object_id>
+      <w>72</w>
+      <y>236</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>wetsuit</name>
+      <h>37</h>
+      <object_id>3398574</object_id>
+      <w>45</w>
+      <y>252</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big </attribute>
+        <attribute>leafy </attribute>
+      </attributes>
+      <name>tree</name>
+      <h>165</h>
+      <object_id>2922514</object_id>
+      <w>141</w>
+      <y>0</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>shore</name>
+      <h>171</h>
+      <object_id>2922515</object_id>
+      <w>497</w>
+      <y>47</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <name>sail</name>
+      <h>264</h>
+      <object_id>3071157</object_id>
+      <w>120</w>
+      <y>31</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>60</h>
+      <object_id>2773527</object_id>
+      <w>475</w>
+      <y>166</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>shoreline</name>
+      <h>15</h>
+      <object_id>3717987</object_id>
+      <w>484</w>
+      <y>204</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on a body of water windsurfing.</caption>
+      <caption>A person riding a windsail on a large body of water.</caption>
+      <caption>A person that is in the water having some fun.</caption>
+      <caption>A windsurfer that is surfing on slightly choppy waters.</caption>
+      <caption>A wind surfer is holding on tight against the choppy water.</caption>
+    </captions>
+</image>

@@ -1,0 +1,142 @@
+<image>
+  <image-id>2398353</image-id>
+  <coco-id>318820</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4689539</relationship_id>
+      <predicate>are on top of</predicate>
+      <subject>4320188</subject>
+      <object>4320189</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689540</relationship_id>
+      <predicate>has</predicate>
+      <subject>4320196</subject>
+      <object>4320194</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689541</relationship_id>
+      <predicate>has</predicate>
+      <subject>4320196</subject>
+      <object>4320194</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689542</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4320196</subject>
+      <object>4320198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689543</relationship_id>
+      <predicate>have</predicate>
+      <subject>4320198</subject>
+      <object>4320199</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689544</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4320196</subject>
+      <object>4320201</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4689545</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4320203</subject>
+      <object>4320202</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>peppers</name>
+      <h>34</h>
+      <object_id>4320188</object_id>
+      <w>34</w>
+      <y>174</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>46</h>
+      <object_id>4320189</object_id>
+      <w>72</w>
+      <y>164</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>499</h>
+      <object_id>4320196</object_id>
+      <w>372</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short </attribute>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>hair</name>
+      <h>109</h>
+      <object_id>4320194</object_id>
+      <w>150</w>
+      <y>0</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>129</h>
+      <object_id>4320198</object_id>
+      <w>230</w>
+      <y>313</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>tag</name>
+      <h>44</h>
+      <object_id>4320199</object_id>
+      <w>57</w>
+      <y>319</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>324</h>
+      <object_id>4320201</object_id>
+      <w>372</w>
+      <y>171</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>41</h>
+      <object_id>4320203</object_id>
+      <w>22</w>
+      <y>139</y>
+      <x>286</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>32</h>
+      <object_id>4320202</object_id>
+      <w>19</w>
+      <y>148</y>
+      <x>290</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man is holding a couple of bananas</caption>
+      <caption>At a grocer's produce department, a young man poses with a bunch of small bananas.</caption>
+      <caption>A man is holding a bunch of banana's</caption>
+      <caption>a close up of a person holding a bunch of small bananas </caption>
+      <caption>A man holding up a bunch of fingerling bananas.</caption>
+    </captions>
+</image>

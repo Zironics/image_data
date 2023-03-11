@@ -1,0 +1,71 @@
+<image>
+  <image-id>2331262</image-id>
+  <coco-id>421476</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3959283</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3144660</subject>
+      <object>3093093</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3959284</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3144660</subject>
+      <object>3093094</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4007173</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3144659</subject>
+      <object>3144660</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plate</name>
+      <h>227</h>
+      <object_id>3144660</object_id>
+      <w>410</w>
+      <y>70</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surface</name>
+      <h>98</h>
+      <object_id>3093093</object_id>
+      <w>460</w>
+      <y>8</y>
+      <x>36</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surface</name>
+      <h>195</h>
+      <object_id>3093094</object_id>
+      <w>62</w>
+      <y>87</y>
+      <x>424</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>180</h>
+      <object_id>3144659</object_id>
+      <w>221</w>
+      <y>28</y>
+      <x>136</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sandwich with mushrooms and other toppings on a plate.</caption>
+      <caption>A white plate topped with a veggie filled sandwich.</caption>
+      <caption>a loaded sandwich is sitting on a white plate</caption>
+      <caption>a sandwich with a bunch of mushrooms on a plate</caption>
+      <caption>A plate with a big sandwhich on it and other food items</caption>
+    </captions>
+</image>

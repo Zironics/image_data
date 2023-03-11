@@ -1,0 +1,76 @@
+<image>
+  <image-id>2338482</image-id>
+  <coco-id>327572</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4798274</relationship_id>
+      <predicate>on</predicate>
+      <subject>4594378</subject>
+      <object>4594379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798276</relationship_id>
+      <predicate>on</predicate>
+      <subject>4594382</subject>
+      <object>4594379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4798278</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4594388</subject>
+      <object>4594389</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>headlight</name>
+      <h>56</h>
+      <object_id>4594378</object_id>
+      <w>52</w>
+      <y>104</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>320</h>
+      <object_id>4594379</object_id>
+      <w>418</w>
+      <y>6</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>96</h>
+      <object_id>4594382</object_id>
+      <w>72</w>
+      <y>146</y>
+      <x>348</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>man</name>
+      <h>140</h>
+      <object_id>4594388</object_id>
+      <w>60</w>
+      <y>1</y>
+      <x>300</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>80</h>
+      <object_id>4594389</object_id>
+      <w>53</w>
+      <y>20</y>
+      <x>306</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A parked motorcycle next to a crowd of people.</caption>
+      <caption>A nice motorcycle on a show room floor</caption>
+      <caption>People are looking at some motorcycles on display.</caption>
+      <caption>A Harley Davidson motorcycle is on display and people are milling about.</caption>
+      <caption>A motorcycle on display in a room with a lot of people.</caption>
+    </captions>
+</image>

@@ -1,0 +1,93 @@
+<image>
+  <image-id>2321141</image-id>
+  <coco-id>92462</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3816184</relationship_id>
+      <predicate>with</predicate>
+      <subject>3321460</subject>
+      <object>3321461</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3921412</relationship_id>
+      <predicate>has a</predicate>
+      <subject>3398191</subject>
+      <object>3398192</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3816190</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3093532</subject>
+      <object>3093533</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>spots</attribute>
+      </attributes>
+      <name>bull</name>
+      <h>214</h>
+      <object_id>3321460</object_id>
+      <w>203</w>
+      <y>149</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>spots</name>
+      <h>56</h>
+      <object_id>3321461</object_id>
+      <w>115</w>
+      <y>174</y>
+      <x>43</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark brown</attribute>
+      </attributes>
+      <name>bull</name>
+      <h>137</h>
+      <object_id>3398191</object_id>
+      <w>90</w>
+      <y>155</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>horn</name>
+      <h>12</h>
+      <object_id>3398192</object_id>
+      <w>10</w>
+      <y>157</y>
+      <x>283</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>compact</attribute>
+      </attributes>
+      <name>car</name>
+      <h>134</h>
+      <object_id>3093532</object_id>
+      <w>194</w>
+      <y>110</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>bulls</name>
+      <h>187</h>
+      <object_id>3093533</object_id>
+      <w>129</w>
+      <y>132</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of cows walking down the street.</caption>
+      <caption>A line of cattle moving down a dirt road while a car drives by in the opposite direction.</caption>
+      <caption>A line of steer walking through a street.</caption>
+      <caption>A heard of cattle are traveling together down the road. </caption>
+      <caption>Livestock walking near side of marked road in urban setting.</caption>
+    </captions>
+</image>

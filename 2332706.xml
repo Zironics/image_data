@@ -1,0 +1,116 @@
+<image>
+  <image-id>2332706</image-id>
+  <coco-id>296322</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3727412</relationship_id>
+      <predicate>have</predicate>
+      <subject>3495338</subject>
+      <object>3563639</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3668585</relationship_id>
+      <predicate>among</predicate>
+      <subject>2966925</subject>
+      <object>2966927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3668586</relationship_id>
+      <predicate>among</predicate>
+      <subject>2966926</subject>
+      <object>2966927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3742631</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2703832</subject>
+      <object>3447376</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3727427</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2703832</subject>
+      <object>3447376</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>grapes</name>
+      <h>112</h>
+      <object_id>3495338</object_id>
+      <w>193</w>
+      <y>166</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>marks</name>
+      <h>31</h>
+      <object_id>3563639</object_id>
+      <w>49</w>
+      <y>179</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>grape stem</name>
+      <h>143</h>
+      <object_id>2966925</object_id>
+      <w>68</w>
+      <y>217</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>grapes</name>
+      <h>281</h>
+      <object_id>2966927</object_id>
+      <w>331</w>
+      <y>167</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>grape stem</name>
+      <h>63</h>
+      <object_id>2966926</object_id>
+      <w>82</w>
+      <y>258</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>63</h>
+      <object_id>2703832</object_id>
+      <w>70</w>
+      <y>166</y>
+      <x>29</x>
+      <name>grape</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>plastic bag</name>
+      <h>256</h>
+      <object_id>3447376</object_id>
+      <w>316</w>
+      <y>210</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an image of grapes and bananas in a close up</caption>
+      <caption>A pile of cherries sitting next to a bunch of bananas.</caption>
+      <caption>a bushel of bananas next to a plastic bag of fruit.</caption>
+      <caption>A bunch of grapes near a bunch of bananas</caption>
+      <caption>a close up of a bag of cherries and a bunch of bananas</caption>
+    </captions>
+</image>

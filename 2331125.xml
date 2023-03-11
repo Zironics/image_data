@@ -1,0 +1,96 @@
+<image>
+  <image-id>2331125</image-id>
+  <coco-id>308509</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4710464</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4369408</subject>
+      <object>4369409</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746116</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4456126</subject>
+      <object>4456127</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4746182</relationship_id>
+      <predicate>has</predicate>
+      <subject>4659256</subject>
+      <object>4456303</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828527</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4659256</subject>
+      <object>4456127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>Grey</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>232</h>
+      <object_id>4369408</object_id>
+      <w>62</w>
+      <y>256</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>tie</name>
+      <h>274</h>
+      <object_id>4369409</object_id>
+      <w>83</w>
+      <y>207</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> Grey </attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>29</h>
+      <object_id>4456126</object_id>
+      <w>17</w>
+      <y>228</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>tie</name>
+      <h>297</h>
+      <object_id>4456127</object_id>
+      <w>77</w>
+      <y>201</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue shirt</attribute>
+      </attributes>
+      <h>472</h>
+      <object_id>4659256</object_id>
+      <w>282</w>
+      <y>28</y>
+      <x>66</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>283</h>
+      <object_id>4456303</object_id>
+      <w>76</w>
+      <y>215</y>
+      <x>277</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in an office in a shirt and tie smiles at the camera.</caption>
+      <caption>A man with a tie and a work badge </caption>
+      <caption>Smiling male doctor with a pager, stethoscope, and identification badge.</caption>
+      <caption>A young doctor posing in his office for a photo.</caption>
+      <caption>A man is smiling he has a stethoscope hanging off his shoulder.</caption>
+    </captions>
+</image>

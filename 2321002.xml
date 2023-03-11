@@ -1,0 +1,58 @@
+<image>
+  <image-id>2321002</image-id>
+  <coco-id>493136</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3985010</relationship_id>
+      <predicate>above</predicate>
+      <subject>2882398</subject>
+      <object>3256774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4024344</relationship_id>
+      <predicate>under</predicate>
+      <subject>3256769</subject>
+      <object>3256774</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>above</attribute>
+      </attributes>
+      <name>striped awning</name>
+      <h>117</h>
+      <object_id>2882398</object_id>
+      <w>243</w>
+      <y>0</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>opened</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>137</h>
+      <object_id>3256774</object_id>
+      <w>197</w>
+      <y>186</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>object</name>
+      <h>35</h>
+      <object_id>3256769</object_id>
+      <w>19</w>
+      <y>411</y>
+      <x>145</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A grey umbrella stuck on wall outside of hallway.</caption>
+      <caption>A dark alley with an umbrella in it.</caption>
+      <caption>an open umbrella with power lines above in the dark</caption>
+      <caption>An umbrella hands in an alleyway in front of a brick building.</caption>
+      <caption>an image of a man that is holding an umbrella</caption>
+    </captions>
+</image>

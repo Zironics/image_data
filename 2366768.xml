@@ -1,0 +1,98 @@
+<image>
+  <image-id>2366768</image-id>
+  <coco-id>15690</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4366589</relationship_id>
+      <predicate>behind a</predicate>
+      <subject>2639266</subject>
+      <object>1688444</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4366590</relationship_id>
+      <predicate>around</predicate>
+      <subject>1883939</subject>
+      <object>1883940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4366591</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2164084</subject>
+      <object>1688443</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>dead</attribute>
+      </attributes>
+      <name>branch</name>
+      <h>74</h>
+      <object_id>2639266</object_id>
+      <w>68</w>
+      <y>0</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>right-side</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>205</h>
+      <object_id>1688444</object_id>
+      <w>197</w>
+      <y>61</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>murkey</attribute>
+      </attributes>
+      <name>water</name>
+      <h>50</h>
+      <object_id>1883939</object_id>
+      <w>419</w>
+      <y>273</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>elephants</name>
+      <h>127</h>
+      <object_id>1883940</object_id>
+      <w>375</w>
+      <y>76</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>giant</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>101</h>
+      <object_id>2164084</object_id>
+      <w>86</w>
+      <y>59</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>left-side</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>222</h>
+      <object_id>1688443</object_id>
+      <w>197</w>
+      <y>53</y>
+      <x>16</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of elephants standing next to each other.</caption>
+      <caption>Two elephants with tusks wade in the shallow water.</caption>
+      <caption>A couple of large elephants in the water.</caption>
+      <caption>Two elephants that are walking in some water.</caption>
+      <caption>Two elephants drink water out of a body of water</caption>
+    </captions>
+</image>

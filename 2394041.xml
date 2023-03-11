@@ -1,0 +1,84 @@
+<image>
+  <image-id>2394041</image-id>
+  <coco-id>88675</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1050021</relationship_id>
+      <predicate>IN</predicate>
+      <subject>467565</subject>
+      <object>467568</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1050022</relationship_id>
+      <predicate>IN</predicate>
+      <subject>467566</subject>
+      <object>467568</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1050023</relationship_id>
+      <predicate>has</predicate>
+      <subject>467563</subject>
+      <object>467567</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>log</name>
+      <h>51</h>
+      <object_id>467565</object_id>
+      <w>57</w>
+      <y>159</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>running</attribute>
+      </attributes>
+      <h>268</h>
+      <object_id>467568</object_id>
+      <w>358</w>
+      <y>119</y>
+      <x>0</x>
+      <name>river</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>rocks</name>
+      <h>37</h>
+      <object_id>467566</object_id>
+      <w>38</w>
+      <y>147</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>rusty</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>hydrant</name>
+      <h>249</h>
+      <object_id>467563</object_id>
+      <w>171</w>
+      <y>181</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>bolts</name>
+      <h>74</h>
+      <object_id>467567</object_id>
+      <w>84</w>
+      <y>129</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pipe is drawing water from the stream.</caption>
+      <caption>close up of a red fire hydrant near a river</caption>
+      <caption>A red fire hydrant in a woodland setting.</caption>
+      <caption>a red fire hydrant sitting outside of a water system</caption>
+      <caption>A close of up a red fire hydrant with a creek in the background.</caption>
+    </captions>
+</image>

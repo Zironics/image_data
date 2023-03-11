@@ -1,0 +1,137 @@
+<image>
+  <image-id>2332096</image-id>
+  <coco-id>27149</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4657578</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4238929</subject>
+      <object>4651646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821929</relationship_id>
+      <predicate>on</predicate>
+      <subject>4651636</subject>
+      <object>4651637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821930</relationship_id>
+      <predicate>on</predicate>
+      <subject>4651638</subject>
+      <object>4651639</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821931</relationship_id>
+      <predicate>on</predicate>
+      <subject>4651640</subject>
+      <object>4651641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821932</relationship_id>
+      <predicate>playing video games on</predicate>
+      <subject>4651646</subject>
+      <object>4651647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821933</relationship_id>
+      <predicate>playing video games on</predicate>
+      <subject>4651648</subject>
+      <object>4651640</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ear</name>
+      <h>21</h>
+      <object_id>4238929</object_id>
+      <w>15</w>
+      <y>62</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>playing video games</attribute>
+      </attributes>
+      <h>332</h>
+      <object_id>4651646</object_id>
+      <w>225</w>
+      <y>42</y>
+      <x>21</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>dog bed</name>
+      <h>136</h>
+      <object_id>4651636</object_id>
+      <w>196</w>
+      <y>235</y>
+      <x>134</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>275</h>
+      <object_id>4651637</object_id>
+      <w>475</w>
+      <y>85</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>103</h>
+      <object_id>4651638</object_id>
+      <w>92</w>
+      <y>27</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>223</h>
+      <object_id>4651639</object_id>
+      <w>491</w>
+      <y>0</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>tv</name>
+      <h>204</h>
+      <object_id>4651640</object_id>
+      <w>140</w>
+      <y>109</y>
+      <x>357</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>152</h>
+      <object_id>4651641</object_id>
+      <w>132</w>
+      <y>210</y>
+      <x>366</x>
+    </object>
+    <object>
+      <name>television</name>
+      <h>261</h>
+      <object_id>4651647</object_id>
+      <w>199</w>
+      <y>76</y>
+      <x>299</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>playing video games</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>299</h>
+      <object_id>4651648</object_id>
+      <w>263</w>
+      <y>74</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people playing a WII video game on T.V. in their living room.</caption>
+      <caption>Two people playing a game with Nintendo Wii controllers.</caption>
+      <caption>Two people are playing video games on a tv</caption>
+      <caption>Two persons watching video games on television in a room.</caption>
+      <caption>A couple of people holding Nintendo Wii game controllers.</caption>
+    </captions>
+</image>

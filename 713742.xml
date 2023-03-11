@@ -1,0 +1,37 @@
+<image>
+  <image-id>713742</image-id>
+  <coco-id>241076</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4250514</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1588482</subject>
+      <object>1588483</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>114</h>
+      <object_id>1588482</object_id>
+      <w>65</w>
+      <y>428</y>
+      <x>815</x>
+    </object>
+    <object>
+      <name>shorts</name>
+      <h>21</h>
+      <object_id>1588483</object_id>
+      <w>57</w>
+      <y>477</y>
+      <x>811</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bus traveling down the street, with a man on a bike besides him.</caption>
+      <caption>A bus with an ad on the back is seen on the street.</caption>
+      <caption>A bus driving down a street past a man riding a bike.</caption>
+      <caption>A city bus has an ad on it while going down the street</caption>
+      <caption>a green and white bus is driving down the street</caption>
+    </captions>
+</image>

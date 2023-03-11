@@ -1,0 +1,91 @@
+<image>
+  <image-id>2406662</image-id>
+  <coco-id>312051</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3232193</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1100785</subject>
+      <object>1100786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3232194</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1100785</subject>
+      <object>1100786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3232195</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1100785</subject>
+      <object>1100786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3232199</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1100785</subject>
+      <object>1100786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>687453</relationship_id>
+      <predicate>IN</predicate>
+      <subject>368377</subject>
+      <object>368379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>687452</relationship_id>
+      <predicate>for</predicate>
+      <subject>368377</subject>
+      <object>368378</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>41</h>
+      <object_id>1100785</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>41</h>
+      <object_id>1100786</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>185</h>
+      <object_id>368377</object_id>
+      <w>259</w>
+      <y>117</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>ring</name>
+      <h>51</h>
+      <object_id>368379</object_id>
+      <w>152</w>
+      <y>246</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>circus</name>
+      <h>129</h>
+      <object_id>368378</object_id>
+      <w>147</w>
+      <y>167</y>
+      <x>9</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person and a large elephant standing together.</caption>
+      <caption>A man standing on top of an elephant.</caption>
+      <caption>An elephant in an arena with two men at task.</caption>
+      <caption>An elephant is walking in a ring with trainers.</caption>
+      <caption>A man attempting to put a rug across an elephant.</caption>
+    </captions>
+</image>

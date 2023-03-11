@@ -1,0 +1,156 @@
+<image>
+  <image-id>2347757</image-id>
+  <coco-id>346412</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3834913</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>1695252</subject>
+      <object>3609340</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834914</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>1708195</subject>
+      <object>3609340</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834915</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>1708196</subject>
+      <object>3609340</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834916</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>1708197</subject>
+      <object>3609340</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834917</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>1708196</subject>
+      <object>1657844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834918</relationship_id>
+      <predicate>laying in</predicate>
+      <subject>1695252</subject>
+      <object>2360500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4422877</relationship_id>
+      <predicate>across</predicate>
+      <subject>1713808</subject>
+      <object>1713809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4422878</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1667689</subject>
+      <object>3609346</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>grassy</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>139</h>
+      <object_id>1695252</object_id>
+      <w>252</w>
+      <y>164</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>199</h>
+      <object_id>3609340</object_id>
+      <w>420</w>
+      <y>112</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>62</h>
+      <object_id>1708195</object_id>
+      <w>78</w>
+      <y>128</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>47</h>
+      <object_id>1708196</object_id>
+      <w>80</w>
+      <y>128</y>
+      <x>53</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>29</h>
+      <object_id>1708197</object_id>
+      <w>43</w>
+      <y>124</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>35</h>
+      <object_id>1657844</object_id>
+      <w>87</w>
+      <y>162</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>42</h>
+      <object_id>2360500</object_id>
+      <w>55</w>
+      <y>145</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>22</h>
+      <object_id>1713808</object_id>
+      <w>494</w>
+      <y>105</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>267</h>
+      <object_id>1713809</object_id>
+      <w>497</w>
+      <y>107</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>30</h>
+      <object_id>1667689</object_id>
+      <w>87</w>
+      <y>74</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>224</h>
+      <object_id>3609346</object_id>
+      <w>498</w>
+      <y>148</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A filed full of cattle laying on lush green grass.</caption>
+      <caption>several cows are laying down in a field</caption>
+      <caption>A field with cows laying on grass, with fence and trees.</caption>
+      <caption>Some large cows lying down in a field of grass.</caption>
+      <caption>Several cows laying on grass inside a barbed wire fence.</caption>
+    </captions>
+</image>

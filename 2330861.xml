@@ -1,0 +1,59 @@
+<image>
+  <image-id>2330861</image-id>
+  <coco-id>232433</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4006365</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3331446</subject>
+      <object>3331447</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4010124</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3066162</subject>
+      <object>3078517</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>handkerchief</name>
+      <h>37</h>
+      <object_id>3331446</object_id>
+      <w>71</w>
+      <y>461</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>jacket pocket</name>
+      <h>5</h>
+      <object_id>3331447</object_id>
+      <w>77</w>
+      <y>493</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>brown eye</name>
+      <h>11</h>
+      <object_id>3066162</object_id>
+      <w>16</w>
+      <y>158</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>486</h>
+      <object_id>3078517</object_id>
+      <w>357</w>
+      <y>11</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a portrait photograph of a man in a suit and tie </caption>
+      <caption>A headshot of a man with a mustache. </caption>
+      <caption>A man with a mustache with slicked hair.</caption>
+      <caption>A man wearing a blue business suit with  a mustache.</caption>
+      <caption>Portrait of a man in a hlue suit and tie.</caption>
+    </captions>
+</image>

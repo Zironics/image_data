@@ -1,0 +1,104 @@
+<image>
+  <image-id>2374413</image-id>
+  <coco-id>308974</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4779112</relationship_id>
+      <predicate>with</predicate>
+      <subject>4545704</subject>
+      <object>4545705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4779113</relationship_id>
+      <predicate>with</predicate>
+      <subject>4545707</subject>
+      <object>4279083</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4779114</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4545707</subject>
+      <object>4545712</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4673483</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4279083</subject>
+      <object>4545707</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4673484</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4279084</subject>
+      <object>4279085</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>kite</name>
+      <h>38</h>
+      <object_id>4545704</object_id>
+      <w>23</w>
+      <y>86</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>44</h>
+      <object_id>4545705</object_id>
+      <w>155</w>
+      <y>56</y>
+      <x>327</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>40</h>
+      <object_id>4545707</object_id>
+      <w>27</w>
+      <y>82</y>
+      <x>310</x>
+    </object>
+    <object>
+      <h>52</h>
+      <object_id>4279083</object_id>
+      <w>161</w>
+      <y>54</y>
+      <x>321</x>
+      <name>tail</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>309</h>
+      <object_id>4545712</object_id>
+      <w>473</w>
+      <y>2</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>string</name>
+      <h>191</h>
+      <object_id>4279084</object_id>
+      <w>310</w>
+      <y>113</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>kite</name>
+      <h>48</h>
+      <object_id>4279085</object_id>
+      <w>40</w>
+      <y>81</y>
+      <x>303</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kite flying above in a crystal clear blue sky.</caption>
+      <caption>There is one kite flying high in the sky.</caption>
+      <caption>a white airplane and a red blue and black kite </caption>
+      <caption>A brightly colored kits is flying through a clear sky.</caption>
+      <caption>A lone kite flying in the blue sky.</caption>
+    </captions>
+</image>

@@ -1,0 +1,70 @@
+<image>
+  <image-id>2334422</image-id>
+  <coco-id>383372</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4002144</relationship_id>
+      <predicate>with</predicate>
+      <subject>3138267</subject>
+      <object>3266711</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4453414</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3138267</subject>
+      <object>3926544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4152296</relationship_id>
+      <predicate>playing on</predicate>
+      <subject>3138267</subject>
+      <object>3734770</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>255</h>
+      <object_id>3138267</object_id>
+      <w>258</w>
+      <y>40</y>
+      <x>152</x>
+      <name>dog</name>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>68</h>
+      <object_id>3266711</object_id>
+      <w>50</w>
+      <y>38</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>203</h>
+      <object_id>3926544</object_id>
+      <w>490</w>
+      <y>126</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>200</h>
+      <object_id>3734770</object_id>
+      <w>492</w>
+      <y>131</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A german shepard dog wearing a bandana catching a frisbee.</caption>
+      <caption>A dog standing on top of a grass covered field.</caption>
+      <caption>A dog is about to catch a Frisbee in its mouth.</caption>
+      <caption>a dog going for a frisby with a house and vehicles in the background</caption>
+      <caption>A dog wearing a bandana, catching a Frisbee.</caption>
+    </captions>
+</image>

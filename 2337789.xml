@@ -1,0 +1,84 @@
+<image>
+  <image-id>2337789</image-id>
+  <coco-id>166509</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4461347</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3172559</subject>
+      <object>3931017</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4072822</relationship_id>
+      <predicate>over</predicate>
+      <subject>2496014</subject>
+      <object>2496015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4461348</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3127517</subject>
+      <object>3127518</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sticker</name>
+      <h>34</h>
+      <object_id>3172559</object_id>
+      <w>110</w>
+      <y>292</y>
+      <x>354</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>332</h>
+      <object_id>3931017</object_id>
+      <w>486</w>
+      <y>8</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+      </attributes>
+      <name>traffic light</name>
+      <h>32</h>
+      <object_id>2496014</object_id>
+      <w>23</w>
+      <y>40</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>85</h>
+      <object_id>2496015</object_id>
+      <w>241</w>
+      <y>235</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>89</h>
+      <object_id>3127517</object_id>
+      <w>161</w>
+      <y>234</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>105</h>
+      <object_id>3127518</object_id>
+      <w>281</w>
+      <y>231</y>
+      <x>26</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A traffic light sitting on the side of a road next to a tree.</caption>
+      <caption>A country road at a traffic light in the sun.</caption>
+      <caption>a road with some trees on both sides of it </caption>
+      <caption>A stop light on a road in the middle of a forest.</caption>
+      <caption>A road in the middle of a beautiful green forest</caption>
+    </captions>
+</image>

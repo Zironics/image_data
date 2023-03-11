@@ -1,0 +1,79 @@
+<image>
+  <image-id>2334693</image-id>
+  <coco-id>12803</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4452848</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3025828</subject>
+      <object>3025829</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3905092</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3217892</subject>
+      <object>3638673</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3905098</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2603030</subject>
+      <object>3638673</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>egg</name>
+      <h>147</h>
+      <object_id>3025828</object_id>
+      <w>164</w>
+      <y>91</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>bread</name>
+      <h>148</h>
+      <object_id>3025829</object_id>
+      <w>202</w>
+      <y>98</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>alot of</attribute>
+      </attributes>
+      <name>food</name>
+      <h>328</h>
+      <object_id>3217892</object_id>
+      <w>367</w>
+      <y>34</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>360</h>
+      <object_id>3638673</object_id>
+      <w>480</w>
+      <y>9</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>cooked meat</name>
+      <h>120</h>
+      <object_id>2603030</object_id>
+      <w>121</w>
+      <y>30</y>
+      <x>117</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is meat, broccoli, carrots, and bread on the plate.</caption>
+      <caption>there are many different foods on a white plate</caption>
+      <caption>Sample plate of mushrooms, crab cake, pork, and shrimp.</caption>
+      <caption>A white plate full of food sitting at a table. </caption>
+      <caption>A plate of food including meat, veggies, and grains.</caption>
+    </captions>
+</image>

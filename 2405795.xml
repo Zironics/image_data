@@ -1,0 +1,99 @@
+<image>
+  <image-id>2405795</image-id>
+  <coco-id>435279</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>705067</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>371977</subject>
+      <object>371979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>705068</relationship_id>
+      <predicate>has a</predicate>
+      <subject>371979</subject>
+      <object>371980</object>
+    </relationship>
+    <relationship>
+      <relationship_id>705069</relationship_id>
+      <predicate>ON</predicate>
+      <subject>371982</subject>
+      <object>371978</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+        <attribute>large</attribute>
+        <attribute>black tipped</attribute>
+        <attribute>bunch</attribute>
+        <attribute>unripe</attribute>
+        <attribute>ripe</attribute>
+        <attribute>a bunch</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>42</h>
+      <object_id>371977</object_id>
+      <w>53</w>
+      <y>135</y>
+      <x>126</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>red</attribute>
+        <attribute>metal</attribute>
+        <attribute>up</attribute>
+      </attributes>
+      <name>pipe</name>
+      <h>24</h>
+      <object_id>371979</object_id>
+      <w>332</w>
+      <y>9</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>joint</name>
+      <h>28</h>
+      <object_id>371980</object_id>
+      <w>40</w>
+      <y>4</y>
+      <x>88</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>rope</name>
+      <h>128</h>
+      <object_id>371982</object_id>
+      <w>32</w>
+      <y>38</y>
+      <x>83</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thin</attribute>
+        <attribute>metal</attribute>
+        <attribute>numerous</attribute>
+        <attribute>brown</attribute>
+        <attribute>hanging</attribute>
+      </attributes>
+      <name>hook</name>
+      <h>80</h>
+      <object_id>371978</object_id>
+      <w>28</w>
+      <y>25</y>
+      <x>253</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A ripe bundle of bananas hanging next to an unripe bundle of bananas.</caption>
+      <caption>a bunch of bananas hanging from the ceiling</caption>
+      <caption>Two bunches of fresh bananas hanging from hooks.</caption>
+      <caption>A very large group of green bananas and semi-ripe bananas.</caption>
+      <caption>Many bunches of bananas hanging in a market.</caption>
+    </captions>
+</image>

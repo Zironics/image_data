@@ -1,0 +1,73 @@
+<image>
+  <image-id>2319173</image-id>
+  <coco-id>162156</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4079703</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3708368</subject>
+      <object>3708369</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3860617</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3511529</subject>
+      <object>3511530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840689</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2839575</subject>
+      <object>2839575</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lamp</name>
+      <h>58</h>
+      <object_id>3708368</object_id>
+      <w>19</w>
+      <y>273</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>20</h>
+      <object_id>3708369</object_id>
+      <w>51</w>
+      <y>317</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>pillow</name>
+      <h>62</h>
+      <object_id>3511529</object_id>
+      <w>85</w>
+      <y>322</y>
+      <x>159</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>151</h>
+      <object_id>3511530</object_id>
+      <w>427</w>
+      <y>345</y>
+      <x>34</x>
+    </object>
+    <object>
+      <h>202</h>
+      <object_id>2839575</object_id>
+      <w>78</w>
+      <y>112</y>
+      <x>216</x>
+      <name>bathroom</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A narrow white room with a white mattress on the floor.</caption>
+      <caption>It's a high-tech master bed and bath at a hotel.</caption>
+      <caption>A bedroom and bathroom with various furniture and a mirror.</caption>
+      <caption>A room where all of the furniture is white except for a red chair.</caption>
+      <caption>A room with a large white bed and a flat screen TV.</caption>
+    </captions>
+</image>

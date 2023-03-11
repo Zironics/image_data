@@ -1,0 +1,54 @@
+<image>
+  <image-id>2330485</image-id>
+  <coco-id>516535</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4827049</relationship_id>
+      <predicate>on</predicate>
+      <subject>4664682</subject>
+      <object>4664683</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4827050</relationship_id>
+      <predicate>in</predicate>
+      <subject>4664683</subject>
+      <object>4664684</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>towel</name>
+      <h>25</h>
+      <object_id>4664682</object_id>
+      <w>61</w>
+      <y>309</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>25</h>
+      <object_id>4664683</object_id>
+      <w>135</w>
+      <y>326</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>54</h>
+      <object_id>4664684</object_id>
+      <w>72</w>
+      <y>302</y>
+      <x>347</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A recreational area sits on a beach by the ocean.</caption>
+      <caption>A lawn chair sitting on top of a beach covered by an umbrella.</caption>
+      <caption>A sun umbrella and chaise lounge chairs on a beach</caption>
+      <caption>The blue and white umbrella is on the beach underneath chairs. </caption>
+      <caption>A seat on the beach with umbrellas for the shade.</caption>
+    </captions>
+</image>

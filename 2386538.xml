@@ -1,0 +1,104 @@
+<image>
+  <image-id>2386538</image-id>
+  <coco-id>542200</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1798531</relationship_id>
+      <predicate>ON</predicate>
+      <subject>681646</subject>
+      <object>681647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1798532</relationship_id>
+      <predicate>inside</predicate>
+      <subject>681646</subject>
+      <object>681658</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1798533</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>681662</subject>
+      <object>681647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1798534</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>681649</subject>
+      <object>681663</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1798535</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>681662</subject>
+      <object>681647</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>40</h>
+      <object_id>681646</object_id>
+      <w>42</w>
+      <y>131</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>304</h>
+      <object_id>681647</object_id>
+      <w>412</w>
+      <y>191</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing gloves</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>22</h>
+      <object_id>681658</object_id>
+      <w>51</w>
+      <y>122</y>
+      <x>334</x>
+    </object>
+    <object>
+      <name>ball</name>
+      <h>33</h>
+      <object_id>681662</object_id>
+      <w>47</w>
+      <y>300</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>nike</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>7</h>
+      <object_id>681649</object_id>
+      <w>8</w>
+      <y>144</y>
+      <x>193</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>69</h>
+      <object_id>681663</object_id>
+      <w>94</w>
+      <y>119</y>
+      <x>166</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Individuals are up and doing something fun today. 
+</caption>
+      <caption>Two men are playing soccer on a soccer field. </caption>
+      <caption>The men are playing soccer on the field.</caption>
+      <caption>A man jumping into the air to catch a ball.</caption>
+      <caption>A man jumps to grab a soccer ball in a match</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2368241</image-id>
+  <coco-id>41478</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4350538</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2374195</subject>
+      <object>2374196</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4350539</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1712917</subject>
+      <object>3870141</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sink</name>
+      <h>63</h>
+      <object_id>2374195</object_id>
+      <w>158</w>
+      <y>107</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>collard greens</name>
+      <h>297</h>
+      <object_id>2374196</object_id>
+      <w>289</w>
+      <y>166</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Chopped</attribute>
+      </attributes>
+      <name>collard greens</name>
+      <h>314</h>
+      <object_id>1712917</object_id>
+      <w>322</w>
+      <y>163</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>347</h>
+      <object_id>3870141</object_id>
+      <w>329</w>
+      <y>150</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a person cutting plants </caption>
+      <caption>A person cuts green leaves into smaller pieces with scissors.</caption>
+      <caption>a persons hands are next to some green leaves</caption>
+      <caption>Person taking green vegetables over sink and clean them. </caption>
+      <caption>There is green vegetable chopped up on a table</caption>
+    </captions>
+</image>

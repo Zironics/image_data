@@ -1,0 +1,37 @@
+<image>
+  <image-id>2315997</image-id>
+  <coco-id>263727</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4252724</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2727967</subject>
+      <object>2727968</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hands</name>
+      <h>78</h>
+      <object_id>2727967</object_id>
+      <w>27</w>
+      <y>300</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>117</h>
+      <object_id>2727968</object_id>
+      <w>124</w>
+      <y>252</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clock tower with a variety of lights on top of it. </caption>
+      <caption>a clock tower doubles as a traffic light</caption>
+      <caption>The green clock tower stands next to the tall building.</caption>
+      <caption>A large green clock tower with two clocks.</caption>
+      <caption>A close-up of a green tower with the clock.</caption>
+    </captions>
+</image>

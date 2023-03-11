@@ -1,0 +1,59 @@
+<image>
+  <image-id>2346945</image-id>
+  <coco-id>359164</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3845433</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2523194</subject>
+      <object>2523195</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3845434</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3614157</subject>
+      <object>2432123</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>10</h>
+      <object_id>2523194</object_id>
+      <w>10</w>
+      <y>215</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>133</h>
+      <object_id>2523195</object_id>
+      <w>95</w>
+      <y>112</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>40</h>
+      <object_id>3614157</object_id>
+      <w>41</w>
+      <y>168</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>113</h>
+      <object_id>2432123</object_id>
+      <w>142</w>
+      <y>142</y>
+      <x>328</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of dogs walking next to a couple of chairs.</caption>
+      <caption>Two small dogs are playing under a table.</caption>
+      <caption>A brown dog crouches by a black bag as a gray and brown dog is under a black chair.</caption>
+      <caption>Two dogs playing near some chairs and a table outside.</caption>
+      <caption>two puppies play outside in the grass under a table</caption>
+    </captions>
+</image>

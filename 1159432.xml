@@ -1,0 +1,99 @@
+<image>
+  <image-id>1159432</image-id>
+  <coco-id>533799</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068127</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1593332</subject>
+      <object>1593333</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068130</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1593341</subject>
+      <object>1593339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068131</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1593341</subject>
+      <object>1593339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068132</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1593341</subject>
+      <object>1593339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068133</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1593341</subject>
+      <object>3703460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068134</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1593341</subject>
+      <object>3703461</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>95</h>
+      <object_id>1593332</object_id>
+      <w>87</w>
+      <y>182</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>294</h>
+      <object_id>1593333</object_id>
+      <w>822</w>
+      <y>0</y>
+      <x>197</x>
+    </object>
+    <object>
+      <h>163</h>
+      <object_id>1593341</object_id>
+      <w>433</w>
+      <y>280</y>
+      <x>176</x>
+      <name>fire truck</name>
+    </object>
+    <object>
+      <h>476</h>
+      <object_id>1593339</object_id>
+      <w>1024</w>
+      <y>205</y>
+      <x>0</x>
+      <name>road</name>
+    </object>
+    <object>
+      <name>street</name>
+      <h>480</h>
+      <object_id>3703460</object_id>
+      <w>984</w>
+      <y>185</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>433</h>
+      <object_id>3703461</object_id>
+      <w>988</w>
+      <y>245</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow fire truck driving through a busy traffic filled street.</caption>
+      <caption>A yellow truck makes its way through an intersection in heavy traffic.</caption>
+      <caption>A yellow emergency truck grossing the middle of an intersection.</caption>
+      <caption>An emergency vehicle that is driving down the street.</caption>
+      <caption>The traffic comes to a standstill as the fire engine proceeds across the intersection.</caption>
+    </captions>
+</image>

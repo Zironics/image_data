@@ -1,0 +1,63 @@
+<image>
+  <image-id>2417647</image-id>
+  <coco-id>526035</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4243874</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3359075</subject>
+      <object>3359076</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4243875</relationship_id>
+      <predicate>has</predicate>
+      <subject>3359076</subject>
+      <object>3359075</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3738126</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3359075</subject>
+      <object>3484337</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>70</h>
+      <object_id>3359075</object_id>
+      <w>357</w>
+      <y>25</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>129</h>
+      <object_id>3359076</object_id>
+      <w>496</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>142</h>
+      <object_id>3484337</object_id>
+      <w>497</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A horse in a striped horse blanket stands in the grass behind a fence.</caption>
+      <caption>A horse with a cover is shown next to a fence.</caption>
+      <caption>a brown horse is standing in its pen with a cover on </caption>
+      <caption>A horse in a field has a striped blanket on it.</caption>
+      <caption>A blanketed horse stands inside a fenced area.</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>498192</image-id>
+  <coco-id>157920</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4054588</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1574411</subject>
+      <object>3698624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4054590</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1574412</subject>
+      <object>1574413</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>294</h>
+      <object_id>1574411</object_id>
+      <w>1019</w>
+      <y>473</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>301</h>
+      <object_id>3698624</object_id>
+      <w>1009</w>
+      <y>465</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>257</h>
+      <object_id>1574412</object_id>
+      <w>125</w>
+      <y>274</y>
+      <x>533</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>23</h>
+      <object_id>1574413</object_id>
+      <w>43</w>
+      <y>274</y>
+      <x>580</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a couple of men are standing in a grassy field</caption>
+      <caption>Adult men standing in large grassy field with baseball mitts in hand.</caption>
+      <caption>There are a lot if people that is waking on the grass</caption>
+      <caption>A group of men standing on top of a grassy field.</caption>
+      <caption>Three men are playing frisbee on green grass.</caption>
+    </captions>
+</image>

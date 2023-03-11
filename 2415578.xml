@@ -1,0 +1,65 @@
+<image>
+  <image-id>2415578</image-id>
+  <coco-id>563233</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3677536</relationship_id>
+      <predicate>with a</predicate>
+      <subject>3506249</subject>
+      <object>3506250</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3677537</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3541254</subject>
+      <object>3307643</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>metal pole</name>
+      <h>182</h>
+      <object_id>3506249</object_id>
+      <w>33</w>
+      <y>190</y>
+      <x>419</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>47</h>
+      <object_id>3506250</object_id>
+      <w>32</w>
+      <y>155</y>
+      <x>397</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>line</name>
+      <h>20</h>
+      <object_id>3541254</object_id>
+      <w>262</w>
+      <y>297</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>57</h>
+      <object_id>3307643</object_id>
+      <w>489</w>
+      <y>295</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red stop sign sitting above a wooden pole.</caption>
+      <caption>A stop sign is leaning a little bit.</caption>
+      <caption>A stop sign with street sign at an intersection.</caption>
+      <caption>A stop sign is on a street corner near a hill.</caption>
+      <caption>A stop signs topped by two road signs stands tilted at the intersection. </caption>
+    </captions>
+</image>

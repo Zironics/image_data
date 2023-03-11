@@ -1,0 +1,71 @@
+<image>
+  <image-id>2322846</image-id>
+  <coco-id>82860</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4534615</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3429022</subject>
+      <object>3429023</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3669503</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3123304</subject>
+      <object>3429022</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534616</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3429022</subject>
+      <object>3960220</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pair</attribute>
+      </attributes>
+      <name>scissors</name>
+      <h>311</h>
+      <object_id>3429022</object_id>
+      <w>487</w>
+      <y>49</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>paper</name>
+      <h>220</h>
+      <object_id>3429023</object_id>
+      <w>338</w>
+      <y>147</y>
+      <x>156</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>handles</name>
+      <h>252</h>
+      <object_id>3123304</object_id>
+      <w>197</w>
+      <y>60</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>manual</name>
+      <h>93</h>
+      <object_id>3960220</object_id>
+      <w>168</w>
+      <y>265</y>
+      <x>180</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a pair of red scissors and some papers</caption>
+      <caption>A pair of bent scissor sitting on top of a book and other papers. </caption>
+      <caption>a close up of a pair of scissors </caption>
+      <caption>there is a pair of scissors that has been bent</caption>
+      <caption>A pair of scissors that looks like they were burnt.</caption>
+    </captions>
+</image>

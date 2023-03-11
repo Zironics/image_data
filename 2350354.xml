@@ -1,0 +1,84 @@
+<image>
+  <image-id>2350354</image-id>
+  <coco-id>426203</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2499106</relationship_id>
+      <predicate>has</predicate>
+      <subject>868659</subject>
+      <object>868660</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2499107</relationship_id>
+      <predicate>riding</predicate>
+      <subject>868665</subject>
+      <object>868662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2499109</relationship_id>
+      <predicate>ON</predicate>
+      <subject>868665</subject>
+      <object>868662</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sky</attribute>
+        <attribute>blue</attribute>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>305</h>
+      <object_id>868659</object_id>
+      <w>237</w>
+      <y>1</y>
+      <x>96</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>29</h>
+      <object_id>868660</object_id>
+      <w>57</w>
+      <y>38</y>
+      <x>213</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>performing</attribute>
+        <attribute>here</attribute>
+        <attribute>skating</attribute>
+        <attribute>in air</attribute>
+      </attributes>
+      <name>man</name>
+      <h>145</h>
+      <object_id>868665</object_id>
+      <w>112</w>
+      <y>94</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>wooden</attribute>
+        <attribute>graffitied</attribute>
+      </attributes>
+      <name>skateboard</name>
+      <h>94</h>
+      <object_id>868662</object_id>
+      <w>50</w>
+      <y>192</y>
+      <x>168</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A skateboarder is riding along the top of a rail.</caption>
+      <caption>Parkour while skating on a rail in urban</caption>
+      <caption>A skateboarder is grinding on a black rail.</caption>
+      <caption>A skater is attempting a rail grind. </caption>
+      <caption>A man riding a skateboard down a metal hand rail next to some buildings.</caption>
+    </captions>
+</image>

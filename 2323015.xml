@@ -1,0 +1,37 @@
+<image>
+  <image-id>2323015</image-id>
+  <coco-id>126216</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4533573</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2734591</subject>
+      <object>2734595</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>elephant</name>
+      <h>81</h>
+      <object_id>2734591</object_id>
+      <w>81</w>
+      <y>117</y>
+      <x>346</x>
+    </object>
+    <object>
+      <name>woods</name>
+      <h>202</h>
+      <object_id>2734595</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Three elephants in a grassy area with trees around.</caption>
+      <caption>A group of elephant walking in a forest.</caption>
+      <caption>The elephants think they are hiding behind those trees, but I can still see them.</caption>
+      <caption>A herd of wild animals walking across a dry grass park.</caption>
+      <caption>The elephants are walking through the trees in the shade.</caption>
+    </captions>
+</image>

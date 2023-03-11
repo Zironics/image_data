@@ -1,0 +1,51 @@
+<image>
+  <image-id>2348298</image-id>
+  <coco-id>156720</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2563523</relationship_id>
+      <predicate>ON</predicate>
+      <subject>883337</subject>
+      <object>883338</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2563524</relationship_id>
+      <predicate>ON</predicate>
+      <subject>883337</subject>
+      <object>883338</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>86</h>
+      <object_id>883337</object_id>
+      <w>66</w>
+      <y>381</y>
+      <x>258</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>silver</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>66</h>
+      <object_id>883338</object_id>
+      <w>50</w>
+      <y>350</y>
+      <x>137</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfboard and paddle are along the shoreline.</caption>
+      <caption>A board and paddle on the edge of the ocean.</caption>
+      <caption>The surfboard and paddle lay on the beach.</caption>
+      <caption>a kayak on the beach very close to a large body of water</caption>
+      <caption>A surfboard and paddle on the beach with calm waves</caption>
+    </captions>
+</image>

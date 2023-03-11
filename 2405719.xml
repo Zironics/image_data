@@ -1,0 +1,101 @@
+<image>
+  <image-id>2405719</image-id>
+  <coco-id>256662</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>706102</relationship_id>
+      <predicate>holds</predicate>
+      <subject>372403</subject>
+      <object>372407</object>
+    </relationship>
+    <relationship>
+      <relationship_id>706103</relationship_id>
+      <predicate>have</predicate>
+      <subject>372407</subject>
+      <object>372408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>706104</relationship_id>
+      <predicate>have</predicate>
+      <subject>372400</subject>
+      <object>372408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>706105</relationship_id>
+      <predicate>has</predicate>
+      <subject>372404</subject>
+      <object>372411</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tissue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>186</h>
+      <object_id>372403</object_id>
+      <w>56</w>
+      <y>54</y>
+      <x>197</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>toasted</attribute>
+        <attribute>sausage</attribute>
+      </attributes>
+      <name>sandwhiches</name>
+      <h>252</h>
+      <object_id>372407</object_id>
+      <w>108</w>
+      <y>78</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>sesame seeds</name>
+      <h>63</h>
+      <object_id>372408</object_id>
+      <w>61</w>
+      <y>252</y>
+      <x>261</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>250</h>
+      <object_id>372400</object_id>
+      <w>53</w>
+      <y>83</y>
+      <x>64</x>
+      <name>bread</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dotted</attribute>
+      </attributes>
+      <name>table</name>
+      <h>64</h>
+      <object_id>372404</object_id>
+      <w>107</w>
+      <y>2</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>specks</name>
+      <h>16</h>
+      <object_id>372411</object_id>
+      <w>42</w>
+      <y>57</y>
+      <x>62</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red basket filled with two hot dogs on buns.</caption>
+      <caption>Two hot dogs on a bun in a basket. </caption>
+      <caption>A red basket with two hot dogs in it</caption>
+      <caption>Someone is having a lunch of just two sausages on a bun.</caption>
+      <caption>Two sausage hotdogs are in the red basket.</caption>
+    </captions>
+</image>

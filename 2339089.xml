@@ -1,0 +1,79 @@
+<image>
+  <image-id>2339089</image-id>
+  <coco-id>439141</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4053270</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2932254</subject>
+      <object>3698151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053271</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3698154</subject>
+      <object>3698155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053272</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2932254</subject>
+      <object>2932255</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4053273</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3698154</subject>
+      <object>3698155</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>125</h>
+      <object_id>2932254</object_id>
+      <w>140</w>
+      <y>35</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>367</h>
+      <object_id>3698151</object_id>
+      <w>493</w>
+      <y>0</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>172</h>
+      <object_id>3698154</object_id>
+      <w>184</w>
+      <y>287</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>261</h>
+      <object_id>3698155</object_id>
+      <w>266</w>
+      <y>233</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>322</h>
+      <object_id>2932255</object_id>
+      <w>482</w>
+      <y>5</y>
+      <x>16</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two dogs sit on top of beds and rest.</caption>
+      <caption>Two brown dogs are lying on colorful beds.</caption>
+      <caption>Two foxes, one on a blanket and another on a bed.</caption>
+      <caption>One puppies lies on a bed while another lies on the floor.</caption>
+      <caption>Dogs comfortably lazing on their colorful, rolling bed</caption>
+    </captions>
+</image>

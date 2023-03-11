@@ -1,0 +1,70 @@
+<image>
+  <image-id>2382811</image-id>
+  <coco-id>54893</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1846218</relationship_id>
+      <predicate>near</predicate>
+      <subject>695673</subject>
+      <object>695676</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1846219</relationship_id>
+      <predicate>IN</predicate>
+      <subject>695673</subject>
+      <object>695677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1846220</relationship_id>
+      <predicate>below</predicate>
+      <subject>695676</subject>
+      <object>695673</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>orange</attribute>
+        <attribute>black</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>136</h>
+      <object_id>695673</object_id>
+      <w>224</w>
+      <y>120</y>
+      <x>181</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>60</h>
+      <object_id>695676</object_id>
+      <w>57</w>
+      <y>217</y>
+      <x>381</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>35</h>
+      <object_id>695677</object_id>
+      <w>47</w>
+      <y>3</y>
+      <x>169</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bird flying in the air over a body of water. </caption>
+      <caption>A sea gull flies in the blue sky over the blue ocean.</caption>
+      <caption>A bird spreads its wings while flying over the ocean.</caption>
+      <caption>A bird is flying high above the blue ocean </caption>
+      <caption>A seagull lowers the landing gear before touching down on the beach.</caption>
+    </captions>
+</image>

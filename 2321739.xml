@@ -1,0 +1,75 @@
+<image>
+  <image-id>2321739</image-id>
+  <coco-id>85225</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4538781</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3500732</subject>
+      <object>3391692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538782</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3357765</subject>
+      <object>3391692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4538783</relationship_id>
+      <predicate>has</predicate>
+      <subject>3357765</subject>
+      <object>3357765</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770259</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3500732</subject>
+      <object>3391692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3770260</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3357765</subject>
+      <object>3391692</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black and yellow</attribute>
+      </attributes>
+      <h>22</h>
+      <object_id>3500732</object_id>
+      <w>25</w>
+      <y>119</y>
+      <x>375</x>
+      <name>sign</name>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>46</h>
+      <object_id>3391692</object_id>
+      <w>6</w>
+      <y>152</y>
+      <x>383</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>10</h>
+      <object_id>3357765</object_id>
+      <w>12</w>
+      <y>142</y>
+      <x>380</x>
+      <name>arrow</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A fire hydrant and some lights on a street.</caption>
+      <caption>A wide city street has no traffic or cars parked at the curbs.</caption>
+      <caption>A street with buildings and street signs in the background. </caption>
+      <caption>A street lamp lights up an urban street.</caption>
+      <caption>Night time shot of a downtown area's empty road.</caption>
+    </captions>
+</image>

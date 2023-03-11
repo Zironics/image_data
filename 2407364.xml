@@ -1,0 +1,90 @@
+<image>
+  <image-id>2407364</image-id>
+  <coco-id>413585</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3228329</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1097986</subject>
+      <object>1097987</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3228330</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1097986</subject>
+      <object>1097987</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3228331</relationship_id>
+      <predicate>looking</predicate>
+      <subject>1097988</subject>
+      <object>1097989</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3228332</relationship_id>
+      <predicate>has</predicate>
+      <subject>1097992</subject>
+      <object>1097993</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blurry</attribute>
+      </attributes>
+      <name>man</name>
+      <h>197</h>
+      <object_id>1097986</object_id>
+      <w>141</w>
+      <y>5</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>171</h>
+      <object_id>1097987</object_id>
+      <w>496</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>girl</name>
+      <h>294</h>
+      <object_id>1097988</object_id>
+      <w>266</w>
+      <y>27</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>down</name>
+      <h>89</h>
+      <object_id>1097989</object_id>
+      <w>50</w>
+      <y>241</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>116</h>
+      <object_id>1097992</object_id>
+      <w>98</w>
+      <y>90</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>30</h>
+      <object_id>1097993</object_id>
+      <w>26</w>
+      <y>123</y>
+      <x>267</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two girls stand together as they smile happily.</caption>
+      <caption>two women standing next to each other as one looks at something amusing </caption>
+      <caption>A woman holding a cell phone while looking very beautiful.</caption>
+      <caption>Two young black hair girls that look like siblings. </caption>
+      <caption>The two women are walking together, one of them is on her phone.</caption>
+    </captions>
+</image>

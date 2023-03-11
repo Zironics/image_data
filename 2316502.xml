@@ -1,0 +1,82 @@
+<image>
+  <image-id>2316502</image-id>
+  <coco-id>2342</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4520529</relationship_id>
+      <predicate>has</predicate>
+      <subject>3252841</subject>
+      <object>3252842</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4520530</relationship_id>
+      <predicate>has</predicate>
+      <subject>3252841</subject>
+      <object>3252843</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4520531</relationship_id>
+      <predicate>has</predicate>
+      <subject>3252841</subject>
+      <object>3252844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4520532</relationship_id>
+      <predicate>has</predicate>
+      <subject>3252841</subject>
+      <object>3252845</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>242</h>
+      <object_id>3252841</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>60</h>
+      <object_id>3252842</object_id>
+      <w>233</w>
+      <y>0</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>32</h>
+      <object_id>3252843</object_id>
+      <w>70</w>
+      <y>27</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>37</h>
+      <object_id>3252844</object_id>
+      <w>62</w>
+      <y>10</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>21</h>
+      <object_id>3252845</object_id>
+      <w>89</w>
+      <y>80</y>
+      <x>344</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Tho giraffes close up looking over the fence.</caption>
+      <caption>A couple of giraffes standing at a zoo fence.</caption>
+      <caption>Two giraffe heads over the top of their fence.</caption>
+      <caption>A giraffe standing in the middle of a pen.</caption>
+      <caption>Two giraffe are standing close to a fence.</caption>
+    </captions>
+</image>

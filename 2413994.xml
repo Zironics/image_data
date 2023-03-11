@@ -1,0 +1,121 @@
+<image>
+  <image-id>2413994</image-id>
+  <coco-id>421201</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4266996</relationship_id>
+      <predicate>on edge of</predicate>
+      <subject>3800023</subject>
+      <object>3800024</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266999</relationship_id>
+      <predicate>ON</predicate>
+      <subject>161865</subject>
+      <object>3800028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267001</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3800030</subject>
+      <object>3800031</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4267005</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3800038</subject>
+      <object>3800037</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>spray shield</name>
+      <h>70</h>
+      <object_id>3800023</object_id>
+      <w>85</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tub</name>
+      <h>170</h>
+      <object_id>3800024</object_id>
+      <w>270</w>
+      <y>15</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>metal claw</name>
+      <h>19</h>
+      <object_id>161865</object_id>
+      <w>25</w>
+      <y>139</y>
+      <x>142</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bathtub</name>
+      <h>131</h>
+      <object_id>3800028</object_id>
+      <w>270</w>
+      <y>17</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>towel</name>
+      <h>62</h>
+      <object_id>3800030</object_id>
+      <w>49</w>
+      <y>0</y>
+      <x>286</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>rack</name>
+      <h>125</h>
+      <object_id>3800031</object_id>
+      <w>54</w>
+      <y>1</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>door knob</name>
+      <h>33</h>
+      <object_id>3800038</object_id>
+      <w>35</w>
+      <y>120</y>
+      <x>313</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>door</name>
+      <h>494</h>
+      <object_id>3800037</object_id>
+      <w>85</w>
+      <y>3</y>
+      <x>286</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Doorway view of a bathroom that includes a toilet and tub.</caption>
+      <caption>A bathtub with legs on it positioned near a toilet.</caption>
+      <caption>This bathroom has a toilet and a bathtub in it.</caption>
+      <caption>A toilet with a wooden seat sitting next to a white tub.</caption>
+      <caption>A bathroom with a stand alone tub, toilet and a towel rack.</caption>
+    </captions>
+</image>

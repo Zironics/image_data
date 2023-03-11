@@ -1,0 +1,76 @@
+<image>
+  <image-id>713134</image-id>
+  <coco-id>90011</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262351</relationship_id>
+      <predicate>has</predicate>
+      <subject>1579342</subject>
+      <object>1579339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4058230</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1579343</subject>
+      <object>1579341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4262352</relationship_id>
+      <predicate>seen</predicate>
+      <subject>1579343</subject>
+      <object>1579344</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>766</h>
+      <object_id>1579342</object_id>
+      <w>701</w>
+      <y>258</y>
+      <x>311</x>
+      <name>human body</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>getting cut</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>425</h>
+      <object_id>1579339</object_id>
+      <w>446</w>
+      <y>251</y>
+      <x>500</x>
+    </object>
+    <object>
+      <h>1024</h>
+      <object_id>1579343</object_id>
+      <w>598</w>
+      <y>0</y>
+      <x>0</x>
+      <name>human body</name>
+    </object>
+    <object>
+      <name>jeans</name>
+      <h>374</h>
+      <object_id>1579341</object_id>
+      <w>271</w>
+      <y>647</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>122</h>
+      <object_id>1579344</object_id>
+      <w>82</w>
+      <y>491</y>
+      <x>662</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman cutting a young mans hair on the deck.</caption>
+      <caption>A man with long hair gets a haircut.</caption>
+      <caption>A woman cutting a man's shoulder length blonde hair.</caption>
+      <caption>a person bending down cutting another persons hair </caption>
+      <caption>a women cutting the hair of a guy with long hair</caption>
+    </captions>
+</image>

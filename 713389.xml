@@ -1,0 +1,97 @@
+<image>
+  <image-id>713389</image-id>
+  <coco-id>128567</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4787477</relationship_id>
+      <predicate>on</predicate>
+      <subject>4567422</subject>
+      <object>4567423</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787479</relationship_id>
+      <predicate>on</predicate>
+      <subject>4567430</subject>
+      <object>4567429</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4663611</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4254352</subject>
+      <object>4254353</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>well-trNacho Cheese</attribute>
+      </attributes>
+      <name>dispenser</name>
+      <h>236</h>
+      <object_id>4567422</object_id>
+      <w>119</w>
+      <y>24</y>
+      <x>542</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stainless steel </attribute>
+      </attributes>
+      <name>counter</name>
+      <h>55</h>
+      <object_id>4567423</object_id>
+      <w>245</w>
+      <y>236</y>
+      <x>536</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>221</h>
+      <object_id>4567430</object_id>
+      <w>562</w>
+      <y>404</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>top</attribute>
+        <attribute>red serving</attribute>
+      </attributes>
+      <name>tray</name>
+      <h>81</h>
+      <object_id>4567429</object_id>
+      <w>72</w>
+      <y>513</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>speckle</name>
+      <h>22</h>
+      <object_id>4254352</object_id>
+      <w>22</w>
+      <y>688</y>
+      <x>597</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>counter top</name>
+      <h>530</h>
+      <object_id>4254353</object_id>
+      <w>914</w>
+      <y>217</y>
+      <x>18</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A foot long hot dog and a regular hot dog.</caption>
+      <caption>There is a drink and two different sizes of hotdogs on the table.</caption>
+      <caption>a foot long hotdog and a regular hotdog and a mug of beer</caption>
+      <caption>red tray with and hot dog a foot long hot dog and a drink</caption>
+      <caption>Too hot dog sitting on top of a red tray with a beer near. </caption>
+    </captions>
+</image>

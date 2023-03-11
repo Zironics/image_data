@@ -1,0 +1,71 @@
+<image>
+  <image-id>2347296</image-id>
+  <coco-id>235870</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3841231</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3908387</subject>
+      <object>2575415</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3841232</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1658734</subject>
+      <object>1658735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3841233</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3908387</subject>
+      <object>2575415</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>46</h>
+      <object_id>3908387</object_id>
+      <w>148</w>
+      <y>108</y>
+      <x>103</x>
+      <name>advertisement</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>332</h>
+      <object_id>2575415</object_id>
+      <w>396</w>
+      <y>17</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gas tank</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>16</h>
+      <object_id>1658734</object_id>
+      <w>15</w>
+      <y>246</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>267</h>
+      <object_id>1658735</object_id>
+      <w>395</w>
+      <y>59</y>
+      <x>38</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green double decker bus parked on the side of a road.</caption>
+      <caption>A street scene with a double-decker bus parked on the side.</caption>
+      <caption>a double deckered bus parked next to a building</caption>
+      <caption>A green colored, double decker bus sits near a cream colored building.</caption>
+      <caption>A double decker bus on a tree lined street.</caption>
+    </captions>
+</image>

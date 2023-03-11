@@ -1,0 +1,110 @@
+<image>
+  <image-id>2332151</image-id>
+  <coco-id>282812</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4094432</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3713561</subject>
+      <object>3048339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094433</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3076272</subject>
+      <object>3048339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094435</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3238024</subject>
+      <object>3238025</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094436</relationship_id>
+      <predicate>surrounded by</predicate>
+      <subject>3048339</subject>
+      <object>3713562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463774</relationship_id>
+      <predicate>standing alongside</predicate>
+      <subject>3048339</subject>
+      <object>3932567</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>236</h>
+      <object_id>3713561</object_id>
+      <w>80</w>
+      <y>50</y>
+      <x>351</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <h>119</h>
+      <object_id>3048339</object_id>
+      <w>116</w>
+      <y>160</y>
+      <x>238</x>
+      <name>building</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>water</name>
+      <h>46</h>
+      <object_id>3076272</object_id>
+      <w>432</w>
+      <y>282</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>red bus</name>
+      <h>42</h>
+      <object_id>3238024</object_id>
+      <w>10</w>
+      <y>220</y>
+      <x>488</x>
+    </object>
+    <object>
+      <name>bridge</name>
+      <h>89</h>
+      <object_id>3238025</object_id>
+      <w>85</w>
+      <y>240</y>
+      <x>411</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>51</h>
+      <object_id>3713562</object_id>
+      <w>481</w>
+      <y>277</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>50</h>
+      <object_id>3932567</object_id>
+      <w>450</w>
+      <y>279</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A scenic view of water and Big Ben in London, England.</caption>
+      <caption>a large building that has a clock tower next to it</caption>
+      <caption>A view from the water of a castle with a clock.</caption>
+      <caption>A clock that is on the side of a building.</caption>
+      <caption>a castle type building sitting right next to the river </caption>
+    </captions>
+</image>

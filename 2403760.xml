@@ -1,0 +1,107 @@
+<image>
+  <image-id>2403760</image-id>
+  <coco-id>194911</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3256762</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1121782</subject>
+      <object>1121783</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3256763</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1121785</subject>
+      <object>1121789</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3256764</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1121794</subject>
+      <object>1121795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3256765</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>1121794</subject>
+      <object>1121795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3256766</relationship_id>
+      <predicate>are wearing</predicate>
+      <subject>1121785</subject>
+      <object>1121789</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3256767</relationship_id>
+      <predicate>are wearing</predicate>
+      <subject>1121785</subject>
+      <object>1121789</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>smog</name>
+      <h>275</h>
+      <object_id>1121782</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>228</h>
+      <object_id>1121783</object_id>
+      <w>494</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>visiting</attribute>
+        <attribute>staring</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>tourists</name>
+      <h>121</h>
+      <object_id>1121785</object_id>
+      <w>492</w>
+      <y>234</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>hats</name>
+      <h>22</h>
+      <object_id>1121789</object_id>
+      <w>194</w>
+      <y>244</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>101</h>
+      <object_id>1121794</object_id>
+      <w>49</w>
+      <y>250</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>backpack</name>
+      <h>32</h>
+      <object_id>1121795</object_id>
+      <w>26</w>
+      <y>273</y>
+      <x>206</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people walking along a sandy beach.</caption>
+      <caption>A crowd gathers for a festival in a public square.</caption>
+      <caption>A lot of people is flying a kites.</caption>
+      <caption>A large group of people gather outside on a dark and cloudy day.</caption>
+      <caption>A large crowd of people standing and talking in a public area.</caption>
+    </captions>
+</image>

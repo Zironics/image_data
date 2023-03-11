@@ -1,0 +1,62 @@
+<image>
+  <image-id>2392082</image-id>
+  <coco-id>13783</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4655135</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4232699</subject>
+      <object>4232700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4645109</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4206965</subject>
+      <object>4206966</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>arm</name>
+      <h>81</h>
+      <object_id>4232699</object_id>
+      <w>378</w>
+      <y>244</y>
+      <x>83</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>214</h>
+      <object_id>4232700</object_id>
+      <w>497</w>
+      <y>246</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>312</h>
+      <object_id>4206965</object_id>
+      <w>486</w>
+      <y>6</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cutting</attribute>
+      </attributes>
+      <name>scissors</name>
+      <h>180</h>
+      <object_id>4206966</object_id>
+      <w>86</w>
+      <y>150</y>
+      <x>400</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man at a table with two pairs of scisors</caption>
+      <caption>A black and white photo of a man holding scissors</caption>
+      <caption>A man that is sitting at a table with a pair of scissors.</caption>
+      <caption>a man is sitting with scissors at a table</caption>
+      <caption>A black and white photo of a man smiling for the camera.</caption>
+    </captions>
+</image>

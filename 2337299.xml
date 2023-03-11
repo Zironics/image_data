@@ -1,0 +1,87 @@
+<image>
+  <image-id>2337299</image-id>
+  <coco-id>391158</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4666619</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4261525</subject>
+      <object>4261526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4716509</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4383778</subject>
+      <object>4383779</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4803590</relationship_id>
+      <predicate>in</predicate>
+      <subject>4607359</subject>
+      <object>4607360</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>30</h>
+      <object_id>4261525</object_id>
+      <w>34</w>
+      <y>309</y>
+      <x>183</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>background</name>
+      <h>50</h>
+      <object_id>4261526</object_id>
+      <w>108</w>
+      <y>289</y>
+      <x>179</x>
+    </object>
+    <object>
+      <name>stone brick</name>
+      <h>23</h>
+      <object_id>4383778</object_id>
+      <w>32</w>
+      <y>112</y>
+      <x>344</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>137</h>
+      <object_id>4383779</object_id>
+      <w>123</w>
+      <y>28</y>
+      <x>294</x>
+    </object>
+    <object>
+      <name>stone brick</name>
+      <h>35</h>
+      <object_id>4607359</object_id>
+      <w>23</w>
+      <y>354</y>
+      <x>381</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>470</h>
+      <object_id>4607360</object_id>
+      <w>192</w>
+      <y>7</y>
+      <x>221</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beautiful old steam locomotive in the railhouse</caption>
+      <caption>A steam engine train sits in a building.</caption>
+      <caption>a large train is pulled into a tunnel of brick</caption>
+      <caption>A black train parked next to a brick wall.</caption>
+      <caption>A large long train on a steel track.</caption>
+    </captions>
+</image>

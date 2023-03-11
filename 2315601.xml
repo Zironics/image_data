@@ -1,0 +1,60 @@
+<image>
+  <image-id>2315601</image-id>
+  <coco-id>358247</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3887874</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>3205450</subject>
+      <object>3012920</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253199</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3205450</subject>
+      <object>3012920</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253200</relationship_id>
+      <predicate>next to</predicate>
+      <subject>2948428</subject>
+      <object>3012920</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>259</h>
+      <object_id>3205450</object_id>
+      <w>88</w>
+      <y>111</y>
+      <x>409</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>29</h>
+      <object_id>3012920</object_id>
+      <w>12</w>
+      <y>219</y>
+      <x>302</x>
+      <name>banana</name>
+    </object>
+    <object>
+      <name>man</name>
+      <h>217</h>
+      <object_id>2948428</object_id>
+      <w>54</w>
+      <y>107</y>
+      <x>211</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bunch of bananas bundles together with a lady taking pictures</caption>
+      <caption>A woman taking a picture in a warehouse full of bunches of hanging bananas.</caption>
+      <caption>a woman taking a picture of a lot of bananas </caption>
+      <caption>People standing near several hanging branches of banana bunches.</caption>
+      <caption>A couple of people standing next to some bananas.</caption>
+    </captions>
+</image>

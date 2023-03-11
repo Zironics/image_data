@@ -1,0 +1,76 @@
+<image>
+  <image-id>2326143</image-id>
+  <coco-id>70256</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4481007</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3940195</subject>
+      <object>3360380</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481008</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3167804</subject>
+      <object>3167805</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481009</relationship_id>
+      <predicate>using</predicate>
+      <subject>3940195</subject>
+      <object>3940196</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>251</h>
+      <object_id>3940195</object_id>
+      <w>171</w>
+      <y>0</y>
+      <x>326</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>199</h>
+      <object_id>3360380</object_id>
+      <w>196</w>
+      <y>37</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>134</h>
+      <object_id>3167804</object_id>
+      <w>158</w>
+      <y>30</y>
+      <x>288</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>97</h>
+      <object_id>3167805</object_id>
+      <w>151</w>
+      <y>104</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>knife</name>
+      <h>77</h>
+      <object_id>3940196</object_id>
+      <w>84</w>
+      <y>105</y>
+      <x>264</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man cts into a small cake with his sharp knife</caption>
+      <caption>a man cutting a slice of cake with the knife</caption>
+      <caption>Woman slicing fruit cake on tray of table with nice hands</caption>
+      <caption>A person cutting slices on a dessert cake</caption>
+      <caption>a person is cutting in to a cake</caption>
+    </captions>
+</image>

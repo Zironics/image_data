@@ -1,0 +1,123 @@
+<image>
+  <image-id>2409027</image-id>
+  <coco-id>564133</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>271686</relationship_id>
+      <predicate>IN</predicate>
+      <subject>250450</subject>
+      <object>250433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>271687</relationship_id>
+      <predicate>next to</predicate>
+      <subject>250433</subject>
+      <object>250437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>271688</relationship_id>
+      <predicate>next to</predicate>
+      <subject>250433</subject>
+      <object>250438</object>
+    </relationship>
+    <relationship>
+      <relationship_id>271689</relationship_id>
+      <predicate>next to</predicate>
+      <subject>250433</subject>
+      <object>250440</object>
+    </relationship>
+    <relationship>
+      <relationship_id>271690</relationship_id>
+      <predicate>next to</predicate>
+      <subject>250433</subject>
+      <object>250439</object>
+    </relationship>
+    <relationship>
+      <relationship_id>271691</relationship_id>
+      <predicate>behind</predicate>
+      <subject>250437</subject>
+      <object>250438</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree trunk</name>
+      <h>88</h>
+      <object_id>250450</object_id>
+      <w>41</w>
+      <y>233</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>dry</attribute>
+        <attribute>brown</attribute>
+        <attribute>yellow</attribute>
+        <attribute>dried out</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>161</h>
+      <object_id>250433</object_id>
+      <w>499</w>
+      <y>168</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>142</h>
+      <object_id>250437</object_id>
+      <w>109</w>
+      <y>112</y>
+      <x>325</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>97</h>
+      <object_id>250438</object_id>
+      <w>69</w>
+      <y>126</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>44</h>
+      <object_id>250440</object_id>
+      <w>39</w>
+      <y>158</y>
+      <x>224</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>80</h>
+      <object_id>250439</object_id>
+      <w>60</w>
+      <y>143</y>
+      <x>161</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Some elephants walk together through the grass. </caption>
+      <caption>Pack of 6 elephants walking through the native brush.</caption>
+      <caption>a herd of elephants walking down a path in some tall grass</caption>
+      <caption>A herd of elephants are marching triumphantly through a field.</caption>
+      <caption>African elephants file through dry grass and shrub growth.</caption>
+    </captions>
+</image>

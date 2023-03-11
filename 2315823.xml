@@ -1,0 +1,101 @@
+<image>
+  <image-id>2315823</image-id>
+  <coco-id>37102</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3867782</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3410943</subject>
+      <object>3410944</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867784</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3624101</subject>
+      <object>3242596</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867785</relationship_id>
+      <predicate>has</predicate>
+      <subject>3624101</subject>
+      <object>3624102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3867786</relationship_id>
+      <predicate>full of</predicate>
+      <subject>3624103</subject>
+      <object>3329469</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>309</h>
+      <object_id>3410943</object_id>
+      <w>127</w>
+      <y>64</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>object</name>
+      <h>29</h>
+      <object_id>3410944</object_id>
+      <w>49</w>
+      <y>118</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>305</h>
+      <object_id>3624101</object_id>
+      <w>130</w>
+      <y>68</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>t shirt</name>
+      <h>105</h>
+      <object_id>3242596</object_id>
+      <w>112</w>
+      <y>121</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stretched</attribute>
+      </attributes>
+      <name>legs</name>
+      <h>141</h>
+      <object_id>3624102</object_id>
+      <w>134</w>
+      <y>220</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>187</h>
+      <object_id>3624103</object_id>
+      <w>158</w>
+      <y>2</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>131</h>
+      <object_id>3329469</object_id>
+      <w>101</w>
+      <y>22</y>
+      <x>126</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in hat throwing a frisbee into grassy area.</caption>
+      <caption>a person with a frisbee on a dirt ground</caption>
+      <caption>A man standing in a patch of sand holding an object.</caption>
+      <caption>A man on top of a hill throwing a frisbee.</caption>
+      <caption>Man throwing a Frisbee during a game of disc golf</caption>
+    </captions>
+</image>

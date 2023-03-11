@@ -1,0 +1,80 @@
+<image>
+  <image-id>2331281</image-id>
+  <coco-id>157519</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4465093</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3058543</subject>
+      <object>2854945</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4043631</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3058543</subject>
+      <object>3058544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4465094</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>3933307</subject>
+      <object>3933306</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>438</h>
+      <object_id>3058543</object_id>
+      <w>271</w>
+      <y>24</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white t-shirt</name>
+      <h>134</h>
+      <object_id>2854945</object_id>
+      <w>102</w>
+      <y>111</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>skateboard</name>
+      <h>124</h>
+      <object_id>3058544</object_id>
+      <w>178</w>
+      <y>373</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>stop</name>
+      <h>49</h>
+      <object_id>3933307</object_id>
+      <w>186</w>
+      <y>182</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>393</h>
+      <object_id>3933306</object_id>
+      <w>499</w>
+      <y>106</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man in plaid shirt skateboarding on street.</caption>
+      <caption>A man riding a skateboard down the middle of a street.</caption>
+      <caption>A man wearing a backpack skateboarding down a street.</caption>
+      <caption>A man going down a street on a skate board.</caption>
+      <caption>Boy riding a large-wheeled skateboard down the road </caption>
+    </captions>
+</image>

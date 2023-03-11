@@ -1,0 +1,79 @@
+<image>
+  <image-id>2333154</image-id>
+  <coco-id>130339</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4833735</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4681459</subject>
+      <object>4681460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4833736</relationship_id>
+      <predicate>has</predicate>
+      <subject>4681463</subject>
+      <object>4681464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4818181</relationship_id>
+      <predicate>with</predicate>
+      <subject>4681459</subject>
+      <object>4642437</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>144</h>
+      <object_id>4681459</object_id>
+      <w>97</w>
+      <y>229</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thin</attribute>
+      </attributes>
+      <name>glasses</name>
+      <h>20</h>
+      <object_id>4681460</object_id>
+      <w>14</w>
+      <y>265</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>125</h>
+      <object_id>4681463</object_id>
+      <w>180</w>
+      <y>247</y>
+      <x>166</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>119</h>
+      <object_id>4681464</object_id>
+      <w>113</w>
+      <y>254</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>35</h>
+      <object_id>4642437</object_id>
+      <w>60</w>
+      <y>250</y>
+      <x>13</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some giraffes stand close to a fence near people. </caption>
+      <caption>A photo of people looking at several giraffes through a fence.</caption>
+      <caption>Two giraffes in an enclosure are bent over peering at visitors.</caption>
+      <caption>family looks at multiple giraffes at the zoo </caption>
+      <caption>Two giraffes lean down to say hello to a tourist.</caption>
+    </captions>
+</image>

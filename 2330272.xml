@@ -1,0 +1,258 @@
+<image>
+  <image-id>2330272</image-id>
+  <coco-id>289332</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4118760</relationship_id>
+      <predicate>rounding up</predicate>
+      <subject>3015724</subject>
+      <object>3114329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467347</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3934515</subject>
+      <object>2839008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467348</relationship_id>
+      <predicate>over</predicate>
+      <subject>3057074</subject>
+      <object>3057075</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118764</relationship_id>
+      <predicate>with</predicate>
+      <subject>3114329</subject>
+      <object>3114330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118765</relationship_id>
+      <predicate>with</predicate>
+      <subject>3114329</subject>
+      <object>3114331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4118766</relationship_id>
+      <predicate>with</predicate>
+      <subject>3114329</subject>
+      <object>3114332</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3944075</relationship_id>
+      <predicate>herding sheep toward</predicate>
+      <subject>3015724</subject>
+      <object>3654742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3944077</relationship_id>
+      <predicate>in group runnning</predicate>
+      <subject>3015724</subject>
+      <object>3654743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3944078</relationship_id>
+      <predicate>giving herding commands to</predicate>
+      <subject>3512312</subject>
+      <object>3512311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3819667</relationship_id>
+      <predicate>being herded by</predicate>
+      <subject>3114329</subject>
+      <object>3602378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3819668</relationship_id>
+      <predicate>being herded by</predicate>
+      <subject>3114329</subject>
+      <object>3602379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467349</relationship_id>
+      <predicate>running away from</predicate>
+      <subject>3114329</subject>
+      <object>2775725</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467350</relationship_id>
+      <predicate>running away from</predicate>
+      <subject>3114329</subject>
+      <object>2775725</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467351</relationship_id>
+      <predicate>running away from</predicate>
+      <subject>3114329</subject>
+      <object>2775725</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4467352</relationship_id>
+      <predicate>running away from</predicate>
+      <subject>3114329</subject>
+      <object>2775725</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>group</attribute>
+      </attributes>
+      <h>121</h>
+      <object_id>3015724</object_id>
+      <w>88</w>
+      <y>184</y>
+      <x>100</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>153</h>
+      <object_id>3114329</object_id>
+      <w>88</w>
+      <y>9</y>
+      <x>99</x>
+      <name>brown sheep</name>
+    </object>
+    <object>
+      <name>patches</name>
+      <h>145</h>
+      <object_id>3934515</object_id>
+      <w>110</w>
+      <y>103</y>
+      <x>359</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dead </attribute>
+      </attributes>
+      <name>grass</name>
+      <h>141</h>
+      <object_id>2839008</object_id>
+      <w>142</w>
+      <y>99</y>
+      <x>356</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dead </attribute>
+        <attribute>scattered</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>71</h>
+      <object_id>3057074</object_id>
+      <w>110</w>
+      <y>17</y>
+      <x>331</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>425</h>
+      <object_id>3057075</object_id>
+      <w>470</w>
+      <y>27</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white sheep</name>
+      <h>130</h>
+      <object_id>3114330</object_id>
+      <w>111</w>
+      <y>9</y>
+      <x>174</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white sheep</name>
+      <h>120</h>
+      <object_id>3114331</object_id>
+      <w>74</w>
+      <y>34</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white sheep</name>
+      <h>147</h>
+      <object_id>3114332</object_id>
+      <w>77</w>
+      <y>18</y>
+      <x>262</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>26</h>
+      <object_id>3654742</object_id>
+      <w>10</w>
+      <y>50</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>runnning</name>
+      <h>29</h>
+      <object_id>3654743</object_id>
+      <w>179</w>
+      <y>115</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>65</h>
+      <object_id>3512312</object_id>
+      <w>55</w>
+      <y>0</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>124</h>
+      <object_id>3512311</object_id>
+      <w>82</w>
+      <y>185</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>61</h>
+      <object_id>3602378</object_id>
+      <w>86</w>
+      <y>1</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>140</h>
+      <object_id>3602379</object_id>
+      <w>107</w>
+      <y>170</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black and brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>128</h>
+      <object_id>2775725</object_id>
+      <w>90</w>
+      <y>180</y>
+      <x>99</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a dog chasing sheep on a field</caption>
+      <caption>A dog running after three sheep in a field. </caption>
+      <caption>A black and white color dog is herding some sheep. </caption>
+      <caption>A dog that is herding three sheep around a field.</caption>
+      <caption>An Australian Shepherd rounding up a heard of sheep</caption>
+    </captions>
+</image>

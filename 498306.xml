@@ -1,0 +1,40 @@
+<image>
+  <image-id>498306</image-id>
+  <coco-id>453008</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262156</relationship_id>
+      <predicate>wears</predicate>
+      <subject>1575444</subject>
+      <object>1575445</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>425</h>
+      <object_id>1575444</object_id>
+      <w>519</w>
+      <y>30</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>headset</name>
+      <h>46</h>
+      <object_id>1575445</object_id>
+      <w>98</w>
+      <y>131</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person riding a skate board on a city street</caption>
+      <caption>A boy is riding a skateboard down the street. </caption>
+      <caption>Someone is trying to show off their flexibility on their skateboard. </caption>
+      <caption>A man speeding fast on a long board</caption>
+      <caption>A man in light blue jacket riding on a skateboard.</caption>
+    </captions>
+</image>

@@ -1,0 +1,115 @@
+<image>
+  <image-id>2327752</image-id>
+  <coco-id>575243</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4472666</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>2721451</subject>
+      <object>2721454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4472667</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>2721452</subject>
+      <object>2721454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4472668</relationship_id>
+      <predicate>parked on</predicate>
+      <subject>2721453</subject>
+      <object>2721454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3628453</relationship_id>
+      <predicate>with</predicate>
+      <subject>2844489</subject>
+      <object>2844490</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3628456</relationship_id>
+      <predicate>with</predicate>
+      <subject>3519422</subject>
+      <object>3122814</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>75</h>
+      <object_id>2721451</object_id>
+      <w>64</w>
+      <y>101</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>192</h>
+      <object_id>2721454</object_id>
+      <w>233</w>
+      <y>104</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>158</h>
+      <object_id>2721452</object_id>
+      <w>117</w>
+      <y>78</y>
+      <x>332</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>195</h>
+      <object_id>2721453</object_id>
+      <w>92</w>
+      <y>89</y>
+      <x>407</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>69</h>
+      <object_id>2844489</object_id>
+      <w>97</w>
+      <y>107</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>curved</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>29</h>
+      <object_id>2844490</object_id>
+      <w>17</w>
+      <y>166</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>137</h>
+      <object_id>3519422</object_id>
+      <w>40</w>
+      <y>128</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>81</h>
+      <object_id>3122814</object_id>
+      <w>95</w>
+      <y>106</y>
+      <x>186</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A person walking down a street while holding an umbrella.</caption>
+      <caption>A BLACK AND WHITE PICTURE OF A PERSONA ND A UMBRELLA</caption>
+      <caption>A person is walking down a sidewalk holding an umbrella.</caption>
+      <caption>a man is walking in the rain with an umbrella held close to his head</caption>
+      <caption>a man that is walking down the street with a umbrella</caption>
+    </captions>
+</image>

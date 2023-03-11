@@ -1,0 +1,116 @@
+<image>
+  <image-id>2389957</image-id>
+  <coco-id>333504</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1176948</relationship_id>
+      <predicate>ON</predicate>
+      <subject>501373</subject>
+      <object>501363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1176949</relationship_id>
+      <predicate>facing</predicate>
+      <subject>501370</subject>
+      <object>501371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1176950</relationship_id>
+      <predicate>ON</predicate>
+      <subject>501373</subject>
+      <object>501363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1176951</relationship_id>
+      <predicate>close to</predicate>
+      <subject>501363</subject>
+      <object>501371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1176952</relationship_id>
+      <predicate>before</predicate>
+      <subject>501367</subject>
+      <object>501363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1176953</relationship_id>
+      <predicate>leading to</predicate>
+      <subject>501378</subject>
+      <object>501363</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>9</h>
+      <object_id>501373</object_id>
+      <w>9</w>
+      <y>176</y>
+      <x>77</x>
+      <name>canadian leaf</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>gray with red</attribute>
+        <attribute>old</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>247</h>
+      <object_id>501363</object_id>
+      <w>92</w>
+      <y>39</y>
+      <x>31</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>solid</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>23</h>
+      <object_id>501370</object_id>
+      <w>42</w>
+      <y>280</y>
+      <x>295</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>as far as the eye can see</attribute>
+      </attributes>
+      <name>ocean</name>
+      <h>36</h>
+      <object_id>501371</object_id>
+      <w>371</w>
+      <y>276</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>43</h>
+      <object_id>501367</object_id>
+      <w>496</w>
+      <y>287</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>trail</name>
+      <h>35</h>
+      <object_id>501378</object_id>
+      <w>258</w>
+      <y>297</y>
+      <x>208</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall white and red light house sitting on a green hill.</caption>
+      <caption>A very tall pretty light house under cloudy skies.</caption>
+      <caption>The lighthouse is on a hill on a cloudy day.</caption>
+      <caption>a red and white light tower on a hill near the ocean</caption>
+      <caption>A storm moves past a lighthouse overlooking the sea.</caption>
+    </captions>
+</image>

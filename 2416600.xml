@@ -1,0 +1,96 @@
+<image>
+  <image-id>2416600</image-id>
+  <coco-id>262118</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3696173</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3104543</subject>
+      <object>3104544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3696175</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3356259</subject>
+      <object>3356260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100769</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3352944</subject>
+      <object>3715627</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3696178</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3104543</subject>
+      <object>3104544</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange and white</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>124</h>
+      <object_id>3104543</object_id>
+      <w>130</w>
+      <y>45</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>264</h>
+      <object_id>3104544</object_id>
+      <w>384</w>
+      <y>87</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>92</h>
+      <object_id>3356259</object_id>
+      <w>54</w>
+      <y>260</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>225</h>
+      <object_id>3356260</object_id>
+      <w>393</w>
+      <y>73</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>burned</attribute>
+      </attributes>
+      <name>knot</name>
+      <h>17</h>
+      <object_id>3352944</object_id>
+      <w>15</w>
+      <y>12</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>59</h>
+      <object_id>3715627</object_id>
+      <w>348</w>
+      <y>0</y>
+      <x>111</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An orange and white cat sitting on top of a wooden table.</caption>
+      <caption>An orange and white cat sitting on a wood seat by a bed.</caption>
+      <caption>An orange and white cat perches atop a table next to a bed</caption>
+      <caption>A cat laying down on a wooden table.</caption>
+      <caption>An orange and white cat sitting on a wooden bench</caption>
+    </captions>
+</image>

@@ -1,0 +1,192 @@
+<image>
+  <image-id>2345589</image-id>
+  <coco-id>118065</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2655189</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>906654</subject>
+      <object>906669</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655190</relationship_id>
+      <predicate>being</predicate>
+      <subject>906654</subject>
+      <object>906656</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655191</relationship_id>
+      <predicate>in a</predicate>
+      <subject>906658</subject>
+      <object>906659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655192</relationship_id>
+      <predicate>are on</predicate>
+      <subject>906665</subject>
+      <object>906666</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655193</relationship_id>
+      <predicate>are beneath</predicate>
+      <subject>906667</subject>
+      <object>906661</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655194</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>906654</subject>
+      <object>906663</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655195</relationship_id>
+      <predicate>in a</predicate>
+      <subject>906658</subject>
+      <object>906659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655196</relationship_id>
+      <predicate>in a</predicate>
+      <subject>906681</subject>
+      <object>906659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655197</relationship_id>
+      <predicate>laying on a</predicate>
+      <subject>906658</subject>
+      <object>906659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655198</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>906681</subject>
+      <object>906659</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2655199</relationship_id>
+      <predicate>laying on a</predicate>
+      <subject>906658</subject>
+      <object>906659</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>103</h>
+      <object_id>906654</object_id>
+      <w>177</w>
+      <y>134</y>
+      <x>19</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <h>87</h>
+      <object_id>906669</object_id>
+      <w>185</w>
+      <y>167</y>
+      <x>10</x>
+      <name>bowl</name>
+    </object>
+    <object>
+      <name>weighed</name>
+      <h>139</h>
+      <object_id>906656</object_id>
+      <w>186</w>
+      <y>131</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ripe</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>62</h>
+      <object_id>906658</object_id>
+      <w>63</w>
+      <y>219</y>
+      <x>340</x>
+    </object>
+    <object>
+      <name>pile</name>
+      <h>160</h>
+      <object_id>906659</object_id>
+      <w>187</w>
+      <y>164</y>
+      <x>296</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>numbers</name>
+      <h>83</h>
+      <object_id>906665</object_id>
+      <w>118</w>
+      <y>287</y>
+      <x>53</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>94</h>
+      <object_id>906666</object_id>
+      <w>133</w>
+      <y>281</y>
+      <x>42</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stacked</attribute>
+        <attribute>shiny</attribute>
+      </attributes>
+      <name>oranges</name>
+      <h>185</h>
+      <object_id>906667</object_id>
+      <w>205</w>
+      <y>165</y>
+      <x>294</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>194</h>
+      <object_id>906661</object_id>
+      <w>156</w>
+      <y>3</y>
+      <x>342</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>scale</name>
+      <h>206</h>
+      <object_id>906663</object_id>
+      <w>184</w>
+      <y>167</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>ripe orange</name>
+      <h>46</h>
+      <object_id>906681</object_id>
+      <w>50</w>
+      <y>228</y>
+      <x>293</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A farmers marked filled with lots of  fresh produce.</caption>
+      <caption>A produce stand with several fruits including bananas and oragnes.</caption>
+      <caption>A produce stand with a variety of fruits and nuts on display.</caption>
+      <caption>Banana at Foodworks are selling for $14.99 per pound.</caption>
+      <caption>Oranges are on display near a banana on a scale. </caption>
+    </captions>
+</image>

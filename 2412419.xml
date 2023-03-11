@@ -1,0 +1,357 @@
+<image>
+  <image-id>2412419</image-id>
+  <coco-id>3353</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>188050</relationship_id>
+      <predicate>table for coffee</predicate>
+      <subject>194715</subject>
+      <object>194725</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188051</relationship_id>
+      <predicate>cap for bottle</predicate>
+      <subject>194701</subject>
+      <object>194702</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272823</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3804646</subject>
+      <object>3804647</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188053</relationship_id>
+      <predicate>symbol on computer</predicate>
+      <subject>194703</subject>
+      <object>194724</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272824</relationship_id>
+      <predicate>has</predicate>
+      <subject>3517215</subject>
+      <object>3220229</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272825</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3804648</subject>
+      <object>3203052</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188056</relationship_id>
+      <predicate>cat lays on man</predicate>
+      <subject>194704</subject>
+      <object>194705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188057</relationship_id>
+      <predicate>cat has a head</predicate>
+      <subject>194704</subject>
+      <object>194706</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188058</relationship_id>
+      <predicate>pants are grey</predicate>
+      <subject>194707</subject>
+      <object>194705</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272826</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>194708</subject>
+      <object>3804649</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3771727</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3804647</subject>
+      <object>3582496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3644361</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>2758944</subject>
+      <object>3140188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272827</relationship_id>
+      <predicate>ON</predicate>
+      <subject>194700</subject>
+      <object>3804650</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188062</relationship_id>
+      <predicate>cap for a bottle</predicate>
+      <subject>194701</subject>
+      <object>194723</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188066</relationship_id>
+      <predicate>cat white</predicate>
+      <subject>194712</subject>
+      <object>194713</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272828</relationship_id>
+      <predicate>ON</predicate>
+      <subject>194704</subject>
+      <object>3804651</object>
+    </relationship>
+    <relationship>
+      <relationship_id>188069</relationship_id>
+      <predicate>table has items</predicate>
+      <subject>194715</subject>
+      <object>194716</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>table is brown</name>
+      <h>143</h>
+      <object_id>194715</object_id>
+      <w>433</w>
+      <y>1</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>coffee is brown</name>
+      <h>35</h>
+      <object_id>194725</object_id>
+      <w>28</w>
+      <y>3</y>
+      <x>300</x>
+    </object>
+    <object>
+      <name>cap is plastic</name>
+      <h>10</h>
+      <object_id>194701</object_id>
+      <w>13</w>
+      <y>77</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>of water</attribute>
+      </attributes>
+      <name>bottle is for water</name>
+      <h>60</h>
+      <object_id>194702</object_id>
+      <w>31</w>
+      <y>34</y>
+      <x>299</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>18</h>
+      <object_id>3804646</object_id>
+      <w>23</w>
+      <y>43</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>76</h>
+      <object_id>3804647</object_id>
+      <w>167</w>
+      <y>23</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>apple</attribute>
+      </attributes>
+      <name>apple is a symbol</name>
+      <h>11</h>
+      <object_id>194703</object_id>
+      <w>21</w>
+      <y>48</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>computer has apple</name>
+      <h>80</h>
+      <object_id>194724</object_id>
+      <w>148</w>
+      <y>24</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sleeping</attribute>
+        <attribute>napping</attribute>
+      </attributes>
+      <h>165</h>
+      <object_id>3517215</object_id>
+      <w>357</w>
+      <y>110</y>
+      <x>97</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <name>head</name>
+      <h>56</h>
+      <object_id>3220229</object_id>
+      <w>65</w>
+      <y>185</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>butt</name>
+      <h>100</h>
+      <object_id>3804648</object_id>
+      <w>66</w>
+      <y>160</y>
+      <x>340</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>145</h>
+      <object_id>3203052</object_id>
+      <w>351</w>
+      <y>117</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>cat is on lap</name>
+      <h>161</h>
+      <object_id>194704</object_id>
+      <w>349</w>
+      <y>111</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>man has a lap</name>
+      <h>245</h>
+      <object_id>194705</object_id>
+      <w>331</w>
+      <y>87</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>head is on blanket</name>
+      <h>79</h>
+      <object_id>194706</object_id>
+      <w>75</w>
+      <y>183</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>person wearing pants</name>
+      <h>244</h>
+      <object_id>194707</object_id>
+      <w>418</w>
+      <y>88</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>person wearing white</name>
+      <h>58</h>
+      <object_id>194708</object_id>
+      <w>356</w>
+      <y>274</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>64</h>
+      <object_id>3804649</object_id>
+      <w>303</w>
+      <y>265</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>174</h>
+      <object_id>3582496</object_id>
+      <w>332</w>
+      <y>13</y>
+      <x>19</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paper </attribute>
+      </attributes>
+      <h>60</h>
+      <object_id>2758944</object_id>
+      <w>47</w>
+      <y>11</y>
+      <x>380</x>
+      <name>cup</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>80</h>
+      <object_id>3140188</object_id>
+      <w>112</w>
+      <y>44</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>remote is dark</name>
+      <h>36</h>
+      <object_id>194700</object_id>
+      <w>28</w>
+      <y>61</y>
+      <x>411</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>134</h>
+      <object_id>3804650</object_id>
+      <w>436</w>
+      <y>16</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>bottle has a cap</name>
+      <h>60</h>
+      <object_id>194723</object_id>
+      <w>52</w>
+      <y>37</y>
+      <x>280</x>
+    </object>
+    <object>
+      <name>paw is white</name>
+      <h>14</h>
+      <object_id>194712</object_id>
+      <w>17</w>
+      <y>156</y>
+      <x>322</x>
+    </object>
+    <object>
+      <name>cat has a paw</name>
+      <h>18</h>
+      <object_id>194713</object_id>
+      <w>17</w>
+      <y>153</y>
+      <x>325</x>
+    </object>
+    <object>
+      <name>lap</name>
+      <h>181</h>
+      <object_id>3804651</object_id>
+      <w>321</w>
+      <y>90</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>item is on table</name>
+      <h>14</h>
+      <object_id>194716</object_id>
+      <w>14</w>
+      <y>41</y>
+      <x>70</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is laying on someone's lap while they sit on the couch.</caption>
+      <caption>A cat laying on it's back on top of a couch.</caption>
+      <caption>A cat sleeping on someones lap in a living room</caption>
+      <caption>Cat sleeping on the lap of a person.</caption>
+      <caption>A person sitting on a couch with a cat in their lap.</caption>
+    </captions>
+</image>

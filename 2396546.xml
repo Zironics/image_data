@@ -1,0 +1,111 @@
+<image>
+  <image-id>2396546</image-id>
+  <coco-id>209935</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3368310</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1197065</subject>
+      <object>1197061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3368311</relationship_id>
+      <predicate>near</predicate>
+      <subject>1197065</subject>
+      <object>1197063</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3368312</relationship_id>
+      <predicate>near</predicate>
+      <subject>1197063</subject>
+      <object>1197065</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3368313</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1197065</subject>
+      <object>1197061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4288337</relationship_id>
+      <predicate>on top of a</predicate>
+      <subject>3822110</subject>
+      <object>1197061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4288338</relationship_id>
+      <predicate>standing</predicate>
+      <subject>3822114</subject>
+      <object>3822113</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>on</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>46</h>
+      <object_id>1197065</object_id>
+      <w>53</w>
+      <y>191</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>red</attribute>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tower</name>
+      <h>368</h>
+      <object_id>1197061</object_id>
+      <w>99</w>
+      <y>87</y>
+      <x>108</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>light</name>
+      <h>226</h>
+      <object_id>1197063</object_id>
+      <w>84</w>
+      <y>151</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>weather vane</name>
+      <h>50</h>
+      <object_id>3822110</object_id>
+      <w>40</w>
+      <y>91</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>13</h>
+      <object_id>3822114</object_id>
+      <w>15</w>
+      <y>397</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>93</h>
+      <object_id>3822113</object_id>
+      <w>324</w>
+      <y>332</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clock tower next to a street and a body of water.</caption>
+      <caption>A clock tower lit up by the bay</caption>
+      <caption>A round clock on a colorful tower near a harbor.</caption>
+      <caption>A large clock tower is lit up on a shore.</caption>
+      <caption>A tall clock tower stands near a body of water and a light post.</caption>
+    </captions>
+</image>

@@ -1,0 +1,153 @@
+<image>
+  <image-id>2321185</image-id>
+  <coco-id>296523</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3143494</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1048454</subject>
+      <object>1048456</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143495</relationship_id>
+      <predicate>carrying a</predicate>
+      <subject>1048460</subject>
+      <object>1048454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143496</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>1048461</subject>
+      <object>1048459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143497</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1048459</subject>
+      <object>1048466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143498</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>1048454</subject>
+      <object>1048460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143499</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>1048454</subject>
+      <object>1048460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143500</relationship_id>
+      <predicate>by</predicate>
+      <subject>1048463</subject>
+      <object>1048452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143501</relationship_id>
+      <predicate>riding a</predicate>
+      <subject>1048461</subject>
+      <object>1048459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3143502</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1048454</subject>
+      <object>1048460</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>riding</attribute>
+      </attributes>
+      <name>person</name>
+      <h>63</h>
+      <object_id>1048454</object_id>
+      <w>29</w>
+      <y>137</y>
+      <x>352</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>13</h>
+      <object_id>1048456</object_id>
+      <w>11</w>
+      <y>135</y>
+      <x>358</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>89</h>
+      <object_id>1048460</object_id>
+      <w>65</w>
+      <y>171</y>
+      <x>342</x>
+    </object>
+    <object>
+      <name>police officer</name>
+      <h>47</h>
+      <object_id>1048461</object_id>
+      <w>33</w>
+      <y>130</y>
+      <x>309</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>walking</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>horse</name>
+      <h>90</h>
+      <object_id>1048459</object_id>
+      <w>77</w>
+      <y>168</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>54</h>
+      <object_id>1048466</object_id>
+      <w>21</w>
+      <y>185</y>
+      <x>341</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>128</h>
+      <object_id>1048463</object_id>
+      <w>45</w>
+      <y>1</y>
+      <x>165</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sandy</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>169</h>
+      <object_id>1048452</object_id>
+      <w>495</w>
+      <y>156</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two mean in uniform are riding horses side by side on a sandy beach.</caption>
+      <caption>Two police officers on horses riding on the beach.</caption>
+      <caption>two people riding on horses in the middle of a lot </caption>
+      <caption>A pair of police officers ride on horses down the beach.</caption>
+      <caption>Two people in neon vests riding horses down the beach.</caption>
+    </captions>
+</image>

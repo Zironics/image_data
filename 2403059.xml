@@ -1,0 +1,93 @@
+<image>
+  <image-id>2403059</image-id>
+  <coco-id>174123</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3264713</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1128381</subject>
+      <object>1128382</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3264719</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1128383</subject>
+      <object>1128384</object>
+    </relationship>
+    <relationship>
+      <relationship_id>758059</relationship_id>
+      <predicate>ON</predicate>
+      <subject>383985</subject>
+      <object>383986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3264755</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1128383</subject>
+      <object>1128384</object>
+    </relationship>
+    <relationship>
+      <relationship_id>758084</relationship_id>
+      <predicate>ON</predicate>
+      <subject>383985</subject>
+      <object>383986</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1128381</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1128382</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1128383</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1128384</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>363</h>
+      <object_id>383985</object_id>
+      <w>493</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>357</h>
+      <object_id>383986</object_id>
+      <w>498</w>
+      <y>40</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A huge plate of yummy food with fork to eat. </caption>
+      <caption>A portion of a pizza is sitting on a tray and someone is holding a fork and a knife.</caption>
+      <caption>a person holding a knife and fork over a pizza</caption>
+      <caption>A white plate of pizza on a table.</caption>
+      <caption>A pizza topped with cheese, tomato sauce, and mushrooms being sliced on a plate.</caption>
+    </captions>
+</image>

@@ -1,0 +1,79 @@
+<image>
+  <image-id>2381664</image-id>
+  <coco-id>468541</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4581206</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4050881</subject>
+      <object>4050882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4581209</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4050895</subject>
+      <object>4050890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4581212</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4050895</subject>
+      <object>4050896</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>stereo</attribute>
+      </attributes>
+      <name>receiver</name>
+      <h>72</h>
+      <object_id>4050881</object_id>
+      <w>72</w>
+      <y>250</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bottom</attribute>
+      </attributes>
+      <name>shelf</name>
+      <h>30</h>
+      <object_id>4050882</object_id>
+      <w>68</w>
+      <y>325</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>tie</name>
+      <h>224</h>
+      <object_id>4050895</object_id>
+      <w>63</w>
+      <y>181</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>456</h>
+      <object_id>4050890</object_id>
+      <w>206</w>
+      <y>22</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>460</h>
+      <object_id>4050896</object_id>
+      <w>234</w>
+      <y>29</y>
+      <x>28</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and white dog wearing a neck tie.</caption>
+      <caption>A brown and white dog wearing a tie on carpet.</caption>
+      <caption>A dog wearing a tie poses for the camera. </caption>
+      <caption>A dog is sitting with a neck tie on.</caption>
+      <caption>a close up of a dog wearing a tie</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328553</image-id>
+  <coco-id>158208</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4024296</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2737649</subject>
+      <object>2737650</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3682040</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3172810</subject>
+      <object>3543364</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>number</name>
+      <h>29</h>
+      <object_id>2737649</object_id>
+      <w>33</w>
+      <y>103</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>297</h>
+      <object_id>2737650</object_id>
+      <w>220</w>
+      <y>59</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>348</h>
+      <object_id>3172810</object_id>
+      <w>237</w>
+      <y>53</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>498</h>
+      <object_id>3543364</object_id>
+      <w>328</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a clock hanging on a building with time at two thirty</caption>
+      <caption>A clock is displayed in a way that it is easy to view.</caption>
+      <caption>a big clock attached to a wall </caption>
+      <caption>A clock is mounted indoors on a wall. </caption>
+      <caption>a clock that is attached on a building</caption>
+    </captions>
+</image>

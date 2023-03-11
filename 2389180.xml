@@ -1,0 +1,97 @@
+<image>
+  <image-id>2389180</image-id>
+  <coco-id>440339</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3481444</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1263310</subject>
+      <object>1263311</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3481445</relationship_id>
+      <predicate>has</predicate>
+      <subject>1263308</subject>
+      <object>1263319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3481446</relationship_id>
+      <predicate>has</predicate>
+      <subject>1263308</subject>
+      <object>1263320</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3481447</relationship_id>
+      <predicate>has</predicate>
+      <subject>1263308</subject>
+      <object>1263321</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>24</h>
+      <object_id>1263310</object_id>
+      <w>41</w>
+      <y>0</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+        <attribute>plastic</attribute>
+        <attribute>present</attribute>
+      </attributes>
+      <name>crown</name>
+      <h>21</h>
+      <object_id>1263311</object_id>
+      <w>41</w>
+      <y>3</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eyed</attribute>
+        <attribute>crowned</attribute>
+        <attribute>blonde</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>204</h>
+      <object_id>1263308</object_id>
+      <w>118</w>
+      <y>29</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>13</h>
+      <object_id>1263319</object_id>
+      <w>12</w>
+      <y>67</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>7</h>
+      <object_id>1263320</object_id>
+      <w>6</w>
+      <y>92</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>14</h>
+      <object_id>1263321</object_id>
+      <w>16</w>
+      <y>77</y>
+      <x>203</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Smiling friends posing over a bag of donuts</caption>
+      <caption>Three ladies are leaning together while holding pastries.</caption>
+      <caption>Three women sitting next to each other with donuts.</caption>
+      <caption>Three women smile as they hold pastries together.</caption>
+      <caption>Three girls are posing with their doughnuts together.</caption>
+    </captions>
+</image>

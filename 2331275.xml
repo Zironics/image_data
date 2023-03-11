@@ -1,0 +1,98 @@
+<image>
+  <image-id>2331275</image-id>
+  <coco-id>230008</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4007023</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>2773189</subject>
+      <object>2773190</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4007024</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3026799</subject>
+      <object>3026800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4007029</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2773189</subject>
+      <object>3081760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4007030</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3031203</subject>
+      <object>3031204</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>242</h>
+      <object_id>2773189</object_id>
+      <w>144</w>
+      <y>35</y>
+      <x>76</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>boots</name>
+      <h>77</h>
+      <object_id>2773190</object_id>
+      <w>83</w>
+      <y>202</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>person sitting</name>
+      <h>247</h>
+      <object_id>3026799</object_id>
+      <w>87</w>
+      <y>32</y>
+      <x>106</x>
+    </object>
+    <object>
+      <name>motorcycle</name>
+      <h>205</h>
+      <object_id>3026800</object_id>
+      <w>338</w>
+      <y>74</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>police uniform</name>
+      <h>141</h>
+      <object_id>3081760</object_id>
+      <w>62</w>
+      <y>85</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>49</h>
+      <object_id>3031203</object_id>
+      <w>110</w>
+      <y>69</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>195</h>
+      <object_id>3031204</object_id>
+      <w>161</w>
+      <y>50</y>
+      <x>337</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a traffic motorcycle cop waits to give a ticket</caption>
+      <caption>A police officer on a motorcycle sitting at the corner. </caption>
+      <caption>A police officer is outside on his bike.</caption>
+      <caption>Police officer laying a speed trap for the purpose of writing a ticket.</caption>
+      <caption>A police man on a motorcycle is idle in front of a bush.</caption>
+    </captions>
+</image>

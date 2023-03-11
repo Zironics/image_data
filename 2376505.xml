@@ -1,0 +1,92 @@
+<image>
+  <image-id>2376505</image-id>
+  <coco-id>517394</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1926415</relationship_id>
+      <predicate>with</predicate>
+      <subject>719893</subject>
+      <object>719897</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1926416</relationship_id>
+      <predicate>ON</predicate>
+      <subject>719893</subject>
+      <object>719898</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1926417</relationship_id>
+      <predicate>has</predicate>
+      <subject>719893</subject>
+      <object>719901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1926418</relationship_id>
+      <predicate>ON</predicate>
+      <subject>719902</subject>
+      <object>719893</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+        <attribute>black</attribute>
+        <attribute>brown</attribute>
+        <attribute>side</attribute>
+        <attribute>shadow</attribute>
+        <attribute>wooden</attribute>
+        <attribute>wood</attribute>
+        <attribute>casting</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>198</h>
+      <object_id>719893</object_id>
+      <w>257</w>
+      <y>16</y>
+      <x>127</x>
+    </object>
+    <object>
+      <name>no one</name>
+      <h>76</h>
+      <object_id>719897</object_id>
+      <w>94</w>
+      <y>59</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>110</h>
+      <object_id>719898</object_id>
+      <w>213</w>
+      <y>152</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>52</h>
+      <object_id>719901</object_id>
+      <w>54</w>
+      <y>166</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>52</h>
+      <object_id>719902</object_id>
+      <w>55</w>
+      <y>88</y>
+      <x>228</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The shadow of a park bench on a sunny day</caption>
+      <caption>A city bench is seated in front of an iron gate</caption>
+      <caption>A wooden park bench is in front of a gate during the mid afternoon.</caption>
+      <caption>A park bench sitting on cement next to a gate.</caption>
+      <caption>There is a park bench beside a metal fence</caption>
+    </captions>
+</image>

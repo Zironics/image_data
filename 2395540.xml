@@ -1,0 +1,73 @@
+<image>
+  <image-id>2395540</image-id>
+  <coco-id>175038</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1746995</relationship_id>
+      <predicate>IN</predicate>
+      <subject>665937</subject>
+      <object>665940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1746996</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>665939</subject>
+      <object>665937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1746997</relationship_id>
+      <predicate>holding</predicate>
+      <subject>665940</subject>
+      <object>665937</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>together</attribute>
+        <attribute>orange</attribute>
+        <attribute>close</attribute>
+        <attribute>wrapped</attribute>
+      </attributes>
+      <name>oranges</name>
+      <h>86</h>
+      <object_id>665937</object_id>
+      <w>92</w>
+      <y>101</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>cardboard</attribute>
+      </attributes>
+      <name>boxes</name>
+      <h>35</h>
+      <object_id>665940</object_id>
+      <w>46</w>
+      <y>249</y>
+      <x>348</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>yellow</attribute>
+        <attribute>white</attribute>
+        <attribute>blurry</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>58</h>
+      <object_id>665939</object_id>
+      <w>89</w>
+      <y>23</y>
+      <x>294</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Several boxes filled with fruit near each other.</caption>
+      <caption>A fruit stand selling a selection of oranges. </caption>
+      <caption>a box that has some oranges in it</caption>
+      <caption>A couple of boxes of oranges build into a display at the market.</caption>
+      <caption>a pile of oranges are for sale in amarket</caption>
+    </captions>
+</image>

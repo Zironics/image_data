@@ -1,0 +1,97 @@
+<image>
+  <image-id>2354678</image-id>
+  <coco-id>340653</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3747589</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2643519</subject>
+      <object>3572185</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3747590</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1957192</subject>
+      <object>3572186</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3747591</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2018511</subject>
+      <object>3572187</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>raw </attribute>
+        <attribute>in slices</attribute>
+      </attributes>
+      <name>carrots</name>
+      <h>375</h>
+      <object_id>2643519</object_id>
+      <w>223</w>
+      <y>86</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surface</name>
+      <h>128</h>
+      <object_id>3572185</object_id>
+      <w>157</w>
+      <y>371</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>broccoli</name>
+      <h>376</h>
+      <object_id>1957192</object_id>
+      <w>237</w>
+      <y>36</y>
+      <x>126</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surface</name>
+      <h>115</h>
+      <object_id>3572186</object_id>
+      <w>368</w>
+      <y>383</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>vegetables'</attribute>
+      </attributes>
+      <name>shadow</name>
+      <h>125</h>
+      <object_id>2018511</object_id>
+      <w>373</w>
+      <y>362</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surface</name>
+      <h>62</h>
+      <object_id>3572187</object_id>
+      <w>365</w>
+      <y>436</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate topped with broccoli, carrots and other greens.</caption>
+      <caption>A closeup of carrots, celery, and broccoli on a table </caption>
+      <caption>a well made salad on a plate broccoli and carrots</caption>
+      <caption>there's  broccoli carrots and  some celery </caption>
+      <caption>Some freshly cut carrots, broccoli and celery are arranged.</caption>
+    </captions>
+</image>

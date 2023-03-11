@@ -1,0 +1,41 @@
+<image>
+  <image-id>2331801</image-id>
+  <coco-id>275371</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4726330</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4310423</subject>
+      <object>4407244</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>sleeping</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>212</h>
+      <object_id>4310423</object_id>
+      <w>230</w>
+      <y>55</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>330</h>
+      <object_id>4407244</object_id>
+      <w>495</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A adult white call is sleeping in a ball</caption>
+      <caption>a white cat sleeping on a floral blanket</caption>
+      <caption>The white kitten is sleeping in a ball on the blanket.</caption>
+      <caption>A white cat lay in a little ball in the middle of a bed covered with a floral blanket.</caption>
+      <caption>A white cat snuggles up inside its comfortable bed.</caption>
+    </captions>
+</image>

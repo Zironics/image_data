@@ -1,0 +1,98 @@
+<image>
+  <image-id>2352667</image-id>
+  <coco-id>157238</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4401956</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2566521</subject>
+      <object>2566522</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237246</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2048151</subject>
+      <object>2048157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237247</relationship_id>
+      <predicate>stuck to</predicate>
+      <subject>1700421</subject>
+      <object>2048151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4237248</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2163294</subject>
+      <object>2163295</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>small dot</name>
+      <h>42</h>
+      <object_id>2566521</object_id>
+      <w>36</w>
+      <y>69</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>166</h>
+      <object_id>2566522</object_id>
+      <w>302</w>
+      <y>58</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>177</h>
+      <object_id>2048151</object_id>
+      <w>125</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>dust</name>
+      <h>12</h>
+      <object_id>2048157</object_id>
+      <w>13</w>
+      <y>120</y>
+      <x>100</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>37</h>
+      <object_id>1700421</object_id>
+      <w>25</w>
+      <y>77</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>47</h>
+      <object_id>2163294</object_id>
+      <w>182</w>
+      <y>82</y>
+      <x>256</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>167</h>
+      <object_id>2163295</object_id>
+      <w>127</w>
+      <y>19</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a ball and some leaves are on the ground</caption>
+      <caption>A close up and blurred image of a peeling from fruit.</caption>
+      <caption>A lemon sitting on a dirty ground covered in filth.</caption>
+      <caption>The shattered piece of fruit is next to a whole one. </caption>
+      <caption>a rotten orange sitting on a muddy ground </caption>
+    </captions>
+</image>

@@ -1,0 +1,57 @@
+<image>
+  <image-id>2328603</image-id>
+  <coco-id>575612</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4024112</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3095538</subject>
+      <object>3095539</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4024113</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3095538</subject>
+      <object>3095539</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4024111</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3095538</subject>
+      <object>3095540</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>270</h>
+      <object_id>3095538</object_id>
+      <w>258</w>
+      <y>0</y>
+      <x>0</x>
+      <name>tree</name>
+    </object>
+    <object>
+      <name>house</name>
+      <h>92</h>
+      <object_id>3095539</object_id>
+      <w>275</w>
+      <y>145</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>72</h>
+      <object_id>3095540</object_id>
+      <w>130</w>
+      <y>154</y>
+      <x>368</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green house sitting on the corner of a street.</caption>
+      <caption>A house on a corner has a fire hydrant on the curb.</caption>
+      <caption>A small green house on a corner lot with lots of trees.</caption>
+      <caption>a house sits on the corner of a street </caption>
+      <caption>A house with green paint has trees in the front yard.</caption>
+    </captions>
+</image>

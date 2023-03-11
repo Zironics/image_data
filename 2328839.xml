@@ -1,0 +1,93 @@
+<image>
+  <image-id>2328839</image-id>
+  <coco-id>171062</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2914682</relationship_id>
+      <predicate>ON</predicate>
+      <subject>976017</subject>
+      <object>976012</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2914683</relationship_id>
+      <predicate>ON</predicate>
+      <subject>976019</subject>
+      <object>976012</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2914684</relationship_id>
+      <predicate>ON</predicate>
+      <subject>976018</subject>
+      <object>976023</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>pointy</attribute>
+        <attribute>sitting</attribute>
+        <attribute>tail</attribute>
+        <attribute>fur</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>302</h>
+      <object_id>976017</object_id>
+      <w>153</w>
+      <y>170</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>95</h>
+      <object_id>976012</object_id>
+      <w>134</w>
+      <y>381</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>vcr</name>
+      <h>58</h>
+      <object_id>976019</object_id>
+      <w>102</w>
+      <y>290</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+        <attribute>jvc</attribute>
+        <attribute>name</attribute>
+      </attributes>
+      <name>tv</name>
+      <h>182</h>
+      <object_id>976018</object_id>
+      <w>245</w>
+      <y>75</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tv</attribute>
+      </attributes>
+      <name>stand</name>
+      <h>40</h>
+      <object_id>976023</object_id>
+      <w>91</w>
+      <y>249</y>
+      <x>200</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat sits on a table and watches television</caption>
+      <caption>A cat standing on a table in front of a TV.</caption>
+      <caption>A cat is on a coffee table with a television in front.</caption>
+      <caption>Small cat sitting on top of a table looking at a television. </caption>
+      <caption>a brown and black cat is sitting in front of a monitor</caption>
+    </captions>
+</image>

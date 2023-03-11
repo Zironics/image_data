@@ -1,0 +1,43 @@
+<image>
+  <image-id>2381757</image-id>
+  <coco-id>372260</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1866554</relationship_id>
+      <predicate>next to</predicate>
+      <subject>702053</subject>
+      <object>702058</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>car</name>
+      <h>168</h>
+      <object_id>702053</object_id>
+      <w>88</w>
+      <y>246</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>69</h>
+      <object_id>702058</object_id>
+      <w>75</w>
+      <y>53</y>
+      <x>146</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A car parked by a clock and some flowers.</caption>
+      <caption>A clock sits in a planter decorated with flowers.</caption>
+      <caption>An outdoor clock clock surrounded by mums in a street median.</caption>
+      <caption>A car is parked next to a decorative clock.</caption>
+      <caption>A car is parked near a clock that is surrounded by flowers at the bottom of the pole.</caption>
+    </captions>
+</image>

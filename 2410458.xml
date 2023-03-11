@@ -1,0 +1,79 @@
+<image>
+  <image-id>2410458</image-id>
+  <coco-id>92747</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1694907</relationship_id>
+      <predicate>OF</predicate>
+      <subject>647888</subject>
+      <object>647893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1694908</relationship_id>
+      <predicate>IN</predicate>
+      <subject>647891</subject>
+      <object>647890</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1694909</relationship_id>
+      <predicate>beside</predicate>
+      <subject>647891</subject>
+      <object>647893</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bent</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>25</h>
+      <object_id>647888</object_id>
+      <w>19</w>
+      <y>182</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <h>85</h>
+      <object_id>647893</object_id>
+      <w>57</w>
+      <y>140</y>
+      <x>257</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>strong</attribute>
+        <attribute>wall</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>192</h>
+      <object_id>647891</object_id>
+      <w>178</w>
+      <y>7</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ocean</name>
+      <h>39</h>
+      <object_id>647890</object_id>
+      <w>128</w>
+      <y>155</y>
+      <x>12</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a male surfer in a blue shirt riding a white board</caption>
+      <caption>A SURF BOARDERS IN YELLOW SHORTS SURFING </caption>
+      <caption>The guy wearing yellow shirts is riding a wave.</caption>
+      <caption>A man is surfing along a big wave in the ocean.</caption>
+      <caption>A person on a surfboard in the water.</caption>
+    </captions>
+</image>

@@ -1,0 +1,88 @@
+<image>
+  <image-id>713285</image-id>
+  <coco-id>92344</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4059605</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3339322</subject>
+      <object>3339322</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4059606</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3339322</subject>
+      <object>2571872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3735460</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2933121</subject>
+      <object>2933123</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3735461</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2933122</subject>
+      <object>2933123</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>can</name>
+      <h>96</h>
+      <object_id>3339322</object_id>
+      <w>55</w>
+      <y>395</y>
+      <x>901</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>315</h>
+      <object_id>2571872</object_id>
+      <w>1022</w>
+      <y>363</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>pad</name>
+      <h>29</h>
+      <object_id>2933121</object_id>
+      <w>73</w>
+      <y>476</y>
+      <x>295</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>373</h>
+      <object_id>2933123</object_id>
+      <w>1018</w>
+      <y>355</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>pad</name>
+      <h>21</h>
+      <object_id>2933122</object_id>
+      <w>64</w>
+      <y>469</y>
+      <x>118</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Corner desk with multiple computer monitors and desktop.</caption>
+      <caption>A desk with several computer screens sitting on it.</caption>
+      <caption>There are three monitors and one laptop out on the desk.</caption>
+      <caption>A work station with a laptop, keyboard and three monitors.</caption>
+      <caption>A pink and white laptop and three computer monitors on a desk. </caption>
+    </captions>
+</image>

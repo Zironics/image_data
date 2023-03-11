@@ -1,0 +1,101 @@
+<image>
+  <image-id>2337667</image-id>
+  <coco-id>52948</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2844846</relationship_id>
+      <predicate>IN</predicate>
+      <subject>956774</subject>
+      <object>956775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2844847</relationship_id>
+      <predicate>IN</predicate>
+      <subject>956774</subject>
+      <object>956775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2844848</relationship_id>
+      <predicate>around</predicate>
+      <subject>956775</subject>
+      <object>956774</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2844849</relationship_id>
+      <predicate>has</predicate>
+      <subject>956774</subject>
+      <object>956776</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2844850</relationship_id>
+      <predicate>has</predicate>
+      <subject>956775</subject>
+      <object>956778</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2844851</relationship_id>
+      <predicate>IN</predicate>
+      <subject>956774</subject>
+      <object>956775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2844852</relationship_id>
+      <predicate>IN</predicate>
+      <subject>956774</subject>
+      <object>956775</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>cracked</attribute>
+        <attribute>round</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>110</h>
+      <object_id>956774</object_id>
+      <w>135</w>
+      <y>176</y>
+      <x>270</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>murky</attribute>
+        <attribute>green</attribute>
+        <attribute>brown</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>water</name>
+      <h>330</h>
+      <object_id>956775</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>lines</name>
+      <h>57</h>
+      <object_id>956776</object_id>
+      <w>77</w>
+      <y>200</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>air bubbles</name>
+      <h>47</h>
+      <object_id>956778</object_id>
+      <w>61</w>
+      <y>226</y>
+      <x>412</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A frisbee floating on top of a body of water.</caption>
+      <caption>A wooden disk floats in a murky pond.</caption>
+      <caption>A bright colored plastic lid floating in the water</caption>
+      <caption>There is a piece of ham cooking on a griddle. </caption>
+      <caption>A lake/pond with a orange item floating on it.</caption>
+    </captions>
+</image>

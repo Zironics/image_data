@@ -1,0 +1,37 @@
+<image>
+  <image-id>2385202</image-id>
+  <coco-id>440377</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4673532</relationship_id>
+      <predicate>containing</predicate>
+      <subject>4279217</subject>
+      <object>4279218</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>glass</name>
+      <h>103</h>
+      <object_id>4279217</object_id>
+      <w>77</w>
+      <y>21</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>85</h>
+      <object_id>4279218</object_id>
+      <w>70</w>
+      <y>30</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black pan sitting on top of a counter filled with breakfast foods.</caption>
+      <caption>Fried potatoes, ham and biscuits served in a cast iron skillet.</caption>
+      <caption>A skillet full of food sits on a counter top.</caption>
+      <caption>A pan with an assortment of food inside of it.</caption>
+      <caption>A skillet with potatoes, biscuit, eggs and ham.</caption>
+    </captions>
+</image>

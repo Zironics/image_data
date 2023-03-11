@@ -1,0 +1,86 @@
+<image>
+  <image-id>2393254</image-id>
+  <coco-id>39078</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3416912</relationship_id>
+      <predicate>has</predicate>
+      <subject>1221624</subject>
+      <object>1221632</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416913</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1221623</subject>
+      <object>1221624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416914</relationship_id>
+      <predicate>has</predicate>
+      <subject>1221636</subject>
+      <object>1221642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>white</attribute>
+        <attribute>parked</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>230</h>
+      <object_id>1221624</object_id>
+      <w>443</w>
+      <y>67</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>hweels</name>
+      <h>71</h>
+      <object_id>1221632</object_id>
+      <w>62</w>
+      <y>233</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>open</attribute>
+      </attributes>
+      <name>door</name>
+      <h>218</h>
+      <object_id>1221623</object_id>
+      <w>100</w>
+      <y>89</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>women</name>
+      <h>48</h>
+      <object_id>1221636</object_id>
+      <w>50</w>
+      <y>233</y>
+      <x>424</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>carried</attribute>
+      </attributes>
+      <h>49</h>
+      <object_id>1221642</object_id>
+      <w>40</w>
+      <y>219</y>
+      <x>415</x>
+      <name>bag</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large white passenger bus with two large rear view mirrors.</caption>
+      <caption>A bus that is stopped along side a curb waiting for passengers</caption>
+      <caption>a transit bus parked with trees in the background</caption>
+      <caption>A commercial coach bus parked at curbside with door open.</caption>
+      <caption>A passenger bus that has been parked on the side of a street.</caption>
+    </captions>
+</image>

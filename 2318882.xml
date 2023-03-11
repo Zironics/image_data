@@ -1,0 +1,91 @@
+<image>
+  <image-id>2318882</image-id>
+  <coco-id>206341</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3005484</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1006412</subject>
+      <object>1006413</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3005485</relationship_id>
+      <predicate>has</predicate>
+      <subject>1006411</subject>
+      <object>1006421</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3005486</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1006412</subject>
+      <object>1006413</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3005487</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1006424</subject>
+      <object>1006413</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>door</name>
+      <h>186</h>
+      <object_id>1006412</object_id>
+      <w>36</w>
+      <y>46</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>exsisting</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>building</name>
+      <h>251</h>
+      <object_id>1006413</object_id>
+      <w>304</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>round</attribute>
+        <attribute>exsisting</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>41</h>
+      <object_id>1006411</object_id>
+      <w>40</w>
+      <y>79</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>hands</name>
+      <h>7</h>
+      <object_id>1006421</object_id>
+      <w>8</w>
+      <y>94</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>exsisting</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>133</h>
+      <object_id>1006424</object_id>
+      <w>234</w>
+      <y>2</y>
+      <x>265</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pile of old traffic signs next to a wooden cabin.</caption>
+      <caption>a number of signs piled up nest to a building</caption>
+      <caption>A bunch of road signs are piled up outside of a wooden shed.</caption>
+      <caption>A bunch of signs leaning against a building.</caption>
+      <caption>Many different road signs are stacked together in the grass. </caption>
+    </captions>
+</image>

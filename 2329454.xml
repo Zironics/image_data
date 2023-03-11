@@ -1,0 +1,62 @@
+<image>
+  <image-id>2329454</image-id>
+  <coco-id>293435</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4021608</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3174461</subject>
+      <object>3344847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4133423</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3727476</subject>
+      <object>3727477</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cats</name>
+      <h>72</h>
+      <object_id>3174461</object_id>
+      <w>120</w>
+      <y>126</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>217</h>
+      <object_id>3344847</object_id>
+      <w>225</w>
+      <y>64</y>
+      <x>57</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>patch</name>
+      <h>133</h>
+      <object_id>3727476</object_id>
+      <w>118</w>
+      <y>181</y>
+      <x>365</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>311</h>
+      <object_id>3727477</object_id>
+      <w>493</w>
+      <y>18</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white and black animal lays on a bench that is on grass outdoors.</caption>
+      <caption>A cat laying on a park bench in the shade.</caption>
+      <caption>A cat sleeping on top of a wooden park bench.</caption>
+      <caption>A couple of cats sit on an outdoor bench.</caption>
+      <caption>The cat is resting on the wooden bench in the yard. </caption>
+    </captions>
+</image>

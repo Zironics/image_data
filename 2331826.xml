@@ -1,0 +1,40 @@
+<image>
+  <image-id>2331826</image-id>
+  <coco-id>185818</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4098337</relationship_id>
+      <predicate>light</predicate>
+      <subject>3275681</subject>
+      <object>3714877</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+      </attributes>
+      <name>man</name>
+      <h>322</h>
+      <object_id>3275681</object_id>
+      <w>312</w>
+      <y>51</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>skinned</name>
+      <h>34</h>
+      <object_id>3714877</object_id>
+      <w>23</w>
+      <y>214</y>
+      <x>359</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person sitting in a chair with a cell phone.</caption>
+      <caption>A man holds up a cell phone as he sits next to a tv.</caption>
+      <caption>A man wearing glasses sitting in a room holding a phone in his hand.</caption>
+      <caption>A man his holding his cell phone overhead.</caption>
+      <caption>A man sitting down is holding a cellular phone up high. </caption>
+    </captions>
+</image>

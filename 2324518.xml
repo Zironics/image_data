@@ -1,0 +1,103 @@
+<image>
+  <image-id>2324518</image-id>
+  <coco-id>506296</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4524642</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2729338</subject>
+      <object>2729339</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3868138</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2955521</subject>
+      <object>2955522</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524643</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2853574</subject>
+      <object>2853575</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524644</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2966054</subject>
+      <object>2966055</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>white cup</name>
+      <h>32</h>
+      <object_id>2729338</object_id>
+      <w>19</w>
+      <y>72</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>54</h>
+      <object_id>2729339</object_id>
+      <w>157</w>
+      <y>61</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>fireplace</name>
+      <h>81</h>
+      <object_id>2955521</object_id>
+      <w>80</w>
+      <y>0</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>182</h>
+      <object_id>2955522</object_id>
+      <w>118</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bell</name>
+      <h>10</h>
+      <object_id>2853574</object_id>
+      <w>12</w>
+      <y>175</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>115</h>
+      <object_id>2853575</object_id>
+      <w>200</w>
+      <y>138</y>
+      <x>144</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>40</h>
+      <object_id>2966054</object_id>
+      <w>16</w>
+      <y>59</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>91</h>
+      <object_id>2966055</object_id>
+      <w>156</w>
+      <y>57</y>
+      <x>168</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large dog stands next to a cat standing on a chair.</caption>
+      <caption>A dog and a cat that are in the living room.</caption>
+      <caption>A cat and dog standing in a living room</caption>
+      <caption>A dog and cat standing beside each other in a living room. </caption>
+      <caption>Dog and a cat standing on the floor in the living room.</caption>
+    </captions>
+</image>

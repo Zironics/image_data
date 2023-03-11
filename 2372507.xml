@@ -1,0 +1,47 @@
+<image>
+  <image-id>2372507</image-id>
+  <coco-id>225480</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1486465</relationship_id>
+      <predicate>IN</predicate>
+      <subject>591627</subject>
+      <object>591628</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1486467</relationship_id>
+      <predicate>IN</predicate>
+      <subject>591627</subject>
+      <object>591628</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tag</name>
+      <h>33</h>
+      <object_id>591627</object_id>
+      <w>23</w>
+      <y>118</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>61</h>
+      <object_id>591628</object_id>
+      <w>78</w>
+      <y>85</y>
+      <x>276</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two brown and white cows standing next to each other.</caption>
+      <caption>Two cows in a field who have been tagged.</caption>
+      <caption>Tags in the ears indicate when the cattle were vaccinated.</caption>
+      <caption>Two cows one with big horns standing in a grassy field.</caption>
+      <caption>Two cows with yellow tagged ears, one with horns, are standing in a field.</caption>
+    </captions>
+</image>

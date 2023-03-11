@@ -1,0 +1,127 @@
+<image>
+  <image-id>2415786</image-id>
+  <coco-id>275025</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4764515</relationship_id>
+      <predicate>has</predicate>
+      <subject>4504879</subject>
+      <object>4504885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764516</relationship_id>
+      <predicate>casting</predicate>
+      <subject>4504879</subject>
+      <object>4504882</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764517</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4504882</subject>
+      <object>4504883</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764518</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4504884</subject>
+      <object>4504885</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764519</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4504886</subject>
+      <object>4504879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764520</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4504889</subject>
+      <object>4504879</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4764521</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4504891</subject>
+      <object>4504879</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>horse</name>
+      <h>451</h>
+      <object_id>4504879</object_id>
+      <w>298</w>
+      <y>37</y>
+      <x>1</x>
+    </object>
+    <object>
+      <h>200</h>
+      <object_id>4504885</object_id>
+      <w>80</w>
+      <y>61</y>
+      <x>219</x>
+      <name>horse's head</name>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>74</h>
+      <object_id>4504882</object_id>
+      <w>318</w>
+      <y>411</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>497</h>
+      <object_id>4504883</object_id>
+      <w>319</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>white marking</name>
+      <h>18</h>
+      <object_id>4504884</object_id>
+      <w>18</w>
+      <y>116</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>left eye</name>
+      <h>19</h>
+      <object_id>4504886</object_id>
+      <w>16</w>
+      <y>136</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>right eye</name>
+      <h>18</h>
+      <object_id>4504889</object_id>
+      <w>16</w>
+      <y>135</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>mane</name>
+      <h>54</h>
+      <object_id>4504891</object_id>
+      <w>198</w>
+      <y>39</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Horse standing in open field staring at camera.</caption>
+      <caption>There is a horse standing on the grass. </caption>
+      <caption>Front third close to camera of an auburn-brown horse from the side with head turned looking at the camera, with a white spot on head, and standing in grass field.</caption>
+      <caption>A brown horse with a white spot on its head is standing in the grass.</caption>
+      <caption>A horse stands on grass and looks at the camera</caption>
+    </captions>
+</image>

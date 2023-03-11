@@ -1,0 +1,89 @@
+<image>
+  <image-id>2410117</image-id>
+  <coco-id>144703</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3215411</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1087449</subject>
+      <object>1087450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3215412</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1087451</subject>
+      <object>1087452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3215413</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1087451</subject>
+      <object>1087452</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3215417</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1087449</subject>
+      <object>1087450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3215454</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1087449</subject>
+      <object>1087450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3215458</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1087449</subject>
+      <object>1087450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3215459</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1087449</subject>
+      <object>1087450</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>41</h>
+      <object_id>1087449</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>41</h>
+      <object_id>1087450</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>41</h>
+      <object_id>1087451</object_id>
+      <w>44</w>
+      <y>9</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>41</h>
+      <object_id>1087452</object_id>
+      <w>44</w>
+      <y>13</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a fisheye photo of a refrigerator covered in magnets </caption>
+      <caption>A refrigerator door with various magnetic trinkets on it.</caption>
+      <caption>A closeup of a refrigerator with a bunch of magnets</caption>
+      <caption>A refrigerator has been decorated with many colorful magnets.</caption>
+      <caption>A refrigerator door covered in magnets sitting in a kitchen.</caption>
+    </captions>
+</image>

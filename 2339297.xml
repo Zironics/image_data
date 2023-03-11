@@ -1,0 +1,109 @@
+<image>
+  <image-id>2339297</image-id>
+  <coco-id>506341</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3733453</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2677404</subject>
+      <object>2677403</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049687</relationship_id>
+      <predicate>beside</predicate>
+      <subject>2037784</subject>
+      <object>2037785</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049689</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2562453</subject>
+      <object>2562454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049691</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3286717</subject>
+      <object>3286718</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boy</name>
+      <h>225</h>
+      <object_id>2677404</object_id>
+      <w>67</w>
+      <y>116</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue jeans</name>
+      <h>127</h>
+      <object_id>2677403</object_id>
+      <w>45</w>
+      <y>209</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>139</h>
+      <object_id>2037784</object_id>
+      <w>495</w>
+      <y>85</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>193</h>
+      <object_id>2037785</object_id>
+      <w>495</w>
+      <y>175</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tennis net</name>
+      <h>30</h>
+      <object_id>2562453</object_id>
+      <w>30</w>
+      <y>147</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tennis court</name>
+      <h>53</h>
+      <object_id>2562454</object_id>
+      <w>500</w>
+      <y>165</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>paint</name>
+      <h>39</h>
+      <object_id>3286717</object_id>
+      <w>25</w>
+      <y>335</y>
+      <x>275</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>166</h>
+      <object_id>3286718</object_id>
+      <w>497</w>
+      <y>207</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person in casual clothes and no shoes stands on a tennis court with a racket.</caption>
+      <caption>A boy wearing jeans and a beige shirt standing on a tennis court holding a tennis racquet. </caption>
+      <caption>The boy stands on the tennis court with his racquet.</caption>
+      <caption>a tennis player on a court with a racket</caption>
+      <caption>A man holding a tennis racket on a tennis court.</caption>
+    </captions>
+</image>

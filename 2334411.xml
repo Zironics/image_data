@@ -1,0 +1,59 @@
+<image>
+  <image-id>2334411</image-id>
+  <coco-id>205055</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3938861</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3652773</subject>
+      <object>3652775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3938862</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3652774</subject>
+      <object>3652776</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>279</h>
+      <object_id>3652773</object_id>
+      <w>93</w>
+      <y>95</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>59</h>
+      <object_id>3652775</object_id>
+      <w>132</w>
+      <y>266</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>267</h>
+      <object_id>3652774</object_id>
+      <w>101</w>
+      <y>107</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>tennis racket</name>
+      <h>71</h>
+      <object_id>3652776</object_id>
+      <w>14</w>
+      <y>265</y>
+      <x>329</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two men holding tennis rackets while standing next to each other </caption>
+      <caption>Two tennis players pose for a photograph on a large court.</caption>
+      <caption>The two athletes are enjoying their game together.</caption>
+      <caption>A pair of people with rackets stand on a court.</caption>
+      <caption>The tennis players are standing next to each other.</caption>
+    </captions>
+</image>

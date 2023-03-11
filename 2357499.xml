@@ -1,0 +1,84 @@
+<image>
+  <image-id>2357499</image-id>
+  <coco-id>176563</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2280275</relationship_id>
+      <predicate>ON</predicate>
+      <subject>811699</subject>
+      <object>811700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2280276</relationship_id>
+      <predicate>ON</predicate>
+      <subject>811699</subject>
+      <object>811700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2280277</relationship_id>
+      <predicate>ON</predicate>
+      <subject>811699</subject>
+      <object>811700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2280278</relationship_id>
+      <predicate>ON</predicate>
+      <subject>811699</subject>
+      <object>811700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2280279</relationship_id>
+      <predicate>IN</predicate>
+      <subject>811699</subject>
+      <object>811701</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2280280</relationship_id>
+      <predicate>ON</predicate>
+      <subject>811699</subject>
+      <object>811700</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>92</h>
+      <object_id>811699</object_id>
+      <w>56</w>
+      <y>120</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>high</attribute>
+        <attribute>steep</attribute>
+        <attribute>foggy</attribute>
+      </attributes>
+      <name>cliff</name>
+      <h>92</h>
+      <object_id>811700</object_id>
+      <w>120</w>
+      <y>178</y>
+      <x>133</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>97</h>
+      <object_id>811701</object_id>
+      <w>178</w>
+      <y>226</y>
+      <x>164</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a field that has some snow and a man skiing in it</caption>
+      <caption>Skeeter on top of the mountain admiring below</caption>
+      <caption>A man that is on the skis in the snow.</caption>
+      <caption>a person is in some skis in the snow</caption>
+      <caption>A man on skies standing at the top of a mountain.</caption>
+    </captions>
+</image>

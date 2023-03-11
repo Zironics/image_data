@@ -1,0 +1,113 @@
+<image>
+  <image-id>2411159</image-id>
+  <coco-id>357005</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3209210</relationship_id>
+      <predicate>has</predicate>
+      <subject>360228</subject>
+      <object>1082217</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3209211</relationship_id>
+      <predicate>has</predicate>
+      <subject>360230</subject>
+      <object>1082218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3209212</relationship_id>
+      <predicate>has</predicate>
+      <subject>360228</subject>
+      <object>1082219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>639530</relationship_id>
+      <predicate>IN</predicate>
+      <subject>360228</subject>
+      <object>360229</object>
+    </relationship>
+    <relationship>
+      <relationship_id>639531</relationship_id>
+      <predicate>IN</predicate>
+      <subject>360230</subject>
+      <object>360229</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wild</attribute>
+        <attribute>mother</attribute>
+        <attribute>with his mother</attribute>
+        <attribute>caring for bear</attribute>
+        <attribute>teaching fishing</attribute>
+        <attribute>baby</attribute>
+        <attribute>brown</attribute>
+        <attribute>walking in water</attribute>
+        <attribute>looking at camera</attribute>
+        <attribute>with mother</attribute>
+        <attribute>watching over cub</attribute>
+        <attribute>lifting paw</attribute>
+        <attribute>reflected in water</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>193</h>
+      <object_id>360228</object_id>
+      <w>222</w>
+      <y>63</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>eyes</name>
+      <h>5</h>
+      <object_id>1082217</object_id>
+      <w>73</w>
+      <y>103</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baby</attribute>
+        <attribute>brown</attribute>
+        <attribute>in stream</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>80</h>
+      <object_id>360230</object_id>
+      <w>73</w>
+      <y>165</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>eyes</name>
+      <h>13</h>
+      <object_id>1082218</object_id>
+      <w>32</w>
+      <y>181</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>12</h>
+      <object_id>1082219</object_id>
+      <w>47</w>
+      <y>123</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>wild</name>
+      <h>322</h>
+      <object_id>360229</object_id>
+      <w>161</w>
+      <y>2</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A mother bear and her cub in motion through a stream</caption>
+      <caption>A mother bear and her bear cub wade in shallow water.</caption>
+      <caption>A mother bear and her young cub in a river</caption>
+      <caption>Two bears in a river next to the bank.</caption>
+      <caption>A mother bear and her cub are in a stream in the woods.</caption>
+    </captions>
+</image>

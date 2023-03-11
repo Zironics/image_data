@@ -1,0 +1,79 @@
+<image>
+  <image-id>2381813</image-id>
+  <coco-id>162753</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1865203</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>701640</subject>
+      <object>701641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1865204</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>701633</subject>
+      <object>701641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1865205</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>701648</subject>
+      <object>701649</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ball</name>
+      <h>20</h>
+      <object_id>701640</object_id>
+      <w>16</w>
+      <y>108</y>
+      <x>272</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>center</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>215</h>
+      <object_id>701641</object_id>
+      <w>496</w>
+      <y>92</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>117</h>
+      <object_id>701633</object_id>
+      <w>499</w>
+      <y>125</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>trophy</name>
+      <h>17</h>
+      <object_id>701648</object_id>
+      <w>22</w>
+      <y>27</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>41</h>
+      <object_id>701649</object_id>
+      <w>156</w>
+      <y>39</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of young men doing drills on a basket ball court.</caption>
+      <caption>A group of guys on a court playing dodge ball</caption>
+      <caption>a group of guys playing dodge ball going for the balls</caption>
+      <caption>A group of players chase after a line of balls on a stadium court.</caption>
+      <caption>Two teams compete in a game of dodge ball.</caption>
+    </captions>
+</image>

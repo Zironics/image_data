@@ -1,0 +1,79 @@
+<image>
+  <image-id>2370264</image-id>
+  <coco-id>103935</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4327073</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2283742</subject>
+      <object>3859479</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4327074</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1980325</subject>
+      <object>3859480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4327075</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3859480</subject>
+      <object>2448657</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>marker</name>
+      <h>41</h>
+      <object_id>2283742</object_id>
+      <w>60</w>
+      <y>262</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>slope</name>
+      <h>103</h>
+      <object_id>3859479</object_id>
+      <w>256</w>
+      <y>228</y>
+      <x>241</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>poles</name>
+      <h>105</h>
+      <object_id>1980325</object_id>
+      <w>255</w>
+      <y>161</y>
+      <x>174</x>
+    </object>
+    <object>
+      <h>192</h>
+      <object_id>3859480</object_id>
+      <w>164</w>
+      <y>27</y>
+      <x>140</x>
+      <name>he</name>
+    </object>
+    <object>
+      <name>goggles</name>
+      <h>30</h>
+      <object_id>2448657</object_id>
+      <w>38</w>
+      <y>44</y>
+      <x>157</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person jumping high up in the air.</caption>
+      <caption>A skier gets some air as he skis over a ramp.</caption>
+      <caption>The ski jumper is concentrating intensely on his target.</caption>
+      <caption>A skier in bright green ski pants in the air ending his downhill run.</caption>
+      <caption>A skier in the air over a jump.</caption>
+    </captions>
+</image>

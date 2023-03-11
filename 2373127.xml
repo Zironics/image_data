@@ -1,0 +1,102 @@
+<image>
+  <image-id>2373127</image-id>
+  <coco-id>386777</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4633322</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4177927</subject>
+      <object>4070163</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589431</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4070162</subject>
+      <object>4070163</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4589432</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4070164</subject>
+      <object>4070165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579532</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4046758</subject>
+      <object>4046759</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>headlights</name>
+      <h>26</h>
+      <object_id>4177927</object_id>
+      <w>107</w>
+      <y>249</y>
+      <x>268</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>161</h>
+      <object_id>4070163</object_id>
+      <w>333</w>
+      <y>137</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>45</h>
+      <object_id>4070162</object_id>
+      <w>29</w>
+      <y>247</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>balcony</name>
+      <h>24</h>
+      <object_id>4070164</object_id>
+      <w>11</w>
+      <y>20</y>
+      <x>208</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>66</h>
+      <object_id>4070165</object_id>
+      <w>103</w>
+      <y>3</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>street</attribute>
+      </attributes>
+      <name>street lamp</name>
+      <h>32</h>
+      <object_id>4046758</object_id>
+      <w>22</w>
+      <y>46</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>89</h>
+      <object_id>4046759</object_id>
+      <w>348</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The green and white city bus is parked a the curb.</caption>
+      <caption>The city bus is pulled over to the side of the road. </caption>
+      <caption>A green and white bus parked in front of a small building.</caption>
+      <caption>A gren and white bus on street next to a building.</caption>
+      <caption>Green and white bus on an otherwise empty street.</caption>
+    </captions>
+</image>

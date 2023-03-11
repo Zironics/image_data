@@ -1,0 +1,129 @@
+<image>
+  <image-id>2356274</image-id>
+  <coco-id>41924</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3726172</relationship_id>
+      <predicate>has</predicate>
+      <subject>2050099</subject>
+      <object>3563142</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4221742</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2539953</subject>
+      <object>2279264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4221743</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2095464</subject>
+      <object>1825451</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4221744</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1939096</subject>
+      <object>1939097</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4221745</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2539953</subject>
+      <object>2279264</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4221746</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2050099</subject>
+      <object>3772729</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>boat</name>
+      <h>176</h>
+      <object_id>2050099</object_id>
+      <w>152</w>
+      <y>99</y>
+      <x>46</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>outline</name>
+      <h>53</h>
+      <object_id>3563142</object_id>
+      <w>154</w>
+      <y>179</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>21</h>
+      <object_id>2539953</object_id>
+      <w>53</w>
+      <y>33</y>
+      <x>87</x>
+    </object>
+    <object>
+      <h>81</h>
+      <object_id>2279264</object_id>
+      <w>3</w>
+      <y>43</y>
+      <x>101</x>
+      <name>pole</name>
+    </object>
+    <object>
+      <name>reflection</name>
+      <h>112</h>
+      <object_id>2095464</object_id>
+      <w>389</w>
+      <y>226</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>156</h>
+      <object_id>1825451</object_id>
+      <w>496</w>
+      <y>183</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>cabin</name>
+      <h>60</h>
+      <object_id>1939096</object_id>
+      <w>114</w>
+      <y>122</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>130</h>
+      <object_id>1939097</object_id>
+      <w>172</w>
+      <y>121</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>harbor</name>
+      <h>42</h>
+      <object_id>3772729</object_id>
+      <w>219</w>
+      <y>119</y>
+      <x>273</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Boats floating close together in a calm body of water.</caption>
+      <caption>A row of ships in the water along side a dock.</caption>
+      <caption>There are several ships docked at the port. </caption>
+      <caption>Multiple boats docked in a marina on a large body of water.</caption>
+      <caption>A couple of boats parked on the dock.</caption>
+    </captions>
+</image>

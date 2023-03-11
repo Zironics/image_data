@@ -1,0 +1,84 @@
+<image>
+  <image-id>2339307</image-id>
+  <coco-id>407650</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4049478</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2231904</subject>
+      <object>3696581</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049479</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2552717</subject>
+      <object>2552718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3645794</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3135453</subject>
+      <object>3135454</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>52</h>
+      <object_id>2231904</object_id>
+      <w>110</w>
+      <y>279</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>48</h>
+      <object_id>3696581</object_id>
+      <w>206</w>
+      <y>284</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>272</h>
+      <object_id>2552717</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>273</h>
+      <object_id>2552718</object_id>
+      <w>496</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>snowboader</name>
+      <h>69</h>
+      <object_id>3135453</object_id>
+      <w>72</w>
+      <y>167</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>goggles</name>
+      <h>20</h>
+      <object_id>3135454</object_id>
+      <w>9</w>
+      <y>168</y>
+      <x>259</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man flying through the air while riding a snowboard.</caption>
+      <caption>A young person jumping their snow board in the air as they ski down a mountain.</caption>
+      <caption>a person jumping a snow board in the air </caption>
+      <caption>A person sailing in the air on a snow board.</caption>
+      <caption>A person is snowboarding off of a rock formation.</caption>
+    </captions>
+</image>

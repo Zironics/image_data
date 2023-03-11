@@ -1,0 +1,59 @@
+<image>
+  <image-id>2321545</image-id>
+  <coco-id>226539</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4640594</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4195781</subject>
+      <object>4195804</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4640595</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4195821</subject>
+      <object>4195818</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pattern</name>
+      <h>81</h>
+      <object_id>4195781</object_id>
+      <w>52</w>
+      <y>280</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>bear</name>
+      <h>434</h>
+      <object_id>4195804</object_id>
+      <w>200</w>
+      <y>25</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>design</name>
+      <h>154</h>
+      <object_id>4195821</object_id>
+      <w>108</w>
+      <y>296</y>
+      <x>95</x>
+    </object>
+    <object>
+      <h>497</h>
+      <object_id>4195818</object_id>
+      <w>375</w>
+      <y>3</y>
+      <x>0</x>
+      <name>bear</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A teddy bear that is all different colors.</caption>
+      <caption>A stuffed animal teddy bear with the price tag still on it .</caption>
+      <caption>A teddy bear with a price tag beside a book.</caption>
+      <caption>A stuffed blue bear with a tag in a room.</caption>
+      <caption>A stuffed bear with designs on it sits on the counter.</caption>
+    </captions>
+</image>

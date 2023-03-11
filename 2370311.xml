@@ -1,0 +1,79 @@
+<image>
+  <image-id>2370311</image-id>
+  <coco-id>232455</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4326571</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1884410</subject>
+      <object>2274637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4326573</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2684463</subject>
+      <object>1884410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4326575</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2370454</subject>
+      <object>2370453</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>airplane</name>
+      <h>12</h>
+      <object_id>1884410</object_id>
+      <w>18</w>
+      <y>82</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue in color</attribute>
+        <attribute>clear</attribute>
+        <attribute>blue</attribute>
+        <attribute>blue and clear</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>292</h>
+      <object_id>2274637</object_id>
+      <w>493</w>
+      <y>1</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>22</h>
+      <object_id>2684463</object_id>
+      <w>10</w>
+      <y>75</y>
+      <x>341</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>7</h>
+      <object_id>2370454</object_id>
+      <w>5</w>
+      <y>85</y>
+      <x>330</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>20</h>
+      <object_id>2370453</object_id>
+      <w>25</w>
+      <y>80</y>
+      <x>328</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large flock of birds fly through the sky.</caption>
+      <caption>a bunch of birds following an airplane around</caption>
+      <caption>A plan and a flock of birds flying in the blue skies.</caption>
+      <caption>A large flock of birds in a V shape and an airplane.</caption>
+      <caption>A flock of birds flies in formation to migrate.</caption>
+    </captions>
+</image>

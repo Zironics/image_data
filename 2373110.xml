@@ -1,0 +1,95 @@
+<image>
+  <image-id>2373110</image-id>
+  <coco-id>264909</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4138325</relationship_id>
+      <predicate>has</predicate>
+      <subject>2595940</subject>
+      <object>3729330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4313046</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1772197</subject>
+      <object>1772198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138326</relationship_id>
+      <predicate>impacted into</predicate>
+      <subject>2595940</subject>
+      <object>3729331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4138327</relationship_id>
+      <predicate>standing</predicate>
+      <subject>2056170</subject>
+      <object>3729332</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>118</h>
+      <object_id>2595940</object_id>
+      <w>131</w>
+      <y>147</y>
+      <x>56</x>
+      <name>boulder</name>
+    </object>
+    <object>
+      <name>edge</name>
+      <h>32</h>
+      <object_id>3729330</object_id>
+      <w>30</w>
+      <y>167</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>37</h>
+      <object_id>1772197</object_id>
+      <w>53</w>
+      <y>169</y>
+      <x>343</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>126</h>
+      <object_id>1772198</object_id>
+      <w>147</w>
+      <y>165</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>63</h>
+      <object_id>3729331</object_id>
+      <w>200</w>
+      <y>257</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>123</h>
+      <object_id>2056170</object_id>
+      <w>179</w>
+      <y>168</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>118</h>
+      <object_id>3729332</object_id>
+      <w>110</w>
+      <y>144</y>
+      <x>72</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Mountain sheep standing in outdoor natural setting area.</caption>
+      <caption>The sheep are grazing on grass in the field. </caption>
+      <caption>A black and white photo of tow rams on a rocky hill.</caption>
+      <caption>a couple of sheep standing up on a small hill</caption>
+      <caption>Black and white photograph of horned sheep by a large rock</caption>
+    </captions>
+</image>

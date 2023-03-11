@@ -1,0 +1,57 @@
+<image>
+  <image-id>285878</image-id>
+  <coco-id>162530</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4745457</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4407211</subject>
+      <object>4454498</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726320</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4407211</subject>
+      <object>4407212</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>50</h>
+      <object_id>4407211</object_id>
+      <w>28</w>
+      <y>350</y>
+      <x>626</x>
+      <name>plant</name>
+    </object>
+    <object>
+      <name>urn</name>
+      <h>112</h>
+      <object_id>4454498</object_id>
+      <w>91</w>
+      <y>400</y>
+      <x>572</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>urn</name>
+      <h>171</h>
+      <object_id>4407212</object_id>
+      <w>132</w>
+      <y>370</y>
+      <x>580</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman walking down a street past a doorway.</caption>
+      <caption>a woman is walking past a doorway on a sidewalk</caption>
+      <caption>A woman talking on a cell phone checks her watch.</caption>
+      <caption>A woman talks on a cell phone and checks her watch while walking on a sidewalk. </caption>
+      <caption>A woman wearing blue is on the phone and walking along a sidewalk in front of a building with black planters on both sides of the entrance.</caption>
+    </captions>
+</image>

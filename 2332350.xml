@@ -1,0 +1,65 @@
+<image>
+  <image-id>2332350</image-id>
+  <coco-id>454561</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3846091</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3233444</subject>
+      <object>3233445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4091869</relationship_id>
+      <predicate>by</predicate>
+      <subject>2967960</subject>
+      <object>2967961</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>201</h>
+      <object_id>3233444</object_id>
+      <w>285</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>268</h>
+      <object_id>3233445</object_id>
+      <w>270</w>
+      <y>123</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>leafy</attribute>
+      </attributes>
+      <name>hill</name>
+      <h>329</h>
+      <object_id>2967960</object_id>
+      <w>286</w>
+      <y>101</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>378</h>
+      <object_id>2967961</object_id>
+      <w>305</w>
+      <y>118</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train that is on the tracks next to the trees.</caption>
+      <caption>Train on tracks with grassy knolls and trees with cloudy sky</caption>
+      <caption>A train is traveling down the tracks in the forest area. </caption>
+      <caption>A very long train traveling through a lush green hillside</caption>
+      <caption>A long train on a narrow train track.</caption>
+    </captions>
+</image>

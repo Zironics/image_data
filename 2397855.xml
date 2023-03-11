@@ -1,0 +1,66 @@
+<image>
+  <image-id>2397855</image-id>
+  <coco-id>30939</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>944233</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>430098</subject>
+      <object>430099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>944234</relationship_id>
+      <predicate>holding</predicate>
+      <subject>430098</subject>
+      <object>430099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>944235</relationship_id>
+      <predicate>carrying</predicate>
+      <subject>430098</subject>
+      <object>430099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>944236</relationship_id>
+      <predicate>IN</predicate>
+      <subject>430098</subject>
+      <object>430101</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>176</h>
+      <object_id>430098</object_id>
+      <w>151</w>
+      <y>106</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>59</h>
+      <object_id>430099</object_id>
+      <w>53</w>
+      <y>142</y>
+      <x>170</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>56</h>
+      <object_id>430101</object_id>
+      <w>57</w>
+      <y>145</y>
+      <x>87</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl is standing in the sea with a surfboard in her hand.</caption>
+      <caption>A beautiful woman standing in the ocean without wearing pants.</caption>
+      <caption>A woman in wet suit holding a surfboard in the ocean.</caption>
+      <caption>A girl in a wet suit holds a surboard while standing in the ocean.</caption>
+      <caption>A women who is holding a surfboard in the ocean.</caption>
+    </captions>
+</image>

@@ -1,0 +1,74 @@
+<image>
+  <image-id>2408007</image-id>
+  <coco-id>427464</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>315981</relationship_id>
+      <predicate>holding</predicate>
+      <subject>269820</subject>
+      <object>269818</object>
+    </relationship>
+    <relationship>
+      <relationship_id>315982</relationship_id>
+      <predicate>behind</predicate>
+      <subject>269841</subject>
+      <object>269832</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>hook</name>
+      <h>22</h>
+      <object_id>269820</object_id>
+      <w>20</w>
+      <y>55</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>hanging</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>77</h>
+      <object_id>269818</object_id>
+      <w>55</w>
+      <y>69</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>pineapple</name>
+      <h>91</h>
+      <object_id>269841</object_id>
+      <w>29</w>
+      <y>231</y>
+      <x>208</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>34</h>
+      <object_id>269832</object_id>
+      <w>47</w>
+      <y>293</y>
+      <x>267</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Bunches of ripe bananas hanging from hooks inside a store.</caption>
+      <caption>Hanging bananas and other fruit and bottled beverages in a produce market.</caption>
+      <caption>fruit hanging from a rail at a market.</caption>
+      <caption>different fruit in the produce section of the grocery store</caption>
+      <caption>A produce section of a market selling various fruits and vegetables.</caption>
+    </captions>
+</image>

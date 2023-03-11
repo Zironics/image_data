@@ -1,0 +1,102 @@
+<image>
+  <image-id>2339372</image-id>
+  <coco-id>124067</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4457896</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3345756</subject>
+      <object>3345758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457897</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3345757</subject>
+      <object>3345758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457898</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3048214</subject>
+      <object>3929119</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4457899</relationship_id>
+      <predicate>containing</predicate>
+      <subject>3234695</subject>
+      <object>3929120</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>broccoli head</name>
+      <h>77</h>
+      <object_id>3345756</object_id>
+      <w>100</w>
+      <y>132</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>salad</name>
+      <h>308</h>
+      <object_id>3345758</object_id>
+      <w>390</w>
+      <y>22</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>broccoli head</name>
+      <h>36</h>
+      <object_id>3345757</object_id>
+      <w>32</w>
+      <y>77</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>vinaigrette</name>
+      <h>132</h>
+      <object_id>3048214</object_id>
+      <w>125</w>
+      <y>70</y>
+      <x>73</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>side</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>327</h>
+      <object_id>3929119</object_id>
+      <w>481</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>edge</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>46</h>
+      <object_id>3234695</object_id>
+      <w>52</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>306</h>
+      <object_id>3929120</object_id>
+      <w>394</w>
+      <y>25</y>
+      <x>30</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Broccoli and other vegetables on a plate on the table</caption>
+      <caption>a bowl full of different veggies and sauce on top</caption>
+      <caption>A white bowl of food on a table.</caption>
+      <caption>A bowl of brocolli and radishes with okra have a peanut sauce on top.</caption>
+      <caption>A salad in a bowl with broccoli, cucumbers and sauce. </caption>
+    </captions>
+</image>

@@ -1,0 +1,69 @@
+<image>
+  <image-id>2383732</image-id>
+  <coco-id>264382</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4788525</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4570009</subject>
+      <object>4570010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4788526</relationship_id>
+      <predicate>with</predicate>
+      <subject>4570010</subject>
+      <object>4570009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4751931</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4470863</subject>
+      <object>4470864</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>throwing</attribute>
+        <attribute>of a man</attribute>
+      </attributes>
+      <name>arm</name>
+      <h>31</h>
+      <object_id>4570009</object_id>
+      <w>25</w>
+      <y>131</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>115</h>
+      <object_id>4570010</object_id>
+      <w>98</w>
+      <y>105</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>17</h>
+      <object_id>4470863</object_id>
+      <w>22</w>
+      <y>149</y>
+      <x>335</x>
+    </object>
+    <object>
+      <name>camera</name>
+      <h>12</h>
+      <object_id>4470864</object_id>
+      <w>14</w>
+      <y>153</y>
+      <x>337</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a baseball player throwing a pitch from the mound</caption>
+      <caption>A pitcher throwing a baseball in front of a crowd.</caption>
+      <caption>The baseball player is pitching the ball during the game. </caption>
+      <caption>A man in baseball uniform throwing a ball.</caption>
+      <caption>A baseball player throwing a baseball while people watch from the stands.</caption>
+    </captions>
+</image>

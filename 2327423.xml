@@ -1,0 +1,62 @@
+<image>
+  <image-id>2327423</image-id>
+  <coco-id>263031</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4080076</relationship_id>
+      <predicate>driving</predicate>
+      <subject>3026635</subject>
+      <object>3026636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4029541</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3088107</subject>
+      <object>3088108</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>248</h>
+      <object_id>3026635</object_id>
+      <w>124</w>
+      <y>1</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>bike</name>
+      <h>247</h>
+      <object_id>3026636</object_id>
+      <w>170</w>
+      <y>67</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>30</h>
+      <object_id>3088107</object_id>
+      <w>49</w>
+      <y>124</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>194</h>
+      <object_id>3088108</object_id>
+      <w>184</w>
+      <y>110</y>
+      <x>181</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person riding on a motorcycle on the road. </caption>
+      <caption>a man with a motorcycle driving down the road.</caption>
+      <caption>A man is riding a motorcycle down a street</caption>
+      <caption>A man on a motorcycle that is sitting in the road.</caption>
+      <caption>A motorcycle rider riding down a scenic street near a forest.</caption>
+    </captions>
+</image>

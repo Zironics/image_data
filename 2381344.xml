@@ -1,0 +1,40 @@
+<image>
+  <image-id>2381344</image-id>
+  <coco-id>226528</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4618587</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4141171</subject>
+      <object>4141172</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>paint</name>
+      <h>18</h>
+      <object_id>4141171</object_id>
+      <w>32</w>
+      <y>186</y>
+      <x>466</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>369</h>
+      <object_id>4141172</object_id>
+      <w>498</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow fire hydrant sitting on a sidewalk next to a building.</caption>
+      <caption>a fire hydrant sitting on the corner by a fence </caption>
+      <caption>A red fire hydrant placed on a city street</caption>
+      <caption>A red fire hydrant on the side of road in front of a store.</caption>
+      <caption>A faded red fire hydrant sitting on a curb in a parking lot.</caption>
+    </captions>
+</image>

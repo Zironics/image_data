@@ -1,0 +1,84 @@
+<image>
+  <image-id>2345146</image-id>
+  <coco-id>96368</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2670998</relationship_id>
+      <predicate>ON</predicate>
+      <subject>910305</subject>
+      <object>910307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2670999</relationship_id>
+      <predicate>ON</predicate>
+      <subject>910309</subject>
+      <object>910307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2671000</relationship_id>
+      <predicate>IN</predicate>
+      <subject>910312</subject>
+      <object>910314</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>surfer</name>
+      <h>184</h>
+      <object_id>910305</object_id>
+      <w>230</w>
+      <y>44</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>surf</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>board</name>
+      <h>23</h>
+      <object_id>910307</object_id>
+      <w>45</w>
+      <y>123</y>
+      <x>283</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>foreground</attribute>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>141</h>
+      <object_id>910309</object_id>
+      <w>257</w>
+      <y>53</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>surfing</attribute>
+      </attributes>
+      <name>man</name>
+      <h>156</h>
+      <object_id>910312</object_id>
+      <w>200</w>
+      <y>32</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>red</name>
+      <h>30</h>
+      <object_id>910314</object_id>
+      <w>35</w>
+      <y>93</y>
+      <x>188</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman that has a surfboard that is in the water.</caption>
+      <caption>A man riding a wave on top of a surfboard.</caption>
+      <caption>A surfer rides a wave and crests over the top.</caption>
+      <caption>A surfer is riding a wave wearing a black and red wet suit.</caption>
+      <caption>A person on a surfboard riding a wave.</caption>
+    </captions>
+</image>

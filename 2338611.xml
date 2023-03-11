@@ -1,0 +1,84 @@
+<image>
+  <image-id>2338611</image-id>
+  <coco-id>558794</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4459630</relationship_id>
+      <predicate>holds a</predicate>
+      <subject>3042187</subject>
+      <object>3930034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4060035</relationship_id>
+      <predicate>over a</predicate>
+      <subject>3513837</subject>
+      <object>3513838</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4060037</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2709572</subject>
+      <object>2813544</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>368</h>
+      <object_id>3042187</object_id>
+      <w>188</w>
+      <y>102</y>
+      <x>178</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>suitcase</name>
+      <h>203</h>
+      <object_id>3930034</object_id>
+      <w>89</w>
+      <y>255</y>
+      <x>347</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>92</h>
+      <object_id>3513837</object_id>
+      <w>67</w>
+      <y>236</y>
+      <x>341</x>
+    </object>
+    <object>
+      <name>suitcase</name>
+      <h>118</h>
+      <object_id>3513838</object_id>
+      <w>70</w>
+      <y>330</y>
+      <x>359</x>
+    </object>
+    <object>
+      <h>269</h>
+      <object_id>2709572</object_id>
+      <w>112</w>
+      <y>140</y>
+      <x>42</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>black clothes</name>
+      <h>231</h>
+      <object_id>2813544</object_id>
+      <w>99</w>
+      <y>168</y>
+      <x>55</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two persons standing outside a moving sub train</caption>
+      <caption>A woman and a man wait on a train station ground. </caption>
+      <caption>Two people standing on a platform near a moving subway car.</caption>
+      <caption>A subway platform with two a man and woman waiting.</caption>
+      <caption>Woman and man waiting near the rails as a subway rushes by.</caption>
+    </captions>
+</image>

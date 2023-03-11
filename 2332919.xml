@@ -1,0 +1,99 @@
+<image>
+  <image-id>2332919</image-id>
+  <coco-id>22627</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4083434</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3205251</subject>
+      <object>3004135</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083443</relationship_id>
+      <predicate>below</predicate>
+      <subject>3205251</subject>
+      <object>3004135</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462608</relationship_id>
+      <predicate>has</predicate>
+      <subject>3205251</subject>
+      <object>3205250</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462609</relationship_id>
+      <predicate>has</predicate>
+      <subject>3205251</subject>
+      <object>3931760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083444</relationship_id>
+      <predicate>LYING OVER</predicate>
+      <subject>3205251</subject>
+      <object>3427360</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4462610</relationship_id>
+      <predicate>has</predicate>
+      <subject>3205251</subject>
+      <object>3931761</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>214</h>
+      <object_id>3205251</object_id>
+      <w>318</w>
+      <y>156</y>
+      <x>55</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <name>blanket</name>
+      <h>217</h>
+      <object_id>3004135</object_id>
+      <w>367</w>
+      <y>31</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>41</h>
+      <object_id>3205250</object_id>
+      <w>72</w>
+      <y>204</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>34</h>
+      <object_id>3931760</object_id>
+      <w>53</w>
+      <y>230</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>sweater</name>
+      <h>155</h>
+      <object_id>3427360</object_id>
+      <w>355</w>
+      <y>40</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>216</h>
+      <object_id>3931761</object_id>
+      <w>314</w>
+      <y>155</y>
+      <x>58</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a cat rests its head under a blanket</caption>
+      <caption>Light is shining on a cat that is peaking out from underneath a blanket.</caption>
+      <caption>A cat laying on top of a bed.</caption>
+      <caption>A gray cat doses underneath the bed covers.</caption>
+      <caption>A cat peaks out from under a blanket.</caption>
+    </captions>
+</image>

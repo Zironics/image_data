@@ -1,0 +1,91 @@
+<image>
+  <image-id>2319314</image-id>
+  <coco-id>228942</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4495846</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3297868</subject>
+      <object>2898507</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495847</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3297868</subject>
+      <object>3512624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495848</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3297868</subject>
+      <object>2898507</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495849</relationship_id>
+      <predicate>with a</predicate>
+      <subject>2898507</subject>
+      <object>2898505</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495850</relationship_id>
+      <predicate>with a</predicate>
+      <subject>2898507</subject>
+      <object>2898506</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4495851</relationship_id>
+      <predicate>with a</predicate>
+      <subject>2898507</subject>
+      <object>3297868</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>130</h>
+      <object_id>3297868</object_id>
+      <w>301</w>
+      <y>105</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>110</h>
+      <object_id>2898507</object_id>
+      <w>494</w>
+      <y>137</y>
+      <x>3</x>
+      <name>road</name>
+    </object>
+    <object>
+      <name>road</name>
+      <h>124</h>
+      <object_id>3512624</object_id>
+      <w>148</w>
+      <y>123</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>127</h>
+      <object_id>2898505</object_id>
+      <w>310</w>
+      <y>100</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>vehicle</name>
+      <h>85</h>
+      <object_id>2898506</object_id>
+      <w>80</w>
+      <y>94</y>
+      <x>418</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A white passenger train passing a parking lot at night.</caption>
+      <caption>A car on a city street with a moving train directly behind it.</caption>
+      <caption>A car driving down a street at night.</caption>
+      <caption>A bunch of cars are crossing an intersection.</caption>
+      <caption>a busy street with cars in action and a train zooming by </caption>
+    </captions>
+</image>

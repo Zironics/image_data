@@ -1,0 +1,43 @@
+<image>
+  <image-id>2382625</image-id>
+  <coco-id>212346</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3580063</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1327423</subject>
+      <object>1327424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3580064</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>1327423</subject>
+      <object>1327424</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>young focused kid</name>
+      <h>46</h>
+      <object_id>1327423</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>video games</name>
+      <h>46</h>
+      <object_id>1327424</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The passenger bus is stopping alongside of the street.</caption>
+      <caption>A commuter bus parked in front of  bus stop.</caption>
+      <caption>A bus next to a bus stop sign waiting for passengers. </caption>
+      <caption>A bus pausing at a bus stop for passengers. </caption>
+      <caption>a bus sitting at a bus stop in the street.</caption>
+    </captions>
+</image>

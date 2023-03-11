@@ -1,0 +1,143 @@
+<image>
+  <image-id>1592436</image-id>
+  <coco-id>83202</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4083683</relationship_id>
+      <predicate>reaching into</predicate>
+      <subject>1609625</subject>
+      <object>1609626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083684</relationship_id>
+      <predicate>leaning on</predicate>
+      <subject>1609634</subject>
+      <object>1609637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083686</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1609634</subject>
+      <object>1609635</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083689</relationship_id>
+      <predicate>leaning on</predicate>
+      <subject>1609634</subject>
+      <object>1609637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264758</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1609639</subject>
+      <object>1609638</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083691</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1609642</subject>
+      <object>1609643</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4083692</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1609641</subject>
+      <object>1609643</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skyscraper</name>
+      <h>634</h>
+      <object_id>1609625</object_id>
+      <w>132</w>
+      <y>17</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>669</h>
+      <object_id>1609626</object_id>
+      <w>752</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>183</h>
+      <object_id>1609634</object_id>
+      <w>82</w>
+      <y>803</y>
+      <x>545</x>
+      <name>child</name>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>148</h>
+      <object_id>1609637</object_id>
+      <w>353</w>
+      <y>824</y>
+      <x>305</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>65</h>
+      <object_id>1609635</object_id>
+      <w>68</w>
+      <y>835</y>
+      <x>545</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>nose</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>124</h>
+      <object_id>1609639</object_id>
+      <w>134</w>
+      <y>604</y>
+      <x>396</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>475</h>
+      <object_id>1609638</object_id>
+      <w>384</w>
+      <y>435</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>65</h>
+      <object_id>1609642</object_id>
+      <w>27</w>
+      <y>706</y>
+      <x>651</x>
+    </object>
+    <object>
+      <name>child</name>
+      <h>40</h>
+      <object_id>1609643</object_id>
+      <w>17</w>
+      <y>728</y>
+      <x>689</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>58</h>
+      <object_id>1609641</object_id>
+      <w>18</w>
+      <y>708</y>
+      <x>674</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small building with a clock face in a field</caption>
+      <caption>Children in a park hang out around a large cartoon clock structure.</caption>
+      <caption>playful tool shed designed to look like a face with a clock for a nose</caption>
+      <caption>A young girl and a boy looking a a small house with a clock face.</caption>
+      <caption>There are children playing around a small wooden building with a clock on it.</caption>
+    </captions>
+</image>

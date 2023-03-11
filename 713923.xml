@@ -1,0 +1,49 @@
+<image>
+  <image-id>713923</image-id>
+  <coco-id>299593</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4065889</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1590273</subject>
+      <object>1590277</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065891</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1590273</subject>
+      <object>1590277</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065893</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1590273</subject>
+      <object>1590277</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>214</h>
+      <object_id>1590273</object_id>
+      <w>324</w>
+      <y>205</y>
+      <x>693</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>609</h>
+      <object_id>1590277</object_id>
+      <w>1009</w>
+      <y>37</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A city street with a two story bus.</caption>
+      <caption>a double deckered bus on a city street next to buildings</caption>
+      <caption>A double decked bus sitting on the curb.</caption>
+      <caption>A double decker bus is parked outside a building in traffic.</caption>
+      <caption>A double decker yellow bus is on a city street.</caption>
+    </captions>
+</image>

@@ -1,0 +1,40 @@
+<image>
+  <image-id>2415170</image-id>
+  <coco-id>530207</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4266131</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3798946</subject>
+      <object>3798945</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>123</h>
+      <object_id>3798946</object_id>
+      <w>80</w>
+      <y>60</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>101</h>
+      <object_id>3798945</object_id>
+      <w>79</w>
+      <y>82</y>
+      <x>197</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman holding onto a pink bag of luggage.</caption>
+      <caption>a bunch of people in a busy area</caption>
+      <caption>A woman holding a travel bag in a crowd of people passing by her.</caption>
+      <caption>A large crowd of travelers at a train platform.</caption>
+      <caption>A crowd of people are standing in line.</caption>
+    </captions>
+</image>

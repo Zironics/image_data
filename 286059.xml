@@ -1,0 +1,98 @@
+<image>
+  <image-id>286059</image-id>
+  <coco-id>474039</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4261955</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1571546</subject>
+      <object>1571535</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4051558</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1571542</subject>
+      <object>1571543</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4051559</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1571544</subject>
+      <object>1571546</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261956</relationship_id>
+      <predicate>chewing</predicate>
+      <subject>1571546</subject>
+      <object>1571534</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>542</h>
+      <object_id>1571546</object_id>
+      <w>380</w>
+      <y>98</y>
+      <x>249</x>
+      <name>child</name>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>46</h>
+      <object_id>1571535</object_id>
+      <w>67</w>
+      <y>269</y>
+      <x>435</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>round</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>27</h>
+      <object_id>1571542</object_id>
+      <w>24</w>
+      <y>200</y>
+      <x>854</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark brown</attribute>
+      </attributes>
+      <name>teddy bear</name>
+      <h>605</h>
+      <object_id>1571543</object_id>
+      <w>509</w>
+      <y>33</y>
+      <x>514</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>40</h>
+      <object_id>1571544</object_id>
+      <w>49</w>
+      <y>218</y>
+      <x>439</x>
+    </object>
+    <object>
+      <h>212</h>
+      <object_id>1571534</object_id>
+      <w>178</w>
+      <y>259</y>
+      <x>451</x>
+      <name>left hand</name>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A baby sitting in between to large stuffed animals.</caption>
+      <caption>A little baby sitting up surrounded by teddy bears.</caption>
+      <caption>A baby sitting in the middle of a bunch of teddy bears.</caption>
+      <caption>A baby snuggled between teddy bears while hands in mouth.</caption>
+      <caption>A baby sitting between big stuffed animals. </caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2332407</image-id>
+  <coco-id>66191</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4563768</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4008624</subject>
+      <object>4008625</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4821012</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>4649405</subject>
+      <object>4649406</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>20</h>
+      <object_id>4008624</object_id>
+      <w>51</w>
+      <y>394</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>player</name>
+      <h>228</h>
+      <object_id>4008625</object_id>
+      <w>97</w>
+      <y>181</y>
+      <x>135</x>
+    </object>
+    <object>
+      <name>detritus</name>
+      <h>31</h>
+      <object_id>4649405</object_id>
+      <w>106</w>
+      <y>403</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>baseball field</name>
+      <h>495</h>
+      <object_id>4649406</object_id>
+      <w>320</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A batter for the Boston Red Sox walking on the field.</caption>
+      <caption>A baseball player that is about to go up to bat.</caption>
+      <caption>a baseball player with a bat is walking on the field</caption>
+      <caption>A batter is walking with his head down.</caption>
+      <caption>A baseball player on the field with a bat. </caption>
+    </captions>
+</image>

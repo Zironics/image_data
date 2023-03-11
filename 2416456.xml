@@ -1,0 +1,87 @@
+<image>
+  <image-id>2416456</image-id>
+  <coco-id>138648</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3881106</relationship_id>
+      <predicate>with</predicate>
+      <subject>2901999</subject>
+      <object>2902000</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254520</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3001472</subject>
+      <object>2851466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254521</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3183142</subject>
+      <object>2851466</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254522</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2851465</subject>
+      <object>2851466</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sky</name>
+      <h>498</h>
+      <object_id>2901999</object_id>
+      <w>324</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>494</h>
+      <object_id>2902000</object_id>
+      <w>328</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>10</h>
+      <object_id>3001472</object_id>
+      <w>7</w>
+      <y>401</y>
+      <x>260</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>468</h>
+      <object_id>2851466</object_id>
+      <w>161</w>
+      <y>31</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>40</h>
+      <object_id>3183142</object_id>
+      <w>26</w>
+      <y>205</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>54</h>
+      <object_id>2851465</object_id>
+      <w>10</w>
+      <y>285</y>
+      <x>238</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An underground sign stands nearby the Big Ben tower in London. </caption>
+      <caption>An Underground sign next to the Big Ben Clock tower.</caption>
+      <caption>Large building sign very high in sky beside a tall building with a large clock on its front.</caption>
+      <caption>A picture of a London underground sign and Big Ben</caption>
+      <caption>The contemporary sign is sitting by the older building.</caption>
+    </captions>
+</image>

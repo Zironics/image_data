@@ -1,0 +1,59 @@
+<image>
+  <image-id>2328106</image-id>
+  <coco-id>108130</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4026578</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3210316</subject>
+      <object>3687113</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063834</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3124124</subject>
+      <object>3124125</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shadow</name>
+      <h>96</h>
+      <object_id>3210316</object_id>
+      <w>115</w>
+      <y>248</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>243</h>
+      <object_id>3687113</object_id>
+      <w>480</w>
+      <y>130</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>island</name>
+      <h>16</h>
+      <object_id>3124124</object_id>
+      <w>221</w>
+      <y>102</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>19</h>
+      <object_id>3124125</object_id>
+      <w>79</w>
+      <y>105</y>
+      <x>384</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The young man is catching a Frisbee over his back.</caption>
+      <caption>Two people on the beach doing tricks with frisbees, and one person in the background standing on the beach.</caption>
+      <caption>A man on the beach bent over throwing a Frisbee.</caption>
+      <caption>Three guys playing Frisbee on the sand at the beach.</caption>
+      <caption>A man leaning forward to throw a frisbee on a beach.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337822</image-id>
+  <coco-id>244197</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4630039</relationship_id>
+      <predicate>for</predicate>
+      <subject>4169936</subject>
+      <object>4169937</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4633562</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>4178588</subject>
+      <object>4178589</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wires</name>
+      <h>80</h>
+      <object_id>4169936</object_id>
+      <w>119</w>
+      <y>252</y>
+      <x>292</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>77</h>
+      <object_id>4169937</object_id>
+      <w>79</w>
+      <y>195</y>
+      <x>312</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>95</h>
+      <object_id>4178588</object_id>
+      <w>151</w>
+      <y>133</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>76</h>
+      <object_id>4178589</object_id>
+      <w>57</w>
+      <y>193</y>
+      <x>327</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men next to each other on their laptops.</caption>
+      <caption>Two men sitting at tables are working on their laptop computers.</caption>
+      <caption>Two people sitting in low light looking at laptop screens.</caption>
+      <caption>Two people are conversing  over some laptops.</caption>
+      <caption>these two guys look like they're on a stage using computers</caption>
+    </captions>
+</image>

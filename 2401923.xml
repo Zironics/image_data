@@ -1,0 +1,196 @@
+<image>
+  <image-id>2401923</image-id>
+  <coco-id>115361</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3284462</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142625</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284463</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284464</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1142624</subject>
+      <object>1142627</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284465</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142628</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284466</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142623</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284467</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142625</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284468</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284469</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142626</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284470</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142634</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284471</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142635</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284472</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284473</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1142624</subject>
+      <object>1142637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284474</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1142624</subject>
+      <object>1142623</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>stuffed</attribute>
+        <attribute>toy</attribute>
+        <attribute>teddy</attribute>
+        <attribute>lying</attribute>
+        <attribute>little</attribute>
+        <attribute>old</attribute>
+        <attribute>holding</attribute>
+        <attribute>laying</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>141</h>
+      <object_id>1142624</object_id>
+      <w>191</w>
+      <y>106</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirty</attribute>
+        <attribute>red</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>heart</name>
+      <h>80</h>
+      <object_id>1142625</object_id>
+      <w>58</w>
+      <y>125</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>52</h>
+      <object_id>1142626</object_id>
+      <w>61</w>
+      <y>130</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>28</h>
+      <object_id>1142627</object_id>
+      <w>35</w>
+      <y>108</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>71</h>
+      <object_id>1142628</object_id>
+      <w>60</w>
+      <y>149</y>
+      <x>279</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>button</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>12</h>
+      <object_id>1142623</object_id>
+      <w>11</w>
+      <y>176</y>
+      <x>307</x>
+    </object>
+    <object>
+      <name>right leg</name>
+      <h>46</h>
+      <object_id>1142634</object_id>
+      <w>57</w>
+      <y>186</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>left arm</name>
+      <h>37</h>
+      <object_id>1142635</object_id>
+      <w>41</w>
+      <y>210</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>99</h>
+      <object_id>1142636</object_id>
+      <w>64</w>
+      <y>142</y>
+      <x>280</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rocky</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>251</h>
+      <object_id>1142637</object_id>
+      <w>380</w>
+      <y>60</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a cloth heart on the stuffed teddy bear. </caption>
+      <caption>A Teddy bear with a heart is lying on the ground.</caption>
+      <caption>Weathered stuffed toy bear lying on rocky ground. </caption>
+      <caption>A teddy bear with a heart on it lays dirtily on the ground.</caption>
+      <caption>A large brown teddy bear laying on top of the ground.</caption>
+    </captions>
+</image>

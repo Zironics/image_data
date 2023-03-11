@@ -1,0 +1,54 @@
+<image>
+  <image-id>2340173</image-id>
+  <coco-id>521530</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4767339</relationship_id>
+      <predicate>lays on</predicate>
+      <subject>4513162</subject>
+      <object>4513163</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4767340</relationship_id>
+      <predicate>reaches to touch</predicate>
+      <subject>4513162</subject>
+      <object>4513164</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>202</h>
+      <object_id>4513162</object_id>
+      <w>310</w>
+      <y>10</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>181</h>
+      <object_id>4513163</object_id>
+      <w>350</w>
+      <y>8</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>183</h>
+      <object_id>4513164</object_id>
+      <w>253</w>
+      <y>121</y>
+      <x>85</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is sitting on the couch near a remote. </caption>
+      <caption>A large brown bear touching a giant remote control.</caption>
+      <caption>A brown cat with legs on the remote </caption>
+      <caption>A cat that has its paw on a remote control.</caption>
+      <caption>Cat laying on a pillow touching a television remote.</caption>
+    </captions>
+</image>

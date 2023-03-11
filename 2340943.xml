@@ -1,0 +1,65 @@
+<image>
+  <image-id>2340943</image-id>
+  <coco-id>259467</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4618498</relationship_id>
+      <predicate>has</predicate>
+      <subject>4140935</subject>
+      <object>4140936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4634702</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4181529</subject>
+      <object>4181530</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>girl</name>
+      <h>94</h>
+      <object_id>4140935</object_id>
+      <w>120</w>
+      <y>137</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>83</h>
+      <object_id>4140936</object_id>
+      <w>66</w>
+      <y>134</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>children</name>
+      <h>197</h>
+      <object_id>4181529</object_id>
+      <w>333</w>
+      <y>134</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>coats</name>
+      <h>99</h>
+      <object_id>4181530</object_id>
+      <w>367</w>
+      <y>225</y>
+      <x>48</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person wearing a suit talking to a child</caption>
+      <caption>A group of adults watching children at a table.</caption>
+      <caption>A group of students in white lab coats being observed by two men in suits.</caption>
+      <caption>Some adults looking at kids using small computers.</caption>
+      <caption>Instructors assisting children on computers in a colorful room.</caption>
+    </captions>
+</image>

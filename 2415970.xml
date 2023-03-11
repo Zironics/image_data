@@ -1,0 +1,181 @@
+<image>
+  <image-id>2415970</image-id>
+  <coco-id>238310</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4044890</relationship_id>
+      <predicate>recording with</predicate>
+      <subject>3078169</subject>
+      <object>3002305</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544585</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3963995</subject>
+      <object>3506309</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544586</relationship_id>
+      <predicate>holding up</predicate>
+      <subject>3078169</subject>
+      <object>3248642</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544587</relationship_id>
+      <predicate>recording a</predicate>
+      <subject>3461297</subject>
+      <object>3963996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544588</relationship_id>
+      <predicate>watching a</predicate>
+      <subject>3505764</subject>
+      <object>3963998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544589</relationship_id>
+      <predicate>watching a</predicate>
+      <subject>3286253</subject>
+      <object>3963998</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3684358</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3263997</subject>
+      <object>3263997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4044931</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2762306</subject>
+      <object>2762305</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>322</h>
+      <object_id>3078169</object_id>
+      <w>329</w>
+      <y>176</y>
+      <x>0</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <name>cellphone</name>
+      <h>58</h>
+      <object_id>3002305</object_id>
+      <w>113</w>
+      <y>203</y>
+      <x>125</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>23</h>
+      <object_id>3963995</object_id>
+      <w>59</w>
+      <y>295</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>37</h>
+      <object_id>3506309</object_id>
+      <w>61</w>
+      <y>291</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>plaid</attribute>
+        <attribute>blue and black</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>104</h>
+      <object_id>3248642</object_id>
+      <w>203</w>
+      <y>1</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>rcell phone</name>
+      <h>32</h>
+      <object_id>3461297</object_id>
+      <w>74</w>
+      <y>225</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>band</name>
+      <h>227</h>
+      <object_id>3963996</object_id>
+      <w>272</w>
+      <y>164</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>138</h>
+      <object_id>3505764</object_id>
+      <w>97</w>
+      <y>276</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>band</name>
+      <h>263</h>
+      <object_id>3963998</object_id>
+      <w>273</w>
+      <y>152</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>man</name>
+      <h>320</h>
+      <object_id>3286253</object_id>
+      <w>330</w>
+      <y>178</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>microphone stand</name>
+      <h>56</h>
+      <object_id>3263997</object_id>
+      <w>66</w>
+      <y>260</y>
+      <x>102</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>electronic</attribute>
+      </attributes>
+      <name>device</name>
+      <h>53</h>
+      <object_id>2762306</object_id>
+      <w>64</w>
+      <y>214</y>
+      <x>156</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>holding up</attribute>
+      </attributes>
+      <name>person</name>
+      <h>225</h>
+      <object_id>2762305</object_id>
+      <w>164</w>
+      <y>200</y>
+      <x>144</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman holding up an umbrella near a stage.</caption>
+      <caption>THERE IS A WOMAN THAT IS RECORDIGN A CONCERT WITH HER CELL PHONE </caption>
+      <caption>A lady holding up an umbrella in a dark place.</caption>
+      <caption>A woman recording something in the rain under an umbrella. </caption>
+      <caption>A woman hold an umbrella in one hand and taking a photograph with the other hand.</caption>
+    </captions>
+</image>

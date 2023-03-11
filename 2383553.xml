@@ -1,0 +1,124 @@
+<image>
+  <image-id>2383553</image-id>
+  <coco-id>192529</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1302325</relationship_id>
+      <predicate>near</predicate>
+      <subject>531834</subject>
+      <object>531838</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1302326</relationship_id>
+      <predicate>casting</predicate>
+      <subject>531830</subject>
+      <object>531839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1302327</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>531843</subject>
+      <object>531844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1302328</relationship_id>
+      <predicate>casting</predicate>
+      <subject>531830</subject>
+      <object>531839</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1302329</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>531849</subject>
+      <object>531837</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>patchy</attribute>
+        <attribute>growing</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>52</h>
+      <object_id>531834</object_id>
+      <w>176</w>
+      <y>447</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>163</h>
+      <object_id>531838</object_id>
+      <w>290</w>
+      <y>337</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bus stop</attribute>
+        <attribute>for bus stop</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>127</h>
+      <object_id>531830</object_id>
+      <w>70</w>
+      <y>10</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>165</h>
+      <object_id>531839</object_id>
+      <w>132</w>
+      <y>334</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>wire</name>
+      <h>34</h>
+      <object_id>531843</object_id>
+      <w>227</w>
+      <y>141</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>136</h>
+      <object_id>531844</object_id>
+      <w>29</w>
+      <y>132</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>street light</name>
+      <h>12</h>
+      <object_id>531849</object_id>
+      <w>13</w>
+      <y>91</y>
+      <x>360</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>167</h>
+      <object_id>531837</object_id>
+      <w>28</w>
+      <y>99</y>
+      <x>278</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bus stop and bench  on a street corner.</caption>
+      <caption>a bus bench sits next to a city street</caption>
+      <caption>A bus stop with a slightly damaged bench.</caption>
+      <caption>Park bench falling apart next to a bus stop sign. </caption>
+      <caption>A bus stop sign sitting next to a bus stop bench.</caption>
+    </captions>
+</image>

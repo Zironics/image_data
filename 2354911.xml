@@ -1,0 +1,85 @@
+<image>
+  <image-id>2354911</image-id>
+  <coco-id>185962</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3745523</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3571350</subject>
+      <object>2226458</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4226424</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2014683</subject>
+      <object>2014684</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3745526</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2510319</subject>
+      <object>3571351</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>edge</name>
+      <h>20</h>
+      <object_id>3571350</object_id>
+      <w>48</w>
+      <y>264</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>log</name>
+      <h>50</h>
+      <object_id>2226458</object_id>
+      <w>100</w>
+      <y>255</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>edge</name>
+      <h>37</h>
+      <object_id>2014683</object_id>
+      <w>33</w>
+      <y>254</y>
+      <x>372</x>
+    </object>
+    <object>
+      <name>thigh</name>
+      <h>82</h>
+      <object_id>2014684</object_id>
+      <w>55</w>
+      <y>212</y>
+      <x>367</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>282</h>
+      <object_id>2510319</object_id>
+      <w>137</w>
+      <y>1</y>
+      <x>0</x>
+      <name>tree trunk</name>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>322</h>
+      <object_id>3571351</object_id>
+      <w>334</w>
+      <y>2</y>
+      <x>128</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An elephant standing behind a wire fence with long tusk.</caption>
+      <caption>An elephant closes its eyes standing near a fence and a tree.</caption>
+      <caption>A elephant that is standing near a tree.</caption>
+      <caption>We are looking at an elephant with his trunk up.</caption>
+      <caption>An elephant stands by a log and fence.</caption>
+    </captions>
+</image>

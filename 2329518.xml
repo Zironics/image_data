@@ -1,0 +1,108 @@
+<image>
+  <image-id>2329518</image-id>
+  <coco-id>486438</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4576945</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4040462</subject>
+      <object>4040463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576946</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4040462</subject>
+      <object>4040463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4830671</relationship_id>
+      <predicate>on</predicate>
+      <subject>4040511</subject>
+      <object>4673657</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4576971</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4040511</subject>
+      <object>4040512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4830675</relationship_id>
+      <predicate>on</predicate>
+      <subject>4673667</subject>
+      <object>4673668</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>donuts</name>
+      <h>177</h>
+      <object_id>4040462</object_id>
+      <w>307</w>
+      <y>132</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>37</h>
+      <object_id>4040463</object_id>
+      <w>70</w>
+      <y>297</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on the donut</attribute>
+      </attributes>
+      <h>71</h>
+      <object_id>4040511</object_id>
+      <w>155</w>
+      <y>238</y>
+      <x>99</x>
+      <name>chocolate</name>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>101</h>
+      <object_id>4673657</object_id>
+      <w>185</w>
+      <y>231</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>27</h>
+      <object_id>4040512</object_id>
+      <w>15</w>
+      <y>303</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>dried</attribute>
+      </attributes>
+      <name>glaze crust</name>
+      <h>24</h>
+      <object_id>4673667</object_id>
+      <w>47</w>
+      <y>185</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>donut</name>
+      <h>94</h>
+      <object_id>4673668</object_id>
+      <w>163</w>
+      <y>140</y>
+      <x>278</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A plate of donuts with a person in the background.</caption>
+      <caption>A person sitting on the floor near a plate of donuts.</caption>
+      <caption>Eight doughnuts sitting on a white serving tray.</caption>
+      <caption>The chocolate and glazed donuts are stacked on a plate.</caption>
+      <caption>A close up of glazed donuts that are plain or with chocolate.</caption>
+    </captions>
+</image>

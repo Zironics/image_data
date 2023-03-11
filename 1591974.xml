@@ -1,0 +1,40 @@
+<image>
+  <image-id>1591974</image-id>
+  <coco-id>83178</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4663079</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4253126</subject>
+      <object>4253127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>287</h>
+      <object_id>4253126</object_id>
+      <w>139</w>
+      <y>275</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>suit</name>
+      <h>221</h>
+      <object_id>4253127</object_id>
+      <w>129</w>
+      <y>339</y>
+      <x>192</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing outside of a bus.</caption>
+      <caption>A group of people in street area with bus and various vendor carts.</caption>
+      <caption>A group of people outside a bus in a bazaar.</caption>
+      <caption>People getting on a bus on a street that had several vendors.</caption>
+      <caption>Vendors are set up on a street lined with people. </caption>
+    </captions>
+</image>

@@ -1,0 +1,101 @@
+<image>
+  <image-id>2341238</image-id>
+  <coco-id>214852</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3948544</relationship_id>
+      <predicate>holds a</predicate>
+      <subject>2421203</subject>
+      <object>2421202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3948545</relationship_id>
+      <predicate>at</predicate>
+      <subject>2073088</subject>
+      <object>2073090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3948546</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2073090</subject>
+      <object>2073089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3948547</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2657754</subject>
+      <object>2657753</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>60</h>
+      <object_id>2421203</object_id>
+      <w>33</w>
+      <y>188</y>
+      <x>52</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>purse</name>
+      <h>18</h>
+      <object_id>2421202</object_id>
+      <w>21</w>
+      <y>215</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>mesh</name>
+      <h>495</h>
+      <object_id>2073088</object_id>
+      <w>189</w>
+      <y>1</y>
+      <x>185</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>358</h>
+      <object_id>2073090</object_id>
+      <w>77</w>
+      <y>76</y>
+      <x>291</x>
+    </object>
+    <object>
+      <name>pen</name>
+      <h>480</h>
+      <object_id>2073089</object_id>
+      <w>368</w>
+      <y>14</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>37</h>
+      <object_id>2657754</object_id>
+      <w>283</w>
+      <y>290</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>enclosure</name>
+      <h>498</h>
+      <object_id>2657753</object_id>
+      <w>373</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holding a bat practicing hitting balls. </caption>
+      <caption>a man in a makeshift batting cage swings</caption>
+      <caption>A man is in a batting cage while people watch him.</caption>
+      <caption>A man standing in a batting cage holding a baseball bat.</caption>
+      <caption>A man is wearing a helmet in the batting cage</caption>
+    </captions>
+</image>

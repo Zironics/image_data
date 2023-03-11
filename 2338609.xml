@@ -1,0 +1,69 @@
+<image>
+  <image-id>2338609</image-id>
+  <coco-id>309060</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4060079</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2678980</subject>
+      <object>3700616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4060080</relationship_id>
+      <predicate>with</predicate>
+      <subject>3000110</subject>
+      <object>3000111</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>knobs</name>
+      <h>17</h>
+      <object_id>2678980</object_id>
+      <w>55</w>
+      <y>131</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>207</h>
+      <object_id>3700616</object_id>
+      <w>155</w>
+      <y>119</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>52</h>
+      <object_id>3000110</object_id>
+      <w>20</w>
+      <y>192</y>
+      <x>479</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>lid</name>
+      <h>11</h>
+      <object_id>3000111</object_id>
+      <w>16</w>
+      <y>192</y>
+      <x>482</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kitchen filled with a stove top oven and two stools.</caption>
+      <caption>A kitchen containing various objects and appliances, including a stove, microwave, stools and a clock on the wall</caption>
+      <caption>There are two stools sitting in the kitchen.</caption>
+      <caption>A kitchen containing white cabinets, a brown floor, and a washing machine.</caption>
+      <caption>An old residential kitchen with electric stove and washing machine</caption>
+    </captions>
+</image>

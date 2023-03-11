@@ -1,0 +1,145 @@
+<image>
+  <image-id>2388040</image-id>
+  <coco-id>40557</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4770713</relationship_id>
+      <predicate>on</predicate>
+      <subject>4522911</subject>
+      <object>4522912</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4770714</relationship_id>
+      <predicate>on</predicate>
+      <subject>4522913</subject>
+      <object>4522914</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4770715</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4522915</subject>
+      <object>4522916</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4770716</relationship_id>
+      <predicate>on</predicate>
+      <subject>4522917</subject>
+      <object>4522918</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4832366</relationship_id>
+      <predicate>on</predicate>
+      <subject>4678153</subject>
+      <object>4678152</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>hanging </attribute>
+      </attributes>
+      <name>wires</name>
+      <h>98</h>
+      <object_id>4522911</object_id>
+      <w>116</w>
+      <y>155</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>205</h>
+      <object_id>4522912</object_id>
+      <w>38</w>
+      <y>166</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow </attribute>
+      </attributes>
+      <name>signal light</name>
+      <h>54</h>
+      <object_id>4522913</object_id>
+      <w>25</w>
+      <y>108</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>203</h>
+      <object_id>4522914</object_id>
+      <w>30</w>
+      <y>168</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>58</h>
+      <object_id>4522915</object_id>
+      <w>23</w>
+      <y>106</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>red</name>
+      <h>3</h>
+      <object_id>4522916</object_id>
+      <w>1</w>
+      <y>126</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+        <attribute>hanging  </attribute>
+      </attributes>
+      <name>sign</name>
+      <h>25</h>
+      <object_id>4522917</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>205</h>
+      <object_id>4522918</object_id>
+      <w>29</w>
+      <y>168</y>
+      <x>235</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> bottom</attribute>
+        <attribute>green</attribute>
+        <attribute>single</attribute>
+      </attributes>
+      <name>bulb</name>
+      <h>21</h>
+      <object_id>4678153</object_id>
+      <w>18</w>
+      <y>134</y>
+      <x>382</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>street </attribute>
+        <attribute> lamp</attribute>
+        <attribute>three </attribute>
+      </attributes>
+      <name>light</name>
+      <h>50</h>
+      <object_id>4678152</object_id>
+      <w>30</w>
+      <y>114</y>
+      <x>374</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a street light is hanging on a pole</caption>
+      <caption>Two traffic signals on a pole arm at an intersection.</caption>
+      <caption>Traffic light hanging near power lines with trees in back. </caption>
+      <caption>A red light at a stop in front of some trees.</caption>
+      <caption>A traffic light with a thirty one street sign next to it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,102 @@
+<image>
+  <image-id>2331675</image-id>
+  <coco-id>475195</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4099755</relationship_id>
+      <predicate>amongst</predicate>
+      <subject>2904801</subject>
+      <object>2904802</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4099757</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3084792</subject>
+      <object>3084795</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260822</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3795532</subject>
+      <object>3354770</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260821</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3795532</subject>
+      <object>3354770</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260820</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3795532</subject>
+      <object>3354770</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260819</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3795532</subject>
+      <object>3354770</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>145</h>
+      <object_id>2904801</object_id>
+      <w>153</w>
+      <y>282</y>
+      <x>125</x>
+    </object>
+    <object>
+      <name>fruits</name>
+      <h>426</h>
+      <object_id>2904802</object_id>
+      <w>496</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>green leaves</name>
+      <h>27</h>
+      <object_id>3084792</object_id>
+      <w>36</w>
+      <y>0</y>
+      <x>310</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>326</h>
+      <object_id>3084795</object_id>
+      <w>486</w>
+      <y>70</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>bunch</name>
+      <h>275</h>
+      <object_id>3795532</object_id>
+      <w>72</w>
+      <y>153</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>banana</name>
+      <h>88</h>
+      <object_id>3354770</object_id>
+      <w>87</w>
+      <y>131</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an assortment of tropical fruits with some large yellow flowers</caption>
+      <caption>An assortment of tropical fruits laid out on a blanket</caption>
+      <caption>Many different fruits are gathered in a pile. </caption>
+      <caption>Several pieces of colorful tropical fruit and a couple flowers.</caption>
+      <caption>there is a lot of green and yellow fruit, also some flowers.</caption>
+    </captions>
+</image>

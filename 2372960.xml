@@ -1,0 +1,130 @@
+<image>
+  <image-id>2372960</image-id>
+  <coco-id>358980</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4676263</relationship_id>
+      <predicate>holds</predicate>
+      <subject>4286153</subject>
+      <object>4286154</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4676264</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4286154</subject>
+      <object>4286155</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4676295</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4107762</subject>
+      <object>4286220</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4605053</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4107781</subject>
+      <object>4107786</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4605054</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4107788</subject>
+      <object>4107789</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>catcher</name>
+      <h>68</h>
+      <object_id>4286153</object_id>
+      <w>40</w>
+      <y>133</y>
+      <x>280</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>black glove</name>
+      <h>13</h>
+      <object_id>4286154</object_id>
+      <w>18</w>
+      <y>167</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>left hand</name>
+      <h>22</h>
+      <object_id>4286155</object_id>
+      <w>12</w>
+      <y>160</y>
+      <x>270</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in a baseball park</attribute>
+      </attributes>
+      <h>70</h>
+      <object_id>4107762</object_id>
+      <w>161</w>
+      <y>111</y>
+      <x>0</x>
+      <name>first base/baseline</name>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>252</h>
+      <object_id>4286220</object_id>
+      <w>485</w>
+      <y>64</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing number 45 on his shirt bach</attribute>
+      </attributes>
+      <h>88</h>
+      <object_id>4107781</object_id>
+      <w>74</w>
+      <y>134</y>
+      <x>167</x>
+      <name>batter</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>12</h>
+      <object_id>4107786</object_id>
+      <w>11</w>
+      <y>133</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>16</h>
+      <object_id>4107788</object_id>
+      <w>15</w>
+      <y>158</y>
+      <x>307</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>20</h>
+      <object_id>4107789</object_id>
+      <w>34</w>
+      <y>156</y>
+      <x>290</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Baseball players playing a game of baseball on a baseball field.</caption>
+      <caption>A batter, a catcher and an umpire are in position.</caption>
+      <caption>A pitch has just been caught at a baseball game.</caption>
+      <caption>A professional player at the plate in a Major League Baseball game.</caption>
+      <caption>Two baseball players and an empire on a baseball fei
+D during a game </caption>
+    </captions>
+</image>

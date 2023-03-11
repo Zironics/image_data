@@ -1,0 +1,83 @@
+<image>
+  <image-id>2346255</image-id>
+  <coco-id>226632</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2631903</relationship_id>
+      <predicate>have</predicate>
+      <subject>901225</subject>
+      <object>901226</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2631904</relationship_id>
+      <predicate>ON</predicate>
+      <subject>901229</subject>
+      <object>901228</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2631905</relationship_id>
+      <predicate>ON</predicate>
+      <subject>901232</subject>
+      <object>901225</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bike</name>
+      <h>105</h>
+      <object_id>901225</object_id>
+      <w>184</w>
+      <y>120</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>seat</name>
+      <h>75</h>
+      <object_id>901226</object_id>
+      <w>112</w>
+      <y>136</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>smiling</attribute>
+        <attribute>holding</attribute>
+      </attributes>
+      <h>148</h>
+      <object_id>901229</object_id>
+      <w>113</w>
+      <y>93</y>
+      <x>37</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>background</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>118</h>
+      <object_id>901228</object_id>
+      <w>472</w>
+      <y>56</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wearing</attribute>
+      </attributes>
+      <name>lady</name>
+      <h>111</h>
+      <object_id>901232</object_id>
+      <w>77</w>
+      <y>53</y>
+      <x>368</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Friends having fun on bicycles by the beach</caption>
+      <caption>A group of bicyclists stopping for a rest.</caption>
+      <caption>Four people sitting on tricycles on the road.</caption>
+      <caption>Several young people on three wheeled bikes with a beach in the background.</caption>
+      <caption>A large crowd is on the beach and people are on bikes.</caption>
+    </captions>
+</image>

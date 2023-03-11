@@ -1,0 +1,256 @@
+<image>
+  <image-id>2400776</image-id>
+  <coco-id>95001</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>846227</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405524</subject>
+      <object>405525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846228</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405524</subject>
+      <object>405526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846229</relationship_id>
+      <predicate>leaves a</predicate>
+      <subject>405524</subject>
+      <object>405527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846230</relationship_id>
+      <predicate>leaves</predicate>
+      <subject>405528</subject>
+      <object>405529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846231</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405524</subject>
+      <object>405530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846232</relationship_id>
+      <predicate>IN</predicate>
+      <subject>405524</subject>
+      <object>405531</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846233</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405530</subject>
+      <object>405532</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846234</relationship_id>
+      <predicate>mixed with</predicate>
+      <subject>405527</subject>
+      <object>405529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846235</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405524</subject>
+      <object>405530</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846236</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405524</subject>
+      <object>405526</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846237</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405524</subject>
+      <object>405525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846238</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405530</subject>
+      <object>405532</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846239</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405524</subject>
+      <object>405533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846240</relationship_id>
+      <predicate>intersects</predicate>
+      <subject>405527</subject>
+      <object>405529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846241</relationship_id>
+      <predicate>leaves behind</predicate>
+      <subject>405524</subject>
+      <object>405527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846242</relationship_id>
+      <predicate>leaves a</predicate>
+      <subject>405524</subject>
+      <object>405527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846243</relationship_id>
+      <predicate>going opposite of</predicate>
+      <subject>405524</subject>
+      <object>405528</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846244</relationship_id>
+      <predicate>has a</predicate>
+      <subject>405530</subject>
+      <object>405532</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846245</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>405524</subject>
+      <object>405529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846246</relationship_id>
+      <predicate>behind</predicate>
+      <subject>405528</subject>
+      <object>405527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846247</relationship_id>
+      <predicate>covered by</predicate>
+      <subject>405528</subject>
+      <object>405527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846248</relationship_id>
+      <predicate>leaving a</predicate>
+      <subject>405524</subject>
+      <object>405527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>846249</relationship_id>
+      <predicate>leaving</predicate>
+      <subject>405528</subject>
+      <object>405529</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>striped</attribute>
+        <attribute>detailed</attribute>
+        <attribute>performing</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>62</h>
+      <object_id>405524</object_id>
+      <w>72</w>
+      <y>83</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>31</h>
+      <object_id>405525</object_id>
+      <w>15</w>
+      <y>103</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>12</h>
+      <object_id>405526</object_id>
+      <w>13</w>
+      <y>97</y>
+      <x>380</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>trail</name>
+      <h>70</h>
+      <object_id>405527</object_id>
+      <w>317</w>
+      <y>116</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>jet</name>
+      <h>56</h>
+      <object_id>405528</object_id>
+      <w>50</w>
+      <y>113</y>
+      <x>188</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>fading</attribute>
+      </attributes>
+      <name>vapor</name>
+      <h>53</h>
+      <object_id>405529</object_id>
+      <w>256</w>
+      <y>84</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>wing</name>
+      <h>26</h>
+      <object_id>405530</object_id>
+      <w>25</w>
+      <y>83</y>
+      <x>338</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+        <attribute>blueish-grey</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>284</h>
+      <object_id>405531</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>circle</name>
+      <h>5</h>
+      <object_id>405532</object_id>
+      <w>5</w>
+      <y>87</y>
+      <x>342</x>
+    </object>
+    <object>
+      <name>belly</name>
+      <h>17</h>
+      <object_id>405533</object_id>
+      <w>19</w>
+      <y>105</y>
+      <x>346</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two fighter planes crossing while flying in the sky.</caption>
+      <caption>Two airplanes in stunt flights emit red and blue exhaust. </caption>
+      <caption>Two jets flying across each other- one with a blue smoke trail, and one with a red smoke trail.</caption>
+      <caption>Two air planes at an air show with red and blue smoke. </caption>
+      <caption>Two air planes with colored smoke crossing each other.</caption>
+    </captions>
+</image>

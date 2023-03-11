@@ -1,0 +1,51 @@
+<image>
+  <image-id>2330576</image-id>
+  <coco-id>393223</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260957</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3028548</subject>
+      <object>3681472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4011989</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2897298</subject>
+      <object>3681472</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>29</h>
+      <object_id>3028548</object_id>
+      <w>42</w>
+      <y>5</y>
+      <x>158</x>
+    </object>
+    <object>
+      <name>human</name>
+      <h>373</h>
+      <object_id>3681472</object_id>
+      <w>438</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>finger</name>
+      <h>26</h>
+      <object_id>2897298</object_id>
+      <w>66</w>
+      <y>348</y>
+      <x>376</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman wearing a necklace is brushing her teeth.</caption>
+      <caption>A man that is holding a toothbrush in his mouth.</caption>
+      <caption>A closeup of a girl brushing her teeth</caption>
+      <caption>a women brushing her teeth with her tooth brush </caption>
+      <caption>A boy brushing his teeth near a window.</caption>
+    </captions>
+</image>

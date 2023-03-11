@@ -1,0 +1,59 @@
+<image>
+  <image-id>2327051</image-id>
+  <coco-id>4360</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4475019</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2737196</subject>
+      <object>2737187</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475020</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3170648</subject>
+      <object>3170649</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>part</name>
+      <h>16</h>
+      <object_id>2737196</object_id>
+      <w>21</w>
+      <y>120</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>54</h>
+      <object_id>2737187</object_id>
+      <w>49</w>
+      <y>219</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>20</h>
+      <object_id>3170648</object_id>
+      <w>22</w>
+      <y>2</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>12</h>
+      <object_id>3170649</object_id>
+      <w>18</w>
+      <y>7</y>
+      <x>140</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A scooter covered in a green, felt-like fabric. </caption>
+      <caption>A scooter is fashioned in Chia Pet and parked alongside the road.</caption>
+      <caption>A parked motor cycle decorated with artificial grass</caption>
+      <caption>A motorcycle covered in green astro turf parked on the side of a road.</caption>
+      <caption>A parked motorcycle is covered with green Astroturf. </caption>
+    </captions>
+</image>

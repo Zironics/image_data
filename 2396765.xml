@@ -1,0 +1,62 @@
+<image>
+  <image-id>2396765</image-id>
+  <coco-id>303891</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4699186</relationship_id>
+      <predicate>facing away from</predicate>
+      <subject>4343106</subject>
+      <object>4343107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4699187</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4343108</subject>
+      <object>4343109</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>50</h>
+      <object_id>4343106</object_id>
+      <w>28</w>
+      <y>225</y>
+      <x>348</x>
+    </object>
+    <object>
+      <name>crowd</name>
+      <h>75</h>
+      <object_id>4343107</object_id>
+      <w>315</w>
+      <y>200</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>high</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>13</h>
+      <object_id>4343108</object_id>
+      <w>20</w>
+      <y>3</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>76</h>
+      <object_id>4343109</object_id>
+      <w>133</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Dozens of colorful kites flying above a crowd of people.</caption>
+      <caption>There is a large number of kites flying in a festival</caption>
+      <caption>A sea of kites wave through the sky.</caption>
+      <caption>A large group of people fly their kites high in the sky.</caption>
+      <caption>A large group of people are flying kites.</caption>
+    </captions>
+</image>

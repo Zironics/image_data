@@ -1,0 +1,75 @@
+<image>
+  <image-id>2396570</image-id>
+  <coco-id>435544</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>981864</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>443006</subject>
+      <object>443003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>981865</relationship_id>
+      <predicate>ON</predicate>
+      <subject>443011</subject>
+      <object>443003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>981866</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>443006</subject>
+      <object>443003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>981867</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>443006</subject>
+      <object>443003</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>water scene</attribute>
+        <attribute>picture of sunset</attribute>
+      </attributes>
+      <name>advertisement</name>
+      <h>162</h>
+      <object_id>443006</object_id>
+      <w>169</w>
+      <y>159</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+        <attribute>passenger bus</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>195</h>
+      <object_id>443003</object_id>
+      <w>495</w>
+      <y>127</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>drivers side window</attribute>
+      </attributes>
+      <name>window</name>
+      <h>82</h>
+      <object_id>443011</object_id>
+      <w>78</w>
+      <y>168</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A city bus is parked on the street beside a flower garden</caption>
+      <caption>A bus on the street with and advertisement on it. </caption>
+      <caption>Flowers grow in a bank next to a city  touring bus.</caption>
+      <caption>An advertisement on the side of a bus and a floral arrangement in a median.</caption>
+      <caption>A blue and white bus is parked in front of blue, white, yellow, and pink flowers.</caption>
+    </captions>
+</image>

@@ -1,0 +1,101 @@
+<image>
+  <image-id>2415346</image-id>
+  <coco-id>559836</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3873339</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3294156</subject>
+      <object>3170869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3873340</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3154056</subject>
+      <object>3154057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3709677</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3285945</subject>
+      <object>3285944</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3709918</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3170869</subject>
+      <object>3556099</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>writing</name>
+      <h>57</h>
+      <object_id>3294156</object_id>
+      <w>202</w>
+      <y>311</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <h>216</h>
+      <object_id>3170869</object_id>
+      <w>357</w>
+      <y>212</y>
+      <x>109</x>
+      <name>t shirt</name>
+    </object>
+    <object>
+      <name>crust</name>
+      <h>52</h>
+      <object_id>3154056</object_id>
+      <w>177</w>
+      <y>387</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>118</h>
+      <object_id>3154057</object_id>
+      <w>192</w>
+      <y>380</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>462</h>
+      <object_id>3285945</object_id>
+      <w>404</w>
+      <y>35</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>53</h>
+      <object_id>3285944</object_id>
+      <w>87</w>
+      <y>107</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>390</h>
+      <object_id>3556099</object_id>
+      <w>272</w>
+      <y>38</y>
+      <x>133</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman with a slice of pizza in a plate.</caption>
+      <caption>A woman with dreadlocks displaying a plate holding a slice of pizza.</caption>
+      <caption>A lady with a quesedilla on a plate.</caption>
+      <caption>A person holding a plate with a slice of pizza.</caption>
+      <caption>A woman holding a plate with a piece of pizza on it.</caption>
+    </captions>
+</image>

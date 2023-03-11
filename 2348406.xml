@@ -1,0 +1,122 @@
+<image>
+  <image-id>2348406</image-id>
+  <coco-id>557220</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4419703</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2848765</subject>
+      <object>3280118</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4419704</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3172287</subject>
+      <object>3062022</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4419705</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3280118</subject>
+      <object>3905731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4419706</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3280118</subject>
+      <object>3238108</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4419707</relationship_id>
+      <predicate>with</predicate>
+      <subject>1761281</subject>
+      <object>3062022</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>157</h>
+      <object_id>2848765</object_id>
+      <w>20</w>
+      <y>174</y>
+      <x>60</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>357</h>
+      <object_id>3280118</object_id>
+      <w>454</w>
+      <y>17</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+        <attribute>black </attribute>
+      </attributes>
+      <name>ear</name>
+      <h>35</h>
+      <object_id>3172287</object_id>
+      <w>45</w>
+      <y>117</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Black </attribute>
+        <attribute>white </attribute>
+        <attribute>larger </attribute>
+        <attribute>smaller </attribute>
+      </attributes>
+      <name>zebra</name>
+      <h>280</h>
+      <object_id>3062022</object_id>
+      <w>335</w>
+      <y>91</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>341</h>
+      <object_id>3905731</object_id>
+      <w>444</w>
+      <y>16</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>field</name>
+      <h>369</h>
+      <object_id>3238108</object_id>
+      <w>497</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>area</name>
+      <h>370</h>
+      <object_id>1761281</object_id>
+      <w>495</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two zebras stand outside in front of some tall grass.</caption>
+      <caption>Two side by side zebras are near the tall grass.</caption>
+      <caption>Two zebras are standing side by side as they stare straight ahead.</caption>
+      <caption>Two zebra standing next to each other on a field.</caption>
+      <caption>Two zebras are looking at the plants on the ground.</caption>
+    </captions>
+</image>

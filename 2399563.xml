@@ -1,0 +1,150 @@
+<image>
+  <image-id>2399563</image-id>
+  <coco-id>168817</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4682334</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4301764</subject>
+      <object>4301764</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682341</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4301783</subject>
+      <object>4301788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4630075</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4301783</subject>
+      <object>4056013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682343</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4301783</subject>
+      <object>4301788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4583379</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4301783</subject>
+      <object>4301793</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682345</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4301783</subject>
+      <object>4301788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682346</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4301783</subject>
+      <object>4301793</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682347</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>4301783</subject>
+      <object>4301792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682348</relationship_id>
+      <predicate>resting on</predicate>
+      <subject>4301783</subject>
+      <object>4301793</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682349</relationship_id>
+      <predicate>resting on</predicate>
+      <subject>4301783</subject>
+      <object>4301746</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4583380</relationship_id>
+      <predicate>resting on</predicate>
+      <subject>4301783</subject>
+      <object>4056013</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>pads</name>
+      <h>39</h>
+      <object_id>4301764</object_id>
+      <w>23</w>
+      <y>155</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>lying</attribute>
+        <attribute>adorable</attribute>
+        <attribute>pretty</attribute>
+        <attribute>adult</attribute>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>cute</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>219</h>
+      <object_id>4301783</object_id>
+      <w>468</w>
+      <y>49</y>
+      <x>10</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>70</h>
+      <object_id>4301788</object_id>
+      <w>223</w>
+      <y>202</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>66</h>
+      <object_id>4056013</object_id>
+      <w>219</w>
+      <y>198</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>55</h>
+      <object_id>4301793</object_id>
+      <w>220</w>
+      <y>208</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>64</h>
+      <object_id>4301792</object_id>
+      <w>215</w>
+      <y>208</y>
+      <x>225</x>
+    </object>
+    <object>
+      <h>63</h>
+      <object_id>4301746</object_id>
+      <w>219</w>
+      <y>202</y>
+      <x>222</x>
+      <name>control</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat lies asleep on top of a remote control.</caption>
+      <caption>CAT IN A CHAIR SLEEPING ON TOP OF A REMOTE</caption>
+      <caption>A cat leans on the remote control for a nap.</caption>
+      <caption>A cat laying down with its head on a remote control.</caption>
+      <caption>A cat is sleeping with it's head on a remote control.</caption>
+    </captions>
+</image>

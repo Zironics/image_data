@@ -1,0 +1,131 @@
+<image>
+  <image-id>2390254</image-id>
+  <coco-id>509590</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1166543</relationship_id>
+      <predicate>on end of</predicate>
+      <subject>499266</subject>
+      <object>499258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1166544</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>499267</subject>
+      <object>499262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1166545</relationship_id>
+      <predicate>holding</predicate>
+      <subject>499267</subject>
+      <object>499258</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1166546</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>499267</subject>
+      <object>499260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1166547</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>499267</subject>
+      <object>499262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1166548</relationship_id>
+      <predicate>ON</predicate>
+      <subject>499264</subject>
+      <object>499262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1166549</relationship_id>
+      <predicate>are on</predicate>
+      <subject>499271</subject>
+      <object>499260</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>point</name>
+      <h>31</h>
+      <object_id>499266</object_id>
+      <w>27</w>
+      <y>56</y>
+      <x>253</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>220</h>
+      <object_id>499258</object_id>
+      <w>209</w>
+      <y>60</y>
+      <x>71</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>little</attribute>
+        <attribute>standing</attribute>
+        <attribute>young</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>283</h>
+      <object_id>499267</object_id>
+      <w>199</w>
+      <y>62</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>zipped up</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>130</h>
+      <object_id>499262</object_id>
+      <w>144</w>
+      <y>125</y>
+      <x>106</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>sneakers</name>
+      <h>58</h>
+      <object_id>499260</object_id>
+      <w>62</w>
+      <y>281</y>
+      <x>236</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>zipper</name>
+      <h>109</h>
+      <object_id>499264</object_id>
+      <w>65</w>
+      <y>144</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>velco straps</name>
+      <h>20</h>
+      <object_id>499271</object_id>
+      <w>26</w>
+      <y>284</y>
+      <x>267</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a little kid is holding an umbrella outside</caption>
+      <caption>a small kid with an umbrella standing on a floor </caption>
+      <caption>A young girl holds a closed red umbrella.</caption>
+      <caption>A little girl holding an umbrella while standing on bricks.</caption>
+      <caption>A young Asian girl holds a red umbrella.</caption>
+    </captions>
+</image>

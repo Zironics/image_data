@@ -1,0 +1,40 @@
+<image>
+  <image-id>2321102</image-id>
+  <coco-id>45359</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3819529</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2932723</subject>
+      <object>2932724</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>64</h>
+      <object_id>2932723</object_id>
+      <w>21</w>
+      <y>180</y>
+      <x>456</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>top</name>
+      <h>17</h>
+      <object_id>2932724</object_id>
+      <w>14</w>
+      <y>189</y>
+      <x>456</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two large vases in a structure behind a fence </caption>
+      <caption>Two large urns in a stone shed behind a gate.</caption>
+      <caption>Two large vases next to each other behind a fence.  </caption>
+      <caption>Two very large vases that are behind a fence.</caption>
+      <caption>a couple of large jars behind a fence</caption>
+    </captions>
+</image>

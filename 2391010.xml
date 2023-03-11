@@ -1,0 +1,195 @@
+<image>
+  <image-id>2391010</image-id>
+  <coco-id>186719</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3453069</relationship_id>
+      <predicate>on top of a</predicate>
+      <subject>1244926</subject>
+      <object>1244927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453070</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1244927</subject>
+      <object>1244931</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453071</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1244934</subject>
+      <object>1244935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453072</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1244926</subject>
+      <object>1244927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453073</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1244927</subject>
+      <object>1244931</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453074</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>1244930</subject>
+      <object>1244927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453075</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1244937</subject>
+      <object>1244935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453076</relationship_id>
+      <predicate>on top of a</predicate>
+      <subject>1244927</subject>
+      <object>1244931</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453077</relationship_id>
+      <predicate>on top of a</predicate>
+      <subject>1244929</subject>
+      <object>1244927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453078</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1244928</subject>
+      <object>1244927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453079</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1244928</subject>
+      <object>1244930</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3453080</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1244930</subject>
+      <object>1244927</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>creamy</attribute>
+        <attribute>red velvet</attribute>
+        <attribute>sweet</attribute>
+        <attribute>vanilla</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>63</h>
+      <object_id>1244926</object_id>
+      <w>112</w>
+      <y>180</y>
+      <x>304</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paper</attribute>
+        <attribute>white</attribute>
+        <attribute>black</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>53</h>
+      <object_id>1244927</object_id>
+      <w>183</w>
+      <y>199</y>
+      <x>276</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>wide</attribute>
+        <attribute>stone</attribute>
+        <attribute>gray</attribute>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>ledge</name>
+      <h>295</h>
+      <object_id>1244931</object_id>
+      <w>498</w>
+      <y>38</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>indentation</name>
+      <h>55</h>
+      <object_id>1244934</object_id>
+      <w>62</w>
+      <y>24</y>
+      <x>436</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>148</h>
+      <object_id>1244935</object_id>
+      <w>309</w>
+      <y>14</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>42</h>
+      <object_id>1244930</object_id>
+      <w>131</w>
+      <y>205</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>spot</name>
+      <h>55</h>
+      <object_id>1244937</object_id>
+      <w>43</w>
+      <y>33</y>
+      <x>259</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>round</attribute>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>ball</name>
+      <h>24</h>
+      <object_id>1244929</object_id>
+      <w>25</w>
+      <y>216</y>
+      <x>413</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chunk</attribute>
+        <attribute>vanilla</attribute>
+      </attributes>
+      <name>ice cream</name>
+      <h>31</h>
+      <object_id>1244928</object_id>
+      <w>42</w>
+      <y>211</y>
+      <x>379</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate sitting on a concrete ledge with a slice of cake and black forks sitting on it.</caption>
+      <caption>two forks and a piece of cake on a cement ledge</caption>
+      <caption>A piece of cake on a plate sits on a balcony ledge.</caption>
+      <caption>A plate of half eaten desert on a concrete ledge.</caption>
+      <caption>A plate of cake is sitting on a wall.</caption>
+    </captions>
+</image>

@@ -1,0 +1,92 @@
+<image>
+  <image-id>285700</image-id>
+  <coco-id>169100</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4046749</relationship_id>
+      <predicate>parked in</predicate>
+      <subject>1568762</subject>
+      <object>3695307</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046750</relationship_id>
+      <predicate>grazing on</predicate>
+      <subject>1568766</subject>
+      <object>3695308</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046751</relationship_id>
+      <predicate>with</predicate>
+      <subject>1568767</subject>
+      <object>1568768</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>17</h>
+      <object_id>1568762</object_id>
+      <w>35</w>
+      <y>229</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>tree line</name>
+      <h>128</h>
+      <object_id>3695307</object_id>
+      <w>215</w>
+      <y>118</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark brown</attribute>
+        <attribute>medium</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>54</h>
+      <object_id>1568766</object_id>
+      <w>86</w>
+      <y>195</y>
+      <x>919</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>363</h>
+      <object_id>3695308</object_id>
+      <w>979</w>
+      <y>342</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>barn</name>
+      <h>220</h>
+      <object_id>1568767</object_id>
+      <w>172</w>
+      <y>148</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>roof</name>
+      <h>105</h>
+      <object_id>1568768</object_id>
+      <w>157</w>
+      <y>151</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large sheep grazes at a countryside farm.</caption>
+      <caption>A giant sheep with a lot of fur eats outside</caption>
+      <caption>a sheep that needs a god damn trim</caption>
+      <caption>A very wooly sheep outside of a cover.</caption>
+      <caption>A picture of an animal that is eating some grass.</caption>
+    </captions>
+</image>

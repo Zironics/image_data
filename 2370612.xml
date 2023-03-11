@@ -1,0 +1,71 @@
+<image>
+  <image-id>2370612</image-id>
+  <coco-id>131531</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4323022</relationship_id>
+      <predicate>with</predicate>
+      <subject>2224207</subject>
+      <object>3857766</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4323023</relationship_id>
+      <predicate>with</predicate>
+      <subject>2224207</subject>
+      <object>3857767</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4323024</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1866976</subject>
+      <object>2224207</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>198</h>
+      <object_id>2224207</object_id>
+      <w>193</w>
+      <y>297</y>
+      <x>88</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>border</name>
+      <h>212</h>
+      <object_id>3857766</object_id>
+      <w>204</w>
+      <y>286</y>
+      <x>84</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>face</name>
+      <h>176</h>
+      <object_id>3857767</object_id>
+      <w>175</w>
+      <y>311</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>minute hand</name>
+      <h>75</h>
+      <object_id>1866976</object_id>
+      <w>30</w>
+      <y>325</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The park has a outside clock displayed. </caption>
+      <caption>A huge clock with roman numerals mounted on a wall.</caption>
+      <caption>A large brick structure with a clock on it</caption>
+      <caption>A brick sign for the Royal Observatory of Greenwich.</caption>
+      <caption>The Royal Observatory Greenwich sign has a strange machine that looks like a clock but is not one.</caption>
+    </captions>
+</image>

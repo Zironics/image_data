@@ -1,0 +1,95 @@
+<image>
+  <image-id>2385082</image-id>
+  <coco-id>171768</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4678332</relationship_id>
+      <predicate>near</predicate>
+      <subject>4291010</subject>
+      <object>4291015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678333</relationship_id>
+      <predicate>by</predicate>
+      <subject>4291013</subject>
+      <object>4291014</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678334</relationship_id>
+      <predicate>made of</predicate>
+      <subject>4291015</subject>
+      <object>4291016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678335</relationship_id>
+      <predicate>below</predicate>
+      <subject>4291017</subject>
+      <object>4291018</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffe</name>
+      <h>245</h>
+      <object_id>4291010</object_id>
+      <w>150</w>
+      <y>126</y>
+      <x>53</x>
+    </object>
+    <object>
+      <h>260</h>
+      <object_id>4291015</object_id>
+      <w>224</w>
+      <y>74</y>
+      <x>1</x>
+      <name>house</name>
+    </object>
+    <object>
+      <name>train</name>
+      <h>20</h>
+      <object_id>4291013</object_id>
+      <w>90</w>
+      <y>242</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>animal</name>
+      <h>120</h>
+      <object_id>4291014</object_id>
+      <w>86</w>
+      <y>188</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>brick</name>
+      <h>13</h>
+      <object_id>4291016</object_id>
+      <w>34</w>
+      <y>190</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>10</h>
+      <object_id>4291017</object_id>
+      <w>11</w>
+      <y>295</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>43</h>
+      <object_id>4291018</object_id>
+      <w>305</w>
+      <y>257</y>
+      <x>186</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two giraffe standing next to a small brick building.</caption>
+      <caption>Two giraffes standing in a fenced in area near a small building. </caption>
+      <caption>Two giraffes are near a brown brick building while a city view is seen in the background.</caption>
+      <caption>Two giraffes walking near a hut in an enclosure.</caption>
+      <caption>Two giraffes are next to a building enclosure.</caption>
+    </captions>
+</image>

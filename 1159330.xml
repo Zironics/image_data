@@ -1,0 +1,97 @@
+<image>
+  <image-id>1159330</image-id>
+  <coco-id>78553</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3820596</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1591760</subject>
+      <object>3602738</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4250569</relationship_id>
+      <predicate>has</predicate>
+      <subject>3790136</subject>
+      <object>1591766</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3820597</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1591760</subject>
+      <object>1591773</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3820598</relationship_id>
+      <predicate>standing</predicate>
+      <subject>3790136</subject>
+      <object>1591777</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>268</h>
+      <object_id>1591760</object_id>
+      <w>84</w>
+      <y>203</y>
+      <x>350</x>
+      <name>gentlemen</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>denim</attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>122</h>
+      <object_id>3602738</object_id>
+      <w>70</w>
+      <y>345</y>
+      <x>341</x>
+    </object>
+    <object>
+      <name>gentleman</name>
+      <h>379</h>
+      <object_id>3790136</object_id>
+      <w>135</w>
+      <y>194</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>141</h>
+      <object_id>1591766</object_id>
+      <w>98</w>
+      <y>178</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>denim</attribute>
+      </attributes>
+      <name>jeans</name>
+      <h>285</h>
+      <object_id>1591773</object_id>
+      <w>81</w>
+      <y>198</y>
+      <x>340</x>
+    </object>
+    <object>
+      <name>bags</name>
+      <h>431</h>
+      <object_id>1591777</object_id>
+      <w>332</w>
+      <y>197</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A busy train station where passengers board and exit</caption>
+      <caption>A group of people standing outside of a train.</caption>
+      <caption>Several people and piles of luggage next to a train.</caption>
+      <caption>a number of people with luggage near a train</caption>
+      <caption>A trail station filled with people and luggage.</caption>
+    </captions>
+</image>

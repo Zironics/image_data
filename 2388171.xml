@@ -1,0 +1,50 @@
+<image>
+  <image-id>2388171</image-id>
+  <coco-id>244720</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1776894</relationship_id>
+      <predicate>ON</predicate>
+      <subject>675158</subject>
+      <object>675160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1776895</relationship_id>
+      <predicate>ON</predicate>
+      <subject>675158</subject>
+      <object>675160</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>160</h>
+      <object_id>675158</object_id>
+      <w>228</w>
+      <y>66</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>91</h>
+      <object_id>675160</object_id>
+      <w>416</w>
+      <y>241</y>
+      <x>49</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two dogs that are in the back of a truck.</caption>
+      <caption>Two dogs standing on the back of a flatbed truck.</caption>
+      <caption>THERE ARE TWO DOGS THAT ARE STANDING ON THE BACK OF THE TRUCK </caption>
+      <caption>Two different dogs riding on the back of a pick up truck.</caption>
+      <caption>Two dogs standing on the back of a truck.</caption>
+    </captions>
+</image>

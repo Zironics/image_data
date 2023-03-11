@@ -1,0 +1,40 @@
+<image>
+  <image-id>2378975</image-id>
+  <coco-id>13986</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1370050</relationship_id>
+      <predicate>shining on</predicate>
+      <subject>556016</subject>
+      <object>556017</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>104</h>
+      <object_id>556016</object_id>
+      <w>61</w>
+      <y>100</y>
+      <x>391</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>branch</name>
+      <h>251</h>
+      <object_id>556017</object_id>
+      <w>190</w>
+      <y>0</y>
+      <x>301</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A grey bird perched on a tree branch</caption>
+      <caption>A gray bird perched on top of a tree branch.</caption>
+      <caption>There is a bird perched on a tree branch.</caption>
+      <caption>a bird stands on top of a tree branch </caption>
+      <caption>A bird sitting on a branch by itself</caption>
+    </captions>
+</image>

@@ -1,0 +1,149 @@
+<image>
+  <image-id>2393036</image-id>
+  <coco-id>357312</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1074430</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>475401</subject>
+      <object>475408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1074431</relationship_id>
+      <predicate>IN</predicate>
+      <subject>475410</subject>
+      <object>475411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1074432</relationship_id>
+      <predicate>IN</predicate>
+      <subject>475400</subject>
+      <object>475412</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1074433</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>475402</subject>
+      <object>475401</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1074434</relationship_id>
+      <predicate>has</predicate>
+      <subject>475401</subject>
+      <object>475408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1074435</relationship_id>
+      <predicate>going down</predicate>
+      <subject>475401</subject>
+      <object>475407</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1074436</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>475401</subject>
+      <object>475414</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+        <attribute>wearing black</attribute>
+        <attribute>man</attribute>
+        <attribute>light skinned</attribute>
+      </attributes>
+      <name>person</name>
+      <h>196</h>
+      <object_id>475401</object_id>
+      <w>125</w>
+      <y>216</y>
+      <x>57</x>
+    </object>
+    <object>
+      <name>goggles</name>
+      <h>25</h>
+      <object_id>475408</object_id>
+      <w>23</w>
+      <y>233</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>ski pole</name>
+      <h>122</h>
+      <object_id>475410</object_id>
+      <w>98</w>
+      <y>288</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>left hand</name>
+      <h>23</h>
+      <object_id>475411</object_id>
+      <w>25</w>
+      <y>292</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>ski pole</name>
+      <h>95</h>
+      <object_id>475400</object_id>
+      <w>93</w>
+      <y>286</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>right hand</name>
+      <h>25</h>
+      <object_id>475412</object_id>
+      <w>34</w>
+      <y>271</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>yellow</attribute>
+        <attribute>existing</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>backpack</name>
+      <h>74</h>
+      <object_id>475402</object_id>
+      <w>55</w>
+      <y>240</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snowy</attribute>
+        <attribute>existing</attribute>
+        <attribute>snow covered</attribute>
+      </attributes>
+      <name>slope</name>
+      <h>396</h>
+      <object_id>475407</object_id>
+      <w>453</w>
+      <y>104</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>combination suit</name>
+      <h>139</h>
+      <object_id>475414</object_id>
+      <w>93</w>
+      <y>253</y>
+      <x>81</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skier is going down a snow covered hill.</caption>
+      <caption>A person skiing downhill in a light flurry</caption>
+      <caption>A down hill skier riding down a snow covered ski slope.</caption>
+      <caption>A person skiing down a mountain in the snow. </caption>
+      <caption>person on skis and snow poles slides down snow</caption>
+    </captions>
+</image>

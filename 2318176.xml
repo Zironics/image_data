@@ -1,0 +1,212 @@
+<image>
+  <image-id>2318176</image-id>
+  <coco-id>5394</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3024934</relationship_id>
+      <predicate>sitting in</predicate>
+      <subject>1013476</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024935</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>1013477</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024936</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>1013478</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024937</relationship_id>
+      <predicate>ripples on</predicate>
+      <subject>1013479</subject>
+      <object>1013480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024938</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1013482</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024939</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1013483</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024940</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>1013475</subject>
+      <object>1013480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024941</relationship_id>
+      <predicate>created by</predicate>
+      <subject>1013482</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024942</relationship_id>
+      <predicate>has</predicate>
+      <subject>1013475</subject>
+      <object>1013477</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024943</relationship_id>
+      <predicate>has</predicate>
+      <subject>1013475</subject>
+      <object>1013478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024944</relationship_id>
+      <predicate>driving</predicate>
+      <subject>1013476</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024945</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1013479</subject>
+      <object>1013480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024946</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1013483</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024947</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1013475</subject>
+      <object>1013480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024948</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1013476</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024949</relationship_id>
+      <predicate>leaving</predicate>
+      <subject>1013475</subject>
+      <object>1013482</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024950</relationship_id>
+      <predicate>driving</predicate>
+      <subject>1013476</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024951</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1013475</subject>
+      <object>1013480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024952</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1013476</subject>
+      <object>1013475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3024953</relationship_id>
+      <predicate>driving</predicate>
+      <subject>1013476</subject>
+      <object>1013475</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>26</h>
+      <object_id>1013476</object_id>
+      <w>26</w>
+      <y>139</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>car shaped</attribute>
+        <attribute>shape of car</attribute>
+        <attribute>white</attribute>
+        <attribute>car</attribute>
+        <attribute>amphibious</attribute>
+        <attribute>older</attribute>
+        <attribute>moving</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>77</h>
+      <object_id>1013475</object_id>
+      <w>202</w>
+      <y>136</y>
+      <x>47</x>
+    </object>
+    <object>
+      <name>windhsield</name>
+      <h>33</h>
+      <object_id>1013477</object_id>
+      <w>60</w>
+      <y>137</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>16</h>
+      <object_id>1013478</object_id>
+      <w>19</w>
+      <y>181</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>16</h>
+      <object_id>1013479</object_id>
+      <w>61</w>
+      <y>9</y>
+      <x>179</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>calm</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>353</h>
+      <object_id>1013480</object_id>
+      <w>497</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>stream</name>
+      <h>45</h>
+      <object_id>1013482</object_id>
+      <w>259</w>
+      <y>145</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>mirror</name>
+      <h>14</h>
+      <object_id>1013483</object_id>
+      <w>20</w>
+      <y>158</y>
+      <x>166</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boat that looks like a car moves through the water. </caption>
+      <caption>A car modified to drive in the water on a lake.</caption>
+      <caption>A car modified to be a boat on the water.</caption>
+      <caption>A picture of a boat that looks like a car in the water.</caption>
+      <caption>a car that has been converted into a boat floating on water</caption>
+    </captions>
+</image>

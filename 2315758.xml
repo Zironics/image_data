@@ -1,0 +1,87 @@
+<image>
+  <image-id>2315758</image-id>
+  <coco-id>268750</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4543045</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3233149</subject>
+      <object>3233151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4543046</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3233149</subject>
+      <object>3233151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4543047</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3233149</subject>
+      <object>3233151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3938881</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3652783</subject>
+      <object>3233149</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4543048</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3405449</subject>
+      <object>3233149</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>circle</attribute>
+      </attributes>
+      <h>259</h>
+      <object_id>3233149</object_id>
+      <w>290</w>
+      <y>10</y>
+      <x>146</x>
+      <name>sign</name>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>255</h>
+      <object_id>3233151</object_id>
+      <w>491</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>T</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>letter</name>
+      <h>57</h>
+      <object_id>3652783</object_id>
+      <w>41</w>
+      <y>115</y>
+      <x>257</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>p</name>
+      <h>52</h>
+      <object_id>3405449</object_id>
+      <w>35</w>
+      <y>106</y>
+      <x>344</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Round stop sign affixed to a wire fence</caption>
+      <caption>The circular stop sign is posted on the side of a metal cage.</caption>
+      <caption>a red and white stop sign attached to a cage</caption>
+      <caption>A stop sign attached to a fence in a city.</caption>
+      <caption>A circle shaped stop sign on a fence.</caption>
+    </captions>
+</image>

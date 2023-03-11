@@ -1,0 +1,98 @@
+<image>
+  <image-id>2413383</image-id>
+  <coco-id>308430</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>168024</relationship_id>
+      <predicate>IN</predicate>
+      <subject>174604</subject>
+      <object>174603</object>
+    </relationship>
+    <relationship>
+      <relationship_id>168025</relationship_id>
+      <predicate>by</predicate>
+      <subject>174598</subject>
+      <object>174602</object>
+    </relationship>
+    <relationship>
+      <relationship_id>168026</relationship_id>
+      <predicate>identifies</predicate>
+      <subject>174606</subject>
+      <object>174601</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>three mushrooms</name>
+      <h>73</h>
+      <object_id>174604</object_id>
+      <w>102</w>
+      <y>156</y>
+      <x>167</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on stovetop</attribute>
+      </attributes>
+      <name>skillet</name>
+      <h>374</h>
+      <object_id>174603</object_id>
+      <w>454</w>
+      <y>0</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>granite</attribute>
+        <attribute>ceramic</attribute>
+      </attributes>
+      <name>counter</name>
+      <h>231</h>
+      <object_id>174598</object_id>
+      <w>259</w>
+      <y>0</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>stove</name>
+      <h>52</h>
+      <object_id>174602</object_id>
+      <w>245</w>
+      <y>2</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>logo</name>
+      <h>26</h>
+      <object_id>174606</object_id>
+      <w>47</w>
+      <y>5</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>decker</attribute>
+      </attributes>
+      <name>appliance</name>
+      <h>57</h>
+      <object_id>174601</object_id>
+      <w>192</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Someone is cooking a vegtable stir fry for dinner</caption>
+      <caption>a pan full of vegetables slice up small with a some seasoning on top</caption>
+      <caption>Someone is cooking vegetarian stir fry in a skillet.</caption>
+      <caption>A pan of stir fried vegetables being cooked. </caption>
+      <caption>A skillet on a stove with vegetables in it </caption>
+    </captions>
+</image>

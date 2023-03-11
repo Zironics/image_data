@@ -1,0 +1,101 @@
+<image>
+  <image-id>2397715</image-id>
+  <coco-id>533454</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4721645</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4395952</subject>
+      <object>4395953</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4721657</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4395982</subject>
+      <object>4395983</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4721697</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4396088</subject>
+      <object>4396089</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4721703</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4396102</subject>
+      <object>4395982</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>lines</name>
+      <h>127</h>
+      <object_id>4395952</object_id>
+      <w>489</w>
+      <y>255</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>court</name>
+      <h>232</h>
+      <object_id>4395953</object_id>
+      <w>490</w>
+      <y>186</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>tennis player</name>
+      <h>361</h>
+      <object_id>4395982</object_id>
+      <w>193</w>
+      <y>52</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>left arm</name>
+      <h>43</h>
+      <object_id>4395983</object_id>
+      <w>107</w>
+      <y>105</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>13</h>
+      <object_id>4396088</object_id>
+      <w>11</w>
+      <y>145</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>tank top</name>
+      <h>144</h>
+      <object_id>4396089</object_id>
+      <w>91</w>
+      <y>100</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>left leg</name>
+      <h>143</h>
+      <object_id>4396102</object_id>
+      <w>69</w>
+      <y>273</y>
+      <x>188</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman tennis player has the ball in her hand.</caption>
+      <caption>A woman holds a tennis racket in one hand and a tennis ball in the other.</caption>
+      <caption>A female tennis player gets ready to serve the ball. </caption>
+      <caption>A tennis player stretches out her arm in preparation of hitting the ball. </caption>
+      <caption>A beautiful young woman serving a tennis ball on a tennis court.</caption>
+    </captions>
+</image>

@@ -1,0 +1,184 @@
+<image>
+  <image-id>2386954</image-id>
+  <coco-id>527453</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1237586</relationship_id>
+      <predicate>has a</predicate>
+      <subject>516015</subject>
+      <object>516008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237587</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>516009</subject>
+      <object>516010</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237588</relationship_id>
+      <predicate>have a</predicate>
+      <subject>516009</subject>
+      <object>516011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237589</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>516009</subject>
+      <object>516012</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237590</relationship_id>
+      <predicate>are on a</predicate>
+      <subject>516009</subject>
+      <object>516008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237591</relationship_id>
+      <predicate>has a</predicate>
+      <subject>516015</subject>
+      <object>516008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237592</relationship_id>
+      <predicate>are on a</predicate>
+      <subject>516009</subject>
+      <object>516008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237593</relationship_id>
+      <predicate>are on a</predicate>
+      <subject>516009</subject>
+      <object>516008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237601</relationship_id>
+      <predicate>have a</predicate>
+      <subject>516015</subject>
+      <object>516016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237602</relationship_id>
+      <predicate>are in a</predicate>
+      <subject>516009</subject>
+      <object>516012</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237603</relationship_id>
+      <predicate>are pointed</predicate>
+      <subject>516009</subject>
+      <object>516017</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237604</relationship_id>
+      <predicate>have a</predicate>
+      <subject>516009</subject>
+      <object>516015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237605</relationship_id>
+      <predicate>have a</predicate>
+      <subject>516009</subject>
+      <object>516015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237606</relationship_id>
+      <predicate>have a</predicate>
+      <subject>516009</subject>
+      <object>516011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1237607</relationship_id>
+      <predicate>have a</predicate>
+      <subject>516009</subject>
+      <object>516011</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>broken</attribute>
+        <attribute>black</attribute>
+        <attribute>greenish brown</attribute>
+      </attributes>
+      <h>182</h>
+      <object_id>516015</object_id>
+      <w>39</w>
+      <y>38</y>
+      <x>164</x>
+      <name>stem</name>
+    </object>
+    <object>
+      <name>branch</name>
+      <h>68</h>
+      <object_id>516008</object_id>
+      <w>47</w>
+      <y>24</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bananas</attribute>
+        <attribute>fresh</attribute>
+        <attribute>yellow</attribute>
+        <attribute>upside down</attribute>
+        <attribute>black</attribute>
+        <attribute>green</attribute>
+        <attribute>hanging</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>bananas</name>
+      <h>358</h>
+      <object_id>516009</object_id>
+      <w>228</w>
+      <y>125</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>bushel</name>
+      <h>358</h>
+      <object_id>516010</object_id>
+      <w>227</w>
+      <y>126</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>peel</name>
+      <h>46</h>
+      <object_id>516011</object_id>
+      <w>40</w>
+      <y>185</y>
+      <x>252</x>
+    </object>
+    <object>
+      <name>bunch</name>
+      <h>360</h>
+      <object_id>516012</object_id>
+      <w>228</w>
+      <y>123</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>ring</name>
+      <h>12</h>
+      <object_id>516016</object_id>
+      <w>32</w>
+      <y>140</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>upward</name>
+      <h>88</h>
+      <object_id>516017</object_id>
+      <w>207</w>
+      <y>127</y>
+      <x>84</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Very large group of bananas with ripe ones at the top, not so ripe at the bottom.</caption>
+      <caption>A large number of bananas still on a bunch</caption>
+      <caption>A stalk of ripe bananas on a white background</caption>
+      <caption>A bunch of bananas hanging from a stem.</caption>
+      <caption>a bunch of bananas still attached to each other</caption>
+    </captions>
+</image>

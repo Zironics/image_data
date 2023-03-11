@@ -1,0 +1,205 @@
+<image>
+  <image-id>2394134</image-id>
+  <coco-id>405283</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3402859</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1213933</subject>
+      <object>1213934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402860</relationship_id>
+      <predicate>holding an</predicate>
+      <subject>1213933</subject>
+      <object>1213935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402861</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1213933</subject>
+      <object>1213936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402862</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1213937</subject>
+      <object>1213934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402863</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1213933</subject>
+      <object>1213935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402864</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1213936</subject>
+      <object>1213936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402865</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1213939</subject>
+      <object>1213935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402866</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1213939</subject>
+      <object>1213935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402867</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1213943</subject>
+      <object>1213933</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402868</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1213931</subject>
+      <object>1213933</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402869</relationship_id>
+      <predicate>to</predicate>
+      <subject>1213944</subject>
+      <object>1213935</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402870</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1213931</subject>
+      <object>1213931</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3402871</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1213931</subject>
+      <object>1213946</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>218</h>
+      <object_id>1213933</object_id>
+      <w>230</w>
+      <y>137</y>
+      <x>100</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>held</attribute>
+        <attribute>a camera</attribute>
+        <attribute>up</attribute>
+      </attributes>
+      <name>cell phone</name>
+      <h>42</h>
+      <object_id>1213934</object_id>
+      <w>11</w>
+      <y>130</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+        <attribute>multi colored</attribute>
+        <attribute>pictured</attribute>
+        <attribute>a thing</attribute>
+        <attribute>here</attribute>
+        <attribute>existing</attribute>
+        <attribute>rainbow colored</attribute>
+        <attribute>right there</attribute>
+        <attribute>colorful</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>336</h>
+      <object_id>1213935</object_id>
+      <w>487</w>
+      <y>16</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>159</h>
+      <object_id>1213936</object_id>
+      <w>226</w>
+      <y>195</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>136</h>
+      <object_id>1213937</object_id>
+      <w>49</w>
+      <y>193</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>stripe</name>
+      <h>213</h>
+      <object_id>1213939</object_id>
+      <w>115</w>
+      <y>134</y>
+      <x>375</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>115</h>
+      <object_id>1213943</object_id>
+      <w>189</w>
+      <y>240</y>
+      <x>308</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chain link</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>240</h>
+      <object_id>1213931</object_id>
+      <w>493</w>
+      <y>114</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>strap</name>
+      <h>70</h>
+      <object_id>1213944</object_id>
+      <w>39</w>
+      <y>121</y>
+      <x>200</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>column</name>
+      <h>242</h>
+      <object_id>1213946</object_id>
+      <w>13</w>
+      <y>112</y>
+      <x>71</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman staying dry from the rain and holding an umbrella.</caption>
+      <caption>A woman uses her mobile phone while holding an umbrella. </caption>
+      <caption>A woman holds up an electronic cigarette underneath an umbrella. </caption>
+      <caption>a person holding an open umbrella and a cell phone</caption>
+      <caption>A photo of people looking off into the distance holding an umbrella.</caption>
+    </captions>
+</image>

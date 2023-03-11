@@ -1,0 +1,72 @@
+<image>
+  <image-id>2322492</image-id>
+  <coco-id>187432</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4536206</relationship_id>
+      <predicate>under</predicate>
+      <subject>2738391</subject>
+      <object>2722184</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3649794</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>2722184</subject>
+      <object>3315732</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3649795</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2722184</subject>
+      <object>2722183</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>quilt</name>
+      <h>481</h>
+      <object_id>2738391</object_id>
+      <w>373</w>
+      <y>17</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>313</h>
+      <object_id>2722184</object_id>
+      <w>306</w>
+      <y>80</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>255</h>
+      <object_id>3315732</object_id>
+      <w>301</w>
+      <y>238</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>clothes</name>
+      <h>234</h>
+      <object_id>2722183</object_id>
+      <w>228</w>
+      <y>59</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dog lies down on a bed next to a cat.</caption>
+      <caption>A dog and a cat laying on a bed next to each other.</caption>
+      <caption>Some animals that are laying on the bed.</caption>
+      <caption>A dog next to another pet on a bed.</caption>
+      <caption>A dog and a cat are laying on a bed side by side.</caption>
+    </captions>
+</image>

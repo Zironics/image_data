@@ -1,0 +1,110 @@
+<image>
+  <image-id>2370747</image-id>
+  <coco-id>170077</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4321307</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1953626</subject>
+      <object>1866026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4321308</relationship_id>
+      <predicate>standing behind</predicate>
+      <subject>1713988</subject>
+      <object>2058909</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4321309</relationship_id>
+      <predicate>with a</predicate>
+      <subject>2058909</subject>
+      <object>1866026</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4321310</relationship_id>
+      <predicate>with an</predicate>
+      <subject>2058909</subject>
+      <object>1916426</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4321311</relationship_id>
+      <predicate>with</predicate>
+      <subject>2058909</subject>
+      <object>1949663</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>tight</attribute>
+      </attributes>
+      <h>53</h>
+      <object_id>1953626</object_id>
+      <w>128</w>
+      <y>94</y>
+      <x>119</x>
+      <name>headband</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+      </attributes>
+      <name>umbrella hat</name>
+      <h>219</h>
+      <object_id>1866026</object_id>
+      <w>358</w>
+      <y>51</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>39</h>
+      <object_id>1713988</object_id>
+      <w>53</w>
+      <y>44</y>
+      <x>116</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>439</h>
+      <object_id>2058909</object_id>
+      <w>309</w>
+      <y>59</y>
+      <x>39</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <h>218</h>
+      <object_id>1916426</object_id>
+      <w>357</w>
+      <y>53</y>
+      <x>1</x>
+      <name>hat</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>eyes</name>
+      <h>27</h>
+      <object_id>1949663</object_id>
+      <w>94</w>
+      <y>144</y>
+      <x>151</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy wearing a colorful umbrella hat.</caption>
+      <caption>a close up of a child wearing an umbrella hat </caption>
+      <caption>A boy that has an umbrella hat on his head.</caption>
+      <caption>A boy stands wearing a multicolored umbrella hat.</caption>
+      <caption>A boy is shown with an umbrella on his head.</caption>
+    </captions>
+</image>

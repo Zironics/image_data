@@ -1,0 +1,57 @@
+<image>
+  <image-id>2386912</image-id>
+  <coco-id>402858</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4735956</relationship_id>
+      <predicate>facing</predicate>
+      <subject>4046016</subject>
+      <object>4430653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579190</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4046017</subject>
+      <object>4046016</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>teddy </attribute>
+      </attributes>
+      <h>277</h>
+      <object_id>4046016</object_id>
+      <w>219</w>
+      <y>20</y>
+      <x>97</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>174</h>
+      <object_id>4430653</object_id>
+      <w>264</w>
+      <y>213</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>tie</name>
+      <h>86</h>
+      <object_id>4046017</object_id>
+      <w>46</w>
+      <y>0</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A teddy bear is staring at a laptop.</caption>
+      <caption>A teddy bear seated on a chair in front of a laptop.</caption>
+      <caption>A teddy bear in a chair sitting in front of a laptop.</caption>
+      <caption>Brown teddy bear with glasses sitting on blue couch. </caption>
+      <caption>A teddy bear with glasses posed at a laptop.</caption>
+    </captions>
+</image>

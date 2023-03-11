@@ -1,0 +1,59 @@
+<image>
+  <image-id>2385145</image-id>
+  <coco-id>303439</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4675753</relationship_id>
+      <predicate>are in</predicate>
+      <subject>4284777</subject>
+      <object>4284776</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4675762</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>4284807</subject>
+      <object>4284808</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>swans</name>
+      <h>71</h>
+      <object_id>4284777</object_id>
+      <w>178</w>
+      <y>195</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>33</h>
+      <object_id>4284776</object_id>
+      <w>30</w>
+      <y>167</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>goose</name>
+      <h>90</h>
+      <object_id>4284807</object_id>
+      <w>92</w>
+      <y>185</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>116</h>
+      <object_id>4284808</object_id>
+      <w>459</w>
+      <y>147</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of pigeons, swans and ducks clustering around water. </caption>
+      <caption>Several kinds of birds on snow covered pavement and in the water, near city buildings.</caption>
+      <caption>Ducks, geese, and birds are in and around a pool.</caption>
+      <caption>Birds including pigeons and swans in and next to some water.</caption>
+      <caption>A group of different types of birds standing around a lake.</caption>
+    </captions>
+</image>

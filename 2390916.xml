@@ -1,0 +1,177 @@
+<image>
+  <image-id>2390916</image-id>
+  <coco-id>228714</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1143574</relationship_id>
+      <predicate>has a</predicate>
+      <subject>493025</subject>
+      <object>493027</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143575</relationship_id>
+      <predicate>has a</predicate>
+      <subject>493025</subject>
+      <object>493028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143576</relationship_id>
+      <predicate>has a</predicate>
+      <subject>493025</subject>
+      <object>493030</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143577</relationship_id>
+      <predicate>has a</predicate>
+      <subject>493025</subject>
+      <object>493028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143578</relationship_id>
+      <predicate>for</predicate>
+      <subject>493033</subject>
+      <object>493034</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143579</relationship_id>
+      <predicate>has a</predicate>
+      <subject>493035</subject>
+      <object>493033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143580</relationship_id>
+      <predicate>has</predicate>
+      <subject>493026</subject>
+      <object>493038</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143581</relationship_id>
+      <predicate>has a</predicate>
+      <subject>493026</subject>
+      <object>493029</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143582</relationship_id>
+      <predicate>has a</predicate>
+      <subject>493025</subject>
+      <object>493040</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1143583</relationship_id>
+      <predicate>for</predicate>
+      <subject>493033</subject>
+      <object>493034</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blurry</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>202</h>
+      <object_id>493025</object_id>
+      <w>303</w>
+      <y>44</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>85</h>
+      <object_id>493027</object_id>
+      <w>150</w>
+      <y>118</y>
+      <x>198</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>43</h>
+      <object_id>493028</object_id>
+      <w>81</w>
+      <y>49</y>
+      <x>346</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>135</h>
+      <object_id>493030</object_id>
+      <w>259</w>
+      <y>45</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>140</h>
+      <object_id>493033</object_id>
+      <w>45</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>traffic</name>
+      <h>284</h>
+      <object_id>493034</object_id>
+      <w>347</w>
+      <y>46</y>
+      <x>129</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>197</h>
+      <object_id>493035</object_id>
+      <w>82</w>
+      <y>136</y>
+      <x>19</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blurry</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>car</name>
+      <h>125</h>
+      <object_id>493026</object_id>
+      <w>177</w>
+      <y>208</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>13</h>
+      <object_id>493038</object_id>
+      <w>23</w>
+      <y>219</y>
+      <x>271</x>
+      <name>brake lights</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>license plate</name>
+      <h>21</h>
+      <object_id>493029</object_id>
+      <w>34</w>
+      <y>241</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>top level</name>
+      <h>137</h>
+      <object_id>493040</object_id>
+      <w>256</w>
+      <y>43</y>
+      <x>172</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A double decker bus driving down a busy street.</caption>
+      <caption>A red bus drives down the street next to an suv.</caption>
+      <caption>A blurry image of a bus and car on a highway.</caption>
+      <caption>A shot of a double decker bus and car speeding down the road.</caption>
+      <caption>Car and bus in streaking view of urban roadway.</caption>
+    </captions>
+</image>

@@ -1,0 +1,117 @@
+<image>
+  <image-id>2322540</image-id>
+  <coco-id>327159</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4116277</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3101672</subject>
+      <object>3501790</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4535960</relationship_id>
+      <predicate>lays on</predicate>
+      <subject>3101672</subject>
+      <object>2924098</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4535961</relationship_id>
+      <predicate>atop</predicate>
+      <subject>3101672</subject>
+      <object>2980158</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4535962</relationship_id>
+      <predicate>sits on</predicate>
+      <subject>3101672</subject>
+      <object>3501790</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4535963</relationship_id>
+      <predicate>are behind</predicate>
+      <subject>3960684</subject>
+      <object>2788323</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4535964</relationship_id>
+      <predicate>has</predicate>
+      <subject>3101672</subject>
+      <object>3960685</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>251</h>
+      <object_id>3101672</object_id>
+      <w>359</w>
+      <y>73</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>91</h>
+      <object_id>3501790</object_id>
+      <w>497</w>
+      <y>239</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>104</h>
+      <object_id>2924098</object_id>
+      <w>498</w>
+      <y>226</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>99</h>
+      <object_id>2980158</object_id>
+      <w>496</w>
+      <y>231</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>91</h>
+      <object_id>3960684</object_id>
+      <w>477</w>
+      <y>2</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>161</h>
+      <object_id>2788323</object_id>
+      <w>218</w>
+      <y>106</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>104</h>
+      <object_id>3960685</object_id>
+      <w>119</w>
+      <y>137</y>
+      <x>160</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bear is lying on a large rock near the water.</caption>
+      <caption>A black grizzly bear in a rocky forest area.</caption>
+      <caption>A large bear rests on a rock in the forest.</caption>
+      <caption>A photograph of a grizzle bear resting on a rock.</caption>
+      <caption>A large bear sunning itself on a rock next to water. </caption>
+    </captions>
+</image>

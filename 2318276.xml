@@ -1,0 +1,89 @@
+<image>
+  <image-id>2318276</image-id>
+  <coco-id>528786</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3897925</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3295518</subject>
+      <object>3247723</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3897926</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3247723</subject>
+      <object>3621758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3861987</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3295518</subject>
+      <object>3247723</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3861988</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3247723</subject>
+      <object>3621758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4133641</relationship_id>
+      <predicate>cleaning</predicate>
+      <subject>3013194</subject>
+      <object>3727544</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>giant</attribute>
+        <attribute>statue</attribute>
+      </attributes>
+      <h>190</h>
+      <object_id>3295518</object_id>
+      <w>225</w>
+      <y>14</y>
+      <x>184</x>
+      <name>statue</name>
+    </object>
+    <object>
+      <name>man</name>
+      <h>121</h>
+      <object_id>3247723</object_id>
+      <w>47</w>
+      <y>14</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>131</h>
+      <object_id>3621758</object_id>
+      <w>221</w>
+      <y>69</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>77</h>
+      <object_id>3013194</object_id>
+      <w>33</w>
+      <y>221</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>statue</name>
+      <h>125</h>
+      <object_id>3727544</object_id>
+      <w>380</w>
+      <y>193</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people using cleaning brushes on an outdoor monument.  </caption>
+      <caption>A man is hammering at the base of a statue.</caption>
+      <caption>A very tall statue of a horse with two men standing by it</caption>
+      <caption>Two guys are painting the base of a statue.</caption>
+      <caption>Two men are helping to paint the statue of a man on a horse.</caption>
+    </captions>
+</image>

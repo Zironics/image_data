@@ -1,0 +1,81 @@
+<image>
+  <image-id>2361808</image-id>
+  <coco-id>268071</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2138741</relationship_id>
+      <predicate>hitting</predicate>
+      <subject>779238</subject>
+      <object>779239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138742</relationship_id>
+      <predicate>ON</predicate>
+      <subject>779240</subject>
+      <object>779239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138743</relationship_id>
+      <predicate>ON</predicate>
+      <subject>779240</subject>
+      <object>779239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2138744</relationship_id>
+      <predicate>has</predicate>
+      <subject>779239</subject>
+      <object>779242</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>95</h>
+      <object_id>779238</object_id>
+      <w>118</w>
+      <y>24</y>
+      <x>176</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>here</attribute>
+        <attribute>curved</attribute>
+        <attribute>wrinkled</attribute>
+        <attribute>long</attribute>
+        <attribute>brown</attribute>
+        <attribute>wide</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>trunk</name>
+      <h>340</h>
+      <object_id>779239</object_id>
+      <w>464</w>
+      <y>20</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>8</h>
+      <object_id>779240</object_id>
+      <w>48</w>
+      <y>132</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>white patch</name>
+      <h>15</h>
+      <object_id>779242</object_id>
+      <w>21</w>
+      <y>241</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture taken looking down at an elephant's trunk.</caption>
+      <caption>A elephant trunk that is very close to the camera.</caption>
+      <caption>a long blue thing in front of some trees</caption>
+      <caption>An elephants very long trunk sticking up into the air.</caption>
+      <caption>A close up view of an elephant's trunk.</caption>
+    </captions>
+</image>

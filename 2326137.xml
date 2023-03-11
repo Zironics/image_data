@@ -1,0 +1,37 @@
+<image>
+  <image-id>2326137</image-id>
+  <coco-id>452784</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4095339</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2855523</subject>
+      <object>2855524</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>vegetables</name>
+      <h>283</h>
+      <object_id>2855523</object_id>
+      <w>326</w>
+      <y>215</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>261</h>
+      <object_id>2855524</object_id>
+      <w>373</w>
+      <y>237</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A plate of food that includes lentils and leafy greens.</caption>
+      <caption>a person washing something under the running water of a faucet next to a bowl of greens.</caption>
+      <caption>The cook is rinsing a draining the greens at her kitchen sink.</caption>
+      <caption>a big orange bowl full of assorted veggies with hands above it </caption>
+      <caption>A person washing their hands near a bowl of broccoli.</caption>
+    </captions>
+</image>

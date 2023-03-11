@@ -1,0 +1,185 @@
+<image>
+  <image-id>2393296</image-id>
+  <coco-id>124132</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3416294</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1221241</subject>
+      <object>1221242</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416295</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1221240</subject>
+      <object>1221241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416296</relationship_id>
+      <predicate>has</predicate>
+      <subject>1221243</subject>
+      <object>1221244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416297</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1221241</subject>
+      <object>1221242</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416298</relationship_id>
+      <predicate>for</predicate>
+      <subject>1221241</subject>
+      <object>1221240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416299</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1221239</subject>
+      <object>1221241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416300</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1221245</subject>
+      <object>1221242</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416301</relationship_id>
+      <predicate>has</predicate>
+      <subject>1221243</subject>
+      <object>1221244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416302</relationship_id>
+      <predicate>has</predicate>
+      <subject>1221241</subject>
+      <object>1221240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416303</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1221239</subject>
+      <object>1221241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416304</relationship_id>
+      <predicate>has</predicate>
+      <subject>1221241</subject>
+      <object>1221239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416305</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1221241</subject>
+      <object>1221240</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3416306</relationship_id>
+      <predicate>full of</predicate>
+      <subject>1221241</subject>
+      <object>1221240</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>491</h>
+      <object_id>1221241</object_id>
+      <w>494</w>
+      <y>3</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>granite</attribute>
+        <attribute>blue flecked</attribute>
+        <attribute>flecked</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>table</name>
+      <h>496</h>
+      <object_id>1221242</object_id>
+      <w>500</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>soggy looking</attribute>
+        <attribute>green vegetable</attribute>
+        <attribute>wilted</attribute>
+        <attribute>green</attribute>
+        <attribute>wet looking</attribute>
+        <attribute>wet</attribute>
+        <attribute>soggy</attribute>
+        <attribute>vegetable</attribute>
+        <attribute>steamed</attribute>
+        <attribute>covered</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>140</h>
+      <object_id>1221240</object_id>
+      <w>160</w>
+      <y>207</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaf</name>
+      <h>94</h>
+      <object_id>1221243</object_id>
+      <w>138</w>
+      <y>113</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>59</h>
+      <object_id>1221244</object_id>
+      <w>74</w>
+      <y>65</y>
+      <x>191</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue hue</attribute>
+        <attribute>blue</attribute>
+        <attribute>circle</attribute>
+        <attribute>blue colored</attribute>
+        <attribute>blue color</attribute>
+      </attributes>
+      <name>line</name>
+      <h>403</h>
+      <object_id>1221239</object_id>
+      <w>402</w>
+      <y>46</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>fleck</name>
+      <h>10</h>
+      <object_id>1221245</object_id>
+      <w>9</w>
+      <y>441</y>
+      <x>52</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A lot of lettuce sitting in a bowl on a table. </caption>
+      <caption>A plate of prepared vegetables has broccoli and its leaves.</caption>
+      <caption>There is a room with various items in the picture.
+</caption>
+      <caption>A white plate topped with leafy greens on a table.</caption>
+      <caption>A plate full of green spinach and broccoli heads.</caption>
+    </captions>
+</image>

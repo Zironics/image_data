@@ -1,0 +1,62 @@
+<image>
+  <image-id>2391450</image-id>
+  <coco-id>84859</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4736421</relationship_id>
+      <predicate>with</predicate>
+      <subject>4431833</subject>
+      <object>4431834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4736422</relationship_id>
+      <predicate>at</predicate>
+      <subject>4431835</subject>
+      <object>4431836</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sheep</name>
+      <h>80</h>
+      <object_id>4431833</object_id>
+      <w>83</w>
+      <y>44</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>head</name>
+      <h>25</h>
+      <object_id>4431834</object_id>
+      <w>38</w>
+      <y>92</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>74</h>
+      <object_id>4431835</object_id>
+      <w>101</w>
+      <y>52</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>trough</name>
+      <h>65</h>
+      <object_id>4431836</object_id>
+      <w>194</w>
+      <y>86</y>
+      <x>28</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Sheep and lambs with green paint on their backs.</caption>
+      <caption>A dog laying in the grass next to baby sheep.</caption>
+      <caption>A dog laying on the ground playing with a couple of lambs.</caption>
+      <caption>Two lambs approach a border collie while other sheep eat from a trough.</caption>
+      <caption>A black and white dog sitting on a grass covered field.</caption>
+    </captions>
+</image>

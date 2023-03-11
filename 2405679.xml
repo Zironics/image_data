@@ -1,0 +1,178 @@
+<image>
+  <image-id>2405679</image-id>
+  <coco-id>4988</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>707759</relationship_id>
+      <predicate>IN</predicate>
+      <subject>372601</subject>
+      <object>372602</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707760</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>372603</subject>
+      <object>372599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707761</relationship_id>
+      <predicate>has</predicate>
+      <subject>372604</subject>
+      <object>372605</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707762</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>372614</subject>
+      <object>372599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707763</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>372599</subject>
+      <object>372616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707764</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>372617</subject>
+      <object>372599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707765</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>372618</subject>
+      <object>372599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707766</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>372619</subject>
+      <object>372599</object>
+    </relationship>
+    <relationship>
+      <relationship_id>707767</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>372620</subject>
+      <object>372599</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>70</h>
+      <object_id>372601</object_id>
+      <w>112</w>
+      <y>221</y>
+      <x>344</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>bus stop</name>
+      <h>197</h>
+      <object_id>372602</object_id>
+      <w>244</w>
+      <y>103</y>
+      <x>237</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>symbol</name>
+      <h>24</h>
+      <object_id>372603</object_id>
+      <w>20</w>
+      <y>251</y>
+      <x>95</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>197</h>
+      <object_id>372599</object_id>
+      <w>281</w>
+      <y>111</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>185</h>
+      <object_id>372604</object_id>
+      <w>126</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>top half</name>
+      <h>115</h>
+      <object_id>372605</object_id>
+      <w>117</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>edge</name>
+      <h>20</h>
+      <object_id>372614</object_id>
+      <w>59</w>
+      <y>274</y>
+      <x>183</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>111</h>
+      <object_id>372616</object_id>
+      <w>161</w>
+      <y>250</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>23</h>
+      <object_id>372617</object_id>
+      <w>45</w>
+      <y>262</y>
+      <x>136</x>
+    </object>
+    <object>
+      <name>license plate</name>
+      <h>19</h>
+      <object_id>372618</object_id>
+      <w>30</w>
+      <y>272</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>wiper</name>
+      <h>30</h>
+      <object_id>372619</object_id>
+      <w>89</w>
+      <y>221</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>120</h>
+      <object_id>372620</object_id>
+      <w>121</w>
+      <y>125</y>
+      <x>55</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A public bus parked at a bus stop</caption>
+      <caption>A red bus is stopping at a bus stop.</caption>
+      <caption>A bus stopped in front of a bush stop with a shelter.</caption>
+      <caption>A bus at a bus top with the doors open.</caption>
+      <caption>a red and blue passenger bust parked at a bus station</caption>
+    </captions>
+</image>

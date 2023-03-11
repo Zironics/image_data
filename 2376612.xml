@@ -1,0 +1,121 @@
+<image>
+  <image-id>2376612</image-id>
+  <coco-id>230537</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4301694</relationship_id>
+      <predicate>has</predicate>
+      <subject>3839795</subject>
+      <object>719603</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301695</relationship_id>
+      <predicate>around</predicate>
+      <subject>719605</subject>
+      <object>3839788</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301696</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3839795</subject>
+      <object>719606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301697</relationship_id>
+      <predicate>holding</predicate>
+      <subject>719609</subject>
+      <object>3839794</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301698</relationship_id>
+      <predicate>holds</predicate>
+      <subject>3839795</subject>
+      <object>719610</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>460</h>
+      <object_id>3839795</object_id>
+      <w>253</w>
+      <y>40</y>
+      <x>22</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown hair</name>
+      <h>65</h>
+      <object_id>719603</object_id>
+      <w>101</w>
+      <y>34</y>
+      <x>101</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white item</name>
+      <h>54</h>
+      <object_id>719605</object_id>
+      <w>63</w>
+      <y>342</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>415</h>
+      <object_id>3839788</object_id>
+      <w>239</w>
+      <y>40</y>
+      <x>46</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue jeans</name>
+      <h>76</h>
+      <object_id>719606</object_id>
+      <w>160</w>
+      <y>418</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>holding sandwich</name>
+      <h>58</h>
+      <object_id>719609</object_id>
+      <w>78</w>
+      <y>209</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>76</h>
+      <object_id>3839794</object_id>
+      <w>71</w>
+      <y>195</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white plate</name>
+      <h>59</h>
+      <object_id>719610</object_id>
+      <w>143</w>
+      <y>272</y>
+      <x>147</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man with a knife in his belt and a beer in his arm enjoys a sandwich.</caption>
+      <caption>A camping scene shows a man holding a sandwich.</caption>
+      <caption>Man eating a sandwich from a paper plate while camping.</caption>
+      <caption>A man at a campground eating a sandwich.</caption>
+      <caption>A man eating a sandwich outside with a beer tucked under his arm and a conceal fire arm tucked in to his shirt</caption>
+    </captions>
+</image>

@@ -1,0 +1,124 @@
+<image>
+  <image-id>2391356</image-id>
+  <coco-id>317507</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4737726</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4435098</subject>
+      <object>4435099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4737727</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4435101</subject>
+      <object>4435102</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4737728</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4435104</subject>
+      <object>4435103</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4737729</relationship_id>
+      <predicate>shining on</predicate>
+      <subject>4435107</subject>
+      <object>4435106</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>rock</name>
+      <h>38</h>
+      <object_id>4435098</object_id>
+      <w>44</w>
+      <y>254</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>some</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>24</h>
+      <object_id>4435099</object_id>
+      <w>80</w>
+      <y>288</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>fan</name>
+      <h>123</h>
+      <object_id>4435101</object_id>
+      <w>117</w>
+      <y>146</y>
+      <x>358</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>train</name>
+      <h>140</h>
+      <object_id>4435102</object_id>
+      <w>237</w>
+      <y>130</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>railroad</attribute>
+      </attributes>
+      <name>ties</name>
+      <h>20</h>
+      <object_id>4435104</object_id>
+      <w>141</w>
+      <y>269</y>
+      <x>349</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>railroad</attribute>
+      </attributes>
+      <name>tracks</name>
+      <h>33</h>
+      <object_id>4435103</object_id>
+      <w>216</w>
+      <y>253</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>sunlight</name>
+      <h>87</h>
+      <object_id>4435107</object_id>
+      <w>206</w>
+      <y>145</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>some</attribute>
+      </attributes>
+      <name>hills</name>
+      <h>104</h>
+      <object_id>4435106</object_id>
+      <w>205</w>
+      <y>145</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train sitting on train tracks next to a lush green forest.</caption>
+      <caption>A train passing under a wooden building next to a forest area.</caption>
+      <caption>A large piece of machinery sits on a rail road track in a rural setting.</caption>
+      <caption>A train with a large fan on the back traveling to a station.</caption>
+      <caption>A train is on the tracks and has pulled into a depot.</caption>
+    </captions>
+</image>

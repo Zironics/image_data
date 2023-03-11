@@ -1,0 +1,121 @@
+<image>
+  <image-id>2415011</image-id>
+  <coco-id>123188</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4266260</relationship_id>
+      <predicate>by</predicate>
+      <subject>3799131</subject>
+      <object>3799132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266261</relationship_id>
+      <predicate>IN</predicate>
+      <subject>147743</subject>
+      <object>3799140</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4266262</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3799142</subject>
+      <object>3799143</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142775</relationship_id>
+      <predicate>boulders by shore</predicate>
+      <subject>147743</subject>
+      <object>147753</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142779</relationship_id>
+      <predicate>sand by shore</predicate>
+      <subject>147745</subject>
+      <object>147752</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>98</h>
+      <object_id>3799131</object_id>
+      <w>60</w>
+      <y>130</y>
+      <x>30</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>190</h>
+      <object_id>3799132</object_id>
+      <w>481</w>
+      <y>6</y>
+      <x>12</x>
+    </object>
+    <object>
+      <h>81</h>
+      <object_id>147743</object_id>
+      <w>382</w>
+      <y>78</y>
+      <x>103</x>
+      <name>rocks are wet</name>
+    </object>
+    <object>
+      <name>water</name>
+      <h>152</h>
+      <object_id>3799140</object_id>
+      <w>476</w>
+      <y>13</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>200</h>
+      <object_id>3799142</object_id>
+      <w>207</w>
+      <y>173</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>216</h>
+      <object_id>3799143</object_id>
+      <w>472</w>
+      <y>146</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>boulders by shore</name>
+      <h>130</h>
+      <object_id>147753</object_id>
+      <w>387</w>
+      <y>54</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>debris by shore</name>
+      <h>330</h>
+      <object_id>147745</object_id>
+      <w>470</w>
+      <y>13</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>sand by shore</name>
+      <h>236</h>
+      <object_id>147752</object_id>
+      <w>489</w>
+      <y>135</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A goose walking on sand with a body of water in the background.</caption>
+      <caption>a couple of birds that are standing on a beach</caption>
+      <caption>A goose that is walking on a beach.</caption>
+      <caption>There is a bird standing on the beach.</caption>
+      <caption>A Canadian goose is walking in the sand next to the shore.</caption>
+    </captions>
+</image>

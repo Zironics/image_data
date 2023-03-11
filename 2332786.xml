@@ -1,0 +1,76 @@
+<image>
+  <image-id>2332786</image-id>
+  <coco-id>487741</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4085521</relationship_id>
+      <predicate>over</predicate>
+      <subject>3152983</subject>
+      <object>3293583</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085522</relationship_id>
+      <predicate>over</predicate>
+      <subject>3152983</subject>
+      <object>3152984</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085523</relationship_id>
+      <predicate>over</predicate>
+      <subject>2808037</subject>
+      <object>2808038</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>259</h>
+      <object_id>3152983</object_id>
+      <w>135</w>
+      <y>0</y>
+      <x>0</x>
+      <name>curtain</name>
+    </object>
+    <object>
+      <name>window</name>
+      <h>223</h>
+      <object_id>3293583</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>233</h>
+      <object_id>3152984</object_id>
+      <w>371</w>
+      <y>3</y>
+      <x>110</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>blinds</name>
+      <h>215</h>
+      <object_id>2808037</object_id>
+      <w>483</w>
+      <y>0</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>215</h>
+      <object_id>2808038</object_id>
+      <w>349</w>
+      <y>0</y>
+      <x>149</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a black and white dog with a collar looking out a large window</caption>
+      <caption>A dog sitting on top of a bed under a window.</caption>
+      <caption>A small dog sitting on a cushion by a window.</caption>
+      <caption>A dog that is looking out of a window.</caption>
+      <caption>a close up ofa dog looking out of a window</caption>
+    </captions>
+</image>

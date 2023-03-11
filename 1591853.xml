@@ -1,0 +1,40 @@
+<image>
+  <image-id>1591853</image-id>
+  <coco-id>52012</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4077881</relationship_id>
+      <predicate>all over</predicate>
+      <subject>1604345</subject>
+      <object>1604341</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>food</name>
+      <h>137</h>
+      <object_id>1604345</object_id>
+      <w>159</w>
+      <y>340</y>
+      <x>407</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>table</name>
+      <h>753</h>
+      <object_id>1604341</object_id>
+      <w>959</w>
+      <y>10</y>
+      <x>59</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A variety of food is displayed on a table.</caption>
+      <caption>This oddly shaped table is full of platters of finger food.</caption>
+      <caption>A blue table filled with bowls containing fruits</caption>
+      <caption>Assortment of fruits and dessert items displayed on table.</caption>
+      <caption>A semicircular table with lots of food dishes arranged on it.</caption>
+    </captions>
+</image>

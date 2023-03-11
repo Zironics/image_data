@@ -1,0 +1,40 @@
+<image>
+  <image-id>2326786</image-id>
+  <coco-id>82548</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476416</relationship_id>
+      <predicate>are on</predicate>
+      <subject>3017337</subject>
+      <object>3017338</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>words</name>
+      <h>25</h>
+      <object_id>3017337</object_id>
+      <w>170</w>
+      <y>70</y>
+      <x>84</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red slab</name>
+      <h>46</h>
+      <object_id>3017338</object_id>
+      <w>205</w>
+      <y>54</y>
+      <x>76</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person on a bicycle in the street next to a bus.</caption>
+      <caption>a person on their bicycle and a white and black bus</caption>
+      <caption>A person riding a bicycle alongside a bus in front of a Flash Taco.</caption>
+      <caption>A man is crossing the street with his bike.</caption>
+      <caption>A bus is traveling past a taco restaurant as a man on bike follows behind a car.</caption>
+    </captions>
+</image>

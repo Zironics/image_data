@@ -1,0 +1,51 @@
+<image>
+  <image-id>2336251</image-id>
+  <coco-id>428111</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3970223</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3393080</subject>
+      <object>3664562</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3970224</relationship_id>
+      <predicate>at</predicate>
+      <subject>2143910</subject>
+      <object>3393080</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>skateboard ramp</name>
+      <h>130</h>
+      <object_id>3393080</object_id>
+      <w>110</w>
+      <y>52</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>206</h>
+      <object_id>3664562</object_id>
+      <w>497</w>
+      <y>127</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>31</h>
+      <object_id>2143910</object_id>
+      <w>32</w>
+      <y>5</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man riding a skateboard up the side of a ramp.</caption>
+      <caption>A man is performing tricks on a skateboard ramp.</caption>
+      <caption>A skateboarder flies through the air in a skate park.</caption>
+      <caption>a man is in the air on a skateboard</caption>
+      <caption>a man that is on a skateboard that is on a ramp</caption>
+    </captions>
+</image>

@@ -1,0 +1,196 @@
+<image>
+  <image-id>2384599</image-id>
+  <coco-id>75821</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3551304</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1307234</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551305</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307231</subject>
+      <object>1307235</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551306</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307232</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551307</relationship_id>
+      <predicate>filled</predicate>
+      <subject>1307233</subject>
+      <object>1307236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551308</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307236</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551309</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307237</subject>
+      <object>1307235</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551310</relationship_id>
+      <predicate>under</predicate>
+      <subject>1307236</subject>
+      <object>1307233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551311</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307232</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551312</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307233</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551313</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1307232</subject>
+      <object>1307233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551314</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1307232</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551315</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307232</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551316</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1307234</subject>
+      <object>1307231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551317</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1307233</subject>
+      <object>1307232</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551318</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1307232</subject>
+      <object>1307233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3551319</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1307233</subject>
+      <object>1307231</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>blurred</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>19</h>
+      <object_id>1307234</object_id>
+      <w>20</w>
+      <y>97</y>
+      <x>170</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>designed</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>263</h>
+      <object_id>1307231</object_id>
+      <w>498</w>
+      <y>68</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>280</h>
+      <object_id>1307235</object_id>
+      <w>129</w>
+      <y>53</y>
+      <x>371</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>steamed</attribute>
+        <attribute>cooked</attribute>
+        <attribute>bite size</attribute>
+        <attribute>large</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>170</h>
+      <object_id>1307232</object_id>
+      <w>216</w>
+      <y>110</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>folded</attribute>
+        <attribute>orange</attribute>
+        <attribute>ravioli</attribute>
+        <attribute>square</attribute>
+        <attribute>yellow</attribute>
+        <attribute>cooked</attribute>
+        <attribute>curled</attribute>
+      </attributes>
+      <name>pasta</name>
+      <h>199</h>
+      <object_id>1307233</object_id>
+      <w>275</w>
+      <y>69</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>cheese</name>
+      <h>27</h>
+      <object_id>1307236</object_id>
+      <w>21</w>
+      <y>141</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>table cloth</name>
+      <h>38</h>
+      <object_id>1307237</object_id>
+      <w>34</w>
+      <y>74</y>
+      <x>466</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small white plate topped with broccoli and past on top of a table.</caption>
+      <caption>Two types of food sitting on a floral plate.</caption>
+      <caption>A blue floral patterned plate holds pasta and broccoli. </caption>
+      <caption>Pasta with red sauce and broccoli on a plate.</caption>
+      <caption>a white plate with some broccoli and some eggs</caption>
+    </captions>
+</image>

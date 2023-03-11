@@ -1,0 +1,81 @@
+<image>
+  <image-id>2417104</image-id>
+  <coco-id>308180</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255310</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2871624</subject>
+      <object>3792283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4255311</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3792284</subject>
+      <object>2793301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3804430</relationship_id>
+      <predicate>above</predicate>
+      <subject>3017188</subject>
+      <object>3017189</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>58</h>
+      <object_id>2871624</object_id>
+      <w>79</w>
+      <y>5</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>302</h>
+      <object_id>3792283</object_id>
+      <w>101</w>
+      <y>16</y>
+      <x>125</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>316</h>
+      <object_id>3792284</object_id>
+      <w>300</w>
+      <y>11</y>
+      <x>192</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>318</h>
+      <object_id>2793301</object_id>
+      <w>487</w>
+      <y>7</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>86</h>
+      <object_id>3017188</object_id>
+      <w>76</w>
+      <y>7</y>
+      <x>363</x>
+    </object>
+    <object>
+      <name>shoulder</name>
+      <h>56</h>
+      <object_id>3017189</object_id>
+      <w>57</w>
+      <y>87</y>
+      <x>392</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An older woman standing next to a man holding a game controller.</caption>
+      <caption>A man and older woman playing wii tennis</caption>
+      <caption>The woman and man are playing video games together. </caption>
+      <caption>An older woman and man play together on a wii.</caption>
+      <caption>A older women plays a video game on the television. </caption>
+    </captions>
+</image>

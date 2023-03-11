@@ -1,0 +1,79 @@
+<image>
+  <image-id>2315665</image-id>
+  <coco-id>184791</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3869303</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3624628</subject>
+      <object>3089046</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3869305</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3624628</subject>
+      <object>3101911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3869306</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3624628</subject>
+      <object>3005055</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3869307</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3624628</subject>
+      <object>2997436</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>view</name>
+      <h>377</h>
+      <object_id>3624628</object_id>
+      <w>478</w>
+      <y>12</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>fruit</name>
+      <h>50</h>
+      <object_id>3089046</object_id>
+      <w>63</w>
+      <y>197</y>
+      <x>343</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>70</h>
+      <object_id>3101911</object_id>
+      <w>126</w>
+      <y>243</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>frame</name>
+      <h>357</h>
+      <object_id>3005055</object_id>
+      <w>460</w>
+      <y>13</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>painting</name>
+      <h>298</h>
+      <object_id>2997436</object_id>
+      <w>398</w>
+      <y>41</y>
+      <x>54</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A painting of a table with fruit on top of it.</caption>
+      <caption>Painting of oranges, a bowl, candle, and a pitcher</caption>
+      <caption>a painting of fruit and a candle with a vase</caption>
+      <caption>A painting of a candlestick holder with a candle, several pieces of fruit and a vase, with a gold frame around the painting.</caption>
+      <caption>A painting that has a gold frame on it.</caption>
+    </captions>
+</image>

@@ -1,0 +1,85 @@
+<image>
+  <image-id>2350623</image-id>
+  <coco-id>147856</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4409682</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2358574</subject>
+      <object>2523696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409683</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2523695</subject>
+      <object>2523696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4409684</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1692435</subject>
+      <object>2106706</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>three</attribute>
+        <attribute>French</attribute>
+      </attributes>
+      <name>windows</name>
+      <h>147</h>
+      <object_id>2358574</object_id>
+      <w>112</w>
+      <y>62</y>
+      <x>86</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>living</attribute>
+      </attributes>
+      <name>room</name>
+      <h>329</h>
+      <object_id>2523696</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>323</h>
+      <object_id>2523695</object_id>
+      <w>41</w>
+      <y>1</y>
+      <x>458</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>flat-screen</attribute>
+        <attribute>opposite</attribute>
+      </attributes>
+      <name>television</name>
+      <h>133</h>
+      <object_id>1692435</object_id>
+      <w>36</w>
+      <y>40</y>
+      <x>462</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>293</h>
+      <object_id>2106706</object_id>
+      <w>44</w>
+      <y>1</y>
+      <x>454</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The living room of a home with a large sectional couch.</caption>
+      <caption>A L shaped couch in the living room</caption>
+      <caption>A very net living room with a big, peace couch under a large rug. </caption>
+      <caption>A large sectional sofa is sitting to the far left of a television screen.</caption>
+      <caption>A tan sofa sectional sits on an ornate rug. </caption>
+    </captions>
+</image>

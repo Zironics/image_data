@@ -1,0 +1,54 @@
+<image>
+  <image-id>2331319</image-id>
+  <coco-id>57429</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4103654</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3009819</subject>
+      <object>3350544</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4103655</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3009820</subject>
+      <object>3350544</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wing</name>
+      <h>57</h>
+      <object_id>3009819</object_id>
+      <w>150</w>
+      <y>171</y>
+      <x>280</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the picture</attribute>
+      </attributes>
+      <h>217</h>
+      <object_id>3350544</object_id>
+      <w>313</w>
+      <y>41</y>
+      <x>116</x>
+      <name>airplane</name>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>60</h>
+      <object_id>3009820</object_id>
+      <w>126</w>
+      <y>174</y>
+      <x>118</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane with its landing wheels out landing. </caption>
+      <caption>A plane that is taking off at an airport</caption>
+      <caption>A man takes a picture of an airplane taking off.</caption>
+      <caption>A large jet takes off from an airport runway.</caption>
+      <caption>The airplane is taking off on the runway at the airport.</caption>
+    </captions>
+</image>

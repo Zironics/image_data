@@ -1,0 +1,87 @@
+<image>
+  <image-id>285707</image-id>
+  <coco-id>190140</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4723763</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4401032</subject>
+      <object>4401033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4653068</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4227611</subject>
+      <object>4227612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4653535</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>4228691</subject>
+      <object>4228692</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>chest</name>
+      <h>53</h>
+      <object_id>4401032</object_id>
+      <w>50</w>
+      <y>341</y>
+      <x>618</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>232</h>
+      <object_id>4401033</object_id>
+      <w>130</w>
+      <y>248</y>
+      <x>569</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>271</h>
+      <object_id>4227611</object_id>
+      <w>247</w>
+      <y>219</y>
+      <x>248</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>141</h>
+      <object_id>4227612</object_id>
+      <w>186</w>
+      <y>281</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>251</h>
+      <object_id>4228691</object_id>
+      <w>145</w>
+      <y>240</y>
+      <x>565</x>
+    </object>
+    <object>
+      <name>blue collar</name>
+      <h>35</h>
+      <object_id>4228692</object_id>
+      <w>46</w>
+      <y>297</y>
+      <x>619</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A man driving a small boat with a dog sitting on it's front end.</caption>
+      <caption>A dog standing on a boat that a man is piloting through the water.</caption>
+      <caption>A man driving a boat with his dog looking out over the bow.</caption>
+      <caption>A man and a dog on a small boat.</caption>
+      <caption>A man in a hat and glasses is sitting on a boat with a dog.</caption>
+    </captions>
+</image>

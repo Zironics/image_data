@@ -1,0 +1,65 @@
+<image>
+  <image-id>2331590</image-id>
+  <coco-id>458560</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4464504</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3210378</subject>
+      <object>3210380</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4464505</relationship_id>
+      <predicate>near</predicate>
+      <subject>3210378</subject>
+      <object>3425042</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4464506</relationship_id>
+      <predicate>near</predicate>
+      <subject>3425041</subject>
+      <object>3425042</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>duck</name>
+      <h>245</h>
+      <object_id>3210378</object_id>
+      <w>159</w>
+      <y>177</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>117</h>
+      <object_id>3210380</object_id>
+      <w>374</w>
+      <y>381</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>388</h>
+      <object_id>3425042</object_id>
+      <w>370</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>goose</name>
+      <h>250</h>
+      <object_id>3425041</object_id>
+      <w>161</w>
+      <y>179</y>
+      <x>40</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A good stands in the grass next to the water.</caption>
+      <caption>The brown duck has a long, dark neck.</caption>
+      <caption>A black, grey and white duck on grass area by water.</caption>
+      <caption>A bird that is standing on grass near water. </caption>
+      <caption>A single goose standing on the bank of a lake.</caption>
+    </captions>
+</image>

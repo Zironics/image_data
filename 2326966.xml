@@ -1,0 +1,107 @@
+<image>
+  <image-id>2326966</image-id>
+  <coco-id>32699</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4095399</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3370464</subject>
+      <object>3370465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475438</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3356592</subject>
+      <object>3356593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475439</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3356592</subject>
+      <object>3356594</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4475440</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2785503</subject>
+      <object>3938203</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wooden </attribute>
+      </attributes>
+      <name>cabinets</name>
+      <h>360</h>
+      <object_id>3370464</object_id>
+      <w>249</w>
+      <y>5</y>
+      <x>228</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large </attribute>
+      </attributes>
+      <name>kithcen</name>
+      <h>365</h>
+      <object_id>3370465</object_id>
+      <w>486</w>
+      <y>3</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>mat</name>
+      <h>47</h>
+      <object_id>3356592</object_id>
+      <w>27</w>
+      <y>296</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>50</h>
+      <object_id>3356593</object_id>
+      <w>61</w>
+      <y>312</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>24</h>
+      <object_id>3356594</object_id>
+      <w>52</w>
+      <y>189</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bunch</attribute>
+      </attributes>
+      <name>bananas</name>
+      <h>38</h>
+      <object_id>2785503</object_id>
+      <w>52</w>
+      <y>219</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>bowl</name>
+      <h>21</h>
+      <object_id>3938203</object_id>
+      <w>51</w>
+      <y>234</y>
+      <x>103</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kitchen with a microwave, sink, oven and refrigerator.</caption>
+      <caption>The kitchen was clean and is ready for someone to use. </caption>
+      <caption>A kitchen with wooden cabinets and appliances and a wall mounted oven..</caption>
+      <caption>A very large and nice kitchen with wooden cabinets.</caption>
+      <caption>There is a kitchen with wood cabinets and an island with a white top</caption>
+    </captions>
+</image>

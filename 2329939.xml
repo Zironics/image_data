@@ -1,0 +1,59 @@
+<image>
+  <image-id>2329939</image-id>
+  <coco-id>503689</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4148139</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3733055</subject>
+      <object>3206559</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4107873</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3235612</subject>
+      <object>3718020</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pants</name>
+      <h>92</h>
+      <object_id>3733055</object_id>
+      <w>96</w>
+      <y>210</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>247</h>
+      <object_id>3206559</object_id>
+      <w>88</w>
+      <y>76</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>baseball</name>
+      <h>22</h>
+      <object_id>3235612</object_id>
+      <w>42</w>
+      <y>302</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>59</h>
+      <object_id>3718020</object_id>
+      <w>496</w>
+      <y>269</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a young baseball player swinging a baseball bat</caption>
+      <caption>A boy in a green shirt swinging a baseball bat.</caption>
+      <caption>A child is swinging a bat at a ball.</caption>
+      <caption>a boy in a baseball uniform swinging a bat at a baseball field</caption>
+      <caption>Some baseball players are about to play some game. </caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2341236</image-id>
+  <coco-id>545370</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4621439</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4148541</subject>
+      <object>4148542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600898</relationship_id>
+      <predicate>has</predicate>
+      <subject>4097829</subject>
+      <object>4097830</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mesh</name>
+      <h>45</h>
+      <object_id>4148541</object_id>
+      <w>46</w>
+      <y>209</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>69</h>
+      <object_id>4148542</object_id>
+      <w>67</w>
+      <y>195</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>30</h>
+      <object_id>4097829</object_id>
+      <w>32</w>
+      <y>52</y>
+      <x>172</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>frame</name>
+      <h>56</h>
+      <object_id>4097830</object_id>
+      <w>84</w>
+      <y>35</y>
+      <x>144</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Deocorative art is sitting on a brick houses' lawn.</caption>
+      <caption>A tall brick building with a cock mounted on it's face.</caption>
+      <caption>An old brick home with a gated entrance. </caption>
+      <caption>a clock a brick building and a sculpted globe </caption>
+      <caption>A large brick building with windows and a clock face.</caption>
+    </captions>
+</image>

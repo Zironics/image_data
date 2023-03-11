@@ -1,0 +1,82 @@
+<image>
+  <image-id>2383992</image-id>
+  <coco-id>191353</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4666834</relationship_id>
+      <predicate>in left corner</predicate>
+      <subject>4262163</subject>
+      <object>4262164</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734439</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4426985</subject>
+      <object>4427003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734447</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4427002</subject>
+      <object>4427003</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4734448</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4427002</subject>
+      <object>4427003</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>logo</name>
+      <h>46</h>
+      <object_id>4262163</object_id>
+      <w>59</w>
+      <y>445</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>picture</name>
+      <h>425</h>
+      <object_id>4262164</object_id>
+      <w>259</w>
+      <y>40</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>75</h>
+      <object_id>4426985</object_id>
+      <w>62</w>
+      <y>390</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>212</h>
+      <object_id>4427003</object_id>
+      <w>65</w>
+      <y>258</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fresh</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>420</h>
+      <object_id>4427002</object_id>
+      <w>263</w>
+      <y>44</y>
+      <x>20</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bunch of white flowers are arranged in a vase.</caption>
+      <caption>A bunch of flowers that are sitting in a vase.</caption>
+      <caption>A flower arrangement in a tall clear glass vase in an advertisement. </caption>
+      <caption>A group of flowers sit within a clear vase.</caption>
+      <caption>A vase filled with lots of flowers on a table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,76 @@
+<image>
+  <image-id>2325667</image-id>
+  <coco-id>279199</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483070</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2766400</subject>
+      <object>2770872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483071</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2770872</subject>
+      <object>2770873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483072</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2746941</subject>
+      <object>2746942</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sandwhich</name>
+      <h>273</h>
+      <object_id>2766400</object_id>
+      <w>360</w>
+      <y>57</y>
+      <x>76</x>
+    </object>
+    <object>
+      <h>291</h>
+      <object_id>2770872</object_id>
+      <w>499</w>
+      <y>83</y>
+      <x>0</x>
+      <name>plate</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>table</name>
+      <h>117</h>
+      <object_id>2770873</object_id>
+      <w>484</w>
+      <y>19</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>silverware</name>
+      <h>30</h>
+      <object_id>2746941</object_id>
+      <w>125</w>
+      <y>11</y>
+      <x>372</x>
+    </object>
+    <object>
+      <name>white napkin</name>
+      <h>52</h>
+      <object_id>2746942</object_id>
+      <w>149</w>
+      <y>5</y>
+      <x>350</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A loaded open sandwich at a dinner table.</caption>
+      <caption>This is an open face sandwich with crisp greens and vegetables.</caption>
+      <caption>A plate of food that is on top of a table.</caption>
+      <caption>An elaborate entree on a white plate with a glass of water on the side.  </caption>
+      <caption>A culinary displayed sandwich sits on a plate.</caption>
+    </captions>
+</image>

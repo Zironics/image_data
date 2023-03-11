@@ -1,0 +1,81 @@
+<image>
+  <image-id>2393110</image-id>
+  <coco-id>431570</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4740266</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4442254</subject>
+      <object>4441684</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4740452</relationship_id>
+      <predicate>riding on</predicate>
+      <subject>4442254</subject>
+      <object>4442253</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4580401</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4048891</subject>
+      <object>4048892</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>161</h>
+      <object_id>4442254</object_id>
+      <w>142</w>
+      <y>51</y>
+      <x>171</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>motorcycle helmet</name>
+      <h>50</h>
+      <object_id>4441684</object_id>
+      <w>50</w>
+      <y>47</y>
+      <x>225</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>motorcycle</name>
+      <h>169</h>
+      <object_id>4442253</object_id>
+      <w>308</w>
+      <y>116</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>124</h>
+      <object_id>4048891</object_id>
+      <w>126</w>
+      <y>112</y>
+      <x>351</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hay</attribute>
+      </attributes>
+      <name>bales</name>
+      <h>197</h>
+      <object_id>4048892</object_id>
+      <w>476</w>
+      <y>72</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person riding a baby blue motorcycle near haystacks
+</caption>
+      <caption>A person who is sitting on a motorcycle.</caption>
+      <caption>A man on a motorcycle with matching motorcycle gear.</caption>
+      <caption>a man is riding a very blue motorcycle</caption>
+      <caption>a man is riding a blue motorcycle outside</caption>
+    </captions>
+</image>

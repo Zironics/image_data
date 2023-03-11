@@ -1,0 +1,101 @@
+<image>
+  <image-id>2411613</image-id>
+  <coco-id>450318</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4282272</relationship_id>
+      <predicate>from</predicate>
+      <subject>3224141</subject>
+      <object>3813437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3741923</relationship_id>
+      <predicate>above</predicate>
+      <subject>3494532</subject>
+      <object>3382568</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4282273</relationship_id>
+      <predicate>covered</predicate>
+      <subject>3224141</subject>
+      <object>3285294</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4098944</relationship_id>
+      <predicate>above</predicate>
+      <subject>3426347</subject>
+      <object>3426348</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>falling</attribute>
+      </attributes>
+      <name>snow</name>
+      <h>115</h>
+      <object_id>3224141</object_id>
+      <w>123</w>
+      <y>219</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>254</h>
+      <object_id>3813437</object_id>
+      <w>290</w>
+      <y>246</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>192</h>
+      <object_id>3494532</object_id>
+      <w>235</w>
+      <y>83</y>
+      <x>36</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stop</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>269</h>
+      <object_id>3382568</object_id>
+      <w>223</w>
+      <y>220</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>190</h>
+      <object_id>3285294</object_id>
+      <w>189</w>
+      <y>259</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>power lines</name>
+      <h>264</h>
+      <object_id>3426347</object_id>
+      <w>311</w>
+      <y>19</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>signs</name>
+      <h>489</h>
+      <object_id>3426348</object_id>
+      <w>258</w>
+      <y>9</y>
+      <x>34</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red stop sign topped with a green street sign.</caption>
+      <caption>A stop sign is getting covered with snow and ice.</caption>
+      <caption>Stop sign at the corner of Agnes Street on winter day</caption>
+      <caption>Street signs and a stop sign take a beating from the snow.</caption>
+      <caption>The Agnes street sign on top of a snow covered stop sign.</caption>
+    </captions>
+</image>

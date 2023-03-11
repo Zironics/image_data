@@ -1,0 +1,123 @@
+<image>
+  <image-id>2416148</image-id>
+  <coco-id>335405</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4254207</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3424008</subject>
+      <object>3041677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254208</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2765917</subject>
+      <object>2765922</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3831659</relationship_id>
+      <predicate>by</predicate>
+      <subject>3041676</subject>
+      <object>3041677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3942558</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3424008</subject>
+      <object>3041677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254209</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2757487</subject>
+      <object>3791781</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254210</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2706312</subject>
+      <object>3041677</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>77</h>
+      <object_id>3424008</object_id>
+      <w>10</w>
+      <y>80</y>
+      <x>243</x>
+      <name>dash line</name>
+    </object>
+    <object>
+      <name>road</name>
+      <h>73</h>
+      <object_id>3041677</object_id>
+      <w>228</w>
+      <y>80</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>14</h>
+      <object_id>2765917</object_id>
+      <w>12</w>
+      <y>110</y>
+      <x>28</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>45</h>
+      <object_id>2765922</object_id>
+      <w>97</w>
+      <y>64</y>
+      <x>22</x>
+    </object>
+    <object>
+      <name>gravel</name>
+      <h>24</h>
+      <object_id>3041676</object_id>
+      <w>132</w>
+      <y>131</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>whte</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>56</h>
+      <object_id>2757487</object_id>
+      <w>39</w>
+      <y>73</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>50</h>
+      <object_id>3791781</object_id>
+      <w>48</w>
+      <y>91</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>16</h>
+      <object_id>2706312</object_id>
+      <w>12</w>
+      <y>117</y>
+      <x>329</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of sheep standing along side of a country road.</caption>
+      <caption>There is a full view of an outdoor area and it is nice.
+</caption>
+      <caption>a long road with sheep standing around it</caption>
+      <caption>Sheep graze alongside a rural highway that stretches toward distant mountains.</caption>
+      <caption>A country road has sheep on each side.</caption>
+    </captions>
+</image>

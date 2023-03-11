@@ -1,0 +1,76 @@
+<image>
+  <image-id>2328351</image-id>
+  <coco-id>380343</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4122482</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2767958</subject>
+      <object>2767959</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4152866</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2767958</subject>
+      <object>3022172</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4152870</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3343233</subject>
+      <object>2947209</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>banana flower</name>
+      <h>81</h>
+      <object_id>2767958</object_id>
+      <w>44</w>
+      <y>398</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>374</h>
+      <object_id>2767959</object_id>
+      <w>177</w>
+      <y>108</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>stem</name>
+      <h>172</h>
+      <object_id>3022172</object_id>
+      <w>168</w>
+      <y>182</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>bug</name>
+      <h>29</h>
+      <object_id>3343233</object_id>
+      <w>40</w>
+      <y>292</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>362</h>
+      <object_id>2947209</object_id>
+      <w>106</w>
+      <y>120</y>
+      <x>275</x>
+      <name>tree stalk</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Bananas are growing amongst thick tropical plants and flowers.</caption>
+      <caption>Bunches of green fruit on trees in native growth zone.</caption>
+      <caption>Bananas on a tree in a dense jungle setting.</caption>
+      <caption>A banana tree in the jungle has wild, green bananas.</caption>
+      <caption>Large bunch of green bananas on the tree. </caption>
+    </captions>
+</image>

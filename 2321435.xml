@@ -1,0 +1,90 @@
+<image>
+  <image-id>2321435</image-id>
+  <coco-id>29525</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4539511</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3451855</subject>
+      <object>3451857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539510</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3451856</subject>
+      <object>3451857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539512</relationship_id>
+      <predicate>for</predicate>
+      <subject>3312243</subject>
+      <object>3962083</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4539513</relationship_id>
+      <predicate>for</predicate>
+      <subject>3312244</subject>
+      <object>3962083</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bicycle</name>
+      <h>36</h>
+      <object_id>3451855</object_id>
+      <w>30</w>
+      <y>249</y>
+      <x>360</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>muddy</attribute>
+      </attributes>
+      <name>road</name>
+      <h>205</h>
+      <object_id>3451857</object_id>
+      <w>492</w>
+      <y>218</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>bicycle</name>
+      <h>43</h>
+      <object_id>3451856</object_id>
+      <w>42</w>
+      <y>254</y>
+      <x>267</x>
+    </object>
+    <object>
+      <name>posts</name>
+      <h>94</h>
+      <object_id>3312243</object_id>
+      <w>11</w>
+      <y>82</y>
+      <x>388</x>
+    </object>
+    <object>
+      <name>lines</name>
+      <h>130</h>
+      <object_id>3962083</object_id>
+      <w>475</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>posts</name>
+      <h>95</h>
+      <object_id>3312244</object_id>
+      <w>18</w>
+      <y>72</y>
+      <x>49</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people riding bikes down a dirt road.</caption>
+      <caption>People are riding their bikes on a temporary road.</caption>
+      <caption>A black and white photo of people in old automobiles and riding bicycles down a dirt road.</caption>
+      <caption>Black and white photo from 1915 of men riding bicycles.</caption>
+      <caption>An old black and white photo of a bridge construction. </caption>
+    </captions>
+</image>

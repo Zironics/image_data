@@ -1,0 +1,117 @@
+<image>
+  <image-id>2325191</image-id>
+  <coco-id>566835</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3744857</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2922283</subject>
+      <object>3117762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4156654</relationship_id>
+      <predicate>has</predicate>
+      <subject>3457153</subject>
+      <object>3736433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3744861</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3457153</subject>
+      <object>2745207</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3744866</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2732950</subject>
+      <object>2745207</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4127865</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3457153</subject>
+      <object>3498534</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>footpath</name>
+      <h>117</h>
+      <object_id>2922283</object_id>
+      <w>476</w>
+      <y>366</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>peeling paint</attribute>
+      </attributes>
+      <name>bench</name>
+      <h>112</h>
+      <object_id>3117762</object_id>
+      <w>200</w>
+      <y>284</y>
+      <x>222</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the picture</attribute>
+      </attributes>
+      <h>95</h>
+      <object_id>3457153</object_id>
+      <w>188</w>
+      <y>297</y>
+      <x>231</x>
+      <name>bench</name>
+    </object>
+    <object>
+      <name>back support</name>
+      <h>40</h>
+      <object_id>3736433</object_id>
+      <w>187</w>
+      <y>297</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in the picture</attribute>
+      </attributes>
+      <h>360</h>
+      <object_id>2745207</object_id>
+      <w>469</w>
+      <y>3</y>
+      <x>16</x>
+      <name>brick wall</name>
+    </object>
+    <object>
+      <name>window</name>
+      <h>113</h>
+      <object_id>2732950</object_id>
+      <w>117</w>
+      <y>22</y>
+      <x>370</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>building</name>
+      <h>352</h>
+      <object_id>3498534</object_id>
+      <w>415</w>
+      <y>38</y>
+      <x>43</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A green bench sitting up against a brick wall.</caption>
+      <caption>a green bench sitting next to a colorful brick wall </caption>
+      <caption>A green bench sitting against a brick wall on a sidewalk.</caption>
+      <caption>A bench on the outside of a brick building.</caption>
+      <caption>A tattered park bench sits in front of a brick wall</caption>
+    </captions>
+</image>

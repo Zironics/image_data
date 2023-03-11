@@ -1,0 +1,112 @@
+<image>
+  <image-id>2339246</image-id>
+  <coco-id>122802</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4795210</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4586551</subject>
+      <object>4586552</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4795211</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>4586553</subject>
+      <object>4586555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4795212</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>4586554</subject>
+      <object>4586555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4795213</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4586559</subject>
+      <object>4586561</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4795214</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>4586560</subject>
+      <object>4586561</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>166</h>
+      <object_id>4586551</object_id>
+      <w>136</w>
+      <y>139</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>111</h>
+      <object_id>4586552</object_id>
+      <w>111</w>
+      <y>180</y>
+      <x>124</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>101</h>
+      <object_id>4586553</object_id>
+      <w>44</w>
+      <y>33</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>179</h>
+      <object_id>4586555</object_id>
+      <w>443</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>96</h>
+      <object_id>4586554</object_id>
+      <w>45</w>
+      <y>67</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>24</h>
+      <object_id>4586559</object_id>
+      <w>14</w>
+      <y>244</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>10</h>
+      <object_id>4586561</object_id>
+      <w>130</w>
+      <y>260</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>18</h>
+      <object_id>4586560</object_id>
+      <w>9</w>
+      <y>250</y>
+      <x>266</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing in a kitchen with granite countertops.</caption>
+      <caption>An old man in the middle of his kitchen.</caption>
+      <caption>A man stands in the middle of his granite counter-topped kitchen.</caption>
+      <caption>A man leaning forward on a counter top.</caption>
+      <caption>A man stands behind a granite kitchen countertop with industrial lighting overhead.</caption>
+    </captions>
+</image>

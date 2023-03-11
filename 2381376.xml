@@ -1,0 +1,37 @@
+<image>
+  <image-id>2381376</image-id>
+  <coco-id>358817</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4588715</relationship_id>
+      <predicate>and</predicate>
+      <subject>4068524</subject>
+      <object>4068525</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>street sign</name>
+      <h>14</h>
+      <object_id>4068524</object_id>
+      <w>54</w>
+      <y>204</y>
+      <x>375</x>
+    </object>
+    <object>
+      <name>fire hydrant</name>
+      <h>32</h>
+      <object_id>4068525</object_id>
+      <w>27</w>
+      <y>304</y>
+      <x>408</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow traffic light above a street next to houses.</caption>
+      <caption>A street scene of an intersection with a street light.</caption>
+      <caption>A stop light hanging over an intersection in a residential area.</caption>
+      <caption>A traffic signal at an intersection is suspended on wire.</caption>
+      <caption>A street intersection with a traffic light over it.</caption>
+    </captions>
+</image>

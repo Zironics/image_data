@@ -1,0 +1,37 @@
+<image>
+  <image-id>2332114</image-id>
+  <coco-id>380932</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4094936</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3063051</subject>
+      <object>3063052</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>57</h>
+      <object_id>3063051</object_id>
+      <w>88</w>
+      <y>198</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>100</h>
+      <object_id>3063052</object_id>
+      <w>362</w>
+      <y>161</y>
+      <x>105</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There are mountains in the background and a lake in the middle.</caption>
+      <caption>a red fire hydrant in a field covered in snow</caption>
+      <caption>A fire hydrant in front of a snow covered field, a lake and mountain backdrop.</caption>
+      <caption>A hydran in a snow covered field overlooking a lake.</caption>
+      <caption>An expanse of snow in the middle of dry plants</caption>
+    </captions>
+</image>

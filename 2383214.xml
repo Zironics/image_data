@@ -1,0 +1,104 @@
+<image>
+  <image-id>2383214</image-id>
+  <coco-id>452183</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1308555</relationship_id>
+      <predicate>above</predicate>
+      <subject>534332</subject>
+      <object>534331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308556</relationship_id>
+      <predicate>traveling down</predicate>
+      <subject>534331</subject>
+      <object>534335</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308557</relationship_id>
+      <predicate>above</predicate>
+      <subject>534332</subject>
+      <object>534331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308558</relationship_id>
+      <predicate>above</predicate>
+      <subject>534332</subject>
+      <object>534331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308559</relationship_id>
+      <predicate>by</predicate>
+      <subject>534333</subject>
+      <object>534331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308560</relationship_id>
+      <predicate>above</predicate>
+      <subject>534332</subject>
+      <object>534331</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308561</relationship_id>
+      <predicate>near</predicate>
+      <subject>534333</subject>
+      <object>534331</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>powerline</name>
+      <h>29</h>
+      <object_id>534332</object_id>
+      <w>217</w>
+      <y>84</y>
+      <x>40</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>yellow</attribute>
+        <attribute>painted</attribute>
+        <attribute>black</attribute>
+        <attribute>traveling</attribute>
+        <attribute>moving</attribute>
+      </attributes>
+      <name>train</name>
+      <h>64</h>
+      <object_id>534331</object_id>
+      <w>368</w>
+      <y>153</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>tracks</name>
+      <h>28</h>
+      <object_id>534335</object_id>
+      <w>86</w>
+      <y>202</y>
+      <x>389</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>bushy</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>31</h>
+      <object_id>534333</object_id>
+      <w>68</w>
+      <y>111</y>
+      <x>354</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Yellow and blue train on tracks in nature</caption>
+      <caption>A train pushing its way through a field.</caption>
+      <caption>A train is rolling by a grassy field.</caption>
+      <caption>A yellow train traveling through a green field.</caption>
+      <caption>A yellow and blue trolley train rides alongside green grass and trees.</caption>
+    </captions>
+</image>

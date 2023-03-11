@@ -1,0 +1,98 @@
+<image>
+  <image-id>2333325</image-id>
+  <coco-id>209856</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4023158</relationship_id>
+      <predicate>eating with</predicate>
+      <subject>3146144</subject>
+      <object>3146146</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4455658</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2767580</subject>
+      <object>3289759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046246</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2992573</subject>
+      <object>2992575</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4046247</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2992574</subject>
+      <object>2992575</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>328</h>
+      <object_id>3146144</object_id>
+      <w>237</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>57</h>
+      <object_id>3146146</object_id>
+      <w>90</w>
+      <y>110</y>
+      <x>117</x>
+    </object>
+    <object>
+      <name>fork</name>
+      <h>93</h>
+      <object_id>2767580</object_id>
+      <w>75</w>
+      <y>191</y>
+      <x>142</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>multicolored</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>72</h>
+      <object_id>3289759</object_id>
+      <w>180</w>
+      <y>190</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>102</h>
+      <object_id>2992573</object_id>
+      <w>113</w>
+      <y>168</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>235</h>
+      <object_id>2992575</object_id>
+      <w>473</w>
+      <y>90</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>drink</name>
+      <h>171</h>
+      <object_id>2992574</object_id>
+      <w>84</w>
+      <y>131</y>
+      <x>354</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man standing in front of a plate of food with a glass of wine.</caption>
+      <caption>The image shows an entertainment cubby in the background, and to the foreground, a low table with wine, glassware, plates of half-eaten food, and, to one side, a person's torso, legs and arms, the latter of which is reaching over a plate of food.    </caption>
+      <caption>A table tat is set for dinner with two plates and wine glasses</caption>
+      <caption>A dining table with two plates of food, glasses, and a bottle of wine.</caption>
+      <caption>the dinner table with two plates and two glasses of wine</caption>
+    </captions>
+</image>

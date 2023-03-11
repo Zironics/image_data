@@ -1,0 +1,83 @@
+<image>
+  <image-id>2387238</image-id>
+  <coco-id>174079</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4562802</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4006455</subject>
+      <object>4006424</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4562813</relationship_id>
+      <predicate>supporting</predicate>
+      <subject>4006450</subject>
+      <object>4006451</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4562815</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>4006456</subject>
+      <object>4006455</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>porcelain</attribute>
+      </attributes>
+      <h>150</h>
+      <object_id>4006455</object_id>
+      <w>85</w>
+      <y>302</y>
+      <x>38</x>
+      <name>urinal</name>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>400</h>
+      <object_id>4006424</object_id>
+      <w>99</w>
+      <y>97</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>brick</name>
+      <h>81</h>
+      <object_id>4006450</object_id>
+      <w>42</w>
+      <y>413</y>
+      <x>159</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>whilte</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>437</h>
+      <object_id>4006451</object_id>
+      <w>84</w>
+      <y>62</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>pipe</name>
+      <h>19</h>
+      <object_id>4006456</object_id>
+      <w>23</w>
+      <y>432</y>
+      <x>57</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An open restroom door with a urinal on a wall.</caption>
+      <caption>A urinal stall stands with the door open.</caption>
+      <caption>A bathroom showing a stall in a door.</caption>
+      <caption>A urinal in a black and yellow bathroom</caption>
+      <caption>A door open to reveal a urinal and graffiti on the wall.</caption>
+    </captions>
+</image>

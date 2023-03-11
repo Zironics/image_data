@@ -1,0 +1,174 @@
+<image>
+  <image-id>2360086</image-id>
+  <coco-id>569530</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2196112</relationship_id>
+      <predicate>OF</predicate>
+      <subject>789750</subject>
+      <object>789748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196113</relationship_id>
+      <predicate>has a</predicate>
+      <subject>789749</subject>
+      <object>789752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196114</relationship_id>
+      <predicate>behind</predicate>
+      <subject>789751</subject>
+      <object>789749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196115</relationship_id>
+      <predicate>underneath</predicate>
+      <subject>789753</subject>
+      <object>789749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196116</relationship_id>
+      <predicate>behind</predicate>
+      <subject>789754</subject>
+      <object>789748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196117</relationship_id>
+      <predicate>reflecting off</predicate>
+      <subject>789755</subject>
+      <object>789749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196118</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>789744</subject>
+      <object>789748</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196119</relationship_id>
+      <predicate>inside a</predicate>
+      <subject>789748</subject>
+      <object>789749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196120</relationship_id>
+      <predicate>inside a</predicate>
+      <subject>789748</subject>
+      <object>789749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196121</relationship_id>
+      <predicate>on top of a</predicate>
+      <subject>789749</subject>
+      <object>789751</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2196122</relationship_id>
+      <predicate>inside a</predicate>
+      <subject>789748</subject>
+      <object>789749</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>center</name>
+      <h>70</h>
+      <object_id>789750</object_id>
+      <w>65</w>
+      <y>100</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>gone to seed</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>223</h>
+      <object_id>789748</object_id>
+      <w>227</w>
+      <y>23</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+        <attribute>reflective</attribute>
+        <attribute>shiny</attribute>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>130</h>
+      <object_id>789749</object_id>
+      <w>171</w>
+      <y>202</y>
+      <x>58</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>72</h>
+      <object_id>789752</object_id>
+      <w>14</w>
+      <y>238</y>
+      <x>182</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>blurry</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>266</h>
+      <object_id>789751</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>109</h>
+      <object_id>789753</object_id>
+      <w>497</w>
+      <y>225</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>267</h>
+      <object_id>789754</object_id>
+      <w>277</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>81</h>
+      <object_id>789755</object_id>
+      <w>110</w>
+      <y>223</y>
+      <x>89</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>seedling</name>
+      <h>12</h>
+      <object_id>789744</object_id>
+      <w>8</w>
+      <y>101</y>
+      <x>128</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dead dandelion sits in a shiny vase.  </caption>
+      <caption>A flower that is up close and red.</caption>
+      <caption>A dandelion sitting on top of a red flower pot.</caption>
+      <caption>The dandelion flower has gone to seed and is now a fragile ball of fluff.</caption>
+      <caption>A milk thistle plant is in a pink vase.</caption>
+    </captions>
+</image>

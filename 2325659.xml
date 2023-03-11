@@ -1,0 +1,68 @@
+<image>
+  <image-id>2325659</image-id>
+  <coco-id>410758</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483080</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3035331</subject>
+      <object>3042828</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483081</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3035331</subject>
+      <object>3049510</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3934208</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3035331</subject>
+      <object>3314589</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <h>343</h>
+      <object_id>3035331</object_id>
+      <w>261</w>
+      <y>2</y>
+      <x>1</x>
+      <name>train</name>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>224</h>
+      <object_id>3042828</object_id>
+      <w>178</w>
+      <y>125</y>
+      <x>195</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>180</h>
+      <object_id>3049510</object_id>
+      <w>149</w>
+      <y>169</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>train tracks</name>
+      <h>335</h>
+      <object_id>3314589</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train moving at high speed passes by.</caption>
+      <caption>A red train moving under a series of blue arches.</caption>
+      <caption>A red train is traveling under a blue overpass.</caption>
+      <caption>a red train that is on a train track</caption>
+      <caption>A passenger train that is passing under some blue bars.</caption>
+    </captions>
+</image>

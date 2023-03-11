@@ -1,0 +1,71 @@
+<image>
+  <image-id>2332353</image-id>
+  <coco-id>274570</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4577816</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4042603</subject>
+      <object>4325717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691834</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>4325717</subject>
+      <object>4325718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691835</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>4325717</subject>
+      <object>4325719</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>hind</attribute>
+      </attributes>
+      <name>legs</name>
+      <h>77</h>
+      <object_id>4042603</object_id>
+      <w>64</w>
+      <y>210</y>
+      <x>327</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baby</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>175</h>
+      <object_id>4325717</object_id>
+      <w>241</w>
+      <y>115</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>parent</name>
+      <h>283</h>
+      <object_id>4325718</object_id>
+      <w>121</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>parent</name>
+      <h>243</h>
+      <object_id>4325719</object_id>
+      <w>298</w>
+      <y>16</y>
+      <x>41</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of elephants walking across a dry grass field.</caption>
+      <caption>three elephants walking on the grass in the wilderness</caption>
+      <caption>A cute baby elephant follows behind two other elephants.</caption>
+      <caption>Two adult elephants being followed by a baby elephant.</caption>
+      <caption>A group of elephants in grassy area next to trees.</caption>
+    </captions>
+</image>

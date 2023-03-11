@@ -1,0 +1,88 @@
+<image>
+  <image-id>2338954</image-id>
+  <coco-id>222172</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4055156</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2539657</subject>
+      <object>2281204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055157</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2187847</subject>
+      <object>2187848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055158</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2580490</subject>
+      <object>2580491</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>letter</name>
+      <h>57</h>
+      <object_id>2539657</object_id>
+      <w>90</w>
+      <y>99</y>
+      <x>329</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>train</name>
+      <h>137</h>
+      <object_id>2281204</object_id>
+      <w>224</w>
+      <y>41</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>patch</name>
+      <h>98</h>
+      <object_id>2187847</object_id>
+      <w>115</w>
+      <y>225</y>
+      <x>382</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>72</h>
+      <object_id>2187848</object_id>
+      <w>115</w>
+      <y>232</y>
+      <x>382</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>145</h>
+      <object_id>2580490</object_id>
+      <w>219</w>
+      <y>47</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>track</name>
+      <h>216</h>
+      <object_id>2580491</object_id>
+      <w>347</w>
+      <y>0</y>
+      <x>150</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A note explaining the model train specifics sits beside amodel train.</caption>
+      <caption>A small model train traveling around a small track.</caption>
+      <caption>A small toy model train on a track.</caption>
+      <caption>A toy electric train on a track near a sign.</caption>
+      <caption>A train near trees, grass and dirt. </caption>
+    </captions>
+</image>

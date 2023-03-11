@@ -1,0 +1,104 @@
+<image>
+  <image-id>2401014</image-id>
+  <coco-id>405691</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3299049</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1152548</subject>
+      <object>1152549</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3299050</relationship_id>
+      <predicate>has</predicate>
+      <subject>1152550</subject>
+      <object>1152554</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3299051</relationship_id>
+      <predicate>has</predicate>
+      <subject>1152551</subject>
+      <object>1152555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3299052</relationship_id>
+      <predicate>inside</predicate>
+      <subject>1152555</subject>
+      <object>1152551</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>on top of table</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>48</h>
+      <object_id>1152548</object_id>
+      <w>53</w>
+      <y>3</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>pot</name>
+      <h>84</h>
+      <object_id>1152549</object_id>
+      <w>105</w>
+      <y>64</y>
+      <x>263</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>on table</attribute>
+        <attribute>open</attribute>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>242</h>
+      <object_id>1152550</object_id>
+      <w>58</w>
+      <y>7</y>
+      <x>284</x>
+    </object>
+    <object>
+      <name>label</name>
+      <h>73</h>
+      <object_id>1152554</object_id>
+      <w>65</w>
+      <y>155</y>
+      <x>280</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on top of table</attribute>
+        <attribute>half full</attribute>
+      </attributes>
+      <name>glass</name>
+      <h>160</h>
+      <object_id>1152551</object_id>
+      <w>73</w>
+      <y>44</y>
+      <x>87</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>inside glass</attribute>
+      </attributes>
+      <name>wine</name>
+      <h>33</h>
+      <object_id>1152555</object_id>
+      <w>63</w>
+      <y>86</y>
+      <x>90</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Glasses of wine, salad and french bread on a wooden table. </caption>
+      <caption>A table with dishes, wine glasses, and a wine bottle.</caption>
+      <caption>there is whine and bread on this table</caption>
+      <caption>A photo of a table at a nice restaurant with glasses of wine.</caption>
+      <caption>A table with breadsticks and three parcially filled glasses of wine and a wine bottle.</caption>
+    </captions>
+</image>

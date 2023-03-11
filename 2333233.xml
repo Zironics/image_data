@@ -1,0 +1,65 @@
+<image>
+  <image-id>2333233</image-id>
+  <coco-id>337342</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260457</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3273735</subject>
+      <object>3795349</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260458</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3273735</subject>
+      <object>3415539</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260459</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3273735</subject>
+      <object>3795350</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>45</h>
+      <object_id>3273735</object_id>
+      <w>157</w>
+      <y>135</y>
+      <x>160</x>
+      <name>vehicle</name>
+    </object>
+    <object>
+      <name>tarmac</name>
+      <h>122</h>
+      <object_id>3795349</object_id>
+      <w>480</w>
+      <y>210</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>tarmac</name>
+      <h>70</h>
+      <object_id>3415539</object_id>
+      <w>482</w>
+      <y>211</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>tarmac</name>
+      <h>61</h>
+      <object_id>3795350</object_id>
+      <w>499</w>
+      <y>220</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large jet sitting on top of an airport runway.</caption>
+      <caption>A white and red plane on runway with hazy sky in the background.</caption>
+      <caption>An airplane at an airport with a sky and runway.</caption>
+      <caption>An airplane about to take off on the runway</caption>
+      <caption>A large passenger jet on the runway of an airport.</caption>
+    </captions>
+</image>

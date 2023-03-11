@@ -1,0 +1,116 @@
+<image>
+  <image-id>2328361</image-id>
+  <coco-id>335644</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2921605</relationship_id>
+      <predicate>holding</predicate>
+      <subject>977921</subject>
+      <object>977922</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2921606</relationship_id>
+      <predicate>IN</predicate>
+      <subject>977926</subject>
+      <object>977927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2921607</relationship_id>
+      <predicate>ON</predicate>
+      <subject>977921</subject>
+      <object>977927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2921627</relationship_id>
+      <predicate>for</predicate>
+      <subject>977922</subject>
+      <object>977929</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2921629</relationship_id>
+      <predicate>growing under</predicate>
+      <subject>977926</subject>
+      <object>977930</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2921630</relationship_id>
+      <predicate>ON</predicate>
+      <subject>977921</subject>
+      <object>977927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2921631</relationship_id>
+      <predicate>holding</predicate>
+      <subject>977921</subject>
+      <object>977922</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>bending</attribute>
+        <attribute>playing tennis</attribute>
+        <attribute>crouched</attribute>
+      </attributes>
+      <name>man</name>
+      <h>295</h>
+      <object_id>977921</object_id>
+      <w>203</w>
+      <y>49</y>
+      <x>231</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>racket</name>
+      <h>56</h>
+      <object_id>977922</object_id>
+      <w>104</w>
+      <y>171</y>
+      <x>226</x>
+    </object>
+    <object>
+      <name>weeds</name>
+      <h>11</h>
+      <object_id>977926</object_id>
+      <w>67</w>
+      <y>185</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for tennis</attribute>
+      </attributes>
+      <name>court</name>
+      <h>154</h>
+      <object_id>977927</object_id>
+      <w>271</w>
+      <y>202</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>tennis</name>
+      <h>65</h>
+      <object_id>977929</object_id>
+      <w>160</w>
+      <y>164</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>49</h>
+      <object_id>977930</object_id>
+      <w>183</w>
+      <y>109</y>
+      <x>25</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a man kneeling down a tennis court holding a racquet.</caption>
+      <caption>A person with a tennis racket on a court.</caption>
+      <caption>Guy bends forward as he waits for the tennis serve from the his opponent </caption>
+      <caption>A man with a racket crouches on a court.</caption>
+      <caption>A man bent over on a tennis court waiting for the ball.</caption>
+    </captions>
+</image>

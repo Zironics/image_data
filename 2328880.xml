@@ -1,0 +1,99 @@
+<image>
+  <image-id>2328880</image-id>
+  <coco-id>151347</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2913997</relationship_id>
+      <predicate>OF</predicate>
+      <subject>975772</subject>
+      <object>975771</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2913998</relationship_id>
+      <predicate>of a</predicate>
+      <subject>975774</subject>
+      <object>975771</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4469916</relationship_id>
+      <predicate>under</predicate>
+      <subject>3935782</subject>
+      <object>975775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2913999</relationship_id>
+      <predicate>flying through</predicate>
+      <subject>975771</subject>
+      <object>975770</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wheels</name>
+      <h>10</h>
+      <object_id>975772</object_id>
+      <w>11</w>
+      <y>78</y>
+      <x>256</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in air</attribute>
+        <attribute>in mid air</attribute>
+        <attribute>in mid flight</attribute>
+        <attribute>flying</attribute>
+        <attribute>white</attribute>
+        <attribute>flying in air</attribute>
+        <attribute>up in air</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>34</h>
+      <object_id>975771</object_id>
+      <w>73</w>
+      <y>55</y>
+      <x>228</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>3</h>
+      <object_id>975774</object_id>
+      <w>5</w>
+      <y>74</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>13</h>
+      <object_id>3935782</object_id>
+      <w>20</w>
+      <y>71</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>9</h>
+      <object_id>975775</object_id>
+      <w>18</w>
+      <y>72</y>
+      <x>260</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>section</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>244</h>
+      <object_id>975770</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large passenger jet flying over a mountain.</caption>
+      <caption>Yellow, white and blue airplane flying over a mountain.</caption>
+      <caption>An airplane is flying over a huge mountain covered with snow.</caption>
+      <caption>A plane is flying over a snowy mountain.</caption>
+      <caption>An airplane flying in the sky over a snowy mountain.</caption>
+    </captions>
+</image>

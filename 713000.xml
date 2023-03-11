@@ -1,0 +1,46 @@
+<image>
+  <image-id>713000</image-id>
+  <coco-id>365738</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3805649</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1577485</subject>
+      <object>1577485</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3805650</relationship_id>
+      <predicate>above</predicate>
+      <subject>1577485</subject>
+      <object>1577486</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clouds</name>
+      <h>194</h>
+      <object_id>1577485</object_id>
+      <w>999</w>
+      <y>3</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>water</name>
+      <h>267</h>
+      <object_id>1577486</object_id>
+      <w>1019</w>
+      <y>194</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing on top of a sandy beach.</caption>
+      <caption>Several people are on a beach holding surfboards while others are still in the ocean.  </caption>
+      <caption>Several people in their wet suits on the beach with surfboards. </caption>
+      <caption>The surfers are bringing their boards to the water. </caption>
+      <caption>People with surfboards on the shore as the tide comes in.</caption>
+    </captions>
+</image>

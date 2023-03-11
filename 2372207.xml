@@ -1,0 +1,85 @@
+<image>
+  <image-id>2372207</image-id>
+  <coco-id>50230</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4154379</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>3735526</subject>
+      <object>3735527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154380</relationship_id>
+      <predicate>with</predicate>
+      <subject>3735526</subject>
+      <object>3735528</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154388</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1835161</subject>
+      <object>3735527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154390</relationship_id>
+      <predicate>with</predicate>
+      <subject>3735526</subject>
+      <object>1882065</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>chilli pepper</name>
+      <h>58</h>
+      <object_id>3735526</object_id>
+      <w>90</w>
+      <y>55</y>
+      <x>319</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>276</h>
+      <object_id>3735527</object_id>
+      <w>440</w>
+      <y>26</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>stem</name>
+      <h>18</h>
+      <object_id>3735528</object_id>
+      <w>20</w>
+      <y>59</y>
+      <x>324</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>91</h>
+      <object_id>1835161</object_id>
+      <w>231</w>
+      <y>52</y>
+      <x>118</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <name>stem</name>
+      <h>17</h>
+      <object_id>1882065</object_id>
+      <w>20</w>
+      <y>60</y>
+      <x>327</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a cutting knife and cut up foods on the cutting board</caption>
+      <caption>A wooden butcher block features sculptures of vegetables and a knife.</caption>
+      <caption>an assortment of vegetables displayed with a knife on a cutting board  </caption>
+      <caption>a cake made to look like a cutting board covered with veggies and a knife </caption>
+      <caption>Cut vegetables and a knife resting on a cutting board.</caption>
+    </captions>
+</image>

@@ -1,0 +1,43 @@
+<image>
+  <image-id>2327329</image-id>
+  <coco-id>498645</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4030035</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3688388</subject>
+      <object>3688389</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>belt</name>
+      <h>6</h>
+      <object_id>3688388</object_id>
+      <w>54</w>
+      <y>253</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baseball</attribute>
+      </attributes>
+      <name>uniform</name>
+      <h>287</h>
+      <object_id>3688389</object_id>
+      <w>181</w>
+      <y>138</y>
+      <x>94</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player holding a baseball bat in a baseball field.</caption>
+      <caption>A batter winds up his swing to ready for the hit.</caption>
+      <caption>A baseball player is ready to hit a pitch.</caption>
+      <caption>A baseball player in a white and red uniform stands holding a bat.</caption>
+      <caption>A batter prepares to swing at a pitched ball.</caption>
+    </captions>
+</image>

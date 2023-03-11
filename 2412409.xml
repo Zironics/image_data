@@ -1,0 +1,89 @@
+<image>
+  <image-id>2412409</image-id>
+  <coco-id>315037</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>188265</relationship_id>
+      <predicate>ON</predicate>
+      <subject>194926</subject>
+      <object>194923</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272877</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>194912</subject>
+      <object>3804680</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4272878</relationship_id>
+      <predicate>has</predicate>
+      <subject>194912</subject>
+      <object>3804681</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crack</name>
+      <h>65</h>
+      <object_id>194926</object_id>
+      <w>17</w>
+      <y>320</y>
+      <x>465</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+      </attributes>
+      <h>67</h>
+      <object_id>194923</object_id>
+      <w>500</w>
+      <y>320</y>
+      <x>0</x>
+      <name>floor</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in black</attribute>
+        <attribute>wearing sunglasses</attribute>
+        <attribute>laced up</attribute>
+        <attribute>sitting</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>man</name>
+      <h>205</h>
+      <object_id>194912</object_id>
+      <w>169</w>
+      <y>81</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>boots</name>
+      <h>37</h>
+      <object_id>3804680</object_id>
+      <w>50</w>
+      <y>220</y>
+      <x>155</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>sunglasses</name>
+      <h>38</h>
+      <object_id>3804681</object_id>
+      <w>60</w>
+      <y>116</y>
+      <x>184</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man on a bench working on a laptop.</caption>
+      <caption>A man in black clothes and a plaid cap sits on a bench and types on a laptop.</caption>
+      <caption>A man sitting on a wooden bench with his laptop.</caption>
+      <caption>The man is sitting on the bench typing on his laptop</caption>
+      <caption>a man that is sitting on a park bench</caption>
+    </captions>
+</image>

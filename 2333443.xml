@@ -1,0 +1,123 @@
+<image>
+  <image-id>2333443</image-id>
+  <coco-id>210144</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4033524</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3927654</subject>
+      <object>3170570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4033526</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3927654</subject>
+      <object>3297223</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021061</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3927654</subject>
+      <object>3271963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021062</relationship_id>
+      <predicate>sticking out</predicate>
+      <subject>3927654</subject>
+      <object>3271964</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4455360</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3421506</subject>
+      <object>3927653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4455361</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3927654</subject>
+      <object>3927653</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4018691</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3927654</subject>
+      <object>3170570</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+        <attribute>small</attribute>
+        <attribute>black and brown</attribute>
+        <attribute>soaked </attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>252</h>
+      <object_id>3927654</object_id>
+      <w>390</w>
+      <y>41</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>148</h>
+      <object_id>3170570</object_id>
+      <w>490</w>
+      <y>223</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>87</h>
+      <object_id>3297223</object_id>
+      <w>261</w>
+      <y>271</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>106</h>
+      <object_id>3271963</object_id>
+      <w>347</w>
+      <y>264</y>
+      <x>97</x>
+    </object>
+    <object>
+      <name>tongue</name>
+      <h>25</h>
+      <object_id>3271964</object_id>
+      <w>32</w>
+      <y>199</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clouded</attribute>
+      </attributes>
+      <name>water</name>
+      <h>112</h>
+      <object_id>3421506</object_id>
+      <w>227</w>
+      <y>251</y>
+      <x>168</x>
+    </object>
+    <object>
+      <name>tub</name>
+      <h>356</h>
+      <object_id>3927653</object_id>
+      <w>474</w>
+      <y>6</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A wet dog with very short legs licks his tongue out as the picture is taken.</caption>
+      <caption>A wet dog in the tub getting  a bath</caption>
+      <caption>A wet brown dog in a bath tub.</caption>
+      <caption>Medium size black dog with floppy ears in picture alone.</caption>
+      <caption>A dog standing in a tub of water is sticking his tongue out.</caption>
+    </captions>
+</image>

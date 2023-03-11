@@ -1,0 +1,101 @@
+<image>
+  <image-id>2409272</image-id>
+  <coco-id>236593</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4276587</relationship_id>
+      <predicate>ON</predicate>
+      <subject>363589</subject>
+      <object>3808040</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4276588</relationship_id>
+      <predicate>ON</predicate>
+      <subject>363589</subject>
+      <object>363571</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4276589</relationship_id>
+      <predicate>ON</predicate>
+      <subject>363574</subject>
+      <object>3808043</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4276590</relationship_id>
+      <predicate>ON</predicate>
+      <subject>363583</subject>
+      <object>3808044</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>208</h>
+      <object_id>363589</object_id>
+      <w>301</w>
+      <y>63</y>
+      <x>99</x>
+      <name>bicycle in a rack</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>rack</name>
+      <h>210</h>
+      <object_id>3808040</object_id>
+      <w>205</w>
+      <y>114</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>214</h>
+      <object_id>363571</object_id>
+      <w>500</w>
+      <y>161</y>
+      <x>0</x>
+      <name>gray sidewalk</name>
+    </object>
+    <object>
+      <name>silver car</name>
+      <h>70</h>
+      <object_id>363574</object_id>
+      <w>91</w>
+      <y>100</y>
+      <x>406</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>60</h>
+      <object_id>3808043</object_id>
+      <w>156</w>
+      <y>134</y>
+      <x>342</x>
+    </object>
+    <object>
+      <h>31</h>
+      <object_id>363583</object_id>
+      <w>85</w>
+      <y>62</y>
+      <x>204</x>
+      <name>business sign</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>143</h>
+      <object_id>3808044</object_id>
+      <w>138</w>
+      <y>4</y>
+      <x>182</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bicycle locked to a rack on the sidewalk</caption>
+      <caption>A bicycle is chained to a red bike rack. </caption>
+      <caption>A bike parked on the side of the street.</caption>
+      <caption>A bicycle parked in red bicycle rack on sidewalk.</caption>
+      <caption>There is a bike in a red bike rack on a sidewalk.</caption>
+    </captions>
+</image>

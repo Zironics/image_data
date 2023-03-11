@@ -1,0 +1,62 @@
+<image>
+  <image-id>2323830</image-id>
+  <coco-id>50134</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4101234</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2942479</subject>
+      <object>2942480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4051268</relationship_id>
+      <predicate>in corner of</predicate>
+      <subject>3325456</subject>
+      <object>3325457</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>beige</attribute>
+      </attributes>
+      <name>carpet</name>
+      <h>47</h>
+      <object_id>2942479</object_id>
+      <w>160</w>
+      <y>271</y>
+      <x>234</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>118</h>
+      <object_id>2942480</object_id>
+      <w>325</w>
+      <y>253</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>television</name>
+      <h>105</h>
+      <object_id>3325456</object_id>
+      <w>50</w>
+      <y>130</y>
+      <x>449</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>372</h>
+      <object_id>3325457</object_id>
+      <w>488</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A living room filled with furniture and a sliding glass door.</caption>
+      <caption>a room that has a couch and a lamp in it</caption>
+      <caption>The view of some one's living room in their home.</caption>
+      <caption>A room with window blinds and a television on</caption>
+      <caption>A large window covered with louver shades in a living room with chairs, television and a coffee table.</caption>
+    </captions>
+</image>

@@ -1,0 +1,67 @@
+<image>
+  <image-id>2353110</image-id>
+  <coco-id>267578</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4234891</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2083448</subject>
+      <object>2083449</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4401592</relationship_id>
+      <predicate>between</predicate>
+      <subject>3895569</subject>
+      <object>2127843</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>mossy</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>181</h>
+      <object_id>2083448</object_id>
+      <w>206</w>
+      <y>131</y>
+      <x>293</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>166</h>
+      <object_id>2083449</object_id>
+      <w>202</w>
+      <y>133</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>gravel</name>
+      <h>73</h>
+      <object_id>3895569</object_id>
+      <w>36</w>
+      <y>297</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>train</attribute>
+        <attribute>four sets</attribute>
+      </attributes>
+      <name>tracks</name>
+      <h>248</h>
+      <object_id>2127843</object_id>
+      <w>497</w>
+      <y>124</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>  a train going down the track all by itself </caption>
+      <caption>A yellow train on the train tracks near a wooded area.</caption>
+      <caption>The train passes some trees as it departs the city.  </caption>
+      <caption>A train on a railroad track and several other train tracks on the side.</caption>
+      <caption>A large long train on a steel track.</caption>
+    </captions>
+</image>

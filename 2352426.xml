@@ -1,0 +1,45 @@
+<image>
+  <image-id>2352426</image-id>
+  <coco-id>16931</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2433426</relationship_id>
+      <predicate>ON</predicate>
+      <subject>854157</subject>
+      <object>854159</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>stop</attribute>
+        <attribute>striped</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>111</h>
+      <object_id>854157</object_id>
+      <w>187</w>
+      <y>23</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>189</h>
+      <object_id>854159</object_id>
+      <w>34</w>
+      <y>143</y>
+      <x>80</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A snowy city street with a french stop sign.</caption>
+      <caption>A warning sign is displayed in a residential area.</caption>
+      <caption>There is a snow covered street that is crowded with cars.</caption>
+      <caption>There are cars parked along the side of the snowy street.</caption>
+      <caption>Cars are lined on the side of the street under snow.</caption>
+    </captions>
+</image>

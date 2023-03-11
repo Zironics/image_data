@@ -1,0 +1,65 @@
+<image>
+  <image-id>2385980</image-id>
+  <coco-id>459248</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4633320</relationship_id>
+      <predicate>bringing</predicate>
+      <subject>4177918</subject>
+      <object>4177919</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4633323</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4177938</subject>
+      <object>4177939</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>train</name>
+      <h>120</h>
+      <object_id>4177918</object_id>
+      <w>315</w>
+      <y>145</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>passengers</name>
+      <h>25</h>
+      <object_id>4177919</object_id>
+      <w>40</w>
+      <y>185</y>
+      <x>285</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>double</attribute>
+      </attributes>
+      <name>doors</name>
+      <h>67</h>
+      <object_id>4177938</object_id>
+      <w>25</w>
+      <y>180</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>side</attribute>
+      </attributes>
+      <name>train</name>
+      <h>111</h>
+      <object_id>4177939</object_id>
+      <w>339</w>
+      <y>152</y>
+      <x>32</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue and white train next to a train station.</caption>
+      <caption>A blue train stopped at a loading station.</caption>
+      <caption>The two car train is painted white, blue and yellow.</caption>
+      <caption>A large long train on a steel track.</caption>
+      <caption>A train engine pulling carts into a station that's secluded.</caption>
+    </captions>
+</image>

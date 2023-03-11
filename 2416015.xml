@@ -1,0 +1,106 @@
+<image>
+  <image-id>2416015</image-id>
+  <coco-id>131961</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3878080</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2767577</subject>
+      <object>3628181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3810493</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3079797</subject>
+      <object>3079798</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3878082</relationship_id>
+      <predicate>hanging on</predicate>
+      <subject>2780131</subject>
+      <object>2780132</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3834978</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2774807</subject>
+      <object>3609369</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>clock</name>
+      <h>75</h>
+      <object_id>2767577</object_id>
+      <w>49</w>
+      <y>47</y>
+      <x>328</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>159</h>
+      <object_id>3628181</object_id>
+      <w>151</w>
+      <y>10</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>100</h>
+      <object_id>3079797</object_id>
+      <w>35</w>
+      <y>81</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>bench</name>
+      <h>67</h>
+      <object_id>3079798</object_id>
+      <w>201</w>
+      <y>105</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>12</h>
+      <object_id>2780131</object_id>
+      <w>113</w>
+      <y>27</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>bannister</name>
+      <h>17</h>
+      <object_id>2780132</object_id>
+      <w>235</w>
+      <y>25</y>
+      <x>43</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>tile</name>
+      <h>60</h>
+      <object_id>2774807</object_id>
+      <w>231</w>
+      <y>176</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>58</h>
+      <object_id>3609369</object_id>
+      <w>492</w>
+      <y>175</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people sitting on a bench outside of a building.</caption>
+      <caption>Two people sitting on a bench waiting at an airport.</caption>
+      <caption>Two women sitting on a bench surrounded by a stone building.</caption>
+      <caption>People are sitting on a bench in a large darkened room.</caption>
+      <caption>A man and a woman sitting on opposite ends of a bench.</caption>
+    </captions>
+</image>

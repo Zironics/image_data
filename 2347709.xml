@@ -1,0 +1,209 @@
+<image>
+  <image-id>2347709</image-id>
+  <coco-id>133137</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2585205</relationship_id>
+      <predicate>at side of</predicate>
+      <subject>888318</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585206</relationship_id>
+      <predicate>at side of</predicate>
+      <subject>888320</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585210</relationship_id>
+      <predicate>walking down</predicate>
+      <subject>888321</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585211</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>888321</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585212</relationship_id>
+      <predicate>on left side of</predicate>
+      <subject>888314</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585213</relationship_id>
+      <predicate>on left side of</predicate>
+      <subject>888315</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585214</relationship_id>
+      <predicate>on left side of</predicate>
+      <subject>888316</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585215</relationship_id>
+      <predicate>on left side of</predicate>
+      <subject>888316</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585216</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>888321</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585217</relationship_id>
+      <predicate>beside</predicate>
+      <subject>888325</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585218</relationship_id>
+      <predicate>beside</predicate>
+      <subject>888327</subject>
+      <object>888319</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585219</relationship_id>
+      <predicate>set up on</predicate>
+      <subject>888328</subject>
+      <object>888329</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2585220</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>888321</subject>
+      <object>888319</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>growing</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>172</h>
+      <object_id>888318</object_id>
+      <w>260</w>
+      <y>201</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirt</attribute>
+        <attribute>unpaved</attribute>
+      </attributes>
+      <name>road</name>
+      <h>167</h>
+      <object_id>888319</object_id>
+      <w>392</w>
+      <y>206</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>82</h>
+      <object_id>888320</object_id>
+      <w>345</w>
+      <y>199</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+        <attribute>large</attribute>
+        <attribute>light brown</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>78</h>
+      <object_id>888321</object_id>
+      <w>43</w>
+      <y>172</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>126</h>
+      <object_id>888314</object_id>
+      <w>8</w>
+      <y>53</y>
+      <x>243</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>51</h>
+      <object_id>888315</object_id>
+      <w>5</w>
+      <y>129</y>
+      <x>332</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>49</h>
+      <object_id>888316</object_id>
+      <w>6</w>
+      <y>162</y>
+      <x>372</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>house</name>
+      <h>127</h>
+      <object_id>888325</object_id>
+      <w>58</w>
+      <y>116</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>98</h>
+      <object_id>888327</object_id>
+      <w>154</w>
+      <y>137</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>134</h>
+      <object_id>888328</object_id>
+      <w>39</w>
+      <y>64</y>
+      <x>460</x>
+    </object>
+    <object>
+      <name>concrete</name>
+      <h>46</h>
+      <object_id>888329</object_id>
+      <w>31</w>
+      <y>193</y>
+      <x>469</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown and white cow on a dirt road near some houses. </caption>
+      <caption>A cow standing in a lane in a village.</caption>
+      <caption>a cow walking on a road near houses</caption>
+      <caption>A single cow that is walking down a dirt road.</caption>
+      <caption>A lone cow is seen walking down a path.</caption>
+    </captions>
+</image>

@@ -1,0 +1,110 @@
+<image>
+  <image-id>2325970</image-id>
+  <coco-id>133308</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4481781</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3495181</subject>
+      <object>3256053</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481782</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3495181</subject>
+      <object>3940478</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481783</relationship_id>
+      <predicate>with</predicate>
+      <subject>3495181</subject>
+      <object>3087517</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481784</relationship_id>
+      <predicate>with</predicate>
+      <subject>3495181</subject>
+      <object>2777800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3670039</relationship_id>
+      <predicate>with</predicate>
+      <subject>3483958</subject>
+      <object>3495181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4481785</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3495181</subject>
+      <object>3028766</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>282</h>
+      <object_id>3495181</object_id>
+      <w>200</w>
+      <y>17</y>
+      <x>0</x>
+      <name>dog</name>
+    </object>
+    <object>
+      <name>collar</name>
+      <h>102</h>
+      <object_id>3256053</object_id>
+      <w>96</w>
+      <y>180</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>tags</name>
+      <h>52</h>
+      <object_id>3940478</object_id>
+      <w>26</w>
+      <y>230</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>floppy ears</name>
+      <h>79</h>
+      <object_id>3087517</object_id>
+      <w>79</w>
+      <y>18</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>out</attribute>
+      </attributes>
+      <name>tongue</name>
+      <h>48</h>
+      <object_id>2777800</object_id>
+      <w>62</w>
+      <y>126</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>297</h>
+      <object_id>3483958</object_id>
+      <w>199</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>198</h>
+      <object_id>3028766</object_id>
+      <w>199</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A happy yellow lab looks out of the car</caption>
+      <caption>a blond dog with it's tongue hanging out</caption>
+      <caption>The beige dog has a blue blue collar.</caption>
+      <caption>A dog sitting down inside of a vehicle.</caption>
+      <caption>A dog happily looking onward in the back seat of a car.</caption>
+    </captions>
+</image>

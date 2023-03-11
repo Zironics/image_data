@@ -1,0 +1,99 @@
+<image>
+  <image-id>2373017</image-id>
+  <coco-id>504997</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1477774</relationship_id>
+      <predicate>has</predicate>
+      <subject>3851884</subject>
+      <object>589637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1477775</relationship_id>
+      <predicate>has</predicate>
+      <subject>3851884</subject>
+      <object>589637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4313208</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>589642</subject>
+      <object>3851884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4313209</relationship_id>
+      <predicate>IN</predicate>
+      <subject>589637</subject>
+      <object>3851884</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4313210</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3851884</subject>
+      <object>589636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1477776</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>589645</subject>
+      <object>589642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>clean</attribute>
+      </attributes>
+      <name>toilet</name>
+      <h>338</h>
+      <object_id>3851884</object_id>
+      <w>152</w>
+      <y>111</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>hole</name>
+      <h>50</h>
+      <object_id>589637</object_id>
+      <w>47</w>
+      <y>208</y>
+      <x>166</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>68</h>
+      <object_id>589642</object_id>
+      <w>295</w>
+      <y>3</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blackish</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>428</h>
+      <object_id>589636</object_id>
+      <w>371</w>
+      <y>64</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>tile</name>
+      <h>60</h>
+      <object_id>589645</object_id>
+      <w>154</w>
+      <y>6</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An oval shaped toilet on a black floor.</caption>
+      <caption>A white toilet in a public bathroom. </caption>
+      <caption>Elongated white porcelain toilet with clear water and silver pipe.</caption>
+      <caption>one single toilet in the middle of the floor</caption>
+      <caption>A urinal or toilet seat in a bathroom.</caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>2415825</image-id>
+  <coco-id>137806</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3681747</relationship_id>
+      <predicate>against</predicate>
+      <subject>3401364</subject>
+      <object>3401363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544359</relationship_id>
+      <predicate>lining</predicate>
+      <subject>2889456</subject>
+      <object>3963874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3681749</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3155145</subject>
+      <object>3543217</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dead</attribute>
+      </attributes>
+      <name>dead foliage</name>
+      <h>41</h>
+      <object_id>3401364</object_id>
+      <w>92</w>
+      <y>62</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>shed</name>
+      <h>70</h>
+      <object_id>3401363</object_id>
+      <w>158</w>
+      <y>30</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>97</h>
+      <object_id>2889456</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>property</name>
+      <h>289</h>
+      <object_id>3963874</object_id>
+      <w>495</w>
+      <y>84</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>cows</name>
+      <h>215</h>
+      <object_id>3155145</object_id>
+      <w>447</w>
+      <y>75</y>
+      <x>19</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+      </attributes>
+      <name>field</name>
+      <h>64</h>
+      <object_id>3543217</object_id>
+      <w>335</w>
+      <y>309</y>
+      <x>115</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three black cows standing on a green lawn.</caption>
+      <caption>Three black cows stand in a field near a shed.</caption>
+      <caption>Three black steers face the camera in their paddock.</caption>
+      <caption>Three black cows stand on grass near a white, little barn.</caption>
+      <caption>Three black cows standing next to each other on a field.</caption>
+    </captions>
+</image>

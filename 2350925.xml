@@ -1,0 +1,65 @@
+<image>
+  <image-id>2350925</image-id>
+  <coco-id>28006</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4407985</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>2205914</subject>
+      <object>2165277</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4407986</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2165278</subject>
+      <object>2165277</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3793613</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2205912</subject>
+      <object>2205914</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>245</h>
+      <object_id>2205914</object_id>
+      <w>371</w>
+      <y>253</y>
+      <x>0</x>
+      <name>blanket</name>
+    </object>
+    <object>
+      <name>cat</name>
+      <h>255</h>
+      <object_id>2165277</object_id>
+      <w>128</w>
+      <y>26</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>269</h>
+      <object_id>2165278</object_id>
+      <w>297</w>
+      <y>0</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>white patch</name>
+      <h>169</h>
+      <object_id>2205912</object_id>
+      <w>55</w>
+      <y>318</y>
+      <x>242</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat is standing on the bed blanket. </caption>
+      <caption>The cat is getting all wrapped up in the drapes.</caption>
+      <caption>Grey cat coming out from behind a window curtain. </caption>
+      <caption>a gray and white cat is standing on a couch</caption>
+      <caption>A cat stands on the back of a couch.</caption>
+    </captions>
+</image>

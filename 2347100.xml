@@ -1,0 +1,107 @@
+<image>
+  <image-id>2347100</image-id>
+  <coco-id>85160</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4424958</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2606640</subject>
+      <object>2285086</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424959</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1948843</subject>
+      <object>2053563</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424960</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2606640</subject>
+      <object>2606641</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4424961</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2072053</subject>
+      <object>2072052</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>talking</attribute>
+      </attributes>
+      <h>197</h>
+      <object_id>2606640</object_id>
+      <w>79</w>
+      <y>5</y>
+      <x>301</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <name>computers</name>
+      <h>167</h>
+      <object_id>2285086</object_id>
+      <w>142</w>
+      <y>106</y>
+      <x>84</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plugged in</attribute>
+      </attributes>
+      <name>cord</name>
+      <h>78</h>
+      <object_id>1948843</object_id>
+      <w>43</w>
+      <y>53</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> clean</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>140</h>
+      <object_id>2053563</object_id>
+      <w>119</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>telephone</name>
+      <h>144</h>
+      <object_id>2606641</object_id>
+      <w>142</w>
+      <y>21</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>screen</name>
+      <h>137</h>
+      <object_id>2072053</object_id>
+      <w>80</w>
+      <y>189</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>147</h>
+      <object_id>2072052</object_id>
+      <w>183</w>
+      <y>183</y>
+      <x>60</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A few people working on various computers in an office.</caption>
+      <caption>A man works on a laptop placed on a table in a busy office.</caption>
+      <caption>A man is working on a laptop computer at a desk.</caption>
+      <caption>A man in blue works on a laptop computer.</caption>
+      <caption>A man sitting in front of a laptop computer.</caption>
+    </captions>
+</image>

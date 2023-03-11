@@ -1,0 +1,40 @@
+<image>
+  <image-id>2417089</image-id>
+  <coco-id>82201</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255273</relationship_id>
+      <predicate>below</predicate>
+      <subject>3433552</subject>
+      <object>3433553</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>leafy</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>19</h>
+      <object_id>3433552</object_id>
+      <w>28</w>
+      <y>331</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>airliner</name>
+      <h>22</h>
+      <object_id>3433553</object_id>
+      <w>35</w>
+      <y>177</y>
+      <x>212</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A very large jetliner flying through a blue sky.</caption>
+      <caption>A passenger jet flies over houses on a coastline.</caption>
+      <caption>An airplane flies in the sky over a body of water.</caption>
+      <caption>A distant airplane flying high up in the sky.</caption>
+      <caption>An airplane flies low above buildings near the ocean on a clear blue sky.</caption>
+    </captions>
+</image>

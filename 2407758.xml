@@ -1,0 +1,80 @@
+<image>
+  <image-id>2407758</image-id>
+  <coco-id>545257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3225991</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1096056</subject>
+      <object>1096057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225992</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1096056</subject>
+      <object>1096057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225993</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1096056</subject>
+      <object>1096057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225997</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1096056</subject>
+      <object>1096057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>675373</relationship_id>
+      <predicate>ON</predicate>
+      <subject>366491</subject>
+      <object>366492</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>41</h>
+      <object_id>1096056</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>41</h>
+      <object_id>1096057</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>knitt</attribute>
+      </attributes>
+      <name>hat</name>
+      <h>23</h>
+      <object_id>366491</object_id>
+      <w>40</w>
+      <y>91</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>56</h>
+      <object_id>366492</object_id>
+      <w>43</w>
+      <y>89</y>
+      <x>137</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man that is sitting in front of a cart of fruits.</caption>
+      <caption>a man sits on a cart full of fruit </caption>
+      <caption>A street vendor sits behind his produce display.</caption>
+      <caption>a man is sitting in front of a bunch of fruit</caption>
+      <caption>A man selling fruits on a cart  the side of the road.</caption>
+    </captions>
+</image>

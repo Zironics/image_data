@@ -1,0 +1,37 @@
+<image>
+  <image-id>713049</image-id>
+  <coco-id>294783</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4578576</relationship_id>
+      <predicate>on a</predicate>
+      <subject>4044474</subject>
+      <object>4044475</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>book</name>
+      <h>37</h>
+      <object_id>4044474</object_id>
+      <w>14</w>
+      <y>461</y>
+      <x>921</x>
+    </object>
+    <object>
+      <name>book shelf</name>
+      <h>338</h>
+      <object_id>4044475</object_id>
+      <w>176</w>
+      <y>242</y>
+      <x>817</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A living room with a mat on a floor and a book shelf filled with books.</caption>
+      <caption>A room with pillows, sheets, bookshelves, and hanging lights.</caption>
+      <caption>Large open floor space with makeshift bed and shelving with books.</caption>
+      <caption>A bed set up on the wooden floor of a large wooden house</caption>
+      <caption>A large room with wooden floors and a bookshelf.</caption>
+    </captions>
+</image>

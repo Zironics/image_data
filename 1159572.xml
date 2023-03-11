@@ -1,0 +1,41 @@
+<image>
+  <image-id>1159572</image-id>
+  <coco-id>385805</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4069769</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1595255</subject>
+      <object>1595256</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>line</name>
+      <h>70</h>
+      <object_id>1595255</object_id>
+      <w>248</w>
+      <y>562</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>172</h>
+      <object_id>1595256</object_id>
+      <w>683</w>
+      <y>562</y>
+      <x>270</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Stop lights are shown on the edges of lanes.</caption>
+      <caption>A street with two traffic lights and fence next to trees.</caption>
+      <caption>A photo of traffic lights on a busy city street.
+</caption>
+      <caption>Some stoplights are next to a fenced median.</caption>
+      <caption>Red traffic lights sitting in the middle of a road.</caption>
+    </captions>
+</image>

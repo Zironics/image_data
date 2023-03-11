@@ -1,0 +1,115 @@
+<image>
+  <image-id>2369061</image-id>
+  <coco-id>38561</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4340585</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2143325</subject>
+      <object>2143326</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4340586</relationship_id>
+      <predicate>near</predicate>
+      <subject>2568156</subject>
+      <object>2568160</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4340587</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2553857</subject>
+      <object>2553859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4340588</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2688556</subject>
+      <object>2094726</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white clouds</name>
+      <h>40</h>
+      <object_id>2143325</object_id>
+      <w>376</w>
+      <y>189</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue sky</name>
+      <h>220</h>
+      <object_id>2143326</object_id>
+      <w>473</w>
+      <y>8</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>bush</name>
+      <h>80</h>
+      <object_id>2568156</object_id>
+      <w>65</w>
+      <y>215</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>241</h>
+      <object_id>2568160</object_id>
+      <w>205</w>
+      <y>44</y>
+      <x>157</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>small branch</name>
+      <h>39</h>
+      <object_id>2553857</object_id>
+      <w>51</w>
+      <y>266</y>
+      <x>312</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>29</h>
+      <object_id>2553859</object_id>
+      <w>345</w>
+      <y>285</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>rocks</name>
+      <h>20</h>
+      <object_id>2688556</object_id>
+      <w>50</w>
+      <y>248</y>
+      <x>344</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beige</attribute>
+      </attributes>
+      <h>94</h>
+      <object_id>2094726</object_id>
+      <w>494</w>
+      <y>227</y>
+      <x>4</x>
+      <name>dry ground</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tree sitting in the middle of a field.</caption>
+      <caption>A large tree next to other trees in a field.</caption>
+      <caption>Framed poster-photograph of a Bristlecone Pine with text</caption>
+      <caption>A tree in the desert among other trees.</caption>
+      <caption>A cluster of pine trees are in a barren area.</caption>
+    </captions>
+</image>

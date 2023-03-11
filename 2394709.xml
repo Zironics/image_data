@@ -1,0 +1,105 @@
+<image>
+  <image-id>2394709</image-id>
+  <coco-id>269327</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1034333</relationship_id>
+      <predicate>ON</predicate>
+      <subject>461743</subject>
+      <object>461742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1034334</relationship_id>
+      <predicate>IN</predicate>
+      <subject>461742</subject>
+      <object>461739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289343</relationship_id>
+      <predicate>ON</predicate>
+      <subject>461742</subject>
+      <object>3823763</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1034336</relationship_id>
+      <predicate>OF</predicate>
+      <subject>461744</subject>
+      <object>461739</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1034338</relationship_id>
+      <predicate>ON</predicate>
+      <subject>461739</subject>
+      <object>461742</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289344</relationship_id>
+      <predicate>ON</predicate>
+      <subject>461742</subject>
+      <object>3823763</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crosses</name>
+      <h>97</h>
+      <object_id>461743</object_id>
+      <w>73</w>
+      <y>121</y>
+      <x>392</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>of stethoscope</attribute>
+        <attribute>shaped</attribute>
+        <attribute>nurse</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>297</h>
+      <object_id>461742</object_id>
+      <w>459</w>
+      <y>121</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>folded</attribute>
+      </attributes>
+      <name>box</name>
+      <h>302</h>
+      <object_id>461739</object_id>
+      <w>457</w>
+      <y>23</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> circle</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>323</h>
+      <object_id>3823763</object_id>
+      <w>485</w>
+      <y>115</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>cap</name>
+      <h>107</h>
+      <object_id>461744</object_id>
+      <w>85</w>
+      <y>146</y>
+      <x>380</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A picture of a cake on a table.</caption>
+      <caption>A close-up of a cake designed to look like a nurses hat.</caption>
+      <caption>The cake looks like a nurses hat and has "Congratulations Danielle" written on it.</caption>
+      <caption>A cake is decorated like a nurses cap.</caption>
+      <caption>A cake in the shape of a nurse's hat written with the words "Congratulations Danielle"</caption>
+    </captions>
+</image>

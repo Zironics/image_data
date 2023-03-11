@@ -1,0 +1,87 @@
+<image>
+  <image-id>2329958</image-id>
+  <coco-id>393277</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4828780</relationship_id>
+      <predicate>in</predicate>
+      <subject>4669046</subject>
+      <object>4669047</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828781</relationship_id>
+      <predicate>on</predicate>
+      <subject>4669049</subject>
+      <object>4669050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828782</relationship_id>
+      <predicate>on</predicate>
+      <subject>4669051</subject>
+      <object>4669050</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4828783</relationship_id>
+      <predicate>in</predicate>
+      <subject>4669050</subject>
+      <object>4669048</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cloud</name>
+      <h>88</h>
+      <object_id>4669046</object_id>
+      <w>67</w>
+      <y>219</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>326</h>
+      <object_id>4669047</object_id>
+      <w>290</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>headlight</name>
+      <h>20</h>
+      <object_id>4669049</object_id>
+      <w>20</w>
+      <y>439</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>95</h>
+      <object_id>4669050</object_id>
+      <w>131</w>
+      <y>400</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>license plate</name>
+      <h>10</h>
+      <object_id>4669051</object_id>
+      <w>38</w>
+      <y>466</y>
+      <x>72</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>83</h>
+      <object_id>4669048</object_id>
+      <w>287</w>
+      <y>415</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clock statue surrounded by city traffic and streets.</caption>
+      <caption>A car on a street in front of a building.</caption>
+      <caption>A car parked by a large clock tower.</caption>
+      <caption>A clock tower in a European city looks down at the traffic below.</caption>
+      <caption>A tall building with a clock embedded at its top.</caption>
+    </captions>
+</image>

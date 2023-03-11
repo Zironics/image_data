@@ -1,0 +1,55 @@
+<image>
+  <image-id>2341174</image-id>
+  <coco-id>462298</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4094474</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3037743</subject>
+      <object>3191379</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094475</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3037743</subject>
+      <object>3037743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094476</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3037743</subject>
+      <object>3037743</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>142</h>
+      <object_id>3037743</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+      <name>cloud</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>119</h>
+      <object_id>3191379</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person jumping a hurdle with a horse.</caption>
+      <caption>A man urges a horse over a jump</caption>
+      <caption>A man is riding a horse that's jumping over a hurdle.</caption>
+      <caption>A man riding a horse while waving a sword.</caption>
+      <caption>A rider dressed as a Union Soldier jumping a horse.</caption>
+    </captions>
+</image>

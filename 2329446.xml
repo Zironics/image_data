@@ -1,0 +1,77 @@
+<image>
+  <image-id>2329446</image-id>
+  <coco-id>520337</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4830937</relationship_id>
+      <predicate>on</predicate>
+      <subject>4674295</subject>
+      <object>4674298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4830938</relationship_id>
+      <predicate>on</predicate>
+      <subject>4674300</subject>
+      <object>4674298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4830939</relationship_id>
+      <predicate>on</predicate>
+      <subject>4674296</subject>
+      <object>4674298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4830940</relationship_id>
+      <predicate>on</predicate>
+      <subject>4674295</subject>
+      <object>4674298</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>329</h>
+      <object_id>4674295</object_id>
+      <w>225</w>
+      <y>44</y>
+      <x>26</x>
+    </object>
+    <object>
+      <name>plate</name>
+      <h>372</h>
+      <object_id>4674298</object_id>
+      <w>492</w>
+      <y>0</y>
+      <x>6</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>365</h>
+      <object_id>4674300</object_id>
+      <w>465</w>
+      <y>2</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cooked</attribute>
+      </attributes>
+      <name>chicken</name>
+      <h>360</h>
+      <object_id>4674296</object_id>
+      <w>265</w>
+      <y>5</y>
+      <x>233</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate topped with mushroom meat and a pasta cheese dish.</caption>
+      <caption>A delicious looking plate of chicken, gravy and broccoli with cheese.</caption>
+      <caption>A dinner plate with chicken and broccoli with cheese sauce.</caption>
+      <caption>A plate of food with broccoli &amp; cheese with meat. </caption>
+      <caption>a plate of chicken and some broccoli and cheese</caption>
+    </captions>
+</image>

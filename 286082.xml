@@ -1,0 +1,62 @@
+<image>
+  <image-id>286082</image-id>
+  <coco-id>318184</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4259795</relationship_id>
+      <predicate>has</predicate>
+      <subject>1571764</subject>
+      <object>1571763</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3949689</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>1571767</subject>
+      <object>1571768</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>horse</name>
+      <h>545</h>
+      <object_id>1571764</object_id>
+      <w>354</w>
+      <y>180</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>hoof</name>
+      <h>57</h>
+      <object_id>1571763</object_id>
+      <w>47</w>
+      <y>639</y>
+      <x>528</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>paint</name>
+      <h>57</h>
+      <object_id>1571767</object_id>
+      <w>567</w>
+      <y>726</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>curb</name>
+      <h>98</h>
+      <object_id>1571768</object_id>
+      <w>807</w>
+      <y>684</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beautiful woman wearing jeans walks a horse.</caption>
+      <caption>A woman walking with a very pretty white horse.</caption>
+      <caption>A woman in very tight jeans walking a white horse down a sidewalk.</caption>
+      <caption>A woman walking down the street with a horse.</caption>
+      <caption>A woman with long orange hair walks a white stallion.</caption>
+    </captions>
+</image>

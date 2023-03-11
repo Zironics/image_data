@@ -1,0 +1,123 @@
+<image>
+  <image-id>2416229</image-id>
+  <coco-id>86679</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4254248</relationship_id>
+      <predicate>has</predicate>
+      <subject>3014108</subject>
+      <object>3014111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254249</relationship_id>
+      <predicate>has</predicate>
+      <subject>3014109</subject>
+      <object>3014110</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254250</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3014110</subject>
+      <object>3014109</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254251</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3014111</subject>
+      <object>3014108</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254252</relationship_id>
+      <predicate>touching</predicate>
+      <subject>3791812</subject>
+      <object>2723437</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4254253</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3202392</subject>
+      <object>3014109</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>191</h>
+      <object_id>3014108</object_id>
+      <w>93</w>
+      <y>58</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>cap</name>
+      <h>22</h>
+      <object_id>3014111</object_id>
+      <w>25</w>
+      <y>52</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>165</h>
+      <object_id>3014109</object_id>
+      <w>112</w>
+      <y>98</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>cap</name>
+      <h>23</h>
+      <object_id>3014110</object_id>
+      <w>34</w>
+      <y>105</y>
+      <x>217</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Black </attribute>
+        <attribute>white </attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>22</h>
+      <object_id>3791812</object_id>
+      <w>38</w>
+      <y>224</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <h>203</h>
+      <object_id>2723437</object_id>
+      <w>243</w>
+      <y>107</y>
+      <x>255</x>
+      <name>brown dirt</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>21</h>
+      <object_id>3202392</object_id>
+      <w>32</w>
+      <y>102</y>
+      <x>219</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player holds the ball and chases another player. </caption>
+      <caption>A baseball player attempting to avoid being tagged out.</caption>
+      <caption>A man going to base during a baseball game.</caption>
+      <caption>A couple of men walking across a field.</caption>
+      <caption>A small pizza sits in a box casually.</caption>
+    </captions>
+</image>

@@ -1,0 +1,106 @@
+<image>
+  <image-id>2338956</image-id>
+  <coco-id>460149</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4573642</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>4032536</subject>
+      <object>4032537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4573643</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4032539</subject>
+      <object>4588704</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4573644</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4032540</subject>
+      <object>4032541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4573645</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4032542</subject>
+      <object>4032543</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sidewalk</name>
+      <h>169</h>
+      <object_id>4032536</object_id>
+      <w>331</w>
+      <y>318</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>467</h>
+      <object_id>4032537</object_id>
+      <w>111</w>
+      <y>17</y>
+      <x>162</x>
+    </object>
+    <object>
+      <name>flowers</name>
+      <h>29</h>
+      <object_id>4032539</object_id>
+      <w>72</w>
+      <y>349</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flowers</attribute>
+      </attributes>
+      <h>47</h>
+      <object_id>4588704</object_id>
+      <w>55</w>
+      <y>382</y>
+      <x>54</x>
+      <name>big pot</name>
+    </object>
+    <object>
+      <name>car</name>
+      <h>21</h>
+      <object_id>4032540</object_id>
+      <w>42</w>
+      <y>302</y>
+      <x>143</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>101</h>
+      <object_id>4032541</object_id>
+      <w>187</w>
+      <y>327</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>tires</name>
+      <h>10</h>
+      <object_id>4032542</object_id>
+      <w>26</w>
+      <y>317</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>28</h>
+      <object_id>4032543</object_id>
+      <w>42</w>
+      <y>300</y>
+      <x>142</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A clock hosted on a pole on a pavement next to a building</caption>
+      <caption>Street clock on quiet street with trees and bicycles.</caption>
+      <caption>A tall clock stands on an empty sidewalk.</caption>
+      <caption>A pole that has a clock on the top of it.</caption>
+      <caption>a clock on a short tower and potted plants along the sidewalk</caption>
+    </captions>
+</image>

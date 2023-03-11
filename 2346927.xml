@@ -1,0 +1,77 @@
+<image>
+  <image-id>2346927</image-id>
+  <coco-id>84474</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2610043</relationship_id>
+      <predicate>ON</predicate>
+      <subject>895309</subject>
+      <object>895310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2610044</relationship_id>
+      <predicate>above</predicate>
+      <subject>895312</subject>
+      <object>895310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2610045</relationship_id>
+      <predicate>next to</predicate>
+      <subject>895309</subject>
+      <object>895313</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sea</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>158</h>
+      <object_id>895309</object_id>
+      <w>308</w>
+      <y>126</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>three</attribute>
+        <attribute>calm</attribute>
+        <attribute>part</attribute>
+      </attributes>
+      <name>water</name>
+      <h>102</h>
+      <object_id>895310</object_id>
+      <w>362</w>
+      <y>267</y>
+      <x>77</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>wing</name>
+      <h>81</h>
+      <object_id>895312</object_id>
+      <w>312</w>
+      <y>133</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>pier</name>
+      <h>100</h>
+      <object_id>895313</object_id>
+      <w>273</w>
+      <y>165</y>
+      <x>101</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boat dock with two planes floating on the water.</caption>
+      <caption>Three airplanes with floats sitting on the water.</caption>
+      <caption>A small plane is parked in the water by the dock</caption>
+      <caption>Boat planes docked at a sunny marina terminal</caption>
+      <caption>Several single engine planes are making water stops at a pier.</caption>
+    </captions>
+</image>

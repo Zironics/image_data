@@ -1,0 +1,68 @@
+<image>
+  <image-id>2402233</image-id>
+  <coco-id>60132</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3279172</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1138779</subject>
+      <object>1138780</object>
+    </relationship>
+    <relationship>
+      <relationship_id>790244</relationship_id>
+      <predicate>with</predicate>
+      <subject>391546</subject>
+      <object>391547</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3279176</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1138779</subject>
+      <object>1138780</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>happy little paint</name>
+      <h>62</h>
+      <object_id>1138779</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>an easel</name>
+      <h>62</h>
+      <object_id>1138780</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>248</h>
+      <object_id>391546</object_id>
+      <w>245</w>
+      <y>107</y>
+      <x>54</x>
+    </object>
+    <object>
+      <name>skull drawing</name>
+      <h>138</h>
+      <object_id>391547</object_id>
+      <w>118</w>
+      <y>155</y>
+      <x>111</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holds a black plate with a square skull in front of his face.</caption>
+      <caption>A man holding a plate with a square skull in front of his face.</caption>
+      <caption>A man is covering his face with a skeleton painted plate.</caption>
+      <caption>A man is holding a black plate in front of his face.</caption>
+      <caption>Man holding a black plate in front of his face.</caption>
+    </captions>
+</image>

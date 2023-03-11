@@ -1,0 +1,81 @@
+<image>
+  <image-id>2344106</image-id>
+  <coco-id>195433</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2700046</relationship_id>
+      <predicate>ON</predicate>
+      <subject>917802</subject>
+      <object>917796</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2700047</relationship_id>
+      <predicate>has</predicate>
+      <subject>917796</subject>
+      <object>917803</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2700048</relationship_id>
+      <predicate>has</predicate>
+      <subject>917796</subject>
+      <object>917804</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>logo</name>
+      <h>44</h>
+      <object_id>917802</object_id>
+      <w>72</w>
+      <y>151</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metallic</attribute>
+        <attribute>multi-colored</attribute>
+        <attribute>remote</attribute>
+        <attribute>high</attribute>
+        <attribute>white</attribute>
+        <attribute>flying</attribute>
+        <attribute>rainbow</attribute>
+        <attribute>attached</attribute>
+        <attribute>weight</attribute>
+        <attribute>black</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>270</h>
+      <object_id>917796</object_id>
+      <w>234</w>
+      <y>21</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>string</name>
+      <h>48</h>
+      <object_id>917803</object_id>
+      <w>109</w>
+      <y>235</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>flag</name>
+      <h>44</h>
+      <object_id>917804</object_id>
+      <w>73</w>
+      <y>81</y>
+      <x>119</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person flying a kite on a clear sky</caption>
+      <caption>A camera dangling under a huge balloon that is flying through the sky.</caption>
+      <caption>a black white yellow blue green and red kite and a person</caption>
+      <caption>A large colorful kite beneath a blue sky.</caption>
+      <caption>a man parasailing with a bright colorful kite </caption>
+    </captions>
+</image>

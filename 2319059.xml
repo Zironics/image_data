@@ -1,0 +1,72 @@
+<image>
+  <image-id>2319059</image-id>
+  <coco-id>37174</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2999996</relationship_id>
+      <predicate>repairing</predicate>
+      <subject>1004975</subject>
+      <object>1004976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3000006</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1004977</subject>
+      <object>1004978</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>161</h>
+      <object_id>1004975</object_id>
+      <w>96</w>
+      <y>93</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>69</h>
+      <object_id>1004976</object_id>
+      <w>255</w>
+      <y>205</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>asian</attribute>
+      </attributes>
+      <name>person</name>
+      <h>173</h>
+      <object_id>1004977</object_id>
+      <w>106</w>
+      <y>87</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>83</h>
+      <object_id>1004978</object_id>
+      <w>262</w>
+      <y>248</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a couple of guys standing behind a couple of plain surfboards</caption>
+      <caption>Two men stand behind surfboards ready to be painted. </caption>
+      <caption>A couple of young men with their surfboards.</caption>
+      <caption>Two men posing for a picture next to two surf boards. </caption>
+      <caption>two people stand outside in front of their surf boards</caption>
+    </captions>
+</image>

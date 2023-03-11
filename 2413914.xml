@@ -1,0 +1,94 @@
+<image>
+  <image-id>2413914</image-id>
+  <coco-id>390177</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>157429</relationship_id>
+      <predicate>ON</predicate>
+      <subject>163636</subject>
+      <object>163638</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157430</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>163635</subject>
+      <object>163630</object>
+    </relationship>
+    <relationship>
+      <relationship_id>157431</relationship_id>
+      <predicate>on a</predicate>
+      <subject>163629</subject>
+      <object>163637</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>windows</name>
+      <h>153</h>
+      <object_id>163636</object_id>
+      <w>157</w>
+      <y>158</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>321</h>
+      <object_id>163638</object_id>
+      <w>373</w>
+      <y>80</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>lamppost</name>
+      <h>499</h>
+      <object_id>163635</object_id>
+      <w>41</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+        <attribute>wrinkled</attribute>
+      </attributes>
+      <name>banner</name>
+      <h>196</h>
+      <object_id>163630</object_id>
+      <w>214</w>
+      <y>97</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>160</h>
+      <object_id>163629</object_id>
+      <w>69</w>
+      <y>1</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>post</name>
+      <h>45</h>
+      <object_id>163637</object_id>
+      <w>24</w>
+      <y>455</y>
+      <x>97</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This is a picture of a city street near some parking signs. </caption>
+      <caption>A picture of three parking signs on top of each other</caption>
+      <caption>Parking and no parking signs are hanging on a post.</caption>
+      <caption>A few street signs outside by a car.</caption>
+      <caption>Signs in a parking lot spell out the different parking rules.</caption>
+    </captions>
+</image>

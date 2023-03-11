@@ -1,0 +1,62 @@
+<image>
+  <image-id>2325298</image-id>
+  <coco-id>178017</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4485031</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3323394</subject>
+      <object>3323395</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4485032</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2884141</subject>
+      <object>3941800</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trunk</name>
+      <h>61</h>
+      <object_id>3323394</object_id>
+      <w>42</w>
+      <y>172</y>
+      <x>316</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>95</h>
+      <object_id>3323395</object_id>
+      <w>145</w>
+      <y>135</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>110</h>
+      <object_id>2884141</object_id>
+      <w>258</w>
+      <y>16</y>
+      <x>79</x>
+    </object>
+    <object>
+      <name>bushes</name>
+      <h>120</h>
+      <object_id>3941800</object_id>
+      <w>498</w>
+      <y>11</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Many colorful umbrellas lay open on a field.</caption>
+      <caption>A bunch of umbrellas laying on the grass.</caption>
+      <caption>A bunch of colored umbrellas sitting in the grass. </caption>
+      <caption>a bunch of open umbrellas lying on the grass</caption>
+      <caption>many different colored umbrellas on some grass and flowers</caption>
+    </captions>
+</image>

@@ -1,0 +1,37 @@
+<image>
+  <image-id>2389733</image-id>
+  <coco-id>208984</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3470866</relationship_id>
+      <predicate>arresting</predicate>
+      <subject>1257849</subject>
+      <object>1257850</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>policeman</name>
+      <h>42</h>
+      <object_id>1257849</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>criminal</name>
+      <h>43</h>
+      <object_id>1257850</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an adult elephant walking beside a very small baby elephant</caption>
+      <caption>An adult elephant and baby elephant in grassy area next to trees.</caption>
+      <caption>A large and small elephant in some tall grass.</caption>
+      <caption>An infant elephant follows an adult elephant through grass.</caption>
+      <caption>a close up of two elephants in a field with trees in the background</caption>
+    </captions>
+</image>

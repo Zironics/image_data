@@ -1,0 +1,65 @@
+<image>
+  <image-id>2390533</image-id>
+  <coco-id>393569</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3459306</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1249421</subject>
+      <object>1249422</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3459307</relationship_id>
+      <predicate>has</predicate>
+      <subject>1249409</subject>
+      <object>1249424</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>laptop</name>
+      <h>28</h>
+      <object_id>1249421</object_id>
+      <w>35</w>
+      <y>164</y>
+      <x>360</x>
+    </object>
+    <object>
+      <name>lap</name>
+      <h>92</h>
+      <object_id>1249422</object_id>
+      <w>91</w>
+      <y>196</y>
+      <x>321</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+      </attributes>
+      <name>door</name>
+      <h>284</h>
+      <object_id>1249409</object_id>
+      <w>252</w>
+      <y>38</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brass</attribute>
+      </attributes>
+      <name>knob</name>
+      <h>26</h>
+      <object_id>1249424</object_id>
+      <w>39</w>
+      <y>237</y>
+      <x>22</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A young woman using a laptop computer while sitting on a bunk bed.</caption>
+      <caption>A person that is sitting in a bed facing out.</caption>
+      <caption>A young girl sits in the bottom bunk of her bunkbed.</caption>
+      <caption>A bedroom with bunk beds and the bathroom next door.</caption>
+      <caption>Three people live in one room who share a bathroom.</caption>
+    </captions>
+</image>

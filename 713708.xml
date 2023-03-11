@@ -1,0 +1,129 @@
+<image>
+  <image-id>713708</image-id>
+  <coco-id>128377</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3204074</relationship_id>
+      <predicate>above</predicate>
+      <subject>1076904</subject>
+      <object>1076903</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204075</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1076901</subject>
+      <object>1076907</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204076</relationship_id>
+      <predicate>with</predicate>
+      <subject>1076901</subject>
+      <object>1076911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204077</relationship_id>
+      <predicate>has</predicate>
+      <subject>1076901</subject>
+      <object>1076911</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204078</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1076911</subject>
+      <object>1076901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204079</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1076916</subject>
+      <object>1076917</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>long</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>83</h>
+      <object_id>1076904</object_id>
+      <w>74</w>
+      <y>93</y>
+      <x>448</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>short</attribute>
+        <attribute>dark green</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>108</h>
+      <object_id>1076903</object_id>
+      <w>100</w>
+      <y>150</y>
+      <x>451</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>paper</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>79</h>
+      <object_id>1076901</object_id>
+      <w>149</w>
+      <y>333</y>
+      <x>249</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>table</name>
+      <h>696</h>
+      <object_id>1076907</object_id>
+      <w>577</w>
+      <y>326</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>pizza</name>
+      <h>45</h>
+      <object_id>1076911</object_id>
+      <w>62</w>
+      <y>356</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>box</name>
+      <h>56</h>
+      <object_id>1076916</object_id>
+      <w>73</w>
+      <y>227</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>69</h>
+      <object_id>1076917</object_id>
+      <w>114</w>
+      <y>233</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people sitting at a table eating plates of food.</caption>
+      <caption>A group of kids sitting at a table, eating pizza.</caption>
+      <caption>Many children sit around wooden picnic tables eating pizza.</caption>
+      <caption>A group of young children in green shirts eat slices of pizza together.</caption>
+      <caption>Many kids sit at a picnic table and eat. </caption>
+    </captions>
+</image>

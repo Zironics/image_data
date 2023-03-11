@@ -1,0 +1,83 @@
+<image>
+  <image-id>2360419</image-id>
+  <coco-id>409119</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2186526</relationship_id>
+      <predicate>has</predicate>
+      <subject>788107</subject>
+      <object>788112</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2186527</relationship_id>
+      <predicate>OF</predicate>
+      <subject>788113</subject>
+      <object>788107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2186528</relationship_id>
+      <predicate>OF</predicate>
+      <subject>788115</subject>
+      <object>788107</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2186529</relationship_id>
+      <predicate>OF</predicate>
+      <subject>788116</subject>
+      <object>788107</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>air</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>254</h>
+      <object_id>788107</object_id>
+      <w>412</w>
+      <y>69</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>23</h>
+      <object_id>788112</object_id>
+      <w>66</w>
+      <y>139</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>50</h>
+      <object_id>788113</object_id>
+      <w>74</w>
+      <y>313</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>39</h>
+      <object_id>788115</object_id>
+      <w>58</w>
+      <y>246</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>100</h>
+      <object_id>788116</object_id>
+      <w>62</w>
+      <y>105</y>
+      <x>282</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large plane with people alighting at the airport</caption>
+      <caption>A large commercial airplane is sitting on the runway.</caption>
+      <caption>a airplane that has its door open on the run way</caption>
+      <caption>People are getting off an airplane that is parked on a runway. </caption>
+      <caption>A airplane that is sitting at a terminal.</caption>
+    </captions>
+</image>

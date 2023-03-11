@@ -1,0 +1,65 @@
+<image>
+  <image-id>713519</image-id>
+  <coco-id>562835</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4062011</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1585017</subject>
+      <object>1585020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4062012</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1585019</subject>
+      <object>1585020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4062013</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1585021</subject>
+      <object>1585020</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tile</name>
+      <h>29</h>
+      <object_id>1585017</object_id>
+      <w>152</w>
+      <y>736</y>
+      <x>345</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>346</h>
+      <object_id>1585020</object_id>
+      <w>596</w>
+      <y>419</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>tile</name>
+      <h>59</h>
+      <object_id>1585019</object_id>
+      <w>124</w>
+      <y>613</y>
+      <x>377</x>
+    </object>
+    <object>
+      <name>tile</name>
+      <h>57</h>
+      <object_id>1585021</object_id>
+      <w>141</w>
+      <y>612</y>
+      <x>253</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man and a dog in a kitchen with suitcase.</caption>
+      <caption>View of a kitchen with man and dog inside of it</caption>
+      <caption>a man in the kitchen with his dog sniffing the floor</caption>
+      <caption>A man busies himself in the kitchen while his dog investigates something on the floor.</caption>
+      <caption>A man and his dog walk to the sink of a kitchen cluttered with objects.</caption>
+    </captions>
+</image>

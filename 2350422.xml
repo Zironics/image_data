@@ -1,0 +1,89 @@
+<image>
+  <image-id>2350422</image-id>
+  <coco-id>510304</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2497394</relationship_id>
+      <predicate>has a</predicate>
+      <subject>868065</subject>
+      <object>868066</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2497395</relationship_id>
+      <predicate>on a</predicate>
+      <subject>868065</subject>
+      <object>868057</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2497396</relationship_id>
+      <predicate>has a</predicate>
+      <subject>868065</subject>
+      <object>868066</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2497397</relationship_id>
+      <predicate>ON</predicate>
+      <subject>868058</subject>
+      <object>868067</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>graphic</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>46</h>
+      <object_id>868065</object_id>
+      <w>46</w>
+      <y>58</y>
+      <x>70</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>109</h>
+      <object_id>868066</object_id>
+      <w>118</w>
+      <y>370</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>437</h>
+      <object_id>868057</object_id>
+      <w>15</w>
+      <y>38</y>
+      <x>87</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>81</h>
+      <object_id>868058</object_id>
+      <w>115</w>
+      <y>279</y>
+      <x>126</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>sidewalk</name>
+      <h>250</h>
+      <object_id>868067</object_id>
+      <w>344</w>
+      <y>250</y>
+      <x>28</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A view of a very sunny early spring day in the neighborhood. </caption>
+      <caption>There is a bench on a sidewalk and a few cars parked on the street. </caption>
+      <caption>The tall sign prohibits parking on the street.</caption>
+      <caption>a long sidewalk with some trees and a fence next to it </caption>
+      <caption>A no parking sign on a pole on a city street.</caption>
+    </captions>
+</image>

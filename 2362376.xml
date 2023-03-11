@@ -1,0 +1,91 @@
+<image>
+  <image-id>2362376</image-id>
+  <coco-id>519510</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2120330</relationship_id>
+      <predicate>holding</predicate>
+      <subject>774862</subject>
+      <object>774863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2120331</relationship_id>
+      <predicate>IN</predicate>
+      <subject>774864</subject>
+      <object>774865</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2120332</relationship_id>
+      <predicate>OF</predicate>
+      <subject>774873</subject>
+      <object>774862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4182829</relationship_id>
+      <predicate>IN</predicate>
+      <subject>774863</subject>
+      <object>3750560</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>346</h>
+      <object_id>774862</object_id>
+      <w>193</w>
+      <y>34</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>thrown</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>95</h>
+      <object_id>774863</object_id>
+      <w>74</w>
+      <y>238</y>
+      <x>238</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>196</h>
+      <object_id>774864</object_id>
+      <w>65</w>
+      <y>35</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>red</name>
+      <h>87</h>
+      <object_id>774865</object_id>
+      <w>87</w>
+      <y>96</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>45</h>
+      <object_id>774873</object_id>
+      <w>45</w>
+      <y>129</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>72</h>
+      <object_id>3750560</object_id>
+      <w>72</w>
+      <y>270</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group or men playing Frisbee in a park.</caption>
+      <caption>A group of men playing a game of frisbee.</caption>
+      <caption>A man with blue shorts and a green t-shirt and blue suspenders and holds a white Frisbee.</caption>
+      <caption>a few men in a field playing frisbee</caption>
+      <caption>A man wearing blue and green throwing a white frisbee</caption>
+    </captions>
+</image>

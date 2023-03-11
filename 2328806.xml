@@ -1,0 +1,95 @@
+<image>
+  <image-id>2328806</image-id>
+  <coco-id>439589</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3819666</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2928778</subject>
+      <object>3306028</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4470033</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2928777</subject>
+      <object>2928778</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086198</relationship_id>
+      <predicate>to</predicate>
+      <subject>3467823</subject>
+      <object>3467824</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4470034</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2895414</subject>
+      <object>3935843</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>90</h>
+      <object_id>2928778</object_id>
+      <w>266</w>
+      <y>215</y>
+      <x>45</x>
+      <name>first train</name>
+    </object>
+    <object>
+      <name>train yard</name>
+      <h>330</h>
+      <object_id>3306028</object_id>
+      <w>498</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>second train</name>
+      <h>49</h>
+      <object_id>2928777</object_id>
+      <w>120</w>
+      <y>192</y>
+      <x>376</x>
+    </object>
+    <object>
+      <name>doorway</name>
+      <h>49</h>
+      <object_id>3467823</object_id>
+      <w>35</w>
+      <y>150</y>
+      <x>402</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>150</h>
+      <object_id>3467824</object_id>
+      <w>176</w>
+      <y>72</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>29</h>
+      <object_id>2895414</object_id>
+      <w>212</w>
+      <y>240</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>131</h>
+      <object_id>3935843</object_id>
+      <w>324</w>
+      <y>170</y>
+      <x>33</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of large long trains on a track.</caption>
+      <caption>many trains on tracks near a building </caption>
+      <caption>Two light rail trains are sitting on a track next to a white building.</caption>
+      <caption>Old and new trains navigating a rail yard.</caption>
+      <caption>a couple of trains are sitting on some tracks</caption>
+    </captions>
+</image>

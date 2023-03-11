@@ -1,0 +1,113 @@
+<image>
+  <image-id>2337320</image-id>
+  <coco-id>93764</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4080069</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2860583</subject>
+      <object>3708488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080070</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2074789</subject>
+      <object>3708488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080071</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2860585</subject>
+      <object>3708488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080072</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2716635</subject>
+      <object>2716636</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4080073</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2074789</subject>
+      <object>2074790</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown cow</name>
+      <h>34</h>
+      <object_id>2860583</object_id>
+      <w>24</w>
+      <y>62</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>284</h>
+      <object_id>3708488</object_id>
+      <w>491</w>
+      <y>74</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>57</h>
+      <object_id>2074789</object_id>
+      <w>55</w>
+      <y>92</y>
+      <x>427</x>
+      <name>cow</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown cow</name>
+      <h>257</h>
+      <object_id>2860585</object_id>
+      <w>207</w>
+      <y>90</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>21</h>
+      <object_id>2716635</object_id>
+      <w>45</w>
+      <y>72</y>
+      <x>415</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>77</h>
+      <object_id>2716636</object_id>
+      <w>492</w>
+      <y>72</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>48</h>
+      <object_id>2074790</object_id>
+      <w>92</w>
+      <y>95</y>
+      <x>349</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two brown cows standing next to each other on tall grass.</caption>
+      <caption>Tagged cows grazing in an open mountain pasture</caption>
+      <caption>Many cows are standing in a green pasture.</caption>
+      <caption>Cows in a field with blue tags on their ears.</caption>
+      <caption>Brown cows are standing in a field of grass.</caption>
+    </captions>
+</image>

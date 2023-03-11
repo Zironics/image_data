@@ -1,0 +1,68 @@
+<image>
+  <image-id>2338778</image-id>
+  <coco-id>383641</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4743367</relationship_id>
+      <predicate>of</predicate>
+      <subject>4449429</subject>
+      <object>4449430</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4578751</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>4449430</subject>
+      <object>4044986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4578753</relationship_id>
+      <predicate>has on</predicate>
+      <subject>4449430</subject>
+      <object>4044989</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mouth</name>
+      <h>11</h>
+      <object_id>4449429</object_id>
+      <w>19</w>
+      <y>133</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>300</h>
+      <object_id>4449430</object_id>
+      <w>274</w>
+      <y>13</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>66</h>
+      <object_id>4044986</object_id>
+      <w>223</w>
+      <y>264</y>
+      <x>27</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black and white</attribute>
+      </attributes>
+      <name>stripes</name>
+      <h>89</h>
+      <object_id>4044989</object_id>
+      <w>89</w>
+      <y>73</y>
+      <x>260</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A zebra with black and white stripes standing around.</caption>
+      <caption>A zebra standing inside of an enclosure at a zoo.</caption>
+      <caption>Young zebra standing in a rough zoo enclosure.</caption>
+      <caption>A small zebra standing in the dirt by posts</caption>
+      <caption> A zebra stands alone inside an enclosed area</caption>
+    </captions>
+</image>

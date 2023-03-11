@@ -1,0 +1,95 @@
+<image>
+  <image-id>2385076</image-id>
+  <coco-id>75548</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4678515</relationship_id>
+      <predicate>has</predicate>
+      <subject>4117108</subject>
+      <object>4291434</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678516</relationship_id>
+      <predicate>has</predicate>
+      <subject>4291438</subject>
+      <object>4291435</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4678517</relationship_id>
+      <predicate>has</predicate>
+      <subject>4291439</subject>
+      <object>4291436</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4608949</relationship_id>
+      <predicate>has</predicate>
+      <subject>4117108</subject>
+      <object>4117109</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ram</name>
+      <h>244</h>
+      <object_id>4117108</object_id>
+      <w>162</w>
+      <y>204</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>136</h>
+      <object_id>4291434</object_id>
+      <w>289</w>
+      <y>304</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>ram</name>
+      <h>186</h>
+      <object_id>4291438</object_id>
+      <w>200</w>
+      <y>141</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>110</h>
+      <object_id>4291435</object_id>
+      <w>127</w>
+      <y>197</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>ram</name>
+      <h>101</h>
+      <object_id>4291439</object_id>
+      <w>175</w>
+      <y>93</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>50</h>
+      <object_id>4291436</object_id>
+      <w>85</w>
+      <y>149</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>13</h>
+      <object_id>4117109</object_id>
+      <w>14</w>
+      <y>244</y>
+      <x>247</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Three animals on the hill looking around at everything.</caption>
+      <caption>Three animals walking up a hill while another one is grazing. </caption>
+      <caption>Three goats grazing in the forest with shrubs</caption>
+      <caption>Three rams are going up the steep side of the cliff.</caption>
+      <caption>Three goats with curved horns walking up a grassy hill.</caption>
+    </captions>
+</image>

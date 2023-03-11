@@ -1,0 +1,59 @@
+<image>
+  <image-id>2415358</image-id>
+  <coco-id>544611</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3778798</relationship_id>
+      <predicate>standing near</predicate>
+      <subject>3157800</subject>
+      <object>3157801</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4110063</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3171928</subject>
+      <object>3171929</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>160</h>
+      <object_id>3157800</object_id>
+      <w>47</w>
+      <y>185</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>bed</name>
+      <h>192</h>
+      <object_id>3157801</object_id>
+      <w>260</w>
+      <y>182</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>70</h>
+      <object_id>3171928</object_id>
+      <w>297</w>
+      <y>95</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>170</h>
+      <object_id>3171929</object_id>
+      <w>352</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd standing around a bed next to a building.  </caption>
+      <caption>A crowd of people surrounding a bed in the street.</caption>
+      <caption>A man is surrounded by people in the street. </caption>
+      <caption>A group of people surrounding a bed in the middle of town.</caption>
+      <caption>A large crowd of people surrounding a bed.</caption>
+    </captions>
+</image>

@@ -1,0 +1,79 @@
+<image>
+  <image-id>2334552</image-id>
+  <coco-id>325366</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4453128</relationship_id>
+      <predicate>ON</predicate>
+      <subject>964957</subject>
+      <object>3926377</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2872628</relationship_id>
+      <predicate>ON</predicate>
+      <subject>964958</subject>
+      <object>964959</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2872629</relationship_id>
+      <predicate>has</predicate>
+      <subject>964967</subject>
+      <object>964957</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>riding</attribute>
+      </attributes>
+      <name>rider</name>
+      <h>18</h>
+      <object_id>964957</object_id>
+      <w>18</w>
+      <y>244</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>28</h>
+      <object_id>3926377</object_id>
+      <w>26</w>
+      <y>268</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>median</name>
+      <h>48</h>
+      <object_id>964958</object_id>
+      <w>24</w>
+      <y>225</y>
+      <x>316</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>48</h>
+      <object_id>964959</object_id>
+      <w>52</w>
+      <y>232</y>
+      <x>349</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>located</attribute>
+      </attributes>
+      <name>highway</name>
+      <h>64</h>
+      <object_id>964967</object_id>
+      <w>59</w>
+      <y>189</y>
+      <x>29</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A city street filled with lots of traffic.</caption>
+      <caption>An abundance of cars, trucks, and a motorcycle on the highway.</caption>
+      <caption>A view of a very busy city road interchange.</caption>
+      <caption>A roadway in a city with a blue sign in the corner.</caption>
+      <caption>A complicated street has an oriental instructional sign.</caption>
+    </captions>
+</image>

@@ -1,0 +1,97 @@
+<image>
+  <image-id>2366528</image-id>
+  <coco-id>513098</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4369787</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3878579</subject>
+      <object>3878576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4369788</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2531005</subject>
+      <object>3878578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4369789</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2441623</subject>
+      <object>3878578</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4369790</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3878579</subject>
+      <object>2039221</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <h>42</h>
+      <object_id>3878579</object_id>
+      <w>170</w>
+      <y>239</y>
+      <x>0</x>
+      <name>cloud</name>
+    </object>
+    <object>
+      <name>rain</name>
+      <h>41</h>
+      <object_id>3878576</object_id>
+      <w>73</w>
+      <y>29</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in picture</attribute>
+      </attributes>
+      <h>28</h>
+      <object_id>2531005</object_id>
+      <w>117</w>
+      <y>126</y>
+      <x>182</x>
+      <name>planes</name>
+    </object>
+    <object>
+      <name>air</name>
+      <h>260</h>
+      <object_id>3878578</object_id>
+      <w>471</w>
+      <y>9</y>
+      <x>9</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+        <attribute>yellow </attribute>
+      </attributes>
+      <h>30</h>
+      <object_id>2441623</object_id>
+      <w>113</w>
+      <y>161</y>
+      <x>384</x>
+      <name>plane</name>
+    </object>
+    <object>
+      <name>sky.</name>
+      <h>64</h>
+      <object_id>2039221</object_id>
+      <w>96</w>
+      <y>176</y>
+      <x>137</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of planes flying in sequence in the sky.</caption>
+      <caption>Several propeller airplanes fly in unison in a cloudy sky.</caption>
+      <caption>A formation of airplanes flying through a cloudy sky.</caption>
+      <caption>Seven airplanes are flying in a formation under clouds.</caption>
+      <caption>A group of older propeller planes flying in formation.</caption>
+    </captions>
+</image>

@@ -1,0 +1,106 @@
+<image>
+  <image-id>2338748</image-id>
+  <coco-id>29327</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4579546</relationship_id>
+      <predicate>standing</predicate>
+      <subject>4046797</subject>
+      <object>4046798</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579552</relationship_id>
+      <predicate>has</predicate>
+      <subject>4046808</subject>
+      <object>4046809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579553</relationship_id>
+      <predicate>facing</predicate>
+      <subject>4046810</subject>
+      <object>4046811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4579555</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4046814</subject>
+      <object>4046815</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>giraffes</name>
+      <h>156</h>
+      <object_id>4046797</object_id>
+      <w>419</w>
+      <y>111</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>103</h>
+      <object_id>4046798</object_id>
+      <w>483</w>
+      <y>221</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>109</h>
+      <object_id>4046808</object_id>
+      <w>474</w>
+      <y>222</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>patches </attribute>
+      </attributes>
+      <name>dirt</name>
+      <h>28</h>
+      <object_id>4046809</object_id>
+      <w>29</w>
+      <y>234</y>
+      <x>154</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>200</h>
+      <object_id>4046810</object_id>
+      <w>440</w>
+      <y>108</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>rear</name>
+      <h>151</h>
+      <object_id>4046811</object_id>
+      <w>77</w>
+      <y>108</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>rock</name>
+      <h>68</h>
+      <object_id>4046814</object_id>
+      <w>175</w>
+      <y>162</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>giraffe</name>
+      <h>152</h>
+      <object_id>4046815</object_id>
+      <w>410</w>
+      <y>110</y>
+      <x>47</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of giraffe standing on top of a lush green field.</caption>
+      <caption>A giraffe looks to its mother and father in the distance</caption>
+      <caption>two large giraffe standing in a grassy area around some trees</caption>
+      <caption>Three giraffes are standing in the field spread apart.</caption>
+      <caption>Several giraffes standing next to trees in a grassy area.</caption>
+    </captions>
+</image>

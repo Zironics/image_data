@@ -1,0 +1,125 @@
+<image>
+  <image-id>2322094</image-id>
+  <coco-id>76522</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3742510</relationship_id>
+      <predicate>head on</predicate>
+      <subject>2830830</subject>
+      <object>2862913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3742511</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2919860</subject>
+      <object>2862913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4537744</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>2830830</subject>
+      <object>3513204</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3838528</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2919860</subject>
+      <object>3610975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3742542</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3570184</subject>
+      <object>2905207</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4537745</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2830830</subject>
+      <object>3415754</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>176</h>
+      <object_id>2830830</object_id>
+      <w>284</w>
+      <y>140</y>
+      <x>129</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>64</h>
+      <object_id>2862913</object_id>
+      <w>96</w>
+      <y>167</y>
+      <x>106</x>
+    </object>
+    <object>
+      <h>78</h>
+      <object_id>2919860</object_id>
+      <w>84</w>
+      <y>141</y>
+      <x>127</x>
+      <name>head</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>sofa</name>
+      <h>368</h>
+      <object_id>3513204</object_id>
+      <w>491</w>
+      <y>5</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>remote</name>
+      <h>60</h>
+      <object_id>3610975</object_id>
+      <w>83</w>
+      <y>169</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>24</h>
+      <object_id>3570184</object_id>
+      <w>36</w>
+      <y>173</y>
+      <x>128</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>181</h>
+      <object_id>2905207</object_id>
+      <w>350</w>
+      <y>146</y>
+      <x>148</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>cat</attribute>
+      </attributes>
+      <name>nose</name>
+      <h>18</h>
+      <object_id>3415754</object_id>
+      <w>21</w>
+      <y>198</y>
+      <x>186</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white cat laying on top of a couch.</caption>
+      <caption>A black and white cat is laying on the couch.</caption>
+      <caption>A black and white cat sleeping with its head on top of a remote controller.</caption>
+      <caption>A cat's head rests on a remote while it naps.</caption>
+      <caption>Kitten resting on sofa with it's head laying on a remote control.</caption>
+    </captions>
+</image>

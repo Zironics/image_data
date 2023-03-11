@@ -1,0 +1,114 @@
+<image>
+  <image-id>1591965</image-id>
+  <coco-id>407042</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4078874</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3708012</subject>
+      <object>1605582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078875</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1605582</subject>
+      <object>3708011</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078876</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3708012</subject>
+      <object>1605583</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078877</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1605584</subject>
+      <object>3708014</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078878</relationship_id>
+      <predicate>covering</predicate>
+      <subject>1605585</subject>
+      <object>3708014</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>girl</name>
+      <h>768</h>
+      <object_id>3708012</object_id>
+      <w>512</w>
+      <y>178</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>940</h>
+      <object_id>1605582</object_id>
+      <w>531</w>
+      <y>10</y>
+      <x>485</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>stuffed animal</name>
+      <h>588</h>
+      <object_id>3708011</object_id>
+      <w>608</w>
+      <y>353</y>
+      <x>410</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>stuffed</attribute>
+      </attributes>
+      <name>animal</name>
+      <h>424</h>
+      <object_id>1605583</object_id>
+      <w>285</w>
+      <y>520</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>bottle</name>
+      <h>106</h>
+      <object_id>1605584</object_id>
+      <w>54</w>
+      <y>270</y>
+      <x>400</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>642</h>
+      <object_id>3708014</object_id>
+      <w>1007</w>
+      <y>299</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>tablecloth</name>
+      <h>419</h>
+      <object_id>1605585</object_id>
+      <w>1013</w>
+      <y>305</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy and girl holding stuffed animals in a park. </caption>
+      <caption>A boy with a green stuffed animal and a girl with a pink stuffed animal at a park.</caption>
+      <caption>a young boy and young girl hold stuffed animals at a park</caption>
+      <caption>Smiling children who are holding stuffed animals are at an outdoor event.</caption>
+      <caption>A brother and sister hold stuffed animals. </caption>
+    </captions>
+</image>

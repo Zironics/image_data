@@ -1,0 +1,96 @@
+<image>
+  <image-id>2332827</image-id>
+  <coco-id>306426</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4675162</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4283260</subject>
+      <object>4283261</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4675167</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4283270</subject>
+      <object>4283271</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4819682</relationship_id>
+      <predicate>holds</predicate>
+      <subject>4283260</subject>
+      <object>4646062</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4819683</relationship_id>
+      <predicate>wears</predicate>
+      <subject>4283260</subject>
+      <object>4646064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4819684</relationship_id>
+      <predicate>wears</predicate>
+      <subject>4283260</subject>
+      <object>4283261</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lady</name>
+      <h>408</h>
+      <object_id>4283260</object_id>
+      <w>446</w>
+      <y>1</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>257</h>
+      <object_id>4283261</object_id>
+      <w>348</w>
+      <y>5</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>blades</name>
+      <h>35</h>
+      <object_id>4283270</object_id>
+      <w>43</w>
+      <y>358</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>scissors</name>
+      <h>125</h>
+      <object_id>4283271</object_id>
+      <w>150</w>
+      <y>288</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>scissors</name>
+      <h>76</h>
+      <object_id>4646062</object_id>
+      <w>112</w>
+      <y>314</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>hair net</name>
+      <h>69</h>
+      <object_id>4646064</object_id>
+      <w>192</w>
+      <y>1</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman baking bread on top of a baking sheet.</caption>
+      <caption>A baker woman preparing bread dough on a tray with wax paper. </caption>
+      <caption>A woman in an apron cutting some bread dough.</caption>
+      <caption>A woman in a bakery cutting dough with scissors.</caption>
+      <caption>A woman uses scissors to cut dough on a pan.</caption>
+    </captions>
+</image>

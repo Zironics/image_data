@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337718</image-id>
+  <coco-id>313007</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4801687</relationship_id>
+      <predicate>with</predicate>
+      <subject>4602806</subject>
+      <object>4602807</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4801703</relationship_id>
+      <predicate>for training train</predicate>
+      <subject>4602845</subject>
+      <object>4602846</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>159</h>
+      <object_id>4602806</object_id>
+      <w>44</w>
+      <y>243</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>13</h>
+      <object_id>4602807</object_id>
+      <w>5</w>
+      <y>256</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>71</h>
+      <object_id>4602845</object_id>
+      <w>95</w>
+      <y>310</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>displayed</name>
+      <h>62</h>
+      <object_id>4602846</object_id>
+      <w>89</w>
+      <y>381</y>
+      <x>21</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A subway train with a handi cap placard on it's side.</caption>
+      <caption>Closeup of a sliver train door with a handicap sign next to it.</caption>
+      <caption>A silver train has a handicapped sticker on it.</caption>
+      <caption>Stainless steel train with a handicapped sign on it and a training center sign.</caption>
+      <caption>A Training Train sign on a silver door</caption>
+    </captions>
+</image>

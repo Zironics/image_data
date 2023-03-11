@@ -1,0 +1,87 @@
+<image>
+  <image-id>2330671</image-id>
+  <coco-id>298810</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4011254</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3363067</subject>
+      <object>3363068</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260950</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3795627</subject>
+      <object>3396846</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4011256</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2808913</subject>
+      <object>2808914</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>fire hydrant</name>
+      <h>223</h>
+      <object_id>3363067</object_id>
+      <w>119</w>
+      <y>16</y>
+      <x>139</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>277</h>
+      <object_id>3363068</object_id>
+      <w>489</w>
+      <y>0</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>47</h>
+      <object_id>3795627</object_id>
+      <w>141</w>
+      <y>223</y>
+      <x>352</x>
+    </object>
+    <object>
+      <name>weeds</name>
+      <h>49</h>
+      <object_id>3396846</object_id>
+      <w>123</w>
+      <y>222</y>
+      <x>369</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>41</h>
+      <object_id>2808913</object_id>
+      <w>15</w>
+      <y>2</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>weeds</name>
+      <h>92</h>
+      <object_id>2808914</object_id>
+      <w>50</w>
+      <y>0</y>
+      <x>147</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red fire hydrant sitting between two poles.</caption>
+      <caption>A fire hydrant placed between two metal poles.</caption>
+      <caption>a pink fire hydrant sits between two poles </caption>
+      <caption>A red fire hydrant sits between two yellow posts in an unkempt sidewalk.</caption>
+      <caption>A fire hydrant on cement surrounded by weeds.</caption>
+    </captions>
+</image>

@@ -1,0 +1,57 @@
+<image>
+  <image-id>2338393</image-id>
+  <coco-id>55296</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4063315</relationship_id>
+      <predicate>has</predicate>
+      <subject>2850940</subject>
+      <object>2850941</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460065</relationship_id>
+      <predicate>has</predicate>
+      <subject>2850940</subject>
+      <object>3930286</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>69</h>
+      <object_id>2850940</object_id>
+      <w>62</w>
+      <y>268</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>frisbee</name>
+      <h>25</h>
+      <object_id>2850941</object_id>
+      <w>36</w>
+      <y>85</y>
+      <x>336</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>legs</name>
+      <h>20</h>
+      <object_id>3930286</object_id>
+      <w>45</w>
+      <y>313</y>
+      <x>344</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small dog in a grass field with a Frisbee.</caption>
+      <caption>A dog is chasing a frisbee in a park.</caption>
+      <caption>a black and white dog on some grass and a red frisbee</caption>
+      <caption>A dog trying to catch a red frisbee on a lush green field.</caption>
+      <caption>Dog in open grassy field chasing flying red disc.</caption>
+    </captions>
+</image>

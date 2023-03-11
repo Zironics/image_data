@@ -1,0 +1,67 @@
+<image>
+  <image-id>2388890</image-id>
+  <coco-id>100234</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4292574</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3829071</subject>
+      <object>669954</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1760991</relationship_id>
+      <predicate>ON</predicate>
+      <subject>669954</subject>
+      <object>669951</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dark </attribute>
+      </attributes>
+      <name>shadow</name>
+      <h>29</h>
+      <object_id>3829071</object_id>
+      <w>43</w>
+      <y>360</y>
+      <x>261</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>square </attribute>
+        <attribute>orange </attribute>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>72</h>
+      <object_id>669954</object_id>
+      <w>66</w>
+      <y>303</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>large</attribute>
+        <attribute>clear</attribute>
+        <attribute>clam</attribute>
+      </attributes>
+      <name>water</name>
+      <h>205</h>
+      <object_id>669951</object_id>
+      <w>479</w>
+      <y>288</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a blue boat in the water and a factory and a dock</caption>
+      <caption>a body of water with boats next to a factory area.</caption>
+      <caption>Barges and boats along a water way showing a power plant.</caption>
+      <caption>A few boats ride on the water by towers.</caption>
+      <caption>Some boats in the water outside of some industrial buildings.</caption>
+    </captions>
+</image>

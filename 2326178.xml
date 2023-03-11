@@ -1,0 +1,60 @@
+<image>
+  <image-id>2326178</image-id>
+  <coco-id>527623</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4480870</relationship_id>
+      <predicate>with</predicate>
+      <subject>2984372</subject>
+      <object>3238850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4480871</relationship_id>
+      <predicate>eating</predicate>
+      <subject>2984372</subject>
+      <object>2984370</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4480872</relationship_id>
+      <predicate>eating with</predicate>
+      <subject>2984372</subject>
+      <object>2984370</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>411</h>
+      <object_id>2984372</object_id>
+      <w>292</w>
+      <y>86</y>
+      <x>0</x>
+      <name>elephant</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>floppy</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>170</h>
+      <object_id>3238850</object_id>
+      <w>128</w>
+      <y>134</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>trunk</name>
+      <h>162</h>
+      <object_id>2984370</object_id>
+      <w>124</w>
+      <y>295</y>
+      <x>177</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small elephant standing on top of a grass filled penn.</caption>
+      <caption>A baby elephant eating hay or grass .</caption>
+      <caption>A young elephant is eating grass while another elephant is behind.</caption>
+      <caption>An elephant is eating hay with another elephant.</caption>
+      <caption>One big and one small elephant in a zoo eating straw</caption>
+    </captions>
+</image>

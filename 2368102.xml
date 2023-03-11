@@ -1,0 +1,193 @@
+<image>
+  <image-id>2368102</image-id>
+  <coco-id>450993</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2041269</relationship_id>
+      <predicate>man standing</predicate>
+      <subject>748218</subject>
+      <object>748219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041270</relationship_id>
+      <predicate>man standing</predicate>
+      <subject>748228</subject>
+      <object>3870854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041274</relationship_id>
+      <predicate>suit grey</predicate>
+      <subject>748217</subject>
+      <object>748224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041282</relationship_id>
+      <predicate>sky blue</predicate>
+      <subject>748225</subject>
+      <object>748225</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041283</relationship_id>
+      <predicate>sky blue</predicate>
+      <subject>748225</subject>
+      <object>748225</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041287</relationship_id>
+      <predicate>man wearing suit</predicate>
+      <subject>748228</subject>
+      <object>748218</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041289</relationship_id>
+      <predicate>woman wearing suit</predicate>
+      <subject>748217</subject>
+      <object>748224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041295</relationship_id>
+      <predicate>suit color grey</predicate>
+      <subject>748217</subject>
+      <object>748228</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041298</relationship_id>
+      <predicate>surfboard pink</predicate>
+      <subject>748217</subject>
+      <object>748223</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041299</relationship_id>
+      <predicate>surfboard green</predicate>
+      <subject>748218</subject>
+      <object>748219</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041300</relationship_id>
+      <predicate>surfboard blue</predicate>
+      <subject>748228</subject>
+      <object>3870854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041301</relationship_id>
+      <predicate>people in suits</predicate>
+      <subject>748228</subject>
+      <object>748230</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041304</relationship_id>
+      <predicate>beard grey</predicate>
+      <subject>748228</subject>
+      <object>748228</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2041305</relationship_id>
+      <predicate>man has hair</predicate>
+      <subject>748233</subject>
+      <object>748218</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man on surfboard</name>
+      <h>191</h>
+      <object_id>748218</object_id>
+      <w>100</w>
+      <y>55</y>
+      <x>184</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>surfboard is green</name>
+      <h>66</h>
+      <object_id>748219</object_id>
+      <w>103</w>
+      <y>216</y>
+      <x>219</x>
+    </object>
+    <object>
+      <h>205</h>
+      <object_id>748228</object_id>
+      <w>93</w>
+      <y>30</y>
+      <x>282</x>
+      <name>man has beard</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>65</h>
+      <object_id>3870854</object_id>
+      <w>89</w>
+      <y>192</y>
+      <x>317</x>
+      <name>surfboard</name>
+    </object>
+    <object>
+      <name>woman wearing suit</name>
+      <h>244</h>
+      <object_id>748217</object_id>
+      <w>81</w>
+      <y>36</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>suit is for business</name>
+      <h>209</h>
+      <object_id>748224</object_id>
+      <w>78</w>
+      <y>72</y>
+      <x>108</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>clouds in sky</name>
+      <h>204</h>
+      <object_id>748225</object_id>
+      <w>499</w>
+      <y>4</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>surfboard in sand</name>
+      <h>69</h>
+      <object_id>748223</object_id>
+      <w>165</w>
+      <y>249</y>
+      <x>103</x>
+    </object>
+    <object>
+      <name>suits for business</name>
+      <h>228</h>
+      <object_id>748230</object_id>
+      <w>271</w>
+      <y>51</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>hair is grey</name>
+      <h>29</h>
+      <object_id>748233</object_id>
+      <w>30</w>
+      <y>53</y>
+      <x>207</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there are there men standing on top of surf boards</caption>
+      <caption>Three people in suits are standing on top of surf boards, in the sand.</caption>
+      <caption>three businesspeople stand on surfboards on the beach</caption>
+      <caption>two men and a woman wearing suits on surf boards in sand</caption>
+      <caption>Three people are posing on surf boards on a beach.</caption>
+    </captions>
+</image>

@@ -1,0 +1,59 @@
+<image>
+  <image-id>2337482</image-id>
+  <coco-id>386712</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4461924</relationship_id>
+      <predicate>has</predicate>
+      <subject>3931299</subject>
+      <object>2573997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4461925</relationship_id>
+      <predicate>seated on</predicate>
+      <subject>3275466</subject>
+      <object>3275467</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sheep</name>
+      <h>60</h>
+      <object_id>3931299</object_id>
+      <w>48</w>
+      <y>155</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>44</h>
+      <object_id>2573997</object_id>
+      <w>47</w>
+      <y>160</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>ram</name>
+      <h>131</h>
+      <object_id>3275466</object_id>
+      <w>96</w>
+      <y>240</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>180</h>
+      <object_id>3275467</object_id>
+      <w>351</w>
+      <y>193</y>
+      <x>28</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a display of rams in a display case </caption>
+      <caption>A large glass case filled with rams and ram heads.</caption>
+      <caption>A display case of numerous styles of mounted rams.</caption>
+      <caption>A lot of sheep heads on display at a museum.</caption>
+      <caption>A wall is covered with animal heads and behind glass.</caption>
+    </captions>
+</image>

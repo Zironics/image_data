@@ -1,0 +1,54 @@
+<image>
+  <image-id>1592270</image-id>
+  <coco-id>398158</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3840493</relationship_id>
+      <predicate>pulling</predicate>
+      <subject>1608295</subject>
+      <object>3611800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3840503</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>1608297</subject>
+      <object>1608297</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>387</h>
+      <object_id>1608295</object_id>
+      <w>336</w>
+      <y>123</y>
+      <x>403</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cover</name>
+      <h>269</h>
+      <object_id>3611800</object_id>
+      <w>189</w>
+      <y>175</y>
+      <x>398</x>
+    </object>
+    <object>
+      <name>blinds</name>
+      <h>207</h>
+      <object_id>1608297</object_id>
+      <w>100</w>
+      <y>72</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a guy unwraping a big screen tv in his living room</caption>
+      <caption>A man unpacking a new flat screen TV.</caption>
+      <caption>Guy pulls the protective wrapping off a new tv</caption>
+      <caption>a person putting a sheet on or off of a television in a living room</caption>
+      <caption>A man putting a protective covering over a large TV screen.</caption>
+    </captions>
+</image>

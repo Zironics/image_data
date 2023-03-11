@@ -1,0 +1,201 @@
+<image>
+  <image-id>2402718</image-id>
+  <coco-id>43917</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3270271</relationship_id>
+      <predicate>filled with</predicate>
+      <subject>1132459</subject>
+      <object>1132460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270272</relationship_id>
+      <predicate>topped with</predicate>
+      <subject>1132458</subject>
+      <object>1132462</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270273</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1132463</subject>
+      <object>1132464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270274</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1132462</subject>
+      <object>1132464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270275</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1132465</subject>
+      <object>1132459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270276</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1132462</subject>
+      <object>1132464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270277</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1132462</subject>
+      <object>1132459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270278</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1132464</subject>
+      <object>1132461</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270279</relationship_id>
+      <predicate>has</predicate>
+      <subject>1132464</subject>
+      <object>1132462</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270280</relationship_id>
+      <predicate>filled with</predicate>
+      <subject>1132459</subject>
+      <object>1132460</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270281</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1132461</subject>
+      <object>1132464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270282</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1132463</subject>
+      <object>1132464</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270283</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1132464</subject>
+      <object>1132459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3270284</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1132461</subject>
+      <object>1132468</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>314</h>
+      <object_id>1132459</object_id>
+      <w>468</w>
+      <y>18</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>273</h>
+      <object_id>1132460</object_id>
+      <w>367</w>
+      <y>32</y>
+      <x>116</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>roasted</attribute>
+        <attribute>pink</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>meat</name>
+      <h>137</h>
+      <object_id>1132458</object_id>
+      <w>128</w>
+      <y>153</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>gravy</name>
+      <h>198</h>
+      <object_id>1132462</object_id>
+      <w>264</w>
+      <y>72</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>present</attribute>
+      </attributes>
+      <name>parsley</name>
+      <h>83</h>
+      <object_id>1132463</object_id>
+      <w>87</w>
+      <y>121</y>
+      <x>213</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>medium rare</attribute>
+        <attribute>roast beef</attribute>
+        <attribute>sliced</attribute>
+        <attribute>circled</attribute>
+      </attributes>
+      <name>meat</name>
+      <h>210</h>
+      <object_id>1132464</object_id>
+      <w>337</w>
+      <y>85</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+        <attribute>lying</attribute>
+        <attribute>resting</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>72</h>
+      <object_id>1132465</object_id>
+      <w>93</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>steamed</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>62</h>
+      <object_id>1132461</object_id>
+      <w>56</w>
+      <y>60</y>
+      <x>301</x>
+    </object>
+    <object>
+      <name>pieces</name>
+      <h>165</h>
+      <object_id>1132468</object_id>
+      <w>179</w>
+      <y>26</y>
+      <x>298</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate contains beef with a side of broccoli. </caption>
+      <caption>A dinner plate with broccolli and sliced beef with sauce on top of the beef.</caption>
+      <caption>A plate of food including broccoli and steak.</caption>
+      <caption>a close up of a plate of meat with broccoli</caption>
+      <caption>A plate of rare steak and vegetables laying on a table.</caption>
+    </captions>
+</image>

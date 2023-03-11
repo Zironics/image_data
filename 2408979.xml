@@ -1,0 +1,71 @@
+<image>
+  <image-id>2408979</image-id>
+  <coco-id>470539</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1698384</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>649282</subject>
+      <object>649280</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1698385</relationship_id>
+      <predicate>ON</predicate>
+      <subject>649290</subject>
+      <object>649291</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+        <attribute>hanging</attribute>
+        <attribute>red</attribute>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>flower</name>
+      <h>33</h>
+      <object_id>649282</object_id>
+      <w>30</w>
+      <y>12</y>
+      <x>463</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>teddy</attribute>
+        <attribute>eye</attribute>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>58</h>
+      <object_id>649280</object_id>
+      <w>43</w>
+      <y>101</y>
+      <x>240</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>35</h>
+      <object_id>649290</object_id>
+      <w>28</w>
+      <y>189</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>115</h>
+      <object_id>649291</object_id>
+      <w>64</w>
+      <y>151</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red teddy bear sitting on a stool in a garden.</caption>
+      <caption>A red teddy bear sitting in a chair with potted plants all around.</caption>
+      <caption>A teddy bear is sitting in a chair in front of pots with plants. </caption>
+      <caption>A teddy bear is sitting outside on a chair near flowers.</caption>
+      <caption>A stuffed bear sits in a chair with potted plants at its feet. </caption>
+    </captions>
+</image>

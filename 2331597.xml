@@ -1,0 +1,115 @@
+<image>
+  <image-id>2331597</image-id>
+  <coco-id>332355</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4464503</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3447890</subject>
+      <object>3932979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100516</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3080285</subject>
+      <object>3080284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100517</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3185146</subject>
+      <object>3185147</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3878060</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3447890</subject>
+      <object>3073354</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4004862</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3080285</subject>
+      <object>3212247</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>basket</name>
+      <h>70</h>
+      <object_id>3447890</object_id>
+      <w>82</w>
+      <y>132</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>lift</name>
+      <h>175</h>
+      <object_id>3932979</object_id>
+      <w>211</w>
+      <y>153</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>40</h>
+      <object_id>3080285</object_id>
+      <w>42</w>
+      <y>103</y>
+      <x>212</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>8</h>
+      <object_id>3080284</object_id>
+      <w>12</w>
+      <y>107</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>29</h>
+      <object_id>3185146</object_id>
+      <w>29</w>
+      <y>155</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>basket</name>
+      <h>70</h>
+      <object_id>3185147</object_id>
+      <w>76</w>
+      <y>129</y>
+      <x>164</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sivery </attribute>
+      </attributes>
+      <h>210</h>
+      <object_id>3073354</object_id>
+      <w>174</w>
+      <y>179</y>
+      <x>13</x>
+      <name>pole</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green shirt</name>
+      <h>26</h>
+      <object_id>3212247</object_id>
+      <w>25</w>
+      <y>114</y>
+      <x>223</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A tall clock with a man on a cherry picker working on it.</caption>
+      <caption>A man in a crow's nest fixing a giant clock</caption>
+      <caption>A man up on a lift touching a large clock.</caption>
+      <caption>A man up high in a bucket truck with a large clock.</caption>
+      <caption>A man in a boom lift repairing a clock on a tower.</caption>
+    </captions>
+</image>

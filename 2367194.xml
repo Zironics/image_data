@@ -1,0 +1,37 @@
+<image>
+  <image-id>2367194</image-id>
+  <coco-id>402071</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4361614</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2158751</subject>
+      <object>3874996</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>grass</name>
+      <h>83</h>
+      <object_id>2158751</object_id>
+      <w>499</w>
+      <y>201</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>area</name>
+      <h>90</h>
+      <object_id>3874996</object_id>
+      <w>496</w>
+      <y>191</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small elephant walking across a grass covered field.</caption>
+      <caption>Small elephant standing alone in a fenced in area.</caption>
+      <caption>An elephant stands at attention in an enclosure.</caption>
+      <caption>an elephant standing behind a fence with trees in the background</caption>
+      <caption>Elephant standing in an enclosure with metal cable fence.</caption>
+    </captions>
+</image>

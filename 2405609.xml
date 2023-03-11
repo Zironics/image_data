@@ -1,0 +1,156 @@
+<image>
+  <image-id>2405609</image-id>
+  <coco-id>147543</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4623911</relationship_id>
+      <predicate>has</predicate>
+      <subject>4154730</subject>
+      <object>4154726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4632583</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4154747</subject>
+      <object>4176373</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4632584</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4154748</subject>
+      <object>4176373</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623914</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4154730</subject>
+      <object>4154731</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623915</relationship_id>
+      <predicate>standing by</predicate>
+      <subject>4154735</subject>
+      <object>4154734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4623916</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4154735</subject>
+      <object>4154736</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4632586</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4154730</subject>
+      <object>4176377</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing tennis</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>270</h>
+      <object_id>4154730</object_id>
+      <w>230</w>
+      <y>63</y>
+      <x>109</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pulled back</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>84</h>
+      <object_id>4154726</object_id>
+      <w>88</w>
+      <y>61</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <h>90</h>
+      <object_id>4154747</object_id>
+      <w>110</w>
+      <y>121</y>
+      <x>72</x>
+      <name>tennis racket</name>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>41</h>
+      <object_id>4176373</object_id>
+      <w>72</w>
+      <y>179</y>
+      <x>103</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <h>17</h>
+      <object_id>4154748</object_id>
+      <w>25</w>
+      <y>188</y>
+      <x>109</x>
+      <name>tennis ball</name>
+    </object>
+    <object>
+      <name>tank top</name>
+      <h>137</h>
+      <object_id>4154731</object_id>
+      <w>86</w>
+      <y>135</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>303</h>
+      <object_id>4154735</object_id>
+      <w>101</w>
+      <y>29</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>322</h>
+      <object_id>4154734</object_id>
+      <w>201</w>
+      <y>0</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>sunglasses</name>
+      <h>10</h>
+      <object_id>4154736</object_id>
+      <w>26</w>
+      <y>47</y>
+      <x>177</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>90</h>
+      <object_id>4176377</object_id>
+      <w>99</w>
+      <y>179</y>
+      <x>242</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young lady holding a tennis racquet and a tennis ball.</caption>
+      <caption>A woman tennis player holding a racket and tennis ball with a person in the background watching.</caption>
+      <caption>A tennis player in action on the court.</caption>
+      <caption>A woman is getting ready to serve a tennis ball.</caption>
+      <caption>The woman is holding a tennis ball beside a racket. </caption>
+    </captions>
+</image>

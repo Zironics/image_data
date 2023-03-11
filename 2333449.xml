@@ -1,0 +1,81 @@
+<image>
+  <image-id>2333449</image-id>
+  <coco-id>326176</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4032856</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2993653</subject>
+      <object>3689486</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3969894</relationship_id>
+      <predicate>at</predicate>
+      <subject>2992968</subject>
+      <object>2992969</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4020942</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>2905857</subject>
+      <object>2905858</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>water</name>
+      <h>60</h>
+      <object_id>2993653</object_id>
+      <w>134</w>
+      <y>1</y>
+      <x>361</x>
+    </object>
+    <object>
+      <name>sand</name>
+      <h>325</h>
+      <object_id>3689486</object_id>
+      <w>474</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>feet</name>
+      <h>51</h>
+      <object_id>2992968</object_id>
+      <w>125</w>
+      <y>215</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>133</h>
+      <object_id>2992969</object_id>
+      <w>282</w>
+      <y>90</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>172</h>
+      <object_id>2905857</object_id>
+      <w>248</w>
+      <y>102</y>
+      <x>122</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>267</h>
+      <object_id>2905858</object_id>
+      <w>428</w>
+      <y>42</y>
+      <x>41</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and white bird is walking on the sand.</caption>
+      <caption>A small seagull walking on the sand with traces of water and small bubbles to the side of it.</caption>
+      <caption>A sea bird with a very black face walking on a beach</caption>
+      <caption>A bird walks along the sand on a beach.</caption>
+      <caption>A black and white bird walking on sand.</caption>
+    </captions>
+</image>

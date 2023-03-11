@@ -1,0 +1,93 @@
+<image>
+  <image-id>2400173</image-id>
+  <coco-id>300632</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3313488</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1162085</subject>
+      <object>1162079</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313489</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1162086</subject>
+      <object>1162078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3313490</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1162088</subject>
+      <object>1162082</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>128</h>
+      <object_id>1162085</object_id>
+      <w>116</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light blue</attribute>
+      </attributes>
+      <name>planter</name>
+      <h>114</h>
+      <object_id>1162079</object_id>
+      <w>44</w>
+      <y>94</y>
+      <x>145</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>28</h>
+      <object_id>1162086</object_id>
+      <w>12</w>
+      <y>133</y>
+      <x>200</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>aqua</attribute>
+        <attribute>light green</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>planter</name>
+      <h>132</h>
+      <object_id>1162078</object_id>
+      <w>58</w>
+      <y>115</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>shadows</name>
+      <h>211</h>
+      <object_id>1162088</object_id>
+      <w>499</w>
+      <y>121</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>tiled</attribute>
+      </attributes>
+      <name>walkway</name>
+      <h>207</h>
+      <object_id>1162082</object_id>
+      <w>494</w>
+      <y>125</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A row of different colored vases sitting on a walkway.</caption>
+      <caption>A row of various pots with plants in them on a patio</caption>
+      <caption>Large vases with plants in them are lined up.</caption>
+      <caption>Different kinds of pots with plants stand in a row.</caption>
+      <caption>Vases are lined up on the ground in a variety of colors.</caption>
+    </captions>
+</image>

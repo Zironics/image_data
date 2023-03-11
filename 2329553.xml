@@ -1,0 +1,90 @@
+<image>
+  <image-id>2329553</image-id>
+  <coco-id>575758</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4830464</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>4673197</subject>
+      <object>4673196</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4830465</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>4673201</subject>
+      <object>4673202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4830466</relationship_id>
+      <predicate>are on top of</predicate>
+      <subject>4673203</subject>
+      <object>4673204</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>172</h>
+      <object_id>4673197</object_id>
+      <w>248</w>
+      <y>46</y>
+      <x>143</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>one</attribute>
+      </attributes>
+      <name>nest</name>
+      <h>162</h>
+      <object_id>4673196</object_id>
+      <w>383</w>
+      <y>142</y>
+      <x>10</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>stick</name>
+      <h>59</h>
+      <object_id>4673201</object_id>
+      <w>84</w>
+      <y>221</y>
+      <x>269</x>
+    </object>
+    <object>
+      <name>nest</name>
+      <h>152</h>
+      <object_id>4673202</object_id>
+      <w>447</w>
+      <y>145</y>
+      <x>16</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>feathers</name>
+      <h>40</h>
+      <object_id>4673203</object_id>
+      <w>33</w>
+      <y>43</y>
+      <x>328</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>95</h>
+      <object_id>4673204</object_id>
+      <w>106</w>
+      <y>47</y>
+      <x>282</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bird in a nest with an egg</caption>
+      <caption>A bird sitting on top of a pile of twigs next to an egg.</caption>
+      <caption>A bird in a nest with an egg in it next to the water </caption>
+      <caption>A duck has laid an egg on the nest. </caption>
+      <caption>A crested water bird sits on her riverside nest containing an egg.</caption>
+    </captions>
+</image>

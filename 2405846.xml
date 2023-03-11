@@ -1,0 +1,80 @@
+<image>
+  <image-id>2405846</image-id>
+  <coco-id>458045</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3239039</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1105836</subject>
+      <object>1105837</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3239040</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1105836</subject>
+      <object>1105837</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3239041</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1105836</subject>
+      <object>1105837</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3239045</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1105836</subject>
+      <object>1105837</object>
+    </relationship>
+    <relationship>
+      <relationship_id>703962</relationship_id>
+      <predicate>swings</predicate>
+      <subject>371536</subject>
+      <object>371537</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>46</h>
+      <object_id>1105836</object_id>
+      <w>49</w>
+      <y>27</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>46</h>
+      <object_id>1105837</object_id>
+      <w>50</w>
+      <y>32</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>young</attribute>
+      </attributes>
+      <name>baseball player</name>
+      <h>132</h>
+      <object_id>371536</object_id>
+      <w>135</w>
+      <y>138</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>bat</name>
+      <h>16</h>
+      <object_id>371537</object_id>
+      <w>50</w>
+      <y>173</y>
+      <x>449</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Little boys playing on a baseball field in baseball uniforms. </caption>
+      <caption>An umpire officiates a game of little league baseball.</caption>
+      <caption>THERE IS A BOY PLAYING BASEBALL AT THE BASE BALL FIELD </caption>
+      <caption>A baseball player holding a bat next to home plate.</caption>
+      <caption>A young boy swings a bat during a children's baseball game.</caption>
+    </captions>
+</image>

@@ -1,0 +1,54 @@
+<image>
+  <image-id>2320420</image-id>
+  <coco-id>549668</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3826097</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3112688</subject>
+      <object>3605363</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3826103</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3007004</subject>
+      <object>3605363</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>basket</name>
+      <h>62</h>
+      <object_id>3112688</object_id>
+      <w>58</w>
+      <y>376</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>112</h>
+      <object_id>3605363</object_id>
+      <w>141</w>
+      <y>386</y>
+      <x>81</x>
+    </object>
+    <object>
+      <name>rug</name>
+      <h>51</h>
+      <object_id>3007004</object_id>
+      <w>39</w>
+      <y>396</y>
+      <x>80</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom with a white sink next to a  shower.</caption>
+      <caption>a shower with a leopard print curtain on the pole</caption>
+      <caption>A bathroom with shower curtain opened and sun shining.</caption>
+      <caption>A bathroom has a tub and sink in it.</caption>
+      <caption>A view through a doorway into an empty bathroom. </caption>
+    </captions>
+</image>

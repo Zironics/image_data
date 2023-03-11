@@ -1,0 +1,88 @@
+<image>
+  <image-id>2330447</image-id>
+  <coco-id>134502</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4013080</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2899413</subject>
+      <object>2899414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4013081</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3340507</subject>
+      <object>3340508</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4013082</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3444031</subject>
+      <object>3340508</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4013083</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3444031</subject>
+      <object>3340508</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>screw</name>
+      <h>18</h>
+      <object_id>2899413</object_id>
+      <w>22</w>
+      <y>272</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red sign</name>
+      <h>309</h>
+      <object_id>2899414</object_id>
+      <w>365</w>
+      <y>10</y>
+      <x>102</x>
+    </object>
+    <object>
+      <name>top screw</name>
+      <h>18</h>
+      <object_id>3340507</object_id>
+      <w>15</w>
+      <y>24</y>
+      <x>272</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red sign</name>
+      <h>257</h>
+      <object_id>3340508</object_id>
+      <w>287</w>
+      <y>19</y>
+      <x>148</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>symphony conductor</attribute>
+      </attributes>
+      <name>sticker</name>
+      <h>89</h>
+      <object_id>3444031</object_id>
+      <w>67</w>
+      <y>205</y>
+      <x>206</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a stop sign that appears to be in front ,of a building.</caption>
+      <caption>A stop sign that is in Spanish, in the day time.</caption>
+      <caption>A stop sign in a foreign language with some picture glued to it.</caption>
+      <caption>This red street sign says alto and had a picture on it</caption>
+      <caption>Sticker is put on a red stop sign on the corner</caption>
+    </captions>
+</image>

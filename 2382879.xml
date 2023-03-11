@@ -1,0 +1,65 @@
+<image>
+  <image-id>2382879</image-id>
+  <coco-id>536791</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1845889</relationship_id>
+      <predicate>OF</predicate>
+      <subject>695511</subject>
+      <object>695512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1845890</relationship_id>
+      <predicate>OF</predicate>
+      <subject>695513</subject>
+      <object>695512</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1845891</relationship_id>
+      <predicate>OF</predicate>
+      <subject>695514</subject>
+      <object>695512</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>eye</name>
+      <h>1</h>
+      <object_id>695511</object_id>
+      <w>8</w>
+      <y>93</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>81</h>
+      <object_id>695512</object_id>
+      <w>80</w>
+      <y>78</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>1</h>
+      <object_id>695513</object_id>
+      <w>1</w>
+      <y>101</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>mouth</name>
+      <h>12</h>
+      <object_id>695514</object_id>
+      <w>18</w>
+      <y>99</y>
+      <x>216</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Man on a skateboard coming down a brick wall.</caption>
+      <caption>A young man riding a skateboard over a stone bench</caption>
+      <caption>A skateboarder rides along a diagonally slanted wall.</caption>
+      <caption>A skateboarder doing tricks on the walls outside</caption>
+      <caption>an image of a boy playing on a skateboard</caption>
+    </captions>
+</image>

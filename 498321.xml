@@ -1,0 +1,80 @@
+<image>
+  <image-id>498321</image-id>
+  <coco-id>560396</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4250023</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1575460</subject>
+      <object>3789854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4250024</relationship_id>
+      <predicate>near</predicate>
+      <subject>3789854</subject>
+      <object>1575463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3803509</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1575466</subject>
+      <object>1575467</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>straw</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>108</h>
+      <object_id>1575460</object_id>
+      <w>73</w>
+      <y>314</y>
+      <x>359</x>
+    </object>
+    <object>
+      <name>beach</name>
+      <h>294</h>
+      <object_id>3789854</object_id>
+      <w>1000</w>
+      <y>383</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>32</h>
+      <object_id>1575463</object_id>
+      <w>365</w>
+      <y>369</y>
+      <x>656</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>194</h>
+      <object_id>1575466</object_id>
+      <w>27</w>
+      <y>306</y>
+      <x>197</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>270</h>
+      <object_id>1575467</object_id>
+      <w>248</w>
+      <y>232</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A beach covered with lots of brown umbrellas.</caption>
+      <caption>Rows of chairs and umbrellas on a sandy beach.</caption>
+      <caption>A group of straw beach umbrellas are set up on a beach.</caption>
+      <caption>Beach chairs sit next to huts on the water.</caption>
+      <caption>Umbrellas and chaise lounges on the sand near a beach.</caption>
+    </captions>
+</image>

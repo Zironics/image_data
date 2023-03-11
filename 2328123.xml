@@ -1,0 +1,51 @@
+<image>
+  <image-id>2328123</image-id>
+  <coco-id>459715</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4156358</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3209150</subject>
+      <object>3366776</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4156359</relationship_id>
+      <predicate>inside</predicate>
+      <subject>3209150</subject>
+      <object>3736307</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>374</h>
+      <object_id>3209150</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>seatbelt</name>
+      <h>338</h>
+      <object_id>3366776</object_id>
+      <w>282</w>
+      <y>36</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>371</h>
+      <object_id>3736307</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting in the drivers seat of a vehicle wearing his seat belt.</caption>
+      <caption>A man wearing a seat belt and glasses smiling.</caption>
+      <caption>A smiling man sitting in a car with a seatbelt on.</caption>
+      <caption>A man in a tan shirt and glasses in a car</caption>
+      <caption>A business man in a tie sits in the driver's seat of a car</caption>
+    </captions>
+</image>

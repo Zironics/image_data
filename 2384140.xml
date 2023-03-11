@@ -1,0 +1,40 @@
+<image>
+  <image-id>2384140</image-id>
+  <coco-id>97895</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4699840</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4344655</subject>
+      <object>4344656</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>358</h>
+      <object_id>4344655</object_id>
+      <w>113</w>
+      <y>44</y>
+      <x>310</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>tennis racket</name>
+      <h>62</h>
+      <object_id>4344656</object_id>
+      <w>144</w>
+      <y>343</y>
+      <x>221</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two women are next to a tennis court with racquets.</caption>
+      <caption>a couple of women are holding tennis rackets</caption>
+      <caption>Two women on the tennis court at a tennis match </caption>
+      <caption>Some people are about to go play a game. </caption>
+      <caption>A doubles tennis team walks onto the court.</caption>
+    </captions>
+</image>

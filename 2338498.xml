@@ -1,0 +1,110 @@
+<image>
+  <image-id>2338498</image-id>
+  <coco-id>208251</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2834379</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>954007</subject>
+      <object>953999</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2834380</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>954008</subject>
+      <object>953999</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2834381</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>954009</subject>
+      <object>953999</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2834382</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>954011</subject>
+      <object>954002</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2834383</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>954010</subject>
+      <object>954002</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>writing</name>
+      <h>18</h>
+      <object_id>954007</object_id>
+      <w>21</w>
+      <y>246</y>
+      <x>306</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>229</h>
+      <object_id>953999</object_id>
+      <w>469</w>
+      <y>119</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>vent</name>
+      <h>12</h>
+      <object_id>954008</object_id>
+      <w>56</w>
+      <y>248</y>
+      <x>409</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>license plate</name>
+      <h>13</h>
+      <object_id>954009</object_id>
+      <w>25</w>
+      <y>320</y>
+      <x>429</x>
+    </object>
+    <object>
+      <name>stripe</name>
+      <h>13</h>
+      <object_id>954011</object_id>
+      <w>64</w>
+      <y>182</y>
+      <x>78</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>house</name>
+      <h>220</h>
+      <object_id>954002</object_id>
+      <w>418</w>
+      <y>24</y>
+      <x>77</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>33</h>
+      <object_id>954010</object_id>
+      <w>21</w>
+      <y>198</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white truck driving down a street next to a building.</caption>
+      <caption>A tractor trailer parked near a house. </caption>
+      <caption>A large truck with construction equipment is parked on a flatbed.</caption>
+      <caption>A large truck with a crane on the back in a residential area.</caption>
+      <caption>a truck with wood in the back next to a house</caption>
+    </captions>
+</image>

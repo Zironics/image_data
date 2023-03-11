@@ -1,0 +1,37 @@
+<image>
+  <image-id>2397260</image-id>
+  <coco-id>372201</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4735485</relationship_id>
+      <predicate>at end of</predicate>
+      <subject>4429556</subject>
+      <object>4429557</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>19</h>
+      <object_id>4429556</object_id>
+      <w>16</w>
+      <y>167</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>terminal</name>
+      <h>178</h>
+      <object_id>4429557</object_id>
+      <w>201</w>
+      <y>133</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train sitting in a train station under a sky light.</caption>
+      <caption>A train parked at a covered railway station</caption>
+      <caption>A train is driving through a train station.</caption>
+      <caption>A train is pulling into an indoor train station.</caption>
+      <caption>An indoor train station with train and person.</caption>
+    </captions>
+</image>

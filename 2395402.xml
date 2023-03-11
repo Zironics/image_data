@@ -1,0 +1,159 @@
+<image>
+  <image-id>2395402</image-id>
+  <coco-id>263463</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3387262</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1205764</subject>
+      <object>1205772</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3387263</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1205769</subject>
+      <object>1205773</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3387264</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1205775</subject>
+      <object>1205776</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3387265</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1205769</subject>
+      <object>1205773</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3387266</relationship_id>
+      <predicate>reflected in</predicate>
+      <subject>1205764</subject>
+      <object>1205775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3387267</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1205775</subject>
+      <object>1205778</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3387268</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1205773</subject>
+      <object>1205769</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3387269</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1205768</subject>
+      <object>1205764</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>reflected</attribute>
+        <attribute>grey</attribute>
+        <attribute>collared</attribute>
+        <attribute>hanging</attribute>
+        <attribute>reflecting</attribute>
+        <attribute>fluffy</attribute>
+        <attribute>head out</attribute>
+        <attribute>headed</attribute>
+        <attribute>eager</attribute>
+        <attribute>loveable</attribute>
+        <attribute>nice</attribute>
+        <attribute>adorable</attribute>
+        <attribute>excited</attribute>
+        <attribute>curious</attribute>
+        <attribute>alert</attribute>
+        <attribute>cute</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>109</h>
+      <object_id>1205764</object_id>
+      <w>87</w>
+      <y>84</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>face</name>
+      <h>33</h>
+      <object_id>1205772</object_id>
+      <w>35</w>
+      <y>88</y>
+      <x>262</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>trimmed</attribute>
+        <attribute>double</attribute>
+      </attributes>
+      <name>window</name>
+      <h>40</h>
+      <object_id>1205769</object_id>
+      <w>61</w>
+      <y>0</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>box</name>
+      <h>32</h>
+      <object_id>1205773</object_id>
+      <w>62</w>
+      <y>25</y>
+      <x>360</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>mirror</name>
+      <h>262</h>
+      <object_id>1205775</object_id>
+      <w>385</w>
+      <y>46</y>
+      <x>52</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>304</h>
+      <object_id>1205776</object_id>
+      <w>411</w>
+      <y>18</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflected</attribute>
+      </attributes>
+      <name>building</name>
+      <h>327</h>
+      <object_id>1205778</object_id>
+      <w>470</w>
+      <y>2</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>reflected</attribute>
+      </attributes>
+      <name>mountain</name>
+      <h>97</h>
+      <object_id>1205768</object_id>
+      <w>122</w>
+      <y>146</y>
+      <x>269</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A dog hanging out of a back door window.</caption>
+      <caption>A dog is shown in a car rear view mirror.</caption>
+      <caption>A dog sticks his head out of a car window.</caption>
+      <caption>A dog looks out of the window as the car driver goes past a historic town.</caption>
+      <caption>a reflection of a dog looking out a window in a side view mirror </caption>
+    </captions>
+</image>

@@ -1,0 +1,58 @@
+<image>
+  <image-id>2391538</image-id>
+  <coco-id>63418</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1126683</relationship_id>
+      <predicate>holding</predicate>
+      <subject>488253</subject>
+      <object>488254</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1126684</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>488253</subject>
+      <object>488258</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>pictured</attribute>
+        <attribute>female</attribute>
+      </attributes>
+      <name>tennis player</name>
+      <h>255</h>
+      <object_id>488253</object_id>
+      <w>211</w>
+      <y>56</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>28</h>
+      <object_id>488254</object_id>
+      <w>94</w>
+      <y>115</y>
+      <x>107</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>27</h>
+      <object_id>488258</object_id>
+      <w>34</w>
+      <y>56</y>
+      <x>162</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two photos of a woman tennis player swinging.</caption>
+      <caption>A woman running to return a hit on a tennis court</caption>
+      <caption>An attractive woman running on a tennis court while holding a tennis racquet.</caption>
+      <caption>A woman running down a tennis court holding a racket.</caption>
+      <caption>A woman is running and swinging her tennis racket</caption>
+    </captions>
+</image>

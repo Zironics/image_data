@@ -1,0 +1,194 @@
+<image>
+  <image-id>2334931</image-id>
+  <coco-id>251079</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3991666</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2665569</subject>
+      <object>2202298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4452291</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>3673097</subject>
+      <object>2202298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4452292</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2645587</subject>
+      <object>2627904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991667</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2592500</subject>
+      <object>3347645</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991668</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>2229796</subject>
+      <object>2202298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991669</relationship_id>
+      <predicate>on ground by</predicate>
+      <subject>3673097</subject>
+      <object>2202298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991670</relationship_id>
+      <predicate>covered in</predicate>
+      <subject>3347645</subject>
+      <object>3673098</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991673</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>3673097</subject>
+      <object>2665569</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991674</relationship_id>
+      <predicate>and</predicate>
+      <subject>2645587</subject>
+      <object>2229796</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991675</relationship_id>
+      <predicate>outside of</predicate>
+      <subject>3673097</subject>
+      <object>2202298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3991676</relationship_id>
+      <predicate>in corner of</predicate>
+      <subject>2947142</subject>
+      <object>2202298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3983277</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2947142</subject>
+      <object>2947143</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bicycle</name>
+      <h>82</h>
+      <object_id>2665569</object_id>
+      <w>136</w>
+      <y>242</y>
+      <x>134</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>old</attribute>
+      </attributes>
+      <name>barn</name>
+      <h>319</h>
+      <object_id>2202298</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <h>88</h>
+      <object_id>3673097</object_id>
+      <w>91</w>
+      <y>231</y>
+      <x>44</x>
+      <name>device</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <h>129</h>
+      <object_id>2645587</object_id>
+      <w>126</w>
+      <y>182</y>
+      <x>317</x>
+      <name>door</name>
+    </object>
+    <object>
+      <name>barn</name>
+      <h>281</h>
+      <object_id>2627904</object_id>
+      <w>452</w>
+      <y>45</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shingles</name>
+      <h>60</h>
+      <object_id>2592500</object_id>
+      <w>277</w>
+      <y>25</y>
+      <x>94</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>barn roof</attribute>
+      </attributes>
+      <name>roof</name>
+      <h>126</h>
+      <object_id>3347645</object_id>
+      <w>473</w>
+      <y>12</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white wall</name>
+      <h>185</h>
+      <object_id>2229796</object_id>
+      <w>479</w>
+      <y>129</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>shingles</name>
+      <h>137</h>
+      <object_id>3673098</object_id>
+      <w>473</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <h>20</h>
+      <object_id>2947142</object_id>
+      <w>14</w>
+      <y>272</y>
+      <x>465</x>
+      <name>plant</name>
+    </object>
+    <object>
+      <name>terracotta planter</name>
+      <h>21</h>
+      <object_id>2947143</object_id>
+      <w>23</w>
+      <y>288</y>
+      <x>453</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bike parked in front of a white wall.</caption>
+      <caption>A bicycle is parked near a green door.</caption>
+      <caption>A building with a green door has a bicycle outside of it.</caption>
+      <caption>A bicycle leaning up on a white building with a green door with the top open.</caption>
+      <caption>This is a house with a green door and a bike on the side of the house.</caption>
+    </captions>
+</image>

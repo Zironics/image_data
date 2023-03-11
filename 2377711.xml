@@ -1,0 +1,62 @@
+<image>
+  <image-id>2377711</image-id>
+  <coco-id>391615</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4299222</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2252858</subject>
+      <object>2252859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997242</relationship_id>
+      <predicate>containing</predicate>
+      <subject>2735444</subject>
+      <object>2929226</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>pulled meat</name>
+      <h>117</h>
+      <object_id>2252858</object_id>
+      <w>56</w>
+      <y>115</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>sandwich</name>
+      <h>202</h>
+      <object_id>2252859</object_id>
+      <w>257</w>
+      <y>74</y>
+      <x>94</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>condiment</attribute>
+      </attributes>
+      <h>104</h>
+      <object_id>2735444</object_id>
+      <w>69</w>
+      <y>104</y>
+      <x>292</x>
+      <name>packet</name>
+    </object>
+    <object>
+      <name>wipe</name>
+      <h>107</h>
+      <object_id>2929226</object_id>
+      <w>73</w>
+      <y>101</y>
+      <x>292</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A barbecue beef sandwich and coleslaw on a cardboard tray</caption>
+      <caption>The lunch consists of a pulled pork sandwich and coleslaw.</caption>
+      <caption>A pulled pork sandwich and coleslaw in a paper dish on a pink, plaid table cloth.</caption>
+      <caption>A plate of food with a sandwich and salad is seen.</caption>
+      <caption>The meal is ready to be eaten on the table.</caption>
+    </captions>
+</image>

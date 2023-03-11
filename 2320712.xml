@@ -1,0 +1,91 @@
+<image>
+  <image-id>2320712</image-id>
+  <coco-id>244812</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3854765</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3228576</subject>
+      <object>3228577</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251662</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3242382</subject>
+      <object>3242383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3854767</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3228576</subject>
+      <object>3618555</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3854768</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3228576</subject>
+      <object>2759585</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>94</h>
+      <object_id>3228576</object_id>
+      <w>94</w>
+      <y>22</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>57</h>
+      <object_id>3228577</object_id>
+      <w>104</w>
+      <y>60</y>
+      <x>175</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>60</h>
+      <object_id>3242382</object_id>
+      <w>107</w>
+      <y>50</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>312</h>
+      <object_id>3242383</object_id>
+      <w>336</w>
+      <y>13</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>wet suit</name>
+      <h>48</h>
+      <object_id>3618555</object_id>
+      <w>29</w>
+      <y>26</y>
+      <x>202</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>calm</attribute>
+        <attribute>flow</attribute>
+      </attributes>
+      <name>water</name>
+      <h>496</h>
+      <object_id>2759585</object_id>
+      <w>371</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer standing on a surfboard in the ocean.</caption>
+      <caption>A wave surfer looks toward shore at red flowers.</caption>
+      <caption>A man stands on a surf board and rides a wave.</caption>
+      <caption>A surfer on choppy waves is looking at the tranquil red flowers peering out of the shore.</caption>
+      <caption>A person on a water board riding a wake.</caption>
+    </captions>
+</image>

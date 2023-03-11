@@ -1,0 +1,105 @@
+<image>
+  <image-id>2377623</image-id>
+  <coco-id>238392</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3998819</relationship_id>
+      <predicate>with</predicate>
+      <subject>1658717</subject>
+      <object>1658718</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998823</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2240828</subject>
+      <object>2473045</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998824</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2240828</subject>
+      <object>2240830</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3998825</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2013641</subject>
+      <object>2013642</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>building</name>
+      <h>270</h>
+      <object_id>1658717</object_id>
+      <w>60</w>
+      <y>38</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>35</h>
+      <object_id>1658718</object_id>
+      <w>38</w>
+      <y>186</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>guy</name>
+      <h>20</h>
+      <object_id>2240828</object_id>
+      <w>27</w>
+      <y>478</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cotton</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>9</h>
+      <object_id>2473045</object_id>
+      <w>20</w>
+      <y>484</y>
+      <x>124</x>
+      <name>blue t-shirt</name>
+    </object>
+    <object>
+      <name>sunglasses</name>
+      <h>4</h>
+      <object_id>2240830</object_id>
+      <w>9</w>
+      <y>484</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bronze</attribute>
+      </attributes>
+      <name>lion statue</name>
+      <h>82</h>
+      <object_id>2013641</object_id>
+      <w>85</w>
+      <y>382</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>concrete</name>
+      <h>48</h>
+      <object_id>2013642</object_id>
+      <w>330</w>
+      <y>449</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People in the street whit Big Ben in the background.</caption>
+      <caption>A building with a clock on the front of it. </caption>
+      <caption>A crowd gathered in a park with a clock tower in the background.</caption>
+      <caption>a group of people crowded together in front of a bell tower</caption>
+      <caption>a large mass of people and a church clock tower </caption>
+    </captions>
+</image>

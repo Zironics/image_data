@@ -1,0 +1,82 @@
+<image>
+  <image-id>2394735</image-id>
+  <coco-id>381630</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4289327</relationship_id>
+      <predicate>ON</predicate>
+      <subject>666586</subject>
+      <object>3823749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289328</relationship_id>
+      <predicate>ON</predicate>
+      <subject>666587</subject>
+      <object>3823749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289329</relationship_id>
+      <predicate>ON</predicate>
+      <subject>666586</subject>
+      <object>3823749</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4289330</relationship_id>
+      <predicate>ON</predicate>
+      <subject>666589</subject>
+      <object>3823749</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> grey</attribute>
+      </attributes>
+      <name>grey train</name>
+      <h>57</h>
+      <object_id>666586</object_id>
+      <w>190</w>
+      <y>178</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>105</h>
+      <object_id>3823749</object_id>
+      <w>118</w>
+      <y>225</y>
+      <x>380</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> grey</attribute>
+        <attribute> train's</attribute>
+      </attributes>
+      <name>car on the tracks</name>
+      <h>38</h>
+      <object_id>666587</object_id>
+      <w>189</w>
+      <y>184</y>
+      <x>130</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> train's</attribute>
+        <attribute> grey</attribute>
+      </attributes>
+      <name>car on the tracks</name>
+      <h>23</h>
+      <object_id>666589</object_id>
+      <w>30</w>
+      <y>193</y>
+      <x>278</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Subway train and tracks in an urban environment.  </caption>
+      <caption>A train is going on an above ground bridge.</caption>
+      <caption>A train goes over a bridge in the middle of a city. </caption>
+      <caption>The view of a rail line in a city</caption>
+      <caption>View of city and train moving on tracks.</caption>
+    </captions>
+</image>

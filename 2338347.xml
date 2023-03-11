@@ -1,0 +1,62 @@
+<image>
+  <image-id>2338347</image-id>
+  <coco-id>32405</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4063975</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3702079</subject>
+      <object>3702080</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063977</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3468959</subject>
+      <object>3468960</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>newspaper</name>
+      <h>74</h>
+      <object_id>3702079</object_id>
+      <w>117</w>
+      <y>248</y>
+      <x>121</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bathroom floor</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>382</h>
+      <object_id>3702080</object_id>
+      <w>490</w>
+      <y>10</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>hole</name>
+      <h>29</h>
+      <object_id>3468959</object_id>
+      <w>39</w>
+      <y>231</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>toilet seat</name>
+      <h>57</h>
+      <object_id>3468960</object_id>
+      <w>91</w>
+      <y>222</y>
+      <x>201</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat sits on the edge of a toilet bowl.</caption>
+      <caption>A cat going to the bathroom in a toilet.</caption>
+      <caption>A cat in the bathroom sitting on a toilet.</caption>
+      <caption>a cat that is sitting on top of a toilet</caption>
+      <caption>A cat in a bathroom sitting on a toilet.</caption>
+    </captions>
+</image>

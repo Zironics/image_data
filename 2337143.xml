@@ -1,0 +1,93 @@
+<image>
+  <image-id>2337143</image-id>
+  <coco-id>504635</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4082885</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2113184</subject>
+      <object>3709590</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082886</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2113184</subject>
+      <object>3709591</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082887</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2113184</subject>
+      <object>3709592</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082888</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3709593</subject>
+      <object>3232318</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>50</h>
+      <object_id>2113184</object_id>
+      <w>30</w>
+      <y>146</y>
+      <x>274</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>181</h>
+      <object_id>3709590</object_id>
+      <w>169</w>
+      <y>133</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>180</h>
+      <object_id>3709591</object_id>
+      <w>149</w>
+      <y>144</y>
+      <x>254</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>179</h>
+      <object_id>3709592</object_id>
+      <w>114</w>
+      <y>133</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>leaves</name>
+      <h>77</h>
+      <object_id>3709593</object_id>
+      <w>209</w>
+      <y>0</y>
+      <x>84</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>tall tree</name>
+      <h>68</h>
+      <object_id>3232318</object_id>
+      <w>162</w>
+      <y>53</y>
+      <x>69</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>Three zebras are standing in the grass by the trees.</caption>
+      <caption>A group of zebras in grassy field next to trees.</caption>
+      <caption>A group of zebra's running through a field.</caption>
+      <caption>Three zebras stand together in a field of grass.</caption>
+      <caption>Three zebras in the field with trees and grass</caption>
+    </captions>
+</image>

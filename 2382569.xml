@@ -1,0 +1,106 @@
+<image>
+  <image-id>2382569</image-id>
+  <coco-id>210791</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4151516</relationship_id>
+      <predicate>for</predicate>
+      <subject>2342095</subject>
+      <object>3734433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4151556</relationship_id>
+      <predicate>covers</predicate>
+      <subject>3445403</subject>
+      <object>3445404</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3920838</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3505478</subject>
+      <object>3505479</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3920841</relationship_id>
+      <predicate>has</predicate>
+      <subject>2417076</subject>
+      <object>2417077</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>50</h>
+      <object_id>2342095</object_id>
+      <w>53</w>
+      <y>1</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>not litter</name>
+      <h>36</h>
+      <object_id>3734433</object_id>
+      <w>36</w>
+      <y>12</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>30</h>
+      <object_id>3445403</object_id>
+      <w>157</w>
+      <y>445</y>
+      <x>12</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirt</attribute>
+      </attributes>
+      <name>ground</name>
+      <h>153</h>
+      <object_id>3445404</object_id>
+      <w>330</w>
+      <y>343</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>346</h>
+      <object_id>3505478</object_id>
+      <w>138</w>
+      <y>99</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>68</h>
+      <object_id>3505479</object_id>
+      <w>73</w>
+      <y>97</y>
+      <x>63</x>
+    </object>
+    <object>
+      <name>shoe</name>
+      <h>33</h>
+      <object_id>2417076</object_id>
+      <w>38</w>
+      <y>418</y>
+      <x>121</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>9</h>
+      <object_id>2417077</object_id>
+      <w>12</w>
+      <y>419</y>
+      <x>135</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A little boy in the dirt with a bat.</caption>
+      <caption>a kid in a helmet is holding a baseball bat</caption>
+      <caption>A boy getting ready to hit the baseball.</caption>
+      <caption>Batter up as the boy behind the fence watches intently.</caption>
+      <caption>A little boy at a baseball game holding a bat and wearing a red helmet. </caption>
+    </captions>
+</image>

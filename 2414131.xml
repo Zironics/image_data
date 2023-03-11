@@ -1,0 +1,143 @@
+<image>
+  <image-id>2414131</image-id>
+  <coco-id>246759</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>153471</relationship_id>
+      <predicate>IN</predicate>
+      <subject>159349</subject>
+      <object>159350</object>
+    </relationship>
+    <relationship>
+      <relationship_id>153472</relationship_id>
+      <predicate>ON</predicate>
+      <subject>159347</subject>
+      <object>159344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>153473</relationship_id>
+      <predicate>hanging over</predicate>
+      <subject>159352</subject>
+      <object>159344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>153474</relationship_id>
+      <predicate>ON</predicate>
+      <subject>159359</subject>
+      <object>159344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>153475</relationship_id>
+      <predicate>ON</predicate>
+      <subject>159363</subject>
+      <object>159344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>153476</relationship_id>
+      <predicate>above</predicate>
+      <subject>159352</subject>
+      <object>159344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>153477</relationship_id>
+      <predicate>next to</predicate>
+      <subject>159345</subject>
+      <object>159351</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>reflection</name>
+      <h>26</h>
+      <object_id>159349</object_id>
+      <w>26</w>
+      <y>149</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>bus window</name>
+      <h>39</h>
+      <object_id>159350</object_id>
+      <w>25</w>
+      <y>138</y>
+      <x>215</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>19</h>
+      <object_id>159347</object_id>
+      <w>47</w>
+      <y>177</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>parked</attribute>
+        <attribute>mini</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>101</h>
+      <object_id>159344</object_id>
+      <w>254</w>
+      <y>125</y>
+      <x>101</x>
+    </object>
+    <object>
+      <name>power cable</name>
+      <h>51</h>
+      <object_id>159352</object_id>
+      <w>499</w>
+      <y>8</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>number 1486</name>
+      <h>7</h>
+      <object_id>159359</object_id>
+      <w>13</w>
+      <y>142</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>word</name>
+      <h>13</h>
+      <object_id>159363</object_id>
+      <w>29</w>
+      <y>183</y>
+      <x>222</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>square</attribute>
+      </attributes>
+      <name>bush</name>
+      <h>51</h>
+      <object_id>159345</object_id>
+      <w>60</w>
+      <y>163</y>
+      <x>352</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>46</h>
+      <object_id>159351</object_id>
+      <w>77</w>
+      <y>164</y>
+      <x>404</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small bus with the word "Orbit" painted on it's side.</caption>
+      <caption>A blue bus on the road during the day.</caption>
+      <caption>A short blue bus driving down the stret</caption>
+      <caption>A transportation bus parked in the parking lot </caption>
+      <caption>A blue Orbit bus is parked in front of some buildings.</caption>
+    </captions>
+</image>

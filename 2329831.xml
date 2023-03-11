@@ -1,0 +1,59 @@
+<image>
+  <image-id>2329831</image-id>
+  <coco-id>15272</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4126563</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3184447</subject>
+      <object>3724800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3978487</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2796398</subject>
+      <object>2796399</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>blossoms</name>
+      <h>52</h>
+      <object_id>3184447</object_id>
+      <w>48</w>
+      <y>43</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>497</h>
+      <object_id>3724800</object_id>
+      <w>256</w>
+      <y>0</y>
+      <x>73</x>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>74</h>
+      <object_id>2796398</object_id>
+      <w>192</w>
+      <y>35</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>489</h>
+      <object_id>2796399</object_id>
+      <w>329</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A red light is a wonderful contrast to the pink leaves on trees</caption>
+      <caption>A stoplight that has turned red on a road lined with trees that are in bloom.</caption>
+      <caption>A traffic light in front of trees with white blossoms.</caption>
+      <caption>a beautiful red bud tree full of flowers under a stop light </caption>
+      <caption>A traffic light hanging in front of blossoming trees.</caption>
+    </captions>
+</image>

@@ -1,0 +1,46 @@
+<image>
+  <image-id>2339059</image-id>
+  <coco-id>213596</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4795797</relationship_id>
+      <predicate>has</predicate>
+      <subject>4587961</subject>
+      <object>4587960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4795798</relationship_id>
+      <predicate>has</predicate>
+      <subject>4587961</subject>
+      <object>4587960</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bench</name>
+      <h>327</h>
+      <object_id>4587961</object_id>
+      <w>389</w>
+      <y>42</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>slat</name>
+      <h>121</h>
+      <object_id>4587960</object_id>
+      <w>298</w>
+      <y>138</y>
+      <x>150</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bench dedicated to someone with a weird edge </caption>
+      <caption>A wooden park bench on the side of a trail.</caption>
+      <caption>An unoccupied park bench in the woods with a memorial plaque.</caption>
+      <caption>An empty wooden bench in a sunny wood contains two small labels.</caption>
+      <caption>A wooden bench in the dirt by a forest.</caption>
+    </captions>
+</image>

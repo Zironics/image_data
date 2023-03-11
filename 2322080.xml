@@ -1,0 +1,90 @@
+<image>
+  <image-id>2322080</image-id>
+  <coco-id>157160</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3653496</relationship_id>
+      <predicate>has</predicate>
+      <subject>3507914</subject>
+      <object>2901571</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3653501</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3313651</subject>
+      <object>3530314</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3653503</relationship_id>
+      <predicate>has</predicate>
+      <subject>2950466</subject>
+      <object>2950465</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>batter</name>
+      <h>223</h>
+      <object_id>3507914</object_id>
+      <w>120</w>
+      <y>51</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>69</h>
+      <object_id>2901571</object_id>
+      <w>97</w>
+      <y>148</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>134</h>
+      <object_id>3313651</object_id>
+      <w>182</w>
+      <y>60</y>
+      <x>317</x>
+    </object>
+    <object>
+      <name>infield</name>
+      <h>233</h>
+      <object_id>3530314</object_id>
+      <w>495</w>
+      <y>6</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>umpire</name>
+      <h>215</h>
+      <object_id>2950466</object_id>
+      <w>148</w>
+      <y>114</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue shirt</name>
+      <h>80</h>
+      <object_id>2950465</object_id>
+      <w>122</w>
+      <y>141</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A baseball player is getting ready to hit the ball as the catcher and umpire watch.</caption>
+      <caption>A baseball player preparing to swing at a pitch.</caption>
+      <caption>Hind view of a baseball player, an umpire, and a catcher.</caption>
+      <caption>The baseball players are experiencing an intense game.</caption>
+      <caption>A hitter is at bat in a baseball game.</caption>
+    </captions>
+</image>

@@ -1,0 +1,51 @@
+<image>
+  <image-id>2345452</image-id>
+  <coco-id>44820</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4429875</relationship_id>
+      <predicate>swinging</predicate>
+      <subject>2104923</subject>
+      <object>3135546</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4429876</relationship_id>
+      <predicate>gripping</predicate>
+      <subject>3912308</subject>
+      <object>3135546</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>240</h>
+      <object_id>2104923</object_id>
+      <w>99</w>
+      <y>167</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>racket</name>
+      <h>75</h>
+      <object_id>3135546</object_id>
+      <w>46</w>
+      <y>129</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>16</h>
+      <object_id>3912308</object_id>
+      <w>19</w>
+      <y>198</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl playing tennis that is in mid serve.</caption>
+      <caption>A woman in white shirt and blue skirt playing tennis.</caption>
+      <caption>a female tennis player hits a unseen ball on coart</caption>
+      <caption>A woman wearing a cap playing tennis on a beautiful day.</caption>
+      <caption>a tennis player has just finished swinging her racket</caption>
+    </captions>
+</image>

@@ -1,0 +1,87 @@
+<image>
+  <image-id>2326803</image-id>
+  <coco-id>29074</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4476320</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3020004</subject>
+      <object>3020005</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476321</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3300086</subject>
+      <object>2785090</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4476322</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3481182</subject>
+      <object>3481183</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>wood</attribute>
+      </attributes>
+      <name>beam</name>
+      <h>27</h>
+      <object_id>3020004</object_id>
+      <w>43</w>
+      <y>42</y>
+      <x>320</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>132</h>
+      <object_id>3020005</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>tv</name>
+      <h>25</h>
+      <object_id>3300086</object_id>
+      <w>36</w>
+      <y>145</y>
+      <x>235</x>
+    </object>
+    <object>
+      <h>139</h>
+      <object_id>2785090</object_id>
+      <w>225</w>
+      <y>59</y>
+      <x>218</x>
+      <name>wall</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>pillow</name>
+      <h>26</h>
+      <object_id>3481182</object_id>
+      <w>43</w>
+      <y>210</y>
+      <x>418</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>90</h>
+      <object_id>3481183</object_id>
+      <w>117</w>
+      <y>194</y>
+      <x>382</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A view of a bedroom with a very nice setup.</caption>
+      <caption>There is a bed, a fireplace and chairs in a bedroom.</caption>
+      <caption>A bedroom with a fireplace, bed, armchairs, and window blinds.</caption>
+      <caption>A bedroom with a large bed and a fireplace. </caption>
+      <caption>This bedroom features a plump bed and a large window.</caption>
+    </captions>
+</image>

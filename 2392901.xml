@@ -1,0 +1,43 @@
+<image>
+  <image-id>2392901</image-id>
+  <coco-id>334736</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3422643</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1224873</subject>
+      <object>1224874</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3422651</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1224873</subject>
+      <object>1224874</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ereal</name>
+      <h>42</h>
+      <object_id>1224873</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>counter top</name>
+      <h>43</h>
+      <object_id>1224874</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate topped with food next to a metal spoon.</caption>
+      <caption>A bowl filled with salad with meat on top</caption>
+      <caption>a plate with pasta and meat mixed together</caption>
+      <caption>The salad topped with meat has a spoon on the plate.</caption>
+      <caption>A spoon rests across a bowl containing a fancy salad. </caption>
+    </captions>
+</image>

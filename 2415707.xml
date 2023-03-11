@@ -1,0 +1,106 @@
+<image>
+  <image-id>2415707</image-id>
+  <coco-id>372669</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3679618</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3478792</subject>
+      <object>3044032</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679619</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3426397</subject>
+      <object>3426398</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4004628</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3091547</subject>
+      <object>3678750</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253797</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3230892</subject>
+      <object>3230893</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown and black</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>154</h>
+      <object_id>3478792</object_id>
+      <w>260</w>
+      <y>220</y>
+      <x>205</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>365</h>
+      <object_id>3044032</object_id>
+      <w>393</w>
+      <y>8</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>364</h>
+      <object_id>3426397</object_id>
+      <w>351</w>
+      <y>10</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>57</h>
+      <object_id>3426398</object_id>
+      <w>78</w>
+      <y>6</y>
+      <x>281</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>49</h>
+      <object_id>3091547</object_id>
+      <w>55</w>
+      <y>139</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>360</h>
+      <object_id>3678750</object_id>
+      <w>313</w>
+      <y>11</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>62</h>
+      <object_id>3230892</object_id>
+      <w>56</w>
+      <y>207</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>dog</name>
+      <h>88</h>
+      <object_id>3230893</object_id>
+      <w>205</w>
+      <y>178</y>
+      <x>130</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman sitting on a couch next to dogs.</caption>
+      <caption>A woman sitting on a couch with two dogs.</caption>
+      <caption>A woman wearing a hat sits on a couch next to two brown and black, long haired dogs.</caption>
+      <caption>A lady sitting on a couch along side a couple of dogs.</caption>
+      <caption>A woman is sitting on a couch with two dogs.</caption>
+    </captions>
+</image>

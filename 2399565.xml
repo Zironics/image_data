@@ -1,0 +1,99 @@
+<image>
+  <image-id>2399565</image-id>
+  <coco-id>187001</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4682329</relationship_id>
+      <predicate>sitting at</predicate>
+      <subject>4301728</subject>
+      <object>4301733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682330</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4301731</subject>
+      <object>4301733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682331</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4301732</subject>
+      <object>4301733</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682332</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4301728</subject>
+      <object>4301735</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4682333</relationship_id>
+      <predicate>sitting at</predicate>
+      <subject>4301728</subject>
+      <object>4301738</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>working</attribute>
+      </attributes>
+      <name>man</name>
+      <h>241</h>
+      <object_id>4301728</object_id>
+      <w>181</w>
+      <y>118</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>121</h>
+      <object_id>4301733</object_id>
+      <w>333</w>
+      <y>234</y>
+      <x>148</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>106</h>
+      <object_id>4301731</object_id>
+      <w>137</w>
+      <y>192</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>94</h>
+      <object_id>4301732</object_id>
+      <w>147</w>
+      <y>205</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>kitchen</name>
+      <h>354</h>
+      <object_id>4301735</object_id>
+      <w>490</w>
+      <y>3</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>kitchen</attribute>
+      </attributes>
+      <name>table</name>
+      <h>117</h>
+      <object_id>4301738</object_id>
+      <w>328</w>
+      <y>246</y>
+      <x>154</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting at a table in a kitchen with a laptop.</caption>
+      <caption>There is a young man sitting at a table with two lap tops</caption>
+      <caption>a guy sitting at the kitchen table with his lap top.</caption>
+      <caption>A young man is posing for the camera while on his laptop. </caption>
+      <caption>A person sitting at a kitchen table in front of a laptop.</caption>
+    </captions>
+</image>

@@ -1,0 +1,144 @@
+<image>
+  <image-id>2369827</image-id>
+  <coco-id>13980</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1555429</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>608870</subject>
+      <object>608876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1555430</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>608866</subject>
+      <object>608869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1555431</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>608870</subject>
+      <object>608876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1555433</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>608860</subject>
+      <object>608863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4331619</relationship_id>
+      <predicate>OF</predicate>
+      <subject>608863</subject>
+      <object>3861472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1555435</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>608864</subject>
+      <object>608876</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1555436</relationship_id>
+      <predicate>has</predicate>
+      <subject>608876</subject>
+      <object>608870</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1555437</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>608866</subject>
+      <object>608869</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>34</h>
+      <object_id>608870</object_id>
+      <w>66</w>
+      <y>54</y>
+      <x>288</x>
+      <name>letters</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <h>157</h>
+      <object_id>608876</object_id>
+      <w>125</w>
+      <y>9</y>
+      <x>256</x>
+      <name>carton</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>sauce</name>
+      <h>23</h>
+      <object_id>608866</object_id>
+      <w>34</w>
+      <y>206</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>meatball</name>
+      <h>73</h>
+      <object_id>608869</object_id>
+      <w>89</w>
+      <y>221</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>pea</name>
+      <h>11</h>
+      <object_id>608860</object_id>
+      <w>7</w>
+      <y>56</y>
+      <x>185</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>341</h>
+      <object_id>608863</object_id>
+      <w>359</w>
+      <y>10</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>314</h>
+      <object_id>3861472</object_id>
+      <w>290</w>
+      <y>11</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>a drawing</attribute>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>51</h>
+      <object_id>608864</object_id>
+      <w>45</w>
+      <y>82</y>
+      <x>297</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate topped with meat, vegetables and fruit.</caption>
+      <caption>A plate filled with various food items and a carton of milk.</caption>
+      <caption>A dinner plate with peas, a meat, a starch, fruit, and a carton of milk.</caption>
+      <caption>A plate of food and a carton of milk.</caption>
+      <caption>A square meal on a plate: fruit, vegetables, meat, milk</caption>
+    </captions>
+</image>

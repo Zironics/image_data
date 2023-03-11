@@ -1,0 +1,88 @@
+<image>
+  <image-id>2333556</image-id>
+  <coco-id>320680</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4455060</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2958359</subject>
+      <object>2716682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021045</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2958359</subject>
+      <object>2716682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3729738</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3016638</subject>
+      <object>3016637</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021088</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2716683</subject>
+      <object>2716682</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>9</h>
+      <object_id>2958359</object_id>
+      <w>34</w>
+      <y>242</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>139</h>
+      <object_id>2716682</object_id>
+      <w>497</w>
+      <y>192</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>white spot</name>
+      <h>33</h>
+      <object_id>3016638</object_id>
+      <w>125</w>
+      <y>248</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>water</name>
+      <h>87</h>
+      <object_id>3016637</object_id>
+      <w>497</w>
+      <y>242</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>8</h>
+      <object_id>2716683</object_id>
+      <w>22</w>
+      <y>255</y>
+      <x>368</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An elephant swimming across a lake towards shore.</caption>
+      <caption>The elephant is swimming across the body of water</caption>
+      <caption>an elephant is swimming in the water near the rocks</caption>
+      <caption>An elephant swims across a river towards the savannah </caption>
+      <caption>a elephant that is swimming in some water</caption>
+    </captions>
+</image>

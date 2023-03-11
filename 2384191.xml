@@ -1,0 +1,104 @@
+<image>
+  <image-id>2384191</image-id>
+  <coco-id>337883</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4691089</relationship_id>
+      <predicate>behind</predicate>
+      <subject>4323947</subject>
+      <object>4394862</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691090</relationship_id>
+      <predicate>standing near a</predicate>
+      <subject>4394862</subject>
+      <object>4323951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4721175</relationship_id>
+      <predicate>cooking a meal in</predicate>
+      <subject>4394862</subject>
+      <object>4394863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691117</relationship_id>
+      <predicate>under</predicate>
+      <subject>4324029</subject>
+      <object>4324030</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4691122</relationship_id>
+      <predicate>has</predicate>
+      <subject>4394862</subject>
+      <object>4324043</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>doorway</name>
+      <h>315</h>
+      <object_id>4323947</object_id>
+      <w>129</w>
+      <y>12</y>
+      <x>339</x>
+    </object>
+    <object>
+      <h>291</h>
+      <object_id>4394862</object_id>
+      <w>185</w>
+      <y>37</y>
+      <x>252</x>
+      <name>he</name>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>141</h>
+      <object_id>4323951</object_id>
+      <w>146</w>
+      <y>184</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>pot</name>
+      <h>70</h>
+      <object_id>4394863</object_id>
+      <w>54</w>
+      <y>174</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>drawers</name>
+      <h>80</h>
+      <object_id>4324029</object_id>
+      <w>109</w>
+      <y>252</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>77</h>
+      <object_id>4324030</object_id>
+      <w>211</w>
+      <y>171</y>
+      <x>165</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>50</h>
+      <object_id>4324043</object_id>
+      <w>54</w>
+      <y>25</y>
+      <x>335</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man cooking and stirring something on the stove near a cluttered counter.</caption>
+      <caption>A man cooking dinner on a stove in a home.</caption>
+      <caption>a man cooking a meal in the kitchen</caption>
+      <caption>A man stands in front of stove while he cooks.</caption>
+      <caption>A black and white photo of a man cooking.</caption>
+    </captions>
+</image>

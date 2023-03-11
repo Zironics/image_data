@@ -1,0 +1,135 @@
+<image>
+  <image-id>2351204</image-id>
+  <coco-id>211852</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3790091</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2678666</subject>
+      <object>2612260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3790092</relationship_id>
+      <predicate>has</predicate>
+      <subject>2612260</subject>
+      <object>1815508</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3790093</relationship_id>
+      <predicate>with</predicate>
+      <subject>2612260</subject>
+      <object>2446698</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3790094</relationship_id>
+      <predicate>playing with</predicate>
+      <subject>2612260</subject>
+      <object>1784267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3790095</relationship_id>
+      <predicate>has</predicate>
+      <subject>2612260</subject>
+      <object>1914077</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406246</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2253974</subject>
+      <object>2253975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406247</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2432244</subject>
+      <object>2612260</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>80</h>
+      <object_id>2678666</object_id>
+      <w>91</w>
+      <y>169</y>
+      <x>90</x>
+      <name>ear</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>382</h>
+      <object_id>2612260</object_id>
+      <w>267</w>
+      <y>66</y>
+      <x>22</x>
+    </object>
+    <object>
+      <h>41</h>
+      <object_id>1815508</object_id>
+      <w>42</w>
+      <y>403</y>
+      <x>220</x>
+      <name>dog paw</name>
+    </object>
+    <object>
+      <name>frisbee</name>
+      <h>127</h>
+      <object_id>2446698</object_id>
+      <w>122</w>
+      <y>288</y>
+      <x>68</x>
+    </object>
+    <object>
+      <h>124</h>
+      <object_id>1784267</object_id>
+      <w>116</w>
+      <y>288</y>
+      <x>71</x>
+      <name>disk</name>
+    </object>
+    <object>
+      <name>toy</name>
+      <h>149</h>
+      <object_id>1914077</object_id>
+      <w>127</w>
+      <y>272</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>spot</name>
+      <h>78</h>
+      <object_id>2253974</object_id>
+      <w>27</w>
+      <y>210</y>
+      <x>84</x>
+    </object>
+    <object>
+      <name>forehead</name>
+      <h>72</h>
+      <object_id>2253975</object_id>
+      <w>59</w>
+      <y>197</y>
+      <x>79</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>13</h>
+      <object_id>2432244</object_id>
+      <w>22</w>
+      <y>274</y>
+      <x>117</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A puppy chewing on a Frisbee in the grass.</caption>
+      <caption>The puppy tries to find a way to keep the frisbee in his mouth</caption>
+      <caption>A brown and white dog is holding something in it's mouth.</caption>
+      <caption>There is a dog playing with a frisbee in the grass</caption>
+      <caption>A small dog standing in a grassy field.</caption>
+    </captions>
+</image>

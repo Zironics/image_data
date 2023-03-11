@@ -1,0 +1,76 @@
+<image>
+  <image-id>713041</image-id>
+  <coco-id>487870</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4262273</relationship_id>
+      <predicate>with</predicate>
+      <subject>1578079</subject>
+      <object>1578108</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057405</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1578110</subject>
+      <object>1578110</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4057406</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1578111</subject>
+      <object>1578113</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>143</h>
+      <object_id>1578079</object_id>
+      <w>181</w>
+      <y>496</y>
+      <x>78</x>
+      <name>bun</name>
+    </object>
+    <object>
+      <name>bacon</name>
+      <h>96</h>
+      <object_id>1578108</object_id>
+      <w>40</w>
+      <y>533</y>
+      <x>218</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>knitted </attribute>
+      </attributes>
+      <h>932</h>
+      <object_id>1578110</object_id>
+      <w>674</w>
+      <y>93</y>
+      <x>71</x>
+      <name>jumper</name>
+    </object>
+    <object>
+      <name>man</name>
+      <h>710</h>
+      <object_id>1578111</object_id>
+      <w>216</w>
+      <y>232</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>jeans</name>
+      <h>254</h>
+      <object_id>1578113</object_id>
+      <w>216</w>
+      <y>670</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman holding a giant hamburger in her right hand.</caption>
+      <caption>A woman standing outside holds a large sandwich.</caption>
+      <caption>A woman holding a sandwich made of donuts.</caption>
+      <caption>A woman is holding a hamburger in her hand.</caption>
+      <caption>A woman that is holding a thick hamburger in her hand.</caption>
+    </captions>
+</image>

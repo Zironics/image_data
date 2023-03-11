@@ -1,0 +1,82 @@
+<image>
+  <image-id>2325578</image-id>
+  <coco-id>29648</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3707995</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3486430</subject>
+      <object>3486431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483403</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3486430</subject>
+      <object>3029139</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483404</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3029139</subject>
+      <object>3422561</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3968558</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3422561</subject>
+      <object>3422562</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crack</name>
+      <h>109</h>
+      <object_id>3486430</object_id>
+      <w>76</w>
+      <y>27</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>481</h>
+      <object_id>3486431</object_id>
+      <w>331</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>behind</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>483</h>
+      <object_id>3029139</object_id>
+      <w>276</w>
+      <y>0</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>hydrant</name>
+      <h>352</h>
+      <object_id>3422561</object_id>
+      <w>125</w>
+      <y>74</y>
+      <x>105</x>
+    </object>
+    <object>
+      <name>concrete block</name>
+      <h>92</h>
+      <object_id>3422562</object_id>
+      <w>192</w>
+      <y>405</y>
+      <x>71</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red fire hydrant on a concrete block.</caption>
+      <caption>A fire hydrant with one outlet open but no water coming out.</caption>
+      <caption>A fire hydrant stand on top of a concrete block.</caption>
+      <caption>A bright red colored fire hydrant in front of a tattered wall.</caption>
+      <caption>a red fire hydrant sitting in front of a stucco wall </caption>
+    </captions>
+</image>

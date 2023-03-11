@@ -1,0 +1,37 @@
+<image>
+  <image-id>2318301</image-id>
+  <coco-id>499480</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3861900</relationship_id>
+      <predicate>under</predicate>
+      <subject>3437895</subject>
+      <object>3437896</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>towel</name>
+      <h>39</h>
+      <object_id>3437895</object_id>
+      <w>71</w>
+      <y>100</y>
+      <x>332</x>
+    </object>
+    <object>
+      <name>microwave</name>
+      <h>92</h>
+      <object_id>3437896</object_id>
+      <w>120</w>
+      <y>10</y>
+      <x>285</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white refrigerator next to a counter top.</caption>
+      <caption>The refrigerator is next to a microwave and a dishwasher.</caption>
+      <caption>A white refrigerator freezer sitting next to a dishwasher.</caption>
+      <caption>A small kitchen with white appliances and a laminate counter top.</caption>
+      <caption>This is a bare kitchen with white counters and basic appliances. </caption>
+    </captions>
+</image>

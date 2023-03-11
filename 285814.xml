@@ -1,0 +1,84 @@
+<image>
+  <image-id>285814</image-id>
+  <coco-id>374325</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3947408</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1569686</subject>
+      <object>3655970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3947409</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1569687</subject>
+      <object>3655971</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3947410</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1569688</subject>
+      <object>3655972</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>656</h>
+      <object_id>1569686</object_id>
+      <w>458</w>
+      <y>6</y>
+      <x>51</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>480</h>
+      <object_id>3655970</object_id>
+      <w>507</w>
+      <y>288</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>763</h>
+      <object_id>1569687</object_id>
+      <w>593</w>
+      <y>5</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>shoes</name>
+      <h>92</h>
+      <object_id>3655971</object_id>
+      <w>150</w>
+      <y>676</y>
+      <x>420</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>767</h>
+      <object_id>1569688</object_id>
+      <w>518</w>
+      <y>1</y>
+      <x>56</x>
+    </object>
+    <object>
+      <name>shoes</name>
+      <h>4</h>
+      <object_id>3655972</object_id>
+      <w>119</w>
+      <y>764</y>
+      <x>157</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a skateboard on top on a wall.</caption>
+      <caption>A boy is doing a trick on a skateboard.</caption>
+      <caption>A skateboarder balances on a rail while performing a trick.</caption>
+      <caption>A young man rides his skateboard while wearing a t-shirt and jeans. </caption>
+      <caption>A man that is standing on a skateboard.</caption>
+    </captions>
+</image>

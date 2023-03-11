@@ -1,0 +1,81 @@
+<image>
+  <image-id>2372401</image-id>
+  <coco-id>325741</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1488659</relationship_id>
+      <predicate>IN</predicate>
+      <subject>592100</subject>
+      <object>592099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1488660</relationship_id>
+      <predicate>IN</predicate>
+      <subject>592100</subject>
+      <object>592099</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1488661</relationship_id>
+      <predicate>ON</predicate>
+      <subject>592098</subject>
+      <object>592102</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>y</attribute>
+        <attribute>wwhite</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>38</h>
+      <object_id>592100</object_id>
+      <w>59</w>
+      <y>277</y>
+      <x>119</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>yellow</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>34</h>
+      <object_id>592099</object_id>
+      <w>64</w>
+      <y>22</y>
+      <x>309</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>light</name>
+      <h>79</h>
+      <object_id>592098</object_id>
+      <w>55</w>
+      <y>51</y>
+      <x>141</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>34</h>
+      <object_id>592102</object_id>
+      <w>86</w>
+      <y>99</y>
+      <x>218</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>street lights on a metal pole above a street.</caption>
+      <caption>Two stop lights are shown in an orange sky.</caption>
+      <caption>A somewhat blurry image of two traffic lights. </caption>
+      <caption>Two stop lights in front of the sky</caption>
+      <caption>Two traffic lights sit apart on a horizontal light post.</caption>
+    </captions>
+</image>

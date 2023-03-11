@@ -1,0 +1,81 @@
+<image>
+  <image-id>2345126</image-id>
+  <coco-id>518748</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2671775</relationship_id>
+      <predicate>at</predicate>
+      <subject>910495</subject>
+      <object>910496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2671776</relationship_id>
+      <predicate>ON</predicate>
+      <subject>910499</subject>
+      <object>910500</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2671777</relationship_id>
+      <predicate>ON</predicate>
+      <subject>910501</subject>
+      <object>910502</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>82</h>
+      <object_id>910495</object_id>
+      <w>50</w>
+      <y>214</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>75</h>
+      <object_id>910496</object_id>
+      <w>58</w>
+      <y>232</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>skier</name>
+      <h>190</h>
+      <object_id>910499</object_id>
+      <w>187</w>
+      <y>131</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>slope</name>
+      <h>100</h>
+      <object_id>910500</object_id>
+      <w>68</w>
+      <y>233</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>71</h>
+      <object_id>910501</object_id>
+      <w>46</w>
+      <y>248</y>
+      <x>335</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>87</h>
+      <object_id>910502</object_id>
+      <w>92</w>
+      <y>231</y>
+      <x>327</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person at the top of a hill about to ski down it.</caption>
+      <caption>a skier is wearing a purple jacket and skiing and a chair lift</caption>
+      <caption>A man is standing at the starting point for a ski slope.</caption>
+      <caption>A skier prepares to descend a snowy hill next to a lift. </caption>
+      <caption>A person in a purple coat at the top of a ski slope and a ski lift on the side.</caption>
+    </captions>
+</image>

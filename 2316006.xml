@@ -1,0 +1,103 @@
+<image>
+  <image-id>2316006</image-id>
+  <coco-id>186614</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4542484</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2748401</subject>
+      <object>2748402</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3708326</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2985293</subject>
+      <object>3555403</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3708349</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3140601</subject>
+      <object>3555420</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3670905</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3538429</subject>
+      <object>2923491</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>leg</name>
+      <h>268</h>
+      <object_id>2748401</object_id>
+      <w>35</w>
+      <y>223</y>
+      <x>176</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>369</h>
+      <object_id>2748402</object_id>
+      <w>297</w>
+      <y>128</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>toaster</name>
+      <h>130</h>
+      <object_id>2985293</object_id>
+      <w>167</w>
+      <y>160</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>110</h>
+      <object_id>3555403</object_id>
+      <w>267</w>
+      <y>215</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>cup</name>
+      <h>51</h>
+      <object_id>3140601</object_id>
+      <w>52</w>
+      <y>55</y>
+      <x>37</x>
+    </object>
+    <object>
+      <name>sink</name>
+      <h>39</h>
+      <object_id>3555420</object_id>
+      <w>84</w>
+      <y>58</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>218</h>
+      <object_id>3538429</object_id>
+      <w>112</w>
+      <y>224</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>370</h>
+      <object_id>2923491</object_id>
+      <w>285</w>
+      <y>128</y>
+      <x>71</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A microwave sits on a table with a lower shelf containing a toaster oven</caption>
+      <caption>A microwave is sitting on top of a wooden stand.</caption>
+      <caption>A microwave and a toaster oven sit on a wooden stand.</caption>
+      <caption>Microwave and toaster ovens set on a small table in kitchen.</caption>
+      <caption>A white microwave oven sitting on top of a wooden stand.</caption>
+    </captions>
+</image>

@@ -1,0 +1,62 @@
+<image>
+  <image-id>2338822</image-id>
+  <coco-id>484327</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2830569</relationship_id>
+      <predicate>on a</predicate>
+      <subject>953038</subject>
+      <object>953039</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2830570</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>953046</subject>
+      <object>953043</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>people</name>
+      <h>151</h>
+      <object_id>953038</object_id>
+      <w>363</w>
+      <y>162</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>136</h>
+      <object_id>953039</object_id>
+      <w>206</w>
+      <y>172</y>
+      <x>98</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>26</h>
+      <object_id>953046</object_id>
+      <w>28</w>
+      <y>114</y>
+      <x>405</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>196</h>
+      <object_id>953043</object_id>
+      <w>166</w>
+      <y>6</y>
+      <x>332</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People on the sidewalk near a no left turn sign on a post</caption>
+      <caption>A crowded city street with lots of pedestrian traffic.</caption>
+      <caption>a vintage photo of some people walking on a side walk </caption>
+      <caption>a bunch of people are walking around a busy city street</caption>
+      <caption>Black and white image of people on the sidewalk of a busy street.</caption>
+    </captions>
+</image>

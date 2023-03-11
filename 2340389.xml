@@ -1,0 +1,100 @@
+<image>
+  <image-id>2340389</image-id>
+  <coco-id>163361</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265901</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2443290</subject>
+      <object>2443291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265902</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3517078</subject>
+      <object>2443291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097561</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3149202</subject>
+      <object>3714648</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097563</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2443290</subject>
+      <object>2443291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4097564</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2389809</subject>
+      <object>2443291</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>92</h>
+      <object_id>2443290</object_id>
+      <w>66</w>
+      <y>150</y>
+      <x>169</x>
+      <name>wing</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>plane</name>
+      <h>172</h>
+      <object_id>2443291</object_id>
+      <w>197</w>
+      <y>70</y>
+      <x>63</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plane</attribute>
+      </attributes>
+      <name>wing plane</name>
+      <h>65</h>
+      <object_id>3517078</object_id>
+      <w>120</w>
+      <y>76</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>60</h>
+      <object_id>3149202</object_id>
+      <w>90</w>
+      <y>71</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>191</h>
+      <object_id>3714648</object_id>
+      <w>240</w>
+      <y>67</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>wing</name>
+      <h>29</h>
+      <object_id>2389809</object_id>
+      <w>52</w>
+      <y>123</y>
+      <x>78</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A colorful airplane flying though a blue sky.</caption>
+      <caption>A tellow, red, white and blue airplane against a blue sky.</caption>
+      <caption>A multicolored plane is flying in the sky</caption>
+      <caption>a multicolored airplane is flying in the air</caption>
+      <caption>A multiple colored plane flying in the air</caption>
+    </captions>
+</image>

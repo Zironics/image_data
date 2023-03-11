@@ -1,0 +1,84 @@
+<image>
+  <image-id>2328530</image-id>
+  <coco-id>38490</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2919383</relationship_id>
+      <predicate>has</predicate>
+      <subject>977165</subject>
+      <object>977170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919384</relationship_id>
+      <predicate>for</predicate>
+      <subject>977172</subject>
+      <object>977165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919385</relationship_id>
+      <predicate>watching</predicate>
+      <subject>977166</subject>
+      <object>977165</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2919386</relationship_id>
+      <predicate>observing</predicate>
+      <subject>977166</subject>
+      <object>977165</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in zoo</attribute>
+        <attribute>large</attribute>
+        <attribute>with family</attribute>
+        <attribute>juvenile</attribute>
+        <attribute>existing</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>143</h>
+      <object_id>977165</object_id>
+      <w>106</w>
+      <y>168</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>43</h>
+      <object_id>977170</object_id>
+      <w>8</w>
+      <y>246</y>
+      <x>150</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for tall animals</attribute>
+      </attributes>
+      <name>feeder</name>
+      <h>121</h>
+      <object_id>977172</object_id>
+      <w>62</w>
+      <y>202</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grouped</attribute>
+      </attributes>
+      <name>people</name>
+      <h>23</h>
+      <object_id>977166</object_id>
+      <w>35</w>
+      <y>263</y>
+      <x>71</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of giraffes standing together inside a fenced area.</caption>
+      <caption>Three giraffes congregate in the middle of an enclosed field.</caption>
+      <caption>Three giraffes are standing together in their respected areas. </caption>
+      <caption>There are three giraffes all standing next to each other</caption>
+      <caption>Several giraffe standing in a open grassy field.</caption>
+    </captions>
+</image>

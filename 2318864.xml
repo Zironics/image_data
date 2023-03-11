@@ -1,0 +1,95 @@
+<image>
+  <image-id>2318864</image-id>
+  <coco-id>487299</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3933773</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2918303</subject>
+      <object>3455431</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3933781</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3422017</subject>
+      <object>3650747</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3788526</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3332939</subject>
+      <object>3332940</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3788582</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3589549</subject>
+      <object>3455431</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>streetlight</name>
+      <h>106</h>
+      <object_id>2918303</object_id>
+      <w>119</w>
+      <y>35</y>
+      <x>82</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>374</h>
+      <object_id>3455431</object_id>
+      <w>496</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>41</h>
+      <object_id>3422017</object_id>
+      <w>28</w>
+      <y>327</y>
+      <x>315</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>87</h>
+      <object_id>3650747</object_id>
+      <w>113</w>
+      <y>287</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>14</h>
+      <object_id>3332939</object_id>
+      <w>6</w>
+      <y>3</y>
+      <x>265</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>30</h>
+      <object_id>3332940</object_id>
+      <w>94</w>
+      <y>0</y>
+      <x>221</x>
+    </object>
+    <object>
+      <name>traffic light</name>
+      <h>58</h>
+      <object_id>3589549</object_id>
+      <w>33</w>
+      <y>132</y>
+      <x>297</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A city street with traffic lights flooded by water.</caption>
+      <caption>A flooded area is seen, with water almost to the top of the stoplights.</caption>
+      <caption>A street with a high level of flood waters.</caption>
+      <caption>A flooded city street buildings and traffic signals submerged in water.</caption>
+      <caption>A flooded intersection with stop lights under water.</caption>
+    </captions>
+</image>

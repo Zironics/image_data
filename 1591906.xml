@@ -1,0 +1,101 @@
+<image>
+  <image-id>1591906</image-id>
+  <coco-id>157958</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4078363</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3461339</subject>
+      <object>3461340</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078364</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1731360</subject>
+      <object>1731361</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4078365</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3010430</subject>
+      <object>2278294</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264394</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3010430</subject>
+      <object>3010431</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>window</name>
+      <h>54</h>
+      <object_id>3461339</object_id>
+      <w>38</w>
+      <y>101</y>
+      <x>85</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>453</h>
+      <object_id>3461340</object_id>
+      <w>210</w>
+      <y>0</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>window</name>
+      <h>48</h>
+      <object_id>1731360</object_id>
+      <w>19</w>
+      <y>112</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>387</h>
+      <object_id>1731361</object_id>
+      <w>196</w>
+      <y>1</y>
+      <x>5</x>
+    </object>
+    <object>
+      <h>61</h>
+      <object_id>3010430</object_id>
+      <w>20</w>
+      <y>105</y>
+      <x>151</x>
+      <name>glass window</name>
+    </object>
+    <object>
+      <name>building</name>
+      <h>172</h>
+      <object_id>2278294</object_id>
+      <w>114</w>
+      <y>26</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>228</h>
+      <object_id>3010431</object_id>
+      <w>166</w>
+      <y>25</y>
+      <x>52</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A crowd of people are walking around a downtown area</caption>
+      <caption>A street is blocked of for a festival.</caption>
+      <caption>Signs instruct pedestrians and drivers that the road is closed.</caption>
+      <caption>There are many people on the road behind the barricades.</caption>
+      <caption>A large crowd of people behind barricades and signs.</caption>
+    </captions>
+</image>

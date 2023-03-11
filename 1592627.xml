@@ -1,0 +1,114 @@
+<image>
+  <image-id>1592627</image-id>
+  <coco-id>345042</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4264905</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3797917</subject>
+      <object>1611061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085662</relationship_id>
+      <predicate>floating on</predicate>
+      <subject>1611063</subject>
+      <object>1611064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4085663</relationship_id>
+      <predicate>floating on</predicate>
+      <subject>1611062</subject>
+      <object>1611064</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264906</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1611072</subject>
+      <object>1611074</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264907</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1611075</subject>
+      <object>1611074</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>antenna</name>
+      <h>37</h>
+      <object_id>3797917</object_id>
+      <w>42</w>
+      <y>176</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>boat</name>
+      <h>564</h>
+      <object_id>1611061</object_id>
+      <w>413</w>
+      <y>48</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>logs</name>
+      <h>70</h>
+      <object_id>1611063</object_id>
+      <w>117</w>
+      <y>520</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>80</h>
+      <object_id>1611064</object_id>
+      <w>980</w>
+      <y>596</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>logs</name>
+      <h>70</h>
+      <object_id>1611062</object_id>
+      <w>551</w>
+      <y>520</y>
+      <x>471</x>
+    </object>
+    <object>
+      <name>exhaust pipes</name>
+      <h>143</h>
+      <object_id>1611072</object_id>
+      <w>226</w>
+      <y>304</y>
+      <x>168</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>gray</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>boat</name>
+      <h>541</h>
+      <object_id>1611074</object_id>
+      <w>387</w>
+      <y>58</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>80</h>
+      <object_id>1611075</object_id>
+      <w>74</w>
+      <y>459</y>
+      <x>263</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large boat is against a sand bar in the water.</caption>
+      <caption>A boat in the ocean during a sunny day.</caption>
+      <caption>A black boat floating on water near shore.</caption>
+      <caption>The Helen J sitting in the ocean not moving.</caption>
+      <caption>A boat sits on the shore with water.</caption>
+    </captions>
+</image>

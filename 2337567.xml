@@ -1,0 +1,55 @@
+<image>
+  <image-id>2337567</image-id>
+  <coco-id>551357</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4461769</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2343242</subject>
+      <object>3066662</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076668</relationship_id>
+      <predicate>eating</predicate>
+      <subject>2343241</subject>
+      <object>2343242</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> yellow</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>103</h>
+      <object_id>2343242</object_id>
+      <w>496</w>
+      <y>225</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>field</name>
+      <h>143</h>
+      <object_id>3066662</object_id>
+      <w>498</w>
+      <y>182</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>12</h>
+      <object_id>2343241</object_id>
+      <w>19</w>
+      <y>232</y>
+      <x>321</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some animals in the distance in the Savannah </caption>
+      <caption>Some trees, and some horses in a yellowed field</caption>
+      <caption>Horses graze a barren, snowy field with mountains in the background.</caption>
+      <caption>A group of horses eating in a field.</caption>
+      <caption>A dry grass field with lots of trees surrounded by  mountains.</caption>
+    </captions>
+</image>

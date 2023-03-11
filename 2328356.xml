@@ -1,0 +1,51 @@
+<image>
+  <image-id>2328356</image-id>
+  <coco-id>480890</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4470730</relationship_id>
+      <predicate>sitting in a</predicate>
+      <subject>3723089</subject>
+      <object>2759387</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4121971</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3723089</subject>
+      <object>3409032</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>173</h>
+      <object_id>3723089</object_id>
+      <w>96</w>
+      <y>154</y>
+      <x>207</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>garden</name>
+      <h>269</h>
+      <object_id>2759387</object_id>
+      <w>470</w>
+      <y>104</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>10</h>
+      <object_id>3409032</object_id>
+      <w>15</w>
+      <y>167</y>
+      <x>253</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person sitting on a bench outside by a bush.</caption>
+      <caption>A man that is sitting down on a bench.</caption>
+      <caption>A man sitting on a bench next to potted flower.</caption>
+      <caption>a man sitting on a bench by some trees</caption>
+      <caption>a person sitting on a bench near many flowers</caption>
+    </captions>
+</image>

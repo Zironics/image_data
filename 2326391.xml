@@ -1,0 +1,197 @@
+<image>
+  <image-id>2326391</image-id>
+  <coco-id>153589</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4553670</relationship_id>
+      <predicate>ARE BEHIND</predicate>
+      <subject>3984663</subject>
+      <object>3984664</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553671</relationship_id>
+      <predicate>under</predicate>
+      <subject>3984680</subject>
+      <object>3984684</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553672</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3984671</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553673</relationship_id>
+      <predicate>has</predicate>
+      <subject>3984671</subject>
+      <object>3984675</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553674</relationship_id>
+      <predicate>has</predicate>
+      <subject>3984671</subject>
+      <object>3984677</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553675</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984679</subject>
+      <object>3984680</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553676</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984681</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553677</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984684</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553678</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984684</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553679</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984684</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553680</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984684</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553681</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984684</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553682</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984693</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553683</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984684</subject>
+      <object>3984682</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4553684</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3984684</subject>
+      <object>3984682</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>195</h>
+      <object_id>3984663</object_id>
+      <w>494</w>
+      <y>7</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>105</h>
+      <object_id>3984664</object_id>
+      <w>447</w>
+      <y>113</y>
+      <x>25</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>135</h>
+      <object_id>3984680</object_id>
+      <w>498</w>
+      <y>192</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>zebras</name>
+      <h>121</h>
+      <object_id>3984684</object_id>
+      <w>450</w>
+      <y>112</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>118</h>
+      <object_id>3984671</object_id>
+      <w>450</w>
+      <y>114</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>field</name>
+      <h>138</h>
+      <object_id>3984682</object_id>
+      <w>495</w>
+      <y>193</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>63</h>
+      <object_id>3984675</object_id>
+      <w>40</w>
+      <y>163</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>ears</name>
+      <h>29</h>
+      <object_id>3984677</object_id>
+      <w>47</w>
+      <y>164</y>
+      <x>191</x>
+    </object>
+    <object>
+      <name>zebra legs</name>
+      <h>65</h>
+      <object_id>3984679</object_id>
+      <w>78</w>
+      <y>152</y>
+      <x>392</x>
+    </object>
+    <object>
+      <name>zebras</name>
+      <h>134</h>
+      <object_id>3984681</object_id>
+      <w>444</w>
+      <y>94</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>zebras</name>
+      <h>118</h>
+      <object_id>3984693</object_id>
+      <w>445</w>
+      <y>108</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of zebras are grazing in the field.</caption>
+      <caption>Three zebras that are standing in the grass.</caption>
+      <caption>Three zebras that are grazing in a field.</caption>
+      <caption>Three striped zebras are on short green grass.</caption>
+      <caption>a group of zebra are outside eating some grass</caption>
+    </captions>
+</image>

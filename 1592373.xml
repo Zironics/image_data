@@ -1,0 +1,59 @@
+<image>
+  <image-id>1592373</image-id>
+  <coco-id>316708</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3841877</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1608950</subject>
+      <object>1608951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251290</relationship_id>
+      <predicate>at</predicate>
+      <subject>1608952</subject>
+      <object>3568414</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>computers</name>
+      <h>431</h>
+      <object_id>1608950</object_id>
+      <w>1150</w>
+      <y>195</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>515</h>
+      <object_id>1608951</object_id>
+      <w>1150</w>
+      <y>442</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>294</h>
+      <object_id>1608952</object_id>
+      <w>321</w>
+      <y>665</y>
+      <x>407</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>721</h>
+      <object_id>3568414</object_id>
+      <w>1158</w>
+      <y>229</y>
+      <x>30</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A desk that has two computer and two laptops on it.</caption>
+      <caption>A desk with two computers in center with a lap top on the left and right side.</caption>
+      <caption>The office space is clean and ready for the workers use</caption>
+      <caption>a desk with two laptops a PC computer and a spare screen</caption>
+      <caption>Assorted computer equipment on wooden desk in room.</caption>
+    </captions>
+</image>

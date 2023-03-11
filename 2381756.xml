@@ -1,0 +1,178 @@
+<image>
+  <image-id>2381756</image-id>
+  <coco-id>279187</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3587800</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1334267</subject>
+      <object>1334268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587801</relationship_id>
+      <predicate>has</predicate>
+      <subject>1334267</subject>
+      <object>1334265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587802</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1334267</subject>
+      <object>1334263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587803</relationship_id>
+      <predicate>has</predicate>
+      <subject>1334263</subject>
+      <object>1334270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587804</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1334267</subject>
+      <object>1334262</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587805</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1334268</subject>
+      <object>1334267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587806</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1334268</subject>
+      <object>1334267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587807</relationship_id>
+      <predicate>has</predicate>
+      <subject>1334267</subject>
+      <object>1334263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587808</relationship_id>
+      <predicate>has</predicate>
+      <subject>1334267</subject>
+      <object>1334270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587809</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1334267</subject>
+      <object>1334265</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587810</relationship_id>
+      <predicate>laying on a</predicate>
+      <subject>1334265</subject>
+      <object>1334267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587811</relationship_id>
+      <predicate>lying on a</predicate>
+      <subject>1334265</subject>
+      <object>1334267</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587812</relationship_id>
+      <predicate>has</predicate>
+      <subject>1334267</subject>
+      <object>1334270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587813</relationship_id>
+      <predicate>has some</predicate>
+      <subject>1334263</subject>
+      <object>1334270</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3587814</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1334267</subject>
+      <object>1334268</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>baked</attribute>
+        <attribute>small</attribute>
+        <attribute>cooked</attribute>
+        <attribute>cheesy</attribute>
+        <attribute>crusty</attribute>
+        <attribute>golden</attribute>
+        <attribute>personal</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>pizza</name>
+      <h>372</h>
+      <object_id>1334267</object_id>
+      <w>495</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>373</h>
+      <object_id>1334268</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>basil</attribute>
+        <attribute>green</attribute>
+        <attribute>middle</attribute>
+      </attributes>
+      <name>herb</name>
+      <h>45</h>
+      <object_id>1334265</object_id>
+      <w>113</w>
+      <y>82</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tomato</attribute>
+      </attributes>
+      <name>sauce</name>
+      <h>306</h>
+      <object_id>1334263</object_id>
+      <w>420</w>
+      <y>18</y>
+      <x>44</x>
+    </object>
+    <object>
+      <h>329</h>
+      <object_id>1334270</object_id>
+      <w>464</w>
+      <y>9</y>
+      <x>12</x>
+      <name>cheese and sauce</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>baked</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>crust</name>
+      <h>161</h>
+      <object_id>1334262</object_id>
+      <w>121</w>
+      <y>211</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza covered in cheese and sauce sitting on a white plate.</caption>
+      <caption>A small pizza with some leaves on top of it.</caption>
+      <caption>Pizza sauce on top of bread on a white plate. </caption>
+      <caption>some green leaves are on top of a pizza</caption>
+      <caption>Pizza with only sauce, and spinach leaves on top</caption>
+    </captions>
+</image>

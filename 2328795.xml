@@ -1,0 +1,62 @@
+<image>
+  <image-id>2328795</image-id>
+  <coco-id>149849</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4145059</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3451025</subject>
+      <object>3731792</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3824313</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3300537</subject>
+      <object>3300538</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>lamp pole</name>
+      <h>120</h>
+      <object_id>3451025</object_id>
+      <w>60</w>
+      <y>12</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>65</h>
+      <object_id>3731792</object_id>
+      <w>158</w>
+      <y>157</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>parking</attribute>
+      </attributes>
+      <name>garage</name>
+      <h>65</h>
+      <object_id>3300537</object_id>
+      <w>113</w>
+      <y>64</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>157</h>
+      <object_id>3300538</object_id>
+      <w>334</w>
+      <y>0</y>
+      <x>162</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a two trailers with objects on these.</caption>
+      <caption>There is a sidewalk that had junk on it.</caption>
+      <caption>A view of a street corner, with a mattress on it.</caption>
+      <caption>a street with some kind of small trailers to carry stuff on it</caption>
+      <caption>many items on a side walk near a transformer</caption>
+    </captions>
+</image>

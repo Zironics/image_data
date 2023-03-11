@@ -1,0 +1,115 @@
+<image>
+  <image-id>2320381</image-id>
+  <coco-id>5123</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3857617</relationship_id>
+      <predicate>has</predicate>
+      <subject>3619810</subject>
+      <object>3192800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857618</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3430196</subject>
+      <object>3193415</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857619</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3430196</subject>
+      <object>3430197</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857620</relationship_id>
+      <predicate>has</predicate>
+      <subject>3619810</subject>
+      <object>3188341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3857622</relationship_id>
+      <predicate>has</predicate>
+      <subject>3471465</subject>
+      <object>3619813</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <h>213</h>
+      <object_id>3619810</object_id>
+      <w>256</w>
+      <y>70</y>
+      <x>7</x>
+      <name>house</name>
+    </object>
+    <object>
+      <name>brown trim</name>
+      <h>92</h>
+      <object_id>3192800</object_id>
+      <w>256</w>
+      <y>65</y>
+      <x>14</x>
+    </object>
+    <object>
+      <h>61</h>
+      <object_id>3430196</object_id>
+      <w>22</w>
+      <y>247</y>
+      <x>106</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <h>25</h>
+      <object_id>3193415</object_id>
+      <w>20</w>
+      <y>256</y>
+      <x>106</x>
+      <name>coat</name>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>30</h>
+      <object_id>3430197</object_id>
+      <w>483</w>
+      <y>287</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>brown trim</name>
+      <h>247</h>
+      <object_id>3188341</object_id>
+      <w>253</w>
+      <y>46</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>palm tree</name>
+      <h>160</h>
+      <object_id>3471465</object_id>
+      <w>68</w>
+      <y>25</y>
+      <x>364</x>
+    </object>
+    <object>
+      <name>top</name>
+      <h>50</h>
+      <object_id>3619813</object_id>
+      <w>37</w>
+      <y>19</y>
+      <x>366</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Group of pedestrians walking in front of a domestic house. </caption>
+      <caption>A bus parked at a stop beside a small home</caption>
+      <caption>A woman walks down a suburban sidewalk on a sunny day.</caption>
+      <caption>a woman sits on a bench in front of a house </caption>
+      <caption>A tan two story house on a street corner.</caption>
+    </captions>
+</image>

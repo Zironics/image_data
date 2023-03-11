@@ -1,0 +1,81 @@
+<image>
+  <image-id>2319578</image-id>
+  <coco-id>303484</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2986585</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1000733</subject>
+      <object>1000734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2986586</relationship_id>
+      <predicate>has</predicate>
+      <subject>1000733</subject>
+      <object>1000734</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2986587</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1000733</subject>
+      <object>1000736</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2986588</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1000733</subject>
+      <object>1000736</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2986589</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1000733</subject>
+      <object>1000736</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>falling</attribute>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>man</name>
+      <h>99</h>
+      <object_id>1000733</object_id>
+      <w>226</w>
+      <y>111</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>whtie</attribute>
+      </attributes>
+      <name>board</name>
+      <h>43</h>
+      <object_id>1000734</object_id>
+      <w>38</w>
+      <y>159</y>
+      <x>382</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>v</attribute>
+      </attributes>
+      <name>water</name>
+      <h>24</h>
+      <object_id>1000736</object_id>
+      <w>46</w>
+      <y>173</y>
+      <x>31</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on a jet ski diving into the water</caption>
+      <caption>A man riding a surfboard on a wave in the ocean.</caption>
+      <caption>A server dives head first into the ocean waves.</caption>
+      <caption>A wakeboarder is falling head first into the water</caption>
+      <caption>A SURFER FALLING OFF FROM HIS SURFING BOARD.</caption>
+    </captions>
+</image>

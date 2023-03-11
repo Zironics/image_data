@@ -1,0 +1,113 @@
+<image>
+  <image-id>2351795</image-id>
+  <coco-id>310655</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4403464</relationship_id>
+      <predicate>under</predicate>
+      <subject>2291457</subject>
+      <object>2382505</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3782479</relationship_id>
+      <predicate>resting on</predicate>
+      <subject>3587067</subject>
+      <object>2022802</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3782480</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3587068</subject>
+      <object>2382505</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3782481</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2477904</subject>
+      <object>3587069</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> paper</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <h>260</h>
+      <object_id>2291457</object_id>
+      <w>450</w>
+      <y>44</y>
+      <x>49</x>
+      <name>paper plate</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> piece </attribute>
+        <attribute>multi-layered </attribute>
+        <attribute> slice </attribute>
+        <attribute>piece </attribute>
+        <attribute>yummy looking</attribute>
+        <attribute>chocolate</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>188</h>
+      <object_id>2382505</object_id>
+      <w>208</w>
+      <y>57</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>fork</name>
+      <h>145</h>
+      <object_id>3587067</object_id>
+      <w>212</w>
+      <y>59</y>
+      <x>286</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>237</h>
+      <object_id>2022802</object_id>
+      <w>400</w>
+      <y>33</y>
+      <x>59</x>
+    </object>
+    <object>
+      <name>icing</name>
+      <h>147</h>
+      <object_id>3587068</object_id>
+      <w>110</w>
+      <y>66</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>icing</name>
+      <h>108</h>
+      <object_id>2477904</object_id>
+      <w>69</w>
+      <y>134</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>cake</name>
+      <h>223</h>
+      <object_id>3587069</object_id>
+      <w>243</w>
+      <y>37</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate topped with a chocolate piece of cake.</caption>
+      <caption>A slice of cake on a paper plate.</caption>
+      <caption>A wooden table holding a white plate with cake on it.</caption>
+      <caption>a paper plate with a slice of cake on it </caption>
+      <caption>A piece of chocolate cake on a plate next to a fork.</caption>
+    </captions>
+</image>

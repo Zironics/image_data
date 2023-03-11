@@ -1,0 +1,59 @@
+<image>
+  <image-id>2322865</image-id>
+  <coco-id>48641</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3668675</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2837410</subject>
+      <object>2837411</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4534448</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3203342</subject>
+      <object>3960180</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>head</name>
+      <h>101</h>
+      <object_id>2837410</object_id>
+      <w>65</w>
+      <y>205</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>150</h>
+      <object_id>2837411</object_id>
+      <w>120</w>
+      <y>187</y>
+      <x>132</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>55</h>
+      <object_id>3203342</object_id>
+      <w>83</w>
+      <y>318</y>
+      <x>146</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>288</h>
+      <object_id>3960180</object_id>
+      <w>492</w>
+      <y>87</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of zebra on a vast sandy plain. </caption>
+      <caption>A herd of zebras standing around in the desert sun. </caption>
+      <caption>A herd of many zebra's standing in a sandy field.</caption>
+      <caption>A herd of zebra standing on top of a sandy beach.</caption>
+      <caption>A herd of Zebras are standing around in the dirt.</caption>
+    </captions>
+</image>

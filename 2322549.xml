@@ -1,0 +1,95 @@
+<image>
+  <image-id>2322549</image-id>
+  <coco-id>149268</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3696792</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2970324</subject>
+      <object>3550174</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3696793</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2970325</subject>
+      <object>3550174</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3649240</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3078940</subject>
+      <object>3528525</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3696808</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3047690</subject>
+      <object>3047691</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>leg</name>
+      <h>26</h>
+      <object_id>2970324</object_id>
+      <w>17</w>
+      <y>328</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>147</h>
+      <object_id>3550174</object_id>
+      <w>38</w>
+      <y>209</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>31</h>
+      <object_id>2970325</object_id>
+      <w>12</w>
+      <y>321</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>buidings</name>
+      <h>35</h>
+      <object_id>3078940</object_id>
+      <w>115</w>
+      <y>236</y>
+      <x>253</x>
+    </object>
+    <object>
+      <name>distance</name>
+      <h>59</h>
+      <object_id>3528525</object_id>
+      <w>171</w>
+      <y>218</y>
+      <x>186</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>12</h>
+      <object_id>3047690</object_id>
+      <w>10</w>
+      <y>208</y>
+      <x>231</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>152</h>
+      <object_id>3047691</object_id>
+      <w>41</w>
+      <y>205</y>
+      <x>211</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A girl flies a kite in the air outside.</caption>
+      <caption>A person is standing in a field and flying a kite.</caption>
+      <caption>A person flying a kite while standing in the grass.</caption>
+      <caption>A woman flying a kite in a park in Seattle, Washington</caption>
+      <caption>someone that is flying a kite around in the air</caption>
+    </captions>
+</image>

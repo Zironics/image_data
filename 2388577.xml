@@ -1,0 +1,82 @@
+<image>
+  <image-id>2388577</image-id>
+  <coco-id>576676</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3489469</relationship_id>
+      <predicate>beside</predicate>
+      <subject>1268012</subject>
+      <object>1268013</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3489470</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1268014</subject>
+      <object>1268015</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3489471</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1268012</subject>
+      <object>1268015</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>close</attribute>
+        <attribute>white</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>plates</name>
+      <h>126</h>
+      <object_id>1268012</object_id>
+      <w>145</w>
+      <y>62</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>grey</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>knifes</name>
+      <h>122</h>
+      <object_id>1268013</object_id>
+      <w>44</w>
+      <y>134</y>
+      <x>129</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>plant</name>
+      <h>97</h>
+      <object_id>1268014</object_id>
+      <w>74</w>
+      <y>134</y>
+      <x>424</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>pot</name>
+      <h>71</h>
+      <object_id>1268015</object_id>
+      <w>56</w>
+      <y>230</y>
+      <x>443</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A counter with several cups in a room.</caption>
+      <caption>a old kitchen with a lot of old pans on it</caption>
+      <caption>a kitchen with an old table some coffee cups pans and utensils</caption>
+      <caption>An ugly ass room filled with shit atuff</caption>
+      <caption>A kitchen with a metal counter top under a window with a plant.</caption>
+    </captions>
+</image>

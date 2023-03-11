@@ -1,0 +1,59 @@
+<image>
+  <image-id>2325564</image-id>
+  <coco-id>287305</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3964528</relationship_id>
+      <predicate>off</predicate>
+      <subject>3254455</subject>
+      <object>3662475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3964586</relationship_id>
+      <predicate>driving through</predicate>
+      <subject>3238848</subject>
+      <object>3662516</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sign</name>
+      <h>56</h>
+      <object_id>3254455</object_id>
+      <w>34</w>
+      <y>22</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>108</h>
+      <object_id>3662475</object_id>
+      <w>15</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>149</h>
+      <object_id>3238848</object_id>
+      <w>247</w>
+      <y>117</y>
+      <x>177</x>
+    </object>
+    <object>
+      <name>intersection</name>
+      <h>72</h>
+      <object_id>3662516</object_id>
+      <w>482</w>
+      <y>231</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue bus is crossing the intersection with various vehicles behind it.</caption>
+      <caption>A bus traveling down a busy city street.</caption>
+      <caption>An older bus drives down a busy street.</caption>
+      <caption>A blue bus is traveling down a city street.</caption>
+      <caption>A blue bus on the street of a busy city.</caption>
+    </captions>
+</image>

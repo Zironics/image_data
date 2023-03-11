@@ -1,0 +1,54 @@
+<image>
+  <image-id>2366499</image-id>
+  <coco-id>175057</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3974374</relationship_id>
+      <predicate>has</predicate>
+      <subject>1937068</subject>
+      <object>2079364</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974375</relationship_id>
+      <predicate>has</predicate>
+      <subject>1937068</subject>
+      <object>2079365</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <h>83</h>
+      <object_id>1937068</object_id>
+      <w>113</w>
+      <y>98</y>
+      <x>80</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>12</h>
+      <object_id>2079364</object_id>
+      <w>8</w>
+      <y>106</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>9</h>
+      <object_id>2079365</object_id>
+      <w>10</w>
+      <y>107</y>
+      <x>183</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown bear standing next to some trees in the woods.</caption>
+      <caption>A brown bear in grassy area next to rocks and trees.</caption>
+      <caption>A lone bear in the woods peering forward.</caption>
+      <caption>A brown bear looks out over the forest floor in the bright beams of sunlight.</caption>
+      <caption>A bear in a dirt covered  open space in the forest.</caption>
+    </captions>
+</image>

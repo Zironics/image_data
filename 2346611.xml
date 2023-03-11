@@ -1,0 +1,120 @@
+<image>
+  <image-id>2346611</image-id>
+  <coco-id>346083</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2618896</relationship_id>
+      <predicate>ON</predicate>
+      <subject>897759</subject>
+      <object>897758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2618897</relationship_id>
+      <predicate>has</predicate>
+      <subject>897759</subject>
+      <object>897763</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4426198</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3909691</subject>
+      <object>897767</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4426199</relationship_id>
+      <predicate>pulled by</predicate>
+      <subject>897759</subject>
+      <object>3909694</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4426200</relationship_id>
+      <predicate>on side</predicate>
+      <subject>897763</subject>
+      <object>3909695</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>long</attribute>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>train</name>
+      <h>147</h>
+      <object_id>897759</object_id>
+      <w>371</w>
+      <y>68</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>still</attribute>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>track</name>
+      <h>100</h>
+      <object_id>897758</object_id>
+      <w>334</w>
+      <y>136</y>
+      <x>48</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>window</name>
+      <h>54</h>
+      <object_id>897763</object_id>
+      <w>158</w>
+      <y>108</y>
+      <x>54</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>a train</attribute>
+      </attributes>
+      <name>picture</name>
+      <h>53</h>
+      <object_id>3909691</object_id>
+      <w>21</w>
+      <y>192</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>212</h>
+      <object_id>897767</object_id>
+      <w>36</w>
+      <y>49</y>
+      <x>0</x>
+      <name>ticket booth</name>
+    </object>
+    <object>
+      <name>engine</name>
+      <h>109</h>
+      <object_id>3909694</object_id>
+      <w>173</w>
+      <y>69</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>153</h>
+      <object_id>3909695</object_id>
+      <w>217</w>
+      <y>48</y>
+      <x>85</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A silver train that is sitting on a track.</caption>
+      <caption>A large long train on a steel track.</caption>
+      <caption>A train on the platform in a station.</caption>
+      <caption>Very modern train parked in and empty station.</caption>
+      <caption>The train is stopped on the tracks to pick up passengers.</caption>
+    </captions>
+</image>

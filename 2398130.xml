@@ -1,0 +1,137 @@
+<image>
+  <image-id>2398130</image-id>
+  <coco-id>229544</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1735980</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>662754</subject>
+      <object>662762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1735981</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>662754</subject>
+      <object>662757</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1735982</relationship_id>
+      <predicate>ON</predicate>
+      <subject>662758</subject>
+      <object>662759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1735983</relationship_id>
+      <predicate>on face of</predicate>
+      <subject>662761</subject>
+      <object>662762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1735984</relationship_id>
+      <predicate>OF</predicate>
+      <subject>662763</subject>
+      <object>662762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1735985</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>662754</subject>
+      <object>662757</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1735986</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>662754</subject>
+      <object>662757</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1735987</relationship_id>
+      <predicate>has</predicate>
+      <subject>662762</subject>
+      <object>662778</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>262</h>
+      <object_id>662754</object_id>
+      <w>213</w>
+      <y>235</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>smiling</attribute>
+      </attributes>
+      <h>421</h>
+      <object_id>662762</object_id>
+      <w>185</w>
+      <y>79</y>
+      <x>148</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>glasses</name>
+      <h>44</h>
+      <object_id>662757</object_id>
+      <w>96</w>
+      <y>290</y>
+      <x>55</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>22</h>
+      <object_id>662758</object_id>
+      <w>19</w>
+      <y>392</y>
+      <x>244</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>polka dot</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>261</h>
+      <object_id>662759</object_id>
+      <w>152</w>
+      <y>235</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>14</h>
+      <object_id>662761</object_id>
+      <w>21</w>
+      <y>176</y>
+      <x>170</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>43</h>
+      <object_id>662763</object_id>
+      <w>18</w>
+      <y>170</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>brown hair</name>
+      <h>104</h>
+      <object_id>662778</object_id>
+      <w>130</w>
+      <y>83</y>
+      <x>148</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boy and a girl under an umbrella.</caption>
+      <caption>A man and women who are underneath a purple umbrella.</caption>
+      <caption>A man standing next to a hipster girl.</caption>
+      <caption>A man and a woman standing under an open umbrella. </caption>
+      <caption>A couple standing together under a purple umbrella.</caption>
+    </captions>
+</image>

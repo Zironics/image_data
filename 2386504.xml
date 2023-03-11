@@ -1,0 +1,91 @@
+<image>
+  <image-id>2386504</image-id>
+  <coco-id>447613</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4306478</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1285489</subject>
+      <object>3844474</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3517683</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1285489</subject>
+      <object>3844474</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3517684</relationship_id>
+      <predicate>has</predicate>
+      <subject>1285489</subject>
+      <object>1285491</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3517685</relationship_id>
+      <predicate>has</predicate>
+      <subject>1285489</subject>
+      <object>1285491</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3517686</relationship_id>
+      <predicate>with</predicate>
+      <subject>1285489</subject>
+      <object>1285491</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3517687</relationship_id>
+      <predicate>with</predicate>
+      <subject>3844474</subject>
+      <object>1285489</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>visable</attribute>
+        <attribute>here</attribute>
+        <attribute>young</attribute>
+        <attribute>white</attribute>
+        <attribute>standing</attribute>
+        <attribute>walking</attribute>
+        <attribute>close</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>280</h>
+      <object_id>1285489</object_id>
+      <w>199</w>
+      <y>123</y>
+      <x>88</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>100</h>
+      <object_id>3844474</object_id>
+      <w>237</w>
+      <y>75</y>
+      <x>104</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>visable</attribute>
+        <attribute>close</attribute>
+        <attribute>here</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>phone</name>
+      <h>22</h>
+      <object_id>1285491</object_id>
+      <w>34</w>
+      <y>197</y>
+      <x>154</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman in tight pants looking at her cell phone in the rain.</caption>
+      <caption>An individual is caught in the hush of the image.
+</caption>
+      <caption>a girl walking in the rain under an umbrella on her cell phone</caption>
+      <caption>A woman holding up and umbrella and using a cell phone.</caption>
+      <caption>A woman uses a cellphone while walking with an umbrella</caption>
+    </captions>
+</image>

@@ -1,0 +1,68 @@
+<image>
+  <image-id>2338937</image-id>
+  <coco-id>286129</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4055422</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3087154</subject>
+      <object>2957973</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4055423</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2891953</subject>
+      <object>2891954</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>250</h>
+      <object_id>3087154</object_id>
+      <w>116</w>
+      <y>44</y>
+      <x>340</x>
+      <name>guy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red jersey</name>
+      <h>95</h>
+      <object_id>2957973</object_id>
+      <w>85</w>
+      <y>75</y>
+      <x>353</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red flag</name>
+      <h>22</h>
+      <object_id>2891953</object_id>
+      <w>17</w>
+      <y>96</y>
+      <x>192</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white pole</name>
+      <h>71</h>
+      <object_id>2891954</object_id>
+      <w>21</w>
+      <y>116</y>
+      <x>192</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A soccer game with players defending the ball </caption>
+      <caption>A soccer game with a bunch of spectators is taking place.</caption>
+      <caption>Group of soccer players on field with crowd watching them. </caption>
+      <caption>A couple of soccer playing are on the field. </caption>
+      <caption>Two soccer players are facing off, the one with the ball appears ready to kick the ball.</caption>
+    </captions>
+</image>

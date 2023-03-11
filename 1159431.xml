@@ -1,0 +1,79 @@
+<image>
+  <image-id>1159431</image-id>
+  <coco-id>181139</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4591282</relationship_id>
+      <predicate>under</predicate>
+      <subject>4074587</subject>
+      <object>4074582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4591283</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4074587</subject>
+      <object>4074584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4591284</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4074587</subject>
+      <object>4074585</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4591285</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4074587</subject>
+      <object>4074588</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>165</h>
+      <object_id>4074587</object_id>
+      <w>124</w>
+      <y>461</y>
+      <x>71</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>121</h>
+      <object_id>4074582</object_id>
+      <w>316</w>
+      <y>220</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shade</name>
+      <h>225</h>
+      <object_id>4074584</object_id>
+      <w>245</w>
+      <y>459</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>shade</name>
+      <h>225</h>
+      <object_id>4074585</object_id>
+      <w>264</w>
+      <y>442</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bikini</name>
+      <h>96</h>
+      <object_id>4074588</object_id>
+      <w>83</w>
+      <y>505</y>
+      <x>62</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people sitting and laying on top of a beach.</caption>
+      <caption>A large group of people lounge at a beach.</caption>
+      <caption>Many people on a beach with many chairs and blue umbrellas.</caption>
+      <caption>Several people sitting or walking on the beach at a resort.</caption>
+      <caption>A few rows of cabanas with blue umbrellas.</caption>
+    </captions>
+</image>

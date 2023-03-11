@@ -1,0 +1,50 @@
+<image>
+  <image-id>2383452</image-id>
+  <coco-id>564735</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1304142</relationship_id>
+      <predicate>eating</predicate>
+      <subject>532741</subject>
+      <object>532739</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>brown</attribute>
+        <attribute>black</attribute>
+        <attribute>spiky</attribute>
+        <attribute>light brown</attribute>
+      </attributes>
+      <h>441</h>
+      <object_id>532741</object_id>
+      <w>267</w>
+      <y>18</y>
+      <x>65</x>
+      <name>animal</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>yellow</attribute>
+        <attribute>fresh</attribute>
+        <attribute>big</attribute>
+      </attributes>
+      <name>broccoli</name>
+      <h>122</h>
+      <object_id>532739</object_id>
+      <w>139</w>
+      <y>351</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A porcupine is seen nibbling on a head of broccoli.</caption>
+      <caption>A porcupine eating a piece of broccoli in the dirt.</caption>
+      <caption>A porcupine is eating broccoli while looking at the camera.</caption>
+      <caption>A capybara is eating a head of broccoli.</caption>
+      <caption>a porcupine eatting a piece of broccoli in front of it</caption>
+    </captions>
+</image>

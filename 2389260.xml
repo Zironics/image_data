@@ -1,0 +1,180 @@
+<image>
+  <image-id>2389260</image-id>
+  <coco-id>399560</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3480137</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1262603</subject>
+      <object>1262606</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480138</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1262603</subject>
+      <object>1262607</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480139</relationship_id>
+      <predicate>has an</predicate>
+      <subject>1262603</subject>
+      <object>1262608</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480141</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1262610</subject>
+      <object>1262615</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480142</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1262610</subject>
+      <object>1262615</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480143</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1262610</subject>
+      <object>1262616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480144</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1262610</subject>
+      <object>1262616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480145</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1262615</subject>
+      <object>1262610</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480146</relationship_id>
+      <predicate>around</predicate>
+      <subject>1262610</subject>
+      <object>1262616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480147</relationship_id>
+      <predicate>near</predicate>
+      <subject>1262615</subject>
+      <object>1262616</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480148</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1262603</subject>
+      <object>1262604</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3480149</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1262603</subject>
+      <object>1262617</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>cat</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>172</h>
+      <object_id>1262603</object_id>
+      <w>365</w>
+      <y>87</y>
+      <x>109</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>137</h>
+      <object_id>1262606</object_id>
+      <w>117</w>
+      <y>114</y>
+      <x>154</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>eye</attribute>
+      </attributes>
+      <name>eye</name>
+      <h>21</h>
+      <object_id>1262607</object_id>
+      <w>20</w>
+      <y>197</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>19</h>
+      <object_id>1262608</object_id>
+      <w>23</w>
+      <y>201</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+        <attribute>burgandy</attribute>
+        <attribute>polka dotted</attribute>
+      </attributes>
+      <name>carpet</name>
+      <h>370</h>
+      <object_id>1262610</object_id>
+      <w>498</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white color</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>circle</name>
+      <h>11</h>
+      <object_id>1262615</object_id>
+      <w>15</w>
+      <y>21</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>white circle</name>
+      <h>12</h>
+      <object_id>1262616</object_id>
+      <w>21</w>
+      <y>2</y>
+      <x>367</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>201</h>
+      <object_id>1262604</object_id>
+      <w>384</w>
+      <y>76</y>
+      <x>113</x>
+    </object>
+    <object>
+      <name>wisker</name>
+      <h>43</h>
+      <object_id>1262617</object_id>
+      <w>36</w>
+      <y>140</y>
+      <x>144</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>a small kitten inside of a laptop on the floor</caption>
+      <caption>There is a cat lying down on something. </caption>
+      <caption>A cat is sitting in a partially closed laptop.</caption>
+      <caption>A photo of a cat laying on a laptop.</caption>
+      <caption>A small cat is standing on a table</caption>
+    </captions>
+</image>

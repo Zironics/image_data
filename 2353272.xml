@@ -1,0 +1,106 @@
+<image>
+  <image-id>2353272</image-id>
+  <coco-id>119752</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2407107</relationship_id>
+      <predicate>inside</predicate>
+      <subject>847695</subject>
+      <object>847696</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2407108</relationship_id>
+      <predicate>has</predicate>
+      <subject>847696</subject>
+      <object>847695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2407109</relationship_id>
+      <predicate>has</predicate>
+      <subject>847696</subject>
+      <object>847695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2407111</relationship_id>
+      <predicate>has</predicate>
+      <subject>847696</subject>
+      <object>847695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2407112</relationship_id>
+      <predicate>near</predicate>
+      <subject>847715</subject>
+      <object>847716</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2407113</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>847715</subject>
+      <object>847692</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2407114</relationship_id>
+      <predicate>has</predicate>
+      <subject>847696</subject>
+      <object>847695</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>mixed</attribute>
+        <attribute>in blender</attribute>
+        <attribute>sliced</attribute>
+        <attribute>delicious</attribute>
+      </attributes>
+      <name>fruit</name>
+      <h>56</h>
+      <object_id>847695</object_id>
+      <w>54</w>
+      <y>159</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>blender</name>
+      <h>119</h>
+      <object_id>847696</object_id>
+      <w>96</w>
+      <y>109</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>192</h>
+      <object_id>847715</object_id>
+      <w>177</w>
+      <y>2</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>251</h>
+      <object_id>847716</object_id>
+      <w>363</w>
+      <y>53</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>163</h>
+      <object_id>847692</object_id>
+      <w>177</w>
+      <y>3</y>
+      <x>322</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Cups, fruit and a person in a white t shirt</caption>
+      <caption>Several stacks of disposable cups sit in a kitchen.</caption>
+      <caption>A blender that is full of fruits in front of a large pile of fruits. </caption>
+      <caption>a couple of cups are stacked on a table</caption>
+      <caption>View of worker at the blender behind the cups</caption>
+    </captions>
+</image>

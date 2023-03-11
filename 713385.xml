@@ -1,0 +1,81 @@
+<image>
+  <image-id>713385</image-id>
+  <coco-id>497466</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4787460</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>4567385</subject>
+      <object>4567386</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4787461</relationship_id>
+      <predicate>in</predicate>
+      <subject>4567389</subject>
+      <object>4567388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4584460</relationship_id>
+      <predicate>by</predicate>
+      <subject>4058469</subject>
+      <object>4058470</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>165</h>
+      <object_id>4567385</object_id>
+      <w>42</w>
+      <y>204</y>
+      <x>298</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>139</h>
+      <object_id>4567386</object_id>
+      <w>80</w>
+      <y>312</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>brick</name>
+      <h>24</h>
+      <object_id>4567389</object_id>
+      <w>35</w>
+      <y>469</y>
+      <x>946</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>102</h>
+      <object_id>4567388</object_id>
+      <w>59</w>
+      <y>458</y>
+      <x>932</x>
+    </object>
+    <object>
+      <name>boards</name>
+      <h>193</h>
+      <object_id>4058469</object_id>
+      <w>195</w>
+      <y>368</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>229</h>
+      <object_id>4058470</object_id>
+      <w>158</w>
+      <y>262</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holds a surfboard as others stand in the background. </caption>
+      <caption>A man walking along a seawall carrying a light red surf board.</caption>
+      <caption>A man standing up and holding a surfboard in his arms.</caption>
+      <caption>A man wearing a wet suit and carrying a pink surfboard.</caption>
+      <caption>A man carrying a surfboard near the ocean </caption>
+    </captions>
+</image>

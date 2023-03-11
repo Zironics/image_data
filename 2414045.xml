@@ -1,0 +1,117 @@
+<image>
+  <image-id>2414045</image-id>
+  <coco-id>491703</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>154778</relationship_id>
+      <predicate>to side of</predicate>
+      <subject>160894</subject>
+      <object>160895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154779</relationship_id>
+      <predicate>are under</predicate>
+      <subject>160895</subject>
+      <object>160900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154780</relationship_id>
+      <predicate>ON</predicate>
+      <subject>160897</subject>
+      <object>160900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154781</relationship_id>
+      <predicate>OF</predicate>
+      <subject>160903</subject>
+      <object>160900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154782</relationship_id>
+      <predicate>ON</predicate>
+      <subject>160900</subject>
+      <object>160895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154783</relationship_id>
+      <predicate>ON</predicate>
+      <subject>160903</subject>
+      <object>160900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154784</relationship_id>
+      <predicate>beside</predicate>
+      <subject>160894</subject>
+      <object>160895</object>
+    </relationship>
+    <relationship>
+      <relationship_id>154785</relationship_id>
+      <predicate>ON</predicate>
+      <subject>160900</subject>
+      <object>160895</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>growing</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>76</h>
+      <object_id>160894</object_id>
+      <w>86</w>
+      <y>423</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>tracks</name>
+      <h>66</h>
+      <object_id>160895</object_id>
+      <w>310</w>
+      <y>432</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>train</name>
+      <h>416</h>
+      <object_id>160900</object_id>
+      <w>288</w>
+      <y>27</y>
+      <x>37</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>2248</attribute>
+        <attribute>gold</attribute>
+      </attributes>
+      <name>number</name>
+      <h>12</h>
+      <object_id>160897</object_id>
+      <w>32</w>
+      <y>205</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>52</h>
+      <object_id>160903</object_id>
+      <w>46</w>
+      <y>73</y>
+      <x>178</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A restored steam train on a track under a blue sky</caption>
+      <caption>A train that is sitting on the tracks next to the grass.</caption>
+      <caption>a train moving along the railway besides a house</caption>
+      <caption>A huge train is on a railroad and won't be moving soon. </caption>
+      <caption>A train that is riding on the train tracks during the day.</caption>
+    </captions>
+</image>

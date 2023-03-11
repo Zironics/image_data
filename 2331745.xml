@@ -1,0 +1,90 @@
+<image>
+  <image-id>2331745</image-id>
+  <coco-id>531512</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4099121</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2926676</subject>
+      <object>3715091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4003894</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2988103</subject>
+      <object>2988104</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3844361</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2775185</subject>
+      <object>3613639</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>mammary glands</attribute>
+      </attributes>
+      <name>glands</name>
+      <h>118</h>
+      <object_id>2926676</object_id>
+      <w>79</w>
+      <y>103</y>
+      <x>290</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>347</h>
+      <object_id>3715091</object_id>
+      <w>265</w>
+      <y>1</y>
+      <x>233</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>249</h>
+      <object_id>2988103</object_id>
+      <w>351</w>
+      <y>100</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>milking</attribute>
+      </attributes>
+      <name>device</name>
+      <h>79</h>
+      <object_id>2988104</object_id>
+      <w>37</w>
+      <y>228</y>
+      <x>314</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>yellow stripe</name>
+      <h>23</h>
+      <object_id>2775185</object_id>
+      <w>43</w>
+      <y>136</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>stair</name>
+      <h>89</h>
+      <object_id>3613639</object_id>
+      <w>52</w>
+      <y>86</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person holds a machine to a cow's udders.</caption>
+      <caption>A woman is milking a cow in the animal stable. </caption>
+      <caption>A man in a hat seems to be milking the cow. </caption>
+      <caption>The woman is using a machine in order to milk the cow.</caption>
+      <caption>A woman in blue jacket shaving a cows utters.</caption>
+    </captions>
+</image>

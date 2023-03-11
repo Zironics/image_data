@@ -1,0 +1,59 @@
+<image>
+  <image-id>2329962</image-id>
+  <coco-id>125860</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4150157</relationship_id>
+      <predicate>side</predicate>
+      <subject>3240434</subject>
+      <object>3240433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4150411</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3508505</subject>
+      <object>3508506</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>90</h>
+      <object_id>3240434</object_id>
+      <w>75</w>
+      <y>131</y>
+      <x>376</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>95</h>
+      <object_id>3240433</object_id>
+      <w>153</w>
+      <y>131</y>
+      <x>304</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>31</h>
+      <object_id>3508505</object_id>
+      <w>24</w>
+      <y>168</y>
+      <x>174</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>97</h>
+      <object_id>3508506</object_id>
+      <w>215</w>
+      <y>142</y>
+      <x>117</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There's someone waiting for the bus at the bus stop.</caption>
+      <caption>A bus pulls up to a bus stop while people wait for it.</caption>
+      <caption>A blue and white bus driving down a street.</caption>
+      <caption>A bus approaching the bus stop to pick up passengers.</caption>
+      <caption>Blue and white passenger bus parked at a stop. </caption>
+    </captions>
+</image>

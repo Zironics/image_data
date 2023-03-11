@@ -1,0 +1,91 @@
+<image>
+  <image-id>2394511</image-id>
+  <coco-id>539233</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1038669</relationship_id>
+      <predicate>OF</predicate>
+      <subject>463479</subject>
+      <object>463480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1038670</relationship_id>
+      <predicate>ON</predicate>
+      <subject>463490</subject>
+      <object>463491</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1038671</relationship_id>
+      <predicate>ON</predicate>
+      <subject>463493</subject>
+      <object>463480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1038672</relationship_id>
+      <predicate>ON</predicate>
+      <subject>463493</subject>
+      <object>463480</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1038673</relationship_id>
+      <predicate>ON</predicate>
+      <subject>463490</subject>
+      <object>463491</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>arm</name>
+      <h>44</h>
+      <object_id>463479</object_id>
+      <w>40</w>
+      <y>183</y>
+      <x>429</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>277</h>
+      <object_id>463480</object_id>
+      <w>171</w>
+      <y>97</y>
+      <x>297</x>
+    </object>
+    <object>
+      <name>papers</name>
+      <h>75</h>
+      <object_id>463490</object_id>
+      <w>124</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>164</h>
+      <object_id>463491</object_id>
+      <w>171</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>cats</name>
+      <h>75</h>
+      <object_id>463493</object_id>
+      <w>82</w>
+      <y>189</y>
+      <x>328</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two cats cuddle on a desk chair in a home office.</caption>
+      <caption>Two cats sitting on an office chair next to a desk.</caption>
+      <caption>A computer desk with two animals laying on a chair.</caption>
+      <caption>Two cats sit in a makeshift computer room.</caption>
+      <caption>A cat is sitting on a chair in a bedroom with computer equiptment.</caption>
+    </captions>
+</image>

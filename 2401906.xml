@@ -1,0 +1,96 @@
+<image>
+  <image-id>2401906</image-id>
+  <coco-id>145039</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3284692</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1142807</subject>
+      <object>1142808</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3284693</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1142814</subject>
+      <object>1142806</object>
+    </relationship>
+    <relationship>
+      <relationship_id>804731</relationship_id>
+      <predicate>OF</predicate>
+      <subject>394669</subject>
+      <object>394670</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+        <attribute>grey</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>parking meter</name>
+      <h>398</h>
+      <object_id>1142807</object_id>
+      <w>226</w>
+      <y>57</y>
+      <x>68</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>pole</name>
+      <h>113</h>
+      <object_id>1142808</object_id>
+      <w>96</w>
+      <y>382</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>rust</name>
+      <h>26</h>
+      <object_id>1142814</object_id>
+      <w>44</w>
+      <y>337</y>
+      <x>140</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>metal</name>
+      <h>52</h>
+      <object_id>1142806</object_id>
+      <w>90</w>
+      <y>402</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>334</h>
+      <object_id>394669</object_id>
+      <w>76</w>
+      <y>162</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>walkpath</name>
+      <h>355</h>
+      <object_id>394670</object_id>
+      <w>72</w>
+      <y>144</y>
+      <x>259</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A parking meter that still has fifteen minutes on it.</caption>
+      <caption>there is a meter by a car on the side of a road.</caption>
+      <caption>A parking meter sitting on the side of a sidewalk.</caption>
+      <caption>The parking meter has fifteen minutes let on it.</caption>
+      <caption>A parking meter with a blue sticker is on the sidewalk.</caption>
+      <caption>a close up of a parking meter on a city street</caption>
+    </captions>
+</image>

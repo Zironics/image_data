@@ -1,0 +1,100 @@
+<image>
+  <image-id>2337761</image-id>
+  <coco-id>501498</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2843735</relationship_id>
+      <predicate>ON</predicate>
+      <subject>956471</subject>
+      <object>956472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2843736</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>956471</subject>
+      <object>956472</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2843737</relationship_id>
+      <predicate>has</predicate>
+      <subject>956472</subject>
+      <object>956475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2843738</relationship_id>
+      <predicate>has</predicate>
+      <subject>956472</subject>
+      <object>956475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2843739</relationship_id>
+      <predicate>has</predicate>
+      <subject>956472</subject>
+      <object>956476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2843740</relationship_id>
+      <predicate>has</predicate>
+      <subject>956472</subject>
+      <object>956475</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>laying</attribute>
+        <attribute>here</attribute>
+      </attributes>
+      <name>cat</name>
+      <h>281</h>
+      <object_id>956471</object_id>
+      <w>196</w>
+      <y>0</y>
+      <x>147</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>suitcase</name>
+      <h>334</h>
+      <object_id>956472</object_id>
+      <w>309</w>
+      <y>0</y>
+      <x>105</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>zipper</name>
+      <h>27</h>
+      <object_id>956475</object_id>
+      <w>14</w>
+      <y>297</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>hanging</attribute>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>tag</name>
+      <h>22</h>
+      <object_id>956476</object_id>
+      <w>36</w>
+      <y>258</y>
+      <x>244</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black cat is sitting on a suitcase looking up.</caption>
+      <caption>A black cat laying on top of a suitcase.</caption>
+      <caption>A black cat sitting on someones black luggage.</caption>
+      <caption>A cat sits on top of a travel bag. </caption>
+      <caption>A black cat looking up while lying on a suitcase.</caption>
+    </captions>
+</image>

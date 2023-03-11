@@ -1,0 +1,44 @@
+<image>
+  <image-id>2388456</image-id>
+  <coco-id>107162</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1770579</relationship_id>
+      <predicate>holding</predicate>
+      <subject>673286</subject>
+      <object>673288</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+        <attribute>stuck</attribute>
+        <attribute>white</attribute>
+        <attribute>brown</attribute>
+        <attribute>dressed</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>270</h>
+      <object_id>673286</object_id>
+      <w>254</w>
+      <y>40</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>toy</name>
+      <h>87</h>
+      <object_id>673288</object_id>
+      <w>117</w>
+      <y>130</y>
+      <x>169</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a close up of a teddy bear on a balcony</caption>
+      <caption>A stuffed animal is wedged within the gate,</caption>
+      <caption>A brown teddy bear stuffed in railing of porch.</caption>
+      <caption>An old teddy bear stuffed into a iron railing on a balcony.</caption>
+      <caption>A teddy bear that has been set on a gate.</caption>
+    </captions>
+</image>

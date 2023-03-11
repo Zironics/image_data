@@ -1,0 +1,90 @@
+<image>
+  <image-id>2385770</image-id>
+  <coco-id>65252</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3530471</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1293187</subject>
+      <object>1293188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3530472</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1293177</subject>
+      <object>1293191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3530473</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1293193</subject>
+      <object>1293196</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>light</name>
+      <h>10</h>
+      <object_id>1293187</object_id>
+      <w>14</w>
+      <y>86</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>ceiling</name>
+      <h>114</h>
+      <object_id>1293188</object_id>
+      <w>327</w>
+      <y>1</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <name>bag</name>
+      <h>25</h>
+      <object_id>1293177</object_id>
+      <w>29</w>
+      <y>367</y>
+      <x>83</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>here</attribute>
+      </attributes>
+      <name>garbage can</name>
+      <h>45</h>
+      <object_id>1293191</object_id>
+      <w>26</w>
+      <y>366</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>towel</name>
+      <h>39</h>
+      <object_id>1293193</object_id>
+      <w>144</w>
+      <y>461</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>101</h>
+      <object_id>1293196</object_id>
+      <w>298</w>
+      <y>399</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Modern looking bathroom shower in the corner of it</caption>
+      <caption>a room that has a shower and a toilet in it</caption>
+      <caption>A bathroom with a toilet and a shower.</caption>
+      <caption>a bathroom with tan stone walls and tiles</caption>
+      <caption>A kitchen that has a shower and toilet.</caption>
+    </captions>
+</image>

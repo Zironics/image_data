@@ -1,0 +1,96 @@
+<image>
+  <image-id>2407762</image-id>
+  <coco-id>134562</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>485207</relationship_id>
+      <predicate>IN</predicate>
+      <subject>323412</subject>
+      <object>323416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>485208</relationship_id>
+      <predicate>IN</predicate>
+      <subject>323412</subject>
+      <object>323416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>485209</relationship_id>
+      <predicate>IN</predicate>
+      <subject>323412</subject>
+      <object>323416</object>
+    </relationship>
+    <relationship>
+      <relationship_id>485210</relationship_id>
+      <predicate>ON</predicate>
+      <subject>323413</subject>
+      <object>323417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>485211</relationship_id>
+      <predicate>ON</predicate>
+      <subject>323413</subject>
+      <object>323417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>485212</relationship_id>
+      <predicate>ON</predicate>
+      <subject>323413</subject>
+      <object>323417</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+      </attributes>
+      <name>birds</name>
+      <h>179</h>
+      <object_id>323412</object_id>
+      <w>241</w>
+      <y>52</y>
+      <x>158</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>cloudy</attribute>
+        <attribute>clody</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>276</h>
+      <object_id>323416</object_id>
+      <w>186</w>
+      <y>32</y>
+      <x>238</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>clock</name>
+      <h>32</h>
+      <object_id>323413</object_id>
+      <w>20</w>
+      <y>163</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>88</h>
+      <object_id>323417</object_id>
+      <w>62</w>
+      <y>134</y>
+      <x>18</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there are many birds flying around a tower.</caption>
+      <caption>A flock of birds are flying against a blue and cloudy sky.</caption>
+      <caption>a flock of birds flying around by a tower</caption>
+      <caption>A bunch of birds flying around a tower. </caption>
+      <caption>A flock of pigeons fly past a clock tower.</caption>
+    </captions>
+</image>

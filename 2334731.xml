@@ -1,0 +1,40 @@
+<image>
+  <image-id>2334731</image-id>
+  <coco-id>10981</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3995824</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3430098</subject>
+      <object>3430099</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>paint</name>
+      <h>46</h>
+      <object_id>3430098</object_id>
+      <w>127</w>
+      <y>164</y>
+      <x>210</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>172</h>
+      <object_id>3430099</object_id>
+      <w>432</w>
+      <y>110</y>
+      <x>16</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train on a track pulling into a station with over cast skies.</caption>
+      <caption>The train is going down the railroad tracks. </caption>
+      <caption>Very large colorful train going down the tracks.</caption>
+      <caption>A train traveling down train tracks near a train station.</caption>
+      <caption>An electric commuter train coming in to the station</caption>
+    </captions>
+</image>

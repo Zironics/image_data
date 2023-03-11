@@ -1,0 +1,94 @@
+<image>
+  <image-id>2397311</image-id>
+  <coco-id>41488</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>960050</relationship_id>
+      <predicate>ON</predicate>
+      <subject>435261</subject>
+      <object>435260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>960051</relationship_id>
+      <predicate>IN</predicate>
+      <subject>435262</subject>
+      <object>435263</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4287819</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3821253</subject>
+      <object>435260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>960052</relationship_id>
+      <predicate>ON</predicate>
+      <subject>435261</subject>
+      <object>435260</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>graffiti</name>
+      <h>115</h>
+      <object_id>435261</object_id>
+      <w>64</w>
+      <y>109</y>
+      <x>58</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green </attribute>
+        <attribute>bronx</attribute>
+        <attribute>holding</attribute>
+        <attribute>black</attribute>
+        <attribute>yellow</attribute>
+        <attribute>highway</attribute>
+        <attribute>white</attribute>
+        <attribute>metal</attribute>
+        <attribute>road</attribute>
+        <attribute>rectangle cut</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>221</h>
+      <object_id>435260</object_id>
+      <w>431</w>
+      <y>54</y>
+      <x>35</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>33</h>
+      <object_id>435262</object_id>
+      <w>84</w>
+      <y>1</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>background</name>
+      <h>75</h>
+      <object_id>435263</object_id>
+      <w>428</w>
+      <y>24</y>
+      <x>49</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>graffiti</name>
+      <h>79</h>
+      <object_id>3821253</object_id>
+      <w>61</w>
+      <y>90</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>The road sign says "East 278 Queens Bronx"</caption>
+      <caption>A highway road sign directing the way ahead.</caption>
+      <caption>A large and green interstate exit sign above a road.</caption>
+      <caption>A green road sign showing the Queens Bronx exit.</caption>
+      <caption>An green and white overhead street sign on Interstate 278 for Queens and Bronx, showing a truck restriction.</caption>
+    </captions>
+</image>

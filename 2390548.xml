@@ -1,0 +1,156 @@
+<image>
+  <image-id>2390548</image-id>
+  <coco-id>5706</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1156441</relationship_id>
+      <predicate>flying over</predicate>
+      <subject>496234</subject>
+      <object>496236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156442</relationship_id>
+      <predicate>OF</predicate>
+      <subject>496237</subject>
+      <object>496236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156443</relationship_id>
+      <predicate>has a</predicate>
+      <subject>496234</subject>
+      <object>496243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156444</relationship_id>
+      <predicate>has a</predicate>
+      <subject>496234</subject>
+      <object>496241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156445</relationship_id>
+      <predicate>has a</predicate>
+      <subject>496234</subject>
+      <object>496244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156446</relationship_id>
+      <predicate>has a</predicate>
+      <subject>496234</subject>
+      <object>496239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156447</relationship_id>
+      <predicate>flying over</predicate>
+      <subject>496234</subject>
+      <object>496236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156448</relationship_id>
+      <predicate>has a long</predicate>
+      <subject>496234</subject>
+      <object>496243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156449</relationship_id>
+      <predicate>has small</predicate>
+      <subject>496234</subject>
+      <object>496241</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156450</relationship_id>
+      <predicate>flying over</predicate>
+      <subject>496234</subject>
+      <object>496236</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1156451</relationship_id>
+      <predicate>has a</predicate>
+      <subject>496234</subject>
+      <object>496239</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>black</attribute>
+        <attribute>in flight</attribute>
+        <attribute>flyiing</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>80</h>
+      <object_id>496234</object_id>
+      <w>120</w>
+      <y>119</y>
+      <x>229</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>wavy</attribute>
+        <attribute>flat</attribute>
+        <attribute>cold</attribute>
+      </attributes>
+      <name>water</name>
+      <h>267</h>
+      <object_id>496236</object_id>
+      <w>498</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>calm section</name>
+      <h>175</h>
+      <object_id>496237</object_id>
+      <w>498</w>
+      <y>94</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>beak</name>
+      <h>16</h>
+      <object_id>496243</object_id>
+      <w>19</w>
+      <y>145</y>
+      <x>227</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wing</name>
+      <h>22</h>
+      <object_id>496241</object_id>
+      <w>46</w>
+      <y>119</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>tail end</name>
+      <h>16</h>
+      <object_id>496244</object_id>
+      <w>21</w>
+      <y>147</y>
+      <x>324</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>head</name>
+      <h>20</h>
+      <object_id>496239</object_id>
+      <w>21</w>
+      <y>137</y>
+      <x>250</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a bird  with a long beak flying low over the ocean.</caption>
+      <caption>A water bird flies in front of an ocean backdrop.</caption>
+      <caption>a bird flying across some water at the beach</caption>
+      <caption>A bird that is flying by the ocean.</caption>
+      <caption>A bird flying over the ocean in front of a wave.</caption>
+    </captions>
+</image>

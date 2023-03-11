@@ -1,0 +1,67 @@
+<image>
+  <image-id>2364631</image-id>
+  <coco-id>211969</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1673917</relationship_id>
+      <predicate>with</predicate>
+      <subject>640007</subject>
+      <object>640008</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1673918</relationship_id>
+      <predicate>with</predicate>
+      <subject>640007</subject>
+      <object>640009</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1673919</relationship_id>
+      <predicate>has</predicate>
+      <subject>640007</subject>
+      <object>640008</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>off</attribute>
+        <attribute>red</attribute>
+        <attribute>White</attribute>
+        <attribute>Blue</attribute>
+        <attribute>above</attribute>
+        <attribute>departing</attribute>
+        <attribute>commercial</attribute>
+        <attribute>colored</attribute>
+      </attributes>
+      <name>plane</name>
+      <h>101</h>
+      <object_id>640007</object_id>
+      <w>479</w>
+      <y>136</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>83</h>
+      <object_id>640008</object_id>
+      <w>89</w>
+      <y>157</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>16</h>
+      <object_id>640009</object_id>
+      <w>185</w>
+      <y>296</y>
+      <x>105</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large jetliner taking off from an airport runway.</caption>
+      <caption>The view of an air plane as it is flying up.</caption>
+      <caption>A large commercial jet taking off from a runway.</caption>
+      <caption>A red white and blue airplane is taking off.</caption>
+      <caption>Large white commercial plane just lifting off the ground. </caption>
+    </captions>
+</image>

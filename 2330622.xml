@@ -1,0 +1,51 @@
+<image>
+  <image-id>2330622</image-id>
+  <coco-id>153321</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4826420</relationship_id>
+      <predicate>in</predicate>
+      <subject>4663169</subject>
+      <object>4663170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4826421</relationship_id>
+      <predicate>in</predicate>
+      <subject>4663172</subject>
+      <object>4663170</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>parasail</name>
+      <h>121</h>
+      <object_id>4663169</object_id>
+      <w>78</w>
+      <y>154</y>
+      <x>243</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>334</h>
+      <object_id>4663170</object_id>
+      <w>494</w>
+      <y>1</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>parasail</name>
+      <h>46</h>
+      <object_id>4663172</object_id>
+      <w>34</w>
+      <y>159</y>
+      <x>77</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people flying kites over a beach.</caption>
+      <caption>Multiple kites fly overhead at a sandy beach.</caption>
+      <caption>Several kites are flown along the shoreline on a cloudy day. </caption>
+      <caption>Several people are parasailing near and landing on a beach.</caption>
+      <caption>A grouping of kites on a sunny day at the beach.</caption>
+    </captions>
+</image>

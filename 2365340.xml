@@ -1,0 +1,40 @@
+<image>
+  <image-id>2365340</image-id>
+  <coco-id>581507</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1654074</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>634968</subject>
+      <object>634967</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>107</h>
+      <object_id>634968</object_id>
+      <w>63</w>
+      <y>132</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>31</h>
+      <object_id>634967</object_id>
+      <w>32</w>
+      <y>193</y>
+      <x>241</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person is standing in the snow on skis.</caption>
+      <caption>a woman on skis standing at the end of a fence </caption>
+      <caption>A person on skis coming up a snowy path.</caption>
+      <caption>A skier is on the snow by two bicycle signs.</caption>
+      <caption>a man in skis next to street signs and snow</caption>
+    </captions>
+</image>

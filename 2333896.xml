@@ -1,0 +1,121 @@
+<image>
+  <image-id>2333896</image-id>
+  <coco-id>521327</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4012612</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2961703</subject>
+      <object>3165800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4077302</relationship_id>
+      <predicate>has</predicate>
+      <subject>3165800</subject>
+      <object>3165799</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3641920</relationship_id>
+      <predicate>has</predicate>
+      <subject>3165800</subject>
+      <object>3487917</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4454410</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3165800</subject>
+      <object>3356276</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3981233</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3165800</subject>
+      <object>3075537</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4454411</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3392514</subject>
+      <object>3927149</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>right hand</attribute>
+      </attributes>
+      <name>hand</name>
+      <h>114</h>
+      <object_id>2961703</object_id>
+      <w>90</w>
+      <y>330</y>
+      <x>103</x>
+    </object>
+    <object>
+      <h>378</h>
+      <object_id>3165800</object_id>
+      <w>307</w>
+      <y>122</y>
+      <x>0</x>
+      <name>boy</name>
+    </object>
+    <object>
+      <name>eyes</name>
+      <h>40</h>
+      <object_id>3165799</object_id>
+      <w>97</w>
+      <y>215</y>
+      <x>123</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>52</h>
+      <object_id>3487917</object_id>
+      <w>58</w>
+      <y>273</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>toothbrush</name>
+      <h>54</h>
+      <object_id>3356276</object_id>
+      <w>71</w>
+      <y>281</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>152</h>
+      <object_id>3075537</object_id>
+      <w>133</w>
+      <y>346</y>
+      <x>120</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sticking up</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>61</h>
+      <object_id>3392514</object_id>
+      <w>160</w>
+      <y>111</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>374</h>
+      <object_id>3927149</object_id>
+      <w>308</w>
+      <y>122</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A child with a finger and object in its mouth</caption>
+      <caption>A child holds a toothbrush in their mouth.</caption>
+      <caption>a little boy putting something in his mouth including  his fingers</caption>
+      <caption>A young asian boy slobbering on his hand.</caption>
+      <caption>A young boy who has a toothbrush in his mouth.</caption>
+    </captions>
+</image>

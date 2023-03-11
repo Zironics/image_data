@@ -1,0 +1,118 @@
+<image>
+  <image-id>2417289</image-id>
+  <coco-id>291319</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4255585</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3413941</subject>
+      <object>3430970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3976699</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3413941</subject>
+      <object>3305926</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3976704</relationship_id>
+      <predicate>painted on</predicate>
+      <subject>3144623</subject>
+      <object>3144624</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3976709</relationship_id>
+      <predicate>has a</predicate>
+      <subject>3413941</subject>
+      <object>3413942</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3976723</relationship_id>
+      <predicate>on players</predicate>
+      <subject>2801789</subject>
+      <object>2801790</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>279</h>
+      <object_id>3413941</object_id>
+      <w>118</w>
+      <y>104</y>
+      <x>137</x>
+      <name>baseball player</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>cap</name>
+      <h>24</h>
+      <object_id>3430970</object_id>
+      <w>35</w>
+      <y>104</y>
+      <x>180</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>leather</attribute>
+      </attributes>
+      <name>glove</name>
+      <h>41</h>
+      <object_id>3305926</object_id>
+      <w>33</w>
+      <y>231</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>boundary line</name>
+      <h>25</h>
+      <object_id>3144623</object_id>
+      <w>153</w>
+      <y>473</y>
+      <x>321</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>109</h>
+      <object_id>3144624</object_id>
+      <w>478</w>
+      <y>389</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>beard</name>
+      <h>10</h>
+      <object_id>3413942</object_id>
+      <w>21</w>
+      <y>141</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>logo</name>
+      <h>11</h>
+      <object_id>2801789</object_id>
+      <w>8</w>
+      <y>113</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>cap</name>
+      <h>20</h>
+      <object_id>2801790</object_id>
+      <w>26</w>
+      <y>110</y>
+      <x>178</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two baseball players standing next to each other in a baseball field,</caption>
+      <caption>Two baseball players standing on a base during a game.</caption>
+      <caption>Two baseball players standing at first base in a professional baseball game.</caption>
+      <caption>A couple of baseball players standing on top of a field.</caption>
+      <caption>Players on opposing teams near base during a game.</caption>
+    </captions>
+</image>

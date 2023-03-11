@@ -1,0 +1,185 @@
+<image>
+  <image-id>2367532</image-id>
+  <coco-id>9820</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4358368</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2353285</subject>
+      <object>2353286</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4358369</relationship_id>
+      <predicate>eating</predicate>
+      <subject>2543754</subject>
+      <object>2079503</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4358370</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2025704</subject>
+      <object>2543754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4358371</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1795541</subject>
+      <object>1795542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4358372</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>2025704</subject>
+      <object>1774111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4358373</relationship_id>
+      <predicate>of an</predicate>
+      <subject>1908834</subject>
+      <object>2006590</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4358374</relationship_id>
+      <predicate>with a</predicate>
+      <subject>2307002</subject>
+      <object>2431646</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4358375</relationship_id>
+      <predicate>of an</predicate>
+      <subject>2537487</subject>
+      <object>2537486</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>name</name>
+      <h>25</h>
+      <object_id>2353285</object_id>
+      <w>82</w>
+      <y>261</y>
+      <x>409</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>lettering</name>
+      <h>7</h>
+      <object_id>2353286</object_id>
+      <w>87</w>
+      <y>287</y>
+      <x>403</x>
+    </object>
+    <object>
+      <h>204</h>
+      <object_id>2543754</object_id>
+      <w>174</w>
+      <y>92</y>
+      <x>170</x>
+      <name>elephant</name>
+    </object>
+    <object>
+      <name>foliage</name>
+      <h>98</h>
+      <object_id>2079503</object_id>
+      <w>103</w>
+      <y>184</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>red seating</name>
+      <h>60</h>
+      <object_id>2025704</object_id>
+      <w>55</w>
+      <y>69</y>
+      <x>270</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>cloud</name>
+      <h>62</h>
+      <object_id>1795541</object_id>
+      <w>117</w>
+      <y>27</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+        <attribute>light </attribute>
+      </attributes>
+      <name>sky</name>
+      <h>88</h>
+      <object_id>1795542</object_id>
+      <w>481</w>
+      <y>4</y>
+      <x>15</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>161</h>
+      <object_id>1774111</object_id>
+      <w>317</w>
+      <y>100</y>
+      <x>173</x>
+    </object>
+    <object>
+      <h>127</h>
+      <object_id>1908834</object_id>
+      <w>60</w>
+      <y>149</y>
+      <x>170</x>
+      <name>grass trunk</name>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>142</h>
+      <object_id>2006590</object_id>
+      <w>184</w>
+      <y>99</y>
+      <x>171</x>
+    </object>
+    <object>
+      <h>72</h>
+      <object_id>2307002</object_id>
+      <w>75</w>
+      <y>32</y>
+      <x>246</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>face</name>
+      <h>28</h>
+      <object_id>2431646</object_id>
+      <w>47</w>
+      <y>30</y>
+      <x>251</x>
+    </object>
+    <object>
+      <name>ear</name>
+      <h>72</h>
+      <object_id>2537487</object_id>
+      <w>40</w>
+      <y>103</y>
+      <x>248</x>
+    </object>
+    <object>
+      <name>elephant</name>
+      <h>202</h>
+      <object_id>2537486</object_id>
+      <w>176</w>
+      <y>91</y>
+      <x>168</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young couple grinning from atop a grazing elephant</caption>
+      <caption>A couple is riding an elephant on a dirt road.</caption>
+      <caption>Two people smile while riding an elephant together.</caption>
+      <caption>Two people riding on an elephant in a place with plenty of bushes</caption>
+      <caption>a man and woman are riding an elephant </caption>
+    </captions>
+</image>

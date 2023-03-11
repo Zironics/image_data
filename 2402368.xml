@@ -1,0 +1,77 @@
+<image>
+  <image-id>2402368</image-id>
+  <coco-id>420069</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>784796</relationship_id>
+      <predicate>with</predicate>
+      <subject>390150</subject>
+      <object>390151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276874</relationship_id>
+      <predicate>sitting on top of</predicate>
+      <subject>1137060</subject>
+      <object>1137061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276882</relationship_id>
+      <predicate>eating nuts in</predicate>
+      <subject>1137060</subject>
+      <object>1137061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276894</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1137060</subject>
+      <object>1137061</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3276898</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1137060</subject>
+      <object>1137061</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>103</h>
+      <object_id>390150</object_id>
+      <w>38</w>
+      <y>136</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>baseball</name>
+      <h>44</h>
+      <object_id>390151</object_id>
+      <w>20</w>
+      <y>122</y>
+      <x>244</x>
+    </object>
+    <object>
+      <name>plate of fresh foo</name>
+      <h>44</h>
+      <object_id>1137060</object_id>
+      <w>47</w>
+      <y>25</y>
+      <x>19</x>
+    </object>
+    <object>
+      <name>dinning table</name>
+      <h>44</h>
+      <object_id>1137061</object_id>
+      <w>47</w>
+      <y>30</y>
+      <x>167</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A group of people playing a game of baseball on a field.</caption>
+      <caption>A male baseball player is up to bat.</caption>
+      <caption>A black and white photo of an old fashion baseball game.</caption>
+      <caption>A group of people play a game of baseball in a field. </caption>
+      <caption>an informal baseball game is held in an open field.</caption>
+    </captions>
+</image>

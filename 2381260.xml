@@ -1,0 +1,125 @@
+<image>
+  <image-id>2381260</image-id>
+  <coco-id>329475</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1878678</relationship_id>
+      <predicate>next to</predicate>
+      <subject>705831</subject>
+      <object>705838</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1878679</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>705839</subject>
+      <object>705840</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1878680</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>705828</subject>
+      <object>705834</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1878681</relationship_id>
+      <predicate>under</predicate>
+      <subject>705829</subject>
+      <object>705842</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+        <attribute>glass</attribute>
+      </attributes>
+      <name>carafe</name>
+      <h>47</h>
+      <object_id>705831</object_id>
+      <w>41</w>
+      <y>39</y>
+      <x>426</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>empty</attribute>
+      </attributes>
+      <name>coffee pot</name>
+      <h>51</h>
+      <object_id>705838</object_id>
+      <w>25</w>
+      <y>43</y>
+      <x>475</x>
+    </object>
+    <object>
+      <name>crumb</name>
+      <h>11</h>
+      <object_id>705839</object_id>
+      <w>11</w>
+      <y>243</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>203</h>
+      <object_id>705840</object_id>
+      <w>286</w>
+      <y>131</y>
+      <x>161</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>cake</attribute>
+        <attribute>plain</attribute>
+        <attribute>without frosting</attribute>
+      </attributes>
+      <name>donut</name>
+      <h>32</h>
+      <object_id>705828</object_id>
+      <w>40</w>
+      <y>205</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grease stained</attribute>
+      </attributes>
+      <name>paper towel</name>
+      <h>157</h>
+      <object_id>705834</object_id>
+      <w>237</w>
+      <y>156</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>trash can</name>
+      <h>57</h>
+      <object_id>705829</object_id>
+      <w>95</w>
+      <y>103</y>
+      <x>345</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stone</attribute>
+      </attributes>
+      <name>counter top</name>
+      <h>71</h>
+      <object_id>705842</object_id>
+      <w>151</w>
+      <y>65</y>
+      <x>348</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A counter filled with fried donuts line up in rows.</caption>
+      <caption>Rows of doughnuts are on a counter as several are on wax paper.</caption>
+      <caption>a bunch of donuts on a tray and more coming out</caption>
+      <caption>The donuts are being freshly made in the shop.</caption>
+      <caption>Doughnuts sitting on a table in a bakery.</caption>
+    </captions>
+</image>

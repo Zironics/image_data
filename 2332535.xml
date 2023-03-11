@@ -1,0 +1,62 @@
+<image>
+  <image-id>2332535</image-id>
+  <coco-id>357762</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4685325</relationship_id>
+      <predicate>tail of</predicate>
+      <subject>4310122</subject>
+      <object>4310123</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4685333</relationship_id>
+      <predicate>wears a black</predicate>
+      <subject>4310138</subject>
+      <object>4310139</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>long</name>
+      <h>52</h>
+      <object_id>4310122</object_id>
+      <w>12</w>
+      <y>185</y>
+      <x>445</x>
+    </object>
+    <object>
+      <name>horse</name>
+      <h>56</h>
+      <object_id>4310123</object_id>
+      <w>97</w>
+      <y>182</y>
+      <x>362</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>131</h>
+      <object_id>4310138</object_id>
+      <w>72</w>
+      <y>115</y>
+      <x>373</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> black</attribute>
+      </attributes>
+      <name>top</name>
+      <h>13</h>
+      <object_id>4310139</object_id>
+      <w>3</w>
+      <y>151</y>
+      <x>407</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Horses are walking through water on a beach. </caption>
+      <caption>Three women are riding their horses along the beach.</caption>
+      <caption>Several people riding horses through the sand and water on the beach.</caption>
+      <caption>A group of people riding horses on top of a beach.</caption>
+      <caption>Three people are riding horses across the beach where people are swimming.</caption>
+    </captions>
+</image>

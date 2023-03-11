@@ -1,0 +1,93 @@
+<image>
+  <image-id>2316352</image-id>
+  <coco-id>138838</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3167363</relationship_id>
+      <predicate>flying</predicate>
+      <subject>1054418</subject>
+      <object>1054410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3167364</relationship_id>
+      <predicate>have</predicate>
+      <subject>1054417</subject>
+      <object>1054420</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3167365</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1054418</subject>
+      <object>1054414</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3167366</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1054418</subject>
+      <object>1054414</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>person</name>
+      <h>15</h>
+      <object_id>1054418</object_id>
+      <w>10</w>
+      <y>409</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>dblack</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>18</h>
+      <object_id>1054410</object_id>
+      <w>33</w>
+      <y>43</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>grassy</attribute>
+      </attributes>
+      <name>sand dunes</name>
+      <h>111</h>
+      <object_id>1054417</object_id>
+      <w>369</w>
+      <y>312</y>
+      <x>96</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>25</h>
+      <object_id>1054420</object_id>
+      <w>29</w>
+      <y>365</y>
+      <x>233</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>31</h>
+      <object_id>1054414</object_id>
+      <w>23</w>
+      <y>382</y>
+      <x>402</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A boy laying on the beach behind a man flying a kite.</caption>
+      <caption>A couple of people on the beach flying a kite.</caption>
+      <caption>A man standing on a beach flying a kite in a blue cloudy sky.</caption>
+      <caption>The man is flying a kite and someone is laying in the sand.</caption>
+      <caption>a man taking a picture of the scenery on a beach</caption>
+    </captions>
+</image>

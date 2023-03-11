@@ -1,0 +1,65 @@
+<image>
+  <image-id>2381534</image-id>
+  <coco-id>191000</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1872566</relationship_id>
+      <predicate>ON</predicate>
+      <subject>703972</subject>
+      <object>703973</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4294755</relationship_id>
+      <predicate>IN</predicate>
+      <subject>703981</subject>
+      <object>3832490</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>25</h>
+      <object_id>703972</object_id>
+      <w>28</w>
+      <y>426</y>
+      <x>82</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>skateboard</name>
+      <h>52</h>
+      <object_id>703973</object_id>
+      <w>196</w>
+      <y>399</y>
+      <x>65</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>291</h>
+      <object_id>703981</object_id>
+      <w>131</w>
+      <y>6</y>
+      <x>199</x>
+    </object>
+    <object>
+      <name>park</name>
+      <h>185</h>
+      <object_id>3832490</object_id>
+      <w>324</w>
+      <y>249</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kid on a skateboard on the street.</caption>
+      <caption>A young boy in a red shirt is on a skate board.</caption>
+      <caption>Child in black and red outfit riding on top of a skateboard. </caption>
+      <caption>a little boy riding on a skate board</caption>
+      <caption>A young boy is skateboarding in a red shirt.</caption>
+    </captions>
+</image>

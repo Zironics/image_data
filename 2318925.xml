@@ -1,0 +1,59 @@
+<image>
+  <image-id>2318925</image-id>
+  <coco-id>172162</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3861001</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3621218</subject>
+      <object>3285922</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3861002</relationship_id>
+      <predicate>near</predicate>
+      <subject>2778705</subject>
+      <object>2778706</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>tree branches</name>
+      <h>77</h>
+      <object_id>3621218</object_id>
+      <w>145</w>
+      <y>14</y>
+      <x>314</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>75</h>
+      <object_id>3285922</object_id>
+      <w>100</w>
+      <y>49</y>
+      <x>343</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>61</h>
+      <object_id>2778705</object_id>
+      <w>95</w>
+      <y>128</y>
+      <x>401</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>156</h>
+      <object_id>2778706</object_id>
+      <w>266</w>
+      <y>144</y>
+      <x>80</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>many animals in a field wit ha small body of water</caption>
+      <caption>A group of zebras traveling through a grassy area.</caption>
+      <caption>a herd of horses and zebras at a water hole</caption>
+      <caption>Zebras and wildebeests gather at a watering hole. </caption>
+      <caption>A herd of wild animals on the savanna at a water hole. </caption>
+    </captions>
+</image>

@@ -1,0 +1,71 @@
+<image>
+  <image-id>2351452</image-id>
+  <coco-id>419117</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2466663</relationship_id>
+      <predicate>ON</predicate>
+      <subject>860753</subject>
+      <object>860752</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2466664</relationship_id>
+      <predicate>IN</predicate>
+      <subject>860753</subject>
+      <object>860750</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>top</attribute>
+        <attribute>under</attribute>
+        <attribute>green</attribute>
+        <attribute>leaf</attribute>
+      </attributes>
+      <h>150</h>
+      <object_id>860753</object_id>
+      <w>177</w>
+      <y>121</y>
+      <x>220</x>
+      <name>lettuce</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>top</attribute>
+        <attribute>colored</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>71</h>
+      <object_id>860752</object_id>
+      <w>96</w>
+      <y>98</y>
+      <x>11</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>triangle</attribute>
+        <attribute>horizonal</attribute>
+        <attribute>plate</attribute>
+        <attribute>cut</attribute>
+        <attribute>halves</attribute>
+      </attributes>
+      <name>sandwich</name>
+      <h>128</h>
+      <object_id>860750</object_id>
+      <w>142</w>
+      <y>4</y>
+      <x>59</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate topped with lots of food on a table.</caption>
+      <caption>A plate with a sandwich, pickle and cole slaw in a person's lap.</caption>
+      <caption>A white bread sandwich with lettuce, and cole slaw and a pickle on the side.</caption>
+      <caption>A ORANGE PLATE WITH A SANDWICH A PICKLE AND COLD SLAW</caption>
+      <caption>A red plate holding a sandwich, coleslaw and a pickle.</caption>
+    </captions>
+</image>

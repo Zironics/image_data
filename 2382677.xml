@@ -1,0 +1,132 @@
+<image>
+  <image-id>2382677</image-id>
+  <coco-id>110540</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3579492</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1326986</subject>
+      <object>1326988</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3579493</relationship_id>
+      <predicate>above</predicate>
+      <subject>1326991</subject>
+      <object>1326988</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3579494</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>1326989</subject>
+      <object>1326984</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3579495</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>1326987</subject>
+      <object>1326988</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3579496</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1326985</subject>
+      <object>1326986</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3579497</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>1326983</subject>
+      <object>1326984</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>romaine</attribute>
+      </attributes>
+      <name>lettuce</name>
+      <h>113</h>
+      <object_id>1326986</object_id>
+      <w>96</w>
+      <y>126</y>
+      <x>219</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for sale</attribute>
+        <attribute>in group of six</attribute>
+      </attributes>
+      <name>cauliflower</name>
+      <h>91</h>
+      <object_id>1326988</object_id>
+      <w>74</w>
+      <y>33</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>celery</name>
+      <h>22</h>
+      <object_id>1326991</object_id>
+      <w>101</w>
+      <y>0</y>
+      <x>273</x>
+    </object>
+    <object>
+      <name>newspaper</name>
+      <h>50</h>
+      <object_id>1326989</object_id>
+      <w>69</w>
+      <y>136</y>
+      <x>21</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>string beans</attribute>
+        <attribute>in a group</attribute>
+        <attribute>fresh</attribute>
+        <attribute>loose</attribute>
+      </attributes>
+      <name>green beans</name>
+      <h>88</h>
+      <object_id>1326984</object_id>
+      <w>84</w>
+      <y>159</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>newspaper</name>
+      <h>28</h>
+      <object_id>1326987</object_id>
+      <w>83</w>
+      <y>113</y>
+      <x>225</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>newspaper</attribute>
+      </attributes>
+      <name>newspaper</name>
+      <h>72</h>
+      <object_id>1326985</object_id>
+      <w>91</w>
+      <y>248</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>34</h>
+      <object_id>1326983</object_id>
+      <w>45</w>
+      <y>219</y>
+      <x>10</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large display of different vegetables at a vegetable stand.</caption>
+      <caption>A view of produce stand with cabbage, lettuce, beets, and broccoli.</caption>
+      <caption>There is a display of vegetables including: peppers, cabbage, and broccoli.</caption>
+      <caption>many different vegetables all next to each other</caption>
+      <caption>A display in a grocery store filled with lots of vegetables.</caption>
+    </captions>
+</image>

@@ -1,0 +1,136 @@
+<image>
+  <image-id>2383880</image-id>
+  <coco-id>565780</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3563297</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>1315809</subject>
+      <object>1315811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563298</relationship_id>
+      <predicate>leaning towards</predicate>
+      <subject>1315810</subject>
+      <object>1315815</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563299</relationship_id>
+      <predicate>near</predicate>
+      <subject>1315814</subject>
+      <object>1315811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563300</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1315817</subject>
+      <object>1315809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563301</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1315809</subject>
+      <object>1315811</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563302</relationship_id>
+      <predicate>across from</predicate>
+      <subject>1315814</subject>
+      <object>1315809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563303</relationship_id>
+      <predicate>near</predicate>
+      <subject>1315810</subject>
+      <object>1315809</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3563304</relationship_id>
+      <predicate>near</predicate>
+      <subject>1315810</subject>
+      <object>1315811</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>standing</attribute>
+        <attribute>eating</attribute>
+        <attribute>brown</attribute>
+        <attribute>grazing</attribute>
+        <attribute>looking</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>92</h>
+      <object_id>1315809</object_id>
+      <w>101</w>
+      <y>198</y>
+      <x>125</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+        <attribute>bright</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>217</h>
+      <object_id>1315811</object_id>
+      <w>379</w>
+      <y>157</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>road</name>
+      <h>197</h>
+      <object_id>1315810</object_id>
+      <w>126</w>
+      <y>175</y>
+      <x>374</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>range</attribute>
+      </attributes>
+      <name>mountains</name>
+      <h>30</h>
+      <object_id>1315815</object_id>
+      <w>381</w>
+      <y>141</y>
+      <x>85</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>trees</name>
+      <h>48</h>
+      <object_id>1315814</object_id>
+      <w>94</w>
+      <y>120</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>36</h>
+      <object_id>1315817</object_id>
+      <w>47</w>
+      <y>200</y>
+      <x>126</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some cows are grazing on green grass on a sunny day. </caption>
+      <caption>A cow standing on a lush green field next to the side of a road.</caption>
+      <caption>The cattle are grazing in a big ground of green grass. </caption>
+      <caption>A cow standing in a pasture with other cows in the background.</caption>
+      <caption>Several cows on a grassy field surrounded by a rope fence.</caption>
+    </captions>
+</image>

@@ -1,0 +1,102 @@
+<image>
+  <image-id>2375233</image-id>
+  <coco-id>170700</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1937780</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>723123</subject>
+      <object>723125</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4304553</relationship_id>
+      <predicate>outside of</predicate>
+      <subject>723123</subject>
+      <object>3842372</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4304554</relationship_id>
+      <predicate>over</predicate>
+      <subject>3842373</subject>
+      <object>723123</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1937781</relationship_id>
+      <predicate>ON</predicate>
+      <subject>723126</subject>
+      <object>723127</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>41</h>
+      <object_id>723123</object_id>
+      <w>63</w>
+      <y>209</y>
+      <x>80</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stone</attribute>
+      </attributes>
+      <name>building</name>
+      <h>107</h>
+      <object_id>723125</object_id>
+      <w>132</w>
+      <y>74</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>282</h>
+      <object_id>3842372</object_id>
+      <w>206</w>
+      <y>22</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>railing</name>
+      <h>40</h>
+      <object_id>3842373</object_id>
+      <w>207</w>
+      <y>138</y>
+      <x>35</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>man</name>
+      <h>54</h>
+      <object_id>723126</object_id>
+      <w>36</w>
+      <y>252</y>
+      <x>62</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>road</name>
+      <h>28</h>
+      <object_id>723127</object_id>
+      <w>64</w>
+      <y>328</y>
+      <x>187</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A building sitting along side of a street.</caption>
+      <caption>A restaurant with people walking by and colorful flowers in front.</caption>
+      <caption>Flowers growing in front of a restaurant with outdoor tables.</caption>
+      <caption>some colorful calla lillies standing next to a little tree on the side of the road </caption>
+      <caption>a couple of blue umbrellas that are over some people</caption>
+    </captions>
+</image>

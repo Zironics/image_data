@@ -1,0 +1,80 @@
+<image>
+  <image-id>2339838</image-id>
+  <coco-id>101931</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2815517</relationship_id>
+      <predicate>ON</predicate>
+      <subject>949778</subject>
+      <object>949775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4456987</relationship_id>
+      <predicate>near</predicate>
+      <subject>3928514</subject>
+      <object>949775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2815518</relationship_id>
+      <predicate>has</predicate>
+      <subject>949775</subject>
+      <object>949782</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>56</h>
+      <object_id>949778</object_id>
+      <w>54</w>
+      <y>294</y>
+      <x>192</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>out</attribute>
+        <attribute>black</attribute>
+        <attribute>track</attribute>
+        <attribute>engine</attribute>
+        <attribute>number</attribute>
+        <attribute>light</attribute>
+      </attributes>
+      <name>train</name>
+      <h>347</h>
+      <object_id>949775</object_id>
+      <w>350</w>
+      <y>72</y>
+      <x>13</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>68</h>
+      <object_id>3928514</object_id>
+      <w>167</w>
+      <y>430</y>
+      <x>196</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>climbing</attribute>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>man</name>
+      <h>132</h>
+      <object_id>949782</object_id>
+      <w>67</w>
+      <y>161</y>
+      <x>197</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A black and red train traveling down tracks.</caption>
+      <caption>A large long train on a steel track.</caption>
+      <caption>A red and black train has steam exhaust on the tracks.</caption>
+      <caption>a old train that is going down a train track</caption>
+      <caption>a man climbing in to a red and black train engine</caption>
+    </captions>
+</image>

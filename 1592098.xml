@@ -1,0 +1,77 @@
+<image>
+  <image-id>1592098</image-id>
+  <coco-id>529041</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3864087</relationship_id>
+      <predicate>has</predicate>
+      <subject>1606501</subject>
+      <object>1606509</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4079990</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1606504</subject>
+      <object>1606509</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4079992</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1606505</subject>
+      <object>1606506</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mirror</name>
+      <h>77</h>
+      <object_id>1606501</object_id>
+      <w>26</w>
+      <y>272</y>
+      <x>524</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>red </attribute>
+      </attributes>
+      <h>588</h>
+      <object_id>1606509</object_id>
+      <w>659</w>
+      <y>40</y>
+      <x>54</x>
+      <name>red firetruck</name>
+    </object>
+    <object>
+      <name>ladder</name>
+      <h>261</h>
+      <object_id>1606504</object_id>
+      <w>550</w>
+      <y>48</y>
+      <x>120</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>146</h>
+      <object_id>1606505</object_id>
+      <w>193</w>
+      <y>7</y>
+      <x>270</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>416</h>
+      <object_id>1606506</object_id>
+      <w>465</w>
+      <y>4</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people standing next to a red fire truck.</caption>
+      <caption>people standing outside of a building with a fire truck</caption>
+      <caption>People standing around on a sidewalk by the firetruck.</caption>
+      <caption>A group of people gather next to a fire truck parked at a curb.</caption>
+      <caption>A firetruck is parked curbside as people are on the sidewalk of a city street.</caption>
+    </captions>
+</image>

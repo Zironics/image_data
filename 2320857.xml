@@ -1,0 +1,40 @@
+<image>
+  <image-id>2320857</image-id>
+  <coco-id>383329</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3661620</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3125927</subject>
+      <object>3125928</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>stop</attribute>
+      </attributes>
+      <name>word</name>
+      <h>60</h>
+      <object_id>3125927</object_id>
+      <w>142</w>
+      <y>68</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>sign</name>
+      <h>331</h>
+      <object_id>3125928</object_id>
+      <w>207</w>
+      <y>0</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man holding a round stop sign up to the camera.</caption>
+      <caption>A man holding a cross walk stop sign.</caption>
+      <caption>Man standing in front of a round stop sign.</caption>
+      <caption>a person standing next to a street sign</caption>
+      <caption>a man holding a stop sign on the street</caption>
+    </captions>
+</image>

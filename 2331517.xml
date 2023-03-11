@@ -1,0 +1,82 @@
+<image>
+  <image-id>2331517</image-id>
+  <coco-id>7677</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4823854</relationship_id>
+      <predicate>have</predicate>
+      <subject>4656379</subject>
+      <object>4656378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823856</relationship_id>
+      <predicate>in</predicate>
+      <subject>4656379</subject>
+      <object>4656383</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823857</relationship_id>
+      <predicate>have</predicate>
+      <subject>4656379</subject>
+      <object>4656385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4823858</relationship_id>
+      <predicate>have</predicate>
+      <subject>4656379</subject>
+      <object>4656387</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>scissors</name>
+      <h>106</h>
+      <object_id>4656379</object_id>
+      <w>295</w>
+      <y>124</y>
+      <x>171</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>blade</name>
+      <h>54</h>
+      <object_id>4656378</object_id>
+      <w>130</w>
+      <y>158</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>box</name>
+      <h>230</h>
+      <object_id>4656383</object_id>
+      <w>456</w>
+      <y>25</y>
+      <x>21</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>106</h>
+      <object_id>4656385</object_id>
+      <w>161</w>
+      <y>133</y>
+      <x>302</x>
+    </object>
+    <object>
+      <name>blade</name>
+      <h>53</h>
+      <object_id>4656387</object_id>
+      <w>137</w>
+      <y>154</y>
+      <x>176</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of scissors inside of a box.</caption>
+      <caption>A pair of shears in a box that is partially open.</caption>
+      <caption>A pair of scissors in a small box labeled pinking shears.</caption>
+      <caption>some scissors brand new still all boxed up</caption>
+      <caption>A pair of pinking shears sits in its box.</caption>
+    </captions>
+</image>

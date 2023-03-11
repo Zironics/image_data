@@ -1,0 +1,170 @@
+<image>
+  <image-id>2383013</image-id>
+  <coco-id>31333</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3575772</relationship_id>
+      <predicate>surfing in</predicate>
+      <subject>1324290</subject>
+      <object>1324291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575773</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1324290</subject>
+      <object>1324296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575774</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1324290</subject>
+      <object>1324291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575775</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1324290</subject>
+      <object>1324295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575776</relationship_id>
+      <predicate>inside of</predicate>
+      <subject>1324290</subject>
+      <object>1324296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575777</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1324290</subject>
+      <object>1324296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575778</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1324290</subject>
+      <object>1324295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575779</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1324290</subject>
+      <object>1324296</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575780</relationship_id>
+      <predicate>floating in</predicate>
+      <subject>1324295</subject>
+      <object>1324291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575781</relationship_id>
+      <predicate>kneeling on</predicate>
+      <subject>1324290</subject>
+      <object>1324295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575782</relationship_id>
+      <predicate>in row with</predicate>
+      <subject>1324292</subject>
+      <object>1324301</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575783</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1324290</subject>
+      <object>1324295</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575784</relationship_id>
+      <predicate>out of</predicate>
+      <subject>1324295</subject>
+      <object>1324291</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3575785</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1324290</subject>
+      <object>1324291</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>surfing</attribute>
+        <attribute>facing right</attribute>
+      </attributes>
+      <name>person</name>
+      <h>93</h>
+      <object_id>1324290</object_id>
+      <w>116</w>
+      <y>124</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+        <attribute>blue green</attribute>
+      </attributes>
+      <name>ocean</name>
+      <h>330</h>
+      <object_id>1324291</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>silver</attribute>
+        <attribute>black</attribute>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>wetsuit</name>
+      <h>69</h>
+      <object_id>1324296</object_id>
+      <w>100</w>
+      <y>148</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>surfboard</name>
+      <h>33</h>
+      <object_id>1324295</object_id>
+      <w>95</w>
+      <y>201</y>
+      <x>258</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>breaking</attribute>
+        <attribute>rough looking</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>112</h>
+      <object_id>1324292</object_id>
+      <w>498</w>
+      <y>13</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>96</h>
+      <object_id>1324301</object_id>
+      <w>495</w>
+      <y>133</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer in a wetsuit kneels on her board at the end of a ride</caption>
+      <caption>The person is on a surfboard in the ocean.</caption>
+      <caption>A photo of a woman surfing on the ocean.</caption>
+      <caption>A woman is trying to catch her next wave to surf</caption>
+      <caption>A surfer is catching some waves in the ocean</caption>
+    </captions>
+</image>

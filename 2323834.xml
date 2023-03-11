@@ -1,0 +1,118 @@
+<image>
+  <image-id>2323834</image-id>
+  <coco-id>295480</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3639730</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3256406</subject>
+      <object>3256408</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639731</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2862557</subject>
+      <object>2862558</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639732</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2828702</subject>
+      <object>2828703</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4529094</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2828702</subject>
+      <object>2994086</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3639734</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3256406</subject>
+      <object>2987512</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>White </attribute>
+      </attributes>
+      <name>airliner</name>
+      <h>109</h>
+      <object_id>3256406</object_id>
+      <w>321</w>
+      <y>92</y>
+      <x>173</x>
+    </object>
+    <object>
+      <name>airport</name>
+      <h>286</h>
+      <object_id>3256408</object_id>
+      <w>498</w>
+      <y>44</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>tail</name>
+      <h>64</h>
+      <object_id>2862557</object_id>
+      <w>65</w>
+      <y>82</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>airliner</name>
+      <h>127</h>
+      <object_id>2862558</object_id>
+      <w>313</w>
+      <y>87</y>
+      <x>186</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>logo</name>
+      <h>34</h>
+      <object_id>2828702</object_id>
+      <w>33</w>
+      <y>110</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>tail</name>
+      <h>51</h>
+      <object_id>2828703</object_id>
+      <w>62</w>
+      <y>92</y>
+      <x>193</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>58</h>
+      <object_id>2994086</object_id>
+      <w>155</w>
+      <y>129</y>
+      <x>89</x>
+    </object>
+    <object>
+      <name>airport</name>
+      <h>145</h>
+      <object_id>2987512</object_id>
+      <w>374</w>
+      <y>60</y>
+      <x>125</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A line up of large passenger jetliners parked in front of an airport.</caption>
+      <caption>An airport runway with planes parked on it</caption>
+      <caption>Group of airplanes parked next to each other at an airport. </caption>
+      <caption>Planes parking at the gates to prepare for passenger boarding.</caption>
+      <caption>Two white and blue jet airliners on a runway.</caption>
+    </captions>
+</image>

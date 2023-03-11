@@ -1,0 +1,112 @@
+<image>
+  <image-id>2331296</image-id>
+  <coco-id>266246</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4465044</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3933285</subject>
+      <object>2777593</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4103854</relationship_id>
+      <predicate>with</predicate>
+      <subject>3298097</subject>
+      <object>3298098</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4465045</relationship_id>
+      <predicate>walking in rain holding</predicate>
+      <subject>3933286</subject>
+      <object>3456417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4103855</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3244747</subject>
+      <object>3244746</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>crack</name>
+      <h>73</h>
+      <object_id>3933285</object_id>
+      <w>218</w>
+      <y>119</y>
+      <x>182</x>
+    </object>
+    <object>
+      <name>walkway</name>
+      <h>205</h>
+      <object_id>2777593</object_id>
+      <w>402</w>
+      <y>73</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>garbage can</name>
+      <h>20</h>
+      <object_id>3298097</object_id>
+      <w>17</w>
+      <y>50</y>
+      <x>99</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>lid</name>
+      <h>8</h>
+      <object_id>3298098</object_id>
+      <w>15</w>
+      <y>47</y>
+      <x>99</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>little</attribute>
+      </attributes>
+      <name>girl</name>
+      <h>182</h>
+      <object_id>3933286</object_id>
+      <w>94</w>
+      <y>70</y>
+      <x>235</x>
+    </object>
+    <object>
+      <name>umbrella</name>
+      <h>50</h>
+      <object_id>3456417</object_id>
+      <w>122</w>
+      <y>77</y>
+      <x>223</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>bricks</name>
+      <h>7</h>
+      <object_id>3244747</object_id>
+      <w>25</w>
+      <y>7</y>
+      <x>232</x>
+    </object>
+    <object>
+      <name>roof</name>
+      <h>22</h>
+      <object_id>3244746</object_id>
+      <w>62</w>
+      <y>3</y>
+      <x>222</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young girl outside in the rain holding an umbrella.</caption>
+      <caption>The girl is walking in the rain with her umbrella </caption>
+      <caption>A small girl holding an umbrella to shield herself from the rain that is falling.</caption>
+      <caption>A little girl in fashionable rain wear is walking under an umbrella.</caption>
+      <caption>A little girl with umbrella walking in rain.</caption>
+    </captions>
+</image>

@@ -1,0 +1,81 @@
+<image>
+  <image-id>285851</image-id>
+  <coco-id>517226</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4048726</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1569951</subject>
+      <object>3696222</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261795</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1569955</subject>
+      <object>3796033</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4048730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1569956</subject>
+      <object>3696224</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>171</h>
+      <object_id>1569951</object_id>
+      <w>36</w>
+      <y>78</y>
+      <x>788</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>422</h>
+      <object_id>3696222</object_id>
+      <w>294</w>
+      <y>14</y>
+      <x>646</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>163</h>
+      <object_id>1569955</object_id>
+      <w>131</w>
+      <y>239</y>
+      <x>739</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>279</h>
+      <object_id>3796033</object_id>
+      <w>294</w>
+      <y>292</y>
+      <x>467</x>
+    </object>
+    <object>
+      <name>trains</name>
+      <h>292</h>
+      <object_id>1569956</object_id>
+      <w>557</w>
+      <y>283</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>tracks</name>
+      <h>195</h>
+      <object_id>3696224</object_id>
+      <w>633</w>
+      <y>558</y>
+      <x>360</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two trains sitting side by side on the rails at a station.</caption>
+      <caption>Two red commuter trains beside one another in a city.</caption>
+      <caption>Two red trams are next to each other at a stop.</caption>
+      <caption>Two red trains sitting next to each other on the tracks.</caption>
+      <caption>two red trains parked next to each other by some buildings </caption>
+    </captions>
+</image>

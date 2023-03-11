@@ -1,0 +1,86 @@
+<image>
+  <image-id>2405953</image-id>
+  <coco-id>340899</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3237920</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1105169</subject>
+      <object>1105170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3237921</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1105169</subject>
+      <object>1105170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3237922</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1105169</subject>
+      <object>1105170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3237926</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1105169</subject>
+      <object>1105170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3237963</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1105169</subject>
+      <object>1105170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>702276</relationship_id>
+      <predicate>IN</predicate>
+      <subject>371212</subject>
+      <object>371213</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>62</h>
+      <object_id>1105169</object_id>
+      <w>66</w>
+      <y>36</y>
+      <x>27</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>62</h>
+      <object_id>1105170</object_id>
+      <w>66</w>
+      <y>42</y>
+      <x>234</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ripe</attribute>
+      </attributes>
+      <name>banana</name>
+      <h>198</h>
+      <object_id>371212</object_id>
+      <w>270</w>
+      <y>24</y>
+      <x>180</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>250</h>
+      <object_id>371213</object_id>
+      <w>279</w>
+      <y>96</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A young boy holds a banana before he peels it.  </caption>
+      <caption>A person holding a banana in front of a floor.</caption>
+      <caption>A person's hand holding a whole banana over a tile counter.</caption>
+      <caption>A person holds a banana in their left hand.</caption>
+      <caption>A hand holds a banana above a floor. </caption>
+    </captions>
+</image>

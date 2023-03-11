@@ -1,0 +1,77 @@
+<image>
+  <image-id>2334440</image-id>
+  <coco-id>567390</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3922131</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3074652</subject>
+      <object>3292445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3786919</relationship_id>
+      <predicate>with</predicate>
+      <subject>3421047</subject>
+      <object>3588927</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4001718</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3292447</subject>
+      <object>3292445</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>meal</name>
+      <h>282</h>
+      <object_id>3074652</object_id>
+      <w>392</w>
+      <y>10</y>
+      <x>67</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>345</h>
+      <object_id>3292445</object_id>
+      <w>489</w>
+      <y>15</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>vegetables</name>
+      <h>138</h>
+      <object_id>3421047</object_id>
+      <w>237</w>
+      <y>76</y>
+      <x>204</x>
+    </object>
+    <object>
+      <name>starches</name>
+      <h>270</h>
+      <object_id>3588927</object_id>
+      <w>329</w>
+      <y>23</y>
+      <x>75</x>
+    </object>
+    <object>
+      <name>bean</name>
+      <h>27</h>
+      <object_id>3292447</object_id>
+      <w>25</w>
+      <y>181</y>
+      <x>412</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white plate topped with meat, veggies and gravy.</caption>
+      <caption>a plate with some vegetables and cheese on top of it </caption>
+      <caption>A plate of rice with garbanzo beans and broccoli. </caption>
+      <caption>A plate of food on a table </caption>
+      <caption>A plate of food and rice is on the counter</caption>
+    </captions>
+</image>

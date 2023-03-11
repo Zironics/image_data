@@ -1,0 +1,103 @@
+<image>
+  <image-id>2374146</image-id>
+  <coco-id>580625</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1960088</relationship_id>
+      <predicate>ON</predicate>
+      <subject>728565</subject>
+      <object>728560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1960089</relationship_id>
+      <predicate>ON</predicate>
+      <subject>728567</subject>
+      <object>728568</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1960090</relationship_id>
+      <predicate>ON</predicate>
+      <subject>728565</subject>
+      <object>728560</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1960091</relationship_id>
+      <predicate>ON</predicate>
+      <subject>728578</subject>
+      <object>728579</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>stacked</attribute>
+      </attributes>
+      <name>paper</name>
+      <h>29</h>
+      <object_id>728565</object_id>
+      <w>51</w>
+      <y>229</y>
+      <x>385</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+        <attribute>black</attribute>
+        <attribute>glass</attribute>
+        <attribute>centered</attribute>
+      </attributes>
+      <name>table</name>
+      <h>148</h>
+      <object_id>728560</object_id>
+      <w>134</w>
+      <y>225</y>
+      <x>365</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mounted</attribute>
+      </attributes>
+      <name>air conditioning</name>
+      <h>26</h>
+      <object_id>728567</object_id>
+      <w>49</w>
+      <y>1</y>
+      <x>337</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>small</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>152</h>
+      <object_id>728568</object_id>
+      <w>380</w>
+      <y>0</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>37</h>
+      <object_id>728578</object_id>
+      <w>30</w>
+      <y>1</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>274</h>
+      <object_id>728579</object_id>
+      <w>125</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A red couch sitting in a living room next to a red chair.</caption>
+      <caption>A room with red couch, table and a fire place</caption>
+      <caption>a red sofa and chair and a black glass top coffee table</caption>
+      <caption>A room with a couch, chair, fire place and a table. </caption>
+      <caption>A den with a red couch and chair by a table and fire place.</caption>
+    </captions>
+</image>

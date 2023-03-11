@@ -1,0 +1,76 @@
+<image>
+  <image-id>2325533</image-id>
+  <coco-id>569253</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4483622</relationship_id>
+      <predicate>over</predicate>
+      <subject>2996953</subject>
+      <object>2996954</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483623</relationship_id>
+      <predicate>over</predicate>
+      <subject>2996953</subject>
+      <object>2996955</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4483624</relationship_id>
+      <predicate>standing on</predicate>
+      <subject>3507729</subject>
+      <object>3941242</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>skies</name>
+      <h>62</h>
+      <object_id>2996953</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>hills</name>
+      <h>127</h>
+      <object_id>2996954</object_id>
+      <w>496</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>trees</name>
+      <h>131</h>
+      <object_id>2996955</object_id>
+      <w>275</w>
+      <y>5</y>
+      <x>221</x>
+    </object>
+    <object>
+      <h>158</h>
+      <object_id>3507729</object_id>
+      <w>214</w>
+      <y>120</y>
+      <x>83</x>
+      <name>brown horse</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>123</h>
+      <object_id>3941242</object_id>
+      <w>474</w>
+      <y>207</y>
+      <x>17</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A brown horse standing in an open green field in front of a hill.</caption>
+      <caption>A horse walks through a grassy field in front of a building.</caption>
+      <caption>Brown horse with white nose and foot standing in grass.</caption>
+      <caption>A horse with one white foot in a field.</caption>
+      <caption>The large brown horse has one white foot.</caption>
+    </captions>
+</image>

@@ -1,0 +1,73 @@
+<image>
+  <image-id>2347033</image-id>
+  <coco-id>570705</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4425087</relationship_id>
+      <predicate>between</predicate>
+      <subject>3908869</subject>
+      <object>894224</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2606548</relationship_id>
+      <predicate>IN</predicate>
+      <subject>894225</subject>
+      <object>894226</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>grapes</name>
+      <h>64</h>
+      <object_id>3908869</object_id>
+      <w>48</w>
+      <y>76</y>
+      <x>141</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>moist</attribute>
+        <attribute>some</attribute>
+        <attribute>green</attribute>
+        <attribute>top</attribute>
+      </attributes>
+      <name>cucumber</name>
+      <h>63</h>
+      <object_id>894224</object_id>
+      <w>152</w>
+      <y>28</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sitting</attribute>
+      </attributes>
+      <name>vegetable</name>
+      <h>250</h>
+      <object_id>894225</object_id>
+      <w>335</w>
+      <y>17</y>
+      <x>4</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>thick</attribute>
+      </attributes>
+      <name>basket</name>
+      <h>38</h>
+      <object_id>894226</object_id>
+      <w>26</w>
+      <y>41</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Various fake fruits and vegetables are in a bowl.
+</caption>
+      <caption>A basket of colorful fake fruits and vegetables.</caption>
+      <caption>Different types of fruits and vegetables mixed together</caption>
+      <caption>A colorful arrangement of chills and lemons are in a basket.</caption>
+      <caption>There is a basket of fake decorative fruit and vegetables.</caption>
+    </captions>
+</image>

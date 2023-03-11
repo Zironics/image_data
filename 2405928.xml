@@ -1,0 +1,77 @@
+<image>
+  <image-id>2405928</image-id>
+  <coco-id>375670</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3238304</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1105350</subject>
+      <object>1105351</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3238305</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1105350</subject>
+      <object>1105351</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3238306</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>1105352</subject>
+      <object>1105353</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3238310</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1105350</subject>
+      <object>1105351</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3238347</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1105350</subject>
+      <object>1105351</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>41</h>
+      <object_id>1105350</object_id>
+      <w>44</w>
+      <y>24</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>41</h>
+      <object_id>1105351</object_id>
+      <w>44</w>
+      <y>28</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>41</h>
+      <object_id>1105352</object_id>
+      <w>44</w>
+      <y>9</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>41</h>
+      <object_id>1105353</object_id>
+      <w>44</w>
+      <y>13</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train station with a train approaching the station.</caption>
+      <caption>A train station sitting below a tall white building.</caption>
+      <caption>A large commuter train station with several platforms visible.</caption>
+      <caption>A view of a train platform as a train comes into view.</caption>
+      <caption>a bunch of old railroad tracks next to a building</caption>
+    </captions>
+</image>

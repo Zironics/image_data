@@ -1,0 +1,110 @@
+<image>
+  <image-id>2338371</image-id>
+  <coco-id>320329</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4063643</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2090739</subject>
+      <object>3701970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063644</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2090740</subject>
+      <object>3701970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063645</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2129995</subject>
+      <object>3701969</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460144</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3295365</subject>
+      <object>3295366</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4063646</relationship_id>
+      <predicate>lying on</predicate>
+      <subject>2090739</subject>
+      <object>3701970</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cow</name>
+      <h>263</h>
+      <object_id>2090739</object_id>
+      <w>150</w>
+      <y>60</y>
+      <x>48</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>494</h>
+      <object_id>3701970</object_id>
+      <w>363</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>cow</name>
+      <h>183</h>
+      <object_id>2090740</object_id>
+      <w>126</w>
+      <y>199</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>spot</name>
+      <h>23</h>
+      <object_id>2129995</object_id>
+      <w>25</w>
+      <y>233</y>
+      <x>273</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>fur</name>
+      <h>156</h>
+      <object_id>3701969</object_id>
+      <w>122</w>
+      <y>212</y>
+      <x>187</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hind</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>68</h>
+      <object_id>3295365</object_id>
+      <w>38</w>
+      <y>251</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>goat</name>
+      <h>276</h>
+      <object_id>3295366</object_id>
+      <w>151</w>
+      <y>49</y>
+      <x>47</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two cows that are lying down on the ground. </caption>
+      <caption>Two cows laying on dirt and rock covered ground.</caption>
+      <caption>Two cows laying down on a dirt patch near a fence. </caption>
+      <caption>A couple of cows laying on top of a dirt field.</caption>
+      <caption>A picture taken above 2 cows laying in a rocky dirt field.</caption>
+    </captions>
+</image>

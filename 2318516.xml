@@ -1,0 +1,119 @@
+<image>
+  <image-id>2318516</image-id>
+  <coco-id>204321</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3955939</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3378992</subject>
+      <object>3659156</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3955940</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3378992</subject>
+      <object>3659157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4501021</relationship_id>
+      <predicate>grazing on</predicate>
+      <subject>2926194</subject>
+      <object>3358567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4501022</relationship_id>
+      <predicate>hanging down over</predicate>
+      <subject>3267423</subject>
+      <object>3947796</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4501023</relationship_id>
+      <predicate>hanging down over</predicate>
+      <subject>3267423</subject>
+      <object>3947797</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>barricade</name>
+      <h>77</h>
+      <object_id>3378992</object_id>
+      <w>131</w>
+      <y>4</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>rod</name>
+      <h>10</h>
+      <object_id>3659156</object_id>
+      <w>127</w>
+      <y>14</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>rod</name>
+      <h>18</h>
+      <object_id>3659157</object_id>
+      <w>124</w>
+      <y>37</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>218</h>
+      <object_id>2926194</object_id>
+      <w>259</w>
+      <y>68</y>
+      <x>5</x>
+      <name>colt</name>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>36</h>
+      <object_id>3358567</object_id>
+      <w>180</w>
+      <y>293</y>
+      <x>26</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>mane</name>
+      <h>84</h>
+      <object_id>3267423</object_id>
+      <w>52</w>
+      <y>149</y>
+      <x>189</x>
+    </object>
+    <object>
+      <name>neck</name>
+      <h>94</h>
+      <object_id>3947796</object_id>
+      <w>32</w>
+      <y>110</y>
+      <x>171</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>126</h>
+      <object_id>3947797</object_id>
+      <w>69</w>
+      <y>169</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two horses are standing together in the grass by a fence.</caption>
+      <caption>Two horses standing in grass in fenced in area.</caption>
+      <caption>It does not look like those two horses are related.</caption>
+      <caption>THERE ARE HORSES ON THE FIELD EATING GRASS </caption>
+      <caption>Two horses standing and grazing in their enclosure.</caption>
+    </captions>
+</image>

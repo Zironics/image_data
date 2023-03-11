@@ -1,0 +1,68 @@
+<image>
+  <image-id>2368529</image-id>
+  <coco-id>541767</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4346932</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2336884</subject>
+      <object>2250498</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4346958</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2633698</subject>
+      <object>3868575</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in picture</attribute>
+      </attributes>
+      <h>145</h>
+      <object_id>2336884</object_id>
+      <w>53</w>
+      <y>104</y>
+      <x>232</x>
+      <name>person</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in picture</attribute>
+      </attributes>
+      <h>36</h>
+      <object_id>2250498</object_id>
+      <w>46</w>
+      <y>129</y>
+      <x>237</x>
+      <name>shirt</name>
+    </object>
+    <object>
+      <name>tree trunk</name>
+      <h>35</h>
+      <object_id>2633698</object_id>
+      <w>35</w>
+      <y>3</y>
+      <x>342</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>shaded</attribute>
+      </attributes>
+      <name>shaded area</name>
+      <h>87</h>
+      <object_id>3868575</object_id>
+      <w>105</w>
+      <y>173</y>
+      <x>206</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The people are building with the rocks under the umbrella </caption>
+      <caption>a couple of people are standing in the shade</caption>
+      <caption>Archeologists under open umbrella walking in middle of ruins</caption>
+      <caption>a boy is standing under an umbrella </caption>
+      <caption>An umbrella provides some shade for two people working at an archeological site. </caption>
+    </captions>
+</image>

@@ -1,0 +1,58 @@
+<image>
+  <image-id>2332194</image-id>
+  <coco-id>292804</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4093819</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>3115890</subject>
+      <object>3092385</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4093821</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3713397</subject>
+      <object>3092385</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+      </attributes>
+      <name>tan tile</name>
+      <h>41</h>
+      <object_id>3115890</object_id>
+      <w>134</w>
+      <y>445</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>211</h>
+      <object_id>3092385</object_id>
+      <w>374</w>
+      <y>288</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>tile</name>
+      <h>85</h>
+      <object_id>3713397</object_id>
+      <w>174</w>
+      <y>367</y>
+      <x>83</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman rushes with a handbag through an empty train station with a large clock.</caption>
+      <caption>A train terminal is often located in a huge brick building.</caption>
+      <caption>A woman is walking near the clock in the middle of a transit station.</caption>
+      <caption>A woman walking through a major train station</caption>
+      <caption>a person walks in a big building </caption>
+    </captions>
+</image>

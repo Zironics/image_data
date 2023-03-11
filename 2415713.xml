@@ -1,0 +1,112 @@
+<image>
+  <image-id>2415713</image-id>
+  <coco-id>574257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4016783</relationship_id>
+      <predicate>with</predicate>
+      <subject>2750109</subject>
+      <object>2750110</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4016788</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2883886</subject>
+      <object>3542225</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679721</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3542225</subject>
+      <object>3294913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3679722</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3542226</subject>
+      <object>3505802</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253808</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2883886</subject>
+      <object>3791632</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>turbine</name>
+      <h>175</h>
+      <object_id>2750109</object_id>
+      <w>82</w>
+      <y>230</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>red stripe</name>
+      <h>40</h>
+      <object_id>2750110</object_id>
+      <w>38</w>
+      <y>230</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>snow caps</name>
+      <h>100</h>
+      <object_id>2883886</object_id>
+      <w>69</w>
+      <y>287</y>
+      <x>70</x>
+    </object>
+    <object>
+      <h>214</h>
+      <object_id>3542225</object_id>
+      <w>190</w>
+      <y>277</y>
+      <x>26</x>
+      <name>mountains</name>
+    </object>
+    <object>
+      <name>island</name>
+      <h>264</h>
+      <object_id>3294913</object_id>
+      <w>293</w>
+      <y>233</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>mark</name>
+      <h>39</h>
+      <object_id>3542226</object_id>
+      <w>19</w>
+      <y>273</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>metal</name>
+      <h>117</h>
+      <object_id>3505802</object_id>
+      <w>44</w>
+      <y>245</y>
+      <x>38</x>
+    </object>
+    <object>
+      <name>mountain top</name>
+      <h>57</h>
+      <object_id>3791632</object_id>
+      <w>72</w>
+      <y>343</y>
+      <x>80</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Scenic view from airplane window overlooking water and jet engine.</caption>
+      <caption>A view from the sky out an airplane window</caption>
+      <caption>This is a view from a plane of an island and ocean.</caption>
+      <caption>A airplane view overlooking a island in the ocean.</caption>
+      <caption>A large jet engine flying over a large piece of land.</caption>
+    </captions>
+</image>

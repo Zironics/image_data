@@ -1,0 +1,151 @@
+<image>
+  <image-id>2324548</image-id>
+  <coco-id>264686</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4524544</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3306011</subject>
+      <object>3956571</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524545</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3431932</subject>
+      <object>3431933</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524546</relationship_id>
+      <predicate>in corner of</predicate>
+      <subject>3262175</subject>
+      <object>2876968</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524547</relationship_id>
+      <predicate>on</predicate>
+      <subject>3956572</subject>
+      <object>3086016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3678840</relationship_id>
+      <predicate>under</predicate>
+      <subject>2750905</subject>
+      <object>3541775</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524548</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2876967</subject>
+      <object>2876968</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute> black</attribute>
+      </attributes>
+      <name>tv</name>
+      <h>72</h>
+      <object_id>3306011</object_id>
+      <w>62</w>
+      <y>177</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>107</h>
+      <object_id>3956571</object_id>
+      <w>80</w>
+      <y>225</y>
+      <x>13</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> folded</attribute>
+      </attributes>
+      <name>blanket</name>
+      <h>77</h>
+      <object_id>3431932</object_id>
+      <w>113</w>
+      <y>232</y>
+      <x>196</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>157</h>
+      <object_id>3431933</object_id>
+      <w>321</w>
+      <y>214</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>speaker</name>
+      <h>56</h>
+      <object_id>3262175</object_id>
+      <w>30</w>
+      <y>176</y>
+      <x>67</x>
+    </object>
+    <object>
+      <h>374</h>
+      <object_id>2876968</object_id>
+      <w>500</w>
+      <y>0</y>
+      <x>0</x>
+      <name>living room</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> red</attribute>
+      </attributes>
+      <name>cover</name>
+      <h>59</h>
+      <object_id>3956572</object_id>
+      <w>78</w>
+      <y>163</y>
+      <x>345</x>
+    </object>
+    <object>
+      <name>couch</name>
+      <h>190</h>
+      <object_id>3086016</object_id>
+      <w>192</w>
+      <y>113</y>
+      <x>257</x>
+    </object>
+    <object>
+      <name>vent</name>
+      <h>63</h>
+      <object_id>2750905</object_id>
+      <w>117</w>
+      <y>182</y>
+      <x>181</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>143</h>
+      <object_id>3541775</object_id>
+      <w>270</w>
+      <y>19</y>
+      <x>97</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> hardwood</attribute>
+      </attributes>
+      <name>hardwood floor</name>
+      <h>66</h>
+      <object_id>2876967</object_id>
+      <w>97</w>
+      <y>305</y>
+      <x>393</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small apartment living room on a sunny day.</caption>
+      <caption>A living room filled with furniture and a purple couch under a window.</caption>
+      <caption>Here is a sadly decorated loft in the city.</caption>
+      <caption>A living room with three windows, a TV, and some furniture.</caption>
+      <caption>A den with couches, a lamp, television and windows.</caption>
+    </captions>
+</image>

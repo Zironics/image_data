@@ -1,0 +1,156 @@
+<image>
+  <image-id>2389980</image-id>
+  <coco-id>208057</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3467305</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1255178</subject>
+      <object>1255180</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3467306</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1255178</subject>
+      <object>1255181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3467307</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1255182</subject>
+      <object>1255179</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3467308</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1255182</subject>
+      <object>1255178</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3467309</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1255178</subject>
+      <object>1255188</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3467310</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1255182</subject>
+      <object>1255191</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3467311</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1255178</subject>
+      <object>1255182</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3467312</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1255178</subject>
+      <object>1255185</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+        <attribute>a man</attribute>
+        <attribute>present</attribute>
+        <attribute>male</attribute>
+      </attributes>
+      <name>skier</name>
+      <h>163</h>
+      <object_id>1255178</object_id>
+      <w>148</w>
+      <y>163</y>
+      <x>243</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>padded</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>57</h>
+      <object_id>1255180</object_id>
+      <w>82</w>
+      <y>195</y>
+      <x>251</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>60</h>
+      <object_id>1255181</object_id>
+      <w>65</w>
+      <y>239</y>
+      <x>288</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>flag</name>
+      <h>149</h>
+      <object_id>1255182</object_id>
+      <w>85</w>
+      <y>26</y>
+      <x>230</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>snow covered</attribute>
+        <attribute>covered in snow</attribute>
+      </attributes>
+      <name>mountain</name>
+      <h>193</h>
+      <object_id>1255179</object_id>
+      <w>498</w>
+      <y>206</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>sunglasses</name>
+      <h>9</h>
+      <object_id>1255188</object_id>
+      <w>19</w>
+      <y>184</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>backpack</name>
+      <h>73</h>
+      <object_id>1255191</object_id>
+      <w>71</w>
+      <y>170</y>
+      <x>263</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>red</attribute>
+        <attribute>on the right</attribute>
+      </attributes>
+      <name>ski pole</name>
+      <h>69</h>
+      <object_id>1255185</object_id>
+      <w>84</w>
+      <y>220</y>
+      <x>322</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Skier with full gear and a flag, skiing near the top of a slope.</caption>
+      <caption>A man wearing a snow ski suit with a back pack and flag skiing down the slopes.</caption>
+      <caption>A man in a red jacket skiing down the slope</caption>
+      <caption>The skier descending a slope has a flag on his back.</caption>
+      <caption>A man cross-country skiing with a flag stuck in his backpack.</caption>
+    </captions>
+</image>

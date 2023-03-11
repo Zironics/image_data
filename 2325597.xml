@@ -1,0 +1,54 @@
+<image>
+  <image-id>2325597</image-id>
+  <coco-id>369153</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3705622</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3100872</subject>
+      <object>3100873</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3705676</relationship_id>
+      <predicate>walking on</predicate>
+      <subject>3100872</subject>
+      <object>3554222</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>111</h>
+      <object_id>3100872</object_id>
+      <w>52</w>
+      <y>130</y>
+      <x>223</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>62</h>
+      <object_id>3100873</object_id>
+      <w>115</w>
+      <y>147</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sandy</attribute>
+      </attributes>
+      <name>beach</name>
+      <h>328</h>
+      <object_id>3554222</object_id>
+      <w>497</w>
+      <y>4</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person holding a surf board on a beach </caption>
+      <caption>A lone man in black pants carries an orange surfboard in sand.</caption>
+      <caption>A surfer runs along the beach with his orange board.</caption>
+      <caption>A man carrying a surfboard on top of a sandy beach.</caption>
+      <caption>A man on the white sand has a surfboard.</caption>
+    </captions>
+</image>

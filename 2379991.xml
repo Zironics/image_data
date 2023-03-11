@@ -1,0 +1,185 @@
+<image>
+  <image-id>2379991</image-id>
+  <coco-id>100658</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3609378</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1351950</subject>
+      <object>1351951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609379</relationship_id>
+      <predicate>OF</predicate>
+      <subject>1351953</subject>
+      <object>1351950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609380</relationship_id>
+      <predicate>above</predicate>
+      <subject>1351948</subject>
+      <object>1351950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609381</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1351952</subject>
+      <object>1351949</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609382</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1351957</subject>
+      <object>1351949</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609383</relationship_id>
+      <predicate>has</predicate>
+      <subject>1351949</subject>
+      <object>1351952</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609384</relationship_id>
+      <predicate>above</predicate>
+      <subject>1351954</subject>
+      <object>1351951</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609385</relationship_id>
+      <predicate>meets</predicate>
+      <subject>1351951</subject>
+      <object>1351954</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609386</relationship_id>
+      <predicate>flying above</predicate>
+      <subject>1351957</subject>
+      <object>1351950</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3609387</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1351948</subject>
+      <object>1351949</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>lush</attribute>
+        <attribute>a canopy</attribute>
+        <attribute>healthy</attribute>
+        <attribute>mangrove</attribute>
+        <attribute>very green</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>97</h>
+      <object_id>1351950</object_id>
+      <w>121</w>
+      <y>162</y>
+      <x>25</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>calm</attribute>
+        <attribute>greenish</attribute>
+        <attribute>wavy</attribute>
+        <attribute>in background</attribute>
+        <attribute>brownish</attribute>
+        <attribute>blue green</attribute>
+        <attribute>brown</attribute>
+        <attribute>green colored</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>water</name>
+      <h>119</h>
+      <object_id>1351951</object_id>
+      <w>498</w>
+      <y>252</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>trunks</name>
+      <h>23</h>
+      <object_id>1351953</object_id>
+      <w>54</w>
+      <y>231</y>
+      <x>216</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>flying</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>10</h>
+      <object_id>1351948</object_id>
+      <w>15</w>
+      <y>39</y>
+      <x>205</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>fluffy</attribute>
+        <attribute>wispy</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>21</h>
+      <object_id>1351952</object_id>
+      <w>130</w>
+      <y>4</y>
+      <x>275</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>beautiful</attribute>
+        <attribute>clear blue</attribute>
+        <attribute>very blue</attribute>
+        <attribute>blue</attribute>
+        <attribute>cloudy</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>125</h>
+      <object_id>1351949</object_id>
+      <w>498</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying</attribute>
+        <attribute>very black</attribute>
+      </attributes>
+      <name>bird</name>
+      <h>11</h>
+      <object_id>1351957</object_id>
+      <w>17</w>
+      <y>73</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light brown</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>roots</name>
+      <h>16</h>
+      <object_id>1351954</object_id>
+      <w>67</w>
+      <y>241</y>
+      <x>175</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A blue lagoon surrounded by a forest of green trees.</caption>
+      <caption>The tree roots appear to grow right out of the water.</caption>
+      <caption>Birds soaring over a small island of trees on the water.</caption>
+      <caption>Three birds fly over a densely wooded area.</caption>
+      <caption>an image of a water island and nestled trees</caption>
+    </captions>
+</image>

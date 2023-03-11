@@ -1,0 +1,76 @@
+<image>
+  <image-id>2327129</image-id>
+  <coco-id>77792</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3719935</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3086090</subject>
+      <object>3086092</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3719936</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3086090</subject>
+      <object>3086091</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4474705</relationship_id>
+      <predicate>has</predicate>
+      <subject>2741359</subject>
+      <object>3937963</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>84</h>
+      <object_id>3086090</object_id>
+      <w>38</w>
+      <y>226</y>
+      <x>312</x>
+    </object>
+    <object>
+      <name>lorry</name>
+      <h>162</h>
+      <object_id>3086092</object_id>
+      <w>335</w>
+      <y>144</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>64</h>
+      <object_id>3086091</object_id>
+      <w>45</w>
+      <y>181</y>
+      <x>279</x>
+    </object>
+    <object>
+      <name>tree</name>
+      <h>173</h>
+      <object_id>2741359</object_id>
+      <w>195</w>
+      <y>7</y>
+      <x>34</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red  </attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>28</h>
+      <object_id>3937963</object_id>
+      <w>28</w>
+      <y>83</y>
+      <x>179</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large truck on the side of a street.</caption>
+      <caption>Man standing next to semi-truck with nothing on back</caption>
+      <caption>a truck on a city street near many trees </caption>
+      <caption>A man standing outside of a large white truck.</caption>
+      <caption>a man is standing near a large truck</caption>
+    </captions>
+</image>

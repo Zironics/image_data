@@ -1,0 +1,71 @@
+<image>
+  <image-id>2321056</image-id>
+  <coco-id>117262</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3660803</relationship_id>
+      <predicate>with</predicate>
+      <subject>3707020</subject>
+      <object>3533371</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4076538</relationship_id>
+      <predicate>has</predicate>
+      <subject>3707020</subject>
+      <object>3661474</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3961866</relationship_id>
+      <predicate>going across</predicate>
+      <subject>3661474</subject>
+      <object>3475018</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <h>334</h>
+      <object_id>3707020</object_id>
+      <w>472</w>
+      <y>11</y>
+      <x>11</x>
+      <name>sky</name>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>90</h>
+      <object_id>3533371</object_id>
+      <w>243</w>
+      <y>11</y>
+      <x>149</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <h>73</h>
+      <object_id>3661474</object_id>
+      <w>281</w>
+      <y>16</y>
+      <x>105</x>
+      <name>cloud</name>
+    </object>
+    <object>
+      <name>sky.</name>
+      <h>67</h>
+      <object_id>3475018</object_id>
+      <w>167</w>
+      <y>29</y>
+      <x>59</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two planes flying in a line above some buildings.</caption>
+      <caption>A plane and a jet in the sky over some buildings.</caption>
+      <caption>two fighter jets flying over a buildingon a cloudy day</caption>
+      <caption>a couple of planes flying through the air </caption>
+      <caption>Two airplanes are flying over two tall buildings.</caption>
+    </captions>
+</image>

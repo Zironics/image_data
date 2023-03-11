@@ -1,0 +1,79 @@
+<image>
+  <image-id>2351119</image-id>
+  <coco-id>421042</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4406912</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2045836</subject>
+      <object>2532432</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406913</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2045836</subject>
+      <object>2532433</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4406914</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2457556</subject>
+      <object>2457555</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>skiing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>155</h>
+      <object_id>2045836</object_id>
+      <w>145</w>
+      <y>108</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>ski</name>
+      <h>41</h>
+      <object_id>2532432</object_id>
+      <w>184</w>
+      <y>237</y>
+      <x>152</x>
+    </object>
+    <object>
+      <name>ski</name>
+      <h>28</h>
+      <object_id>2532433</object_id>
+      <w>80</w>
+      <y>251</y>
+      <x>299</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>goggles</name>
+      <h>10</h>
+      <object_id>2457556</object_id>
+      <w>29</w>
+      <y>134</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>155</h>
+      <object_id>2457555</object_id>
+      <w>133</w>
+      <y>106</y>
+      <x>156</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding skis down a snow covered ski slope.</caption>
+      <caption>A skier leaning near a flag in the snow.</caption>
+      <caption>a skier is seen bending down going down a hill</caption>
+      <caption>A person on some skis in the snow.</caption>
+      <caption>A person who is racing down a hill on snow skis.</caption>
+    </captions>
+</image>

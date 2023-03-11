@@ -1,0 +1,37 @@
+<image>
+  <image-id>2337186</image-id>
+  <coco-id>22298</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4804078</relationship_id>
+      <predicate>on</predicate>
+      <subject>4608423</subject>
+      <object>4608424</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>door</name>
+      <h>136</h>
+      <object_id>4608423</object_id>
+      <w>50</w>
+      <y>96</y>
+      <x>315</x>
+    </object>
+    <object>
+      <name>bus</name>
+      <h>184</h>
+      <object_id>4608424</object_id>
+      <w>320</w>
+      <y>71</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An orange and gray bus in a parking lot.</caption>
+      <caption>An orange city bus driving across a parking lot.</caption>
+      <caption>The orange bus is travelling down the road.</caption>
+      <caption>this is a bus driving through an intersection</caption>
+      <caption>A city bus driving into a bus terminal</caption>
+    </captions>
+</image>

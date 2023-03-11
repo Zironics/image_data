@@ -1,0 +1,74 @@
+<image>
+  <image-id>2369966</image-id>
+  <coco-id>184497</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1551234</relationship_id>
+      <predicate>has</predicate>
+      <subject>607575</subject>
+      <object>607576</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1551235</relationship_id>
+      <predicate>has</predicate>
+      <subject>607580</subject>
+      <object>607594</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>partially shown</attribute>
+      </attributes>
+      <name>bathroom</name>
+      <h>488</h>
+      <object_id>607575</object_id>
+      <w>364</w>
+      <y>7</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+        <attribute>for bathroom</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>487</h>
+      <object_id>607576</object_id>
+      <w>363</w>
+      <y>7</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>inside bathroom</attribute>
+        <attribute>beneath  mirror</attribute>
+        <attribute>for bathroom</attribute>
+        <attribute>in bathroom</attribute>
+        <attribute>under  mirror</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>85</h>
+      <object_id>607580</object_id>
+      <w>140</w>
+      <y>392</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>hole</name>
+      <h>9</h>
+      <object_id>607594</object_id>
+      <w>8</w>
+      <y>407</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom sink with a long vanity mirror.</caption>
+      <caption>A bathroom wall with a vanity mirror and sink.</caption>
+      <caption>A bathroom with a sink, mirror, and dog painting.</caption>
+      <caption>A bathroom with a long mirror over the sink</caption>
+      <caption>A bathroom sink underneath a mirror next to a toilet paper roller.</caption>
+    </captions>
+</image>

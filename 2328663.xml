@@ -1,0 +1,87 @@
+<image>
+  <image-id>2328663</image-id>
+  <coco-id>527518</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4147392</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3159232</subject>
+      <object>2885816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4147393</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2973247</subject>
+      <object>2885816</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4147394</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3732782</subject>
+      <object>3170417</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4147396</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2885817</subject>
+      <object>2885816</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wing</name>
+      <h>34</h>
+      <object_id>3159232</object_id>
+      <w>210</w>
+      <y>163</y>
+      <x>288</x>
+    </object>
+    <object>
+      <h>252</h>
+      <object_id>2885816</object_id>
+      <w>499</w>
+      <y>15</y>
+      <x>0</x>
+      <name>airplane</name>
+    </object>
+    <object>
+      <name>right wing</name>
+      <h>62</h>
+      <object_id>2973247</object_id>
+      <w>183</w>
+      <y>155</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>windshield</name>
+      <h>16</h>
+      <object_id>3732782</object_id>
+      <w>49</w>
+      <y>144</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>plane</name>
+      <h>245</h>
+      <object_id>3170417</object_id>
+      <w>245</w>
+      <y>36</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>46</h>
+      <object_id>2885817</object_id>
+      <w>33</w>
+      <y>168</y>
+      <x>216</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A airplane that is sitting on a runway.</caption>
+      <caption>The airplane sits on the runway lined with snow.</caption>
+      <caption>An airplane on a runway pointing toward the camera</caption>
+      <caption>An airplane is on the runway of an airport. </caption>
+      <caption>Large sized airplane sitting in the middle of a landing strip in black and white.</caption>
+    </captions>
+</image>

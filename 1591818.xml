@@ -1,0 +1,62 @@
+<image>
+  <image-id>1591818</image-id>
+  <coco-id>520063</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4658384</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4240790</subject>
+      <object>4240791</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4658385</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4240795</subject>
+      <object>4240796</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>child</attribute>
+      </attributes>
+      <name>seat</name>
+      <h>136</h>
+      <object_id>4240790</object_id>
+      <w>87</w>
+      <y>595</y>
+      <x>313</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>326</h>
+      <object_id>4240791</object_id>
+      <w>444</w>
+      <y>591</y>
+      <x>292</x>
+    </object>
+    <object>
+      <name>basket</name>
+      <h>93</h>
+      <object_id>4240795</object_id>
+      <w>83</w>
+      <y>598</y>
+      <x>64</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>374</h>
+      <object_id>4240796</object_id>
+      <w>160</w>
+      <y>532</y>
+      <x>56</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people riding bikes down a street.</caption>
+      <caption>people on the bikes moving on the street</caption>
+      <caption>A shot of bicycles parked on a busy street.</caption>
+      <caption>A busy city street with several unattended bicycles lining the road.</caption>
+      <caption>a bunch of people walking down the street next to store fronts</caption>
+    </captions>
+</image>

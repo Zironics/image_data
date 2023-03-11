@@ -1,0 +1,95 @@
+<image>
+  <image-id>2383242</image-id>
+  <coco-id>482917</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4308841</relationship_id>
+      <predicate>between</predicate>
+      <subject>3848470</subject>
+      <object>3848471</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308210</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534201</subject>
+      <object>534202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308211</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534201</subject>
+      <object>534202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308212</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534201</subject>
+      <object>534202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308213</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534201</subject>
+      <object>534202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1308214</relationship_id>
+      <predicate>ON</predicate>
+      <subject>534201</subject>
+      <object>534202</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>white</attribute>
+        <attribute>lying down</attribute>
+      </attributes>
+      <name>dog</name>
+      <h>294</h>
+      <object_id>3848470</object_id>
+      <w>274</w>
+      <y>77</y>
+      <x>19</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>person's</attribute>
+      </attributes>
+      <name>legs</name>
+      <h>243</h>
+      <object_id>3848471</object_id>
+      <w>462</w>
+      <y>130</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>toy</name>
+      <h>48</h>
+      <object_id>534201</object_id>
+      <w>30</w>
+      <y>232</y>
+      <x>378</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>carpet</name>
+      <h>36</h>
+      <object_id>534202</object_id>
+      <w>102</w>
+      <y>213</y>
+      <x>375</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A dog sitting between its masters feet on a footstool watching tv
+</caption>
+      <caption>A dog between the feet of a person looking at a TV.</caption>
+      <caption>A dog and a person are watching television together.</caption>
+      <caption>A person is sitting with their dog watching tv.</caption>
+      <caption>A man relaxing at home, watching television with his dog.</caption>
+    </captions>
+</image>

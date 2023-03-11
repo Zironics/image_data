@@ -1,0 +1,69 @@
+<image>
+  <image-id>2416288</image-id>
+  <coco-id>145280</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3690062</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2867116</subject>
+      <object>3271407</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3690063</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3191171</subject>
+      <object>3259142</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>brown area</name>
+      <h>203</h>
+      <object_id>2867116</object_id>
+      <w>152</w>
+      <y>153</y>
+      <x>93</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>Light brown</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>face</name>
+      <h>331</h>
+      <object_id>3271407</object_id>
+      <w>282</w>
+      <y>25</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>lips</name>
+      <h>24</h>
+      <object_id>3191171</object_id>
+      <w>74</w>
+      <y>313</y>
+      <x>135</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>479</h>
+      <object_id>3259142</object_id>
+      <w>322</w>
+      <y>2</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large black bear sticking it's tongue out.</caption>
+      <caption>The black bear is staring with its beady eyes.</caption>
+      <caption>A large black and brown bear posing in front of the camera.</caption>
+      <caption>An adult black and brown bear looking straight ahead.</caption>
+      <caption>A large black bear is facing straight ahead.</caption>
+    </captions>
+</image>

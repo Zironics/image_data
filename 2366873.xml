@@ -1,0 +1,70 @@
+<image>
+  <image-id>2366873</image-id>
+  <coco-id>284128</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2056382</relationship_id>
+      <predicate>has</predicate>
+      <subject>753372</subject>
+      <object>753378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2056383</relationship_id>
+      <predicate>has</predicate>
+      <subject>753373</subject>
+      <object>753381</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>reflecting</attribute>
+        <attribute>on car</attribute>
+      </attributes>
+      <name>rear view mirror</name>
+      <h>263</h>
+      <object_id>753372</object_id>
+      <w>254</w>
+      <y>37</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>87</h>
+      <object_id>753378</object_id>
+      <w>108</w>
+      <y>245</y>
+      <x>64</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>closed</attribute>
+        <attribute>picture</attribute>
+      </attributes>
+      <name>window</name>
+      <h>86</h>
+      <object_id>753373</object_id>
+      <w>36</w>
+      <y>152</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>shutter</name>
+      <h>86</h>
+      <object_id>753381</object_id>
+      <w>22</w>
+      <y>151</y>
+      <x>210</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A review mirror reflecting a multi story house.</caption>
+      <caption>We can see the shutters on the house in the rear view mirror.</caption>
+      <caption>A magnifying glass scoping out windows on a house.</caption>
+      <caption>A black and white photo of a magnifiying glass showing windows</caption>
+      <caption>The reflection of an apartment building in a mirror.</caption>
+    </captions>
+</image>

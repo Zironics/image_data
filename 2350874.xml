@@ -1,0 +1,134 @@
+<image>
+  <image-id>2350874</image-id>
+  <coco-id>390483</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3794201</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1871635</subject>
+      <object>1800946</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3794203</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1871636</subject>
+      <object>1871632</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3794204</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2267966</subject>
+      <object>2032400</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408238</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2252876</subject>
+      <object>2252877</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408239</relationship_id>
+      <predicate>of a</predicate>
+      <subject>2252877</subject>
+      <object>2252878</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4408240</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>2252876</subject>
+      <object>2032398</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>103</h>
+      <object_id>1871635</object_id>
+      <w>182</w>
+      <y>72</y>
+      <x>263</x>
+      <name>bird</name>
+    </object>
+    <object>
+      <name>head</name>
+      <h>58</h>
+      <object_id>1800946</object_id>
+      <w>44</w>
+      <y>59</y>
+      <x>249</x>
+    </object>
+    <object>
+      <name>beak</name>
+      <h>39</h>
+      <object_id>1871636</object_id>
+      <w>29</w>
+      <y>76</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>bird</name>
+      <h>68</h>
+      <object_id>1871632</object_id>
+      <w>80</w>
+      <y>103</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>pink feather</name>
+      <h>20</h>
+      <object_id>2267966</object_id>
+      <w>25</w>
+      <y>139</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>flamingo</name>
+      <h>140</h>
+      <object_id>2032400</object_id>
+      <w>166</w>
+      <y>39</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>pink</attribute>
+      </attributes>
+      <name>pink feather</name>
+      <h>25</h>
+      <object_id>2252876</object_id>
+      <w>31</w>
+      <y>129</y>
+      <x>394</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>26</h>
+      <object_id>2252877</object_id>
+      <w>52</w>
+      <y>117</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>flamingo</name>
+      <h>127</h>
+      <object_id>2252878</object_id>
+      <w>192</w>
+      <y>59</y>
+      <x>259</x>
+    </object>
+    <object>
+      <name>flamingo</name>
+      <h>103</h>
+      <object_id>2032398</object_id>
+      <w>181</w>
+      <y>72</y>
+      <x>259</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of four flamingos swimming on a lake together.</caption>
+      <caption>There are four flamingos standing in the water.</caption>
+      <caption>Some flamingos are wading in a lake fishing</caption>
+      <caption>I have never seen flamingos fighting like the ones in the photo.</caption>
+      <caption>Flamingos are close together in the shore of the beach.</caption>
+    </captions>
+</image>

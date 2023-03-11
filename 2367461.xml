@@ -1,0 +1,87 @@
+<image>
+  <image-id>2367461</image-id>
+  <coco-id>310364</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4359211</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>2591670</subject>
+      <object>2134844</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4359212</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2591670</subject>
+      <object>2104852</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4359213</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2591670</subject>
+      <object>1933590</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4359214</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1703734</subject>
+      <object>1703735</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>344</h>
+      <object_id>2591670</object_id>
+      <w>105</w>
+      <y>148</y>
+      <x>227</x>
+    </object>
+    <object>
+      <name>restaurant</name>
+      <h>497</h>
+      <object_id>2134844</object_id>
+      <w>331</w>
+      <y>0</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>unbuttoned shirt</name>
+      <h>228</h>
+      <object_id>2104852</object_id>
+      <w>61</w>
+      <y>270</y>
+      <x>271</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>49</h>
+      <object_id>1933590</object_id>
+      <w>52</w>
+      <y>188</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>194</h>
+      <object_id>1703734</object_id>
+      <w>219</w>
+      <y>182</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>t shirt</name>
+      <h>206</h>
+      <object_id>1703735</object_id>
+      <w>201</w>
+      <y>271</y>
+      <x>63</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two men are looking at the broken parking meter.</caption>
+      <caption>A man opens a parking meter and another looks inside.</caption>
+      <caption>A man walking next to a parking meter near another man.</caption>
+      <caption>Two men operate a parking meter on a street. </caption>
+      <caption>A man taking apart a parking meter </caption>
+    </captions>
+</image>

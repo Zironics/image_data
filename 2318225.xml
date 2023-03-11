@@ -1,0 +1,98 @@
+<image>
+  <image-id>2318225</image-id>
+  <coco-id>563311</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4252254</relationship_id>
+      <predicate>on</predicate>
+      <subject>3185259</subject>
+      <object>3790915</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4252255</relationship_id>
+      <predicate>on</predicate>
+      <subject>3434269</subject>
+      <object>3614205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3845521</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3614195</subject>
+      <object>2991297</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3845540</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>3396118</subject>
+      <object>3614205</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>concrete</attribute>
+      </attributes>
+      <name>base</name>
+      <h>75</h>
+      <object_id>3185259</object_id>
+      <w>245</w>
+      <y>412</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>spire</name>
+      <h>461</h>
+      <object_id>3790915</object_id>
+      <w>231</w>
+      <y>35</y>
+      <x>49</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>40</h>
+      <object_id>3434269</object_id>
+      <w>21</w>
+      <y>286</y>
+      <x>233</x>
+    </object>
+    <object>
+      <h>472</h>
+      <object_id>3614205</object_id>
+      <w>231</w>
+      <y>26</y>
+      <x>49</x>
+      <name>building</name>
+    </object>
+    <object>
+      <name>rooster</name>
+      <h>21</h>
+      <object_id>3614195</object_id>
+      <w>17</w>
+      <y>21</y>
+      <x>167</x>
+    </object>
+    <object>
+      <name>tower</name>
+      <h>67</h>
+      <object_id>2991297</object_id>
+      <w>47</w>
+      <y>26</y>
+      <x>153</x>
+    </object>
+    <object>
+      <name>cross</name>
+      <h>41</h>
+      <object_id>3396118</object_id>
+      <w>21</w>
+      <y>26</y>
+      <x>164</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An old wooden steeple with a clock on it</caption>
+      <caption>A large wooden tower on top of a brick pillar.</caption>
+      <caption>A clock has been built into the steeple of a building.</caption>
+      <caption>A large tower with a clock on it and a cross on the top</caption>
+      <caption>A wooden clock tower with a weather vain on top</caption>
+    </captions>
+</image>

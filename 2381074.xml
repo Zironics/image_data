@@ -1,0 +1,57 @@
+<image>
+  <image-id>2381074</image-id>
+  <coco-id>314450</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4600487</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4096824</subject>
+      <object>4096823</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600486</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4096823</subject>
+      <object>4096822</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4600488</relationship_id>
+      <predicate>holding</predicate>
+      <subject>4096822</subject>
+      <object>4096824</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ski pole</name>
+      <h>70</h>
+      <object_id>4096824</object_id>
+      <w>29</w>
+      <y>103</y>
+      <x>224</x>
+    </object>
+    <object>
+      <name>hand</name>
+      <h>15</h>
+      <object_id>4096823</object_id>
+      <w>15</w>
+      <y>101</y>
+      <x>222</x>
+    </object>
+    <object>
+      <name>skier</name>
+      <h>110</h>
+      <object_id>4096822</object_id>
+      <w>92</w>
+      <y>74</y>
+      <x>219</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skier does a jump with her skis in the air.</caption>
+      <caption>a person with skis jumping high in the air </caption>
+      <caption>Man performing an exciting trick while skiing. </caption>
+      <caption>A man is skiing and did a high jump.</caption>
+      <caption>A person in midair with skis on their feet. </caption>
+    </captions>
+</image>

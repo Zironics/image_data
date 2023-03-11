@@ -1,0 +1,57 @@
+<image>
+  <image-id>2357380</image-id>
+  <coco-id>305779</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4672489</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4276305</subject>
+      <object>4276298</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4672490</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4276305</subject>
+      <object>4276301</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>220</h>
+      <object_id>4276305</object_id>
+      <w>309</w>
+      <y>75</y>
+      <x>57</x>
+      <name>aeroplane</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>sky</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>67</h>
+      <object_id>4276298</object_id>
+      <w>108</w>
+      <y>26</y>
+      <x>86</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>67</h>
+      <object_id>4276301</object_id>
+      <w>116</w>
+      <y>22</y>
+      <x>108</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>An airplane ascends through the bright blue sky.</caption>
+      <caption>A large commercial airplane that has just taken off</caption>
+      <caption>A white airplane with a multicolored tail soars in the blue sky.</caption>
+      <caption>A plane in the sky having just taken off from the runway</caption>
+      <caption>a red and white jet in the  ski</caption>
+    </captions>
+</image>

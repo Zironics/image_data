@@ -1,0 +1,115 @@
+<image>
+  <image-id>2318959</image-id>
+  <coco-id>414422</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3922849</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>3119784</subject>
+      <object>3119785</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3922858</relationship_id>
+      <predicate>with</predicate>
+      <subject>3191989</subject>
+      <object>3511445</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4498201</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3946700</subject>
+      <object>2956778</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3752784</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3191989</subject>
+      <object>3030700</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4498202</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3946701</subject>
+      <object>3511445</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>child</name>
+      <h>63</h>
+      <object_id>3119784</object_id>
+      <w>48</w>
+      <y>200</y>
+      <x>163</x>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>19</h>
+      <object_id>3119785</object_id>
+      <w>82</w>
+      <y>261</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white belt</name>
+      <h>14</h>
+      <object_id>3191989</object_id>
+      <w>35</w>
+      <y>185</y>
+      <x>113</x>
+    </object>
+    <object>
+      <h>60</h>
+      <object_id>3511445</object_id>
+      <w>63</w>
+      <y>179</y>
+      <x>112</x>
+      <name>pants</name>
+    </object>
+    <object>
+      <name>person</name>
+      <h>56</h>
+      <object_id>3946700</object_id>
+      <w>25</w>
+      <y>94</y>
+      <x>470</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red shirt</name>
+      <h>26</h>
+      <object_id>2956778</object_id>
+      <w>20</w>
+      <y>100</y>
+      <x>469</x>
+    </object>
+    <object>
+      <name>skater</name>
+      <h>154</h>
+      <object_id>3030700</object_id>
+      <w>68</w>
+      <y>103</y>
+      <x>115</x>
+    </object>
+    <object>
+      <name>chain</name>
+      <h>45</h>
+      <object_id>3946701</object_id>
+      <w>10</w>
+      <y>190</y>
+      <x>139</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man is riding a skateboard with a child on it.</caption>
+      <caption>a couple of people that are on a skateboard</caption>
+      <caption>A man pushes a young boy on a skateboard.</caption>
+      <caption>A boy sitting on a skateboard while another boy is standing on it riding down the street.</caption>
+      <caption>A young kid sitting on a skateboard while and older kid stands on it. </caption>
+    </captions>
+</image>

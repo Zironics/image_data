@@ -1,0 +1,87 @@
+<image>
+  <image-id>2338064</image-id>
+  <coco-id>478885</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4068389</relationship_id>
+      <predicate>with</predicate>
+      <subject>2428242</subject>
+      <object>2428243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460765</relationship_id>
+      <predicate>at</predicate>
+      <subject>2936590</subject>
+      <object>2936592</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4460766</relationship_id>
+      <predicate>at</predicate>
+      <subject>2359259</subject>
+      <object>2936592</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4068390</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2359258</subject>
+      <object>2359259</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>book shelf</name>
+      <h>95</h>
+      <object_id>2428242</object_id>
+      <w>98</w>
+      <y>15</y>
+      <x>7</x>
+    </object>
+    <object>
+      <name>items</name>
+      <h>33</h>
+      <object_id>2428243</object_id>
+      <w>61</w>
+      <y>36</y>
+      <x>32</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>157</h>
+      <object_id>2936590</object_id>
+      <w>100</w>
+      <y>103</y>
+      <x>374</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>214</h>
+      <object_id>2936592</object_id>
+      <w>443</w>
+      <y>117</y>
+      <x>40</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>99</h>
+      <object_id>2359259</object_id>
+      <w>249</w>
+      <y>230</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bag</name>
+      <h>76</h>
+      <object_id>2359258</object_id>
+      <w>107</w>
+      <y>255</y>
+      <x>74</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A computer desk with three computer monitors on top of it.</caption>
+      <caption>The desk has multiple computers screens and mouses on it. </caption>
+      <caption>Three computers, equipment and papers on a table.</caption>
+      <caption>a computer desk with some monitors and keyboards</caption>
+      <caption>A desk is cluttered with computer equipment and paper.</caption>
+    </captions>
+</image>

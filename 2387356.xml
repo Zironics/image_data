@@ -1,0 +1,146 @@
+<image>
+  <image-id>2387356</image-id>
+  <coco-id>237316</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1228553</relationship_id>
+      <predicate>ON</predicate>
+      <subject>513896</subject>
+      <object>513894</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1228554</relationship_id>
+      <predicate>on a</predicate>
+      <subject>513900</subject>
+      <object>513900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1228555</relationship_id>
+      <predicate>over</predicate>
+      <subject>513902</subject>
+      <object>513901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1228556</relationship_id>
+      <predicate>on a</predicate>
+      <subject>513896</subject>
+      <object>513904</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1228557</relationship_id>
+      <predicate>has a</predicate>
+      <subject>513908</subject>
+      <object>513901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1228558</relationship_id>
+      <predicate>on a</predicate>
+      <subject>513900</subject>
+      <object>513900</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1228559</relationship_id>
+      <predicate>has a</predicate>
+      <subject>513912</subject>
+      <object>513913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1228560</relationship_id>
+      <predicate>has a</predicate>
+      <subject>513908</subject>
+      <object>513901</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>sink</name>
+      <h>175</h>
+      <object_id>513896</object_id>
+      <w>97</w>
+      <y>246</y>
+      <x>162</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>tile</attribute>
+      </attributes>
+      <name>floor</name>
+      <h>87</h>
+      <object_id>513894</object_id>
+      <w>229</w>
+      <y>412</y>
+      <x>34</x>
+    </object>
+    <object>
+      <h>33</h>
+      <object_id>513900</object_id>
+      <w>29</w>
+      <y>231</y>
+      <x>73</x>
+      <name>roll</name>
+    </object>
+    <object>
+      <name>blind</name>
+      <h>28</h>
+      <object_id>513902</object_id>
+      <w>116</w>
+      <y>3</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>window</attribute>
+      </attributes>
+      <name>window</name>
+      <h>169</h>
+      <object_id>513901</object_id>
+      <w>109</w>
+      <y>56</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>pedestal</name>
+      <h>140</h>
+      <object_id>513904</object_id>
+      <w>43</w>
+      <y>285</y>
+      <x>200</x>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>496</h>
+      <object_id>513908</object_id>
+      <w>258</w>
+      <y>3</y>
+      <x>5</x>
+    </object>
+    <object>
+      <name>toliet lid</name>
+      <h>84</h>
+      <object_id>513912</object_id>
+      <w>76</w>
+      <y>261</y>
+      <x>67</x>
+    </object>
+    <object>
+      <name>bolt</name>
+      <h>15</h>
+      <object_id>513913</object_id>
+      <w>10</w>
+      <y>336</y>
+      <x>117</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>The tiny white bathroom has a toilet and pedestal sink.</caption>
+      <caption>A small bathroom still has all of the necessary amenities.</caption>
+      <caption>The lid is up on a toilet viewed through the open door of a bathroom.</caption>
+      <caption>A bathroom that has a window by the toilet and sink.</caption>
+      <caption>A white small bathroom showing the toilet bowl and sink with beige tiles.</caption>
+    </captions>
+</image>

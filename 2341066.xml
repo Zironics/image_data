@@ -1,0 +1,54 @@
+<image>
+  <image-id>2341066</image-id>
+  <coco-id>147775</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3961444</relationship_id>
+      <predicate>in a</predicate>
+      <subject>2452471</subject>
+      <object>3408201</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4094974</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2452471</subject>
+      <object>3713751</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>376</h>
+      <object_id>2452471</object_id>
+      <w>252</w>
+      <y>47</y>
+      <x>36</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <name>suitcase</name>
+      <h>244</h>
+      <object_id>3408201</object_id>
+      <w>241</w>
+      <y>234</y>
+      <x>44</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+      </attributes>
+      <name>suitcase</name>
+      <h>170</h>
+      <object_id>3713751</object_id>
+      <w>244</w>
+      <y>303</y>
+      <x>42</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The woman is sitting in her suitcase. </caption>
+      <caption>A woman attempting to zip herself into a suit case.</caption>
+      <caption>A woman is coming out of a suitcase on a bag. </caption>
+      <caption>A woman with long red hair packing herself into a suitcase.</caption>
+      <caption>A young woman sitting in a suitcase on top of a bed.</caption>
+    </captions>
+</image>

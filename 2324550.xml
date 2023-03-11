@@ -1,0 +1,98 @@
+<image>
+  <image-id>2324550</image-id>
+  <coco-id>372580</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4524540</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3076360</subject>
+      <object>3956566</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524541</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3406671</subject>
+      <object>3956567</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524542</relationship_id>
+      <predicate>has an</predicate>
+      <subject>3370668</subject>
+      <object>2871584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4524543</relationship_id>
+      <predicate>has a</predicate>
+      <subject>3370668</subject>
+      <object>3370667</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>helmet</name>
+      <h>27</h>
+      <object_id>3076360</object_id>
+      <w>45</w>
+      <y>73</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>guy</name>
+      <h>85</h>
+      <object_id>3956566</object_id>
+      <w>68</w>
+      <y>75</y>
+      <x>149</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>33</h>
+      <object_id>3406671</object_id>
+      <w>41</w>
+      <y>74</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>guy</name>
+      <h>89</h>
+      <object_id>3956567</object_id>
+      <w>60</w>
+      <y>75</y>
+      <x>153</x>
+    </object>
+    <object>
+      <h>90</h>
+      <object_id>3370668</object_id>
+      <w>74</w>
+      <y>74</y>
+      <x>151</x>
+      <name>guy</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>right arm</attribute>
+      </attributes>
+      <name>arm</name>
+      <h>67</h>
+      <object_id>2871584</object_id>
+      <w>32</w>
+      <y>95</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>left arm</name>
+      <h>24</h>
+      <object_id>3370667</object_id>
+      <w>10</w>
+      <y>106</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person on a board in the water.</caption>
+      <caption>A MALE OR FEMALE DOING A WATER SPORT IN THE RIVER.</caption>
+      <caption>A person on a surfboard  being pulled by something</caption>
+      <caption>A young person having fun wind surfing in a small lake.</caption>
+      <caption>A person on a board riding on a river</caption>
+    </captions>
+</image>

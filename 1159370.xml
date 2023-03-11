@@ -1,0 +1,63 @@
+<image>
+  <image-id>1159370</image-id>
+  <coco-id>534428</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4067370</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1592254</subject>
+      <object>3703170</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4067371</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3703171</subject>
+      <object>1592253</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>wall</name>
+      <h>151</h>
+      <object_id>1592254</object_id>
+      <w>126</w>
+      <y>48</y>
+      <x>406</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>360</h>
+      <object_id>3703170</object_id>
+      <w>691</w>
+      <y>10</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>439</h>
+      <object_id>3703171</object_id>
+      <w>913</w>
+      <y>387</y>
+      <x>145</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>open</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <h>48</h>
+      <object_id>1592253</object_id>
+      <w>117</w>
+      <y>542</y>
+      <x>432</x>
+      <name>umbrella.</name>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People are crossing a street with umbrellas on a rainy day.</caption>
+      <caption>Pedestrians carrying unfolded umbrellas cross a busy urban street corner in the rain.</caption>
+      <caption>A crowd of people walking down a rain soaked street while holding umbrella.</caption>
+      <caption>People walking with umbrellas on a city street.</caption>
+      <caption>A street scene with people crossing a street holding umbrellas. </caption>
+    </captions>
+</image>

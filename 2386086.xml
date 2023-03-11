@@ -1,0 +1,65 @@
+<image>
+  <image-id>2386086</image-id>
+  <coco-id>268322</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4627837</relationship_id>
+      <predicate>of a</predicate>
+      <subject>4164630</subject>
+      <object>4164640</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4627842</relationship_id>
+      <predicate>draped over a</predicate>
+      <subject>4164639</subject>
+      <object>4164640</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4627846</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4164630</subject>
+      <object>4164647</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>foot</name>
+      <h>83</h>
+      <object_id>4164630</object_id>
+      <w>150</w>
+      <y>118</y>
+      <x>179</x>
+    </object>
+    <object>
+      <h>167</h>
+      <object_id>4164640</object_id>
+      <w>329</w>
+      <y>118</y>
+      <x>170</x>
+      <name>bed</name>
+    </object>
+    <object>
+      <name>curtins</name>
+      <h>160</h>
+      <object_id>4164639</object_id>
+      <w>326</w>
+      <y>1</y>
+      <x>172</x>
+    </object>
+    <object>
+      <name>frame</name>
+      <h>27</h>
+      <object_id>4164647</object_id>
+      <w>30</w>
+      <y>257</y>
+      <x>181</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cabana-styled bedroom looks light and airy. </caption>
+      <caption>A bed in a hotel with a net hanging over it.</caption>
+      <caption>this large bed has a canopy over it </caption>
+      <caption>A bedroom with a bed on a very sunny day.</caption>
+      <caption>A tropical hotel room holds a bed with a white mosquito netting canopy.</caption>
+    </captions>
+</image>

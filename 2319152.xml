@@ -1,0 +1,43 @@
+<image>
+  <image-id>2319152</image-id>
+  <coco-id>365488</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4579641</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4047001</subject>
+      <object>4046995</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plant</name>
+      <h>165</h>
+      <object_id>4047001</object_id>
+      <w>333</w>
+      <y>114</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>ceramic</attribute>
+        <attribute>sunlit</attribute>
+        <attribute>white</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>vase</name>
+      <h>278</h>
+      <object_id>4046995</object_id>
+      <w>210</w>
+      <y>220</y>
+      <x>50</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cactus sits in a pretty green vase. </caption>
+      <caption>A green flower vase with monkey grass growing from it.</caption>
+      <caption>A small green vase with small green plants sticking out of it.</caption>
+      <caption>the vase is green and has a plant in it.</caption>
+      <caption>A green plant in a green vase with small white dots.</caption>
+    </captions>
+</image>

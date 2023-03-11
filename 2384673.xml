@@ -1,0 +1,67 @@
+<image>
+  <image-id>2384673</image-id>
+  <coco-id>421734</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1831667</relationship_id>
+      <predicate>ON</predicate>
+      <subject>691204</subject>
+      <object>691205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1831668</relationship_id>
+      <predicate>ON</predicate>
+      <subject>691207</subject>
+      <object>691205</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1831669</relationship_id>
+      <predicate>ON</predicate>
+      <subject>691204</subject>
+      <object>691205</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <name>handle</name>
+      <h>40</h>
+      <object_id>691204</object_id>
+      <w>26</w>
+      <y>146</y>
+      <x>247</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>53</h>
+      <object_id>691205</object_id>
+      <w>66</w>
+      <y>12</y>
+      <x>195</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>hanging</attribute>
+      </attributes>
+      <name>dispenser</name>
+      <h>98</h>
+      <object_id>691207</object_id>
+      <w>91</w>
+      <y>163</y>
+      <x>38</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A toilet stall that is white all around.</caption>
+      <caption>A toilet and toilet paper holder in a narrow room.</caption>
+      <caption>A white toilet open in a small room.</caption>
+      <caption>An empty bathroom with a toilet, paper dispenser and trash can.</caption>
+      <caption>a tiny bathroom with a toilet and a trash can</caption>
+    </captions>
+</image>

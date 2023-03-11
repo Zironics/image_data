@@ -1,0 +1,37 @@
+<image>
+  <image-id>2397717</image-id>
+  <coco-id>425175</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3349179</relationship_id>
+      <predicate>running on</predicate>
+      <subject>1187390</subject>
+      <object>1187391</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>dog</name>
+      <h>42</h>
+      <object_id>1187390</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>43</h>
+      <object_id>1187391</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Some pieces of food sitting on plates next to a large beverage.</caption>
+      <caption>A piece of food on top of a plate next to a glass of cola.</caption>
+      <caption>a plate of food and a tall glass of some type of drink</caption>
+      <caption>Plates of food and glasses of drinks sit on a table.</caption>
+      <caption>A coke, two glasses of water and cookies on two plates.</caption>
+    </captions>
+</image>

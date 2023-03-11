@@ -1,0 +1,62 @@
+<image>
+  <image-id>2339933</image-id>
+  <coco-id>223751</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4115927</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3100292</subject>
+      <object>3100293</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4002987</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2632337</subject>
+      <object>2632338</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>crashing</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>94</h>
+      <object_id>3100292</object_id>
+      <w>432</w>
+      <y>126</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>316</h>
+      <object_id>3100293</object_id>
+      <w>497</w>
+      <y>14</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ripples</name>
+      <h>71</h>
+      <object_id>2632337</object_id>
+      <w>85</w>
+      <y>67</y>
+      <x>156</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>132</h>
+      <object_id>2632338</object_id>
+      <w>262</w>
+      <y>88</y>
+      <x>76</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A surfer looks back as another surfer catches a wave.</caption>
+      <caption>A surfer glides through a wave as a female turns to watch.</caption>
+      <caption>Two people laying down on surf boards in the ocean.</caption>
+      <caption>Two people in the ocean riding on surfboards.</caption>
+      <caption>Two people on surfboards with one riding a wave towards the other.</caption>
+    </captions>
+</image>

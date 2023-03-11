@@ -1,0 +1,102 @@
+<image>
+  <image-id>2352894</image-id>
+  <coco-id>5916</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4236005</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1707862</subject>
+      <object>1707863</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4236006</relationship_id>
+      <predicate>says</predicate>
+      <subject>1707863</subject>
+      <object>2139235</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4236007</relationship_id>
+      <predicate>with</predicate>
+      <subject>1859156</subject>
+      <object>1859157</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4236008</relationship_id>
+      <predicate>has</predicate>
+      <subject>2489417</subject>
+      <object>2489418</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>playing</attribute>
+      </attributes>
+      <name>person</name>
+      <h>97</h>
+      <object_id>1707862</object_id>
+      <w>91</w>
+      <y>117</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>snowboard</name>
+      <h>22</h>
+      <object_id>1707863</object_id>
+      <w>117</w>
+      <y>105</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>word forum</name>
+      <h>16</h>
+      <object_id>2139235</object_id>
+      <w>63</w>
+      <y>105</y>
+      <x>151</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>snow</attribute>
+      </attributes>
+      <name>bank</name>
+      <h>135</h>
+      <object_id>1859156</object_id>
+      <w>120</w>
+      <y>299</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>91</h>
+      <object_id>1859157</object_id>
+      <w>105</w>
+      <y>381</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>117</h>
+      <object_id>2489417</object_id>
+      <w>249</w>
+      <y>381</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>68</h>
+      <object_id>2489418</object_id>
+      <w>56</w>
+      <y>399</y>
+      <x>161</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>there is a male skate boarder that is doing a trick </caption>
+      <caption>a man skiing very high with his head looking down</caption>
+      <caption>A person on a snowboard riding over a hill.</caption>
+      <caption>A man flying through the air on top of a snowboard.</caption>
+      <caption>A person that is upside-down in the air while snowboarding.</caption>
+    </captions>
+</image>

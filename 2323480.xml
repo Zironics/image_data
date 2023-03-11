@@ -1,0 +1,93 @@
+<image>
+  <image-id>2323480</image-id>
+  <coco-id>58708</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3640698</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2786667</subject>
+      <object>3524918</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3643018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2786667</subject>
+      <object>3505901</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3643019</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2786667</subject>
+      <object>2948963</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3643021</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3525939</subject>
+      <object>3214465</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+      </attributes>
+      <name>brick</name>
+      <h>27</h>
+      <object_id>2786667</object_id>
+      <w>50</w>
+      <y>18</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>437</h>
+      <object_id>3524918</object_id>
+      <w>261</w>
+      <y>17</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>75</h>
+      <object_id>3505901</object_id>
+      <w>265</w>
+      <y>2</y>
+      <x>108</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>109</h>
+      <object_id>2948963</object_id>
+      <w>373</w>
+      <y>2</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>150</h>
+      <object_id>3525939</object_id>
+      <w>154</w>
+      <y>120</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on wall</attribute>
+      </attributes>
+      <name>lady</name>
+      <h>425</h>
+      <object_id>3214465</object_id>
+      <w>253</w>
+      <y>74</y>
+      <x>21</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman wearing a white shirt and red tie.</caption>
+      <caption>A woman wearing a white shirt, red necktie, and black pants.</caption>
+      <caption>A heavy set lady wearing a red tie.</caption>
+      <caption>A woman in a 18th century costume is standing there.</caption>
+      <caption>A woman in a red tie and a white shirt.</caption>
+    </captions>
+</image>

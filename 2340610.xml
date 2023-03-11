@@ -1,0 +1,125 @@
+<image>
+  <image-id>2340610</image-id>
+  <coco-id>367313</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4447098</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3336838</subject>
+      <object>3017893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447099</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2978105</subject>
+      <object>3017893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447100</relationship_id>
+      <predicate>on front of</predicate>
+      <subject>3377455</subject>
+      <object>3017893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447102</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2434708</subject>
+      <object>3017893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447101</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3922724</subject>
+      <object>2434708</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447103</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2434708</subject>
+      <object>3017893</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447104</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2434709</subject>
+      <object>2434708</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4447105</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3336838</subject>
+      <object>3017893</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>257</h>
+      <object_id>3336838</object_id>
+      <w>434</w>
+      <y>77</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>cellphone</name>
+      <h>331</h>
+      <object_id>3017893</object_id>
+      <w>219</w>
+      <y>1</y>
+      <x>137</x>
+    </object>
+    <object>
+      <name>music</name>
+      <h>28</h>
+      <object_id>2978105</object_id>
+      <w>33</w>
+      <y>141</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>brand</name>
+      <h>21</h>
+      <object_id>3377455</object_id>
+      <w>91</w>
+      <y>267</y>
+      <x>210</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mobile</attribute>
+      </attributes>
+      <h>191</h>
+      <object_id>2434708</object_id>
+      <w>163</w>
+      <y>76</y>
+      <x>165</x>
+      <name>phone screen</name>
+    </object>
+    <object>
+      <name>apps</name>
+      <h>143</h>
+      <object_id>3922724</object_id>
+      <w>150</w>
+      <y>101</y>
+      <x>178</x>
+    </object>
+    <object>
+      <name>camera icon</name>
+      <h>24</h>
+      <object_id>2434709</object_id>
+      <w>41</w>
+      <y>220</y>
+      <x>180</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Closeup of a hand holding a black cellphone.</caption>
+      <caption>A person holding up a cell phone displaying menu of icons.</caption>
+      <caption>a person is shown holding on to a phone </caption>
+      <caption>A samsung cell phone being held in a a hand with a missed alerts message on the screen.  </caption>
+      <caption>There is a phone showing missed alerts on the screen</caption>
+    </captions>
+</image>

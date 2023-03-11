@@ -1,0 +1,84 @@
+<image>
+  <image-id>2321521</image-id>
+  <coco-id>355247</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4539196</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3358720</subject>
+      <object>3358721</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3787101</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3005086</subject>
+      <object>3005087</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3787105</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2913744</subject>
+      <object>2913745</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bikini</name>
+      <h>249</h>
+      <object_id>3358720</object_id>
+      <w>237</w>
+      <y>207</y>
+      <x>31</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>417</h>
+      <object_id>3358721</object_id>
+      <w>265</w>
+      <y>70</y>
+      <x>23</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bikini</attribute>
+      </attributes>
+      <name>top</name>
+      <h>70</h>
+      <object_id>3005086</object_id>
+      <w>80</w>
+      <y>220</y>
+      <x>99</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>461</h>
+      <object_id>3005087</object_id>
+      <w>178</w>
+      <y>37</y>
+      <x>60</x>
+    </object>
+    <object>
+      <name>sunglasses</name>
+      <h>16</h>
+      <object_id>2913744</object_id>
+      <w>28</w>
+      <y>172</y>
+      <x>138</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>460</h>
+      <object_id>2913745</object_id>
+      <w>188</w>
+      <y>37</y>
+      <x>45</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman hitting a volleyball on a beach court.</caption>
+      <caption>The woman in the swimsuit is reaching for the volleyball. </caption>
+      <caption>A woman in a bikini hitting a volleyball</caption>
+      <caption>a woman in a bikini hitting a volleyball</caption>
+      <caption>The woman is jumping and hitting a volleyball.</caption>
+    </captions>
+</image>

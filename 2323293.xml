@@ -1,0 +1,82 @@
+<image>
+  <image-id>2323293</image-id>
+  <coco-id>571200</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3644557</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3341600</subject>
+      <object>3341603</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3644558</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3341601</subject>
+      <object>3341603</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3644559</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3341602</subject>
+      <object>3341603</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3644560</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3341604</subject>
+      <object>3341603</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cloud</name>
+      <h>41</h>
+      <object_id>3341600</object_id>
+      <w>39</w>
+      <y>3</y>
+      <x>459</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>54</h>
+      <object_id>3341603</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>56</h>
+      <object_id>3341601</object_id>
+      <w>212</w>
+      <y>0</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>62</h>
+      <object_id>3341602</object_id>
+      <w>107</w>
+      <y>0</y>
+      <x>62</x>
+    </object>
+    <object>
+      <name>cloud</name>
+      <h>24</h>
+      <object_id>3341604</object_id>
+      <w>55</w>
+      <y>3</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bus that is very rusted and damaged. </caption>
+      <caption>a worn down bus sits in a gravel lot</caption>
+      <caption>An old, rusty bus sits in a small lot.</caption>
+      <caption>An old bus sits rusty and rotting in the yard.</caption>
+      <caption>An old, run down city bus sits parked, with rust.</caption>
+    </captions>
+</image>

@@ -1,0 +1,115 @@
+<image>
+  <image-id>2417085</image-id>
+  <coco-id>196170</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4155224</relationship_id>
+      <predicate>at</predicate>
+      <subject>3511370</subject>
+      <object>3735852</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3725676</relationship_id>
+      <predicate>filled with</predicate>
+      <subject>3222103</subject>
+      <object>3562921</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4155276</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3237419</subject>
+      <object>3237420</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3704923</relationship_id>
+      <predicate>and</predicate>
+      <subject>3265425</subject>
+      <object>3265426</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>298</h>
+      <object_id>3511370</object_id>
+      <w>447</w>
+      <y>10</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>restaurant</name>
+      <h>371</h>
+      <object_id>3735852</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>filled</attribute>
+      </attributes>
+      <name>cup</name>
+      <h>66</h>
+      <object_id>3222103</object_id>
+      <w>32</w>
+      <y>249</y>
+      <x>313</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>liquid</name>
+      <h>70</h>
+      <object_id>3562921</object_id>
+      <w>41</w>
+      <y>249</y>
+      <x>305</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>135</h>
+      <object_id>3237419</object_id>
+      <w>60</w>
+      <y>0</y>
+      <x>111</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark pink</attribute>
+      </attributes>
+      <name>tanktop</name>
+      <h>70</h>
+      <object_id>3237420</object_id>
+      <w>50</w>
+      <y>29</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>56</h>
+      <object_id>3265425</object_id>
+      <w>51</w>
+      <y>3</y>
+      <x>329</x>
+    </object>
+    <object>
+      <name>chairs</name>
+      <h>177</h>
+      <object_id>3265426</object_id>
+      <w>145</w>
+      <y>187</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a large group of people eating in the restaurant. </caption>
+      <caption>Men are sitting at a table enjoying lunch.</caption>
+      <caption>this is an image of people eating at a restaurant</caption>
+      <caption>Several people eating out of large bowls at a wooden table.</caption>
+      <caption>A group of men sitting around at a table eating.</caption>
+    </captions>
+</image>

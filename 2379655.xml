@@ -1,0 +1,92 @@
+<image>
+  <image-id>2379655</image-id>
+  <coco-id>563370</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3965939</relationship_id>
+      <predicate>surfing in</predicate>
+      <subject>1947885</subject>
+      <object>1947886</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3965940</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3663047</subject>
+      <object>3663048</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3965941</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2560631</subject>
+      <object>1864802</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>35</h>
+      <object_id>1947885</object_id>
+      <w>20</w>
+      <y>407</y>
+      <x>287</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>blue shirt</name>
+      <h>12</h>
+      <object_id>1947886</object_id>
+      <w>15</w>
+      <y>412</y>
+      <x>289</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>20</h>
+      <object_id>3663047</object_id>
+      <w>36</w>
+      <y>311</y>
+      <x>320</x>
+    </object>
+    <object>
+      <name>house</name>
+      <h>36</h>
+      <object_id>3663048</object_id>
+      <w>74</w>
+      <y>302</y>
+      <x>297</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wave</name>
+      <h>39</h>
+      <object_id>2560631</object_id>
+      <w>234</w>
+      <y>415</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>light blue</attribute>
+      </attributes>
+      <name>water</name>
+      <h>95</h>
+      <object_id>1864802</object_id>
+      <w>497</w>
+      <y>403</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large body of water sitting next to lots of houses..</caption>
+      <caption>Two people riding the waves in a very scenic setting.</caption>
+      <caption>Two surfers riding a small wave under a residential shoreline.</caption>
+      <caption>Two surfers ride a small wave with houses on a hillside in the background. </caption>
+      <caption>Two people are in the water with a landscape behind them.</caption>
+    </captions>
+</image>

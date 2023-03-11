@@ -1,0 +1,79 @@
+<image>
+  <image-id>2328804</image-id>
+  <coco-id>254228</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4086377</relationship_id>
+      <predicate>has</predicate>
+      <subject>2712085</subject>
+      <object>2712086</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4144847</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3710892</subject>
+      <object>2789671</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086380</relationship_id>
+      <predicate>has</predicate>
+      <subject>3710892</subject>
+      <object>2723957</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cows</name>
+      <h>332</h>
+      <object_id>2712085</object_id>
+      <w>442</w>
+      <y>93</y>
+      <x>53</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>darker</attribute>
+      </attributes>
+      <name>head</name>
+      <h>323</h>
+      <object_id>2712086</object_id>
+      <w>174</w>
+      <y>168</y>
+      <x>311</x>
+    </object>
+    <object>
+      <h>162</h>
+      <object_id>3710892</object_id>
+      <w>84</w>
+      <y>20</y>
+      <x>54</x>
+      <name>dog</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>big</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>324</h>
+      <object_id>2789671</object_id>
+      <w>460</w>
+      <y>155</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>nose</name>
+      <h>27</h>
+      <object_id>2723957</object_id>
+      <w>37</w>
+      <y>61</y>
+      <x>87</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A small dog sitting on the back of a cow.</caption>
+      <caption>A dog is standing on top of a cow.</caption>
+      <caption>Black and white photo of a dog on a cow's back</caption>
+      <caption>A small dog sits on top of a cow.</caption>
+      <caption>A dog riding on the back of a cow. </caption>
+    </captions>
+</image>

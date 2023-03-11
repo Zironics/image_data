@@ -1,0 +1,66 @@
+<image>
+  <image-id>2368832</image-id>
+  <coco-id>310200</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1582739</relationship_id>
+      <predicate>behind</predicate>
+      <subject>615727</subject>
+      <object>615726</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1582740</relationship_id>
+      <predicate>behind</predicate>
+      <subject>615728</subject>
+      <object>615726</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+        <attribute>full</attribute>
+      </attributes>
+      <name>jar</name>
+      <h>106</h>
+      <object_id>615727</object_id>
+      <w>94</w>
+      <y>1</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>white inside</attribute>
+        <attribute>fried</attribute>
+        <attribute>yummy</attribute>
+        <attribute>delicious</attribute>
+        <attribute>cooked</attribute>
+        <attribute>done</attribute>
+        <attribute>cut</attribute>
+        <attribute>yellow inside</attribute>
+      </attributes>
+      <name>food</name>
+      <h>260</h>
+      <object_id>615726</object_id>
+      <w>344</w>
+      <y>66</y>
+      <x>91</x>
+    </object>
+    <object>
+      <name>handle</name>
+      <h>52</h>
+      <object_id>615728</object_id>
+      <w>48</w>
+      <y>32</y>
+      <x>132</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>The dessert has been split into two halves on the plate.</caption>
+      <caption>A desert split open showing a cake filling.</caption>
+      <caption>A pastry with sugar on the outside that is cut in half</caption>
+      <caption>A piece of food sits on the plate on the table.</caption>
+      <caption>A pastry is torn in half on a plate.</caption>
+    </captions>
+</image>

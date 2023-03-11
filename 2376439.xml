@@ -1,0 +1,177 @@
+<image>
+  <image-id>2376439</image-id>
+  <coco-id>50350</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4021685</relationship_id>
+      <predicate>pattered</predicate>
+      <subject>2909870</subject>
+      <object>2909869</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021686</relationship_id>
+      <predicate>on edge of</predicate>
+      <subject>3083090</subject>
+      <object>3685247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021687</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3685246</subject>
+      <object>2847200</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021688</relationship_id>
+      <predicate>in a</predicate>
+      <subject>1731458</subject>
+      <object>3685247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021689</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3685247</subject>
+      <object>2705465</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4302114</relationship_id>
+      <predicate>by a</predicate>
+      <subject>3685246</subject>
+      <object>3685247</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4302115</relationship_id>
+      <predicate>by a</predicate>
+      <subject>3083090</subject>
+      <object>2565665</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3949413</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3228983</subject>
+      <object>3228984</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4302116</relationship_id>
+      <predicate>of a</predicate>
+      <subject>3840138</subject>
+      <object>2677333</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flower</name>
+      <h>51</h>
+      <object_id>2909870</object_id>
+      <w>35</w>
+      <y>202</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>curtain</name>
+      <h>246</h>
+      <object_id>2909869</object_id>
+      <w>105</w>
+      <y>128</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>soap</name>
+      <h>21</h>
+      <object_id>3083090</object_id>
+      <w>20</w>
+      <y>124</y>
+      <x>323</x>
+    </object>
+    <object>
+      <h>229</h>
+      <object_id>3685247</object_id>
+      <w>210</w>
+      <y>132</y>
+      <x>291</x>
+      <name>bathtub</name>
+    </object>
+    <object>
+      <h>26</h>
+      <object_id>3685246</object_id>
+      <w>90</w>
+      <y>107</y>
+      <x>364</x>
+      <name>pillow</name>
+    </object>
+    <object>
+      <name>tube</name>
+      <h>240</h>
+      <object_id>2847200</object_id>
+      <w>214</w>
+      <y>134</y>
+      <x>285</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+        <attribute>blue </attribute>
+      </attributes>
+      <h>118</h>
+      <object_id>1731458</object_id>
+      <w>127</w>
+      <y>223</y>
+      <x>358</x>
+      <name>bath mat</name>
+    </object>
+    <object>
+      <name>bathroom</name>
+      <h>373</h>
+      <object_id>2705465</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>bathtub</name>
+      <h>242</h>
+      <object_id>2565665</object_id>
+      <w>217</w>
+      <y>132</y>
+      <x>282</x>
+    </object>
+    <object>
+      <name>rolls</name>
+      <h>35</h>
+      <object_id>3228983</object_id>
+      <w>54</w>
+      <y>168</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>toilet paper</name>
+      <h>36</h>
+      <object_id>3228984</object_id>
+      <w>52</w>
+      <y>168</y>
+      <x>239</x>
+    </object>
+    <object>
+      <name>part</name>
+      <h>68</h>
+      <object_id>3840138</object_id>
+      <w>50</w>
+      <y>278</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>curtain</name>
+      <h>284</h>
+      <object_id>2677333</object_id>
+      <w>104</w>
+      <y>87</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white tub sitting next to a toilet in a bathroom.</caption>
+      <caption>A bathroom with a toilet and a bath tub and wooden walls.</caption>
+      <caption>A restroom with a bathtub and a toilet.</caption>
+      <caption>There is a bath tub and a toilet in the bathroom.</caption>
+      <caption>A bathtub that has a blue mat inside of it.</caption>
+    </captions>
+</image>

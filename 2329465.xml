@@ -1,0 +1,37 @@
+<image>
+  <image-id>2329465</image-id>
+  <coco-id>227293</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4831294</relationship_id>
+      <predicate>on</predicate>
+      <subject>4675339</subject>
+      <object>4675340</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>mustard</name>
+      <h>256</h>
+      <object_id>4675339</object_id>
+      <w>150</w>
+      <y>60</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>food</name>
+      <h>338</h>
+      <object_id>4675340</object_id>
+      <w>275</w>
+      <y>27</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A plate topped with a hot dog in a bun next to a  fried patty.</caption>
+      <caption>A hot dog in a bun filled with condiments sits on a plate.</caption>
+      <caption>A plate has a hotdog and chicken on it.</caption>
+      <caption>A hotdog with mayonnaise and mustard is on a plate.</caption>
+      <caption>A hotdog with condiments on a plate with other food and a knife.</caption>
+    </captions>
+</image>

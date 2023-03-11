@@ -1,0 +1,40 @@
+<image>
+  <image-id>2397725</image-id>
+  <coco-id>271763</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4721010</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4394501</subject>
+      <object>4394502</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>jack</name>
+      <h>22</h>
+      <object_id>4394501</object_id>
+      <w>20</w>
+      <y>437</y>
+      <x>353</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>57</h>
+      <object_id>4394502</object_id>
+      <w>370</w>
+      <y>441</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A close up of the front of an old locomotive.</caption>
+      <caption>An old black train engine in a building.</caption>
+      <caption>An large old fashioned steam engine on display.</caption>
+      <caption>A large locomotive train sitting stationary at a station.</caption>
+      <caption>A photograph of an old rusty train artifact.</caption>
+    </captions>
+</image>

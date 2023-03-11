@@ -1,0 +1,71 @@
+<image>
+  <image-id>285809</image-id>
+  <coco-id>527183</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3794976</relationship_id>
+      <predicate>between</predicate>
+      <subject>1569684</subject>
+      <object>3592077</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3794977</relationship_id>
+      <predicate>between</predicate>
+      <subject>1569684</subject>
+      <object>3592078</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3794978</relationship_id>
+      <predicate>behind</predicate>
+      <subject>1569685</subject>
+      <object>3592077</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>fence</name>
+      <h>747</h>
+      <object_id>1569684</object_id>
+      <w>927</w>
+      <y>13</y>
+      <x>95</x>
+    </object>
+    <object>
+      <name>animal</name>
+      <h>748</h>
+      <object_id>3592077</object_id>
+      <w>1001</w>
+      <y>5</y>
+      <x>20</x>
+    </object>
+    <object>
+      <name>boy</name>
+      <h>759</h>
+      <object_id>3592078</object_id>
+      <w>510</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brick</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>691</h>
+      <object_id>1569685</object_id>
+      <w>851</w>
+      <y>0</y>
+      <x>171</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A smiling boy is feeding a giraffe through a fence.</caption>
+      <caption>Young boy with giraffe in enclosed fenced area.</caption>
+      <caption>The boy is touching the giraffe through the fence.</caption>
+      <caption>A young boy is petting a giraffe through the fence. </caption>
+      <caption>A boy petting a giraffe through a chain-link fence inside a building.</caption>
+    </captions>
+</image>

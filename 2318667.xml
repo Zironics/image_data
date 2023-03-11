@@ -1,0 +1,41 @@
+<image>
+  <image-id>2318667</image-id>
+  <coco-id>211027</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3953233</relationship_id>
+      <predicate>has</predicate>
+      <subject>3027608</subject>
+      <object>3027609</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>clouds</attribute>
+        <attribute>in the picture</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>330</h>
+      <object_id>3027608</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>clouds</name>
+      <h>330</h>
+      <object_id>3027609</object_id>
+      <w>497</w>
+      <y>1</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A airplane that is flying in the sky.</caption>
+      <caption>a big commuter plane flies through the air </caption>
+      <caption>a white and blue plane is in the sky</caption>
+      <caption>An SAS airplane flies with landing gear down.</caption>
+      <caption>A passenger jet that is flying in the sky.</caption>
+    </captions>
+</image>

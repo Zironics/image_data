@@ -1,0 +1,79 @@
+<image>
+  <image-id>2393983</image-id>
+  <coco-id>191298</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1051775</relationship_id>
+      <predicate>and</predicate>
+      <subject>468102</subject>
+      <object>468103</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1051776</relationship_id>
+      <predicate>ON</predicate>
+      <subject>468102</subject>
+      <object>468104</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1051777</relationship_id>
+      <predicate>ON</predicate>
+      <subject>468102</subject>
+      <object>468104</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1051778</relationship_id>
+      <predicate>ON</predicate>
+      <subject>468102</subject>
+      <object>468104</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1051779</relationship_id>
+      <predicate>and</predicate>
+      <subject>468102</subject>
+      <object>468103</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1051780</relationship_id>
+      <predicate>and</predicate>
+      <subject>468102</subject>
+      <object>468103</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>eating</attribute>
+        <attribute>walking</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>73</h>
+      <object_id>468102</object_id>
+      <w>92</w>
+      <y>141</y>
+      <x>203</x>
+    </object>
+    <object>
+      <name>lamb</name>
+      <h>57</h>
+      <object_id>468103</object_id>
+      <w>47</w>
+      <y>172</y>
+      <x>316</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>133</h>
+      <object_id>468104</object_id>
+      <w>491</w>
+      <y>113</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bunch of animals resting in the brush</caption>
+      <caption>Eight sheep standing and eating from a tree.</caption>
+      <caption>Some sheep grazing under some trees near some water</caption>
+      <caption>Several sheep grazing in a field and trees. </caption>
+      <caption>A herd of goats foraging for food in the mountains.</caption>
+    </captions>
+</image>

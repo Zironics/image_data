@@ -1,0 +1,95 @@
+<image>
+  <image-id>2336831</image-id>
+  <coco-id>338</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4448318</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3923491</subject>
+      <object>3923493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448319</relationship_id>
+      <predicate>standing in</predicate>
+      <subject>3923492</subject>
+      <object>3923493</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448320</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2015283</subject>
+      <object>2015284</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4448321</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2523910</subject>
+      <object>3923494</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>143</h>
+      <object_id>3923491</object_id>
+      <w>72</w>
+      <y>110</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>kitchen</name>
+      <h>253</h>
+      <object_id>3923493</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>120</h>
+      <object_id>3923492</object_id>
+      <w>47</w>
+      <y>134</y>
+      <x>343</x>
+    </object>
+    <object>
+      <name>clock</name>
+      <h>20</h>
+      <object_id>2015283</object_id>
+      <w>19</w>
+      <y>68</y>
+      <x>358</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>42</h>
+      <object_id>2015284</object_id>
+      <w>87</w>
+      <y>24</y>
+      <x>287</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>87</h>
+      <object_id>2523910</object_id>
+      <w>180</w>
+      <y>54</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>stove</name>
+      <h>84</h>
+      <object_id>3923494</object_id>
+      <w>108</w>
+      <y>169</y>
+      <x>19</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two people standing in a kitchen looking around. </caption>
+      <caption>A couple of men are standing in a kitchen</caption>
+      <caption>Two people looking at a large kitchen </caption>
+      <caption>An elderly man and woman looking around in a kitchen.</caption>
+      <caption>Two people standing close to each other while standing in a kitchen.</caption>
+    </captions>
+</image>

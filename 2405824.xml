@@ -1,0 +1,68 @@
+<image>
+  <image-id>2405824</image-id>
+  <coco-id>501257</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>704593</relationship_id>
+      <predicate>ON</predicate>
+      <subject>371752</subject>
+      <object>371754</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3239292</relationship_id>
+      <predicate>painting on</predicate>
+      <subject>1106068</subject>
+      <object>1106069</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3239296</relationship_id>
+      <predicate>walking with</predicate>
+      <subject>1106068</subject>
+      <object>1106069</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>paint</name>
+      <h>67</h>
+      <object_id>371752</object_id>
+      <w>73</w>
+      <y>108</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>113</h>
+      <object_id>371754</object_id>
+      <w>199</w>
+      <y>96</y>
+      <x>126</x>
+    </object>
+    <object>
+      <name>happy little paint</name>
+      <h>38</h>
+      <object_id>1106068</object_id>
+      <w>40</w>
+      <y>22</y>
+      <x>16</x>
+    </object>
+    <object>
+      <name>an easel</name>
+      <h>38</h>
+      <object_id>1106069</object_id>
+      <w>41</w>
+      <y>26</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train moves along some railroad tracks near a station.</caption>
+      <caption>A train driving down the tracks near a city.</caption>
+      <caption>A passenger train on the tracks by an urban area. </caption>
+      <caption>A lone train going down a railroad track in a train yard.</caption>
+      <caption>A train that is on the tracks during the day. </caption>
+    </captions>
+</image>

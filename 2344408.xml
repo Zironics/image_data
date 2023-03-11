@@ -1,0 +1,37 @@
+<image>
+  <image-id>2344408</image-id>
+  <coco-id>116206</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4435056</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>3915119</subject>
+      <object>2065849</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>knife</name>
+      <h>198</h>
+      <object_id>3915119</object_id>
+      <w>173</w>
+      <y>97</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>293</h>
+      <object_id>2065849</object_id>
+      <w>461</w>
+      <y>60</y>
+      <x>22</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption> A wooden cutting board filled with chopped vegetables.</caption>
+      <caption>A wooden board filled chopped vegetables and a knife.</caption>
+      <caption>A cutting board and knife, with chopped carrots, celery, and onion.</caption>
+      <caption>Chopped vegetables and a knife sit on the cutting board.  </caption>
+      <caption>Vegetable pieces and knife are kept on cutting board.Cabbage is on the table.</caption>
+    </captions>
+</image>

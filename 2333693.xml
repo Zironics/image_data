@@ -1,0 +1,73 @@
+<image>
+  <image-id>2333693</image-id>
+  <coco-id>240436</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4005293</relationship_id>
+      <predicate>covering</predicate>
+      <subject>3447930</subject>
+      <object>3678960</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4454747</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3102170</subject>
+      <object>3927378</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4016792</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3102170</subject>
+      <object>3683401</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>trees</name>
+      <h>84</h>
+      <object_id>3447930</object_id>
+      <w>190</w>
+      <y>63</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>hill</name>
+      <h>98</h>
+      <object_id>3678960</object_id>
+      <w>210</w>
+      <y>19</y>
+      <x>180</x>
+    </object>
+    <object>
+      <h>84</h>
+      <object_id>3102170</object_id>
+      <w>31</w>
+      <y>173</y>
+      <x>258</x>
+      <name>trees</name>
+    </object>
+    <object>
+      <name>bank</name>
+      <h>59</h>
+      <object_id>3927378</object_id>
+      <w>216</w>
+      <y>204</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>side</name>
+      <h>360</h>
+      <object_id>3683401</object_id>
+      <w>95</w>
+      <y>12</y>
+      <x>7</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>water and trees with a mountain behind them.</caption>
+      <caption>There is a tree covered mountain behind the river.</caption>
+      <caption>river in forested area with large hills in background</caption>
+      <caption>A tree lined river in front of a hill. </caption>
+      <caption>The river sparkles as it winds it way through the mountain pass.</caption>
+    </captions>
+</image>

@@ -1,0 +1,101 @@
+<image>
+  <image-id>1592055</image-id>
+  <coco-id>205247</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251189</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3790491</subject>
+      <object>1606198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251190</relationship_id>
+      <predicate>OF</predicate>
+      <subject>3790492</subject>
+      <object>1606198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251191</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3790493</subject>
+      <object>1606198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251192</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3790494</subject>
+      <object>1606198</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251193</relationship_id>
+      <predicate>behind</predicate>
+      <subject>3790495</subject>
+      <object>1606198</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>advertisement</name>
+      <h>126</h>
+      <object_id>3790491</object_id>
+      <w>485</w>
+      <y>359</y>
+      <x>242</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>front wheel</attribute>
+        <attribute>back wheel </attribute>
+        <attribute>colored</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>263</h>
+      <object_id>1606198</object_id>
+      <w>1000</w>
+      <y>254</y>
+      <x>12</x>
+    </object>
+    <object>
+      <name>driver</name>
+      <h>74</h>
+      <object_id>3790492</object_id>
+      <w>59</w>
+      <y>307</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>number</name>
+      <h>31</h>
+      <object_id>3790493</object_id>
+      <w>55</w>
+      <y>268</y>
+      <x>43</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>115</h>
+      <object_id>3790494</object_id>
+      <w>148</w>
+      <y>264</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> bare</attribute>
+      </attributes>
+      <name>tree</name>
+      <h>279</h>
+      <object_id>3790495</object_id>
+      <w>780</w>
+      <y>3</y>
+      <x>4</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A long white red and blue bus driving down a street next to trees.</caption>
+      <caption>A bus for Bearcats Basketball Ohio on the road </caption>
+      <caption>A bus is sitting on the side of the road.</caption>
+      <caption>A white, blue and green passenger bus with an advertisement on the side.</caption>
+      <caption>a public transit bus on a city street</caption>
+    </captions>
+</image>

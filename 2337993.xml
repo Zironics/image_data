@@ -1,0 +1,109 @@
+<image>
+  <image-id>2337993</image-id>
+  <coco-id>549002</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4069730</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3704230</subject>
+      <object>3704231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4069731</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3704232</subject>
+      <object>3034020</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4069732</relationship_id>
+      <predicate>behind</predicate>
+      <subject>2153089</subject>
+      <object>3704233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4069734</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3704234</subject>
+      <object>2012350</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>icing</name>
+      <h>80</h>
+      <object_id>3704230</object_id>
+      <w>72</w>
+      <y>133</y>
+      <x>219</x>
+    </object>
+    <object>
+      <name>doughnuts</name>
+      <h>80</h>
+      <object_id>3704231</object_id>
+      <w>77</w>
+      <y>133</y>
+      <x>211</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown </attribute>
+      </attributes>
+      <name>icing</name>
+      <h>73</h>
+      <object_id>3704232</object_id>
+      <w>52</w>
+      <y>88</y>
+      <x>410</x>
+    </object>
+    <object>
+      <name>doughnuts</name>
+      <h>98</h>
+      <object_id>3034020</object_id>
+      <w>120</w>
+      <y>89</y>
+      <x>341</x>
+    </object>
+    <object>
+      <name>cupcake holders</name>
+      <h>124</h>
+      <object_id>2153089</object_id>
+      <w>462</w>
+      <y>1</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>doughnut</name>
+      <h>80</h>
+      <object_id>3704233</object_id>
+      <w>64</w>
+      <y>117</y>
+      <x>286</x>
+    </object>
+    <object>
+      <name>sprinkle</name>
+      <h>14</h>
+      <object_id>3704234</object_id>
+      <w>9</w>
+      <y>169</y>
+      <x>141</x>
+    </object>
+    <object>
+      <name>doughnuts</name>
+      <h>172</h>
+      <object_id>2012350</object_id>
+      <w>439</w>
+      <y>84</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A line up of a ring shaped candies next to some other treats.</caption>
+      <caption>Some miniature doughnuts that are lined up together.</caption>
+      <caption>A group of six miniature donuts next to cup cake wrappers.</caption>
+      <caption>six colorful donuts standing on their sides on a table </caption>
+      <caption>A number of donuts with icing and sprinkles on them. </caption>
+    </captions>
+</image>

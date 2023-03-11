@@ -1,0 +1,90 @@
+<image>
+  <image-id>1592712</image-id>
+  <coco-id>436370</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4265018</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1612074</subject>
+      <object>3798006</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265019</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1612075</subject>
+      <object>3798007</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4265020</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1612076</subject>
+      <object>3798008</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>49</h>
+      <object_id>1612074</object_id>
+      <w>63</w>
+      <y>306</y>
+      <x>398</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snowy</attribute>
+      </attributes>
+      <name>slope</name>
+      <h>174</h>
+      <object_id>3798006</object_id>
+      <w>175</w>
+      <y>252</y>
+      <x>387</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>48</h>
+      <object_id>1612075</object_id>
+      <w>75</w>
+      <y>390</y>
+      <x>292</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snowy</attribute>
+      </attributes>
+      <name>slope</name>
+      <h>256</h>
+      <object_id>3798007</object_id>
+      <w>270</w>
+      <y>234</y>
+      <x>246</x>
+    </object>
+    <object>
+      <name>person</name>
+      <h>58</h>
+      <object_id>1612076</object_id>
+      <w>78</w>
+      <y>286</y>
+      <x>90</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>snowy</attribute>
+      </attributes>
+      <name>slope</name>
+      <h>209</h>
+      <object_id>3798008</object_id>
+      <w>196</w>
+      <y>236</y>
+      <x>35</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man sitting on snow covered ground riding a snowboard.</caption>
+      <caption>A man on a snowboard is sitting in the snow</caption>
+      <caption>A snowboarder sits in the snow at the base of a tall mountain.</caption>
+      <caption>The person is sitting in the snow with their surf board.</caption>
+      <caption>A person on a snowboard is sitting on a snowy hill.</caption>
+    </captions>
+</image>

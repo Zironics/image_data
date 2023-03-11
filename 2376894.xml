@@ -1,0 +1,462 @@
+<image>
+  <image-id>2376894</image-id>
+  <coco-id>554302</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4300999</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3839228</subject>
+      <object>568978</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301000</relationship_id>
+      <predicate>hanging from</predicate>
+      <subject>3839229</subject>
+      <object>568997</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301001</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>3839240</subject>
+      <object>3839230</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301002</relationship_id>
+      <predicate>OF</predicate>
+      <subject>568989</subject>
+      <object>3839231</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301003</relationship_id>
+      <predicate>IN</predicate>
+      <subject>568990</subject>
+      <object>568979</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301004</relationship_id>
+      <predicate>holding</predicate>
+      <subject>568994</subject>
+      <object>3839233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301005</relationship_id>
+      <predicate>under</predicate>
+      <subject>568995</subject>
+      <object>3839234</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301006</relationship_id>
+      <predicate>at</predicate>
+      <subject>3839235</subject>
+      <object>568996</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301007</relationship_id>
+      <predicate>next to</predicate>
+      <subject>3839235</subject>
+      <object>568980</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301008</relationship_id>
+      <predicate>at</predicate>
+      <subject>568999</subject>
+      <object>3839238</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301009</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>569000</subject>
+      <object>3839239</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301010</relationship_id>
+      <predicate>holding</predicate>
+      <subject>3839240</subject>
+      <object>569001</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301011</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3839241</subject>
+      <object>3839243</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301013</relationship_id>
+      <predicate>standing next to</predicate>
+      <subject>3839241</subject>
+      <object>568980</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301012</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3839242</subject>
+      <object>3839244</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301014</relationship_id>
+      <predicate>riding</predicate>
+      <subject>3839242</subject>
+      <object>3839246</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301015</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>3839251</subject>
+      <object>568994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301016</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>3839251</subject>
+      <object>568994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301017</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>3839251</subject>
+      <object>568994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301018</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>3839251</subject>
+      <object>568994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301019</relationship_id>
+      <predicate>lying on top of</predicate>
+      <subject>3839251</subject>
+      <object>568994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301020</relationship_id>
+      <predicate>hanging over</predicate>
+      <subject>3839252</subject>
+      <object>3839252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301021</relationship_id>
+      <predicate>lying in</predicate>
+      <subject>3839253</subject>
+      <object>569005</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301022</relationship_id>
+      <predicate>lying in</predicate>
+      <subject>3839253</subject>
+      <object>569005</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301023</relationship_id>
+      <predicate>lying in</predicate>
+      <subject>3839253</subject>
+      <object>569005</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301024</relationship_id>
+      <predicate>lying in</predicate>
+      <subject>3839253</subject>
+      <object>569005</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4301025</relationship_id>
+      <predicate>lying in</predicate>
+      <subject>3839253</subject>
+      <object>569005</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>95</h>
+      <object_id>3839228</object_id>
+      <w>53</w>
+      <y>111</y>
+      <x>246</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> blue</attribute>
+        <attribute>tee</attribute>
+      </attributes>
+      <name>blue t-shirt</name>
+      <h>70</h>
+      <object_id>568978</object_id>
+      <w>70</w>
+      <y>112</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>26</h>
+      <object_id>3839229</object_id>
+      <w>44</w>
+      <y>42</y>
+      <x>81</x>
+    </object>
+    <object>
+      <h>70</h>
+      <object_id>568997</object_id>
+      <w>45</w>
+      <y>54</y>
+      <x>142</x>
+      <name>hanging for sale</name>
+    </object>
+    <object>
+      <h>93</h>
+      <object_id>3839240</object_id>
+      <w>38</w>
+      <y>108</y>
+      <x>172</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>25</h>
+      <object_id>3839230</object_id>
+      <w>63</w>
+      <y>40</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> green</attribute>
+      </attributes>
+      <name>green bushel</name>
+      <h>114</h>
+      <object_id>568989</object_id>
+      <w>55</w>
+      <y>12</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>17</h>
+      <object_id>3839231</object_id>
+      <w>60</w>
+      <y>47</y>
+      <x>76</x>
+    </object>
+    <object>
+      <name>woman in white</name>
+      <h>95</h>
+      <object_id>568990</object_id>
+      <w>74</w>
+      <y>151</y>
+      <x>343</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> white</attribute>
+        <attribute> woman's</attribute>
+      </attributes>
+      <h>77</h>
+      <object_id>568979</object_id>
+      <w>62</w>
+      <y>168</y>
+      <x>347</x>
+      <name>white blouse</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> yellow</attribute>
+      </attributes>
+      <name>yellow crate</name>
+      <h>59</h>
+      <object_id>568994</object_id>
+      <w>156</w>
+      <y>296</y>
+      <x>47</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>40</h>
+      <object_id>3839233</object_id>
+      <w>61</w>
+      <y>43</y>
+      <x>71</x>
+    </object>
+    <object>
+      <name>paper under bananas</name>
+      <h>53</h>
+      <object_id>568995</object_id>
+      <w>180</w>
+      <y>266</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>bananas</name>
+      <h>36</h>
+      <object_id>3839234</object_id>
+      <w>57</w>
+      <y>43</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>166</h>
+      <object_id>3839235</object_id>
+      <w>106</w>
+      <y>116</y>
+      <x>300</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>for fruit</attribute>
+      </attributes>
+      <name>fruit stand</name>
+      <h>328</h>
+      <object_id>568996</object_id>
+      <w>463</w>
+      <y>13</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> black</attribute>
+      </attributes>
+      <h>163</h>
+      <object_id>568980</object_id>
+      <w>105</w>
+      <y>161</y>
+      <x>395</x>
+      <name>black motorcycle</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute> unripe</attribute>
+        <attribute> for fruit</attribute>
+      </attributes>
+      <name>unripe bananas</name>
+      <h>101</h>
+      <object_id>568999</object_id>
+      <w>135</w>
+      <y>87</y>
+      <x>188</x>
+    </object>
+    <object>
+      <name>stand</name>
+      <h>351</h>
+      <object_id>3839238</object_id>
+      <w>490</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute> in pink</attribute>
+      </attributes>
+      <name>woman in pink</name>
+      <h>118</h>
+      <object_id>569000</object_id>
+      <w>65</w>
+      <y>148</y>
+      <x>296</x>
+    </object>
+    <object>
+      <name>mask</name>
+      <h>19</h>
+      <object_id>3839239</object_id>
+      <w>20</w>
+      <y>141</y>
+      <x>333</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>of fruit</attribute>
+      </attributes>
+      <name>holding bag</name>
+      <h>61</h>
+      <object_id>569001</object_id>
+      <w>31</w>
+      <y>125</y>
+      <x>194</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>88</h>
+      <object_id>3839241</object_id>
+      <w>70</w>
+      <y>96</y>
+      <x>387</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>28</h>
+      <object_id>3839243</object_id>
+      <w>32</w>
+      <y>94</y>
+      <x>389</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>67</h>
+      <object_id>3839242</object_id>
+      <w>48</w>
+      <y>99</y>
+      <x>417</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>34</h>
+      <object_id>3839244</object_id>
+      <w>23</w>
+      <y>100</y>
+      <x>420</x>
+    </object>
+    <object>
+      <name>scooter</name>
+      <h>78</h>
+      <object_id>3839246</object_id>
+      <w>59</w>
+      <y>140</y>
+      <x>425</x>
+    </object>
+    <object>
+      <h>50</h>
+      <object_id>3839251</object_id>
+      <w>174</w>
+      <y>246</y>
+      <x>49</x>
+      <name>banana</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>awning</name>
+      <h>91</h>
+      <object_id>3839252</object_id>
+      <w>315</w>
+      <y>12</y>
+      <x>169</x>
+    </object>
+    <object>
+      <name>banana</name>
+      <h>14</h>
+      <object_id>3839253</object_id>
+      <w>14</w>
+      <y>323</y>
+      <x>270</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>brown bowl</name>
+      <h>52</h>
+      <object_id>569005</object_id>
+      <w>70</w>
+      <y>155</y>
+      <x>39</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a group of people stand around a bunch of fruit </caption>
+      <caption>an open market with bananas and other friuts</caption>
+      <caption>People look at a display of fruit at a farmer's market.</caption>
+      <caption>View of a market with many ripe and green bananas, hanging and on tables under tents, with people and a motorcycle.</caption>
+      <caption>A marked filled with lots of ripe and unripe bananas.</caption>
+    </captions>
+</image>

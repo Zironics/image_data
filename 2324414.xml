@@ -1,0 +1,77 @@
+<image>
+  <image-id>2324414</image-id>
+  <coco-id>544035</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2950995</relationship_id>
+      <predicate>IN</predicate>
+      <subject>987965</subject>
+      <object>987964</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2950996</relationship_id>
+      <predicate>has</predicate>
+      <subject>987966</subject>
+      <object>987973</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>water</name>
+      <h>42</h>
+      <object_id>987965</object_id>
+      <w>27</w>
+      <y>144</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>27</h>
+      <object_id>987964</object_id>
+      <w>39</w>
+      <y>289</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tail</attribute>
+        <attribute>trunk</attribute>
+        <attribute>several</attribute>
+        <attribute>standing</attribute>
+        <attribute>head</attribute>
+        <attribute>leg</attribute>
+        <attribute>walking</attribute>
+        <attribute>up</attribute>
+        <attribute>group</attribute>
+        <attribute>body</attribute>
+        <attribute>eye</attribute>
+        <attribute>ear</attribute>
+        <attribute>mouth</attribute>
+      </attributes>
+      <name>elephant</name>
+      <h>113</h>
+      <object_id>987966</object_id>
+      <w>118</w>
+      <y>163</y>
+      <x>36</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>81</h>
+      <object_id>987973</object_id>
+      <w>105</w>
+      <y>216</y>
+      <x>30</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two vans are in the grass by a group of elephants.</caption>
+      <caption>Elephants are wandering around a field with two vans.</caption>
+      <caption>Two vans out in a field with four elephants. </caption>
+      <caption>Elephants approach two vans out on an open savanna.  </caption>
+      <caption>An Elephant approaching vehicles in a zoo exhibit, while two others walk away..</caption>
+    </captions>
+</image>

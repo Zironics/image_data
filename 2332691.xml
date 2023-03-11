@@ -1,0 +1,96 @@
+<image>
+  <image-id>2332691</image-id>
+  <coco-id>133034</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4462824</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3314742</subject>
+      <object>3931913</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086751</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3314742</subject>
+      <object>3314743</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086753</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3131895</subject>
+      <object>3376717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4086754</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3313898</subject>
+      <object>3376717</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3707195</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3314742</subject>
+      <object>3376717</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <h>125</h>
+      <object_id>3314742</object_id>
+      <w>245</w>
+      <y>208</y>
+      <x>141</x>
+      <name>cellphone</name>
+    </object>
+    <object>
+      <name>table</name>
+      <h>318</h>
+      <object_id>3931913</object_id>
+      <w>443</w>
+      <y>3</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>45</h>
+      <object_id>3314743</object_id>
+      <w>102</w>
+      <y>65</y>
+      <x>68</x>
+    </object>
+    <object>
+      <name>watch</name>
+      <h>95</h>
+      <object_id>3131895</object_id>
+      <w>123</w>
+      <y>101</y>
+      <x>237</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>323</h>
+      <object_id>3376717</object_id>
+      <w>497</w>
+      <y>2</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>ipod</name>
+      <h>101</h>
+      <object_id>3313898</object_id>
+      <w>138</w>
+      <y>105</y>
+      <x>32</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The phone is laying on the desk with all of the other stuff.</caption>
+      <caption>A view of a cell phone and a watch on a table.</caption>
+      <caption>A cell phone on disorganized work space with other things</caption>
+      <caption>Two cell phones, a camera, a watch, a passport, chapstick, and a clip of money litter the table.</caption>
+      <caption>there are two phones and a watch on the table</caption>
+    </captions>
+</image>

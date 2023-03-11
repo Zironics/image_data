@@ -1,0 +1,87 @@
+<image>
+  <image-id>2390196</image-id>
+  <coco-id>494991</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4750815</relationship_id>
+      <predicate>has</predicate>
+      <subject>4467978</subject>
+      <object>4467974</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4750816</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4467972</subject>
+      <object>4467976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4750817</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4467984</subject>
+      <object>4467972</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>carafe</name>
+      <h>257</h>
+      <object_id>4467978</object_id>
+      <w>187</w>
+      <y>158</y>
+      <x>81</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>clear</attribute>
+      </attributes>
+      <h>62</h>
+      <object_id>4467974</object_id>
+      <w>75</w>
+      <y>96</y>
+      <x>126</x>
+      <name>glass top</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark red</attribute>
+        <attribute>red</attribute>
+      </attributes>
+      <h>166</h>
+      <object_id>4467972</object_id>
+      <w>335</w>
+      <y>328</y>
+      <x>2</x>
+      <name>cloth</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>66</h>
+      <object_id>4467976</object_id>
+      <w>337</w>
+      <y>270</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>315</h>
+      <object_id>4467984</object_id>
+      <w>186</w>
+      <y>97</y>
+      <x>83</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>This is a thing that is straightforward and plain. 
+</caption>
+      <caption>A glass bottle on a red surface with a red backdrop</caption>
+      <caption>a fancy colorful bottle sitting on a tablecloth
+</caption>
+      <caption>A vase that is sitting on a table.
+
+</caption>
+      <caption>a small glass vile is sitting on a table</caption>
+    </captions>
+</image>

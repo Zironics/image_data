@@ -1,0 +1,168 @@
+<image>
+  <image-id>2397022</image-id>
+  <coco-id>28307</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3361259</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1193460</subject>
+      <object>1193459</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361260</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1193462</subject>
+      <object>1193463</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361261</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1193460</subject>
+      <object>1193467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361262</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1193460</subject>
+      <object>1193468</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361263</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>1193460</subject>
+      <object>1193473</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361264</relationship_id>
+      <predicate>has a</predicate>
+      <subject>1193467</subject>
+      <object>1193475</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361265</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1193460</subject>
+      <object>1193467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361266</relationship_id>
+      <predicate>next to</predicate>
+      <subject>1193460</subject>
+      <object>1193467</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3361267</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1193467</subject>
+      <object>1193481</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>standing in street</attribute>
+      </attributes>
+      <name>man</name>
+      <h>296</h>
+      <object_id>1193460</object_id>
+      <w>118</w>
+      <y>19</y>
+      <x>22</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+        <attribute>striped</attribute>
+      </attributes>
+      <name>pants</name>
+      <h>151</h>
+      <object_id>1193459</object_id>
+      <w>85</w>
+      <y>155</y>
+      <x>30</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>flying high</attribute>
+      </attributes>
+      <name>kite</name>
+      <h>46</h>
+      <object_id>1193462</object_id>
+      <w>12</w>
+      <y>41</y>
+      <x>338</x>
+    </object>
+    <object>
+      <name>sky</name>
+      <h>175</h>
+      <object_id>1193463</object_id>
+      <w>276</w>
+      <y>0</y>
+      <x>127</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>being held up</attribute>
+        <attribute>tall</attribute>
+        <attribute>circular</attribute>
+        <attribute>red</attribute>
+        <attribute>white</attribute>
+        <attribute>stop sign</attribute>
+      </attributes>
+      <name>sign</name>
+      <h>319</h>
+      <object_id>1193467</object_id>
+      <w>77</w>
+      <y>1</y>
+      <x>74</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>reflective</attribute>
+        <attribute>yellow</attribute>
+        <attribute>flourescent yellow</attribute>
+      </attributes>
+      <name>vest</name>
+      <h>97</h>
+      <object_id>1193468</object_id>
+      <w>56</w>
+      <y>64</y>
+      <x>28</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>30</h>
+      <object_id>1193473</object_id>
+      <w>30</w>
+      <y>19</y>
+      <x>44</x>
+    </object>
+    <object>
+      <name>wooden pole</name>
+      <h>244</h>
+      <object_id>1193475</object_id>
+      <w>33</w>
+      <y>76</y>
+      <x>112</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>174</h>
+      <object_id>1193481</object_id>
+      <w>498</w>
+      <y>199</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A construction worker is holding a stop sign</caption>
+      <caption>A man holding a red stop sign while standing on a busy street.</caption>
+      <caption>A person holding a stop sign on a street.</caption>
+      <caption>Construction workers holding a sign and fixing the road.</caption>
+      <caption>A construction working holding a stop sign while standing in the street.
+</caption>
+    </captions>
+</image>

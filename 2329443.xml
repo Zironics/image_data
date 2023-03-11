@@ -1,0 +1,124 @@
+<image>
+  <image-id>2329443</image-id>
+  <coco-id>320658</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4022843</relationship_id>
+      <predicate>resting on a</predicate>
+      <subject>3436125</subject>
+      <object>2878527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022845</relationship_id>
+      <predicate>laying on</predicate>
+      <subject>3436125</subject>
+      <object>2942695</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022847</relationship_id>
+      <predicate>on a</predicate>
+      <subject>2878527</subject>
+      <object>3297994</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3647708</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3436125</subject>
+      <object>2951848</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022859</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3335473</subject>
+      <object>3335474</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4022874</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3436125</subject>
+      <object>3685730</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>186</h>
+      <object_id>3436125</object_id>
+      <w>242</w>
+      <y>161</y>
+      <x>4</x>
+      <name>cat</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black </attribute>
+      </attributes>
+      <h>269</h>
+      <object_id>2878527</object_id>
+      <w>245</w>
+      <y>90</y>
+      <x>195</x>
+      <name>laptop</name>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>168</h>
+      <object_id>2942695</object_id>
+      <w>174</w>
+      <y>100</y>
+      <x>217</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>128</h>
+      <object_id>3297994</object_id>
+      <w>498</w>
+      <y>244</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>table</name>
+      <h>81</h>
+      <object_id>2951848</object_id>
+      <w>37</w>
+      <y>291</y>
+      <x>437</x>
+    </object>
+    <object>
+      <name>letters</name>
+      <h>58</h>
+      <object_id>3335473</object_id>
+      <w>75</w>
+      <y>246</y>
+      <x>286</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>keys</name>
+      <h>95</h>
+      <object_id>3335474</object_id>
+      <w>115</w>
+      <y>215</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>laptop</name>
+      <h>285</h>
+      <object_id>3685730</object_id>
+      <w>265</w>
+      <y>84</y>
+      <x>178</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A cat sleeping on top of an open laptop computer.</caption>
+      <caption>Big cat resting on top of the laptop</caption>
+      <caption>A cat resting on the keyboard of a laptop.</caption>
+      <caption>A cat is on a desk next to a laptop.</caption>
+      <caption>Cat investigating keyboard of a powered on laptop.</caption>
+    </captions>
+</image>

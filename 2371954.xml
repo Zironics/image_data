@@ -1,0 +1,87 @@
+<image>
+  <image-id>2371954</image-id>
+  <coco-id>25</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1499098</relationship_id>
+      <predicate>has</predicate>
+      <subject>594986</subject>
+      <object>594987</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1499099</relationship_id>
+      <predicate>has</predicate>
+      <subject>594986</subject>
+      <object>594987</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1499100</relationship_id>
+      <predicate>near</predicate>
+      <subject>594988</subject>
+      <object>594991</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>tall</attribute>
+        <attribute>brown</attribute>
+        <attribute>eating</attribute>
+        <attribute>grazing</attribute>
+        <attribute>standing</attribute>
+        <attribute>spotted</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>232</h>
+      <object_id>594986</object_id>
+      <w>185</w>
+      <y>39</y>
+      <x>281</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>tail</name>
+      <h>38</h>
+      <object_id>594987</object_id>
+      <w>55</w>
+      <y>198</y>
+      <x>412</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>gray</attribute>
+        <attribute>long</attribute>
+        <attribute>bare</attribute>
+      </attributes>
+      <name>log</name>
+      <h>15</h>
+      <object_id>594988</object_id>
+      <w>183</w>
+      <y>275</y>
+      <x>316</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>30</h>
+      <object_id>594991</object_id>
+      <w>32</w>
+      <y>300</y>
+      <x>398</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe eating food from the top of the tree.</caption>
+      <caption>A giraffe standing up nearby a tree </caption>
+      <caption>A giraffe mother with its baby in the forest.</caption>
+      <caption>Two giraffes standing in a tree filled area.</caption>
+      <caption>A giraffe standing next to a forest filled with trees.</caption>
+    </captions>
+</image>

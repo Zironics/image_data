@@ -1,0 +1,96 @@
+<image>
+  <image-id>2386731</image-id>
+  <coco-id>389965</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3513517</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1283070</subject>
+      <object>1283071</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513518</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>1283067</subject>
+      <object>1283070</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513519</relationship_id>
+      <predicate>playing a</predicate>
+      <subject>1283063</subject>
+      <object>1283077</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3513520</relationship_id>
+      <predicate>on a</predicate>
+      <subject>1283067</subject>
+      <object>1283070</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>cinder block</name>
+      <h>78</h>
+      <object_id>1283070</object_id>
+      <w>61</w>
+      <y>288</y>
+      <x>11</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>94</h>
+      <object_id>1283071</object_id>
+      <w>351</w>
+      <y>280</y>
+      <x>32</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>surround sound</attribute>
+        <attribute>black</attribute>
+        <attribute>wooden</attribute>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>speaker</name>
+      <h>59</h>
+      <object_id>1283067</object_id>
+      <w>57</w>
+      <y>236</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>male</attribute>
+        <attribute>young</attribute>
+        <attribute>in motion</attribute>
+        <attribute>blurry</attribute>
+        <attribute>playing wii</attribute>
+        <attribute>a teen</attribute>
+      </attributes>
+      <name>gamer</name>
+      <h>255</h>
+      <object_id>1283063</object_id>
+      <w>123</w>
+      <y>119</y>
+      <x>331</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>colorful</attribute>
+      </attributes>
+      <name>game</name>
+      <h>98</h>
+      <object_id>1283077</object_id>
+      <w>129</w>
+      <y>184</y>
+      <x>94</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>an image of two kids playing a video game</caption>
+      <caption>Two kids standing in front of a tv playing video games.</caption>
+      <caption>A man and woman playing a game with Nintendo Wii controllers.</caption>
+      <caption>Two people who are playing video games against each other.</caption>
+      <caption>Two people playing wii in a living room while other people watch.</caption>
+    </captions>
+</image>

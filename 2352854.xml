@@ -1,0 +1,82 @@
+<image>
+  <image-id>2352854</image-id>
+  <coco-id>139492</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4236266</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3038150</subject>
+      <object>2730476</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4236267</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2368205</subject>
+      <object>2418850</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4401782</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3038150</subject>
+      <object>3895674</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3820077</relationship_id>
+      <predicate>on bottom of</predicate>
+      <subject>2368205</subject>
+      <object>3895674</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>66</h>
+      <object_id>3038150</object_id>
+      <w>94</w>
+      <y>231</y>
+      <x>126</x>
+      <name>tissue</name>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>149</h>
+      <object_id>2730476</object_id>
+      <w>394</w>
+      <y>188</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>toilet tissue</attribute>
+      </attributes>
+      <h>67</h>
+      <object_id>2368205</object_id>
+      <w>94</w>
+      <y>230</y>
+      <x>126</x>
+      <name>roll</name>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>202</h>
+      <object_id>2418850</object_id>
+      <w>197</w>
+      <y>123</y>
+      <x>276</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>297</h>
+      <object_id>3895674</object_id>
+      <w>460</w>
+      <y>74</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A white toilet in a bathroom next to a roll of toilet paper.</caption>
+      <caption>A roll of toilet paper is on the floor next to a toilet.</caption>
+      <caption>A toilet with toilet paper next to it</caption>
+      <caption>A white toilet and some tissue in a room.</caption>
+      <caption>A bathroom with a white toilet and a roll of toilet paper on the floor</caption>
+    </captions>
+</image>

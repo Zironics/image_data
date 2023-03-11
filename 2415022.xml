@@ -1,0 +1,97 @@
+<image>
+  <image-id>2415022</image-id>
+  <coco-id>280765</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>142559</relationship_id>
+      <predicate>has</predicate>
+      <subject>147538</subject>
+      <object>147539</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142560</relationship_id>
+      <predicate>holding</predicate>
+      <subject>147543</subject>
+      <object>147541</object>
+    </relationship>
+    <relationship>
+      <relationship_id>142561</relationship_id>
+      <predicate>behind</predicate>
+      <subject>147544</subject>
+      <object>147545</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>garbage can</name>
+      <h>89</h>
+      <object_id>147538</object_id>
+      <w>40</w>
+      <y>193</y>
+      <x>459</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>lining</name>
+      <h>41</h>
+      <object_id>147539</object_id>
+      <w>40</w>
+      <y>195</y>
+      <x>459</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>184</h>
+      <object_id>147543</object_id>
+      <w>59</w>
+      <y>101</y>
+      <x>249</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>inflatable</attribute>
+        <attribute>balloon</attribute>
+        <attribute>floating</attribute>
+      </attributes>
+      <name>shark</name>
+      <h>144</h>
+      <object_id>147541</object_id>
+      <w>185</w>
+      <y>121</y>
+      <x>212</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>standing</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>71</h>
+      <object_id>147544</object_id>
+      <w>51</w>
+      <y>92</y>
+      <x>213</x>
+    </object>
+    <object>
+      <name>counter</name>
+      <h>130</h>
+      <object_id>147545</object_id>
+      <w>204</w>
+      <y>156</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People standing around a kitchen island with two fake sharks.</caption>
+      <caption>A bunch of  floating blow up sharks in a room.</caption>
+      <caption>A small group of people that are standing in a room with two shark blimps. </caption>
+      <caption>People standing in a kitchen with shark balloons.</caption>
+      <caption>A group of people are standing in a kitchen.</caption>
+    </captions>
+</image>

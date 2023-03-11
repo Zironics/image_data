@@ -1,0 +1,71 @@
+<image>
+  <image-id>1160166</image-id>
+  <coco-id>262505</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4653070</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4227617</subject>
+      <object>4227627</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4653072</relationship_id>
+      <predicate>are in</predicate>
+      <subject>4227621</subject>
+      <object>4227621</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4653074</relationship_id>
+      <predicate>in a</predicate>
+      <subject>4227626</subject>
+      <object>4227627</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+      </attributes>
+      <name>car</name>
+      <h>132</h>
+      <object_id>4227617</object_id>
+      <w>335</w>
+      <y>346</y>
+      <x>546</x>
+    </object>
+    <object>
+      <name>street</name>
+      <h>370</h>
+      <object_id>4227627</object_id>
+      <w>1020</w>
+      <y>309</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>clouds</name>
+      <h>301</h>
+      <object_id>4227621</object_id>
+      <w>1010</w>
+      <y>14</y>
+      <x>8</x>
+    </object>
+    <object>
+      <name>line</name>
+      <h>161</h>
+      <object_id>4227626</object_id>
+      <w>458</w>
+      <y>435</y>
+      <x>185</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A busy city street with many different vehicles.</caption>
+      <caption>A city street filled with lots of traffic and lights.</caption>
+      <caption>very many vehicle moving on the road with traffic lights</caption>
+      <caption>Cars are crossing paths in an intersection, nearing accident.</caption>
+      <caption>car traveling down a city street next to a gas station</caption>
+    </captions>
+</image>

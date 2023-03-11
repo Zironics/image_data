@@ -1,0 +1,62 @@
+<image>
+  <image-id>1592201</image-id>
+  <coco-id>310070</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4737797</relationship_id>
+      <predicate>beneath</predicate>
+      <subject>4435344</subject>
+      <object>4435345</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4677686</relationship_id>
+      <predicate>cover with a</predicate>
+      <subject>4289557</subject>
+      <object>4289558</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>oven mitts</name>
+      <h>178</h>
+      <object_id>4435344</object_id>
+      <w>148</w>
+      <y>409</y>
+      <x>216</x>
+    </object>
+    <object>
+      <name>foil</name>
+      <h>189</h>
+      <object_id>4435345</object_id>
+      <w>264</w>
+      <y>310</y>
+      <x>214</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>40</h>
+      <object_id>4289557</object_id>
+      <w>74</w>
+      <y>95</y>
+      <x>41</x>
+    </object>
+    <object>
+      <name>tablecloth</name>
+      <h>93</h>
+      <object_id>4289558</object_id>
+      <w>156</w>
+      <y>80</y>
+      <x>8</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bundt cake and another pastry sit on a kitchen counter.</caption>
+      <caption>A kitchen counter with a chocolate glaze cake on the counter</caption>
+      <caption>A countertop holding a chicken and a bundt cake.</caption>
+      <caption>A kitchen counter with a large chocolate covered cake next to a pan filled of meat.</caption>
+      <caption>A bunch of food on a counter top.</caption>
+    </captions>
+</image>

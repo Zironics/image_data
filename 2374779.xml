@@ -1,0 +1,86 @@
+<image>
+  <image-id>2374779</image-id>
+  <coco-id>536494</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1945508</relationship_id>
+      <predicate>ON</predicate>
+      <subject>725103</subject>
+      <object>725104</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1945509</relationship_id>
+      <predicate>has</predicate>
+      <subject>725103</subject>
+      <object>725106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1945510</relationship_id>
+      <predicate>ON</predicate>
+      <subject>725103</subject>
+      <object>725104</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1945511</relationship_id>
+      <predicate>ON</predicate>
+      <subject>725097</subject>
+      <object>725104</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1945512</relationship_id>
+      <predicate>ON</predicate>
+      <subject>725097</subject>
+      <object>725104</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>boarder</attribute>
+      </attributes>
+      <name>boy</name>
+      <h>118</h>
+      <object_id>725103</object_id>
+      <w>97</w>
+      <y>68</y>
+      <x>199</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skate</attribute>
+      </attributes>
+      <name>board</name>
+      <h>36</h>
+      <object_id>725104</object_id>
+      <w>82</w>
+      <y>211</y>
+      <x>211</x>
+    </object>
+    <object>
+      <name>leg</name>
+      <h>42</h>
+      <object_id>725106</object_id>
+      <w>33</w>
+      <y>172</y>
+      <x>222</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wheel</name>
+      <h>16</h>
+      <object_id>725097</object_id>
+      <w>24</w>
+      <y>224</y>
+      <x>219</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a person riding a skate board near benches</caption>
+      <caption>A man is skateboarding in front of a big building.</caption>
+      <caption>Man in white shirt riding a skateboard on sidewalk.</caption>
+      <caption>a person riding a skateboard on a cement pavement.</caption>
+      <caption>A man is riding a skateboard in a skate park.</caption>
+    </captions>
+</image>

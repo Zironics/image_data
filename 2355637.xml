@@ -1,0 +1,210 @@
+<image>
+  <image-id>2355637</image-id>
+  <coco-id>128051</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2333473</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333474</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333475</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333476</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333477</relationship_id>
+      <predicate>has</predicate>
+      <subject>827850</subject>
+      <object>827854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333478</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827851</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333479</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827856</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333480</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827857</subject>
+      <object>827858</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333481</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827852</subject>
+      <object>827860</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333482</relationship_id>
+      <predicate>on a</predicate>
+      <subject>827861</subject>
+      <object>827857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333483</relationship_id>
+      <predicate>has</predicate>
+      <subject>827850</subject>
+      <object>827854</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333484</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827865</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333485</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827850</subject>
+      <object>827865</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333486</relationship_id>
+      <predicate>ON</predicate>
+      <subject>827861</subject>
+      <object>827857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2333487</relationship_id>
+      <predicate>has a</predicate>
+      <subject>827866</subject>
+      <object>827852</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>155</h>
+      <object_id>827850</object_id>
+      <w>269</w>
+      <y>38</y>
+      <x>92</x>
+    </object>
+    <object>
+      <name>window</name>
+      <h>52</h>
+      <object_id>827851</object_id>
+      <w>81</w>
+      <y>81</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>light</name>
+      <h>19</h>
+      <object_id>827854</object_id>
+      <w>70</w>
+      <y>158</y>
+      <x>285</x>
+    </object>
+    <object>
+      <name>door</name>
+      <h>114</h>
+      <object_id>827856</object_id>
+      <w>32</w>
+      <y>82</y>
+      <x>239</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>porch</name>
+      <h>41</h>
+      <object_id>827857</object_id>
+      <w>92</w>
+      <y>74</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>fence</name>
+      <h>23</h>
+      <object_id>827858</object_id>
+      <w>71</w>
+      <y>79</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>parked</attribute>
+        <attribute>beige</attribute>
+      </attributes>
+      <name>car</name>
+      <h>121</h>
+      <object_id>827852</object_id>
+      <w>104</w>
+      <y>102</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>shadow</name>
+      <h>24</h>
+      <object_id>827860</object_id>
+      <w>92</w>
+      <y>215</y>
+      <x>2</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>folded</attribute>
+      </attributes>
+      <name>umbrella</name>
+      <h>44</h>
+      <object_id>827861</object_id>
+      <w>21</w>
+      <y>40</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>tire</name>
+      <h>46</h>
+      <object_id>827865</object_id>
+      <w>29</w>
+      <y>153</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paved</attribute>
+      </attributes>
+      <name>driveway</name>
+      <h>44</h>
+      <object_id>827866</object_id>
+      <w>248</w>
+      <y>230</y>
+      <x>251</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A green bus with a smaller bus sitting on top of it.</caption>
+      <caption>A van is on the roof of a bus of the same door.</caption>
+      <caption>A bus has the top part of a van attached to its roof.</caption>
+      <caption>this is a truck and a bus on a lawn</caption>
+      <caption>A bus that is sitting in the grass near a street.</caption>
+    </captions>
+</image>

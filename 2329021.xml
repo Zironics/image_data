@@ -1,0 +1,90 @@
+<image>
+  <image-id>2329021</image-id>
+  <coco-id>116603</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4141019</relationship_id>
+      <predicate>have</predicate>
+      <subject>2862874</subject>
+      <object>2862875</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4154012</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3191536</subject>
+      <object>3935630</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4021598</relationship_id>
+      <predicate>are in</predicate>
+      <subject>3295620</subject>
+      <object>3685211</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>cut</attribute>
+      </attributes>
+      <name>orange pieces</name>
+      <h>329</h>
+      <object_id>2862874</object_id>
+      <w>345</w>
+      <y>3</y>
+      <x>78</x>
+    </object>
+    <object>
+      <name>shadows</name>
+      <h>177</h>
+      <object_id>2862875</object_id>
+      <w>168</w>
+      <y>155</y>
+      <x>42</x>
+    </object>
+    <object>
+      <name>seed</name>
+      <h>33</h>
+      <object_id>3191536</object_id>
+      <w>42</w>
+      <y>225</y>
+      <x>260</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellowish orange</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>178</h>
+      <object_id>3935630</object_id>
+      <w>232</w>
+      <y>132</y>
+      <x>184</x>
+    </object>
+    <object>
+      <name>seeds</name>
+      <h>63</h>
+      <object_id>3295620</object_id>
+      <w>80</w>
+      <y>56</y>
+      <x>138</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>halved</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>168</h>
+      <object_id>3685211</object_id>
+      <w>216</w>
+      <y>5</y>
+      <x>74</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>two halves of an orange and a knife </caption>
+      <caption>A citrus fruit sliced in half on a plate.</caption>
+      <caption>An up close picture of a tangerine that has been cut open.</caption>
+      <caption>An orange that had been cut in half laying by a knife.</caption>
+      <caption>a close up of an orange sliced in half </caption>
+    </captions>
+</image>

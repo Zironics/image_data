@@ -1,0 +1,59 @@
+<image>
+  <image-id>713873</image-id>
+  <coco-id>265532</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4592514</relationship_id>
+      <predicate>tile in a</predicate>
+      <subject>4077543</subject>
+      <object>4077542</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4592516</relationship_id>
+      <predicate>worn by</predicate>
+      <subject>4077547</subject>
+      <object>4077546</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>a</name>
+      <h>48</h>
+      <object_id>4077543</object_id>
+      <w>39</w>
+      <y>736</y>
+      <x>682</x>
+    </object>
+    <object>
+      <name>floor</name>
+      <h>258</h>
+      <object_id>4077542</object_id>
+      <w>525</w>
+      <y>627</y>
+      <x>461</x>
+    </object>
+    <object>
+      <name>shirt</name>
+      <h>69</h>
+      <object_id>4077547</object_id>
+      <w>41</w>
+      <y>341</y>
+      <x>1003</x>
+    </object>
+    <object>
+      <name>human</name>
+      <h>272</h>
+      <object_id>4077546</object_id>
+      <w>193</w>
+      <y>261</y>
+      <x>961</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people with luggage beside a terminal.</caption>
+      <caption>People waiting in an airport for service or boarding.</caption>
+      <caption>A group of people standing in a line, possibly waiting for something.</caption>
+      <caption>some people waiting in mall near a restaurant </caption>
+      <caption>A couple of people waiting in a line in public.</caption>
+    </captions>
+</image>

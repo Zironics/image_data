@@ -1,0 +1,62 @@
+<image>
+  <image-id>2339514</image-id>
+  <coco-id>177207</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4045332</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3319574</subject>
+      <object>3319575</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4045333</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3694744</subject>
+      <object>3694745</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>150</h>
+      <object_id>3319574</object_id>
+      <w>85</w>
+      <y>91</y>
+      <x>124</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>coat</name>
+      <h>43</h>
+      <object_id>3319575</object_id>
+      <w>64</w>
+      <y>119</y>
+      <x>133</x>
+    </object>
+    <object>
+      <name>goggles</name>
+      <h>16</h>
+      <object_id>3694744</object_id>
+      <w>26</w>
+      <y>78</y>
+      <x>311</x>
+    </object>
+    <object>
+      <name>forehead</name>
+      <h>18</h>
+      <object_id>3694745</object_id>
+      <w>17</w>
+      <y>78</y>
+      <x>318</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of people riding skis on top of a snow covered ski slope.</caption>
+      <caption>A women and two men who are on snow skis.</caption>
+      <caption>two male snow skiers and one female in a brown jacket</caption>
+      <caption>Two men and a woman skiing in the snow dressed in warm clothes.</caption>
+      <caption>This is two skiers with someone who looks like an instructor.</caption>
+    </captions>
+</image>

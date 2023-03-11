@@ -1,0 +1,72 @@
+<image>
+  <image-id>2385648</image-id>
+  <coco-id>523272</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4658456</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4240969</subject>
+      <object>4240970</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4618160</relationship_id>
+      <predicate>next to</predicate>
+      <subject>4140086</subject>
+      <object>4140087</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>light</name>
+      <h>34</h>
+      <object_id>4240969</object_id>
+      <w>63</w>
+      <y>60</y>
+      <x>123</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>traffic</attribute>
+      </attributes>
+      <name>light</name>
+      <h>30</h>
+      <object_id>4240970</object_id>
+      <w>137</w>
+      <y>57</y>
+      <x>65</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>traffic</attribute>
+      </attributes>
+      <name>line</name>
+      <h>98</h>
+      <object_id>4140086</object_id>
+      <w>107</w>
+      <y>204</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>truck</name>
+      <h>255</h>
+      <object_id>4140087</object_id>
+      <w>321</w>
+      <y>68</y>
+      <x>105</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two dogs in the back of a silver pickup.</caption>
+      <caption>A couple of dogs standing in the back of a truck.</caption>
+      <caption>A pair of dogs standing on the back of a pickup truck.</caption>
+      <caption>A photo taken from a car looking at two dogs in the back of the truck.</caption>
+      <caption>"Mutt and Jeff" dogs in the truckbed have a good view.</caption>
+    </captions>
+</image>

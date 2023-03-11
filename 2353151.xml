@@ -1,0 +1,78 @@
+<image>
+  <image-id>2353151</image-id>
+  <coco-id>445906</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2410765</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>848846</subject>
+      <object>848847</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2410766</relationship_id>
+      <predicate>on top of</predicate>
+      <subject>848856</subject>
+      <object>848857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2410767</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>848846</subject>
+      <object>848847</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grey</attribute>
+        <attribute>silver</attribute>
+        <attribute>old</attribute>
+        <attribute>black</attribute>
+      </attributes>
+      <name>phone</name>
+      <h>180</h>
+      <object_id>848846</object_id>
+      <w>110</w>
+      <y>83</y>
+      <x>41</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>orange</attribute>
+        <attribute>wooden</attribute>
+      </attributes>
+      <name>cloth</name>
+      <h>371</h>
+      <object_id>848847</object_id>
+      <w>494</w>
+      <y>2</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>fingerprint</name>
+      <h>19</h>
+      <object_id>848856</object_id>
+      <w>9</w>
+      <y>256</y>
+      <x>289</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dirty</attribute>
+      </attributes>
+      <name>screen</name>
+      <h>193</h>
+      <object_id>848857</object_id>
+      <w>126</w>
+      <y>113</y>
+      <x>181</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two cell phones with covers and one without sitting beside each other.</caption>
+      <caption>three phones that are on top of a orange blanket</caption>
+      <caption>Three cell phones on a table, one with a cover.</caption>
+      <caption>three cell phones one green with the back off</caption>
+      <caption>A trio of cell phones, two having cases on them.</caption>
+    </captions>
+</image>

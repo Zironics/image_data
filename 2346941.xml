@@ -1,0 +1,97 @@
+<image>
+  <image-id>2346941</image-id>
+  <coco-id>301537</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4425320</relationship_id>
+      <predicate>OF</predicate>
+      <subject>895152</subject>
+      <object>895151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4425321</relationship_id>
+      <predicate>OF</predicate>
+      <subject>895152</subject>
+      <object>895151</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2609587</relationship_id>
+      <predicate>has</predicate>
+      <subject>895161</subject>
+      <object>895162</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2609588</relationship_id>
+      <predicate>at</predicate>
+      <subject>895151</subject>
+      <object>895167</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2609589</relationship_id>
+      <predicate>with</predicate>
+      <subject>895151</subject>
+      <object>895161</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>apart</attribute>
+      </attributes>
+      <name>leg</name>
+      <h>77</h>
+      <object_id>895152</object_id>
+      <w>55</w>
+      <y>168</y>
+      <x>254</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>holding</attribute>
+        <attribute>wearing</attribute>
+        <attribute>walking</attribute>
+        <attribute>distance</attribute>
+      </attributes>
+      <h>159</h>
+      <object_id>895151</object_id>
+      <w>105</w>
+      <y>81</y>
+      <x>241</x>
+      <name>person</name>
+    </object>
+    <object>
+      <name>skateboard</name>
+      <h>44</h>
+      <object_id>895161</object_id>
+      <w>80</w>
+      <y>161</y>
+      <x>258</x>
+    </object>
+    <object>
+      <name>wheel</name>
+      <h>20</h>
+      <object_id>895162</object_id>
+      <w>8</w>
+      <y>177</y>
+      <x>265</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>skate</attribute>
+      </attributes>
+      <name>park</name>
+      <h>200</h>
+      <object_id>895167</object_id>
+      <w>287</w>
+      <y>98</y>
+      <x>112</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person with a skateboard walking towards some steps.</caption>
+      <caption>The young men are practicing their skateboarding moves. </caption>
+      <caption>A boy carrying a skateboard with another boy at a parking lot. </caption>
+      <caption>A man riding a skateboard around a skate park.</caption>
+      <caption>Two young male skateboarders in a concrete parking garage.</caption>
+    </captions>
+</image>

@@ -1,0 +1,121 @@
+<image>
+  <image-id>2348513</image-id>
+  <coco-id>343643</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3825348</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2084207</subject>
+      <object>2084208</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3825350</relationship_id>
+      <predicate>OF</predicate>
+      <subject>2566512</subject>
+      <object>1729016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3825351</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>2373974</subject>
+      <object>2373975</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3825352</relationship_id>
+      <predicate>and a</predicate>
+      <subject>2373975</subject>
+      <object>2373976</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3825353</relationship_id>
+      <predicate>boarding a public</predicate>
+      <subject>1729015</subject>
+      <object>1729016</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>white stripes</name>
+      <h>66</h>
+      <object_id>2084207</object_id>
+      <w>91</w>
+      <y>339</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>asphalt</name>
+      <h>206</h>
+      <object_id>2084208</object_id>
+      <w>323</w>
+      <y>291</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>driver</name>
+      <h>65</h>
+      <object_id>2566512</object_id>
+      <w>42</w>
+      <y>223</y>
+      <x>122</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>double decker</attribute>
+      </attributes>
+      <name>bus</name>
+      <h>382</h>
+      <object_id>1729016</object_id>
+      <w>235</w>
+      <y>20</y>
+      <x>69</x>
+    </object>
+    <object>
+      <name>woman</name>
+      <h>152</h>
+      <object_id>2373974</object_id>
+      <w>47</w>
+      <y>242</y>
+      <x>314</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>jean shorts</name>
+      <h>23</h>
+      <object_id>2373975</object_id>
+      <w>33</w>
+      <y>309</y>
+      <x>323</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>purple</attribute>
+      </attributes>
+      <name>purple shirt</name>
+      <h>50</h>
+      <object_id>2373976</object_id>
+      <w>40</w>
+      <y>264</y>
+      <x>318</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>77</h>
+      <object_id>1729015</object_id>
+      <w>25</w>
+      <y>225</y>
+      <x>212</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A double decker bus parked next to a crowded sidewalk.</caption>
+      <caption>A bus is shown with a line of people next to it.</caption>
+      <caption>A modern day double decker bus that is parked in a lot.</caption>
+      <caption>A white and blue double decker bus on side of street.</caption>
+      <caption>A double decker bus parked by a sidewalk.</caption>
+    </captions>
+</image>

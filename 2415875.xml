@@ -1,0 +1,84 @@
+<image>
+  <image-id>2415875</image-id>
+  <coco-id>555365</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4544421</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3309609</subject>
+      <object>3309612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544422</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3431908</subject>
+      <object>3431907</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4544423</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3260297</subject>
+      <object>3260298</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>post</name>
+      <h>39</h>
+      <object_id>3309609</object_id>
+      <w>11</w>
+      <y>241</y>
+      <x>147</x>
+    </object>
+    <object>
+      <name>sidewalk</name>
+      <h>22</h>
+      <object_id>3309612</object_id>
+      <w>156</w>
+      <y>266</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>lamp</name>
+      <h>17</h>
+      <object_id>3431908</object_id>
+      <w>16</w>
+      <y>133</y>
+      <x>157</x>
+    </object>
+    <object>
+      <name>post</name>
+      <h>133</h>
+      <object_id>3431907</object_id>
+      <w>11</w>
+      <y>145</y>
+      <x>148</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>White </attribute>
+      </attributes>
+      <name>y</name>
+      <h>19</h>
+      <object_id>3260297</object_id>
+      <w>17</w>
+      <y>96</y>
+      <x>114</x>
+    </object>
+    <object>
+      <name>hays</name>
+      <h>32</h>
+      <object_id>3260298</object_id>
+      <w>62</w>
+      <y>90</y>
+      <x>83</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A traffic light on the side of a city street.</caption>
+      <caption>A red traffic light sits on the street.</caption>
+      <caption>A red stop light on a street at night.</caption>
+      <caption>The electronic cross walk signal is going red at night.</caption>
+      <caption>A traffic light on street next to building at night.</caption>
+    </captions>
+</image>

@@ -1,0 +1,52 @@
+<image>
+  <image-id>2373289</image-id>
+  <coco-id>21361</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1982096</relationship_id>
+      <predicate>ON</predicate>
+      <subject>733301</subject>
+      <object>733299</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>teddy</attribute>
+        <attribute>sitting</attribute>
+        <attribute>polar</attribute>
+      </attributes>
+      <name>bear</name>
+      <h>167</h>
+      <object_id>733301</object_id>
+      <w>205</w>
+      <y>153</y>
+      <x>282</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+        <attribute>computer</attribute>
+        <attribute>screen</attribute>
+        <attribute>turned on</attribute>
+        <attribute>gray</attribute>
+        <attribute>black</attribute>
+        <attribute>desk</attribute>
+      </attributes>
+      <name>laptop</name>
+      <h>311</h>
+      <object_id>733299</object_id>
+      <w>315</w>
+      <y>23</y>
+      <x>5</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>a stuffed animal sitting on a chair in front of a laptop</caption>
+      <caption>A stuffed polar bear sitting at a laptop computer.</caption>
+      <caption>A white stuffed bear sits next to a laptop.</caption>
+      <caption>White stuffed polar bear positioned in front of a laptop</caption>
+      <caption>Stuffed bear posed as if using a laptop computer.</caption>
+    </captions>
+</image>

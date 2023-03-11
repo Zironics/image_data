@@ -1,0 +1,99 @@
+<image>
+  <image-id>2404341</image-id>
+  <coco-id>408863</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3250874</relationship_id>
+      <predicate>are enjoying</predicate>
+      <subject>1116581</subject>
+      <object>1116582</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3250880</relationship_id>
+      <predicate>playing in</predicate>
+      <subject>1116583</subject>
+      <object>1116584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>729863</relationship_id>
+      <predicate>with</predicate>
+      <subject>377706</subject>
+      <object>377707</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3250916</relationship_id>
+      <predicate>eating</predicate>
+      <subject>1116583</subject>
+      <object>1116584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3250920</relationship_id>
+      <predicate>playing</predicate>
+      <subject>1116583</subject>
+      <object>1116584</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>people</name>
+      <h>42</h>
+      <object_id>1116581</object_id>
+      <w>53</w>
+      <y>17</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>outdoors</name>
+      <h>43</h>
+      <object_id>1116582</object_id>
+      <w>54</w>
+      <y>23</y>
+      <x>190</x>
+    </object>
+    <object>
+      <name>kids</name>
+      <h>42</h>
+      <object_id>1116583</object_id>
+      <w>53</w>
+      <y>119</y>
+      <x>29</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>43</h>
+      <object_id>1116584</object_id>
+      <w>54</w>
+      <y>124</y>
+      <x>190</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>house</name>
+      <h>82</h>
+      <object_id>377706</object_id>
+      <w>86</w>
+      <y>186</y>
+      <x>413</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>roof</name>
+      <h>49</h>
+      <object_id>377707</object_id>
+      <w>86</w>
+      <y>149</y>
+      <x>413</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train is pulling up towards the empty station.</caption>
+      <caption>yellow and gray passenger train arriving into landing area</caption>
+      <caption>A train is approaching a loading ramp in a country setting.</caption>
+      <caption>a train on a train track near a building</caption>
+      <caption>A yellow commuter train traveling past some houses.</caption>
+    </captions>
+</image>

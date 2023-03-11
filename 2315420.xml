@@ -1,0 +1,110 @@
+<image>
+  <image-id>2315420</image-id>
+  <coco-id>15986</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3871885</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2810526</subject>
+      <object>2810527</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4253404</relationship_id>
+      <predicate>has</predicate>
+      <subject>3487810</subject>
+      <object>3791443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3871886</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3487810</subject>
+      <object>3201202</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3871887</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3487810</subject>
+      <object>2842612</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3871888</relationship_id>
+      <predicate>with</predicate>
+      <subject>3487810</subject>
+      <object>3510515</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>hand</name>
+      <h>20</h>
+      <object_id>2810526</object_id>
+      <w>21</w>
+      <y>110</y>
+      <x>245</x>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>217</h>
+      <object_id>2810527</object_id>
+      <w>482</w>
+      <y>28</y>
+      <x>4</x>
+    </object>
+    <object>
+      <h>170</h>
+      <object_id>3487810</object_id>
+      <w>126</w>
+      <y>59</y>
+      <x>241</x>
+      <name>man</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>15</h>
+      <object_id>3791443</object_id>
+      <w>29</w>
+      <y>63</y>
+      <x>246</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>shoe</name>
+      <h>17</h>
+      <object_id>3201202</object_id>
+      <w>27</w>
+      <y>179</y>
+      <x>338</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>129</h>
+      <object_id>2842612</object_id>
+      <w>85</w>
+      <y>75</y>
+      <x>264</x>
+    </object>
+    <object>
+      <name>black hair</name>
+      <h>13</h>
+      <object_id>3510515</object_id>
+      <w>30</w>
+      <y>64</y>
+      <x>245</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a wave on top of a surfboard.</caption>
+      <caption>a person riding a surf board on a wave</caption>
+      <caption>THERE IS A MAN IN A WET SUIT ON A SURF BOARD</caption>
+      <caption>The surfer uses his arm to balance himself on a wave.</caption>
+      <caption>A man is riding a large wave on a surfboard.</caption>
+    </captions>
+</image>

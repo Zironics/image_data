@@ -1,0 +1,104 @@
+<image>
+  <image-id>2326543</image-id>
+  <coco-id>523799</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4478059</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3179038</subject>
+      <object>3939161</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4478060</relationship_id>
+      <predicate>above</predicate>
+      <subject>2790115</subject>
+      <object>3939162</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4478061</relationship_id>
+      <predicate>going down</predicate>
+      <subject>3099242</subject>
+      <object>3939163</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4478062</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3099242</subject>
+      <object>3192898</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>skis</name>
+      <h>16</h>
+      <object_id>3179038</object_id>
+      <w>38</w>
+      <y>160</y>
+      <x>307</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>149</h>
+      <object_id>3939161</object_id>
+      <w>471</w>
+      <y>171</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>sky</name>
+      <h>172</h>
+      <object_id>2790115</object_id>
+      <w>497</w>
+      <y>0</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>horizon</name>
+      <h>41</h>
+      <object_id>3939162</object_id>
+      <w>480</w>
+      <y>145</y>
+      <x>3</x>
+    </object>
+    <object>
+      <h>45</h>
+      <object_id>3099242</object_id>
+      <w>52</w>
+      <y>129</y>
+      <x>294</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>slope</name>
+      <h>146</h>
+      <object_id>3939163</object_id>
+      <w>244</w>
+      <y>171</y>
+      <x>175</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>green coat</name>
+      <h>30</h>
+      <object_id>3192898</object_id>
+      <w>38</w>
+      <y>135</y>
+      <x>293</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A skier is going down a hill of raked snow.</caption>
+      <caption>A person is skiing, crouching and making a turn.</caption>
+      <caption>A down hill skier is skiing down a grated snow slope.</caption>
+      <caption>A person on skis rides down a hill.</caption>
+      <caption>A person on skies on a groomed slope.</caption>
+    </captions>
+</image>

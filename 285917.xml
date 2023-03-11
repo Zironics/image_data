@@ -1,0 +1,163 @@
+<image>
+  <image-id>285917</image-id>
+  <coco-id>531143</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4261835</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3796039</subject>
+      <object>1570488</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261836</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3796040</subject>
+      <object>1570489</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261837</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3796041</subject>
+      <object>1570495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049694</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570496</subject>
+      <object>1570495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049696</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570497</subject>
+      <object>1570498</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4049697</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570496</subject>
+      <object>1570498</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261838</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570501</subject>
+      <object>1570496</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4261839</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1570501</subject>
+      <object>1570496</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>long </attribute>
+        <attribute>bent </attribute>
+      </attributes>
+      <name>legs</name>
+      <h>134</h>
+      <object_id>3796039</object_id>
+      <w>113</w>
+      <y>453</y>
+      <x>733</x>
+    </object>
+    <object>
+      <name>butterfly</name>
+      <h>134</h>
+      <object_id>1570488</object_id>
+      <w>122</w>
+      <y>463</y>
+      <x>705</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>bent </attribute>
+        <attribute>long </attribute>
+      </attributes>
+      <name>legs</name>
+      <h>83</h>
+      <object_id>3796040</object_id>
+      <w>93</w>
+      <y>413</y>
+      <x>323</x>
+    </object>
+    <object>
+      <name>butterfly</name>
+      <h>52</h>
+      <object_id>1570489</object_id>
+      <w>84</w>
+      <y>416</y>
+      <x>330</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>inner skin</name>
+      <h>163</h>
+      <object_id>3796041</object_id>
+      <w>510</w>
+      <y>445</y>
+      <x>361</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>rough</attribute>
+        <attribute>bumpy </attribute>
+        <attribute>cut </attribute>
+        <attribute>half</attribute>
+      </attributes>
+      <name>orange</name>
+      <h>250</h>
+      <object_id>1570495</object_id>
+      <w>662</w>
+      <y>429</y>
+      <x>222</x>
+    </object>
+    <object>
+      <h>389</h>
+      <object_id>1570496</object_id>
+      <w>432</w>
+      <y>86</y>
+      <x>79</x>
+      <name>butterfly</name>
+    </object>
+    <object>
+      <name>butterfly</name>
+      <h>611</h>
+      <object_id>1570497</object_id>
+      <w>285</w>
+      <y>66</y>
+      <x>734</x>
+    </object>
+    <object>
+      <name>orange</name>
+      <h>223</h>
+      <object_id>1570498</object_id>
+      <w>678</w>
+      <y>454</y>
+      <x>223</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>short </attribute>
+      </attributes>
+      <name>antenna</name>
+      <h>80</h>
+      <object_id>1570501</object_id>
+      <w>99</w>
+      <y>304</y>
+      <x>400</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A yellow and brown butterfly sitting on top of an orange.</caption>
+      <caption>A butterfly sitting on an orange o the ground.</caption>
+      <caption>Two butterflies are sitting on an orange half.</caption>
+      <caption>A butterfly that is sitting on a orange.</caption>
+      <caption>Two butterflies stand on the side of half an orange. </caption>
+    </captions>
+</image>

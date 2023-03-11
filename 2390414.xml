@@ -1,0 +1,45 @@
+<image>
+  <image-id>2390414</image-id>
+  <coco-id>97048</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3460688</relationship_id>
+      <predicate>has</predicate>
+      <subject>1250588</subject>
+      <object>1250589</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>court</name>
+      <h>236</h>
+      <object_id>1250588</object_id>
+      <w>487</w>
+      <y>34</y>
+      <x>3</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>on court</attribute>
+        <attribute>on top of court</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>net</name>
+      <h>71</h>
+      <object_id>1250589</object_id>
+      <w>214</w>
+      <y>261</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Athlete on red clay court preparing to return ball.</caption>
+      <caption>The tennis court seems to be made of dirt or clay.</caption>
+      <caption>A distant shot of a man on the tennis field while people look on. </caption>
+      <caption>A tennis player takes a swing on a clay court.</caption>
+      <caption>A man in white shirt and shorts playing a game of tennis.</caption>
+    </captions>
+</image>

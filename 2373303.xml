@@ -1,0 +1,107 @@
+<image>
+  <image-id>2373303</image-id>
+  <coco-id>422037</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1981660</relationship_id>
+      <predicate>are pink</predicate>
+      <subject>733258</subject>
+      <object>733260</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4312600</relationship_id>
+      <predicate>IN</predicate>
+      <subject>733264</subject>
+      <object>3851375</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4312601</relationship_id>
+      <predicate>ON</predicate>
+      <subject>733265</subject>
+      <object>3851376</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4312602</relationship_id>
+      <predicate>ON</predicate>
+      <subject>733265</subject>
+      <object>3851377</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>flowers</name>
+      <h>105</h>
+      <object_id>733258</object_id>
+      <w>75</w>
+      <y>189</y>
+      <x>66</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>pink</attribute>
+        <attribute>peach</attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>102</h>
+      <object_id>733260</object_id>
+      <w>66</w>
+      <y>200</y>
+      <x>118</x>
+    </object>
+    <object>
+      <name>white flowers</name>
+      <h>162</h>
+      <object_id>733264</object_id>
+      <w>145</w>
+      <y>335</y>
+      <x>131</x>
+    </object>
+    <object>
+      <name>vase</name>
+      <h>45</h>
+      <object_id>3851375</object_id>
+      <w>47</w>
+      <y>447</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>red flowers</name>
+      <h>71</h>
+      <object_id>733265</object_id>
+      <w>51</w>
+      <y>379</y>
+      <x>174</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>bush</name>
+      <h>39</h>
+      <object_id>3851376</object_id>
+      <w>21</w>
+      <y>370</y>
+      <x>261</x>
+    </object>
+    <object>
+      <name>green bush</name>
+      <h>38</h>
+      <object_id>3851377</object_id>
+      <w>30</w>
+      <y>411</y>
+      <x>148</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Roses and other flowers arranged nicely in old-timey vases by a shop window. </caption>
+      <caption>Several vases with different kinds of flowers on tables.</caption>
+      <caption>Bouquets of flowers sit by an open window.</caption>
+      <caption>A room filled with potted roses and other flowers. </caption>
+      <caption>A room filled with flowers in front of windows.</caption>
+    </captions>
+</image>

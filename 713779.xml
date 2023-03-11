@@ -1,0 +1,76 @@
+<image>
+  <image-id>713779</image-id>
+  <coco-id>90801</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4259922</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2399090</subject>
+      <object>2753857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3960480</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2753856</subject>
+      <object>2753857</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3702792</relationship_id>
+      <predicate>by</predicate>
+      <subject>2340792</subject>
+      <object>2340793</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>table</name>
+      <h>345</h>
+      <object_id>2399090</object_id>
+      <w>288</w>
+      <y>420</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>750</h>
+      <object_id>2753857</object_id>
+      <w>1024</w>
+      <y>4</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>chair</name>
+      <h>364</h>
+      <object_id>2753856</object_id>
+      <w>168</w>
+      <y>349</y>
+      <x>573</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tan</attribute>
+      </attributes>
+      <name>couch</name>
+      <h>122</h>
+      <object_id>2340792</object_id>
+      <w>231</w>
+      <y>300</y>
+      <x>680</x>
+    </object>
+    <object>
+      <name>desk</name>
+      <h>68</h>
+      <object_id>2340793</object_id>
+      <w>108</w>
+      <y>442</y>
+      <x>752</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Well lit sitting room with lots of seating.</caption>
+      <caption>The apartment is clean and ready to be moved in to</caption>
+      <caption>A living room area features a corner fireplace, a love seat, windows and lamps.</caption>
+      <caption>A living room filled with lots of furniture and a fire place.</caption>
+      <caption>An empty but lit living room with a fireplace. </caption>
+    </captions>
+</image>

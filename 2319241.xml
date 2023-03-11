@@ -1,0 +1,132 @@
+<image>
+  <image-id>2319241</image-id>
+  <coco-id>161195</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>2995669</relationship_id>
+      <predicate>covered in</predicate>
+      <subject>1003594</subject>
+      <object>1003595</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2995670</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1003588</subject>
+      <object>1003584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2995671</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1003596</subject>
+      <object>1003584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2995672</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1003589</subject>
+      <object>1003584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2995673</relationship_id>
+      <predicate>on head of</predicate>
+      <subject>1003590</subject>
+      <object>1003584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2995674</relationship_id>
+      <predicate>attached to</predicate>
+      <subject>1003590</subject>
+      <object>1003584</object>
+    </relationship>
+    <relationship>
+      <relationship_id>2995675</relationship_id>
+      <predicate>going on</predicate>
+      <subject>1003587</subject>
+      <object>1003594</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>ground</name>
+      <h>156</h>
+      <object_id>1003594</object_id>
+      <w>116</w>
+      <y>82</y>
+      <x>384</x>
+    </object>
+    <object>
+      <name>dirt</name>
+      <h>27</h>
+      <object_id>1003595</object_id>
+      <w>36</w>
+      <y>95</y>
+      <x>371</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>56</h>
+      <object_id>1003588</object_id>
+      <w>68</w>
+      <y>129</y>
+      <x>189</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>laying down</attribute>
+        <attribute>skinny</attribute>
+      </attributes>
+      <name>cow</name>
+      <h>108</h>
+      <object_id>1003584</object_id>
+      <w>176</w>
+      <y>130</y>
+      <x>187</x>
+    </object>
+    <object>
+      <name>body</name>
+      <h>76</h>
+      <object_id>1003596</object_id>
+      <w>107</w>
+      <y>162</y>
+      <x>258</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>ear</name>
+      <h>27</h>
+      <object_id>1003589</object_id>
+      <w>30</w>
+      <y>144</y>
+      <x>229</x>
+    </object>
+    <object>
+      <name>eye</name>
+      <h>17</h>
+      <object_id>1003590</object_id>
+      <w>17</w>
+      <y>145</y>
+      <x>207</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>weed</name>
+      <h>94</h>
+      <object_id>1003587</object_id>
+      <w>67</w>
+      <y>278</y>
+      <x>239</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large cow laying on the ground in the woods.</caption>
+      <caption>there is a white goat that is sitting next to a tree</caption>
+      <caption>a little goat laying in the shade by a tree</caption>
+      <caption>A cow lying in a field in the shade.</caption>
+      <caption>A white cow rests in a forest by a large rock and trees.</caption>
+    </captions>
+</image>

@@ -1,0 +1,79 @@
+<image>
+  <image-id>2373193</image-id>
+  <coco-id>565830</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4136932</relationship_id>
+      <predicate>looking at</predicate>
+      <subject>1937554</subject>
+      <object>2457724</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4136933</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1937554</subject>
+      <object>1810759</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4312899</relationship_id>
+      <predicate>observing</predicate>
+      <subject>1937554</subject>
+      <object>1989351</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4136935</relationship_id>
+      <predicate>reading</predicate>
+      <subject>1937554</subject>
+      <object>2558066</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>354</h>
+      <object_id>1937554</object_id>
+      <w>265</w>
+      <y>21</y>
+      <x>158</x>
+      <name>lady</name>
+    </object>
+    <object>
+      <name>newspaper</name>
+      <h>72</h>
+      <object_id>2457724</object_id>
+      <w>145</w>
+      <y>240</y>
+      <x>78</x>
+    </object>
+    <object>
+      <h>15</h>
+      <object_id>1810759</object_id>
+      <w>52</w>
+      <y>221</y>
+      <x>126</x>
+      <name>cell phone</name>
+    </object>
+    <object>
+      <name>newspaper</name>
+      <h>85</h>
+      <object_id>1989351</object_id>
+      <w>180</w>
+      <y>233</y>
+      <x>74</x>
+    </object>
+    <object>
+      <name>foods section</name>
+      <h>74</h>
+      <object_id>2558066</object_id>
+      <w>177</w>
+      <y>240</y>
+      <x>73</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A woman takes a photo of a newspaper article</caption>
+      <caption>A woman is reading a news article while holding her phone.</caption>
+      <caption>A woman takes a picture of the newspaper with her phone.</caption>
+      <caption>A woman reading a news paper while holding a cell phone.</caption>
+      <caption>A woman standing with a paper in front of her and holding a phone.</caption>
+    </captions>
+</image>

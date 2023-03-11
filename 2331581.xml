@@ -1,0 +1,126 @@
+<image>
+  <image-id>2331581</image-id>
+  <coco-id>148646</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4100622</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3469536</subject>
+      <object>3167327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100623</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3444667</subject>
+      <object>3715590</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4464507</relationship_id>
+      <predicate>has</predicate>
+      <subject>3301496</subject>
+      <object>3301495</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4100627</relationship_id>
+      <predicate>under</predicate>
+      <subject>2822757</subject>
+      <object>2822758</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4464508</relationship_id>
+      <predicate>wears</predicate>
+      <subject>3469536</subject>
+      <object>3469537</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>99</h>
+      <object_id>3469536</object_id>
+      <w>64</w>
+      <y>101</y>
+      <x>326</x>
+      <name>surfer</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>full</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>97</h>
+      <object_id>3167327</object_id>
+      <w>60</w>
+      <y>101</y>
+      <x>328</x>
+    </object>
+    <object>
+      <name>board strap</name>
+      <h>20</h>
+      <object_id>3444667</object_id>
+      <w>17</w>
+      <y>171</y>
+      <x>376</x>
+    </object>
+    <object>
+      <name>ankle</name>
+      <h>30</h>
+      <object_id>3715590</object_id>
+      <w>29</w>
+      <y>173</y>
+      <x>368</x>
+    </object>
+    <object>
+      <name>wave</name>
+      <h>83</h>
+      <object_id>3301496</object_id>
+      <w>450</w>
+      <y>81</y>
+      <x>24</x>
+    </object>
+    <object>
+      <name>crest</name>
+      <h>30</h>
+      <object_id>3301495</object_id>
+      <w>233</w>
+      <y>87</y>
+      <x>70</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>wake</name>
+      <h>17</h>
+      <object_id>2822757</object_id>
+      <w>57</w>
+      <y>192</y>
+      <x>380</x>
+    </object>
+    <object>
+      <name>board</name>
+      <h>21</h>
+      <object_id>2822758</object_id>
+      <w>110</w>
+      <y>189</y>
+      <x>285</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>wet suit</name>
+      <h>78</h>
+      <object_id>3469537</object_id>
+      <w>61</w>
+      <y>111</y>
+      <x>327</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man riding a surfboard on top of a wave.</caption>
+      <caption>A guy in a full body wet suite riding a surfboard.</caption>
+      <caption>A man in black wetsuit on surfboard riding on a wave.</caption>
+      <caption>A surfer in a wetsuit riding a wave.</caption>
+      <caption>a person ridinh a surf board on a wave</caption>
+    </captions>
+</image>

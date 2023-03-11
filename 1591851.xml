@@ -1,0 +1,155 @@
+<image>
+  <image-id>1591851</image-id>
+  <coco-id>365123</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4251113</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3790445</subject>
+      <object>1077617</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251114</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3790446</subject>
+      <object>1077620</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204760</relationship_id>
+      <predicate>under a</predicate>
+      <subject>3790447</subject>
+      <object>1077618</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204761</relationship_id>
+      <predicate>sitting on a</predicate>
+      <subject>1077617</subject>
+      <object>3790450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3204762</relationship_id>
+      <predicate>sitting on</predicate>
+      <subject>1077621</subject>
+      <object>3790450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251115</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3790448</subject>
+      <object>3790450</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4251116</relationship_id>
+      <predicate>in middle of</predicate>
+      <subject>1077617</subject>
+      <object>3790450</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>strawberries</name>
+      <h>85</h>
+      <object_id>3790445</object_id>
+      <w>160</w>
+      <y>243</y>
+      <x>525</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>dark</attribute>
+        <attribute>chocolate</attribute>
+        <attribute>three-story</attribute>
+        <attribute>brown</attribute>
+        <attribute>round</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>197</h>
+      <object_id>1077617</object_id>
+      <w>229</w>
+      <y>348</y>
+      <x>445</x>
+    </object>
+    <object>
+      <name>chocolate</name>
+      <h>57</h>
+      <object_id>3790446</object_id>
+      <w>130</w>
+      <y>221</y>
+      <x>263</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>small</attribute>
+      </attributes>
+      <name>bowl</name>
+      <h>61</h>
+      <object_id>1077620</object_id>
+      <w>169</w>
+      <y>225</y>
+      <x>232</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+      </attributes>
+      <h>86</h>
+      <object_id>3790447</object_id>
+      <w>36</w>
+      <y>376</y>
+      <x>183</x>
+      <name>serving knife</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>cake</name>
+      <h>153</h>
+      <object_id>1077618</object_id>
+      <w>227</w>
+      <y>289</y>
+      <x>193</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>square</attribute>
+        <attribute>white</attribute>
+        <attribute>large</attribute>
+      </attributes>
+      <name>table</name>
+      <h>567</h>
+      <object_id>3790450</object_id>
+      <w>1022</w>
+      <y>109</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>stacked</attribute>
+        <attribute>white</attribute>
+      </attributes>
+      <name>plates</name>
+      <h>124</h>
+      <object_id>1077621</object_id>
+      <w>272</w>
+      <y>75</y>
+      <x>554</x>
+    </object>
+    <object>
+      <name>strawberry cake</name>
+      <h>115</h>
+      <object_id>3790448</object_id>
+      <w>219</w>
+      <y>249</y>
+      <x>490</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A dessert bar with candies, cakes and crockery. </caption>
+      <caption>A table topped with different types of cakes.</caption>
+      <caption>A table with cakes, tarts, and other desserts on it.</caption>
+      <caption>The dessert table has an array and cake and candies</caption>
+      <caption>a couple of cakes are on a white table</caption>
+    </captions>
+</image>

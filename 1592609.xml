@@ -1,0 +1,40 @@
+<image>
+  <image-id>1592609</image-id>
+  <coco-id>497386</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4676696</relationship_id>
+      <predicate>has</predicate>
+      <subject>4287304</subject>
+      <object>4287303</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>kiosk</name>
+      <h>130</h>
+      <object_id>4287304</object_id>
+      <w>98</w>
+      <y>253</y>
+      <x>894</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>PURPLE</attribute>
+      </attributes>
+      <name>lights</name>
+      <h>39</h>
+      <object_id>4287303</object_id>
+      <w>80</w>
+      <y>331</y>
+      <x>911</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>People standing on a subway platform by the train.</caption>
+      <caption>A speed train parked at the station in public.</caption>
+      <caption>Modern train station platform with passengers entering parked train.</caption>
+      <caption>Public underground subway system with people getting on train.</caption>
+      <caption>A train that is loading up passengers at a stop.</caption>
+    </captions>
+</image>

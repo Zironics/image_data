@@ -1,0 +1,83 @@
+<image>
+  <image-id>2333193</image-id>
+  <coco-id>579885</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4818037</relationship_id>
+      <predicate>has</predicate>
+      <subject>4642105</subject>
+      <object>4642106</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4818038</relationship_id>
+      <predicate>turned around on</predicate>
+      <subject>4642109</subject>
+      <object>4642108</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4818039</relationship_id>
+      <predicate>on</predicate>
+      <subject>4642109</subject>
+      <object>4642111</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>grazing </attribute>
+        <attribute>Tan </attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>57</h>
+      <object_id>4642105</object_id>
+      <w>59</w>
+      <y>30</y>
+      <x>178</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tiny </attribute>
+      </attributes>
+      <name>tail</name>
+      <h>18</h>
+      <object_id>4642106</object_id>
+      <w>14</w>
+      <y>39</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>head</name>
+      <h>55</h>
+      <object_id>4642109</object_id>
+      <w>37</w>
+      <y>144</y>
+      <x>339</x>
+    </object>
+    <object>
+      <name>sheep</name>
+      <h>147</h>
+      <object_id>4642108</object_id>
+      <w>177</w>
+      <y>155</y>
+      <x>209</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>mommy </attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>166</h>
+      <object_id>4642111</object_id>
+      <w>175</w>
+      <y>136</y>
+      <x>207</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A herd of sheep grazing on grass in a field.</caption>
+      <caption>a field full of sheep on some nice green grass</caption>
+      <caption>A bunch of very pretty sheep in a grassy field.</caption>
+      <caption>an open field with many sheep grazing and nursing</caption>
+      <caption>A small sheep getting milk from its parent in a field.</caption>
+    </captions>
+</image>

@@ -1,0 +1,106 @@
+<image>
+  <image-id>285899</image-id>
+  <coco-id>497980</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4726770</relationship_id>
+      <predicate>holdings</predicate>
+      <subject>4408321</subject>
+      <object>4408310</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726773</relationship_id>
+      <predicate>has</predicate>
+      <subject>4408321</subject>
+      <object>4408326</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726774</relationship_id>
+      <predicate>has</predicate>
+      <subject>4408321</subject>
+      <object>4408330</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726775</relationship_id>
+      <predicate>has</predicate>
+      <subject>4408321</subject>
+      <object>4408324</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726776</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4408321</subject>
+      <object>4408327</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4726777</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>4408321</subject>
+      <object>4408330</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>815</h>
+      <object_id>4408321</object_id>
+      <w>712</w>
+      <y>200</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>hands</name>
+      <h>467</h>
+      <object_id>4408310</object_id>
+      <w>439</w>
+      <y>283</y>
+      <x>45</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>paisley </attribute>
+        <attribute>blue </attribute>
+      </attributes>
+      <name>tie</name>
+      <h>270</h>
+      <object_id>4408326</object_id>
+      <w>128</w>
+      <y>751</y>
+      <x>270</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>striped </attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>315</h>
+      <object_id>4408330</object_id>
+      <w>208</w>
+      <y>702</y>
+      <x>236</x>
+    </object>
+    <object>
+      <name>beard</name>
+      <h>116</h>
+      <object_id>4408324</object_id>
+      <w>184</w>
+      <y>651</y>
+      <x>230</x>
+    </object>
+    <object>
+      <name>jacket</name>
+      <h>634</h>
+      <object_id>4408327</object_id>
+      <w>718</w>
+      <y>387</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A man shouting with his hands to his face</caption>
+      <caption>Screaming man in a business suit with both hands on his face.</caption>
+      <caption>the man is holding is face and screaming</caption>
+      <caption>a man in a suit grabs his head while screaming </caption>
+      <caption>A man with his hands pressed to his face and mouth open.</caption>
+    </captions>
+</image>

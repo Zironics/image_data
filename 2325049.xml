@@ -1,0 +1,42 @@
+<image>
+  <image-id>2325049</image-id>
+  <coco-id>481159</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4486129</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3243430</subject>
+      <object>3243431</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>100</h>
+      <object_id>3243430</object_id>
+      <w>498</w>
+      <y>241</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>large</attribute>
+        <attribute>rolling</attribute>
+        <attribute>snow-covered</attribute>
+      </attributes>
+      <name>field</name>
+      <h>347</h>
+      <object_id>3243431</object_id>
+      <w>497</w>
+      <y>11</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="test">
+    <caption>A horse standing in a field by a fence.</caption>
+      <caption>A single horse leaning against a wooden fence.</caption>
+      <caption>A horse looking over a fence on a snowy day</caption>
+      <caption>A horse in a snowy paddock looking over the fence</caption>
+      <caption>A horse standing in a snowy pasture looking over a fence.</caption>
+    </captions>
+</image>

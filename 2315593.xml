@@ -1,0 +1,62 @@
+<image>
+  <image-id>2315593</image-id>
+  <coco-id>256474</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3888649</relationship_id>
+      <predicate>in middle</predicate>
+      <subject>2924898</subject>
+      <object>3632108</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3888653</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3219806</subject>
+      <object>3632109</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>rock</name>
+      <h>70</h>
+      <object_id>2924898</object_id>
+      <w>170</w>
+      <y>116</y>
+      <x>155</x>
+    </object>
+    <object>
+      <name>ocean</name>
+      <h>41</h>
+      <object_id>3632108</object_id>
+      <w>271</w>
+      <y>124</y>
+      <x>46</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>round</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>70</h>
+      <object_id>3219806</object_id>
+      <w>92</w>
+      <y>177</y>
+      <x>331</x>
+    </object>
+    <object>
+      <name>porch</name>
+      <h>126</h>
+      <object_id>3632109</object_id>
+      <w>498</w>
+      <y>202</y>
+      <x>0</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A couple of lawn chairs sitting under a white umbrella.</caption>
+      <caption>Patio furniture set to look out over the ocean.</caption>
+      <caption>The patio with chairs and umbrella looking over the ocean.</caption>
+      <caption>A beautiful patio with furniture overlooking the ocean.</caption>
+      <caption>Two chairs under an open umbrella near the water.</caption>
+    </captions>
+</image>

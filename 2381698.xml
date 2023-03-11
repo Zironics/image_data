@@ -1,0 +1,81 @@
+<image>
+  <image-id>2381698</image-id>
+  <coco-id>193171</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3588240</relationship_id>
+      <predicate>holding</predicate>
+      <subject>1334570</subject>
+      <object>1334571</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3588241</relationship_id>
+      <predicate>near</predicate>
+      <subject>1334577</subject>
+      <object>1334570</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3588242</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>1334570</subject>
+      <object>1334579</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>swinging</attribute>
+        <attribute>playing</attribute>
+      </attributes>
+      <name>woman</name>
+      <h>298</h>
+      <object_id>1334570</object_id>
+      <w>185</w>
+      <y>29</y>
+      <x>61</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>yellow</attribute>
+      </attributes>
+      <name>tennis racket</name>
+      <h>35</h>
+      <object_id>1334571</object_id>
+      <w>118</w>
+      <y>38</y>
+      <x>7</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>long</attribute>
+        <attribute>bright</attribute>
+        <attribute>light</attribute>
+      </attributes>
+      <name>line</name>
+      <h>17</h>
+      <object_id>1334577</object_id>
+      <w>188</w>
+      <y>227</y>
+      <x>6</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>visor</name>
+      <h>31</h>
+      <object_id>1334579</object_id>
+      <w>37</w>
+      <y>47</y>
+      <x>122</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two different shots of a woman on the tennis court.</caption>
+      <caption>identical pictures of a lady playing tennis returning the ball</caption>
+      <caption>a woman swings her tennis racket at a ball</caption>
+      <caption>Two photos of a woman tennis player with her arm raised up and the tennis racket in her hand.</caption>
+      <caption>A tennis player raises her racket to hit the ball.</caption>
+    </captions>
+</image>

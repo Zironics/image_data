@@ -1,0 +1,69 @@
+<image>
+  <image-id>2388355</image-id>
+  <coco-id>97238</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1772733</relationship_id>
+      <predicate>has a</predicate>
+      <subject>673935</subject>
+      <object>673934</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1772734</relationship_id>
+      <predicate>in a</predicate>
+      <subject>673935</subject>
+      <object>673936</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1772735</relationship_id>
+      <predicate>has a</predicate>
+      <subject>673935</subject>
+      <object>673939</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>colored</attribute>
+        <attribute>plaid</attribute>
+      </attributes>
+      <h>173</h>
+      <object_id>673935</object_id>
+      <w>185</w>
+      <y>0</y>
+      <x>61</x>
+      <name>bear</name>
+    </object>
+    <object>
+      <name>tag</name>
+      <h>26</h>
+      <object_id>673934</object_id>
+      <w>28</w>
+      <y>120</y>
+      <x>349</x>
+    </object>
+    <object>
+      <name>pile</name>
+      <h>372</h>
+      <object_id>673936</object_id>
+      <w>496</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>paw</name>
+      <h>31</h>
+      <object_id>673939</object_id>
+      <w>32</w>
+      <y>47</y>
+      <x>199</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pile of teddy bears sitting on top of each other.</caption>
+      <caption>A bunch of stuffed animals all stacked together</caption>
+      <caption>many teddy bears with a red ribbon colors are white and brown</caption>
+      <caption>A bunch of teddy bears piled on top of each other.</caption>
+      <caption>A pile of teddy bears wearing bows </caption>
+    </captions>
+</image>

@@ -1,0 +1,137 @@
+<image>
+  <image-id>2407800</image-id>
+  <coco-id>365261</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3225784</relationship_id>
+      <predicate>are eating</predicate>
+      <subject>366442</subject>
+      <object>366443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225785</relationship_id>
+      <predicate>has</predicate>
+      <subject>1095917</subject>
+      <object>1095918</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225786</relationship_id>
+      <predicate>has</predicate>
+      <subject>1095917</subject>
+      <object>1095918</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225787</relationship_id>
+      <predicate>are standing in</predicate>
+      <subject>366442</subject>
+      <object>366443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225788</relationship_id>
+      <predicate>are in</predicate>
+      <subject>366442</subject>
+      <object>366443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>674832</relationship_id>
+      <predicate>eating</predicate>
+      <subject>366442</subject>
+      <object>366443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225789</relationship_id>
+      <predicate>are grazing on</predicate>
+      <subject>366442</subject>
+      <object>366443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>674857</relationship_id>
+      <predicate>eating</predicate>
+      <subject>366442</subject>
+      <object>366443</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3225790</relationship_id>
+      <predicate>are on</predicate>
+      <subject>1095920</subject>
+      <object>1095922</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>fluffy</attribute>
+        <attribute>white</attribute>
+        <attribute>eating</attribute>
+      </attributes>
+      <name>sheep</name>
+      <h>65</h>
+      <object_id>366442</object_id>
+      <w>95</w>
+      <y>227</y>
+      <x>194</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+        <attribute>green</attribute>
+      </attributes>
+      <name>grass</name>
+      <h>88</h>
+      <object_id>366443</object_id>
+      <w>495</w>
+      <y>208</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>79</h>
+      <object_id>1095917</object_id>
+      <w>333</w>
+      <y>110</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>peaked</attribute>
+        <attribute>metallic</attribute>
+        <attribute>gray</attribute>
+      </attributes>
+      <name>roof</name>
+      <h>34</h>
+      <object_id>1095918</object_id>
+      <w>335</w>
+      <y>111</y>
+      <x>0</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>leaves</name>
+      <h>15</h>
+      <object_id>1095920</object_id>
+      <w>15</w>
+      <y>58</y>
+      <x>277</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>long</attribute>
+      </attributes>
+      <name>branch</name>
+      <h>116</h>
+      <object_id>1095922</object_id>
+      <w>240</w>
+      <y>2</y>
+      <x>257</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A group of sheep next to some buildings</caption>
+      <caption>Three sheep are grazing outside of a large house.</caption>
+      <caption>A couple of sheep standing in a grass field.</caption>
+      <caption>Some sheep out in a field near a barn.</caption>
+      <caption>Three sheep grazing in a green pasture next to buildings.</caption>
+    </captions>
+</image>

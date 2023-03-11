@@ -1,0 +1,59 @@
+<image>
+  <image-id>1591941</image-id>
+  <coco-id>194180</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4264438</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3797602</subject>
+      <object>1605406</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4264439</relationship_id>
+      <predicate>coming out of</predicate>
+      <subject>3199391</subject>
+      <object>3797603</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>window</name>
+      <h>180</h>
+      <object_id>3797602</object_id>
+      <w>72</w>
+      <y>424</y>
+      <x>247</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>345</h>
+      <object_id>1605406</object_id>
+      <w>348</w>
+      <y>296</y>
+      <x>86</x>
+    </object>
+    <object>
+      <name>lights</name>
+      <h>228</h>
+      <object_id>3199391</object_id>
+      <w>257</w>
+      <y>287</y>
+      <x>520</x>
+    </object>
+    <object>
+      <name>windows</name>
+      <h>189</h>
+      <object_id>3797603</object_id>
+      <w>76</w>
+      <y>268</y>
+      <x>515</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Night scene with clock tower and buildings with lights</caption>
+      <caption>An illuminated clock tower against a city skyline</caption>
+      <caption>A stately clock tower is lit up against the darkness of the city. </caption>
+      <caption>dark skies, and lights in windows of big buildings, in the center a clock tower</caption>
+      <caption>There are two clocks on the sides of the building . </caption>
+    </captions>
+</image>

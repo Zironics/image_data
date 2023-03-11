@@ -1,0 +1,40 @@
+<image>
+  <image-id>2338749</image-id>
+  <coco-id>391410</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4579544</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4046791</subject>
+      <object>4046792</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>flowers</name>
+      <h>46</h>
+      <object_id>4046791</object_id>
+      <w>420</w>
+      <y>289</y>
+      <x>14</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>34</h>
+      <object_id>4046792</object_id>
+      <w>254</w>
+      <y>331</y>
+      <x>143</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A WOODEN BENCH ON THE SIDE WALK ACROSS FROM A RED CAR.</caption>
+      <caption>A lone red car is parked across a park bench.</caption>
+      <caption>A park bench is beside the street opposite a parked car.</caption>
+      <caption>a bench near a city road with a car</caption>
+      <caption>Park bench on the side of the road in front of red car. </caption>
+    </captions>
+</image>

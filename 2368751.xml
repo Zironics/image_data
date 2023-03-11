@@ -1,0 +1,79 @@
+<image>
+  <image-id>2368751</image-id>
+  <coco-id>41247</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1584430</relationship_id>
+      <predicate>on to</predicate>
+      <subject>616267</subject>
+      <object>616268</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4344239</relationship_id>
+      <predicate>with</predicate>
+      <subject>616270</subject>
+      <object>3867213</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1584431</relationship_id>
+      <predicate>OF</predicate>
+      <subject>616274</subject>
+      <object>616267</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>calm</attribute>
+      </attributes>
+      <name>water</name>
+      <h>188</h>
+      <object_id>616267</object_id>
+      <w>492</w>
+      <y>161</y>
+      <x>5</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>wet</attribute>
+      </attributes>
+      <name>sand</name>
+      <h>17</h>
+      <object_id>616268</object_id>
+      <w>495</w>
+      <y>350</y>
+      <x>4</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>14</h>
+      <object_id>616270</object_id>
+      <w>17</w>
+      <y>191</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>surfboard</name>
+      <h>18</h>
+      <object_id>3867213</object_id>
+      <w>14</w>
+      <y>189</y>
+      <x>347</x>
+    </object>
+    <object>
+      <name>people</name>
+      <h>55</h>
+      <object_id>616274</object_id>
+      <w>471</w>
+      <y>159</y>
+      <x>6</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>people enjoy swimming in the waves of the ocean on a sunny day at the beach.</caption>
+      <caption>People at the beach playing in the waves.</caption>
+      <caption>many surfers looking for waves on a sunny day</caption>
+      <caption>Several people swim in the ocean at a beach.</caption>
+      <caption>Ocean view of surfers waiting for a wave.</caption>
+    </captions>
+</image>

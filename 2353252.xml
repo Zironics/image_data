@@ -1,0 +1,54 @@
+<image>
+  <image-id>2353252</image-id>
+  <coco-id>565117</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4574293</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4033982</subject>
+      <object>4329181</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4693255</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4329180</subject>
+      <object>4329181</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>sprinkles</name>
+      <h>122</h>
+      <object_id>4033982</object_id>
+      <w>194</w>
+      <y>198</y>
+      <x>151</x>
+    </object>
+    <object>
+      <h>315</h>
+      <object_id>4329181</object_id>
+      <w>500</w>
+      <y>2</y>
+      <x>0</x>
+      <name>pancake</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>chocolate</attribute>
+      </attributes>
+      <name>shavings</name>
+      <h>19</h>
+      <object_id>4329180</object_id>
+      <w>65</w>
+      <y>38</y>
+      <x>101</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A double layer cake sitting on top of a plate.</caption>
+      <caption>Desert with chocolate and candy star sprinkles on it.</caption>
+      <caption>A cake has chocolate frosting and confetti stars on it.</caption>
+      <caption>The donut has is glazed and has sprinkles inside of it. </caption>
+      <caption>A close up view of a cake with sprinkles.</caption>
+    </captions>
+</image>

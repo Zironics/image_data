@@ -1,0 +1,101 @@
+<image>
+  <image-id>2335036</image-id>
+  <coco-id>53465</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3989666</relationship_id>
+      <predicate>wears</predicate>
+      <subject>2289298</subject>
+      <object>2289299</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3989667</relationship_id>
+      <predicate>sits at</predicate>
+      <subject>2289298</subject>
+      <object>2289300</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3989670</relationship_id>
+      <predicate>has</predicate>
+      <subject>2237389</subject>
+      <object>2237388</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3982564</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3080366</subject>
+      <object>3669565</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>person</name>
+      <h>77</h>
+      <object_id>2289298</object_id>
+      <w>237</w>
+      <y>0</y>
+      <x>112</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>top</name>
+      <h>76</h>
+      <object_id>2289299</object_id>
+      <w>239</w>
+      <y>0</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>table</name>
+      <h>297</h>
+      <object_id>2289300</object_id>
+      <w>497</w>
+      <y>34</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>plate</name>
+      <h>55</h>
+      <object_id>2237389</object_id>
+      <w>55</w>
+      <y>5</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>utensils</name>
+      <h>50</h>
+      <object_id>2237388</object_id>
+      <w>32</w>
+      <y>5</y>
+      <x>0</x>
+    </object>
+    <object>
+      <name>pancakes</name>
+      <h>69</h>
+      <object_id>3080366</object_id>
+      <w>130</w>
+      <y>54</y>
+      <x>9</x>
+    </object>
+    <object>
+      <name>baking dish</name>
+      <h>154</h>
+      <object_id>3669565</object_id>
+      <w>151</w>
+      <y>50</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A large pink frosted cake sitting next to cups of coffee.</caption>
+      <caption>A welcome cake sitting on a table surrounded by cups and other dishes.</caption>
+      <caption>The cake is sitting on top of a silver dish.</caption>
+      <caption>A cluttered countertop with a celebratory pink and white cake and opened containers</caption>
+      <caption>A cake welcoming someone sitting amist dishes and breads on a table.</caption>
+    </captions>
+</image>

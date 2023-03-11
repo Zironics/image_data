@@ -1,0 +1,120 @@
+<image>
+  <image-id>2390413</image-id>
+  <coco-id>233245</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1161042</relationship_id>
+      <predicate>has</predicate>
+      <subject>497752</subject>
+      <object>497762</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1161043</relationship_id>
+      <predicate>has</predicate>
+      <subject>497752</subject>
+      <object>497765</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1161044</relationship_id>
+      <predicate>in front of</predicate>
+      <subject>497766</subject>
+      <object>497760</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1161045</relationship_id>
+      <predicate>securing</predicate>
+      <subject>497760</subject>
+      <object>497768</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1161046</relationship_id>
+      <predicate>has</predicate>
+      <subject>497752</subject>
+      <object>497765</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1161047</relationship_id>
+      <predicate>with</predicate>
+      <subject>497766</subject>
+      <object>497766</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1161048</relationship_id>
+      <predicate>with</predicate>
+      <subject>497766</subject>
+      <object>497766</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+        <attribute>brown</attribute>
+        <attribute>white</attribute>
+        <attribute>spotted</attribute>
+        <attribute>looking backward</attribute>
+        <attribute>tan</attribute>
+        <attribute>contained</attribute>
+        <attribute>standing alone</attribute>
+        <attribute>standing on ground</attribute>
+        <attribute>looking to side</attribute>
+      </attributes>
+      <name>giraffe</name>
+      <h>243</h>
+      <object_id>497752</object_id>
+      <w>175</w>
+      <y>59</y>
+      <x>111</x>
+    </object>
+    <object>
+      <name>long tail</name>
+      <h>120</h>
+      <object_id>497762</object_id>
+      <w>15</w>
+      <y>149</y>
+      <x>272</x>
+    </object>
+    <object>
+      <name>long legs</name>
+      <h>138</h>
+      <object_id>497765</object_id>
+      <w>119</w>
+      <y>168</y>
+      <x>160</x>
+    </object>
+    <object>
+      <name>bushes</name>
+      <h>69</h>
+      <object_id>497766</object_id>
+      <w>498</w>
+      <y>198</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>tall</attribute>
+      </attributes>
+      <name>fencing</name>
+      <h>54</h>
+      <object_id>497760</object_id>
+      <w>494</w>
+      <y>149</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>giraffe's habitat</name>
+      <h>372</h>
+      <object_id>497768</object_id>
+      <w>499</w>
+      <y>1</y>
+      <x>1</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A giraffe standing in a lush green field.</caption>
+      <caption>A giraffe standing in the grass in an enclosure</caption>
+      <caption>A giraffe standing and looking back with his head</caption>
+      <caption>A giraffe in a field looking behind back.</caption>
+      <caption>A giraffe in a green field turns its head around and looks behind itself.</caption>
+    </captions>
+</image>

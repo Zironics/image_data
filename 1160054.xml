@@ -1,0 +1,40 @@
+<image>
+  <image-id>1160054</image-id>
+  <coco-id>19428</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4679640</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4294394</subject>
+      <object>4294395</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>141</h>
+      <object_id>4294394</object_id>
+      <w>126</w>
+      <y>235</y>
+      <x>471</x>
+    </object>
+    <object>
+      <name>bathtub</name>
+      <h>175</h>
+      <object_id>4294395</object_id>
+      <w>316</w>
+      <y>309</y>
+      <x>303</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A bathroom with a chair in the bathtub.</caption>
+      <caption>a all white bathroom with blue tape on the walls </caption>
+      <caption>a bath room with a toilet a sink and a mirror</caption>
+      <caption>White bathroom with bathtub, toilet and sink with tiled floor.</caption>
+      <caption>A nice rest room with a chair sitting in the tub.</caption>
+    </captions>
+</image>

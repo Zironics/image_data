@@ -1,0 +1,51 @@
+<image>
+  <image-id>2337199</image-id>
+  <coco-id>237510</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4082032</relationship_id>
+      <predicate>grazing on</predicate>
+      <subject>3051014</subject>
+      <object>3051016</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4082033</relationship_id>
+      <predicate>grazing on</predicate>
+      <subject>3051015</subject>
+      <object>3051016</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>zebra</name>
+      <h>222</h>
+      <object_id>3051014</object_id>
+      <w>285</w>
+      <y>58</y>
+      <x>39</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>20</h>
+      <object_id>3051016</object_id>
+      <w>212</w>
+      <y>256</y>
+      <x>277</x>
+    </object>
+    <object>
+      <name>zebra</name>
+      <h>223</h>
+      <object_id>3051015</object_id>
+      <w>147</w>
+      <y>52</y>
+      <x>320</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pair of zebras sniff at the ground underneath them.</caption>
+      <caption>Two zebras grazing in a walled in dirt covered are scattered with hay.</caption>
+      <caption>two zebras with their heads down in their pen</caption>
+      <caption>Two zebras bent over looking on the ground .</caption>
+      <caption>Two zebras are eating grass off the ground</caption>
+    </captions>
+</image>

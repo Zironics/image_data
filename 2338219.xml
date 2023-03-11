@@ -1,0 +1,62 @@
+<image>
+  <image-id>2338219</image-id>
+  <coco-id>350518</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4120680</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3280555</subject>
+      <object>2352800</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4065752</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2656411</subject>
+      <object>2656412</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>sitted</attribute>
+      </attributes>
+      <name>person</name>
+      <h>232</h>
+      <object_id>3280555</object_id>
+      <w>312</w>
+      <y>57</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>glasses</name>
+      <h>17</h>
+      <object_id>2352800</object_id>
+      <w>44</w>
+      <y>134</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>13</h>
+      <object_id>2656411</object_id>
+      <w>25</w>
+      <y>215</y>
+      <x>218</x>
+    </object>
+    <object>
+      <name>glove</name>
+      <h>60</h>
+      <object_id>2656412</object_id>
+      <w>44</w>
+      <y>200</y>
+      <x>205</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A person sitting on the ground while snowboarding.</caption>
+      <caption>A man on a snowboard is sitting in the snow</caption>
+      <caption>A person sits in the snow with a snow board on.</caption>
+      <caption>Man sitting in snow while adjusting boots and snowboard.</caption>
+      <caption>A snowboarder ties his shoe with his gloves on</caption>
+    </captions>
+</image>

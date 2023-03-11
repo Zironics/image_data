@@ -1,0 +1,37 @@
+<image>
+  <image-id>2386526</image-id>
+  <coco-id>26398</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3517268</relationship_id>
+      <predicate>flying in</predicate>
+      <subject>1285177</subject>
+      <object>1285178</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>bird</name>
+      <h>49</h>
+      <object_id>1285177</object_id>
+      <w>60</w>
+      <y>136</y>
+      <x>33</x>
+    </object>
+    <object>
+      <name>air</name>
+      <h>49</h>
+      <object_id>1285178</object_id>
+      <w>62</w>
+      <y>143</y>
+      <x>217</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A pizza box with slices of pizza on it.</caption>
+      <caption>An open box with missing slices of pizza.</caption>
+      <caption>Three slices of pizza in a box with a DVD next to it.</caption>
+      <caption>Three pieces of pizza are in a box next to a DVD.</caption>
+      <caption>Slices of pizza in a box next to a DVD movie.</caption>
+    </captions>
+</image>

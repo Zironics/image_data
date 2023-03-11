@@ -1,0 +1,40 @@
+<image>
+  <image-id>2339999</image-id>
+  <coco-id>125513</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4799903</relationship_id>
+      <predicate>wearing</predicate>
+      <subject>4598227</subject>
+      <object>4598228</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>man</name>
+      <h>26</h>
+      <object_id>4598227</object_id>
+      <w>10</w>
+      <y>173</y>
+      <x>29</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>13</h>
+      <object_id>4598228</object_id>
+      <w>15</w>
+      <y>175</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>There is a multi colored train pulling into a station.</caption>
+      <caption>A yellow train traveling along the railroad tracks.</caption>
+      <caption>A train with a yellow front is on the railroad tracks.</caption>
+      <caption>A picture of a train going on the train tracks.</caption>
+      <caption>A train is rounding the train tracks at a station.</caption>
+    </captions>
+</image>

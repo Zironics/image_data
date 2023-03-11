@@ -1,0 +1,102 @@
+<image>
+  <image-id>2329512</image-id>
+  <coco-id>21151</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4468672</relationship_id>
+      <predicate>with</predicate>
+      <subject>3505804</subject>
+      <object>3935111</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4468673</relationship_id>
+      <predicate>IN A</predicate>
+      <subject>3505804</subject>
+      <object>3087252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4016048</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3505804</subject>
+      <object>3087252</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3648694</relationship_id>
+      <predicate>posing on</predicate>
+      <subject>3505804</subject>
+      <object>3528283</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4468674</relationship_id>
+      <predicate>crossing her</predicate>
+      <subject>3505804</subject>
+      <object>3333203</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4468675</relationship_id>
+      <predicate>crossing her</predicate>
+      <subject>3505804</subject>
+      <object>3333204</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>447</h>
+      <object_id>3505804</object_id>
+      <w>241</w>
+      <y>52</y>
+      <x>28</x>
+      <name>woman</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>BLOND</attribute>
+      </attributes>
+      <name>hair</name>
+      <h>64</h>
+      <object_id>3935111</object_id>
+      <w>95</w>
+      <y>47</y>
+      <x>151</x>
+    </object>
+    <object>
+      <h>366</h>
+      <object_id>3087252</object_id>
+      <w>201</w>
+      <y>133</y>
+      <x>68</x>
+      <name>black suit</name>
+    </object>
+    <object>
+      <name>motocycle</name>
+      <h>188</h>
+      <object_id>3528283</object_id>
+      <w>366</w>
+      <y>309</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>179</h>
+      <object_id>3333203</object_id>
+      <w>87</w>
+      <y>156</y>
+      <x>140</x>
+    </object>
+    <object>
+      <name>arm</name>
+      <h>173</h>
+      <object_id>3333204</object_id>
+      <w>198</w>
+      <y>188</y>
+      <x>66</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A sexy woman is sitting on a red motorcycle.</caption>
+      <caption>Sexy lady posing on top of a motorcycle</caption>
+      <caption>A woman in black leather racing gear on a red motorcycle.</caption>
+      <caption>A woman sits on top of a motorcycle.</caption>
+      <caption>A woman in a skin-tight suit on a motorcycle</caption>
+    </captions>
+</image>

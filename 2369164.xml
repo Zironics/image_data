@@ -1,0 +1,54 @@
+<image>
+  <image-id>2369164</image-id>
+  <coco-id>269945</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4339233</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3864871</subject>
+      <object>3864872</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4339234</relationship_id>
+      <predicate>outside</predicate>
+      <subject>2314842</subject>
+      <object>3864872</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>shade</name>
+      <h>90</h>
+      <object_id>3864871</object_id>
+      <w>165</w>
+      <y>72</y>
+      <x>1</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>322</h>
+      <object_id>3864872</object_id>
+      <w>330</w>
+      <y>25</y>
+      <x>1</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>green</attribute>
+      </attributes>
+      <name>greengrass</name>
+      <h>33</h>
+      <object_id>2314842</object_id>
+      <w>45</w>
+      <y>361</y>
+      <x>300</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Adults standing under covered area during outdoor festivity.</caption>
+      <caption>A fire hydrant by a fake wall in front of a tent full of firemen.</caption>
+      <caption>The fire fighters are having some kind of party.</caption>
+      <caption>A very cute fire hydrant and a brick wall by a tent.</caption>
+      <caption>A booth for or by firefighters at a fair.</caption>
+    </captions>
+</image>

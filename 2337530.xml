@@ -1,0 +1,60 @@
+<image>
+  <image-id>2337530</image-id>
+  <coco-id>121101</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4461816</relationship_id>
+      <predicate>holding</predicate>
+      <subject>2248528</subject>
+      <object>2248529</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3763887</relationship_id>
+      <predicate>holding on to</predicate>
+      <subject>2462421</subject>
+      <object>2462422</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>string</name>
+      <h>109</h>
+      <object_id>2248528</object_id>
+      <w>30</w>
+      <y>110</y>
+      <x>128</x>
+    </object>
+    <object>
+      <name>scissors</name>
+      <h>74</h>
+      <object_id>2248529</object_id>
+      <w>51</w>
+      <y>217</y>
+      <x>119</x>
+    </object>
+    <object>
+      <name>tape</name>
+      <h>32</h>
+      <object_id>2462421</object_id>
+      <w>23</w>
+      <y>123</y>
+      <x>18</x>
+    </object>
+    <object>
+      <name>scissors</name>
+      <h>67</h>
+      <object_id>2462422</object_id>
+      <w>42</w>
+      <y>200</y>
+      <x>27</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A painting hovering above a pair of scissors on a table.</caption>
+      <caption>
+Couple of scissors hanging from painting frame as part of art</caption>
+      <caption>Several canvases display paintings and one with scissors.</caption>
+      <caption>A picture frame with 2 pairs of scissors dangling from top and a painting sitting in front of the frame</caption>
+      <caption>some red scissors a few paintings and a canvas</caption>
+    </captions>
+</image>

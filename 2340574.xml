@@ -1,0 +1,76 @@
+<image>
+  <image-id>2340574</image-id>
+  <coco-id>26953</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4661692</relationship_id>
+      <predicate>has a</predicate>
+      <subject>4249454</subject>
+      <object>4249415</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4661706</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4249453</subject>
+      <object>4249454</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4608575</relationship_id>
+      <predicate>ON</predicate>
+      <subject>4116325</subject>
+      <object>4116326</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>59</h>
+      <object_id>4249454</object_id>
+      <w>36</w>
+      <y>163</y>
+      <x>192</x>
+      <name>bike</name>
+    </object>
+    <object>
+      <name>light</name>
+      <h>10</h>
+      <object_id>4249415</object_id>
+      <w>11</w>
+      <y>186</y>
+      <x>202</x>
+    </object>
+    <object>
+      <name>man</name>
+      <h>40</h>
+      <object_id>4249453</object_id>
+      <w>26</w>
+      <y>153</y>
+      <x>204</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white </attribute>
+      </attributes>
+      <name>sign</name>
+      <h>76</h>
+      <object_id>4116325</object_id>
+      <w>90</w>
+      <y>6</y>
+      <x>401</x>
+    </object>
+    <object>
+      <name>pole</name>
+      <h>235</h>
+      <object_id>4116326</object_id>
+      <w>10</w>
+      <y>83</y>
+      <x>487</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A throng of bikers lined up around the curve of a road </caption>
+      <caption>Several motorcycles come around the bend in the road.</caption>
+      <caption>A group of motorcycles coming down the highway.</caption>
+      <caption>a road a group of motorcycle riders some hills and trees</caption>
+      <caption>Numerous motorcycle riders are rounding the bend of a curve in the road.</caption>
+    </captions>
+</image>

@@ -1,0 +1,109 @@
+<image>
+  <image-id>2350145</image-id>
+  <coco-id>473370</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3802495</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1811613</subject>
+      <object>1811614</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3802496</relationship_id>
+      <predicate>IN</predicate>
+      <subject>2450710</subject>
+      <object>2650338</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3802497</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1668322</subject>
+      <object>2450710</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3802498</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1811613</subject>
+      <object>2540588</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3802499</relationship_id>
+      <predicate>IN</predicate>
+      <subject>1862787</subject>
+      <object>1862788</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>woman</name>
+      <h>52</h>
+      <object_id>1811613</object_id>
+      <w>41</w>
+      <y>136</y>
+      <x>142</x>
+    </object>
+    <object>
+      <name>blue shirt</name>
+      <h>32</h>
+      <object_id>1811614</object_id>
+      <w>35</w>
+      <y>158</y>
+      <x>148</x>
+    </object>
+    <object>
+      <h>354</h>
+      <object_id>2450710</object_id>
+      <w>282</w>
+      <y>0</y>
+      <x>217</x>
+      <name>computer</name>
+    </object>
+    <object>
+      <name>frame</name>
+      <h>205</h>
+      <object_id>2650338</object_id>
+      <w>271</w>
+      <y>1</y>
+      <x>220</x>
+    </object>
+    <object>
+      <name>keyboard</name>
+      <h>47</h>
+      <object_id>1668322</object_id>
+      <w>162</w>
+      <y>197</y>
+      <x>337</x>
+    </object>
+    <object>
+      <name>room</name>
+      <h>153</h>
+      <object_id>2540588</object_id>
+      <w>129</w>
+      <y>47</y>
+      <x>94</x>
+    </object>
+    <object>
+      <name>graduated cynlinder</name>
+      <h>225</h>
+      <object_id>1862787</object_id>
+      <w>88</w>
+      <y>2</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>water</name>
+      <h>169</h>
+      <object_id>1862788</object_id>
+      <w>90</w>
+      <y>52</y>
+      <x>2</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A laptop on a desk in a classroom.</caption>
+      <caption>Closeup of a wooden desk with a laptop plugged into a charger.</caption>
+      <caption>a laptop sits on a desk next to some papers </caption>
+      <caption>A laptop,papers and water sitting on a desk.</caption>
+      <caption>A laptop is plugged in with papers next to it.</caption>
+    </captions>
+</image>

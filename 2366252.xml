@@ -1,0 +1,66 @@
+<image>
+  <image-id>2366252</image-id>
+  <coco-id>214394</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4373732</relationship_id>
+      <predicate>ON</predicate>
+      <subject>1861213</subject>
+      <object>2647823</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4373733</relationship_id>
+      <predicate>near</predicate>
+      <subject>2358471</subject>
+      <object>2358472</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+        <attribute>blue</attribute>
+      </attributes>
+      <name>front car</name>
+      <h>96</h>
+      <object_id>1861213</object_id>
+      <w>145</w>
+      <y>97</y>
+      <x>116</x>
+    </object>
+    <object>
+      <name>train</name>
+      <h>110</h>
+      <object_id>2647823</object_id>
+      <w>225</w>
+      <y>100</y>
+      <x>115</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>light brown</attribute>
+      </attributes>
+      <name>pathway</name>
+      <h>160</h>
+      <object_id>2358471</object_id>
+      <w>147</w>
+      <y>170</y>
+      <x>326</x>
+    </object>
+    <object>
+      <name>grass</name>
+      <h>157</h>
+      <object_id>2358472</object_id>
+      <w>138</w>
+      <y>158</y>
+      <x>360</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A train engine and passenger cars are on the tracks.</caption>
+      <caption>Passenger train on a track with buildings and hills in the background</caption>
+      <caption>a long passenger train going down a track next to a short fence</caption>
+      <caption>A train sits on the tracks at an empty train yard</caption>
+      <caption>A large train is pulling up past the station.</caption>
+    </captions>
+</image>

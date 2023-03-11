@@ -1,0 +1,59 @@
+<image>
+  <image-id>2332568</image-id>
+  <coco-id>352681</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3739898</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3223420</subject>
+      <object>3223421</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4463047</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2920328</subject>
+      <object>3932075</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>snow</name>
+      <h>127</h>
+      <object_id>3223420</object_id>
+      <w>439</w>
+      <y>202</y>
+      <x>51</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>153</h>
+      <object_id>3223421</object_id>
+      <w>467</w>
+      <y>163</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>snow</name>
+      <h>75</h>
+      <object_id>2920328</object_id>
+      <w>143</w>
+      <y>242</y>
+      <x>278</x>
+    </object>
+    <object>
+      <name>ground</name>
+      <h>90</h>
+      <object_id>3932075</object_id>
+      <w>496</w>
+      <y>240</y>
+      <x>3</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Group of snowboarders on a snowy trail overlooking a mountain. </caption>
+      <caption>A variety of people skiing on a mountain course. </caption>
+      <caption>Skiers at the base of a mountain, one is fixing bindings.</caption>
+      <caption>A skier has stopped on a slope to adjust his pants.</caption>
+      <caption>A snowboarder and several skiers at the top of a run.</caption>
+    </captions>
+</image>

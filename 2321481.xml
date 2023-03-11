@@ -1,0 +1,90 @@
+<image>
+  <image-id>2321481</image-id>
+  <coco-id>23741</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4539375</relationship_id>
+      <predicate>in a</predicate>
+      <subject>3297348</subject>
+      <object>3427233</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3790031</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3293143</subject>
+      <object>3590120</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3767162</relationship_id>
+      <predicate>WEARING</predicate>
+      <subject>3297348</subject>
+      <object>2790004</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3659288</relationship_id>
+      <predicate>wearing a</predicate>
+      <subject>3297348</subject>
+      <object>3297349</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <h>189</h>
+      <object_id>3297348</object_id>
+      <w>210</w>
+      <y>29</y>
+      <x>188</x>
+      <name>man</name>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>227</h>
+      <object_id>3427233</object_id>
+      <w>408</w>
+      <y>80</y>
+      <x>80</x>
+    </object>
+    <object>
+      <name>bike</name>
+      <h>216</h>
+      <object_id>3293143</object_id>
+      <w>385</w>
+      <y>86</y>
+      <x>110</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>70</h>
+      <object_id>3590120</object_id>
+      <w>481</w>
+      <y>253</y>
+      <x>3</x>
+    </object>
+    <object>
+      <name>helmet</name>
+      <h>81</h>
+      <object_id>2790004</object_id>
+      <w>74</w>
+      <y>21</y>
+      <x>194</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>helmet</name>
+      <h>69</h>
+      <object_id>3297349</object_id>
+      <w>59</w>
+      <y>26</y>
+      <x>200</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The motorcycle is tilting as he turns through a cave. </caption>
+      <caption>a man wearing a helmet while riding a motorcycle </caption>
+      <caption>yellow and red motorcycle with a man riding on it next to grass</caption>
+      <caption>A person on a motorcycle riding around a curve.</caption>
+      <caption>this is a picture of a motorcycle leaning into a corner</caption>
+    </captions>
+</image>

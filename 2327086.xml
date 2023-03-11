@@ -1,0 +1,197 @@
+<image>
+  <image-id>2327086</image-id>
+  <coco-id>47492</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4613818</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4129352</subject>
+      <object>4129337</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4613819</relationship_id>
+      <predicate>has</predicate>
+      <subject>4129337</subject>
+      <object>4129338</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4613821</relationship_id>
+      <predicate>on back of</predicate>
+      <subject>4129342</subject>
+      <object>4129341</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4613822</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>4129343</subject>
+      <object>4129344</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4548885</relationship_id>
+      <predicate>OF</predicate>
+      <subject>4129367</subject>
+      <object>4129337</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4548886</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4129356</subject>
+      <object>4129367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4548887</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3973536</subject>
+      <object>4129367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4548888</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4129354</subject>
+      <object>4129367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4548889</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4129341</subject>
+      <object>4129367</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4548890</relationship_id>
+      <predicate>IN</predicate>
+      <subject>3973539</subject>
+      <object>4129367</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>in back of vehicle</attribute>
+      </attributes>
+      <name>luggage</name>
+      <h>264</h>
+      <object_id>4129352</object_id>
+      <w>465</w>
+      <y>73</y>
+      <x>17</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>370</h>
+      <object_id>4129337</object_id>
+      <w>495</w>
+      <y>0</y>
+      <x>2</x>
+    </object>
+    <object>
+      <name>driver seat</name>
+      <h>60</h>
+      <object_id>4129338</object_id>
+      <w>78</w>
+      <y>35</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>design</name>
+      <h>26</h>
+      <object_id>4129342</object_id>
+      <w>20</w>
+      <y>149</y>
+      <x>56</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>brown</attribute>
+      </attributes>
+      <name>backpack</name>
+      <h>144</h>
+      <object_id>4129341</object_id>
+      <w>157</w>
+      <y>63</y>
+      <x>18</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>silver</attribute>
+        <attribute>metal</attribute>
+      </attributes>
+      <name>rivet</name>
+      <h>9</h>
+      <object_id>4129343</object_id>
+      <w>5</w>
+      <y>162</y>
+      <x>438</x>
+    </object>
+    <object>
+      <name>luggage</name>
+      <h>190</h>
+      <object_id>4129344</object_id>
+      <w>133</w>
+      <y>91</y>
+      <x>347</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>packed with traveling suit cases</attribute>
+        <attribute>a mini vans</attribute>
+      </attributes>
+      <h>375</h>
+      <object_id>4129367</object_id>
+      <w>487</w>
+      <y>0</y>
+      <x>1</x>
+      <name>cargo area</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in van</attribute>
+      </attributes>
+      <h>188</h>
+      <object_id>4129356</object_id>
+      <w>132</w>
+      <y>90</y>
+      <x>351</x>
+      <name>luggage piece</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>traveling</attribute>
+      </attributes>
+      <name>suitcase</name>
+      <h>170</h>
+      <object_id>3973536</object_id>
+      <w>117</w>
+      <y>155</y>
+      <x>284</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>in van</attribute>
+      </attributes>
+      <h>151</h>
+      <object_id>4129354</object_id>
+      <w>232</w>
+      <y>180</y>
+      <x>81</x>
+      <name>luggage piece</name>
+    </object>
+    <object>
+      <attributes>
+        <attribute>traveling</attribute>
+      </attributes>
+      <name>suitcase</name>
+      <h>102</h>
+      <object_id>3973539</object_id>
+      <w>113</w>
+      <y>94</y>
+      <x>181</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The back of the car is packed with suitcases.</caption>
+      <caption>The back of a car is packed with different kinds of luggage.</caption>
+      <caption>The back of a vehicle with many luggage pieces in it.</caption>
+      <caption>A van packed and ready to take its family on vacation.</caption>
+      <caption>a car trunk full of assorted luggage </caption>
+    </captions>
+</image>

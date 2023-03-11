@@ -1,0 +1,93 @@
+<image>
+  <image-id>2408767</image-id>
+  <coco-id>289870</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>283959</relationship_id>
+      <predicate>ON</predicate>
+      <subject>255531</subject>
+      <object>255532</object>
+    </relationship>
+    <relationship>
+      <relationship_id>283960</relationship_id>
+      <predicate>ON</predicate>
+      <subject>255531</subject>
+      <object>255533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>283961</relationship_id>
+      <predicate>holds</predicate>
+      <subject>255531</subject>
+      <object>255533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>283962</relationship_id>
+      <predicate>ON</predicate>
+      <subject>255531</subject>
+      <object>255533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>283963</relationship_id>
+      <predicate>OF</predicate>
+      <subject>255531</subject>
+      <object>255533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>283964</relationship_id>
+      <predicate>OF</predicate>
+      <subject>255531</subject>
+      <object>255533</object>
+    </relationship>
+    <relationship>
+      <relationship_id>283965</relationship_id>
+      <predicate>wears</predicate>
+      <subject>255531</subject>
+      <object>255532</object>
+    </relationship>
+    <relationship>
+      <relationship_id>283966</relationship_id>
+      <predicate>ON</predicate>
+      <subject>255531</subject>
+      <object>255533</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>stadin</attribute>
+      </attributes>
+      <name>man</name>
+      <h>46</h>
+      <object_id>255531</object_id>
+      <w>35</w>
+      <y>222</y>
+      <x>38</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>shirt</name>
+      <h>16</h>
+      <object_id>255532</object_id>
+      <w>29</w>
+      <y>223</y>
+      <x>46</x>
+    </object>
+    <object>
+      <name>phone</name>
+      <h>14</h>
+      <object_id>255533</object_id>
+      <w>12</w>
+      <y>219</y>
+      <x>61</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The freight train is speeding through the crossing.</caption>
+      <caption>a train that is on a train track by a station</caption>
+      <caption>A person standing on the side of a train traveling down tracks.</caption>
+      <caption>a person in a red shirt and a train and some wires</caption>
+      <caption>a train going down the tracks full speed.</caption>
+    </captions>
+</image>

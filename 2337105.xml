@@ -1,0 +1,93 @@
+<image>
+  <image-id>2337105</image-id>
+  <coco-id>375093</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4260052</relationship_id>
+      <predicate>on a</predicate>
+      <subject>3795176</subject>
+      <object>2090948</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3974130</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2620812</subject>
+      <object>2620813</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4260053</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3534174</subject>
+      <object>3795178</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>jacket</name>
+      <h>221</h>
+      <object_id>3795176</object_id>
+      <w>181</w>
+      <y>110</y>
+      <x>315</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>red</attribute>
+      </attributes>
+      <name>chair</name>
+      <h>212</h>
+      <object_id>2090948</object_id>
+      <w>201</w>
+      <y>118</y>
+      <x>283</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>black key</name>
+      <h>2</h>
+      <object_id>2620812</object_id>
+      <w>12</w>
+      <y>115</y>
+      <x>207</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>105</h>
+      <object_id>2620813</object_id>
+      <w>147</w>
+      <y>23</y>
+      <x>153</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>black</attribute>
+      </attributes>
+      <name>key</name>
+      <h>4</h>
+      <object_id>3534174</object_id>
+      <w>5</w>
+      <y>109</y>
+      <x>209</x>
+    </object>
+    <object>
+      <name>computer</name>
+      <h>96</h>
+      <object_id>3795178</object_id>
+      <w>125</w>
+      <y>35</y>
+      <x>155</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>Two computers and a printer sitting on a desk.</caption>
+      <caption>A table topped with two laptop computers and printers.</caption>
+      <caption>A jacket on a chair by some laptops.</caption>
+      <caption>A makshift office that was set up on a table.</caption>
+      <caption>a well made table with two laptops on it</caption>
+    </captions>
+</image>

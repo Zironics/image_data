@@ -1,0 +1,93 @@
+<image>
+  <image-id>2377318</image-id>
+  <coco-id>259986</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>1406783</relationship_id>
+      <predicate>ON</predicate>
+      <subject>566407</subject>
+      <object>566406</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1406784</relationship_id>
+      <predicate>with</predicate>
+      <subject>566409</subject>
+      <object>566410</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1406785</relationship_id>
+      <predicate>ON</predicate>
+      <subject>566415</subject>
+      <object>566406</object>
+    </relationship>
+    <relationship>
+      <relationship_id>1406786</relationship_id>
+      <predicate>ON</predicate>
+      <subject>566416</subject>
+      <object>566406</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>plaques</name>
+      <h>64</h>
+      <object_id>566407</object_id>
+      <w>85</w>
+      <y>2</y>
+      <x>75</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>picture</attribute>
+      </attributes>
+      <name>wall</name>
+      <h>42</h>
+      <object_id>566406</object_id>
+      <w>94</w>
+      <y>4</y>
+      <x>50</x>
+    </object>
+    <object>
+      <name>figurine</name>
+      <h>44</h>
+      <object_id>566409</object_id>
+      <w>46</w>
+      <y>101</y>
+      <x>66</x>
+    </object>
+    <object>
+      <name>hat</name>
+      <h>80</h>
+      <object_id>566410</object_id>
+      <w>56</w>
+      <y>101</y>
+      <x>72</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>white</attribute>
+      </attributes>
+      <name>card</name>
+      <h>27</h>
+      <object_id>566415</object_id>
+      <w>86</w>
+      <y>34</y>
+      <x>61</x>
+    </object>
+    <object>
+      <name>painting</name>
+      <h>41</h>
+      <object_id>566416</object_id>
+      <w>56</w>
+      <y>4</y>
+      <x>80</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A display case with several stuffed animals and dolls.</caption>
+      <caption>A display case filled with dolls on top of a blue background.</caption>
+      <caption>some dolls are set in a display case with tags</caption>
+      <caption>Glass case with vintage toys held inside it</caption>
+      <caption>a number of toys behind a display glass </caption>
+    </captions>
+</image>

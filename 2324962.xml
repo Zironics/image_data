@@ -1,0 +1,73 @@
+<image>
+  <image-id>2324962</image-id>
+  <coco-id>293271</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4486597</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2892857</subject>
+      <object>2892859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4486598</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2892858</subject>
+      <object>2892859</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4486599</relationship_id>
+      <predicate>ON</predicate>
+      <subject>3258172</subject>
+      <object>3258171</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>car</name>
+      <h>19</h>
+      <object_id>2892857</object_id>
+      <w>20</w>
+      <y>304</y>
+      <x>309</x>
+    </object>
+    <object>
+      <name>road</name>
+      <h>103</h>
+      <object_id>2892859</object_id>
+      <w>210</w>
+      <y>311</y>
+      <x>107</x>
+    </object>
+    <object>
+      <name>car</name>
+      <h>15</h>
+      <object_id>2892858</object_id>
+      <w>18</w>
+      <y>309</y>
+      <x>255</x>
+    </object>
+    <object>
+      <name>back</name>
+      <h>20</h>
+      <object_id>3258172</object_id>
+      <w>21</w>
+      <y>286</y>
+      <x>90</x>
+    </object>
+    <object>
+      <name>stop sign</name>
+      <h>351</h>
+      <object_id>3258171</object_id>
+      <w>101</w>
+      <y>119</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A child stands near a neighborhood stop sign at the intersection.</caption>
+      <caption>A red stop sign sitting on top of a metal pole.</caption>
+      <caption>A stop sign at an intersection with houses in the distance.</caption>
+      <caption>Little boy with a blue shirt near a stop sign</caption>
+      <caption>A stop sign is standing on the side of the road in front of houses. </caption>
+    </captions>
+</image>

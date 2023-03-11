@@ -1,0 +1,59 @@
+<image>
+  <image-id>2332621</image-id>
+  <coco-id>433504</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>3997536</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2803836</subject>
+      <object>2803841</object>
+    </relationship>
+    <relationship>
+      <relationship_id>3997537</relationship_id>
+      <predicate>ON</predicate>
+      <subject>2803837</subject>
+      <object>2803842</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <name>item</name>
+      <h>45</h>
+      <object_id>2803836</object_id>
+      <w>16</w>
+      <y>107</y>
+      <x>215</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>12</h>
+      <object_id>2803841</object_id>
+      <w>127</w>
+      <y>73</y>
+      <x>151</x>
+    </object>
+    <object>
+      <name>item</name>
+      <h>44</h>
+      <object_id>2803837</object_id>
+      <w>51</w>
+      <y>103</y>
+      <x>164</x>
+    </object>
+    <object>
+      <name>shelf</name>
+      <h>9</h>
+      <object_id>2803842</object_id>
+      <w>150</w>
+      <y>146</y>
+      <x>152</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>The view of a room with several different utensils displayed on shelves.</caption>
+      <caption>A kitchen scene taken from a hallway looking at the table.</caption>
+      <caption>The wall has a couple of shelves on it.</caption>
+      <caption>A black and white photo of a room in a house.</caption>
+      <caption>We are looking through a door at a will with shelves.</caption>
+    </captions>
+</image>

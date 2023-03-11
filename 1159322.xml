@@ -1,0 +1,87 @@
+<image>
+  <image-id>1159322</image-id>
+  <coco-id>268067</coco-id>
+  <relationships>
+    <relationship>
+      <relationship_id>4677125</relationship_id>
+      <predicate>IN</predicate>
+      <subject>4288316</subject>
+      <object>4288317</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4598457</relationship_id>
+      <predicate>on side of</predicate>
+      <subject>4091927</subject>
+      <object>4091928</object>
+    </relationship>
+    <relationship>
+      <relationship_id>4615087</relationship_id>
+      <predicate>containing</predicate>
+      <subject>4132656</subject>
+      <object>4132657</object>
+    </relationship>
+  </relationships>
+  <objects>
+    <object>
+      <attributes>
+        <attribute>small size</attribute>
+      </attributes>
+      <name>stove</name>
+      <h>322</h>
+      <object_id>4288316</object_id>
+      <w>178</w>
+      <y>332</y>
+      <x>637</x>
+    </object>
+    <object>
+      <name>kitchen</name>
+      <h>727</h>
+      <object_id>4288317</object_id>
+      <w>999</w>
+      <y>0</y>
+      <x>23</x>
+    </object>
+    <object>
+      <name>wall</name>
+      <h>361</h>
+      <object_id>4091927</object_id>
+      <w>182</w>
+      <y>6</y>
+      <x>263</x>
+    </object>
+    <object>
+      <name>building</name>
+      <h>713</h>
+      <object_id>4091928</object_id>
+      <w>532</w>
+      <y>6</y>
+      <x>8</x>
+    </object>
+    <object>
+      <attributes>
+        <attribute>plastic</attribute>
+      </attributes>
+      <name>bottle</name>
+      <h>65</h>
+      <object_id>4132656</object_id>
+      <w>39</w>
+      <y>376</y>
+      <x>104</x>
+    </object>
+    <object>
+      <name>dish soap</name>
+      <h>33</h>
+      <object_id>4132657</object_id>
+      <w>33</w>
+      <y>400</y>
+      <x>109</x>
+    </object>
+  </objects>
+  <captions type="train">
+    <caption>A kitchen with a stove top oven next to a washer.</caption>
+      <caption>A light wood kitchen with a washer and dryer and oven.</caption>
+      <caption>Home kitchen with beige tile and wood cabinets.</caption>
+      <caption>Neat and tidy kitchen area with white appliances and brown cabinets</caption>
+      <caption>A view of a kitchen with white appliances. </caption>
+    </captions>
+</image>
